@@ -1,2 +1,9 @@
 # thesis-TLU
-Đồ án tốt nghiệp Lê Công Minh
+Đồ án tốt nghiệp này được thực hiện bởi Lê Công Minh-61TH3<br>
+**Nội dung gồm 2 phần**<br>
+-Phương pháp Lifelong ML<br>
+-Bài toán xác định ý định mua bán<br>
+Chi tiết được trình bày chi tiết trong file docx.<br>
+**Thông tin liên hệ**<br>
+SDT: 0365829001<br>
+email: congminhth3@gmail.com<br>
