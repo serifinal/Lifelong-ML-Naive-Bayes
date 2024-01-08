@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>DSLR advice</Title>
+		<Username>Phillip</Username>
+		<Datetime>10-09-2007, 12:22 AM</Datetime>
+		<Content>Im not buying one right now but I'd like to in the relatively near future. Basically I'm new to the DSLR scene so I need to know basically everything. what should I get as first time DSLR what lenses should I start with are there any particular models I should avoid thanks in advance for all the help Fry</Content>
+	</Post>
+</Thread>

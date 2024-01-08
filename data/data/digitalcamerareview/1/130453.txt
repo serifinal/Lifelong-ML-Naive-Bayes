@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Battery and charger for Canon SX100 IS</Title>
+		<Username>cooler2005</Username>
+		<Datetime>07-04-2009, 01:19 AM</Datetime>
+		<Content>Hi... i am loking forward to buy a battery and a charger for my Canon SX100 IS.....can u tell me what battery and charger brand is good enough?? and what MAH capacity should i buy?? Thanks..</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>gt30 fan noise</Title>
+		<Username>bamby5582</Username>
+		<Datetime>06-08-2011, 11:10 AM</Datetime>
+		<Content>hello had my 42gt30 for 4 weeks now and it as been great no fan noise at all until last night all i can here is the fan makeing a noise and a buzzing noise too all from the right side of the tv is this a fault or will it go away in time as it is driveing me mad when i am watching tv cheers lee</Content>
+	</Post>
+</Thread>

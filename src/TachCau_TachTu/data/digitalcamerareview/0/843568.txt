@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Question about SD790 video mode</Title>
+		<Username>tpcollins</Username>
+		<Datetime>03-30-2009, 01:03 PM</Datetime>
+		<Content>I really like the LCD screen on the Canon SD790 IC but one of the cons listed in camera reviews is the zoom feature does not work in movie video mode. I saw one in person this morning but the saleman wasn't much help. It had no SD card in it but on video mode I was still able to zoom in and out. The saleman took it and when he hit record (would record w/o card), the zoom didn't work. So I asked him could I zoom in and out and THEN video at that power setting or would it default back to the distance setting and record at that level only? He didn't know, can someone help me on this? Thanks.</Content>
+	</Post>
+</Thread>

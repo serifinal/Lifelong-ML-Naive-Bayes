@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fido iphone4 32g $800 obo BNIB</Title>
+		<Username>gladman</Username>
+		<Datetime>10-06-2010 11:21 AM</Datetime>
+		<Content>never opened, Toronto area. Sent from my HTC Desire using Tapatalk</Content>
+	</Post>
+</Thread>

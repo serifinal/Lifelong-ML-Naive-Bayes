@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer 6090 making cracking noises</Title>
+		<Username>pannyfanny</Username>
+		<Datetime>03-02-2012, 10:34 AM</Datetime>
+		<Content>Hi All, Over the last few weeks my TV has started making noises like it's expanding.. Similar to when radiators heat up sometimes. It's loud enough sometimes that my loonatic spaniel sometimes pricks up her ears! The noise is randon, from quiet to "crikey, it's going to conk out"! I called Pioneer, they sent 2 engineers out.. The engineers arrived and appeared to be glorified couriers as they did not have anything apart from screwdrivers and pliers with them! They wanted to take the set away. I was not happy with this because of the usual horror stories; for all I know the expansion or flexing may well be fixed by travelling in the van.. Any advice on what to do? I'm considering contacting Pioneer again to see where I stand but I'd like to hear what you guys think.. Cheers! jas</Content>
+	</Post>
+</Thread>

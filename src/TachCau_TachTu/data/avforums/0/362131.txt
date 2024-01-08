@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>VT30 - want to use more than one scart device?</Title>
+		<Username>mattressback</Username>
+		<Datetime>08-08-2011, 9:27 AM</Datetime>
+		<Content>hi, ive had a look through the manual and from what i can tell the VT30 only has one scart socket via an adaptor cable. what do i do when i have a dvd player and a humax pvr that both connect via scart? can i not plug them both in at the same time? cheers</Content>
+	</Post>
+</Thread>

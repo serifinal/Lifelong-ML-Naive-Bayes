@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: LNIB iPhone 3G 16gb (White) - Fido</Title>
+		<Username>shruby</Username>
+		<Datetime>02-28-2010 07:13 AM</Datetime>
+		<Content>As the title states, I have a like new white Fido iPhone 3G 16gb up for sale. Is running on the 3.1.2 firmware and has been jailbroken. Phone is in like new condition, was hardly used as I use my blackberry more often. No scuffs or scratches whatsoever. I've had a screen protector on the phone from day one. Comes with everything in the box. Only accessory that is used is the charger. The earphones have not been used at all. Will also include the ProtechYourDevice that I purchased (similar to Invisible Shield) but I have not been applied to the phone as yet. Also have a flet slip in sleeve with the phone as well. Asking for $425 obo Location: GTA</Content>
+	</Post>
+</Thread>

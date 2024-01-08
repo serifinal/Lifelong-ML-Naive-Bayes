@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Breaking in my new plasma</Title>
+		<Username>mikerlz</Username>
+		<Datetime>07-06-2011, 3:19 AM</Datetime>
+		<Content>I just got a Panasonic TCP42S30. How do I calibrate this? Right now I have it set to: Picture Mode: Cinema Contrast: +50 Brightness: +50 Color: +50 Tint: 0 Sharpness: +50 Should I have things set lower/higher? I'm trying to ease into this plasma... would hate to get some image retention/burn in after I just got it.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Wear in Plasma</Title>
+		<Username>rgerwal</Username>
+		<Datetime>21-02-2012, 11:21 AM</Datetime>
+		<Content>Hello to all readers. As most of you are aware the new 2012 TV's are due out very soon. I'm looking at buying the 50" VT50 hopefully next month. The question I have is do I need to wear in the Plasmas picture in somehow such as leaving a certain picture setting for a period of time etc. Or can I just start playing with the setting from day one as I please. Any advice would be greatly appreciated.</Content>
+	</Post>
+</Thread>

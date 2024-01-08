@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD780IS vs SD940IS</Title>
+		<Username>jeme</Username>
+		<Datetime>11-29-2009, 06:30 PM</Datetime>
+		<Content>Newbie here so thanks in advance for help with my question. I just picked up a SD780IS for $179, but noticed they just came out with the SD940IS, the difference appears to be 4x optical zoom vs. 3x and a larger display 2.5 vs 2.7 inch, elimination of the viewfinder and a slightly different lens. So the cheapest I can find the SD940IS for is about $275 - do you all think it is worth the difference? I am looking for a high quality small point and shoot camera. Thanks in advance for your help!</Content>
+	</Post>
+</Thread>

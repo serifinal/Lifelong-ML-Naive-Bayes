@@ -1,0 +1,14 @@
+bbc hd breaking up on panasonic tv - tx-p46vt20b .
+i have a panasonic plasma tv - tx-p46vt20b -lrb- 2010 model -rrb- .
+i am now having problems watching freesat channels bbc one hd , bbc hd and channel 4hd .
+i have followed the guide below this note and whilst i now receive these channels they are breaking up .
+i have checked the signal condition/quality and this is `` green '' at about 80 % and the bit error rate never changes from 0.00 e +00 .
+all other channels are fine .
+i have even reset to `` shipping condition '' .
+any ideas ?
+is anyone else with this tv having the same problems ?
+------------------------------------------------------------------------- instructions followed so far ... .
+hd boxes and tvs will not pick up either of the bbc hd channels , and customers will be presented with a blank screen and an error message saying &#8220; channel not available &#8221; or similar .
+to rectify this , you will need to put your tv into standby for 30 seconds and then restart it to continue to receive the two bbc hd channels .
+if the channels remain unavailable , then you will need to carry out a &#8216; shipping condition restart &#8217; .
+full instructions can be found in the product manual .

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New micro projector - upgrade...keep or no?</Title>
+		<Username>Keyla</Username>
+		<Datetime>01-12-2010 06:38 PM</Datetime>
+		<Content>Wellllll I'm an impulse buyer and decided to upgrade my micro projector from the aaxa p2 to the m1... It blows my old one out of the water, but my question is: has anyone seen anything extraordinary from CES that would make me want to return this while I'm still in my return limit? Preferably, if i'm going to upgrade, it should cost nearly the same as what I paid ($300). I keep seeing the optoma pk301 but its not available to the public yet and suggested retail is about double mine. The downside to the pk301 is that it isn't as bright as mine (50 lumens to my 66 lumens) but it seems way smaller. those are the only reasons i can think of to not buy right now. I already have my cable that connects to my n97 and it works well as it is. Anyone have more input that will sway me? I'm dead in the middle. I make a decent living but spend way too much. specifications - http://www.aaxatech.com/products/m1_micro_projector.htm here are pics of my m1 (and slides from an old presentation)</Content>
+	</Post>
+</Thread>

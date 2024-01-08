@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>StoppingDisplay of Text Messages on Main Screen of Iphone 3gS</Title>
+		<Username>buckspaul</Username>
+		<Datetime>10-14-2009 11:06 AM</Datetime>
+		<Content>Hi, Is there a method to make text message not appear on the main screen of a password protected iphone 3gs.. Prioring eyes can still see a text message even the the password is enabled.. thanks</Content>
+	</Post>
+</Thread>

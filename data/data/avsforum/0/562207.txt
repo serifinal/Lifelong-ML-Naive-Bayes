@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>New Design..New Thread...BigJoeMoose's Theatre</Title>
+		<Username>BigJoeMoose</Username>
+		<Datetime>04-13-08, 01:35 PM</Datetime>
+		<Content>After my previous thread I learned so much I decided to change around the room a ton and start a new thread without all the junk in it. I have about a 1200 Sqfoot basement and will be finishing all of it at the same time. Room Size: 18*15*7'8" I am going all out on sound isolation: (thanks to Bpape for a great price) Risc Dc04 for tops of size wall plates, RSIC-1 + hat Channel for entire ceiling, two layers of 5/8 Drywall seperated by 7-% coverage Green Glue Walls not by concrete are staggered stud (3 of the 4) Wall by the concrete is 2x4 standard 2" of side plate Projector is purchased, couldnt pass up the 1400 AR MIT HC4900 Still debating on the screen type, either 110 diag SMX AT or 110 Carada Speakers will be either aperion or axiom top of the line models 7.1 config Lighting controller (purchased off ebay) if a Graphik Eye 2404 $200 shipped Speakers will be ran off a Onkyo 805 receiver (purchased) Now for some pics to start off the new thread: Empty basement: Clips All the Studs and insulation Framing Half Done Clips Installed And here is a very rough dimensional layout of the room, still have a ton of stuff to do on this guy. I look forward to updating weekly and gladly accept any ideas for concepts from anyone, it is still a very much blank slate after the walls are up. Thanks, Joe</Content>
+	</Post>
+</Thread>

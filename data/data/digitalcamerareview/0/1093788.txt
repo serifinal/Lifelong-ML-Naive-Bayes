@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX10 IS has terrible picture quality!</Title>
+		<Username>dcolak</Username>
+		<Datetime>08-05-2009, 09:22 PM</Datetime>
+		<Content>I am appalled by the BAD PICTURE quality of the SX10 model! The digital NOISE is HORRIBLE! Here are two photos of the same object, the first one was made with the OLD CHEAP CANON A620 and the second one was made with SX10 IS, both on AUTOMATIC setting, both using their flash. Canon A620 Canon SX10 IS How can any respected digital camera reviewer recommend to ANYONE buying SX10 is beyond comprehension! The digital NOISE is ALWAYS present with SX10, its pictures are always full of it, even with ISO 80. Nothing looks real on SX10 photos! I am returning the camera tomorrow for a full refund. What a waste of my time it was... If you are thinking of buying Canon SX10... DON'T!!</Content>
+	</Post>
+</Thread>

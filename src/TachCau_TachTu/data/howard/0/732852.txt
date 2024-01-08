@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FaceTime & Headsets</Title>
+		<Username>daleraver</Username>
+		<Datetime>07-03-2010 08:58 AM</Datetime>
+		<Content>I've got a decent Plantronics 855 Bluetooth stereo headset that I use daily for music and calls. I can't seem to get it to work while on a FaceTime call. I've tried FaceTime dialing, direct dialing then adding FaceTime, switching from being called to being the calling party, and all variations of these configurations. Anyone have a possible solution? It seems every FaceTime call requires that you use the built-in mic for speakerphone setting. I don't know why, since FaceTime could be very useful in a very noisy environment, but I don't see an option for mic selection like on standard calls with a bluetooth set connected. Are we going to need a Jailbreak and app for this also? We have two iPhone 4's in our household, so I'm open to test any suggestions.</Content>
+	</Post>
+</Thread>

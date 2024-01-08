@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Power consumption- just how much does Plamsa & LED use in On and Standby mode?</Title>
+		<Username>billyboy2012</Username>
+		<Datetime>07-01-2012, 12:20 PM</Datetime>
+		<Content>Hi guys I know this is a much discussed topic, and im not trying to start a plasma vs LED debate. However, i had a very good experience in Currys yesterday talking to a sales chap. He said that a plasma TV will use only a little more energy than a LED tv- perhaps £20/year *if* the plasma is switched off properly when not in use. He said that plasmas use 40% of their top energy consumption when on standby mode. Is this correct? He also suggested that buying a monster surge protector/blackout device MONSTER Power Blackout PowerCenter HDP 850G Surge Protector buy online | Currys turns everything off when not in use, hence the difference is minimal. Im looking at buying a 50-55" TV- probably the panasonic GT/VT series- as well as an AMP, BluRay player and 5.1- so power consumtion is a big deal! Anyone know the approx real world power consumption of the newer panasonic plasmas? And what the extra equates to each year vs say the 8000 series samsung LEDs? Any advice would be great thanks guys</Content>
+	</Post>
+</Thread>

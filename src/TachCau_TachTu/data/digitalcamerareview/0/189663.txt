@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Editors Choice</Title>
+		<Username>SoCalRich</Username>
+		<Datetime>03-26-2009, 12:04 PM</Datetime>
+		<Content>Did I miss something or has there NOT been an Editors Choice so far this year? If not, when are Jan & Feb going to be posted??? Thanks...</Content>
+	</Post>
+</Thread>

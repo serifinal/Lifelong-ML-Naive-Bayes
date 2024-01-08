@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I understand that the new Canon XS is now available</Title>
+		<Username>mbciuso</Username>
+		<Datetime>08-12-2008, 10:10 PM</Datetime>
+		<Content>I was browsing some camera sites looking for the new Canon xs and noticed that the camera is apparently available online. i called best-buy and circuit city to see if they had any in the stores to check out personally and none had any. any word on when they would be available in stores? Thanks,</Content>
+	</Post>
+</Thread>

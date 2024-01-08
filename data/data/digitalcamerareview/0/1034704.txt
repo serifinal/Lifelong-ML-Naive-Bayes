@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Olympus SP-510 UZ Ultra Zoom Digital Camera Announced</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>08-23-2006, 01:00 AM</Datetime>
+		<Content>The Olympus SP-510 UZ (ultra zoom) is one of nine new cameras announced by Olympus today. The SP-510 is an upgrade from the SP-500. The new camera features 7 megapixels, a 10x optical zoom, and a 2.5 inch LCD. Look for the Olympus SP-510 UZ in September for an estimated street price of $329. (view large image) Olympus' SP line features digital cameras that are targeted at the intermediate photographer or the first time "enthusiast". With features like manual modes, RAW capture capability, the SP cameras offer plenty of creative control. They are also built to accept lens accessories that can be screwed onto the threaded barrel. The UZ cameras offer the longer zoom ranges that aren't available on the other SP models. Besides increasing the capture resolution in the SP-510, Olympus has also improved the auto focus speed (30% faster) and improved battery performance to over 500 shots. (view large image) Olympus SP-510 UZ features 7 megapixels 10x optical zoom 2.5 inch LCD full manual and automatic shooting modes optical viewfinder Digital image stabilization Sensitivity up to ISO1600 ED lens elements TruePic TURBO image processor RAW and JPEG formats</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,10 @@
+easy calculator for screen & image size -lrb- upgraded -rrb- .
+this simple , user-friendly calculator may be helpful to anyone planning to buy a screen .
+the calculator lets you specify the screen size -lrb- diagonal , width , or height -rrb- , the screen aspect ratio , and the frame -lrb- or border -rrb- width .
+the calculator then computes the viewing area dimensions , as well as the total screen height and width including the frame or border .
+it also lets you see at a glance the image height , width , diagonal , and area for five user-modifiable image aspect ratios when projected onto the specified screen .
+the calculator is provided in two versions , one for use with ms excel -lrb- preferred -rrb- and a second for use with the less capable , but more widely distributed , ms works spreadsheet .
+either version will also run in the spreadsheet portion of open office , a free download .
+your comments/criticisms are invited .
+eta - thanks to member 1canuck2 for adding to the easy calculator to include calculating how the screen fits onto your screen wall .
+see post # 25 below for this more comprehensive version of the calculator .

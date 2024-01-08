@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PC/Laptop to HDTV - please help</Title>
+		<Username>panny_wannabe</Username>
+		<Datetime>19-06-2011, 12:22 PM</Datetime>
+		<Content>Hi All Silly question but really struggling.......... I have a Panasonic Viera 42" TH-42PX70 and I want to watch movies/videos from my laptop on the TV. Really struggling to know which lead to buy..... HDMI to VGA ? VGA to RGB ? Been on Amazon and Ebay but I'm lost...........</Content>
+	</Post>
+</Thread>

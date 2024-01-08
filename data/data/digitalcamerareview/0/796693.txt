@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A620 usage question</Title>
+		<Username>allochthonous</Username>
+		<Datetime>06-20-2006, 10:42 AM</Datetime>
+		<Content>Hello. I am a relative digital camera newbie and I just bought a Canon A620 and I can't seem to find any option to set the aspect ratio to 3:2 for taking pics that will be printed as 4x6's. My old Sony had the option (albeit at a lower resolution), which would change the framing window to a 4x6 area. Is the only way to get 4x6's from this camera to take regular shots, then crop to 4x6? This make composing pics difficult. Any tips? PK</Content>
+	</Post>
+</Thread>

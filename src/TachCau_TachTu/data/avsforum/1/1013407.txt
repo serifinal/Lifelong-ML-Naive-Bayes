@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>jaylotheman</Username>
+		<Datetime>12-14-08, 07:35 PM</Datetime>
+		<Content>Hello all so I've been researching an LCD tv for quite awhile now, and I've come to sort of a wall when it comes to these three TV's, they're all relatively in the same neighborhood of prices, but I can't QUITE decide which one is better or the right one, so I'm asking for your help. The 3 TV's are... Toshiba Regza 52" 1080p 120Hz LCD HDTV** (52XV545U) $1900 Samsung 52" 1080P 120hz Flat-Panel LCD HDTV** (LN52A630) $2200 Samsung 52" 1080p 120Hz Flat-Panel LCD HDTV** (LN52A750) $2500 So as you can see they're 3 pretty great TV's so I wanna know what you all think of this, and help me in choosing one, and if you pick one of the slightly more expensive TV's I'd like help on knowing if that particular TV is worth the extra price. Any and all help is appreciated, thanks!</Content>
+	</Post>
+</Thread>

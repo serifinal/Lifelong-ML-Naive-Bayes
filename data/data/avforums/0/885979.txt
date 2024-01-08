@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS59D7000 chip?</Title>
+		<Username>fantomas74</Username>
+		<Datetime>20-11-2011, 11:24 AM</Datetime>
+		<Content>Hello, Reading following review http://www.hdtvtest.co.uk/news/samsu...ge=Performance it seems ps64d8000 has a different chip (samsung chip) with respect to other models. Do you know if ps59d7000 has the same chip or an Mstar one? And what about 51d8000? Regards, Marco</Content>
+	</Post>
+</Thread>

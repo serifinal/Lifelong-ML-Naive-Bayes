@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Micro Card</Title>
+		<Username>delwork7</Username>
+		<Datetime>12-04-2009 01:13 PM</Datetime>
+		<Content>LG eNV3 slate blue - I'm using a micro-card that I was using in another phone and need to format it before using it in the eNV3. The different formats are FAT, FAT32 and NTFS. Which should I format the card to?</Content>
+	</Post>
+</Thread>

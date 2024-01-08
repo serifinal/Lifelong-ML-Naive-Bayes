@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone 2G stuck on "Restore needed", iTunes cannot restore, Error 23, etc. etc</Title>
+		<Username>fa6ista</Username>
+		<Datetime>03-28-2010 09:44 AM</Datetime>
+		<Content>There is this 2G iPhone that is (almost?) bricked. As far as I know, the phone did work until recently, was not dropped, but suddenly got stuck at this screen: The owner is not computer savvy, and is unsure whether the firmware has been updated (by chance or not). Right now the phone is stuck at the "Restore needed" screen. What have I done so far: Put it in DFU, iTunes finds is, and tells me it needs to be restoed; I have downloaded the 1.1.4, 2.2, and 3.1.2 firmwares for the 2G; I have tried to SHIFT+RESTORE many times, and every single time it ends up giving me error 23. I tried all of the above-mentioned firmwares, have tried with iTunes 9.0.3, 8.2 and 7.5 MANY times - with the same result: Error 23. There is something interesting: when I tap the "i" on the screen, it shows a windows that says: IMEI: Unknown, and ICCID: Unknown I have searched online for a whole day now, and people say that this is related to a hardware problem with the modem; others said that it could be fixed by flashing w/ older firmware and older iTunes version - both of which I have tried... So bottom line is that after all I have tried I am still nowhere... And ideas what else I could try?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy S</Title>
+		<Username>bspliffy</Username>
+		<Datetime>04-19-2010 07:30 PM</Datetime>
+		<Content>Anyone have any thoughts on the newly announced Samsung Galaxy S and whether it will make its way onto Rogers?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>YASS - Yet Another Speaker Selection question</Title>
+		<Username>Ed Borgoyn</Username>
+		<Datetime>08-28-08, 11:14 AM</Datetime>
+		<Content>I'm in the final design stages of my new dedicated HT. The room is about 12'x14'x8'. For now, I will install a 5.1 system and perhaps expand later. My amplifier will probably be an Emotive XPA-5 For space and aesthetics I plan in-wall L/C/R and on-wall surrounds. The L/C/R will be behind an AT screen (Sheerweave 4500 type) Question: My current design is Polk LC265i's for the L/C/R and Polk LsiFX for the surrounds. Any thoughts on this design? In-walls mean a big 'commitment' as I can't audition them in my walls..... They are within my budget. I tend to be VERY critical in purchases; purchase in the mid-to-upper range; and keep my h/w a long time.... FWIW, the screen wall is 2x4 construction just inside of a concrete block wall. Speaker procurement and installation are early in the build-out of the room (due to the in-wall design.....). Am I headed in the right direction?</Content>
+	</Post>
+</Thread>

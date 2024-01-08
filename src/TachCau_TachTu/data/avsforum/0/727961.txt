@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>In Ceiling Speakers Stopped Working?</Title>
+		<Username>MichDeac25</Username>
+		<Datetime>12-30-08, 12:37 PM</Datetime>
+		<Content>All, I purchased a home in July that was wired for sound. The speakers in the BR stopped working recently. I have played with the connections to the receiver and everything seems to be working properly there. Is there a way to test whether the signal is reaching my speakers to determine if the problem is my speaker or the wire? Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Can you play Xbox360/PS3 at 100hz on Samsung plasmas?</Title>
+		<Username>Nicholars</Username>
+		<Datetime>15-02-2012, 10:11 PM</Datetime>
+		<Content>Hi, I am very close to buying a Samsung PS51D6900 plasma.... I think that is upscales 50hz to 100hz? Such as pal TV etc? So if I set an Xbox or PS3 or PC output to 50hz will the TV automatically switch to 100hz thus eliminating flicker? Please get back to me if you know asap thanks!</Content>
+	</Post>
+</Thread>

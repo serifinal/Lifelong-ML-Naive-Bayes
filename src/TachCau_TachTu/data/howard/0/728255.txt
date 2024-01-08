@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>AT&T contacts Apple saying next SlingPlayer Mobile app granted 3G permission</Title>
+		<Username>terryjohnson16</Username>
+		<Datetime>02-04-2010 08:28 AM</Datetime>
+		<Content>http://www.phonescoop.com/news/item.php?n=5451 posted Today, 8:21 AM by Eric M. Zeman updated Today, 9:08 AM Updated: altered language to indicate that a new app exists. Today AT&T said that it will allow a new, optimized version of the SlingPlayer Mobile application to operate over its 3G data network. Previously, the SlingPlayer Mobile application was restricted to work only over Wi-Fi. AT&T tested the application during the last months of 2009, and notified SlingPlayer that the new version of SlingPlayer Mobile has permission to use its 3G network to stream television from SlingBox's to end-users' handsets. AT&T has also notified Apple, which sells the application to iPhones, that the optimized application is free to run on AT&T's 3G network. None of the companies involved have said exactly when the new version will become available, what its cost will be, nor how much owners of the Wi-Fi-only app will have to pay to upgrade. http://bits.blogs.nytimes.com/2010/0...ng-tv-over-3g/</Content>
+	</Post>
+</Thread>

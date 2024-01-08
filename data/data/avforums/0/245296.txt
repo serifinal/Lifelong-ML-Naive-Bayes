@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>So, my (Broken) Plasma is doing this..</Title>
+		<Username>Axel40</Username>
+		<Datetime>14-08-2011, 7:40 PM</Datetime>
+		<Content>...and I'm not happy. It's a 4 year old 50" LG model (can't remember exact model tbh) Does anyone know the likely fault that would cause this please? I have sound but this is on all inputs. ]ImageShack® - Online Photo and Video Hosting</Content>
+	</Post>
+</Thread>

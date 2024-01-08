@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panny 42G30 - 42GT30 choice woes</Title>
+		<Username>Rimsey</Username>
+		<Datetime>17-11-2011, 2:47 PM</Datetime>
+		<Content>For the last couple if weeks i have been looking for a replacement for my Samsung 42in Plasma. Afetr reading review after review I narrowed it down to the 42G30 or the 42GT30. Although I am not bothered with the 3D, the GT has the black pro filter. Then I came across the 50hz bug thread and now I am in a quandry. Has anyone got any advice about this or an alternative to the pannys? thanks</Content>
+	</Post>
+</Thread>

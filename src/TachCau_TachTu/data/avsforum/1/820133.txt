@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony XBR 6 vs Samsung A550/A650</Title>
+		<Username>Romo2Owens</Username>
+		<Datetime>07-17-08, 01:19 AM</Datetime>
+		<Content>Very interested in these 2/3 TVs but I'm having trouble choosing. I've read a couple of posts on this forum saying that Samsung has Sony beat this year and the picture on the Samsung is better with a better contrast ratio and such. I've also heard the positive side of Sony regarding their built in speakers, which is supposed to be better than Sammys. My main concern though is input lag as I do play alot of competitive games (well mainly Smash bros lol) but I also would like to have the better looking TV. Can you guys offer some insight or care to explain which one is the better TV? Im not worried about the money issue but just want to know which of the TVs are better.</Content>
+	</Post>
+</Thread>

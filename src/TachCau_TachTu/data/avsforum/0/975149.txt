@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anyone know what this is, a crack in the lense, in the bulb ... something else?</Title>
+		<Username>Bookhouseboy</Username>
+		<Datetime>12-14-08, 06:26 PM</Datetime>
+		<Content>Here's a picture of the problem: [IMG][/IMG] I received my BenQ 8720 a few days ago after having it in for service. After watching a few movies, I noticed a dark blue-ish line on the left of the screen. I've cleaned the lense and looked closely for a crack, but i couldn't see anything. The bulb has over 2500 hours on it, so it's no problem for me to replace it, but how do I find out what causes this? Any help is much appreciated. I managed to link to my image. I hope imageshack is okay. BTW, I cleaned the lense before this anamoly appeared. I used a wet tissue meant for LCD screens and then finished off with a dry lense cleaning sheet. I'm afraid this is the cause of the problem.</Content>
+	</Post>
+</Thread>

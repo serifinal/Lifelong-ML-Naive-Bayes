@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>new user iphone4</Title>
+		<Username>xurusaibobx</Username>
+		<Datetime>06-27-2010 11:56 PM</Datetime>
+		<Content>hey gang i just switched over from tmobile on launch day to the new iphone4, i was with tmo for many years and been using my unlocked iphones in the past. finally made the switch anyways ever since i got my iphone i can not access 3g network data. ive done everything from soft restart to hard restart to on off 3g signal and called CSR which they were NO help at all.. they told me i was holding the phone wrong i told him i know about that already its not the problem. i was never able to access from day one! only way i get on is through WiFi. anyways the CSR told me to wait a few days to a week till things clear up on the network your phone might not be completely activated and i told him what does that mean? he said oh you arent able to make or get calls txt messages. and i was like no my phone is working totally fine am using it to make this call right now no problem. anyways is happening to other users as well? am calling ATT tomorrow again to see whats up i dont want to be paying for Data this month if am never going be able to use it till a few weeks later that doesnt make sense to me. or at least it better be prorated a whole lot</Content>
+	</Post>
+</Thread>

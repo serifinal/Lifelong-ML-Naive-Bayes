@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>5310 camera can't save photos to memory card?</Title>
+		<Username>vitoprimo</Username>
+		<Datetime>11-30-2009 09:00 AM</Datetime>
+		<Content>My Nokia 5310 phone won't save photos to my memory card. Is this a feature? When the camera is active I am able to change the settings to save photos to my memory card. As soon as I leave the Settings and return to the camera the phone resets the photo storage location to phone memory. WTF? And there's no way to transfer photos from phone memory to my memory card. What a pain. I'm running firmware V03.63 dated 24-10-07 RM-304. This is a Rogers branded phone unlocked that I am using on AT&T Wireless.</Content>
+	</Post>
+</Thread>

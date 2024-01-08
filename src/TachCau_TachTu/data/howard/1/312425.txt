@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung I9000 Galaxy S - Work on Rogers?</Title>
+		<Username>bugoycell</Username>
+		<Datetime>04-13-2010 08:38 PM</Datetime>
+		<Content>I think I will wait for Samsung I9000 Galaxy S to come out if it works on Rogers 3G network. Do you know if its compatible? http://www.mobileburn.com/gallery.jsp?Id=9079</Content>
+	</Post>
+</Thread>

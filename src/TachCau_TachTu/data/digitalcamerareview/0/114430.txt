@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problem with new Canon EOS Rebel XSi</Title>
+		<Username>wildcat67</Username>
+		<Datetime>06-25-2009, 05:38 PM</Datetime>
+		<Content>I cannot see my subject or any subject through the view finder on my new camera. I have the battery charged, the memory card in correct place and formatted, have it in single photo with auto focus...just see blur. Any thoughts?</Content>
+	</Post>
+</Thread>

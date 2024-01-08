@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PN50A530 Compared To Samsung PN50A550</Title>
+		<Username>CoryV</Username>
+		<Datetime>07-07-08, 10:09 PM</Datetime>
+		<Content>I have been reviewing the information/specs on the Samsung PN50A550 compared to the PN50A530 plasma TV's. The only difference I've been able to identify is that the PN50A550 has the Wiselink (USB 2.0). Does anyone know of other differences between these two units? Thank you, Cory</Content>
+	</Post>
+</Thread>

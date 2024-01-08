@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sync & edit contacts on PC without using Outlook?</Title>
+		<Username>DRNewcomb</Username>
+		<Datetime>01-10-2010 10:43 PM</Datetime>
+		<Content>Is there a tool that allows me to sync a phone's contacts to a PC and edit them on the PC without using MS Outlook?</Content>
+	</Post>
+</Thread>

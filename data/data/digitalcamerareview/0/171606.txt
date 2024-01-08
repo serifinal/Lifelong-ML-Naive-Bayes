@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Turning D50 LCD on/off</Title>
+		<Username>Swissguy</Username>
+		<Datetime>12-26-2009, 11:08 AM</Datetime>
+		<Content>I got a D50 for Christmas and I love the camera -except one thing: I cant figure out how to turn the LCD on or off. Shouldnt the LCD turn on when you depress the shutter half way? There has to be a way to have the LCD screen on while you're shooting. Ive poured over the manual and cant seem to find the answer. HELP!</Content>
+	</Post>
+</Thread>

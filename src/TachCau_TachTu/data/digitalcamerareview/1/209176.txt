@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon SD1000 battery and charger needed.</Title>
+		<Username>mustang6767c</Username>
+		<Datetime>08-24-2009, 03:35 AM</Datetime>
+		<Content>Hi, I have a Canon SD1000 and I recently lost my battery and charger. I was looking to replace them both with factory canon products, however I was curious if anyone has purchased the "no-name" products and are pleased with them. I don't mind buying the canon brand however I am looking to save as much money as possible. If there are some recommendations of where to buy from it would be greatly appreciated. Thank you. Mike</Content>
+	</Post>
+</Thread>

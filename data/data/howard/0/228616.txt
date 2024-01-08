@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone4 vs HTC Evo Must see video</Title>
+		<Username>Andre71</Username>
+		<Datetime>06-26-2010 10:10 PM</Datetime>
+		<Content>http://www.fevermagazine.com/%5Bfiel...ne4-vs-htc-evo</Content>
+	</Post>
+</Thread>

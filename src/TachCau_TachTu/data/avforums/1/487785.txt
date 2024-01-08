@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>John Lewis PV500 Pricematch</Title>
+		<Username>e_python</Username>
+		<Datetime>04-07-2005, 1:50 PM</Datetime>
+		<Content>So chepest JL for 42" is trafford centre. Right ? £2249 An no bracket, ped or cab at that price???</Content>
+	</Post>
+</Thread>

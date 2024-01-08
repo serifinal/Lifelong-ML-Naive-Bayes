@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Are Rogers current iPad Micro-Sims compatible with the IPhone4?</Title>
+		<Username>RipRorn</Username>
+		<Datetime>06-27-2010 08:58 PM</Datetime>
+		<Content>Lads, So far I have been unable to get a straight answer out of anyone so I figured I would ask it here: Are Roger's current micro-sims capable of having a standard voice/data plan put on them for iPhone 4 use? I have an unlocked UK iPhone 4 on its way to me as we speak, and I am prepared to cut my sim, but just curious if the Rogers Micro-sims were compatible. Some reps are telling me that the ones currently for sale have "locked" voice channels, or are otherwise incompatible with anything other than the iPad. Some reps are telling me that they are not locked. Can anyone shed some light on this? Appreciate it in advance.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GT30 and divx via DLNA</Title>
+		<Username>xad001x0w</Username>
+		<Datetime>24-01-2012, 11:54 PM</Datetime>
+		<Content>I've had a bit of a search on this but can't find anything that answers my question. I have some DivX AVI's on my computer and want to DLNA them to my GT30. All the DivX AVI's I have tried either flat out don't work or are jumpy, grey and blocky and stop after 15/20 seconds. By stop I mean the player acts as if it is playing but it is silent and blank screen. I have tried a few different DLNA servers on my PC (win 7 ultimate 64) Serviio, TVersity, WMP, Mezzmo. All have exactly the same end results. The AVI's work fine in VLC and WMP on my PC. The TV and computer are connected via 200Mb/s home plugs. The TV will happily cope with 1080p with HD sound MKVs streamed in exactly the same way. Curiously after re-encoding one of the DivX AVI's as an h.264 MKV it works perfectly on the TV. Has anyone got any help at all they could offer, experience, words of advice? I don't want to have to re-encode my whole library (160GB over 700 files) just so I can have the option of watching it all on my TV... Cheers.</Content>
+	</Post>
+</Thread>

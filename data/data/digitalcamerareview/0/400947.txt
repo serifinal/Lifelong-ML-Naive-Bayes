@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Which Canon should I now go with?</Title>
+		<Username>Logansdad</Username>
+		<Datetime>09-20-2010, 03:03 PM</Datetime>
+		<Content>I just had my Canon SX10 stolen over the weekend. For the most part, I was really happy with the SX10. I really just hated the continuous shooting. My budget is $350 to $400. I see there is now a SX20, and I'm not sure about the SX1. Any recommendations?</Content>
+	</Post>
+</Thread>

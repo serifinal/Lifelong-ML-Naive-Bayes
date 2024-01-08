@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 50PV350T Owners Thread</Title>
+		<Username>Boggsy</Username>
+		<Datetime>01-06-2011, 9:55 PM</Datetime>
+		<Content>Thought I'd start a thread and see if anyone else picked one of these up over the bank holiday weekend, and see what they think. Been looking at buying a 50inch for a while, and finally decided to take the plunge after seeing this in store at Currys. Have to say I'm pretty pleased. With HD content the picture looks brilliant. Sky channels look good as well. Not done any specific colour tuning yet, sticking with the 'Cinema' picture mode at the moment. Not used the onboard Freeview, the aerials in the house aren't very good. Having a few issues playing DVDs through my amp to it, the picture blanks out every now and again, but believe that is due to my amps 1.1 HDMI sockets as its fine if the blu-ray is connected direct to the TV. Guess I'll have to get a new amp as well</Content>
+	</Post>
+</Thread>

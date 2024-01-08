@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What are your top 5 most anticipated PS3 titles?</Title>
+		<Username>Bokchoy</Username>
+		<Datetime>03-24-08, 12:25 AM</Datetime>
+		<Content>I know I got these marked on my calendar: 1. Metal Gear Solid 4 - video games are video games, but video games made by hideo kojima are works of art. 2. Grand Theft Auto 4 - San Andreas got me hooked onto this series. This is a no-brainer. 3. LittleBigPlanet - one of the most original ideas we've seen this generation 4. Street Fighter 4 - I used to play street fighter non-stop. hopefully this will bring it all back. no idea when this is gonna come out though. 5. Haze - I'm really skeptic about this game, but I really hope this game turns out really well. I've held back on CoD4 and UT3 because of Haze. Final Fantasy XIII and God of War 3 would be up there, but the release date isnt for a long while. Resistance 2 looks great too. Gran Turismo 5 looks promising, but I'm not a big fan of the genre. Was just wondering what everyone else is drooling over and absolutely can't wait for.</Content>
+	</Post>
+</Thread>

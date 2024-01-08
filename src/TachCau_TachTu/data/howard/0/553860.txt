@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New SRDO Data only plan announced includes PAM</Title>
+		<Username>ysp7882</Username>
+		<Datetime>10-13-2009 11:13 AM</Datetime>
+		<Content>Sprint Embraces Android on SRDO Data-Only Plans 15 CommentsWritten by Christopher Price on October 12, 2009 Google Android (OHA), HTC, Samsung, Sprint SRDO, or Sprint Relay Data Only, has become popular amongst those looking for a post-SERO value plan. Led originally by PhoneNews.com?s coverage, the plan has been tacitly embraced by Sprint as a not-so under-the-table offering of a data-only plan for tech-savvy consumers. The $30 plan offers unlimited data, text messaging, and 5 GB of Phone As Modem service. On Everything-plan-required phones like the Palm Pre, the plan trades 5 GB of PAM for basic Sprint TV and Sprint Navigation service. And, starting today, the plan is now available for Android phones on Sprint. Android joins the Palm Pre, BlackBerry, and Windows Mobile, as well as non-smartphones in being offered on the plan. The HTC Hero is available for sale from Sprint?s Relay Store web site, and existing Sprint Relay customers can switch to an Android phone with the help of a plan specialist. Sprint has also confirmed to PhoneNews.com that the Samsung Moment will be available on SRDO, next month.</Content>
+	</Post>
+</Thread>

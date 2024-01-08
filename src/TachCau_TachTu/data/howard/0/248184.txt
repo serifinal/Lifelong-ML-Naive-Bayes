@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Will Bell's Samsung Vibrant (Galaxy S) work on Rogers if/when it can be unlocked?</Title>
+		<Username>agroberman</Username>
+		<Datetime>06-28-2010 10:06 AM</Datetime>
+		<Content>Thanks in advance for help.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>s70 vs s80</Title>
+		<Username>stl_urban_punk</Username>
+		<Datetime>12-06-2005, 10:40 PM</Datetime>
+		<Content>Hello everyone, my name is Sean, I am new to this site and new to the art of photography. My family may be getting a digital camera for the first time for x mass, I know we live in the stone age of slrs. But I did some research last summer and almost bought a s70 with my graduation money. But now i'm back in the market and I have noticed the s80. Is it overall better than the s70? is RAW importaint to me? And most importaintly; do both cameras really have a problem with purple fading on the edges? Keep in mind I'm used to disposable cameras, so anything is an improvement. any personal experience and help is welcomed. Thanks, sean</Content>
+	</Post>
+</Thread>

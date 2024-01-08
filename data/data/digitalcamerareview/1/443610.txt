@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Any tips?</Title>
+		<Username>TampaMike</Username>
+		<Datetime>12-30-2009, 08:48 PM</Datetime>
+		<Content>I was recently looking into the Canon S3 IS and S2 IS Powershot cameras. But I learned they have a camcorder mode that comes with them. I just got a camcorder for Xmas, so I do not need this option with my camera. I really want something with the same abilities and easy to use feel of the S3 and S2. Any tips on a camera out there that fits this description of the S3 and S2 without the camcorder option? I do not want to pay for something I will not use. Thanks for any advice.</Content>
+	</Post>
+</Thread>

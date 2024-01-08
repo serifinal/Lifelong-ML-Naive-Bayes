@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bnib iphone 4 16gb rogers ( sealed ) low price</Title>
+		<Username>RdotA</Username>
+		<Datetime>08-13-2010 11:14 AM</Datetime>
+		<Content>For sale bnib and sealed iphone 4 16gb..pickup near yonge/finch price $700.00 low ballers will be ignored.. PICKUP BEFORE 5 PM OR AFTER 10PM TODAY</Content>
+	</Post>
+</Thread>

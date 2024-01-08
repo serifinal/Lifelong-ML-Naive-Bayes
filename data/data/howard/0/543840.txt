@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Adding a line onto an existing T-Mobile individual plan?</Title>
+		<Username>Polish Dude</Username>
+		<Datetime>06-21-2010 12:44 PM</Datetime>
+		<Content>Is that even possible? I have one year left on my contract on my plan. Currently I have: 1000 anytime minutes with free nights and weekends for 39.99 T-mobile to T-mobile minutes for 5.99 Unlimited Texts for 15 (had to get this one not to get a ETF when I got rid of the BB) T-Zones for 5.99 My gf was asking about going on a plan with me but not really sure what the best deal is, i think i have a pretty solid plan and dont really want to lose it. Can I just somehow add her onto my line? If not, since I am still under contract it looks like the best alternative would be the even more plan for 160 that includes unlimited text, internet, and 1500 minutes, which im not too sure how much she talks to on the phone to people outside of t-mobile</Content>
+	</Post>
+</Thread>

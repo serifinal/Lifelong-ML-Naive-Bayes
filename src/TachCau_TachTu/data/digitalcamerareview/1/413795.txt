@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>polarized filter question</Title>
+		<Username>butterfish4187</Username>
+		<Datetime>01-03-2008, 04:18 AM</Datetime>
+		<Content>I was wondering If anyone here uses a polarized filter for aquarium or outdoor water pictures with a Canon xt. I need to get a filter to eliminate reflections and I need some advice as to which filter to get.</Content>
+	</Post>
+</Thread>

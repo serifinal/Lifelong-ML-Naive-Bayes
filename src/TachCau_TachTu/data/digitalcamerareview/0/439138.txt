@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX30 and telephoto modes</Title>
+		<Username>gubakl33</Username>
+		<Datetime>11-26-2010, 03:46 AM</Datetime>
+		<Content>This camera produces great photos and takes my creativity to a new level. The optical zoom is just awesome as well as the telephoto modes of 1.7, 2.1 which I love as well, and they matched the zoom power with good image stabilization. The shutter button is easy to press down which really helps at high power zoom levels. I can now take some nice wide angle shots or magnify right up close. Canon added some new modes like super vivid which work great for colorful outdoor pics, I have been enjoying the miniature mode, fish eye effects, and they added another custom setting too! The video is easy to use and zooms with all the same super power you get for still photos. My fall leaf pics are just gorgeous, I spotted two squirrels on a tree branch napping face to face, and with hardly an effort I zoomed them right up close and snapped a clean shot. I'll put my sleepy squirrel pics up, one is approx 35x and the other telephoto plus optical zoom for about 55x total ( see a face from 3000 feet: ). I highly recommend this camera, especially if you want to enjoy you're creative side more.</Content>
+	</Post>
+</Thread>

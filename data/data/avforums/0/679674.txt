@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Warranty question</Title>
+		<Username>$lim$hady</Username>
+		<Datetime>17-05-2011, 9:45 PM</Datetime>
+		<Content>If on my tv the hdmi, stereo or component cables stops working after a couple years and the fault seems to be with the pins on the tv can it not be covered on warranty based on wear and tear? Assuming JL 5 year warranty.</Content>
+	</Post>
+</Thread>

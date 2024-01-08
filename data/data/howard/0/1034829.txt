@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Lost Factory Unlocked 32GB iPhone4</Title>
+		<Username>N0KIA9394</Username>
+		<Datetime>09-23-2010 07:53 AM</Datetime>
+		<Content>Hi guys, my buddy lost his iphone4 last night. He bought it from the Apple store unlocked and was using it on the Rogers network. 1) Can he call Rogers to get them to block the IMEI? 2) What other steps can he take? Thanks guys!!!</Content>
+	</Post>
+</Thread>

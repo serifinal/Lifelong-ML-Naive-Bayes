@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking to Buy a 46"/47" 3D TV.. help please?</Title>
+		<Username>donshaggy</Username>
+		<Datetime>28-12-2011, 5:31 PM</Datetime>
+		<Content>Hi Guys! basically im looking at upgrading my current set to a 47". Im currently obsessed with 3D tvs after watching a footy game on my mates 37". I went to currys yesterday as i was told there is a bit of a sale going on, but the place was that crowded and it seems to be a lot of options going. i spoke to one of the sales guys about an advice on what to go for and frankly cant say i got much of what he said, so decided to leave it, till i have spoken to someone in a a bit of a know how(you guys ) my budget is £700, £750 if i stretch and was wondering if anyone could recommend a descent set in that prize range. One with the new smart internet technology will be lovely but not overly concerned too much about that as long as its 3D. Thanks</Content>
+	</Post>
+</Thread>

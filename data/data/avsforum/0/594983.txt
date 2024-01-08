@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>"The Dark Knight" PQ issues.</Title>
+		<Username>Alan Gouger</Username>
+		<Datetime>11-20-08, 12:22 PM</Datetime>
+		<Content>I just watched my copy. Regarding PQ why is it they have to mess with the block busters. I was disappointed to see someone applied good ole EE. The ringing is not to bad but its enough to leave the movie with what I call edginess at times during long distance shots it clearly rears its head. Sad. I had to make sure all sharpness setting were flat for this one but it did not help clean it up. I screened this at 8 feet wide. I doubt anyone with a smaller display or flat panel will notice as this transfer will come off extra on these sets. Other then this complaint I found the transfer/sound/movie enjoyable. All follow ups please mention your display width. Thx.</Content>
+	</Post>
+</Thread>

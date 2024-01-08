@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Seeking Canon User Guides for A610, I lost mine</Title>
+		<Username>gmoneyphatstyle</Username>
+		<Datetime>12-23-2005, 12:39 AM</Datetime>
+		<Content>Hello, I lent my Canon A610 to a friend with the basic and advanced user guides that came with it. Ofcourse the camera was returned sans users guides. I've downloaded them from the canon website in pdf format but I don't really want to print them of on letter sized paper. Does anyone knew where you could order new user guides printed and binded like the origonals. Thanks.</Content>
+	</Post>
+</Thread>

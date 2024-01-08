@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Using macro feature on SX130</Title>
+		<Username>oldsloane@gmail.com</Username>
+		<Datetime>01-27-2011, 11:38 AM</Datetime>
+		<Content>I just bought a new SX130 and I am having trouble using the macro feature. On my old Canon all I had to do was push the macro symbol on the left side of the function switch and it would turn on. The instructions for the SX130 are confusing me. It says to press the left arrow and then up and down at the same time. All I have succeeded in doing so far is setting up the time delay and frustrating myself. Any suggestions would be appreciated.</Content>
+	</Post>
+</Thread>

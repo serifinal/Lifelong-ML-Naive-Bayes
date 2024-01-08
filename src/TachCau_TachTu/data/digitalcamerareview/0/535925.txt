@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Overexposed pictures...</Title>
+		<Username>kprice</Username>
+		<Datetime>11-02-2009, 01:22 PM</Datetime>
+		<Content>I bought my Canon Powershot SD1200IS in May '09. I purchased an Ativa 4GB memory card that was on sale at the same time to use with the camera. My pictures have always looked overexposed (Even when I am not pointing the camera at a light source). I often have to use photoshop to adjust the contrast and color, so that the pictures look decent. Is there a function that I need to adjust on the camera to correct this problem? Could the cheap memory card be the problem? Did I just get a faulty camera? Any advice would be greatly appreciated.</Content>
+	</Post>
+</Thread>

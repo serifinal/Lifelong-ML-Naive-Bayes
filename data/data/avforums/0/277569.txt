@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic S30B - Settings request</Title>
+		<Username>Jaymz404</Username>
+		<Datetime>02-01-2012, 10:06 PM</Datetime>
+		<Content>Hiya guys.. I'm brand new to Plasma televisions and I was wondering if any of you had any settings for this TV that I could use. http://www.avforums.com/review/Panas...TV-Review.html The above link is the TV I bought but the 50" inch version from John Lewis. http://www.johnlewis.com/231222456/Product.aspx I've just bought it and it's brand new and sitting here. I'm a bit worried the default settings will cause image retention, or is that a non issue these days? Could anyone post what settings they use and how can I calibrate the settings to a level better than the defaults. Also if anyone has any experience using it as a media centre (connected to a pc) is gaming mode the best way to reduce lag? Thanks, James.</Content>
+	</Post>
+</Thread>

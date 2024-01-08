@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Gravity 2 T469 AT&T MMS Settings</Title>
+		<Username>3r14nd</Username>
+		<Datetime>06-03-2010 10:40 PM</Datetime>
+		<Content>I've been looking around and finally found the MMS settings for the Gravity 2 from T-Mobile to work on AT&T. Here they are: ==========MMS============== * Set Name: AT&T MMS * Access Name: wap.cingular * Auth Type: None * User ID: <leave blank> * Password: <leave blank> * Protocol: HTTP * Home URL: http://mmsc.cingular.com * Proxy address: 66.209.11.32 * Port: 80 * Linger Time: 300 * Advanced Settings: o Static IP: Leave blank o Static DNS: Leave blank o Traffic Class: subscribed I just decided to post this since there were several people asking for it. Once you have saved this profile. Make sure you select it. Once it's selected it works for both MMS and Internet. This works as of: 06/03/2010 3r14nd</Content>
+	</Post>
+</Thread>

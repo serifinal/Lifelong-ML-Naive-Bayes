@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>samsung PS51D495 plasma-what are the best settings to use</Title>
+		<Username>coley</Username>
+		<Datetime>12-02-2012, 8:02 PM</Datetime>
+		<Content>hello,has anyone got one of these sammys,and if so what do you think are the best settings are for tv.thank you</Content>
+	</Post>
+</Thread>

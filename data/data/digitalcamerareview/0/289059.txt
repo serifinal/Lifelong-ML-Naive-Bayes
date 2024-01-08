@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help! Lens all messed up</Title>
+		<Username>Jacobman</Username>
+		<Datetime>08-15-2009, 01:58 PM</Datetime>
+		<Content>Alright we had a party last night and my lens has cake and stuff all over it. Right now the plastic cover wont slide open, ill work on that first. Any suggestions on cleaning/recovery, i know im not the first to have this issue. Its a canon SD1200is, thanks!</Content>
+	</Post>
+</Thread>

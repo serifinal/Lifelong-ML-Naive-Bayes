@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>First Reference TV in three years - Panasonic VX300 Review</Title>
+		<Username>Phil Hinton</Username>
+		<Datetime>25-11-2011, 6:35 PM</Datetime>
+		<Content>Panasonic Professional VX300 (TH-65VX300) 65 Inch 3D Plasma TV Review | AVForums.com - UK Online Steve's review is now live. Yes, it's £8K but it is the first TV to get a reference badge from us in three years! Video summary as well. Panasonic TH-65VX300 3D Plasma TV Review - AVForums - YouTube</Content>
+	</Post>
+</Thread>

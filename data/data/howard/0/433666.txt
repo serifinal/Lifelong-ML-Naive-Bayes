@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy Spica</Title>
+		<Username>boblazaar</Username>
+		<Datetime>05-20-2010 07:48 PM</Datetime>
+		<Content>Selling my mint Samsung Galaxy Spica. Comes with everything that came in the box and the box itself. $300 or best offer. Phone is mint, only used for 3 weeks. Still has the screen protector on it. Would like it gone asap!</Content>
+	</Post>
+</Thread>

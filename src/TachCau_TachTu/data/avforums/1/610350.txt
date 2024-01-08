@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Should I buy a Kuro LX-5090 now?</Title>
+		<Username>jul1anr1k</Username>
+		<Datetime>15-01-2012, 12:28 AM</Datetime>
+		<Content>I bought a VT30 this summer, but too many faults and bugs made me return it shortly after. I figured I should wait a year, for the 2012 models, but now I have heard that a retailer nearby has two new LX-5090 in stock, and I'm considering if I should buy one or not. The price is 1800 GBP. What do you think? Is it getting too old now, and what price would you pay for one? Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>my thoughts on the S5 IS</Title>
+		<Username>whitetiger777</Username>
+		<Datetime>04-24-2008, 02:37 PM</Datetime>
+		<Content>I decided to get this camera as a replacement for my S1 IS. Overall, I'd say it is an improvement over my former camera, but it still has the same focusing issues that my old camera has. Perhaps I'm missing something, so I won't say that I'm unhappy with this camera. I get some really great pictures with it. I mostly use it for taking pictures of my baby daughter and when it focuses correctly I get some amazing pictures. I can usually tell when it's not going to focus correctly, but I miss a lot of pictures when I try to grab the camera and then it takes a while to get focused. Once I have it going, I can usually get a decent picture, but sometimes it takes a while before I can figure out the focusing. I thought the color accent feature was a great idea, but I've had some trouble getting it to work the way I wanted. I don't use the video feature of the camera, because I recently bought a camcorder for longer movies of her firsts, so I can't say anything about that. I would say this is a good camera, and I'm glad they added the macro feature, because my S1 IS didn't have that. It doesn't do everything the way I would prefer, but it is a good camera, if you have some patience to get the focusing correct and have time to set it up without missing your shot.</Content>
+	</Post>
+</Thread>

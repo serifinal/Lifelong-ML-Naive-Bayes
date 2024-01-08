@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon G12 compatible external Flashes?</Title>
+		<Username>Abletech</Username>
+		<Datetime>03-08-2011, 09:29 AM</Datetime>
+		<Content>Good Morning All, I've just bought a Canon G12, Vivitar DF-483-CAN flash, and Vivitar cord VIV-FC-CAN. Everything is brand new. With the flash directly in the hotshoe it seems to work fine(though about 2/3 stop overexposed for my taste) With the extension cord the in-camera flash is disabled but the flash does not fire (in any mode), or show indication of control of the flash or match zoom setting. nothing. I have checked with a multimeter that there are no shorts in the cable. The four small contacts show continuity and the larger contact at the top shows an open circuit. From what i can decipher from various searches, the large contact is unused. I bought this flash to have a master w/less control unit without the size and weight of the Canon Speedlite 580EX II Flash. I was about to spring for the original cable OE-C3, but with the Vivitar cord in hand and looking at the magnified OE-C3 image on the Canon website they are the same unit. ( all markings, line-up and construction of flex-guard). Has anyone here had success with an off-market E-ttl flash cable with the G12? I live in the Caribbean and the cost of these items start at 50% more than the US. I thought i was making agood choice by going with Vivitar. The Nissin and Sigma flashes have too many reports of failure for my comfort. The G12 seems to have small but significant changes to firmware that hinders full compatibility with flashes that work on the G11. If you could confirm an off brand E-ttl cable that is compatible it would be greatly appreciated. thanks Tony</Content>
+	</Post>
+</Thread>

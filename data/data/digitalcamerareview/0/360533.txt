@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A540 Image Quality</Title>
+		<Username>tribefan</Username>
+		<Datetime>02-23-2007, 11:33 PM</Datetime>
+		<Content>I've read some reviews that say pictures taken by the A540 are "soft." What do you guys think about the image quality of photos taken with this camera?</Content>
+	</Post>
+</Thread>

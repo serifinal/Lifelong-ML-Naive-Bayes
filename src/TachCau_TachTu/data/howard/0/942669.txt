@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Telus BlackBerry 9800 Bold Slider</Title>
+		<Username>ice1124</Username>
+		<Datetime>05-23-2010 10:40 PM</Datetime>
+		<Content>The newest BB looks like it will come to Telus! Link to the site</Content>
+	</Post>
+</Thread>

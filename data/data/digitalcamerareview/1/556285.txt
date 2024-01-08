@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon VS Sony</Title>
+		<Username>jasmine3407</Username>
+		<Datetime>03-17-2008, 10:57 PM</Datetime>
+		<Content>My last two digital cameras have been Sony's, and I haven't been very happy with their picture quality, overall. I heard that Canon is basically top of the line when it comes to picture quality, and I wanted to know what you Canon-owners think about this! It's time for a new camera for me, and I don't know if I should get the new Sony DSC W170 that's coming out (it does boast new features that might make the pictures come out better than previous models), or just scrap Sony altogether and get a Canon. Any ideas?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Ditching Old Phone, Switching to iPhone</Title>
+		<Username>tave</Username>
+		<Datetime>03-15-2010 09:37 PM</Datetime>
+		<Content>Quick question guys, sorry if this has been asked before Through searching, i know that an unlocked 3gs 32gb iphone will work on the new bell network with a sim card.......but since i already have an existing bell plan on my lg vantage (non-smart phone, and internet has been disabled) can i just ask them to give me a sim card, and put it in my iphone? no questions asked? and still remain on my old plan?</Content>
+	</Post>
+</Thread>

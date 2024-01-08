@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official LNXXA650 Calibration/Settings Thread</Title>
+		<Username>COLLOSUS76</Username>
+		<Datetime>03-22-08, 12:21 PM</Datetime>
+		<Content>Hey all, Wanted to start a Calibration thread for this bad boy. I am not an expert and there isn't that many owners yet. But I guess I could get the ball rolling so here are my settings as of now. I am not an expert and please feel free to critique my settings as much as possible. Just be nice about it, I hurt easily LOL Movie Mode Backlight- 5 Contrast- 92 Brightness- 45 sharpness- 0-20 depends for me. color- 54 tint- G52/r48 Detailed settings Black adjust- medium Dynamic Contrast-Low Gamma-0 Color Space-Native for now . This is where I will need help with. Seems like their is a lot of tweaking you can do here. White balance-All default for now. Need help with this also. Flesh Tone- -2 Edge enhancement- on Picture Options Color tone- Cool 1 Size-Just scan. ( you can adjust the screen position with just scan. Well a little bit of adjustment. Digital NR- off HDMI Black level- Low Amp 120hz- High Set up Energy Saving -Low There you go guys. these numbers will be changing A lot i'm sure LOL PS yeah I mispelled Settings LOL PSS I am a noob, fixed title name. My keyboard seems a bit jumpy today. Yeah that's it, My keyboard HAHA</Content>
+	</Post>
+</Thread>

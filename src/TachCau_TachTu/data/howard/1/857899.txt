@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Micro SD Cards 32 Gig for the Bold 9700</Title>
+		<Username>Fleury7</Username>
+		<Datetime>11-01-2009 08:01 PM</Datetime>
+		<Content>I'm pretty excited about the 9700 and I want to use it to it's full abilities once it comes out. One of the things I've been doing is trying to find MicroSD 32 Gig Cards, and they seem to be surprisingly rare. The only place I've found them in Ebay really, and they are listed over 100 bucks. Anyone have any idea where to pickup some cheap MircoSD 32 Gig Cards that will go so nicley into my 9700? Thanks in advance!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How do i save photos and videos</Title>
+		<Username>beatmiester</Username>
+		<Datetime>12-18-2009 07:55 AM</Datetime>
+		<Content>How do i save photos and videos in a phone swap i just got a replacement droid and i want to save the photos and videos and what else should i save before i swap it out??</Content>
+	</Post>
+</Thread>

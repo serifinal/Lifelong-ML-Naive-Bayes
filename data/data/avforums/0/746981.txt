@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS51D550 buzzing noise</Title>
+		<Username>mentos</Username>
+		<Datetime>08-06-2011, 5:12 PM</Datetime>
+		<Content>hi all purchased this tv from pixmania (doh!!) on the 25/5/2011 i notice when it gets later on in evening when you turn the tv down a bit i hear buzzing sound from tv when light images are shown,like a white background and such. during normal daytime use i dought if you would really notice but as i like to watch tv later into the night it seems to annoy me. is this completely normal or if you can hear the buzz over the sound it is a case for replacement? i have called up pixmania who say send it back and they will send it away to be looked at and it can take 21 days?? but then recieved this email Thank you for calling This is concerning your product that has gone faulty, actually there is a possible to get a new product because you are within time frame, but we need you to contact the Tech guys on 08448006020 and request for an uplift number, if they refuse to do that request for the name of the person you spoke to or reference of the call. Please call us back with the uplift number or reference of the call together with serial number of your television and we would do an exchange for you. Do not hesitate to call us for further information. Best Regards, Team Pixmania i called tech guys who will not have anything to do with it and request that i speak now to samsung,but i allready spoke to them and they say speak to pixmania!! i seem to be going around in circles here. if i was to send back would i have to wait days for a replacement or would they do a swap at point of collection?? any ideas what to do pls?</Content>
+	</Post>
+</Thread>

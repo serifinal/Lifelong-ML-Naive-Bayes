@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Appleseed: Ex Machina on 360-Who's watching?</Title>
+		<Username>LAKE4742</Username>
+		<Datetime>03-13-08, 10:51 AM</Datetime>
+		<Content>First, I'm not much of an anime fan. But I have fond memories of Akira, which I think included a great story. I heard about the plot first, and thought it was a animated film worth seeing-and I was right. I enjoyed it alot, and thought it was well done-for a cartoon. Now I have the same type of intrigue about Appleseed: Machina. The look of it seems cool. But, from what I've read, the story seems interesting as well. So, does anyone have any insight about this film. Is this the first of Appleseed, or are there previous books or shows about it? Has anyone seen this film? I'll be downloading this one, and hopefully it'll be as good as Akira.</Content>
+	</Post>
+</Thread>

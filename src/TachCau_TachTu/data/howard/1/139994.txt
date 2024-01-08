@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>iPhone 4 pre-order questions\launch day purchase question</Title>
+		<Username>jeffro01</Username>
+		<Datetime>06-12-2010 06:06 PM</Datetime>
+		<Content>Sorry if this is in the wrong spot, the iPhone forum didn't seem to fit as well. In any case, I have a few questions that I hope people here can answer. 1. Will the iPhone 4 pre-orders be available on the premier site? My wife gets a discount through her employer and I am thinking of switching and activating via the premier site. 2. I am looking at a 2 iphone, 2 line family plan. The recent launch information suggests that if we added the FAN later and went to an at&t store on launch day that we would be restricted to one iPhone even though we want a 2 line family plan. Is that really correct? 3. How difficult is it to add the FAN after the fact? Her discount gives free activation. If we add the FAN later will we be able to get a credit for the activation fee? EDIT: 4. Does at&t offer any sort of service like caller tunes AKA ring back tunes? Thanks!!!! Jeff</Content>
+	</Post>
+</Thread>

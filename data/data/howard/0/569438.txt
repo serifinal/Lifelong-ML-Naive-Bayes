@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>For Sale: FACTORY UNLOCKED Apple iPhone 3G 8GB black</Title>
+		<Username>kalbri</Username>
+		<Datetime>06-05-2010 05:33 PM</Datetime>
+		<Content>This is a factory unlocked Apple iPhone 3G from Belgium. The software can be updated without fear of re-locking the phone. http://cgi.ebay.com/ws/eBayISAPI.dll...#ht_500wt_1154</Content>
+	</Post>
+</Thread>

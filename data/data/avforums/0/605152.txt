@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Best Picture Settings For Panasonic G30</Title>
+		<Username>Lord Essex</Username>
+		<Datetime>27-04-2011, 9:25 PM</Datetime>
+		<Content>To get things going here are the night time settings I am using on my 50"G30, Viewing Mode: Professional 1 /Contrast: 35/ Brightness 27/ Colour: 31/ Sharpness: 1 or 2 / C.A.T.S ,P-NR,Intelligent Frame Creation, Resolution Enhancer, Overscan, ALL OFF: White Balance: R-Gain -1/G-Gain -6/B-Gain +2/R-Cutoff+2/G-Cutoff-5/B-Cutoff 0 Colour Management:R-Hue -3/G-Hue -6/B-Hue 0/ R-Sat 7/G-Sat-1/B-Sat +1/R-Lum-2/G-Lum+4/B-Lum+4 What settings are you using/any comments?</Content>
+	</Post>
+</Thread>

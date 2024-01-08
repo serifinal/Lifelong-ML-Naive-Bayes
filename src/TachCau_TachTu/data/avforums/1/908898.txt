@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Modern Plasma's Region Free?</Title>
+		<Username>F27</Username>
+		<Datetime>07-07-2011, 9:17 PM</Datetime>
+		<Content>Are all modern Plasma's capable of displaying both NTSC and PAL video on the actual screen? (apart from the in-built tuner for live TV which is obviously PAL only). Because I have lots american AV equipment, DVD's and games consoles and I'm buying a UK TV, will they work? Old PAL TV's used to go grey when fed with NTSC video. Thanks</Content>
+	</Post>
+</Thread>

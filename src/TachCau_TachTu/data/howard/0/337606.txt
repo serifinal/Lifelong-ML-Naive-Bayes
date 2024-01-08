@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Outgoing mail server</Title>
+		<Username>Towertester</Username>
+		<Datetime>08-11-2009 02:45 PM</Datetime>
+		<Content>Since mail.alltel.net is now disabled, what does VZW use for the outgoing mail server for PPCs? VZW tech support had no idea of what I was talking about. My regular smtp-server settings at home will not work on the road with my aircard or my PPC. Thanks.</Content>
+	</Post>
+</Thread>

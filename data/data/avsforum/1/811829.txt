@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung 550 vs. Panny 800U? HELP DECIDING</Title>
+		<Username>wheeloplus</Username>
+		<Datetime>09-16-08, 05:33 PM</Datetime>
+		<Content>I'm looking to get my first Plasma, have been researching reviews and forums online for most of the day today and I think it's come down to either the Samsung PNA550 for $1472 and the Panasonic 50PZ800U for $2114. That's a big difference in price and have read all over the net that the 800U is arguably the best on the market right now at least around that price point. But, have read high praise for the 550 as well. So, I'm trying to decide if I want to spend the extra $650 on the Panny. It is going to be mounted in a small-medium sized room and used mostly for HDTV, sports specifically. Any feedback would be much appreciated. Thanks guys.</Content>
+	</Post>
+</Thread>

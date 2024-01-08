@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Power Chot SX 20 IS.... What's up with the flash?</Title>
+		<Username>pabloottawa</Username>
+		<Datetime>12-04-2009, 05:18 PM</Datetime>
+		<Content>Hey all, Hope someone can help as I just purchased this camera and I am a total noob. The problem is that with the flash set to auto, IT decides when to use the flash and when not to... This is frustrating as it often opts to NOT use the flash when the dial is in AUTO mode. From what the manual tells me, all I have to do to turn the flash on so it uses it for every pic is to press the lightning button and set it to the perm flash setting. This of course is only when the camera is in "P" mode which means I have to program everything manually for just one shot. Does anyone know how I can get the flash to fire on every "AUTO" mode shot? Thanks Pablo</Content>
+	</Post>
+</Thread>

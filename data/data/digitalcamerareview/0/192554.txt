@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Digital Rebel XT (EOS 350D) Digital Camera Review Discussion</Title>
+		<Username>yusakugo</Username>
+		<Datetime>05-08-2005, 11:00 PM</Datetime>
+		<Content>The Canon Digital Rebel XT is a powerful camera that provides a relatively easy learning curve for newcomers and features deep enough for professionals. The price of the camera is more than reasonable and offers a compelling choice to upgrade from the original Digital Rebel due to the speed and flexibility. Read the full content of this Article: Canon Digital Rebel XT (EOS 350D) Digital Camera Review</Content>
+	</Post>
+</Thread>

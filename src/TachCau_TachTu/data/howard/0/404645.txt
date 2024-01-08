@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>ST international texting</Title>
+		<Username>jjrbus</Username>
+		<Datetime>11-12-2009 01:10 AM</Datetime>
+		<Content>I read that ST does not have International calling or texting. I have sent a text to the Philippines on my ST phone and it was received. This I am 100% sure of. Was this a glitch in the system or is international texting available on ST?? JIm</Content>
+	</Post>
+</Thread>

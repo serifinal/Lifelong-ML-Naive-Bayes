@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>N900 and Cradlepoint router compatibility</Title>
+		<Username>Scottish Skyedance</Username>
+		<Datetime>12-23-2009 09:59 AM</Datetime>
+		<Content>Tried to use CTR-500 to tether N900, no success, got error "incorrectly configured". no matter how I put the dialup AT command and whatever APN, no luck. If you're planning to buy Cradlepoint router to use with N900, please think twice.</Content>
+	</Post>
+</Thread>

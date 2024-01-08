@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Calling my Great Plains/Midwest Peeps: State your location!</Title>
+		<Username>danny.boi</Username>
+		<Datetime>03-04-2009 08:25 PM</Datetime>
+		<Content>I thought this would be a good opportunity for those of you locals to get to know eachother better. You can read my entry in the West / Desert Southwest sub forum here: http://howardforums.com/showthread.php?t=1503908 What's your story?</Content>
+	</Post>
+</Thread>

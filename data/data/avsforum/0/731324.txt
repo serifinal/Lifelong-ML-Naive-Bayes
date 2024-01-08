@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Will the BDA eventually become more powerful than the DVD Forum?</Title>
+		<Username>Richard Paul</Username>
+		<Datetime>02-29-08, 01:33 AM</Datetime>
+		<Content>Will the BDA eventually become more powerful than the DVD Forum? Personally I think it could happen in as little as 3 years but I am curious to see how many people think that it will never happen. Also to clarify what I meant by "more powerful" I was thinking along the lines of total economic effect on the marketplace.</Content>
+	</Post>
+</Thread>

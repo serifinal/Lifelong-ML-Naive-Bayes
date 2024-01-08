@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>problems streaming to panny</Title>
+		<Username>itsmynewname</Username>
+		<Datetime>01-01-2012, 5:08 PM</Datetime>
+		<Content>Hi all just setup my pc to be connected to my 42gt20b using ps3media server. Divx files will stream without a hitch but as sonn as i try mkv files it just wont read them. I have converted the files already to remove the dts audio as this was supposed to cause problems but all to no avail. The bizarre thing is the very first time i tried to stream kung fu panda over the wireless network it started but was choppy so i stopped and hard wired the pc to the network and now it wont play the file at all. It clearly states in the manual that the tv will stream mkv files so where am i going wrong???</Content>
+	</Post>
+</Thread>

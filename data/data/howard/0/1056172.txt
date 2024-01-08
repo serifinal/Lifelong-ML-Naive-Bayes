@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Family Plan with Data</Title>
+		<Username>wirelessnoob</Username>
+		<Datetime>01-04-2010 09:26 PM</Datetime>
+		<Content>Hi everyone, My wife and I are looking for the best cell phone plan for our needs. Currently: Her: LG Xenon locked to Fido on $10 monthly prepaid. Using for voice only and buying the occasional $1 daily data pass. Me: Nothing right now. Changes: I'll be getting a BB 9700 as a gift - locked to Rogers but bought without a contract. She would would like to get some basic data usage on her Xenon for Twitter, minimal web browsing, etc. Unfortunately, Fido doesn't allow the $10 browsing add-on for a prepaid. Also, we would like to consolidate on to one family plan bill since I can likely expense both phones at work, but only if on one plan. However, not many family share plans have a data add-on. Leading Option: $100 Rogers Family Share Plan 1GB Shared data (should be more than enough for my expected BB use and her Xenon browsing) Have her Xenon unlocked so she can function on Rogers network Questions: 1. What are your thoughts on this family plan, or are there better alternatives with data? 2. Will Fido provide an unlock code for a Xenon that is not on a contract and that we would migrate over to Rogers anyways (all one company, and they win by getting her on a postpaid family plan). 3. Any other issues you guys see with going this route? Appreciate any insight you might all have. Much appreciated! Josh</Content>
+	</Post>
+</Thread>

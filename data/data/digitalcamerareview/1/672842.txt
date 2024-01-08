@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD600 vs SD700is</Title>
+		<Username>Kabs</Username>
+		<Datetime>01-06-2007, 03:36 PM</Datetime>
+		<Content>Currently the SD600 is around 200 while the SD700is is 320. I looked both of these camera's up and can only see a zoom difference and IS difference between these 2 cameras. Is there anything else I need to know? Cuase im ready to get the 600 since its a much better deal</Content>
+	</Post>
+</Thread>

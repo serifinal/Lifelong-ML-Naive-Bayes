@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Black bars and image retention</Title>
+		<Username>RedJed</Username>
+		<Datetime>01-02-2012, 11:34 PM</Datetime>
+		<Content>Hi all Just got a new p42St30 and loving it. Run up around 90 hours of viewing thus far. Viewing in true cinema and zooming in to avoid static images, black bars, etc. This is my first plasma. Just noticed today when I started to watch my first 3d blu ray (Captain America) that I couldn't use the aspect button on the remote to get rid of the black bars. Changed to 2d but still unable to change aspect or zoom black bars away. Consequently, I have a few questions and would really appreciate some input: Is there some other way of getting rid of the black bars? Seems like the blu ray won't play any other way than with black bars and I'm afraid of getting image retention if I play the disc. If not, and I view with black bars, do I run the risk of getting some image retention? What have others found when viewing movies with black bars? Is there a point when one doesn't have to worry about watching movies with black bars? I hope so, as I don't want to be constantly worried about image retention when watching movies that seem to be resistant to the aspect button. Appreciate any input.</Content>
+	</Post>
+</Thread>

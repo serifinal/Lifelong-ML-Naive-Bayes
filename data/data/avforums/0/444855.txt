@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does your 2011 Panasonic Plasma suffer from the green "blob" issue?</Title>
+		<Username>brembo</Username>
+		<Datetime>07-12-2011, 11:51 AM</Datetime>
+		<Content>I thought I'd start a poll to get a rough idea of how many panasonic sets have suffered from the "dreaded blob". Obviously this won't be an accurate representation of how many have actually been affected all over, but it will help give a rough idea. In my mind if for example over 90% of people on this forum have suffered from it then I'd say it might not be a good sign (unless it's just those that have suffered that vote ) Anyway have you suffered from the green blob? Discussion of the issue can be found here: Green Tinge Fault - Panasonic (VT30, GT30 and ST30) *Part 2*</Content>
+	</Post>
+</Thread>

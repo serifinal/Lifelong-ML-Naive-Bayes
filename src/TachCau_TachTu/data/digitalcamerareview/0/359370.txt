@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Point and Shoot Options?</Title>
+		<Username>vbhambhani</Username>
+		<Datetime>11-20-2010, 03:05 PM</Datetime>
+		<Content>Hi!!. I do have Canon PowershotvSX130 IS... but i don't know how to use Point and Shoot option...Can any one help in this.</Content>
+	</Post>
+</Thread>

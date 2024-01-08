@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cleaning My Rebel XT</Title>
+		<Username>andrewq</Username>
+		<Datetime>02-21-2008, 09:30 PM</Datetime>
+		<Content>Any ideas on cleaning your camera? I've noticed dark areas on pictures that have to be dust somewhere in my camera. I clean my lenses all the time so I don't think the dust is there. If there is a thread pertaining to this topic I'm sorry, please direct me to it. If not, I'd love some ideas before I dive in with a lens cloth wiping stuff that should not be wiped. Thanks, Andrew</Content>
+	</Post>
+</Thread>

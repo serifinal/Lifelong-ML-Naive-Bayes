@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What are your favorite sources for video content on the web?</Title>
+		<Username>mclamais</Username>
+		<Datetime>08-25-08, 03:03 PM</Datetime>
+		<Content>I was hoping on use my new Mac Mini HTPC for web surfing and it some cases getting video content from web. I figured sites like hulu.com would be pretty nice on the TV, are there other folks here recommend? Of course I know YouTube and the like, I'm talking more about full length content. Please list any free or subscription services you use.</Content>
+	</Post>
+</Thread>

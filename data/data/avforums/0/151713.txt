@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Hitachi 42PD6600 Video display fault</Title>
+		<Username>bravolima</Username>
+		<Datetime>06-08-2008, 1:53 PM</Datetime>
+		<Content>Hi all, I have a Hitachi 42PD6600. Last week the tv would not output any signal on the screen except from the scart2 socket. No Component (xbox 360) or HDMI (PS3) or any other input would work. Freeview digi box and Xbox 360 Scart were tested and only scart2 would allow a picture to be displayed. When i selected the input (HDMI, Component, any other scart) in the channel select menu the tv would lock up, display a black screen and the tv would not accept any input from the remote control. I had to either turn off the tv or wait for ages till the tv reset itself to channel 11. I had a service engineer visit from Comet and he didn't really do much except confirm the fault. He said that the video board would need replacing in the tv and when he finds out which board it is he would return and replace it, probably in about a week. After he left I input the engineers code on the remote, as I had seen him do it and memorised the code, and with nothing to loose I performed a factory reset in the engineers menu and now everything works fine!! The question now is do I get them to replace the board or do I leave it and hope everything is ok?? My warranty expires in Jan 2009. Thanks in advance folks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: help please!</Title>
+		<Username>lenamchristian</Username>
+		<Datetime>12-25-2010, 12:11 AM</Datetime>
+		<Content>Please help. I have a Canon Powershot SD 780 IS. I shoot HD movies on it from time to time and recently the movies are in black and white. Previously it was in color. Did I do something to change it? What should I do to get the color back? lenamchristian</Content>
+	</Post>
+</Thread>

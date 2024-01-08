@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Beginning Stages - Sunrise Estates Theater / Basement Finish</Title>
+		<Username>djstretch</Username>
+		<Datetime>07-23-08, 02:29 PM</Datetime>
+		<Content>First off, I want to thank the many users on this forum that I have learned things from while doing my HT construction research (in other words, I was leeching) LOL I have been visiting this forum from time to time taking in bits and pieces here and there and am now ready to start my HT construction thread. This build will probably be a long running one since I don't always have a ton of extra time to work on it but when possible, I will get into the basement and always post updates and lots of pics. My HT Room is 26'4" x 13'3" x 8' ceilings -- Very long room but I'll make do My plan is 3 rows of seating, 2 sets of dipoles on the sides and 1 set of either dipoles or standard speakers in the rear. Below is a concept image of my plan. The blue lines indicate the room being divided into 7's for surround placement purposes (I read a thread on this forum that suggested doing that....any thoughts??) The concept image also shows 8 columns. The double height risers will both be filled with sand and vented as bass traps. Is this overkill on the bass traps? Here is a view of the HT area (sorry for the terrible picture quality - taken with iPhone) Here is a second shot...added a simple 2x4 front wall to go up against the cement exterior wall. The screen wall will be built about 2 ft in front of this. Also started playing with layout positioning (that's what all the scrap wood is on the floor)</Content>
+	</Post>
+</Thread>

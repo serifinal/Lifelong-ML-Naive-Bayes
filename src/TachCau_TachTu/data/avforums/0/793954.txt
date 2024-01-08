@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>picture/colour distortion on plasma</Title>
+		<Username>cally1972</Username>
+		<Datetime>16-01-2012, 9:49 PM</Datetime>
+		<Content>Hi Just before Christmas our samsung lcd tv started playing up, luckily we were still in warranty by about month, so we were able to pick another tv to a certain value. We have now gone for a 50" Panasonic Plasma tv. I'm not sure however if we have a faulty set. Is it normal for a plasma to have colour/picture distortion on fast moving images?? Its quite hard to explain what I mean, all i can compare it to is you know when you press your finger on a calculator screen it goes funny, well its similiar to that As I have never had or watched a plasma tv I have no idea whether this is normal. Sorry to sound so vague! Thanks</Content>
+	</Post>
+</Thread>

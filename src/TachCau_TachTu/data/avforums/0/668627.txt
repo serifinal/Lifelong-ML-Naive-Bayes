@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Discovered slight problem with PV500</Title>
+		<Username>FlyingBig</Username>
+		<Datetime>14-06-2005, 9:05 PM</Datetime>
+		<Content>Took me all of a day but this is the only serious one i have found and even then its not a show stopper but concerns me anyway. Now this maybe an issue with Panasonic sets and not just the pv500 as i remember reading about it before. Basically its easy to spot using sky digital and anyone can try it now and see the problem for themself. If you are watching a programme with a dark scene try bringing up the channel switch display by pressing up on your sky remote and as the sky display pops up will notice the dark part of the pictures brighten up and will darken when the channel display disappears after 5 seconds or so. Now i use this as an example but i have noticed this happening while watching any programme without bringing up the channel disaplay and even noticed it during a boxing match as part of the background tends to be dark and i noticed on quite a few ocassions these parts of the screen brighten up. Not sure exactly what is causing but if anyone can shed some light on it i would greatly appreciate it, i am hoping it has been discussed before and maybe can be fixed by changing a setting within the service menu. Jonathan.</Content>
+	</Post>
+</Thread>

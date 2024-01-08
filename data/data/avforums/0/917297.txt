@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What are these marks on my plasma screen?</Title>
+		<Username>the whistler</Username>
+		<Datetime>01-02-2011, 6:36 PM</Datetime>
+		<Content>Any plasma experts here who would like to tell me what these marks are? They are on the INSIDE of the screen. (Just to the right of the words Scotland and Wales)</Content>
+	</Post>
+</Thread>

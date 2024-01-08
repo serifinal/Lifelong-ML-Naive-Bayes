@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T3i Video AF</Title>
+		<Username>filza</Username>
+		<Datetime>07-17-2011, 09:31 AM</Datetime>
+		<Content>Is there anyway the T3i has Autofocus in Video Capture??? sometimes manual can get annoying!</Content>
+	</Post>
+</Thread>

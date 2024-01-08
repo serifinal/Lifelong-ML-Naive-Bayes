@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I Just Installed Froyo 2.2!</Title>
+		<Username>josesxi</Username>
+		<Datetime>05-22-2010 03:07 PM</Datetime>
+		<Content>You can get the link to the update from this page: http://www.engadget.com/2010/05/22/a...dy/5#c28118849</Content>
+	</Post>
+</Thread>

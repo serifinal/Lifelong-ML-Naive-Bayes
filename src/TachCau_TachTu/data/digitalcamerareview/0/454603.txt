@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Sx30 Vs Nikon P500</Title>
+		<Username>MOBARAK ZAYED</Username>
+		<Datetime>09-28-2011, 03:22 AM</Datetime>
+		<Content>Hi Guys Which Camera To Buy A canon Sx30 Is Or A nikon Coolpix P500 ? Either Goes For $350 ! Please Be Generous In Comparison ! For $350 I Would Like My Camera To Do Everything Nothing Less. I Might Be Sometimes Concerned In Baby Shooting ! They Always Unpredictably Moving Suddenly. Their Smily Faces Could Only Last A Second ! Thanks</Content>
+	</Post>
+</Thread>

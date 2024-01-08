@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>will lenses from a REBEL XT work on a EOS 7D ?</Title>
+		<Username>trx680</Username>
+		<Datetime>12-14-2011, 06:12 PM</Datetime>
+		<Content>My wife has a Rebel XT, I want to buy her a 7D. Will the lenses from the XT work on the 7D?</Content>
+	</Post>
+</Thread>

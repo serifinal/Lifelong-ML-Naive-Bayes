@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30 Problem playing MP4 through NAS</Title>
+		<Username>mark8par</Username>
+		<Datetime>12-06-2011, 2:36 PM</Datetime>
+		<Content>I have a Panasonic VT30 50 and have it connected to my Synology Nas drive. The problem is that when i try to play MP4 films though it i get no sound any other format seems fine. This was not a problem for my Samsung UE55C7000 thats just been returned.</Content>
+	</Post>
+</Thread>

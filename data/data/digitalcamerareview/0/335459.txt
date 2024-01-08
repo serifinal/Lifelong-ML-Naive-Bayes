@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Lost data from SD card - help!</Title>
+		<Username>ilesmark</Username>
+		<Datetime>11-05-2010, 08:25 AM</Datetime>
+		<Content>Hi all I have a Canon 550D. While I was in Tanzania recently, I filled one of the SD cards up with videos and pics and went to an internet cafe intending to get the data off the card and onto a DVD. Bad move. When I tried to do this, it told me the DVD had burned but then there was no sign of any data on the DVD. I did not delete the data from the card, only copied it. When I put the card back in the camera and tried to take a picture, it said 'unable to create folder' (or words to that effect) and then said 'no image' when I tried viewing any of the pics. I did nothing more with that card after that until I got home yesterday and put it in my home PC. I opened it in Windows Explorer and momentarily saw the usual DCIM and MISC folders, then immediately the McAfee Anti Virus software told me it had intercepted 2 viruses on the card. Now, viewing it in Windows Explorer, I can see no data on the card and neither can I see the DCIM or MISC folders. BUT when I right click on properties, it tells me the card remains full almost to capacity. How can I get the pics/videos back? Thanks Mark</Content>
+	</Post>
+</Thread>

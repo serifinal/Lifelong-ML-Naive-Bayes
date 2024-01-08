@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Parasound 2250 or Sunfire Cinema Grand</Title>
+		<Username>JohnFR</Username>
+		<Datetime>07-22-08, 07:17 PM</Datetime>
+		<Content>I've never had a separate power amp before (using a Denon 3803) but am shopping for a new pair of floorstander speakers and feel like I might want a little more power. I know a guy selling a used Parasound 2250 250-Watt 2ch ($600 used) and a Sunfire Cinema Grand 200-Watt 5ch ($700 used). I have a 5.1 system but mostly interested in improving my 2 channel sound and could continue to use my receiver for the center channel and surrounds. I also was wondering about the Outlaw Audio 200-Watt monoblocks ($350 apiece). I'm trying to stay under $800, but obviously I don't want to get something that doesn't offer substantial improvement over my Denon in terms of quality. Any opinions on these amps are appreciated.</Content>
+	</Post>
+</Thread>

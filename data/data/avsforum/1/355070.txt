@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sharp LC42D64U or Samsung LN40A550</Title>
+		<Username>brob99</Username>
+		<Datetime>07-01-08, 06:32 AM</Datetime>
+		<Content>Well today I'm going to be buying one of these TV's since they are both on sale. Until a few days ago I was completely set on getting the D64 but I'm been really leaning on the Samsung. It's 2'' less but for $200 less I'm willing to go with it if the PQ is better. So which TV is better? Thanks Sharp AQUOS LC42D64U http://www.bestbuy.ca/catalog/prodde...47&catid=24558 or Samsung LN40A550 http://www.futureshop.ca/catalog/pro...099946&catid=#</Content>
+	</Post>
+</Thread>

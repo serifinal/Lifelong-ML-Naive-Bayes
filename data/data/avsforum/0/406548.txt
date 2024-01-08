@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>need HELP w/ waves in my 120" screen!!! please read</Title>
+		<Username>Pure-Evil</Username>
+		<Datetime>11-02-08, 06:45 AM</Datetime>
+		<Content>ok. i have a 120" electric screen and it has developed some ripples or waves in it going from the outside towards the center. is there anything i can do to get rid of these waves???? it creates a sort of shadow on the screen, and i really notice it and it's driving me nutz. my GF says she can not see it, but i am a perfectionist and not happy with this. any help would be appreciated!!! also, is this something that happens to pull down/electric screens over time normally? would i be better off with a fixed frame screen? if so, i might just cut the screen from the housing and make my own frame and attach it to that so it's pulled tight...TIA</Content>
+	</Post>
+</Thread>

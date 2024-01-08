@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Soap Opera effect on Powershot</Title>
+		<Username>WhiZa</Username>
+		<Datetime>04-16-2010, 02:43 PM</Datetime>
+		<Content>Does anyone know the setting that would create a soap opera effect on my Powershot? I just need to know if it's a setting or something actually wrong with the camera. Thanks</Content>
+	</Post>
+</Thread>

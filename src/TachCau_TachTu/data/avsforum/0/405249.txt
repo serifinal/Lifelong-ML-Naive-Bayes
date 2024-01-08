@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Grainy Sonotube Finish</Title>
+		<Username>swissarmybottle</Username>
+		<Datetime>05-26-08, 01:06 AM</Datetime>
+		<Content>I'm trying to start putting together a sonotube subwoofer, but I do not want a carpeted or a very smooth glossy look. What I want is something like the pic below. Can anyone tell me how to recreate this finish? The sonotube is very highly condensed cardboard.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD600 higher resolution 2.5 lcd than others</Title>
+		<Username>ryns2</Username>
+		<Datetime>06-06-2006, 11:04 AM</Datetime>
+		<Content>I have noticed that the specs on canon's website show that the 2.5 lcd on the sd600 have 173,000 and all the other SD's with 2.5 lcd have 115,000. Can anyone verify this? Also, the sd630 with the 3 inch lcd has 173,000, so you get a half an inch with no more pixels.</Content>
+	</Post>
+</Thread>

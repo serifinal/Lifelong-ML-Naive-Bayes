@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Any disadvantage to iTunes 9?</Title>
+		<Username>BB_Guy</Username>
+		<Datetime>11-03-2009 01:22 AM</Datetime>
+		<Content>Hi there, after reading a bunch of posts about NOT upgrading to 3.1, I decided 3.0.1 might be a better bet. I'm not really planning on unlocking, but if it'll help resale value, then I'm all for it. Anyway! Is there any disadvantage to using the newest iTunes 9 version (as of Nov 3rd)? As a backgrounder, my iPhone is on 2.2.1 right now, I reformatted my computer with my old iTunes and backups on it, so I now want to "re-backup" again with the current firmware version just to be safe... then I'll try to go to 3.0. Will iTunes 9 (or any version for that matter) force me to upgrade to 3.1 or do anything to the baseband etc that will prevent unlocking in the future? Thanks.</Content>
+	</Post>
+</Thread>

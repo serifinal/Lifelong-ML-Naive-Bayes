@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: Bell Samsung Galaxy S Vibrant</Title>
+		<Username>Kentel</Username>
+		<Datetime>09-06-2010 01:57 PM</Datetime>
+		<Content>Want to buy Bell Samsung Galaxy S Vibrant ... New or mint condition, in GTA area only. PM me price.</Content>
+	</Post>
+</Thread>

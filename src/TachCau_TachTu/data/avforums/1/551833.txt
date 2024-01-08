@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS51D550 or Panasonic TXP50ST30?</Title>
+		<Username>AMar82</Username>
+		<Datetime>29-12-2011, 5:55 PM</Datetime>
+		<Content>Hi everyone, I am currently in a toss-up between the Samsung PS51D550 and the Panasonic Viera TXP50ST30. I was almost sold on the Panny, but the issues with green tinges has put me off somewhat, and the Sammy has now got my attention, with great reviews, cheaper price and an extra inch in screen size. However, one of the dealbreakers for me on this choice is the screen reflection that I have noticed people complain about in regards to this Samsung model. I have already posted on another part of these forums for advice on the Samsung's reflection issues, but I also need some general advice on what people think is the best deal out of the following: From John Lewis: I can get the Panasonic with 2 free pairs of 3D glasses and a free five year warranty, for £699. From Pixmania: I can get the Samsung for £616 including delivery, but only with one year standard warranty and no 3D glasses. Firstly, which do you think is the better deal? Secondly, which do you think is the better TV? Thirdly, weighing up the best deal vs the best TV, which do you think I should go for? Thanks in advance!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A590 IS registration question</Title>
+		<Username>Blackened</Username>
+		<Datetime>03-13-2008, 04:06 PM</Datetime>
+		<Content>Hi guys, great site you have here. After reading alot of the comments and reviews on the A590 IS and its predecessor the A570 IS on the site I've decided to return my recently purchased Nikon L18 in favor of the A590. It really is a great camera and I'm anxious to dig into the users guide to try and gain an understanding of all it's functions as this is my first camera. I went to register my camera online though and the A590 is not listed in the pulldown menu and I'm wondering if anyone knows why or could suggest what I should do.. http://www.usa.canon.com/consumer/co...ineRegIndexAct Thanks in advance</Content>
+	</Post>
+</Thread>

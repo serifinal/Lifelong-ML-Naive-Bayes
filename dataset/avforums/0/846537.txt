@@ -1,0 +1,12 @@
+coloured vertical bars on lg 50pg3000 .
+hello .
+i have a problem with my brothers lg 50pg3000 .
+as you can see from the pictures there are coloured bars on the screen .
+these differ slightly every time the set is turned on .
+they go over everything including the menus .
+the middle light on the lvds is green .
+not sure what that means .
+i have removed the lvds and re balled the rom .
+this has had no effect .
+could it still be that we need a new lvds board ?
+any advice offered would be greatly appreciated .

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX100 IS Power Issues</Title>
+		<Username>Andyc545</Username>
+		<Datetime>02-26-2009, 07:03 PM</Datetime>
+		<Content>Hello. I bought a Canon Powershot SX100 IS about 6 months ago and literally used it for maybe 200 pictures, a few weeks. One day I'm snapping then the batteries seem to die. When I go to change them (the batteries weren't dead btw), the camera only turns on for a split second then turns off. I changed the cell battery; still nothing. I do some research and find out that there may be internal problems with power distribution on the camera. Here's the problem, since it was brand new I was on warranty, however I can not find the receipt nor will the retailer take it back as it came from the now defunct Circuit City. Contacting Canon has seemed to be next to impossible. Does anyone have any suggestions on either contacting Canon regarding the issue or with help in fixing it?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is this Normal?</Title>
+		<Username>bootstrapwill</Username>
+		<Datetime>20-07-2011, 9:39 AM</Datetime>
+		<Content>Had my VT20 for about 2 weeks now. While i absolutely love the TV, there are just a few things that annoy me. First it has turned its self on and off a few times, There is a very loud buzzing, and there seems to be a black bar down the right side of the screen. ( for some reason i cant upload any photos at the moment). What shall i do?</Content>
+	</Post>
+</Thread>

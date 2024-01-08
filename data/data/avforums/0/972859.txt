@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic P42G20B failed at 14 months</Title>
+		<Username>Rod S</Username>
+		<Datetime>18-01-2012, 7:35 PM</Datetime>
+		<Content>Large black vertical bar left quarter of screen 1 day ago, now no picture, just red LED flashes 7 times, pause, 7 times again, etc, etc.... Retailer - Amazon - say speak to Panasonic first, so I did, after they ignored my eMail. Premium rate phone number, totally arrogant and want me to pay for it to be "assessed" and only if I take it to a "service centre" nearly 30 miles away. I have never come across such appalling customer support but, as he said, it's outside 12months warranty (by less than two months) so "tough". I'm waiting for Amazon to get back to me again, hopefully they will have more respect for the current EU rules on "warranty" of electrical goods. Lesson, never buy Panasonic.</Content>
+	</Post>
+</Thread>

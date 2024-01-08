@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rogers Samsung Jack i616 Bands?</Title>
+		<Username>hshaikh</Username>
+		<Datetime>01-04-2010 01:19 PM</Datetime>
+		<Content>I know its Quadband GSM. but according to GSM arena the i617 (US model) has 1900/850/2100 3G. does that mean that I can unlock the i616 from rogers and use it with wind's 2100? http://www.gsmarena.com/samsung_i617...ck_ii-2213.php</Content>
+	</Post>
+</Thread>

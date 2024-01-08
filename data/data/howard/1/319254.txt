@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>FT: Google Nexus One (AT&T 3G bands) [Want 9700, 3GS, Pre Plus...]</Title>
+		<Username>turniphead</Username>
+		<Datetime>06-04-2010 07:43 AM</Datetime>
+		<Content>I have a Nexus One that works with AT&T 3G but can also be used for T-Mobile. It comes with box and all original accessories along with a 4GB memory card. I am looking to trade for a nicer phone like the Bold 9700 for AT&T, iPhone 3GS, AT&T Palm Pre Plus, or something nice. PM me if you have any questions. Pics available upon request.</Content>
+	</Post>
+</Thread>

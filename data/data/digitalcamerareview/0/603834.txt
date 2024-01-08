@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SD790IS - busy sign and "unidentified image"</Title>
+		<Username>jskyi</Username>
+		<Datetime>09-06-2008, 12:18 PM</Datetime>
+		<Content>hi, i recently got a Canon SD790IS and last night i was using it to take pictures/videos at a show and... i was recording videos and after i press stop REC... it shows the busy sign for like 5-7 seconds until i can record another video... is this normal and i got a 8GB SD card ... and a couple of my last pictures/videos like 10? when i tried to review them on my camera again it said "unidentified image" -- why is this? is there anyway i can recover it? because when i tried to look at it on the computer... it says i have no picture to review. thank you so much and sorry if it is a repeat question</Content>
+	</Post>
+</Thread>

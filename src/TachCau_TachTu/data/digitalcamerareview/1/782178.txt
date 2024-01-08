@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What's a good all around lens to replace the>></Title>
+		<Username>mbciuso</Username>
+		<Datetime>08-23-2008, 09:53 AM</Datetime>
+		<Content>kit lens that comes with the Canon Xsi (18-55mm IS). Im looking for greater zoom and better overall build quality without breaking the bank. Also, what do you folks think about purchasing second hand lenses? would that be an alternative to higher priced new lenses and if so, what would you recommend there? Thanks, Gerard</Content>
+	</Post>
+</Thread>

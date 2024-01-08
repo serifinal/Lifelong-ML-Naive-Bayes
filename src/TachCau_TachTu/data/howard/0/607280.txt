@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Canada announces fix for 3-button recovery glitch on Galaxy S Vibrant (Bell)</Title>
+		<Username>MapleLeafs</Username>
+		<Datetime>09-03-2010 06:55 PM</Datetime>
+		<Content>...According to the Facebook page: http://www.facebook.com/samsungmobilecanada Good news for everyone that was worried that they would be unable to experiment with custom roms. Hopefully it won't take too long.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A Red G1 is on its way</Title>
+		<Username>SoCalRich</Username>
+		<Datetime>03-21-2009, 09:56 PM</Datetime>
+		<Content>Once I made the decision that I REALLY wanted a swivel LCD the rest was fairly easy. (My wife would disagree ) I think a swivel LCD opens up whole new possibilities for interesting shots. I went down to Sammy's Camera here in LA today and played with the G1 up close and personal. I was impressed by the build quality, the 460k dot swivel LCD, 480,000 pixel high-res viewfinder, 23-area AF, etc. I was told by the sales guy that some pro customers use this cam as a backup because of the IQ. All the reviews I read were positive and the pix I looked at here were excellent. I downloaded the owners manual and looked through it. This cam offers a lot of possibilities. I want to do some HDR and I found I could shoot up to 7 exposure bracketed shots to process into HDR. This cam also shoots RAW. New lenses are coming out that will do everything I need. 7-14 (14-28), 14-140 (28-280) and a 20mm from Panasonic is the current rumor. There is already a 45-200 (90-400) available. Well, I was sold! I pulled the trigger and it's on the way. http://www.amazon.com/Panasonic-DMC-...7687537&sr=8-4 Now I feel like a kid waiting for Christmas morning... Too bad Nikon doesn't make a swivel instead of a flip out (P90) LCD. It's amazing to me that more companies don't make one. I guess my D90 will have to wait awhile.</Content>
+	</Post>
+</Thread>

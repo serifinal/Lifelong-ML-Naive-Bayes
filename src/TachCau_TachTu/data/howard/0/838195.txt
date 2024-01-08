@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Has Anyone Rooted the Bell Galaxy?</Title>
+		<Username>doan_1</Username>
+		<Datetime>01-17-2010 11:50 AM</Datetime>
+		<Content>I have been poking around the internet for a bit here. And I am wondering if anyone has rooted the Bell Galaxy. I found some how tos for german and such. But because of the different radios, I dont want to brick this one (it's not mine, doing it for a friend who wants tethering and some other rooted apps). Ideas?</Content>
+	</Post>
+</Thread>

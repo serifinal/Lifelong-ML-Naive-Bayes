@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problem with picture quality (graininess) from hdmi & component input, lg 42pq2000</Title>
+		<Username>themonkian</Username>
+		<Datetime>18-01-2012, 4:09 AM</Datetime>
+		<Content>Hello everyone, Please forgive me if my explanation is not that clear or if I don't use the correct terminology - I'm a relative newbie to this AV world! I have a lg 42pq2000, which I've had for about 2 years, and recently have been having a problem with picture quality. The picture coming from the aerial/ freeview is fine, no probs with that. The picture quality on the component input from my xbox360 used to be fine, but a couple of months ago it started to get really grainy, more so on some light/bright colours. To clarify, the white background on the xbox 'dashboard'/homepage is 'grain' free - but should I play a game/ dvd and there's an explosion, bright sky or sunrise for example, the brightest parts of the picture go really grainy. Sometimes it's worse than other times - it's fairly inconsistent regarding the level of graininess. Hoping it might just be the xbox or component cable, I bought a blu ray player and hdmi cable (which I tested on another tv, both worked fine) - only to find the same problem, but this time it was obviously happening on the hdmi input channels (I tried them all). So to summarise: aerial= fine, hdmi & component= grainy. Have any of you wise souls experienced this problem with a plasma tv before or know what the problem/ solution may be? I'd be extremely grateful for any help/ advice, thanks!</Content>
+	</Post>
+</Thread>

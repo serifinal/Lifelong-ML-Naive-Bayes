@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Will I get burn in if I use this plasma as a PC monitor</Title>
+		<Username>aces</Username>
+		<Datetime>15-07-2011, 12:22 AM</Datetime>
+		<Content>I want to be able to use the TV as a PC monitor. I will be using it for many hours per day. Will things like the task bar on my pc burn in to the TV? or is burn in a thing of the past. The TV is a Panasonic VIERA TXP42ST30</Content>
+	</Post>
+</Thread>

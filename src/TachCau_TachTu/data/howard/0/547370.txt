@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>US Text Messages</Title>
+		<Username>pepperk</Username>
+		<Datetime>03-25-2010 09:16 PM</Datetime>
+		<Content>Another question I have after my conversion to HSPA....when I am in the US I am use to free text messages when i was on the cdma. Last time I was there I got a welcome text saying that text were 0.60 YIKES! Are there any plans that you can get from retention, the easter bunny whoever that cover text while in the US? Or is it really 60 cents per text?</Content>
+	</Post>
+</Thread>

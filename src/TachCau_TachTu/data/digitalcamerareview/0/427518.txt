@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cannon Powershot SX 130 wont turn on</Title>
+		<Username>LA9</Username>
+		<Datetime>08-16-2011, 11:27 PM</Datetime>
+		<Content>My camera will not turn on. Received a message to change batteries. Since then it will not turn on.</Content>
+	</Post>
+</Thread>

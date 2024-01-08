@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>opinions on totem tribe II and IIIs?</Title>
+		<Username>sed1</Username>
+		<Datetime>07-07-08, 11:28 AM</Datetime>
+		<Content>Hi guys, I'm interested in the totem tribe II and IIIs mainly for movies and sports. I did get to audition them and was quite pleased however the place I heard them at couldn't set up the tribes with a blue ray player or anything so I wasn't able to hear them with movie dialog. Anyone heard them on movies? and if there's a dramatic difference between the IIs and IIIs? thanks.</Content>
+	</Post>
+</Thread>

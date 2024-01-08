@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>ixus 980 are colors too vivid?</Title>
+		<Username>Newcoma</Username>
+		<Datetime>12-19-2009, 08:51 PM</Datetime>
+		<Content>Hello I am considering buying a ixus 980 because of the great reviews it gets when it comes to image quality. But when I look at sample pictures I think the colors are way too vivid. Like the red is too red and green is too gren and so on. Does anyone agree with me and is there an easy way to correct this setting? Does the panasonic zs3 produce better images, (sharper and more accurate colors) ?</Content>
+	</Post>
+</Thread>

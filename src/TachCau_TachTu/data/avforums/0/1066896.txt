@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Servisol IPA 170 to clean TV screen - Yes?No?</Title>
+		<Username>NeilF</Username>
+		<Datetime>07-02-2012, 1:24 PM</Datetime>
+		<Content>I've always used IPA 170 to clean my camera lenses, monitors and TV screens. But a recent post suggested using it could damaged the anti-reflective coating on my Panasonic GT30. Now, to put this into context, we're talking about a good clean (spray/wipe) with it a few times a year. Certainly not every day or week... The description for IPA 170 says, "For use on tape heads, disc drives, photocopier drums, optical equipment, lenses, precision instruments and other delicate components." ^^ That sounds fairly OK to me? But anyone know for sure? It's got me concerned now!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which 3d glasses for Samsung D6900/8000?</Title>
+		<Username>jenjewak</Username>
+		<Datetime>19-12-2011, 9:31 PM</Datetime>
+		<Content>I'll be taking delivery of the PS59D6900 tv from JL in the next few days & it comes with 2 pairs of 3d glasses (not sure which model). I'm looking to buy another 4 pairs including 2 pairs kids size. There seemed to be at least 4 models of 3d glasses in the market atm. Which model would you recommend (over another) & why? I'm not fussed with battery/rechargeable but would like something that's comfortable to wear for few hours & has good performance - I noticed the newer models has nothing to block ambient lights from the sides/behind but are they really better than older model (e.g. ssg-3100)? Am I right to think that the only kids size model available is the 3300cr? Thanks</Content>
+	</Post>
+</Thread>

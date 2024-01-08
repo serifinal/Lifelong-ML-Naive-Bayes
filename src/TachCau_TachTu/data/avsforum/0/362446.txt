@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>TH-50PX80U vs TH-50PX80UA - Does It Matter?</Title>
+		<Username>BradP</Username>
+		<Datetime>11-28-08, 03:58 PM</Datetime>
+		<Content>I purchased two of these this month, from 2 different locations. Boxes look identical in every way except one has an "A" tacked onto the end of the sticker on the side, making it TH-50PX80UA. I assume there's no difference or reason to choose one set over the other? Or am I missing something? Is there anything else I should look for as far as which to keep (is a more recent manufacture date/serial number better or worse, etc)? I know this is a popular set, was hoping someone may be in the know. Thanks.</Content>
+	</Post>
+</Thread>

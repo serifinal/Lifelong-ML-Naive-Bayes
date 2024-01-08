@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>problem with canon powershot SD 1100, HELP!!!</Title>
+		<Username>vasko1937</Username>
+		<Datetime>08-23-2008, 11:51 AM</Datetime>
+		<Content>I bought canon powershot SD 1100 IS in the U.S. a week ago. I brought the camera to Europe and after getting the battery charged and then taking a few pictures and movies out of the blue the camera stops working. I mean i took picture of a building and i dont really remember did i turn if off my self or it turned of by its self, but i do know when wanted to turn it on again it did not want to turn on. I kept pressing the turn on button and even holding it for periods of time but it didnt turn on. Now i checked if the problem was with the batter or the memory card but both of them work fine in my other digital camera. I even recharged the battery but nothing again. Then i cleaned the battery ports on the battery and in the camera but nothing. I was wondering if the camera its self has a reset button to press it and all my worries go away Please if anyone knows what should i do with this problem, help me? I am kind of pissed of cuz its a brand new camera. I was thinking of taking it to service center but here in Serbia i dont think they would fix it for free? So yet again if anyone can help, please? Thanks and can i get the answer ASAP.</Content>
+	</Post>
+</Thread>

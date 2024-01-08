@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can having TV in Open Plan Kitchen/Lounge damage it?</Title>
+		<Username>bym007</Username>
+		<Datetime>13-07-2011, 9:37 AM</Datetime>
+		<Content>Hi all, I am looking to move into an Open Plan kitchen/lounge property and just wondering, if having my beloved Plasma (Pio 5090) next to kitchen can damage its screen or inside electronics? I would rather not take risks, if you know what I mean... Any advice is appreciated. Cheers.</Content>
+	</Post>
+</Thread>

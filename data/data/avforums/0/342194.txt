@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Urgent question for Panny 65 VT30 owners</Title>
+		<Username>indus</Username>
+		<Datetime>12-08-2011, 7:45 AM</Datetime>
+		<Content>Could any 65 vt30 owners please do me a favour? I need to know the distances between the bracket mounting holes on the rear of the panel. I need the horizontal and vertical distances please. Thanks</Content>
+	</Post>
+</Thread>

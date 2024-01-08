@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>did anyone ever get to the bottom of the weid flicker issues in 2008 Panasonics?</Title>
+		<Username>spincut</Username>
+		<Datetime>10-02-08, 07:22 PM</Datetime>
+		<Content>I was just curious if anyone ever got an anser or a fix on that odd flickering on certain scenes (this is not in reference to the 48hz mode btw). I mean i noticed it quite a few times already, but as i've had them operate on my tv enough just to get a panel without dead pixels i'm inclined to want to know if anyone really got the issue solved or not.</Content>
+	</Post>
+</Thread>

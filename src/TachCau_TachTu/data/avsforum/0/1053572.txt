@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung LN40A550 - Should I buy the extended warranty???</Title>
+		<Username>mattrock444</Username>
+		<Datetime>11-25-08, 12:09 AM</Datetime>
+		<Content>I just spent 4 hours on the Samsung LNxxA550 Calibration Forum. People seemed to have a number of issues, so now I'm nervous. Factory warranty is 1 year. Extended warranty is for 5 years, in home, for $150. Opinions/thoughts/advise? Thank you.</Content>
+	</Post>
+</Thread>

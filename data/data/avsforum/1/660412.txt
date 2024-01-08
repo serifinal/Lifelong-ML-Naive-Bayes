@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>samsung 630 vs sony w4100</Title>
+		<Username>cram10</Username>
+		<Datetime>09-07-08, 02:33 PM</Datetime>
+		<Content>I am still on the fence between these 2 sets now that a firmware is available to fix the sparkles problem on the sony sets. Anyway, I have ordered a 630 from amazon, but am still waiting for it to be shipped. I would like to know thoughts and opinions on which set would be most beneficial to me. I am NOT a gamer, and hardly ever play video games. The majority of the tv use will be for HD viewing, dvds, and lots and lots of sports. I occasionally watch SD channels as well. I can't seem to make up my mind. I know some have stated that Sony will give a more clean/crisp picture with more detail, while Samsung has better colors. What are your thoughts in this matter. I realize I have to make the final choice and determine what I think is best since I am the one who has to live with it, but I would like to hear some thoughts/opinions on both sets. If I knew for a fact that the 630 was more like a 650 rather than a 550, it would make my decision much easier. Thanks a lot for your input...</Content>
+	</Post>
+</Thread>

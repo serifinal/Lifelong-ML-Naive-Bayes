@@ -1,0 +1,7 @@
+th50pz80b - separate settings for each hdmi ? .
+had this set since almost launch and up until recently -lrb- when i bought a sky hd box etc -rrb- the settings for each hdmi did n't bother me .
+however , i like to use the cinema setting and then tweak it to my own liking .
+but i ca n't seem to set each hdmi separately .
+if i choose hdmi 1 and setup the cinema setting , when i go to hdmi 2 or 3 , those settings carry across and if i tweak them on one of the other inputs , then they carry back across to hdmi 1 .
+surely there is a way of me setting each input individually ?
+thanks .

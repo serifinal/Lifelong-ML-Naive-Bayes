@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Getting rid of plasma screen burn</Title>
+		<Username>NeilF</Username>
+		<Datetime>04-02-2012, 10:55 PM</Datetime>
+		<Content>Well, I've noticed a nice CN burned into the bottom right of my Plasma from the Cartoon Network channel! Tne children haven't watched the channel for 24hrs now, and still the CN is there. I can see it for example on light colour backgrounds. eg: The Sky interface. Is there anyway I can get rid of it? Very annoyed it's there</Content>
+	</Post>
+</Thread>

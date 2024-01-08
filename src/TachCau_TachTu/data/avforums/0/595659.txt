@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Tv repair lg</Title>
+		<Username>robinhood007</Username>
+		<Datetime>31-07-2011, 10:53 AM</Datetime>
+		<Content>My Lg PS3000 got the red haze error, best described as being like when back in the day when you had to use a coathanger for an aerial and had a bad picture add to that a red/pink wash to the whole picture. Plus there is a buzzing sound, almost like a fan but certainly louder than what is normal. Anyway engineer reports states 'internal main circuit board (PCB), the sustain Z/Y pcbs have failed'. Anyone know how much I can pick up replacements of this type and if I would be able to do the work myself. I know its a big ask, any advice would be appreciated.</Content>
+	</Post>
+</Thread>

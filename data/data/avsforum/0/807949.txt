@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung pn42a450 vs Olevia 242T</Title>
+		<Username>daffydude</Username>
+		<Datetime>07-27-08, 04:43 PM</Datetime>
+		<Content>242T from Olevia from Target with 1080p LCD or pn42a450 from Samsung Costco 720p Plasma (two year warranty included) basically the same price I have never owned an Olevia, and thought it was not a very good brand, until I saw the reviews. I have also never owned a Samsung. I have owned Vizio and it is great, but I want to go from 32" to 42" Does anyone own either of these tv's, or have any recommendations? Also, I have only owned an LCD, never Plasma. I have read quite a bit about the newer tv's not having to worry about burn-in, but is that the case with all of them? I watch alot of tv, and I don't want to ruin it. I am playing XBOX 360, PS3, watching blu-ray on the ps3, and have a HD-dvr.</Content>
+	</Post>
+</Thread>

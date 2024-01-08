@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>3G is down in Richmond Hill, ON</Title>
+		<Username>thunder6290</Username>
+		<Datetime>11-18-2009 11:38 PM</Datetime>
+		<Content>Hi guys, it's 12:30am and my 3G reception changed to barely 1 bar. I always had 5 full bars. I have an E full bar but not 3G. I'm on Yonge and HW7 . is there anything wrong with the network ? Tnx Thunder</Content>
+	</Post>
+</Thread>

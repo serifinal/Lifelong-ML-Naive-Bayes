@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>canon package</Title>
+		<Username>stan</Username>
+		<Datetime>01-16-2011, 05:18 AM</Datetime>
+		<Content>Hi to all people on this forum, iam first time user,ok looking to buy a canon camera, i have been looking around and its worse than buying a car so many to choose from, Canon eos 60-d with a canon 15-85 lens for general use and later will buy Sigma 120-400 lens for those longer shots.The camera will be used to take photos of my new grand daughter, and also landscape shots will be doing the big lap around Australia in a few months time, so can some of you camera buffs tell me if iam on the right track or can improve my choice i am not a fantastic camera person but willing to learn i thought spend good money now and buy 1 camera to last me</Content>
+	</Post>
+</Thread>

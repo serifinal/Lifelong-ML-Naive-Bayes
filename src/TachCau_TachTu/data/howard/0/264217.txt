@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Screen Protectors: Apple iPad, Sony Ericsson X10i</Title>
+		<Username>clarivue</Username>
+		<Datetime>04-08-2010 02:06 PM</Datetime>
+		<Content>2010-04-08 - Please click on the following links for the new screen protectors: - Apple iPad screen protectors - Sony Ericsson X10i screen protectors</Content>
+	</Post>
+</Thread>

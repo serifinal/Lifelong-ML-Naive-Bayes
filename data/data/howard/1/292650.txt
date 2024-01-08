@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung SGH i-607 Blackjack Check Local Bands</Title>
+		<Username>ErylFlynn</Username>
+		<Datetime>01-04-2010 07:22 AM</Datetime>
+		<Content>Looking to upgrade soon and might have the option of getting a phone with just 850 3g band and wanted to see if there was a way to test coverage locally. My blackjack does both so that doesn't help alone, and if I set it to 850 gsm it loses all signal. That might mean no 850 3g, but wanted to be sure that was the case and if not conclusive what I can do to see signals in the area.</Content>
+	</Post>
+</Thread>

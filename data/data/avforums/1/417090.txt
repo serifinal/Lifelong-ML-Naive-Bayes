@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic VT20 vs VT30</Title>
+		<Username>bstonehouse</Username>
+		<Datetime>14-02-2012, 4:56 PM</Datetime>
+		<Content>Am thinking of buying a Panansonic VT30 Plasma but then started looking at the now cheaper superceded VT20. Can anyone tell me the significant differences between the 2 models, if there is nothing too significant am thinking of saving a few pounds on the VT20. I would like the Netflix capability. Also can anyone tell me if both these models use the 'one piece of glass' look like the old V10, a friend has this model and I like that look. Thanks</Content>
+	</Post>
+</Thread>

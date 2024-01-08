@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Got my Panasonic ST30 50 Inch - Few questions</Title>
+		<Username>neonplanet40</Username>
+		<Datetime>20-12-2011, 3:16 PM</Datetime>
+		<Content>Hi everyone my TV arrived today. I'm currently playing a 1080p video file from computer but on the tv it looks unnatural? Like the way the people move is a little faster than they should? I've seen this before my my Sony TV downstairs but we hit the theatre mode button and that sorts it out. I have this set to cinema but it doesn't make a difference? Anyone any ideas what this is? Also what settings would people recommend? I see on other forums like AVS that people have brightness at 59 etc but my brightness bars have no numbers and after checking it myself they are only 60 button taps long.... Any help is appreciated</Content>
+	</Post>
+</Thread>

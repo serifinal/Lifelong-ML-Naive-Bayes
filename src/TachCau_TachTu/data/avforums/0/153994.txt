@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G30 professional calibration settings?</Title>
+		<Username>NirvClub</Username>
+		<Datetime>22-01-2012, 8:25 AM</Datetime>
+		<Content>Hi guys I got myself a G30 46" Panny this week. Did anyone here get their G30 professionally calibrated? If so, can you post the exact settings you ended up with after calibration? Is that ok to ask? I tried the setting from the flatpanelshd.com review but it was too dim for my taste. Looked bland and lifeless (the 'game' profile is more to my liking) Also, my panel has very loud buzzing, noticable even at volume 15. Is this normal during first 100 hrs? Thanks!</Content>
+	</Post>
+</Thread>

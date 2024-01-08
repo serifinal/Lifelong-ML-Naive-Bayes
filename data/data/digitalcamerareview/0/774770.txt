@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>powershot s95 digital zoom</Title>
+		<Username>rr2gtfd</Username>
+		<Datetime>02-11-2011, 11:12 PM</Datetime>
+		<Content>I just bought my s95 this past week, but I can't get the digital zoom turned on. I've tried it every mode and none of them give me the option to turn it on. What am I doing wrong? Thanks for your help. Michael</Content>
+	</Post>
+</Thread>

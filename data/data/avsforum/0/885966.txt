@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HTPC & PVR: QAM Tuner for Recording HD Shows from DVR to PC?</Title>
+		<Username>moonstar</Username>
+		<Datetime>10-09-08, 03:02 PM</Datetime>
+		<Content>I have a QAM tuner installed on my Windows XP PC (Pinnacle HD PCI to be exact). I also have subscription with a cable company and a STB plus DVR in one (SA8300HD). My question is is it possible for me record onto my computer through the QAM tuner HD shows that are stored in my DVR if those channels are NOT encrypted (basic channels like CBS, NBC, ABC, etc. no premium /cable channels) just like the way I can record ATSC signals, even if my video card or computer monitor is not HDCP compliant? I don't care about watching those shows in HD on my computer screen, but I would like to be able to STORE on a data DVD in HD qualities. By the way, I do not have a Cable CARD slot anywhere around my computer and I could not get clear QAM when I hooked up a coax cable from a wall directly to the QAM tuner. Or is an ATSC tuner or PC like this with an OEM tuner the only option if I'd like to record unencrypted HD shows in HD qulaities from a DVR using my PC? Thank you.</Content>
+	</Post>
+</Thread>

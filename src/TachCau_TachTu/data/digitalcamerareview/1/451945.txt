@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Rebel XT Vs. Rebel XTI</Title>
+		<Username>mnracefan</Username>
+		<Datetime>04-29-2008, 12:52 PM</Datetime>
+		<Content>Is there really much difference between these two slr type cameras? I like the quality picture that is produced by slrs, but would like to do as much research as possible before committing (and laying down the big bucks)</Content>
+	</Post>
+</Thread>

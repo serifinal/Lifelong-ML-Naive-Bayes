@@ -1,0 +1,8 @@
+powershot a590is - problems when downloading pics .
+my canon powershot a590is is not recognized by either zoom browser or eos utility .
+i uninstalled all canon utilities , installed the latest version of zoom browser -lrb- ver .
+6.6 .
+ob got from canon website -rrb- , but no success .
+the camera is recognized by windows -lrb- my os is windows xp -rrb- , but not by zoom browser .
+is any trick that i should know ?
+thanks in advance for any help --------------------------------------------------------------------------------

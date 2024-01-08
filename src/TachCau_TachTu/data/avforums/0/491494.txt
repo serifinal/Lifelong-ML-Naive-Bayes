@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Has Panasonic's update worked on your set?</Title>
+		<Username>Scooby2000</Username>
+		<Datetime>01-02-2012, 11:27 AM</Datetime>
+		<Content>OK guys to help Panasonic fix our sets can all those who have had the software update please vote on the poll and post your model number i.e. 46"GT30. Then post your findings. Example. Mode: 46" GT30 I had the software installed on my set whilst having a replacement panel fitted. The green splats have changed due to the new panel and the intensity of the effected areas seem the same, maybe worse, but this could be due to the new panel being more effected by the issue. End result of the update on my set isn't satisfactory, with some viewing I can still see the green tinge on parts of the screen. This is just as an example, please add anything you feel may be relevant and any specific questions you would like to ask Panasonic in relation to your set. This thread is not for chat please use the Green tinge thread for that. This thread is for information gathering only. Please only post if you have had the software update installed on your set. This is the specific update to deal with these green blobs, this is not a general release firmware.</Content>
+	</Post>
+</Thread>

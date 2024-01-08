@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why I'm returning my Samsung Vibrant...</Title>
+		<Username>mfro14</Username>
+		<Datetime>07-27-2010 07:13 PM</Datetime>
+		<Content>After considerable thought, I have decided to return my phone. Despite the beautiful screen and screaming fast processor, the device has some issues that I ultimately couldn?t rationalize. 1. Samsung TouchWiz UI was a bit buggy which inhibited the Android OS performance. Sometimes Apps wouldn?t load properly or perform slowly. OS would get stuck sometimes, etc. Experience wasn't horrible, but not the performance I expected. 2. Handset didn?t transition well between edge and 3G. Had problems when emerging from subways, etc. Building penetration was also a bit suspect. 3. GPS was terrible. Probably a hardware issue. Just wasn?t sensitive enough. Had difficulty logging on to my location. 4. No LED indicator for message notification. Such a small oversight?. But really annoying not to have. 5. I miss the trackball. I found my old trackball helpful when writing, especially when noticing a spelling mistake. I didn't mind the lack of a camera flash or a front facing camera. The phone just didn't perform up to my expectation. It's too bad because I was counting the days until this phone was launched. (I even went to the launch party in NYC). Oh well... By the way, for those of you wondering... I did reset my handset.</Content>
+	</Post>
+</Thread>

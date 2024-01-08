@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help With Onkyo 606 Audio</Title>
+		<Username>sushibilly</Username>
+		<Datetime>11-17-08, 05:29 PM</Datetime>
+		<Content>Hi All I have recently purchased an Onkyo606- it is my first receiver and I am quite new to this type of thing. In general, I am happy, but could do with some advice on the different sound settings. At the moment, I have a HTPC, Sky +(notHD) and standard DVD player. All are connected using digital audio cables. At the moment all is set on auto and for DVD?s this is fine as it sets to DD or DTS depending on the source. What I need advice on is the recommended for standard TV. At the moment, I usually use All Ch Stereo and occasionally Dolby Pro Logic II for movies. Both are good, although voice is sometimes a bit quiet - I need to ramp up the volume a bit. I am also finding that when I view a Sky program that is supposed to be in Dolby Digital, the receiver is not detecting this - all the usual checks have been done, using optical cable & Sky Box output set to Dolby Digital. Could also do with some suggestions on the SUB set up. Done the Audessy thing, but have Input, Crossover and Phase dials on the sub itself, not sure exactly what each of them do. Any advice gratefully received. Many thanks in advance!!</Content>
+	</Post>
+</Thread>

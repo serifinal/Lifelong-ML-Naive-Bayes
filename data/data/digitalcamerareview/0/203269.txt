@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Blurry pics Canon S2 IS</Title>
+		<Username>ErinG</Username>
+		<Datetime>11-04-2007, 12:46 PM</Datetime>
+		<Content>I'm a new SLR user - purchased my S2 IS a couple of years ago and have spotty results (am sure it is user error not the camera ..). Many pics are blurry - camera doesn't seem to react to slight movements with subjects. Any tips on what settings I should check/alter would be appreciated! I'm almost at the point to going back to a point and shoot model as I think I'm over my head with this SLR</Content>
+	</Post>
+</Thread>

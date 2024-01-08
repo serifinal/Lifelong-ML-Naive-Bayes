@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fs: Google Nexus One (850/1900 3g Bands)</Title>
+		<Username>y2jdmbfan</Username>
+		<Datetime>05-11-2010 03:57 PM</Datetime>
+		<Content>I have an unlocked Nexus one with Unlocked Bootloader in excellent condition for sale. It comes with original box and accessories. It has the original shipping firmware installed. I am looking for $450 shipped. PM if interested. I ship to USA only and only take Paypal. Thanks, Y2J</Content>
+	</Post>
+</Thread>

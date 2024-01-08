@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HDMI Sound Does Not Work</Title>
+		<Username>joe1680</Username>
+		<Datetime>22-06-2011, 1:23 PM</Datetime>
+		<Content>The sound coming through my LG plasma on the HDMI mode does not work. Sound works on the Xbox through the component and the TV mode. This just happened this morning as it was working last night. Any advise or suggestions on what this may be???</Content>
+	</Post>
+</Thread>

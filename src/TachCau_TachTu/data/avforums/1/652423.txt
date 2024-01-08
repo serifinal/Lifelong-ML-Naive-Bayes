@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>celcus 40" lcd for £250.any good for bedroom</Title>
+		<Username>redandwhites</Username>
+		<Datetime>29-12-2011, 6:32 PM</Datetime>
+		<Content>hello,seen a celcus 40" tv in sainburys for £250.just wondered if it was any good.thought about changeing my old 22" tv in bedroom and saw that one, very cheap,thought it must be crap for that price.cant find any reviews on it anywhere.cheers for any help.</Content>
+	</Post>
+</Thread>

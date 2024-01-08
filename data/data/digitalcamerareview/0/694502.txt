@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon IXY 910IS no power</Title>
+		<Username>flux ray</Username>
+		<Datetime>05-04-2011, 07:04 AM</Datetime>
+		<Content>hi there newbie in this forum..... i got a problem w/ my canon IXY 910IS....i just used it capturing picture last day the problem is the lens just stock and the camera just turn off..... until know it dont power on..... can anyone help my problem? is there a software that can fix this one....? i just check its hardware component and its ok... the ribbon is intact and the gear is ok.... can anyone help my big big problem.... please help me.... i just want your answer and a briliant ideas.... thanks in advance....</Content>
+	</Post>
+</Thread>

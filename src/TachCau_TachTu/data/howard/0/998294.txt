@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Moto Droid (1) UPDATE to Froyo 2.2</Title>
+		<Username>skeptikl</Username>
+		<Datetime>08-17-2010 09:38 PM</Datetime>
+		<Content>for those of you that have received it, what do you think of it? i dont have it yet. i was told by a Verizon rep when i got my phone replaced that it is in circulation now being sent to 10,000 phones at a time. and i should expect it sometime soon. seems to be all good and information on their site sounds good, too bad it doesnt let u update manually. just trying to find out the goods n bads of Froyo, if there are any of course. thanks!</Content>
+	</Post>
+</Thread>

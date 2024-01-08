@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD 800IS battery</Title>
+		<Username>phonevoice</Username>
+		<Datetime>04-25-2007, 10:41 PM</Datetime>
+		<Content>The Canon battery says NB-5L for the 800IS. Sakar says BP-5L 1150 mah. Does anyone know if they are the same battery and are they both as good??? Sakar is half the price .......</Content>
+	</Post>
+</Thread>

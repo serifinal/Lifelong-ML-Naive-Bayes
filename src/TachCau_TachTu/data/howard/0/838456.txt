@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A few questions before upgrading</Title>
+		<Username>semisonic9</Username>
+		<Datetime>10-03-2009 01:39 AM</Datetime>
+		<Content>Hey folks! I haven't posted in awhile, but I remember these forums fondly as a great source of information on the ins and outs of both phone tech and the service providers. Good to be back! My old phone's charge port is corrupted, and I need to get something new. I talked to an in-store rep briefly when I brought my phone in to be looked at, but I hadn't done my homework on phones yet. I'm looking primarily at the Samsung Rogue and the Intensity. There is now a restocking fee when one returns their phone within the allotted time? And its 30 days now, not 15? I spoke to a rep in-store who claimed that AIM/YIM messages sent (even with a data package) still consume text messages. True/false? Buying online seems to change most of the "mail-in rebates" I see in store to instant "online savings". If you know what you want, is there any "con" to buying online? I have a corporate discount through work. Apparently it applies to phones as well. Any way to see what discount applies to what phone? If it helps, its 16% off my monthly bill. It does not show up when I look at upgrading online. Transferring information between phones: Is there a way to get old text messages, etc, transferred off my old phone as well as my address book? I've got questions about the Rogue as well, but I'll go ahead and post them in the Samsung forum. ~S</Content>
+	</Post>
+</Thread>

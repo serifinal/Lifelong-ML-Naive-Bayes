@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Beetlejuce coming to Blu-Ray on 16 September</Title>
+		<Username>Shand754</Username>
+		<Datetime>05-26-08, 05:40 AM</Datetime>
+		<Content>20th Anniversary Deluxe edition coming to both DVD and Blu-Ray from Warner. Details here - http://www.dvdtimes.co.uk/content.php?contentid=67837</Content>
+	</Post>
+</Thread>

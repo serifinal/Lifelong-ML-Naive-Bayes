@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer PDP-508xd Plasma - where can I find picture settings for Virgin V+ HD?</Title>
+		<Username>Equium</Username>
+		<Datetime>15-04-2011, 10:08 AM</Datetime>
+		<Content>Hi, I really need some help, some pointing in the right direction. Having purchased my Pioneer 508xd a few years ago, i've used Bumtious' picture settings to calibrate my plasma. I was using Sky HD / SD, and the picture looked superb using his settings. Recently I've had to change to Virgin HD (using their Virgin V+ HD box). I've searched high and low for the best picture settings in this forum, but have failed to find any. I've tried adjusting my picture settings myself, but can't get them looking as good compared to my old Sky HD settings. My 508 is still amazing, and just want to know that i've got the optimum settings for picture quality when using my new Virgin box. Can anyone help? Any advice would be greatfully appreciated. Many thanks</Content>
+	</Post>
+</Thread>

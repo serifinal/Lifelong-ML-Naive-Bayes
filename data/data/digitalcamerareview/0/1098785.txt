@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need Help with New Canon A610</Title>
+		<Username>nickspohn</Username>
+		<Datetime>12-24-2005, 06:48 PM</Datetime>
+		<Content>Hi Guys, i decided to get a A610 after a while of thinking about it and im really happy that i purchased it. I need help with the flash, at night for example, i was doing my router review, and i needed a flash, but the flash was very bright, how do i turn the level of flash down? Also, some of my pictures are blurry when im not zoomed in and on the right settings (i hope), why would you think they are blurry?</Content>
+	</Post>
+</Thread>

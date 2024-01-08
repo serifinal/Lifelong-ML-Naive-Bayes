@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>[GER] Kickboxer Coming to Blu-Ray January 09-</Title>
+		<Username>Spizz</Username>
+		<Datetime>06-21-08, 12:36 AM</Datetime>
+		<Content>Will definetly be ordering this one. Please be Region Free- http://www.kino.de/videofilm/kickbox...lm/118474.html Apparently there are 2 cuts a US one and a European cut. They are trying to combine both on the 1 Blu-Ray so you can choose which one you want to watch on the Blu-Ray Edition. From another forum- Quote: Dear Mr. XXX, Thank you for your email and your suggestions about our DVD releases. Kick Boxer: The problem here is still that the two versions have a different format, which is unfortunately not so easy to cut together, otherwise we would have done this long time ago. We are also film fans and advocate for possibilites uncut versions. For this reason, there are currently considerations, as part of a BluRay release a so-called "Uncut version", where a version within the choice given to the other version "to jump". This possibility of the technically adequate implementation is currently being tested and is in the planning. Yours sincerely, Splendid Film GmbH</Content>
+	</Post>
+</Thread>

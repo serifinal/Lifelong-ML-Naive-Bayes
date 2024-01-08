@@ -1,0 +1,8 @@
+pdp-lx5090 not working with laptop .
+i 'm trying to get my laptop to output to the tv with no joy .
+i connect the laptop with vga cable direct to the vga computer input but the pc channel on the tv shows a `` no input signal '' error and the laptop does not recognise that an external display device i.e. the tv is attached .
+i 've tried another laptop - same problem .
+i 've tried a vga to composite connection - same problem .
+i would be extremely grateful for any ideas .
+regards .
+r

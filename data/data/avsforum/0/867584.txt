@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Taking the shine off The Dark Knight (aka "those box-office grosses")</Title>
+		<Username>eweiss</Username>
+		<Datetime>09-19-08, 08:49 AM</Datetime>
+		<Content>From http://www.weeklystandard.com/Conten...5/567dkyzd.asp The most discussed box office story of the summer was the enormous success of The Dark Knight, the Batman movie that, we were told incessantly, has made more money than any film in history besides Titanic. Only, in point of fact, it hasn't. The only honest way to compare the grosses of The Dark Knight with those of past blockbusters is to measure them in constant dollars. By that standard, The Dark Knight's $500 million in domestic box office places it a mere 29th on the all-time box office list; it is bested, surprisingly, by movies like The Sting, Thunderball, and Grease. (Using this method of measurement, by the way, Titanic is only the sixth most popular film of all time; Gone with the Wind actually tops the list with earnings of $1.4 billion in 2008 dollars, followed by Star Wars, The Sound of Music, E.T., and, of all things, The Ten Commandments.) <snip> Click on link to read entire article</Content>
+	</Post>
+</Thread>

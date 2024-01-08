@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Best settings for xbox 360, pioneer pdp507xd</Title>
+		<Username>wardie83</Username>
+		<Datetime>05-06-2011, 8:32 PM</Datetime>
+		<Content>Hi, Was wondering if anyone can share the best settings to play games on the xbox 360 on a pioneer pdp 507xd tv? Is it better to play on 780p or 1080i? Also any custom settings worth using? Thanks Russ</Content>
+	</Post>
+</Thread>

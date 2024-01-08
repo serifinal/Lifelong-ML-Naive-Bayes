@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>S5 IS help??</Title>
+		<Username>dudewad</Username>
+		<Datetime>08-15-2008, 11:05 PM</Datetime>
+		<Content>Hey guys, I just bought the S5 IS. I had the original S1, and it got stolen, after which I bought the S2, which also got stolen (talk about bad freakin luck!) Anyways, I liked both of them so much that I got the S5. Mainly, I like this camera because of it's capability to record video. Now, with the S1 and S2, I had no problems dragging the video files right off the camera or card onto my desktop and viewing them. However, with the S5, I do so, and the videos cannot be viewed. All the photos are fine, but I can't open videos. The closest I've gotten has been to open the video in VLC (which can repair them on a one-time basis), and the software that comes with the camera.. but I want to put them into an editing program and be able to work with them (makes sense, right?)... so now I'm screwed. Is there something I'm screwing up? I don't know why they'd change the system since the last cameras. If it helps, my friend has the same issue, with the same model. It's not just mine. I'm running windows vista home on a intel core2duo 2.0 ghz processor, and I've tried it on my laptop which is similar but with 2.5 ghz. Anyone else running into this? Let me know, Thanks! L</Content>
+	</Post>
+</Thread>

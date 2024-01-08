@@ -1,0 +1,15 @@
+new computer tool may unlock programs . .
+cbc news adding custom features to off-the-shelf computer programs such as microsoft word may soon be possible using a tool developed by u.s. scientists .
+researchers at the university of washington have developed a method of modifying pixels on a computer screen to change the behaviour of a program , such as microsoft word or apple itunes .
+the display is overridden and users are able to customize how they interact with the program .
+according to researchers , the tool , called prefab , will allow users to customize their desktop in the same way people have been able to customize web pages .
+the research is outlined in the paper `` prefab : implementing advanced behaviours using pixel-based reverse engineering of interface structure . ''
+for example , says co-author morgan dixon , to listen to music while working in word without toggling between programs a user could potentially add a few itunes buttons to the word toolbar .
+`` i 'm using some program that i love , '' dixon said in a release , `` and i 'm going to stick in some features from some other program that i love , so i have a more unified interface . ''
+prefab is able to alter the behaviour of blocks of code that make up the majority of computer displays , which include buttons , sliders , check boxes and drop-down menus .
+the scientists hope that in addition to making the use of multiple computer programs more fluid and customized , their research will also help people with disabilities benefit from accessibility tools that make computer usage easier .
+one such program the scientists cite is target-aware pointing , which can make interfaces easier to navigate for people suffering from muscular dystrophy , parkinson 's and other motor-control diseases .
+it uses a bubble cursor that illuminates buttons in its vicinity , allowing users to access more tools without having to click on them directly .
+prefab would allow target-aware pointing to be integrated with various applications .
+the method is described in a paper to be presented at the acm conference on human factors in computing systems taking place april 10-15 in atlanta , georgia .
+source : http://sync.sympatico.ca/news/conten...op-application

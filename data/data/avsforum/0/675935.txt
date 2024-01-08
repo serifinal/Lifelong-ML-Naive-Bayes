@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>NavyMan2008</Username>
+		<Datetime>11-17-08, 05:41 AM</Datetime>
+		<Content>I recently bought a SONY BDP-S300 Blu-Ray player. I want to connect it to my Yamaha HTR-5990 receiver and my Pioneer PDP-506PU plasma HDTV. I currently am running an HDMI cable out from the blu ray HDMI OUT into the HDMI input on the back of the Yamaha. I then run an HDMI cable out from the Yamaha HDMI OUT to the Pioneer media reciever HDMI IN (it is one of the external ones vice being integrated into the back of the plasma screen). With this set up I can hear the sound from the blu-ray fine but I get no picture. The only way i can get a picture is to connect the component out video from the blu-ray to the pioneer media receiver. When the Best Buy installer tried to connect the HDMI cables on a previous attempt he said there was some interface issue with the Yamaha and the Pioneer. Calling back to headquarters for each, the both of course said the other manufacturer was at fault and their components work fine. Any ideas as to how I can get all these devices to play along nicely? I would have the Best Buy guy come out but I am stationed in Japan and it is a little tough. Thanks Paul</Content>
+	</Post>
+</Thread>

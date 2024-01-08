@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is Screen burn covered under John Lewis Warranty?</Title>
+		<Username>biggy7</Username>
+		<Datetime>01-01-2012, 7:02 PM</Datetime>
+		<Content>hi All We have a Samsung Plasma 50" which i bought from JL about 3 years ago (2 years Warranty left) we have noticed for few months now that there is screen burn of cartoon network logo in the corner but have ignored it thinking JL wont do anything about it but just had my relatives around who say JL should repair it under warranty so got me thinking! Would JL take this in for repair under warranty? anyone done this for screen burn? any advice? call them first or pop in to local JL? Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: BNIB Unlocked 16GB Apple iPhone 4</Title>
+		<Username>wasd</Username>
+		<Datetime>07-30-2010 12:49 PM</Datetime>
+		<Content>I just picked up an unlocked iphone 4 16gb and I am selling it for $1000 + shipping (North America only). Still wrap in the plastic. I am located in Ottawa and am a verified paypal member. Enclosed are pictures of the phone.</Content>
+	</Post>
+</Thread>

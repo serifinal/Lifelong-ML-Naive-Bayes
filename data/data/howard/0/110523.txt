@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nokia N86 8mp Camera Samples-pictures And Video</Title>
+		<Username>erazer007</Username>
+		<Datetime>04-11-2009 10:50 PM</Datetime>
+		<Content>Here are the pictures and videos taken by the Nokia N86 8MP camera phone. To view them, please visit http://n86blog.com/2009/04/06/nokia-...video-samples/</Content>
+	</Post>
+</Thread>

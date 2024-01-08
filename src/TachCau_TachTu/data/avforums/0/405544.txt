@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Upgrading to Panasonic TXP42VT20.</Title>
+		<Username>Lynnmk</Username>
+		<Datetime>20-01-2012, 12:17 PM</Datetime>
+		<Content>Currently using a 37 inch pd60 thats 6 years old and has been used for 30k hours. I've never had a problem with it but i'm thinking of moving this to the bedroom or sell it. I can get a Panasonic TXP42VT20 for £600 with five year warranty, is it a no brainer or should i give it a miss?</Content>
+	</Post>
+</Thread>

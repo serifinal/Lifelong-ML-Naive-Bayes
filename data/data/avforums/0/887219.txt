@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 60PK250 60" Plasma TV</Title>
+		<Username>Echelon123</Username>
+		<Datetime>01-06-2011, 2:58 PM</Datetime>
+		<Content>Ive bought a 60" Plasma TV and already have Beosound 6000 B&O speakers. These are active speakers which means they have an amp already in them. What i need to know is if the 60PK250 Plasma has a variable Audio output. Can anyone help please.</Content>
+	</Post>
+</Thread>

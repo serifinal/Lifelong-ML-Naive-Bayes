@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Defective LCD screen?</Title>
+		<Username>Andy Stanton</Username>
+		<Datetime>01-25-2008, 09:46 PM</Datetime>
+		<Content>I knew the LCD screen on the Canon A720IS didn't have good resolution (115,000 pixels) but I've discovered that it also doesn't show decent color. The colors are incorrect - for example red looks like red/orange. Also, the colors appear washed out. Fortunately, the colors look great on the computer screen. Anyone notice this? Do I have a defective LCD screen?</Content>
+	</Post>
+</Thread>

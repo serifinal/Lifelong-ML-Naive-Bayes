@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 50PZ250 or Samsung PS51D550?</Title>
+		<Username>thisempty</Username>
+		<Datetime>10-07-2011, 6:48 PM</Datetime>
+		<Content>Hi guys, hope someone can help me decide between these 2 sets. Which one is better? There are really no reviews og these cheaper sets, i only find reviews of the LG PZ950 and the Samsung D6900. One of the things i will use more is the 2D to 3D conversion. I'll use this MUCH more than Blu Rays, so this is a huge factor for me. I've read people saying that the 2D to 3D does a great job and i've read people saying that it does pratically nothing. This is weird, no? Could it be that the 2D to 3D conversion on the Samsung plasma is better than the LG one? Or are both brands suppose to deliver the same quality in their 2D to 3D conversion techniques? I want one of these sets because they are way cheaper than the others and i couldn't care less for smartv, internet, wireless and all that crap. I just want a good HD picture and a good 2D to 3D conversion! Thanks.</Content>
+	</Post>
+</Thread>

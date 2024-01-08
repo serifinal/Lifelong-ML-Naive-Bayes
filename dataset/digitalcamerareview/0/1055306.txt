@@ -1,0 +1,59 @@
+show off your images with magix photostory for cd & dvd 4 .
+if you 've ever wondered if there 's a product out there that lets you create a slideshow for a grandparent and burn it to a cd or dvd , you should take a look at magix photostory on cd & dvd 4 .
+it brings some great 3d effects and lots of new features to give you the ability to make fun videos or slideshows .
+this software lets you manage a media library of images , movies , and audio and assemble them together into slideshows where you have a tremendous amount of control over transitions , effects , music and text .
+for around $ 39 , you do n't need to be a professional to pick up a copy .
+features photostory can pretty much handle all of your images from multiple sources and it supports all of the common formats -lrb- jpg , bmp , gif , tif , etc. -rrb- .
+you can add single images or directories of images that you 've transferred to your computer from your digital camera .
+photostory is also twain compatible , so you can scan items directly into the program .
+there are also many ways to fix , enhance , and manipulate your images .
+to optimize , you can adjust the auto-exposure/color , correct red-eye and adjust the white balance of images .
+if you 're not quite happy with the image , you can adjust sharpness , change colors , adjust image detail and rotate images .
+there are 10 effects that can be applied with one click .
+effects include softening , sharpening , and conversion to black and white .
+one nice thing is that even if you apply a whole slew of effects , the original files are left unchanged .
+photostory just keeps track of the effects and edits and applies those to the original file .
+photostory automatically adjusts the image resolution for optimal viewing in a slideshow and will warn you if the image has too little resolution for the display target -lrb- tv -rrb- .
+optimization settings plenty of on-screen help and tips pop up to help you with various tasks .
+while creating a slideshow , you can apply 3d effects -lrb- like a flying heart -rrb- to transitions -lrb- or any one of the other 60 presets -rrb- .
+if you want to add some movement , you can zoom in to a region of the picture , zoom out from a section of the picture , or pan across the picture .
+if you want to apply text to a slide , photostory includes 30 templates to get you started .
+adjust the horizon of off-kilter images dialog for `` camera '' movement during the slideshow when you 're ready to burn your slideshow -lrb- to cd , video cd , super video cd , dvd , or minidvd -rrb- , you can use any of 50 templates for intros , menus , backgrounds , navigation buttons , and 3d titles .
+you can also build your own menus .
+if you do n't want to burn your slideshow to optical media , magix provides a free site that lets you view the slideshow online with music .
+if you like a particular image , you can order a print , calendar , t-shirts , etc. .
+a `` 4 track '' storyboard allows you to arrange your images , effects , text and audio along a timeline .
+-lsb- view larger -rsb- for a full list of features , see the magix photostory on cd & dvd 4 functions page .
+user experience after installation , i jumped right into the program without really taking a look at the manual .
+i find that it 's a good test to see how intuitive it is .
+in a new project , the first step is to choose and import the photos that you 'd like to use .
+if you ca n't find everything that you want to put in , you can always add it later .
+the next step is to add your images to the storyboard pane along the bottom .
+feel free to add , remove , and rearrange .
+once you have all your images set , you can start adding those touches that really make a slideshow .
+i started with some titles .
+you can access the title editor by either double-clicking on the slide or clicking the `` title editor '' button -lrb- see on screenshots above -rrb- , or by clicking the `` text '' button on the slide .
+my next step was to work on transitions .
+you can again just double-click the slide , or you can click the `` a/b '' icon that joins each slide together .
+movement settings -lrb- zooming in or out on a section of the image , panning -rrb- and image optimizations/enhancements are applied in the same way .
+once you 're all done , you 're ready to output your slideshow .
+if you want to just export as a movie file , you can export as an avi , windows media , quicktime , real media , mpeg , or magix video .
+these options are available in the file menu .
+if you want to burn your slideshow and send it off to your grandparents , click the `` make disc '' tab on the top right of the interface .
+your first step is to choose any menus -lrb- like you see on movie dvds -rrb- , and any other text , borders , backgrounds , etc. .
+once you 're set here , click one of the buttons on the right to burn for tv , pc , or high definition photoshow .
+the burn dialog is presented , and you 're off to the races .
+there were a couple places where the program needs a little polish , but nothing that affected the functionality .
+do n't worry if you see some misspellings or non-english words .
+for instance , when you click the `` make disc '' tab , there is a button on the left of the screen with the word : `` backgorund '' .
+if you click the `` advanced '' button in the quicktime export dialog , you will see a button labeled `` abbrechen '' instead of `` cancel .
+like i said , it 's nothing serious , but just one of those things that happens with software .
+as i was writing this , it dawned on me : i 'm taking all these screenshots of the software , why do n't i create a slideshow about photostory with photostory ?
+so , i put together a show of 9 slides that lasts 1 minute and 18 seconds and exported them as a windows media file .
+it 's surely no work of art , but i hope it shows how easy it is to use the software .
+photostory demo - wmv file - 640x480 - approx 14 mb conclusion magix photostory on cd & dvd 4 is a great program for transforming your images into fun slideshows .
+the software is intuitive to use , easy to learn , and the multitude of output options provides great value to someone who loves to relish in their ever-growing library of images .
+a slideshow cd or dvd also makes a great gift for new grandparents .
+the best part about the software is that it wo n't break the bank .
+for $ 39 , photostory is very reasonably priced for even beginning or amateur photographers .
+pros easy to use interface easy to learn , even advanced features handles all sorts of input sources plenty of output options cons lacks some polish -lrb- spelling and missed translations -rrb-

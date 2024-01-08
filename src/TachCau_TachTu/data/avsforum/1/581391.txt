@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>sony w4100 vs samsung 650</Title>
+		<Username>avwilly</Username>
+		<Datetime>05-07-08, 07:50 AM</Datetime>
+		<Content>i don't know what to get what tv should i get??????? i know that sony w4100 are not out yet but in the best buy where i work we have 2 40" in stock so that makes me feel confused i wish we can display that tv to see how looks but we can't into next month any way if i wanna buy it i can buy it but i don't wanna buy something that i don't know how looks any way i don't think that sony will be so bad but im afraid to the motion flow 120hz does not look cool as the samsung 650 series. so give me your opinions please i need to get my new lcd sony with w4100 series or samsung 650 series ????? i want it more for blu ray movies (ps3)</Content>
+	</Post>
+</Thread>

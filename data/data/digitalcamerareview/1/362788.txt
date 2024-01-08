@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>is the S3 IS 52mm??</Title>
+		<Username>olphus</Username>
+		<Datetime>06-18-2007, 10:05 AM</Datetime>
+		<Content>I'm buying some filters, but I'm not sure if I'm supposed to get 52mm filters or another size Also, will the"Kingston 2 GB Elite Pro Secure Digital Memory Card" work with the cam since it's 50X speed??</Content>
+	</Post>
+</Thread>

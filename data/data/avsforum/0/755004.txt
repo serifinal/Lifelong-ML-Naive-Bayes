@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Played - Episode 37 (Hands-on Mario Kart Wii, Ninja Gaiden: Dragon Sword, and more...</Title>
+		<Username>warcrow</Username>
+		<Datetime>04-23-08, 09:21 AM</Datetime>
+		<Content>Quote: For some reason, Mark kicks off this week?s month?s episode with a protracted story about his recent laser eye surgery. That strange escapade is followed by discussion of the recent Nintendo-dominated NPD sales figures for the US, the closure of long-time PC gaming mag Games for Windows (formerly Computer Gaming World), and the latest delay of PlayStation 3?s upcoming Home virtual world. Chris reports on a recent Nintendo summit; Mark discusses God of War: Chains of Olympus (PSP), Ninja Gaiden: Dragon Sword (NDS), and Hot Shots Golf: Out of Bounds (PS3); and Elizabeth has only been playing web games. http://www.playedpodcast.com/2008-04...ed-episode-37/ Hope you guys enjoy! -Mark</Content>
+	</Post>
+</Thread>

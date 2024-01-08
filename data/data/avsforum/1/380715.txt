@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is it possible to get 480p from PS2 to a vga input?</Title>
+		<Username>Anthony1</Username>
+		<Datetime>04-21-08, 02:13 PM</Datetime>
+		<Content>I know that it's possible with some type of upscaling device, but I'm looking for something affordable. Basically, let's say that you have a PS2 system, and you want to hook that PS2 system up to a LCD flat panel computer monitor with a VGA input. I know there are a number of cheapo upscalers that you can use with a PS2 to get it to work on a VGA monitor, but I'm pretty sure the vast majority of them basically take a composite signal, and cheaply upconvert that, and then output it as VGA. I'm interested in some type of VGA box for the PS2, that will let you get true 480p from the games that actually support 480p, and the ones that don't support 480p, it would take the 480i and upconvert to 480p, and then output that via VGA. I'm not sure if such a device exists, that's actually affordable. But if anybody knows of one, please... do tell...</Content>
+	</Post>
+</Thread>

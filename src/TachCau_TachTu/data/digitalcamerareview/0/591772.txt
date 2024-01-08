@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sd750</Title>
+		<Username>milinkov</Username>
+		<Datetime>12-03-2008, 06:33 AM</Datetime>
+		<Content>our sd750 will not take pictures the battery is strong the memory card is empty I can import images to the camera and view them the zoom lens functions properly when taking a picture, the flash works prior to taking the picture the viewing screen works properly but, when I want to see the picture I have taken I get "no image" on my viewer please help as christmas is approaching thanks in advance</Content>
+	</Post>
+</Thread>

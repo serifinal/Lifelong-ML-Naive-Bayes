@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic GT20 Game & Bluray help.</Title>
+		<Username>guerrilladawg</Username>
+		<Datetime>08-08-2011, 11:10 PM</Datetime>
+		<Content>Hey AV, I've got my GT20 for two days now, and I like the picture quality, but I'm fairly sure it could be waaaay better. Why you ask? I'm currently using the "standard" mode to game & watch blurays? For some reason, my TV doesn't even have the "game" option. I did enable the professional modes so I have room for two custom modes. I also turned off Intelligent Frame Correction. This messes up my digital tv (images going too fast) but does this have to be off all time or will it cause jerking when I game? To be honest, I'd like to customise professional mode 1 for blurays/HD television and profession mode 2 for ps3 gaming. Which settings should I use? I found "ok" settings for movies on the AV review but I didn't really find anything gaming related.</Content>
+	</Post>
+</Thread>

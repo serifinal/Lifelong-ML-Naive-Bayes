@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>S5 IS - underexposure?</Title>
+		<Username>sushraya</Username>
+		<Datetime>08-23-2011, 11:27 PM</Datetime>
+		<Content>We've had the S5 IS for over three years now, with no problems. Great camera, even if we primarily use it only as a point-shoot camera. Of late, we have been having problems with the Auto shooting mode. In bright light conditions, when you depress the shutter half way, the picture in the viewfinder turns dark - and the picture is taken without the flash. Comes out really dark - underexposed. We've tried resetting the camera menu settings to default - no help there. Any ideas?</Content>
+	</Post>
+</Thread>

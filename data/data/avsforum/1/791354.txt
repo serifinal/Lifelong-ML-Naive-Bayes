@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking at Buying a Panny TH-42PZ85U--A couple questions</Title>
+		<Username>BL</Username>
+		<Datetime>10-03-08, 10:41 AM</Datetime>
+		<Content>I am looking to buy, probably this weekend, and the TH-42PZ85U has been recommended. I don't think I can sell the larger size to my wife. A couple questions: 1. Is this still a recommended Panny or is there another one in that size I should be looking at? 2. I see that it will do 24p, but not "cinematic" 24p. I assume the cinematic is without the 2:3 pulldown. So, should I care? I will able to deliver 24p through my HD-DVD player. 3. Are the speakers enough to get by on until we hook it up to an outboard stereo or HT unit? Any information would be appreciated. Thanks,</Content>
+	</Post>
+</Thread>

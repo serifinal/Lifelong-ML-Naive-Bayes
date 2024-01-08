@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>which carrier has the best iPhone data/voice plan?</Title>
+		<Username>gringostar</Username>
+		<Datetime>03-05-2010 11:53 AM</Datetime>
+		<Content>I'm going to get an iPhone but don't know which provider to sign up with as their plans all seem to be about the same. I need about 500 mins local calling, 300 mins long distance (primarily within Canada), vmail, call display, 2G data should do it. I have been with Rogers for about 15 yrs - never had an issue with availability but their customer service could use some improvement. I have Bell landline and tv. Can I get some opinions on the other carriers wrt iPhone packages? I see that Fido has per second billing which is attractive. How can I get the best deal? Thanks. Rob</Content>
+	</Post>
+</Thread>

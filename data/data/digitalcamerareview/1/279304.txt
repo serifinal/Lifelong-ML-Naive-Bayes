@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD4000 or SX210IS?</Title>
+		<Username>shuqi</Username>
+		<Datetime>06-03-2010, 11:22 PM</Datetime>
+		<Content>I am currently looking to replace my (very) old digital camera and narrowed it down to 2 choices: the canon SD4000 or SX210IS I like the better zoom on the SX but overall the SD4000 seems to have the upper hand feature wise. Any recommendations for either or? (I wish the full review of the SD4000 would be up already )</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LCD screen not working when shooting! help?</Title>
+		<Username>Keyl</Username>
+		<Datetime>06-01-2009, 12:23 AM</Datetime>
+		<Content>Hello everybody: I got a question: I have just purchased a canon D50 (I have always worked with film before and had just a Lumix Panasonic in Digital) and even when I always work exclusively with the viewfinder when shooting, I cannot make the LCD screen work! The LCD screen works perfect when reviewing pictures, info, changing settings and so for... but if I want to use the LCD screen to see the subject during shooting instead of the viewfinder... it does not matter what I do, it remains black. Could it be malfunctioning? Or I am really dumb and I haven't find the way to activate it? It doesn't work when pressing the little button on the left side on the back of the camera. (the it is supposed to be used for that purpose) and I am quite sure it did work when I just got it. Anybody can tell me what I am doing wrong, or what is wrong with the camera? thanks so much in advance! K.</Content>
+	</Post>
+</Thread>

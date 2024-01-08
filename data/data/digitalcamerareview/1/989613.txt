@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>S5 IS vs S1 IS</Title>
+		<Username>whitetiger777</Username>
+		<Datetime>04-12-2008, 10:47 PM</Datetime>
+		<Content>Hi everyone, I currently have a Canon S1 IS and I'm considering upgrading to a Canon S5 IS. Can anyone tell me what has been improved on the S5 IS? What features are different or better? I have had some issues with focusing with the S1 IS, so I am wondering if that is better. Is it easier to use the manual focus on the S5 IS? I can't really figure that out. Thanks!</Content>
+	</Post>
+</Thread>

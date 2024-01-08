@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS/T:BNIB SEALED IPHONE 3gs 16GB black Rogers</Title>
+		<Username>911turbo</Username>
+		<Datetime>10-20-2009 05:47 PM</Datetime>
+		<Content>BNIB IPHONE 3gs 16GB black Rogers sealed 700 OBO markham area trades: BB 9700, Nokia 97 NAM, IPHONE 3Gs WHITE FIDO, BB 9000 + $, BB TOUR unlocked</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>50GT30 picture settings</Title>
+		<Username>Darthvader3d</Username>
+		<Datetime>27-11-2011, 9:03 PM</Datetime>
+		<Content>Hello all Does anyone have the best picture settings for sd and 3d? Or are the same as the 46? Thank you</Content>
+	</Post>
+</Thread>

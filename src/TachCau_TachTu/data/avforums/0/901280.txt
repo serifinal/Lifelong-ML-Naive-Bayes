@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 50PZ250T - Response Time?</Title>
+		<Username>dannyclyro</Username>
+		<Datetime>Today, 3:39 PM</Datetime>
+		<Content>Instead of doing some research beforehand, I stupidly bought this television in August as soon as I was able to afford a decent one. It is fantastic for everything except the one thing I wanted to use it for most: gaming. It seems to have quite problematic latency issues, and as a result any game which requires a split-second response becomes almost unplayable. This is pretty much every online multiplayer console game. I have to move the PS3 back into another room and hook it up to a 24" monitor in order to play Battlefield 3 or FIFA. Richer Sounds claim on their website that the "600Hz technology gives a superb response...", yet in their technical specifications the response time is labelled 'NA'! It would appear it is most definitely applicable! Comet list it as having a 5ms response time but it just does not feel like that is the case. I had heard in general plasmas have a better response time than LCD/LEDs, is this a myth? Is there a setting somewhere I'm missing which would help or am I **** out of luck? I am seriously considering selling it, even for a smaller size with a better response time. Cheers!</Content>
+	</Post>
+</Thread>

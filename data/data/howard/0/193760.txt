@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>does facetime waste minutes?</Title>
+		<Username>ecabral</Username>
+		<Datetime>06-20-2010 11:12 AM</Datetime>
+		<Content>i'm interested in knowing if you waste minutes while using facetime, since is gonna be thru wifi. International call charges? (if using facetime with someone outside the usa).</Content>
+	</Post>
+</Thread>

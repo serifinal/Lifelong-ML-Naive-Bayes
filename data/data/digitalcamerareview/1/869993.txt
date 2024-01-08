@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Rebel series are the most reliable cameras! (experience)</Title>
+		<Username>karl2</Username>
+		<Datetime>03-31-2008, 08:16 AM</Datetime>
+		<Content>When we retired all of our Canon film cameras we bought our first Rebel XT and it worked well with no complications. When we returned to the dealership for our next camera we were pleased with the upgrades on the XTi and that has worked well again. We are anxiously awaiting the delivery of the XSi and the larger LCD. Last year we shot 300 weddings without a single glitch using the Rebels. Here are some interesting videos about the new Canon Rebel XSi usability: http://www.infoborder.com/Digital_Ca...nonEOS450D.php</Content>
+	</Post>
+</Thread>

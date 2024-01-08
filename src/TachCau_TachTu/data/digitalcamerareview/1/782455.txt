@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>4GB, 8GB, 16GB Compact Flash???</Title>
+		<Username>Mike O.</Username>
+		<Datetime>04-21-2010, 01:23 AM</Datetime>
+		<Content>Ok am kinda new to this, hey at least I admit it. Anyone able to give me a rough guess how many pictures each of the above sizes of compact flashes will hold? Thanks in advance, Mike O.</Content>
+	</Post>
+</Thread>

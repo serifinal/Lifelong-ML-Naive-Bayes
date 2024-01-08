@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Upgrade from old S500</Title>
+		<Username>talz13</Username>
+		<Datetime>04-07-2008, 09:14 PM</Datetime>
+		<Content>I got a canon S500 back around 4/05 and am trying to decide if I should upgrade soon... My main complaints are blurry images without flash in indoor lighting. The image quality when I can get a sharp shot is fine, no complaints with that really, but the frequent blurry images are what gets me. How do the newer cameras compare?</Content>
+	</Post>
+</Thread>

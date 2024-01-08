@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help with LG Flat Screen Flatron Plasma 42" TV Problem</Title>
+		<Username>darylh</Username>
+		<Datetime>13-01-2012, 6:45 PM</Datetime>
+		<Content>Thinking about buying a LG Flat Screen Flatron Plasma 42" TV that has an intermittant fault. Its very cheap and local, just wanted to see what you guys thought about the problem and what it might be. Here is what the seller has told me: "when you turn it on the picture is quite dark and picture flickers, but after a while it seems to rectify itself and works perfectly" "it can take from 10 minutes to a few hours to put itself right, sometimes it seems like its getting worse then it seems to almost correct itself and take no time at all to work correctly" Any idea what would cause this? and any other questions I should ask?</Content>
+	</Post>
+</Thread>

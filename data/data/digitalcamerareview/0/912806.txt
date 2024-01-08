@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>new 50d coming</Title>
+		<Username>automaton2</Username>
+		<Datetime>10-02-2009, 03:29 PM</Datetime>
+		<Content>I just bought a 50d Its shipping I am concerned about the firmware ver how do I get into the menu to obtain this info?</Content>
+	</Post>
+</Thread>

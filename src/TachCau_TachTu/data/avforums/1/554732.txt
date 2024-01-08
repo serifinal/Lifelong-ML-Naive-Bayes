@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>infrared extender for panasonic TV</Title>
+		<Username>mavers</Username>
+		<Datetime>13-08-2011, 9:29 AM</Datetime>
+		<Content>I have a P42G20B panasonic TV. I'm currently using SKY, but will want to switch to the tv's own freesat when i cancel SKY. Unfortunately the centre speaker of my 5.1 system sits infront of the TV, making it impossible to control the TV. I was wondering if its possible to attach an external infrared module to the tv? Couldnt seem to find anything on google. I'm looking at spending £20-30 (no more, as i could put that towards a freesat box) Thanks</Content>
+	</Post>
+</Thread>

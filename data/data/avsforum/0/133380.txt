@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>ayejayjay</Username>
+		<Datetime>12-02-08, 08:13 PM</Datetime>
+		<Content>I just wanted to see what others with this type of television has their menu configuration set to for the best quality in blue rays and while playing video games as well.</Content>
+	</Post>
+</Thread>

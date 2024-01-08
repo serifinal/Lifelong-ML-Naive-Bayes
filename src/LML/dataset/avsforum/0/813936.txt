@@ -1,0 +1,5 @@
+does anyone have tmt working with intel g35 ?? .
+as title asks , does anyone have total media theater working properly with their intel g35-based motherboard ?
+by properly , i mean -lsb- without -rsb- `` hacks '' like replacing the videorenderers with the japanese versions ... arcsoft sems to feel that tmt works with the g35 , and that they have improved compatibility in v 2.1.6.113 - yet i still ca n't get a picture on my p5e-vm hdmi motherboard , without resorting to hacks .
+at this point , i 'm wondering if it 's something about my configuration .
+if any of you are working fine with this , please post your configuration here .

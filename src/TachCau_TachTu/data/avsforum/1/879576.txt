@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Yamaha RXV-1800 or Pioneer VSX-94TXH?</Title>
+		<Username>Leftoverchinese</Username>
+		<Datetime>09-11-08, 10:25 AM</Datetime>
+		<Content>Well, I am looking to get a receiver for the speaker system that I am about to purchase. I would have had this all squared away last month, but the weather here was a more pressing issue with Fay and all. So, the speaker system that I am looking at is a Klipsch 5.1 for now. The RF-52 setup with the sub upgraded to the RSW-10D. I presently have a need for 3 HDMI inputs and would like to have a 4th available for expansion purposes, hence the reason I am looking at the 94 as opposed to the 92. Also, as silly as it sounds, I don't like the plastic removable tab on the front of the 92; if you have seen on in person you know what I am talking about. Even though the PS3 is my blu-ray player of choice for now, I would like to be able to decode the latest codecs in case I get a stand alone later. So, which one would you choose? From what I could gather, the 1800 may be better with video scaling and the like, than the 94. Which one would sound better? Any input would be appreciated.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD800IS-Is this common when purchased new.</Title>
+		<Username>piperpilot12w</Username>
+		<Datetime>03-22-2007, 03:42 PM</Datetime>
+		<Content>I just purchased a Canon SD800IS from 42nd Street Photo through the internet. http://www.42photo.com/ I'm wondering if this is common to all SD800IS when new. The box had been opened and the warranty card had something torn off the bottom. It still had the customer info to fill out and send in. The LCD screen didn't have a protective coating to peel off which is common on new electronics and there was lint in the corners of the screen, as if it may have been wiped. I called them and they said that the portion of the warranty card torn off was a dealer portion and the screen on those models doesnt come with a peel away cover. He said the box doesn't come sealed on those models. He said this was new and not refurbished. If this the case with all SD800IS or should I think about returning this and purchase through someone else.</Content>
+	</Post>
+</Thread>

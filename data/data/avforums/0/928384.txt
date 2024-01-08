@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P50VT30; screen offset problem?</Title>
+		<Username>cozzie4d</Username>
+		<Datetime>28-12-2011, 11:26 PM</Datetime>
+		<Content>Hi all, Today I installed my P50VT30, first experiences on image quality are very positive. Although I have something strange, the image starts about 5cm from the left of the effective part of the screen. In the setup menu a part of the text is missing on the left side, I restorend to factory settings and went through all setup options but can't get it covered. From a user point of view it looks like the first 5cm (horizontal) of the screen are not used/ active. I tried all aspect ratio's but since the menu (from initial setup on) also shows the same problem, I think it's not the aspect ratio (in all ratio's the same around 5cm are black/ unused). Here are some pictures: http://www.sierracosworth.nl/img/tx-p50vt30/ Does someone recognise this problem? regards, Cris (Netherlands)</Content>
+	</Post>
+</Thread>

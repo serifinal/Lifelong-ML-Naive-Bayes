@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>50VT30 vs 64D8000</Title>
+		<Username>gaz2810i</Username>
+		<Datetime>25-05-2011, 10:29 AM</Datetime>
+		<Content>Right guys, I need to decide between the Panasonic 50VT30 and the Samsung 51D8000. I could probably go up in size to the 64D8000 but 55" Panasonic would be a push because of my retailer not stocking it and I don't wont/can't go elsewhere at the moment. What are the pros and cons of the two sets? I am hearing good experiences on both and the VT30</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't see media server?? Panasonic TX-P42S30B</Title>
+		<Username>slugman</Username>
+		<Datetime>07-01-2012, 9:13 PM</Datetime>
+		<Content>Hi all, I have recently bought a Panasonic TX-P42S30B and currently have it wired to my BT homehub. I can access the onboard internet features fine, but can't seem to make any media servers appear on the TV - I have tried twonky and wild media - both can detect the TV, but the TV never seems to show any sign of recognising the presence of a media server?? Any suggestions for will it work/how can i get it to work?? I'm truly stumped...</Content>
+	</Post>
+</Thread>

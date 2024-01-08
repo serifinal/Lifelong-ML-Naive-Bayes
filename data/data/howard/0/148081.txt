@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How many minutes on an "unlimited" plan is considered "unlimited"</Title>
+		<Username>fonezfonz</Username>
+		<Datetime>03-19-2010 05:55 AM</Datetime>
+		<Content>Page Plus has some issues with kicking off "high usage" subscribers. Apparently, users with 100 minutes a day or more are considered "abusers" with "unreasonable usage" on their unlimited plan. I've seen reports that 5000 minutes was the cap for old Sprint mvno (and one of the first unlimited prepaid plan carriers) Airlink/Power link. I also saw one post stating that Straight Talk allowed over 40,000 minutes a month before it is considered abuse. So what should be a standard of what is considered a reasonable "unlimited" cap for talk. Data is pretty much 5 gigs universally for "unlimited" but for talk, it seems harder to define. Views please.</Content>
+	</Post>
+</Thread>

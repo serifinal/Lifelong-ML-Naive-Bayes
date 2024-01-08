@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung A550 or Toshiba XF550?</Title>
+		<Username>davez82</Username>
+		<Datetime>04-16-08, 08:41 PM</Datetime>
+		<Content>Is the PQ of the toshiba pretty much on par with samsung? Black levels, colors, sharpness, motion blur. The a550 is a lot cheaper but I'm willing to pay the premium if the toshiba has the same picture quality with 5:5 120hz. Anyone actually have experience with both? or should I wait for the sony z series? thanks</Content>
+	</Post>
+</Thread>

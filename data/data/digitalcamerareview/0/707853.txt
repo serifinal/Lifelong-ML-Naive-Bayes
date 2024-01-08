@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Formatting Memory Cards ?</Title>
+		<Username>Myron</Username>
+		<Datetime>03-16-2007, 11:24 AM</Datetime>
+		<Content>I just got my first digital camera, Canon SD 600. I was using it when suddenly a message appeared saying that the Memory Card was full. Do any digital cameras advise when the Card is nearly full? I know my camcorders all give a 5-minute warning when the tape supply is low. Also, is it necessary to format (customize) memory cards before use? What is the purpose and what happens if I forget to format a new card? If a Memory Card is ejected, then re-inserted, won't formatting erase everything? The manual gives little information about formatting.</Content>
+	</Post>
+</Thread>

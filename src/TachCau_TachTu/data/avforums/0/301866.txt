@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Broken LG 50PC1D</Title>
+		<Username>mybrokentv</Username>
+		<Datetime>21-07-2011, 7:54 AM</Datetime>
+		<Content>Hi, our plasma tv decided to stop working last night it has sound but no picture I have included a video of what it is doing &#x202a;brokentv&#x202c;&rlm; - YouTube We got the tv in November 2006 so its not that old. I thought I would ask on here first rather than call out an engineer so see if it is a easy fix and how might it might cost as if it is too expensive id much rather update to a newer tv. Hopefully you are able to help</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't see my RAW files</Title>
+		<Username>TimerWizard</Username>
+		<Datetime>10-30-2011, 11:26 PM</Datetime>
+		<Content>So after some research I decided to shoot in raw, and at first it was OK. I was able to import and edit my pictures using picasa, lightroom, and picnik. Now though I can't seem to import my photo at all. Picasa give me error message. Lightroom say there is no picture, and when I open the camera in my computer there is no files, which before there was. I'm not sure what is happening. I'm using a canon rebel xs by the way. Much help would be appreciated. Also the last time I tried I was able to download the pictures using adobe bridge on my school computer. Is this a memory card problem or a computer one? I hope this is not a camera problem or I am screw.</Content>
+	</Post>
+</Thread>

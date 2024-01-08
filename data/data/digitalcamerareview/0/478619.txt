@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon 5D Mark II first video preview!</Title>
+		<Username>karl6</Username>
+		<Datetime>09-17-2008, 09:35 AM</Datetime>
+		<Content>Hi! Here are the first Canon EOS 5D Mark II hands-on video preview: http://www.infoborder.com/Digital_Ca...OS5DMarkII.php</Content>
+	</Post>
+</Thread>

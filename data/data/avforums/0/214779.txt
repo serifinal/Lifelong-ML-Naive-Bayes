@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Will a Panny GT30 + bluray player replace my media centre</Title>
+		<Username>saqmaster</Username>
+		<Datetime>25-12-2011, 6:17 PM</Datetime>
+		<Content>Hi all, and merry xmas, I'm tempted to spoil myself with the sales with a Panasonic GT30 (50"). Right now i have a samsung lcd and tv source/network mkv playback is a win7 media centre running media portal. I use a ps3 for bluray playback. Audio is handled by a sony dts amp from the htpc via spdif. I always went for a full-on htpc to get away from the typical playback issues you got from embedded equipment. I'm wondering if a GT30 will be a good replacement for my htpc with regards to avi/mkv playback (from a network smb share or dnla server) as well as handling my dvbs2 recording? I'm also wondering which panny bluray player would be the best match based on my requirements above, eg the 210? Or should i go for the combo bluray hdd recorder? I dont want to duplicate features already on the tv unless necessary. Also tempted to go the whole panny hog and get the soundbar too! Any thoughts welcomed, before i go burn some cash Many thanks in advance</Content>
+	</Post>
+</Thread>

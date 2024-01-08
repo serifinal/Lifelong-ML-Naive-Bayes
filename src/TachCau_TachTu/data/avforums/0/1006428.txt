@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung ps42 - having to cycle for hdmi input! (annoying)!</Title>
+		<Username>willcrook</Username>
+		<Datetime>13-02-2012, 9:47 AM</Datetime>
+		<Content>Hello, I have 3x hdmi inputs connected to the Samsung PS42 TV and it's extremely annoying that to get to the HDMI3 input I have to press the remote 'source' button 6 times which a wait and pause in between, occasionally I'll press it again accidentally and have to repeat is there a workaround for this?</Content>
+	</Post>
+</Thread>

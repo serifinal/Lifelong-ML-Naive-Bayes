@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>Xylon</Username>
+		<Datetime>11-28-08, 06:24 PM</Datetime>
+		<Content>*Warning* this thread may not be spoiler free. I will put spoiler tags on some the images just in case. "At this juncture it's important to remember that AVS is a home theater enthusiasts web site. This particular forum is for those interested in the highest level of accuracy in film reproduction possible, within their budget of course. Those who do not share this interest should expect to find disagreement with their opinions, and may want to reconsider their participation here." - Ken H AVS Moderator</Content>
+	</Post>
+</Thread>

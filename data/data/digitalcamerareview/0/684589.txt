@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>NIKON 58mm Lens Cap (LC-58) AND Canon S5 lens adapter and hood</Title>
+		<Username>jhwalk55</Username>
+		<Datetime>02-04-2009, 03:13 PM</Datetime>
+		<Content>Can anyone tell me if the NIKON 58mm Lens Cap (LC-58) will work with the Canon S5 lens adapter and hood? I prefer the "center pinch" to Canon's lens cap. Hopefully someone out there knows the anwer.</Content>
+	</Post>
+</Thread>

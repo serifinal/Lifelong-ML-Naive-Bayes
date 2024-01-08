@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which Shop/Supplier?...JL out of stock</Title>
+		<Username>RedBlueGreen</Username>
+		<Datetime>28-12-2011, 7:05 PM</Datetime>
+		<Content>Could I ask for some advice? I have a strong desire to buy my new television from John Lewis due to their 5 year warranty and good reputation, but unfortunately every model I?m interested in is out of stock - No 37DT30, 42E30B, 37E30B?s in stock?plus I presume JL is a good place to demo each model. On phoning JL this afternoon they don?t say when they?ll be restocking. Anyway that got me thinking. Which other suppliers would people recommend? Panasonic Shops(where are they?, never having seen one) may be an option but how about Dixon?s, Comet, Richer Sounds, Amazon etc.? Are their prices keen and warranties any good in a crisis? Thanks in advance everyone</Content>
+	</Post>
+</Thread>

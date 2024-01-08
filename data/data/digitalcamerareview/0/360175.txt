@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon's Camera Museum</Title>
+		<Username>camerashy</Username>
+		<Datetime>04-16-2006, 01:43 AM</Datetime>
+		<Content>Interesting part of their site. View all of the camera's Canon has ever made. Canon's Camera Museum Any vintage camera collectors out there?</Content>
+	</Post>
+</Thread>

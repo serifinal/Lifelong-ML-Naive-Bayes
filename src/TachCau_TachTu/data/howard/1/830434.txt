@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: Google Nexus One, 3G/Rogers AT&T ver (not AWS or Wind Mobile)</Title>
+		<Username>aznspecstype</Username>
+		<Datetime>05-15-2010 05:10 PM</Datetime>
+		<Content>Looking to buy a Google Nexus One 3G version Rogers/AT&T (Brand new or Mint Condition. Please do not offer me the AWS/Wind Mobile version (will check). Located in GTA, have cash on hand. Meet up at Yorkdale location, will pick up either tonight or tmr. Leave contact info, and asking amt. Kind Regards,</Content>
+	</Post>
+</Thread>

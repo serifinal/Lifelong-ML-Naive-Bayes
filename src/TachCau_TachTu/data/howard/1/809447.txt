@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: Nexus One (AT&T/Rogers 3G Bands)</Title>
+		<Username>iKush</Username>
+		<Datetime>04-12-2010 05:58 PM</Datetime>
+		<Content>Hello HoFo members! I am looking to buy a Nexus one in 10/10 condition. I will NOT take ANY phones that have even a SCUFF on it. - Please keep that in mind. I prefer the Rogers/AT&T 3G bands but I will take a T-Mo if the price is right. I am located in Canada so I would prefer to buy from a Canadian or someone who can mark it as a gift so I avoid those nasty customs. The phone MUST have it's original box. Please contact me via e-mail (look below) or pm. I guarantee a fast response to either one. I prefer if you e-mail me. E-Mail: kushgandhis AT gmail DOT com Thank for your taking the time to look at my ad</Content>
+	</Post>
+</Thread>

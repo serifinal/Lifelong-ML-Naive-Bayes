@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Same Price! Pick one. Samsung PN50A550 , Samsung LN52A550 or Panasonic TH50PZ80</Title>
+		<Username>bushead11</Username>
+		<Datetime>06-09-08, 02:15 PM</Datetime>
+		<Content>Hey eveyone, I am looking to upgrade from my Toshiba 50 inch rear projection tv to add HD and clear some space in my living room. I started with the cnet reviews and then did some cost comparison. Long story short the CC website has all three models within $20 bucks. I wanted to look at them in person and went in thinking bigger is better with the LCD but when I saw them in person and spoke to the salesperson my alliance changed. Things to consider. There is light coming into the room from late day sun so glare might be an issue. I have 4 month old twin boys so duribility is a concern even though we will try to keep the toys and playing to the basement. Our main viewing will be DVD's and regular cable tv with HD programming. No gaming. I have a tendency to over analyze things and especially with bigger purchase. What I am looking for are some simple reasons why one set will be better than the other two. I appreciate the help in advance.... ~Ryan</Content>
+	</Post>
+</Thread>

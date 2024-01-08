@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>are 2nd hand pio 42xd's worth much?</Title>
+		<Username>jonwatts</Username>
+		<Datetime>01-02-2012, 11:33 AM</Datetime>
+		<Content>Thinkin of selling mine but got no idea of their re-sale value.any ideas?</Content>
+	</Post>
+</Thread>

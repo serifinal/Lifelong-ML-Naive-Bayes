@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title></Title>
+		<Username>graham barnes</Username>
+		<Datetime>06-15-08, 01:07 PM</Datetime>
+		<Content>i have a us tv and want to connect it to my sky box atm the tv goes its going through my media center via hdmi which in turn connects to my sky box but i want to connect it directly to the tv. my tv is HP LC2600 (specs on amazon) when i try i only get a black and white signal, would upgrading to sky hd fix this problem? since the tv has a hdmi socket. thx graham</Content>
+	</Post>
+</Thread>

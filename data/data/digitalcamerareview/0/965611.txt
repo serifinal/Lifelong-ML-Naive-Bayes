@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why my canon 60D cannot switch on?</Title>
+		<Username>aripo</Username>
+		<Datetime>01-03-2011, 09:33 AM</Datetime>
+		<Content>just bought it less than one and half months and i rarely use it. Can someone tell me why and what should i do?</Content>
+	</Post>
+</Thread>

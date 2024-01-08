@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTT:BNIB iPhone 4 16GB (Rogers) for BNIB Samsung Galaxy Vibrant (Bell version) + Cash</Title>
+		<Username>macsp</Username>
+		<Datetime>10-05-2010 02:10 PM</Datetime>
+		<Content>Hi, I would like to trade my BNIB iPhone 4 (16GB, Black, locked to Rogers) for the BNIB Samsung Galaxy Vibrant (Bell version, unlocked) + cash. I am in York region and can meet for the trade. Please PM me your offers if you are interested. In your message, please let me know your Vibrant's HSPA bands and if the phone has the three button issue. macsp</Content>
+	</Post>
+</Thread>

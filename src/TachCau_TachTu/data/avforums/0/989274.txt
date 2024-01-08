@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 'U30' Plasma series advice?</Title>
+		<Username>bery_451</Username>
+		<Datetime>18-12-2011, 9:19 PM</Datetime>
+		<Content>Does the U30 or UT30 suffer from Fluctuating brightness and green blotches issues? also is the 2011 'u' series have mll black problems like the 2009/10 models? does the ut30 have a better picture quality than u30 when it comes to 2d? thanks,</Content>
+	</Post>
+</Thread>

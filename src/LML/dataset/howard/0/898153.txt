@@ -1,0 +1,7 @@
+page plus , outgoing smtp server .
+i 'm certain i 've asked this before .
+on my palm treo , i can receive email from my at&t account , but i ca n't send it .
+they do n't allow connections from foreign networks to their outgoing mail servers .
+how is everyone else getting around this ?
+it would be nice if pageplus had an outgoing mail server .
+regards , hans

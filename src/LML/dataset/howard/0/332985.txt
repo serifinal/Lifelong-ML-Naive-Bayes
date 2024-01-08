@@ -1,0 +1,3 @@
+amoled clock .
+does anyone know how to ask the screen to only display the clock when the screen goes off ?
+like in nokia n85 and n86 ?

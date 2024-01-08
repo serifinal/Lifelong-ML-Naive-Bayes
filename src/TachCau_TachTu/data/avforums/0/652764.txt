@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung D8000 glasses?</Title>
+		<Username>vk2003</Username>
+		<Datetime>13-01-2012, 9:02 PM</Datetime>
+		<Content>I just got my D8000 home from RS. But, there were no included 3D glasses... I always thought it shipped with a couple of pairs. Am I wrong?</Content>
+	</Post>
+</Thread>

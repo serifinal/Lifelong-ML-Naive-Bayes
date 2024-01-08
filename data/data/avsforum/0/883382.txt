@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anyone Know What Sharp is Up to?</Title>
+		<Username>bri1270</Username>
+		<Datetime>04-13-08, 08:51 AM</Datetime>
+		<Content>I have a DT-500, and I love it, but I'd also like to get into 1080p. My problem is that I have a very short throw (9'6") to my 92" screen. So many of the "low" cost 1080p projectors won't work. I'm partial to DLP, though I would consider the Epson UB if they can sort out some of their quality issues. What I'd really like to know though, is if Sharp is planning a low cost 1080p similar to the DT-500 or XVZ-3000.</Content>
+	</Post>
+</Thread>

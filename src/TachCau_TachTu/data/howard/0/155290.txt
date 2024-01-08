@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>[iPhone4] Pre-Order questions</Title>
+		<Username>supernet33</Username>
+		<Datetime>06-14-2010 11:21 AM</Datetime>
+		<Content>[iPhone4] Pre-Order questions 1) What time can I pre-order my iPhone4? 2) I have a FAN account, will this be an issue? 3) If issue, what should I do? 4) What time does pre-order start?</Content>
+	</Post>
+</Thread>

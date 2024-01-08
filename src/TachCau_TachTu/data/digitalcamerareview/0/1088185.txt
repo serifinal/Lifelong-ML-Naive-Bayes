@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sports Photography with EOS 20D</Title>
+		<Username>CatC504</Username>
+		<Datetime>12-19-2005, 05:36 PM</Datetime>
+		<Content>I want to shoot basketball photos. I am using EOS 20D. Just purchased 85mm lense but also have 100-300mm and 17-40mm lenses. I was advised that the 85mm lense would be a good choice for basketball as well as other shots. I am having problems with blur and I can't use flash at all in the gym. What are the easiest settings to use to avoid blur on the photos with no flash. Sport setting does not seem to be fast enough. What about AV or TV set at 800 ISO?? Any advice is appreciated.</Content>
+	</Post>
+</Thread>

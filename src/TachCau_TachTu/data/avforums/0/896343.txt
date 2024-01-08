@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS42Q7HD PLASMA television is making clicking noise and won't power on</Title>
+		<Username>countrydj</Username>
+		<Datetime>30-06-2011, 4:59 PM</Datetime>
+		<Content>Hi Guys.. I have a Samsung PS42Q7HD PLASMA television making clicking noise and won't power on. The screen lights up for half a second and then goes off. It just does this continually. Everything that I read about Samsung televisions indicate tht it is soe capacitors that are faulty. I have taken out the power supply an all capacitors seem to be OK with a visual check. I have checked the 5 vold line and that is quite stable. I think that it must be the relay that is kicking in abd then out again. Has anybody got any idea how to cure this problem ??? Thanks, John C</Content>
+	</Post>
+</Thread>

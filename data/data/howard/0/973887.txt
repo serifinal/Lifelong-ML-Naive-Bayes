@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>N1Des</Username>
+		<Datetime>06-11-2010 11:39 PM</Datetime>
+		<Content>Wirelessly posted (Mozilla/5.0 (Linux; U; Android 2.2; en-us; Droid Build/FRF57) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1) The new Droid X is coming out soon. My partner works for VZW corp. We have to do all upgrades/account changes online, can't do anything in store. I'm eligible on the employee account on my line for upgrade July 4 for upgrade at 2 year pricing. does anyone know if I can call in to employee phone team and request they let me preorder for a phone ahead of time if the phones release date is on or after my upgrade date on the 4th? for example. preorder starts fathers day which is June 20th. I can't officially upgrade until July 4. can employee phone team (*611) allow me to preorder if the Droid X 's release date is on or after the 4th, or do I have to wait til the 4th to preorder/order? my partner says he isn't sure the policy and said I should call in and ask. figured I'd ask here first... anyone know? Thanks for any help!</Content>
+	</Post>
+</Thread>

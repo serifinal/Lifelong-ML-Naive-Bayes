@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Question About Canon Powershot G10</Title>
+		<Username>blabus</Username>
+		<Datetime>05-15-2009, 06:30 PM</Datetime>
+		<Content>I was looking at the Powershot G10 in Best Buy today, and I had never heard of it before until I saw it in the store. I've been looking for a 'prosumer' type compact (something in between a point-and-shoot and a DSLR), and I was leaning towards the Panasonic DMC-LX2 (except for the fact that you can't find them anywhere ). Anyway, in the reviews of the G10 online, they said that the ring around the lens can be removed, allowing you to add an adapter for use with filters and other lenses. So, I was just curious if any G10 owners had done this, and have any opinions on it. Thanks for any help! P.S. Also, feel free to suggest any other prosumer compact cameras. P.P.S. Alright, one more question- what's the largest print size (with high quality) that can be obtained with the G10's 15 megapixels?</Content>
+	</Post>
+</Thread>

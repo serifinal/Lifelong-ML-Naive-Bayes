@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pioneer elite 110 vs new 5020?</Title>
+		<Username>ryanosu00</Username>
+		<Datetime>04-03-08, 09:49 PM</Datetime>
+		<Content>I have read many posts about 9G models to come out, and all the great things about the 8G elite line. Seems to be the expected MSRP of 5020 is going to be in the $3500 range. My question is this. If there are any 110's left on the market when 5020's come out (June), they might be very close in price to each other. What would you buy if this were the case? My reasoning is that the elites are suppposed to come out in late July/early August, right? It would make sense that they will discount any 8G elite's to make room for new 9G's. So, if the 5020 has deeper blacks but similar color reproduction as the 5010, is it a better deal than a elite 110 with not as great blacks, but more accurate color? I am looking at this from a PQ point of view. I know this may be hypothetical at best if the 110's are going as fast as everyone says they are.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX30 - Windows XP - Can't Find Driver</Title>
+		<Username>st_firestone</Username>
+		<Datetime>08-07-2011, 10:40 PM</Datetime>
+		<Content>Hi, I bought a Canon SX30. I'm running Windows XP - a custom install. When I connect the camera to the computer using a USB cable Windows detects the camera but cannot find the drivers for the camera. There are no drivers on the Canon CD - only camera software. Yes, I did install the CD software before plugging in the camera. Windows can't even find drivers online. I can't find any drivers on the Canon websites either. Any suggestions? I'm stuck. Thanks.</Content>
+	</Post>
+</Thread>

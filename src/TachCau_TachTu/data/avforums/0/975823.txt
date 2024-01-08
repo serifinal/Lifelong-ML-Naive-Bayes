@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Purchased the 46GT30 from JL ? a couple of questions</Title>
+		<Username>MJU1875</Username>
+		<Datetime>07-01-2012, 3:21 PM</Datetime>
+		<Content>Despite the negativity with Green Tinge fault I decided to take the risk with this set and purchased the Panny 46GT30 TV + Bluray + Glasses + 5yr warranty. Could anyone answer the following questions, please: 1) The Bluray player apparently needs a special cable to render 3D, what is the lead? JL were trying to sell to me for £40, I am sure it is much cheaper elsewhere e.g. Amazon/Ebay. 2) Apparently the set comes with Star Wars Triology, apparently this is only 2D, is there any offers direct with Panasonic for 3D Bluray (e.g. Avatar)? 3) If I download a 3D Demo, will it stream ok from laptop to TV - HDMI to HDMI?</Content>
+	</Post>
+</Thread>

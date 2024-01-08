@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Will My Movie Marathon Damage My Plasma</Title>
+		<Username>Pinkmartin</Username>
+		<Datetime>15-02-2012, 11:13 PM</Datetime>
+		<Content>Hi guys, I'm still in the process of running in my new GT30. Trying to be sensible, watching it a few hours every night, on cinema mode with contrast turned down and the picture zoomed in to avoid any static images. Current running time around 20 hours. Which brings me on to my question. With my girlfriend away this weekend, I have an opportunity to watch all three LOTR Extended Editions as has been my plan for a very long time. I want to watch the movies in their original letterbox format and not zoomed in but I'm worried that the 12 hours (pretty much) continuous viewing might result in image retention or screen burn. Any advice or opinion on this is welcomed. Am I right to be worried or am I being over cautious? Cheers Steven</Content>
+	</Post>
+</Thread>

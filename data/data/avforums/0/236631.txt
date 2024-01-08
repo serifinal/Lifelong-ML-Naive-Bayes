@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic tx-p55vt30b noise query??</Title>
+		<Username>Brightspark98</Username>
+		<Datetime>26-11-2011, 5:35 PM</Datetime>
+		<Content>Hi , new to the forum so apologies if this question has already been asked or answered. I've just got a shiny new Panasonic tx-p55vt30b and it seems to have an annoying noise coming from the rear. There doesn't seem to be any pattern to the noise problem, it just appears randomly. It sounds similar to the 'cricket' noise you get on holiday??. Does anyone have any ideas or have similar experience or cure, All cables are fitted with ferrite cores and are of good quality. Any ideas......Thanks</Content>
+	</Post>
+</Thread>

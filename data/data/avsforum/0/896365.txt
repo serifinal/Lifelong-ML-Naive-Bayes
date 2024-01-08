@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Mirage 550 Speaker stopped working. No Lows and Barely any highs</Title>
+		<Username>spanosays</Username>
+		<Datetime>12-28-08, 10:33 AM</Datetime>
+		<Content>Greetings all. I bought a pair of Mirage 550's (not the omni's, the older set) from ebay last year. Great set of speakers...but.... Last night I noticed that the left speaker wasn't working barely at all. There is the tiniest bit of sound coming from the tweeter but barely. I switched out the speakers and when attached to the right side speaker wire produced the same results. I even switched out my vintage Harmon Kardon 730 for my surround sound Sony amp. I took out the tweeter and inspected all of the wiring, everything looks good...anyone know what this could be? There is absolutely no sound coming from the sub...</Content>
+	</Post>
+</Thread>

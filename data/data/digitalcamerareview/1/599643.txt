@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Rebel T1i Lenses</Title>
+		<Username>cougarfan2207</Username>
+		<Datetime>11-04-2009, 02:25 PM</Datetime>
+		<Content>I just purchased a DSLR and chose the Canon Rebel T1i. The kit includes the EF-S 18-55mm IS lens, but I am interested in purchasing additional lenses for the camera. I saw on Canon's website that they offer EF 70-300mm f/4-5.6 IS for around $650 but I don't know if this lens kit will work with the Rebel T1i or not. I also would be interested in a less expensive lens or lenses. Can anyone advise on this?</Content>
+	</Post>
+</Thread>

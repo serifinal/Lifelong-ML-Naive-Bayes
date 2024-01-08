@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic PF30 announced</Title>
+		<Username>elena</Username>
+		<Datetime>16-06-2011, 3:47 AM</Datetime>
+		<Content>Panasonic Announces PF30 Series Professional Plasma Displays | Business Wire Seems they are on display at a trade show this week in Florida. Any attendees here? Photos? Additional specifications?</Content>
+	</Post>
+</Thread>

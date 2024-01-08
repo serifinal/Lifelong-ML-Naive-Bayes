@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What's the Scoop on 1080P for DirecTV HD???</Title>
+		<Username>Steve Bruzonsky</Username>
+		<Datetime>10-22-08, 12:19 AM</Datetime>
+		<Content>Today our DirecTV HD DVRs all got an upgrade. Upon startup, there was a message noting 1080p is a new feature. Then in the menu, under resolutions, I enabled 1080p (along with 1080i, 720p and 480i, as I play native resolution). Are the DirecTV pay movie channels gonna be 1080 60P, 1080 24P or what? What's the scoop here. Anyone know? And is the broadcast actually 1080p or is the receiver simply deinterlacing 1080i to 1080P???</Content>
+	</Post>
+</Thread>

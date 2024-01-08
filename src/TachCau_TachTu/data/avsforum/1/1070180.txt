@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking for some advice/help on a new projector</Title>
+		<Username>Wraith72</Username>
+		<Datetime>12-12-08, 03:09 PM</Datetime>
+		<Content>Hi all, I'm looking for some help in choosing an upgrade to my ol' Z2. I have over 3300 hours on the first lamp, and it's still going strong, but I just have a craving for a better (and brighter) picture. I'm going to be acquiring a blu-ray source for Xmas, so I thought it would be a good time to upgrade to a 1080p projector. I've done some moderate research on projectorreviews.com, and I'm leaning toward a Panny AE3000 or the Epson PowerLite Home Cinema 1080. I know either one will be a major upgrade from my Z2. I'd really like some opinions on these two units ....or if anyone else has any other suggestions ... I'm all ears (I prefer 3LCD models since the LCoS are kinda pricey right now). I'm looking to spend a maximum of around $2500. I have a Da-Lite Da Snap 120" fixed screen (I believe it's the DaMat material), and my proj. mount is approximately 13' from the screen. Thanks in advance!</Content>
+	</Post>
+</Thread>

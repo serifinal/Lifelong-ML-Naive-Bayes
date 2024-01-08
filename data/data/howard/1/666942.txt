@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>samsung i9000 galaxy s ETA Canada</Title>
+		<Username>extreme22</Username>
+		<Datetime>06-01-2010 02:03 PM</Datetime>
+		<Content>Now i was wondering if there has been any new news if regards to samsung i9000 galaxy s Canada release date, I have searched google but really nothing as far as a Canada release date or to what carriers would carry this unit.</Content>
+	</Post>
+</Thread>

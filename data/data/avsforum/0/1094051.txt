@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is it possible to set Harmony to NOT pick a TV input?</Title>
+		<Username>HectorO</Username>
+		<Datetime>09-10-08, 06:16 PM</Datetime>
+		<Content>I'm running all my gear through an Onkyo SR606 and out to my Panasonic plasma with a single HDMI cable. Works ok, but every activity I've set up on my Harmony 880 wants to select an input on the TV. It's always the same, so I'd save some "power on" time if the harmony would just turn on the TV and leave it at the single input I'm using, not re-select it every time. Any thoughts on how to set this up on the Harmony software?</Content>
+	</Post>
+</Thread>

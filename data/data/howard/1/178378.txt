@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is It Possible to Use a Bell iPad MicroSIM Card in a Huawei Stick or Milestone?</Title>
+		<Username>datmaster</Username>
+		<Datetime>05-30-2010 02:31 PM</Datetime>
+		<Content>is this possible? I want to buy a microsim and activate it on the ipad plan, and then use it in either a stick or in my milestone I assume I need to unlock my milestone to do that? where can I get the adaptor to put the microsim in the milestone? does the huawei stick need an adaptor or will the microsim work as is any word on whether they will start offering decent data plans like the ipad plan for the rest of the devices directly, saving the hassle?</Content>
+	</Post>
+</Thread>

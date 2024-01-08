@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>have a dying sd300, looking at sd770 ,sd850 come in!</Title>
+		<Username>vbittnv</Username>
+		<Datetime>08-25-2008, 01:15 PM</Datetime>
+		<Content>Im replacing my 3 yr old sd300 and it has been a trooper, I love its size and it has served me well. Im looking to replace it with a very similar sized unit and the sd770 is came up. I want to add IS, thats about all (and Im sure they all take sharper, higher resolution than my old 4mp sd300). I have an opportunity to trade in my sd300 for a sd850 is refurb through canon, but it seems a bit chunkier, but I am willing to live with it if it takes sharper photos than say a sd770. Should I bother looking at the sd1100is? what other models retain the very thin thickness (~20mm, .8") or so that I am used to with my old sd300? I mostly just aim and shoot on auto, no adjustments and would like to know of the existing canon elphs, which camera would be the best fit. Price is not all that important, so let me know which would give the easiest, non adjustment clearest pics. thanks soo much in advance</Content>
+	</Post>
+</Thread>

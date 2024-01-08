@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Voice Mail/screen issue on Moto Droid</Title>
+		<Username>chrisb83</Username>
+		<Datetime>11-07-2009 11:21 AM</Datetime>
+		<Content>When I call my voice mail and the dial pad comes up and I type in my password the screen dissapears and I cant get it to come back on unless I slide the keypad out. Any other people having this issues? Thanks</Content>
+	</Post>
+</Thread>

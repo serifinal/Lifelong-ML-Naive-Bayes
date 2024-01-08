@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help! Kuro PDP-LX5080 Red blinking lights!</Title>
+		<Username>SeanB88</Username>
+		<Datetime>21-12-2011, 11:27 PM</Datetime>
+		<Content>Two days before Christmas half way through MOTD and the screen makes a funny chirp noise, turns off and I&#8217;m left with a blinking red light (x2 blinks). It&#8217;s under warranty so no worries there (fingers crossed) but any ideas what it can be? And how long to repair &#8211; is it a house visit or a send away? (Please, its Christmas!) Thanks in advance</Content>
+	</Post>
+</Thread>

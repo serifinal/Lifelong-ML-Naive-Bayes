@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Not a good report</Title>
+		<Username>Robert George</Username>
+		<Datetime>10-13-08, 02:43 PM</Datetime>
+		<Content>Circuit City online has gotten the new Panasonic players in a bit earlier than expected and the first orders are shipping today. Those that opted for "express" shipping (like me ) will begin receiving players on Tuesday the 14th. It is time for a new owners thread. I have owned the previous Panasonic BD30, as well as numerous other models. I currently have the LG BH200 and PS3 in my system for comparison and I'll be posting my comments on the new Panasonic BD35.</Content>
+	</Post>
+</Thread>

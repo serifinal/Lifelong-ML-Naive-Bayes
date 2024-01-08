@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Digital ISUX500 wont connect with computer</Title>
+		<Username>darkchild101</Username>
+		<Datetime>06-03-2011, 11:58 AM</Datetime>
+		<Content>I have installed the software (twice) and yet still my camera wont connect with the laptop (laptop is running vista). Camera is not being found at all even when i try to do add hardware device. I have made sure the cable is firmly connected between the two and the camera is switched and in playback mode but still the laptop wont pick up the camera at all What could be the problem. Am desperate</Content>
+	</Post>
+</Thread>

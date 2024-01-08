@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Brand new Sealed Rogers Iphone 16gb GVR</Title>
+		<Username>brucele</Username>
+		<Datetime>08-17-2010 08:12 PM</Datetime>
+		<Content>Brand new Sealed Rogers locked iphone 16gb. $750. Local sale only. Located in Vancouver</Content>
+	</Post>
+</Thread>

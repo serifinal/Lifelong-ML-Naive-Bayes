@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>engadget awards - 3 nominations for nokia</Title>
+		<Username>elleberth</Username>
+		<Datetime>02-08-2010 02:48 PM</Datetime>
+		<Content>if you like your nokia you can allways vote for it http://www.engadget.com/2010/02/04/v...gadget-awards/</Content>
+	</Post>
+</Thread>

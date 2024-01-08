@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell Samsung Vibrant txt msg problem</Title>
+		<Username>jrysmile</Username>
+		<Datetime>09-06-2010 09:36 PM</Datetime>
+		<Content>I can't text and get a "failed" to send ever since i changed the number on text centre in messaging settings. Anyone have the default or original number that is supposed to be on there for Bell's Samsung Vibrant i9000M? i dont know what to do anymore.. please help. btw im using a rogers sim card.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>sd870is - which sd card</Title>
+		<Username>RoBo</Username>
+		<Datetime>03-12-2008, 12:39 PM</Datetime>
+		<Content>a review of the sd870is from dpreview notes: "The SD870 takes around 1.1 seconds to process and save a ~4.0MB 8MP/Super Fine JPEG (exact size depends on the complexity of the image being shot); which is by no means tardy. Given this relatively fast performance, it makes sense to use a fast card to prevent adding a bottleneck to the process." sandisk's ultra 2 (a class 4 card) writes 9mb/sec while the extreme 3 (class 6) writes at 20mb/sec it seems like either way both these cards can outpace the camera. what will i be missing if i buy the cheaper Ultra 2? How will the movie mode be affected?</Content>
+	</Post>
+</Thread>

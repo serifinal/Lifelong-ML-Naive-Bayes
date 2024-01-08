@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42" HD Plasma for under £1200</Title>
+		<Username>Gussie</Username>
+		<Datetime>21-02-2006, 2:20 PM</Datetime>
+		<Content>The new TH42PV60E is now listed at 1738 Euros in Germany ... http://www.dnet24.de/xt/product_info...=100788&cPath= Even adding £150 for a stand that is a jaw dropping price if it's genuine! Gussie</Content>
+	</Post>
+</Thread>

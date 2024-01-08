@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Speakers Having More Power than Reciever?</Title>
+		<Username>Morgan.Croft</Username>
+		<Datetime>08-12-08, 02:05 AM</Datetime>
+		<Content>I have been reading a little bit on the forums here about damaging speakers if they are not getting enough power... The receiver "clips" or something like that... I am not exactly sure of what that means... Here is the question I ask.. I am going to be getting an Onkyo TX-SR606 and was thinking about getting the Energy RC-50s as they are on sale for a pretty good price... The question I have is, is this going to be a problem? The 606 outputs 90 watts RMS per channel... It looks like the RC-50's power is rated at 225 watts... Is this a big problem or am I just being paranoid? Thanks for any information. I did try to do some searches, but it didn't help very much unfortunately</Content>
+	</Post>
+</Thread>

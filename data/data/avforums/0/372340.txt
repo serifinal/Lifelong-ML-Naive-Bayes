@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PV500 Problem poll</Title>
+		<Username>Jazz Monkey Jr</Username>
+		<Datetime>01-07-2005, 7:16 AM</Datetime>
+		<Content>Yes, another PV500 thread. I want to put the PV500 problems into context. I would like to know if you have seen any of the problems with the PV500 and how much it affects your viewing. This thread is NOT for moaning about too many PV500 threads, it is a serious thread for owners/potential buyers to see how widespread the problems are, and to see if they are of any concern. I will be showing what results you have posted so ONLY PV500 owners vote please. If you can tell me: What size screen you have Do you notice the contrast change REGULARLY Is there a buzzing that is audiable at low volumes Do you have the split screen/horizonal line in the centre of the screen YOU CAN CHECK MORE THAT ONE BOX TO SEE WHO VOTED WHAT, CLICK ON THE NUMBER BY THE RESULTS NORMAL VIEWING is when you are just watching the TV/DVD, not when you are specifically looking for the defects eg. Universal logo (contrast change). IF YOU CAN ALSO MAKE A COMMENT ONCE YOU HAVE VOTED ,THANKS Some other problems threads to read: PV500 problem thread Discovered slight problem with PV500 thread Horizontal line problem</Content>
+	</Post>
+</Thread>

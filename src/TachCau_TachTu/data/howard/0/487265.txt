@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can you still send and receive text messages without a specific text plan?</Title>
+		<Username>stevenwhite45</Username>
+		<Datetime>08-28-2009 08:55 PM</Datetime>
+		<Content>When I bought my Nokia e71x with the 450 minutes and PDA personal plan I was told that I would not be able to send or receive text messages unless I also purchased a texting plan so I bought one (200 texts for $5.00). Would I be able to drop the the texting package and just pay-per-text or do I really have to have one?. - Steve</Content>
+	</Post>
+</Thread>

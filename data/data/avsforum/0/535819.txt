@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>little crack in my laminate screen....</Title>
+		<Username>penngray</Username>
+		<Datetime>04-27-08, 04:19 PM</Datetime>
+		<Content>Lol, I just about to finish applying my laminate to a backing and I pushed my hand on an area where there was a board still and I cracked it......its about 4 inches long I was doing it all myself too, not an easy job to keep it straight. Im probably never going to see it when watching movies but I will know its there everytime my lights are on Just annoying....this stuff is brittle sometimes!!! Next time I will glue the laminate before I cut it so I dont have to be so exact and I wont get in this situation!! Its easy to cut after its on the plywood with my laminate scissors! live and learn! Can I glue a 2nd piece of laminate over the first one?</Content>
+	</Post>
+</Thread>

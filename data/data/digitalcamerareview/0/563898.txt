@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Just got a Cannon Rebel T1i w/ 32 GB SDHC card. Problems, help!</Title>
+		<Username>Rebel T1A</Username>
+		<Datetime>01-05-2010, 01:41 PM</Datetime>
+		<Content>Hello all. I was lucky enough to get a Canon Rebel T1i for X-Mas, and I picked up a 32 GB SDHC card from....cough cough....ebay Well the card works perfectly for pictures in the camera. I can take pictures, view them, etc. But when I try to take a video a metered bar appears on the screen, fills up, and will not allow me to record. Also the little red LED light near the SDHC card door illuminates. When I stick my 2 GB SD card in, it allows me to record videos fine. Does anybody have any ideas? I know the card is probably a cheap imitation and thats probably the reason, but I would like some advice from the experts. Thanks!</Content>
+	</Post>
+</Thread>

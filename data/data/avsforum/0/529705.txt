@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>How to calculate throw ratio???</Title>
+		<Username>Mr Ian B</Username>
+		<Datetime>04-28-08, 11:12 PM</Datetime>
+		<Content>I am considering doing a 2:35 CIH set-up but, am having trouble figuring out my throwing ratio on my JVC-RS1. The distance from the front of the lens to the screen is 147" and the current screen is 92" 16 x 9 (45"x 80"). 1-Do I divide the 147" by 92" to get my throwing ratio??? I am trying to figure out what size of screen can I move up to. I am thinking of 96" or 104". Any suggestion will be greatly appreciated. Mr Ian B</Content>
+	</Post>
+</Thread>

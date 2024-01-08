@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Using a Cradlepoint MBR-1000 router and Boosted Mogul</Title>
+		<Username>datajockey</Username>
+		<Datetime>07-22-2010 05:31 PM</Datetime>
+		<Content>Just thought I would show how I have my network setup in case someone else would like to use it. I have my Boosted HTC Mogul and I run WMWifirouter using the 3G to USB connection mode selected. I then plug the USB cable into the Cradlepoint MBR-1000 router which then allows me to extend my network using the Cradlepoint router, both wireless and wired. That way, the Mogul doesn't get hot and doesn't drain the battery while using it's own wifi broadcasting. Plus you can now use ethernet connected devices too and use WPA security for your wireless connections. The router is able to keep the phone charged too. Just thought I would share this info if someone was interested.</Content>
+	</Post>
+</Thread>

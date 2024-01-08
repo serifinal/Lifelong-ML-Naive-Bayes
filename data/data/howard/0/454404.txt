@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Family Share Plan for a Business Account</Title>
+		<Username>509eagle</Username>
+		<Datetime>01-30-2010 09:12 PM</Datetime>
+		<Content>I have a question about the Family Talk Share Plans. Here is the situation. I work for a small business, we currently have 13 cellphones with Sprint and 1 with AT&T. We are reducing the number of phones to 5. Thus we will be moving 4 from Sprint to AT&T. The one phone with sprint is currently on a unlimited plan, which is billed to the company. The business rep has suggested, 2 phones on a 3000 minute plan ($140) with roll over and 2 phones on a second 3000 minute plan ($140) with roll over and leavng the curent phone alone ($99). All this on the businees shared plans. So $379. I have come across the Family Share Plans, there is an unlimited share for 119, 2 lines and 49 each for the next three lines. This would be much chaeper and provided unlimited minutes. So 5 lines would be 266. Plus for $30 you can get unlimited txt for all 5 on the plan So as a business can we get a Family Share Plan??</Content>
+	</Post>
+</Thread>

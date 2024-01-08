@@ -1,0 +1,3 @@
+official nvidia 177.79 beta drivers released .
+nvidia released some new official beta drivers , only supports geforce 8/9/200 series in the inf .
+http://www.nvidia.com/object/winxp_177.79_beta.html http://www.nvidia.com/object/winxp64_177.79_beta.html http://www.nvidia.com/object/winvist...7.79_beta.html http://www.nvidia.com/object/winvist...7.79_beta.html

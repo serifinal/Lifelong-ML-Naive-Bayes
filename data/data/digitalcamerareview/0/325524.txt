@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A570 IS Zoom wheel problem.</Title>
+		<Username>Heybunny</Username>
+		<Datetime>08-04-2008, 11:50 PM</Datetime>
+		<Content>Hello, you might remember that I made a thread back in May about looking for a new camera and I decided (with a lot of help) on the Powershot A570 IS. It's been great, the shots look lovely and it works well in lots of conditions. Basically the camera is only responding some of the time when I try to zoom it in to things and the zoom wheel is not functioning like it was. The camera has not been dropped or mishandled in any similar fashion, so I can't understand why this is occuring. Initially I thought it was doing it because I might have been too close to the subject or too low/high light or something like that. I can't find a cause other than the fact the camera i really just doing it when it feels like it. As I bought it in May it should still be under a general warranty, I also purchased a 3 year warranty from the store I bought it from, but that is invalidated once you trade it in. Is there any other way I can fix this without having to purchase a new warranty? Thanks.</Content>
+	</Post>
+</Thread>

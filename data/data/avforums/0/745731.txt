@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>VT30 Faint Vertical Lines</Title>
+		<Username>gowerboy</Username>
+		<Datetime>02-02-2012, 12:43 PM</Datetime>
+		<Content>Seeking advice\opinion\experience of viewing programmes, i.e. football, where the camera pans quickly and faint vertical lines become visible. I've had two VT30 50" replaced because of this issue, and I'm still not satisfied. To my eyes the problem is with the panel, since picture setting changes make no difference. Is this a general problem affecting all VT30s?</Content>
+	</Post>
+</Thread>

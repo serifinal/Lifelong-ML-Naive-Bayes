@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Mums New TV</Title>
+		<Username>DJBlade</Username>
+		<Datetime>22-07-2011, 4:20 PM</Datetime>
+		<Content>Hi, as header, my mother has asked me for advice on which 40" (ish) new tv to buy, and as i asked for advice here a couple of years ago when my girlfriend was wanting a new set i thought i'd try here again, as the LG i was recommended was a belter, cant remember the model but it was the only 32" plasma on the market at the time .. .. Budget £500.00 to £700.00 What do you guys reckon ? Thanks in advance !!</Content>
+	</Post>
+</Thread>

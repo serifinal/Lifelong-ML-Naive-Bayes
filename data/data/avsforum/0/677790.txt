@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>outlet hushbox</Title>
+		<Username>ArmyMan</Username>
+		<Datetime>08-12-08, 08:14 PM</Datetime>
+		<Content>Well the search was not much help-probably not specific enough. Has anyone built some type of box around their Ht outlets to control sound? I am thinking that I can build a surrounding box outside the outlet box that is attached to the sheetrock and stud. I would feed the wire through the hush box and into the outlet, sealing both with putty. Any pictures? MDF or sheetrock boxes? I could glue sheetrock into a box or MDF. Just using putty alone seems like not enough for a DD/GG wall, but maybe a box is overkill? Thanks, Paul</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30 & SC-BTT775EBK ARC link with SKY+HD and Xbox 360</Title>
+		<Username>hunklebert</Username>
+		<Datetime>12-01-2012, 12:14 PM</Datetime>
+		<Content>I seek confirmation that my set-up is working properly. I have a Panasonic VT30 & SC-BTT775EBK Blu-Ray home theatre connected via ARC with SKY+HD and Xbox 360. SC-BTT775EBK has two HDMI inputs: Sky+HD (HDMI 1) Xbox 360 (HDMI 2) SC-BTT775EBK HAS ONE HDMI output: HDMI - HDMI 2 on VT30 The good news is that everything works and I am happy. My only concern is that if I'm watching Freesat and turn on the Sky box the TV input doesn't automatically switch to Sky. Instead (using blu-ray remote) I browse to the home menu on SC-BTT775EBK and select HDMI 1 and then (using tv remote) I change TV input to HDMI 2. This seems a bit fiddly to me and not only that the wife keeps phoning me cos she doesn't quite grasp it! I was sort of expecting the TV to automatically switch to SKy input the moment the Sky box is switched on. Is this not the case? Also, it's all Viera linked so surely I could be using one remote!! Any help much appreciated.</Content>
+	</Post>
+</Thread>

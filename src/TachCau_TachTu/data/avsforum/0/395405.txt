@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>VMC - Is there any way to have Theatertek default to DVD's and PowerDVD default to...</Title>
+		<Username>guitarlp</Username>
+		<Datetime>04-26-08, 04:15 AM</Datetime>
+		<Content>I just finished setting up my new HTPC with theatertek and FFDshow... and I love it! I have it set to play as the default player within VMC using the MyMovies plugin. I have it set up to play my ripped DVD ISO's and ripped DVD MKV's (not so many MKV's though... taking 4-6 hours per DVD was worth it for me after a couple days of backing up). Anyways, I wanted to back up my blu-ray movies as well as make accessing them easier (easier as in not getting up from the couch to open up a case). I used AnyDVD HD to rip the files to the hard drive. I took the main .m2ts file and put that on my media server along with my other ISO DVD rips. So... is there a way I can have Vista Media Center default to playing my m2ts files with PowerDVD Ultra instead of loading Theatertek? I'm looking for a remote only setup here. Also, it would confuse the wife if she chose a movie with the MyMovies app and some of them play (ISO's) but some don't (blu-ray). She won't know the difference between the files... she just wants to press a button on the remote and have the movie start right away. I've been doing some searching and I couldn't find anything to answer my question. I see a number of people use Theatertek (or ZoomPlayer) for SD DVDs and PowerDVD (or TMT) for HD/Blu-Ray DVD's)... I'm just wondering if any of those people are able to have the right player open automatically from within the MyMovies area of Vista Media Center.</Content>
+	</Post>
+</Thread>

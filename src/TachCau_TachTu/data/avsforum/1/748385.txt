@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>samsung or sharp</Title>
+		<Username>fotojurny</Username>
+		<Datetime>12-03-08, 12:12 PM</Datetime>
+		<Content>I live in a small apartment where 32 inch would be the perfect fit. Would appreciate your suggestions/opinions on the following 1. Should i go for 720 or 1080p ? 2. Samsung or Sharp Aquos. which one should i go for.My budget is 500-600 3. I am not planning to buy Blue ray disc player for atleast one or two years.</Content>
+	</Post>
+</Thread>

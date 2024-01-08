@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Help my layout my basement HT room</Title>
+		<Username>bethomas</Username>
+		<Datetime>03-10-08, 01:28 PM</Datetime>
+		<Content>Well i have attached a .pdf file of the rough layout of my basement... not the best situation for doing a decent HT room, but it is what i have to work with. As for right now, i am thinking that the only wall to put the HT equipment would be on the wall next to the stairs. I will have a wall there that is about 7 feet wide to put the equipment. I am thinking of using wall mounted speakers on either side of the TV, center channel above the TV and the 5.1 rear speakers towards the corner. Sub could go either on one of the side walls or the front wall. i will run RG6 to both sides, rear and front just in case. What are your guys opinion on how i could set this up better? Couch would run against the long wall and possibly on the wall that borders the bathroom. Pictures that may help are located here... http://www.flickr.com/gp/39003429@N00/bxg9F7</Content>
+	</Post>
+</Thread>

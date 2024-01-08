@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>need some clarification on sharp aquos sets.</Title>
+		<Username>tonymack21</Username>
+		<Datetime>09-19-08, 03:19 PM</Datetime>
+		<Content>hi everyone, a lot of people here seem really knoweledgeable on LCD sets, and I have after months and months of research settled on the sharp aquos as what I want to get. I've heard they do a pretty nice job with SD content, Animation, movies and most importantly, video games. particularly using ps3 and 360. ive been leaning at the LC42D64U or the LC46D64U. ive heard they have pretty much eliminated the banding from these. is this true, and how will I know if I am getting a newer one without banding. also is the 65U or 92U better than the 64 series?</Content>
+	</Post>
+</Thread>

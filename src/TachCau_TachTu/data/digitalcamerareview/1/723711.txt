@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is Canon trying to push the EOS XTi 400D?</Title>
+		<Username>KT01</Username>
+		<Datetime>12-08-2007, 05:18 PM</Datetime>
+		<Content>I have been to online chat at Wolf Camera two different times to different people and the are trying to push the XTi. I know it is a good camera but is there a newer model comming out soon? Thanks Kevin</Content>
+	</Post>
+</Thread>

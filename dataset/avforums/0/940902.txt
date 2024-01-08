@@ -1,0 +1,21 @@
+samsung ps50c680 definitive guide .
+over the last few days i have been trying to calibrate my c680 with little success .
+currently running : movie 18 cell light 85 contrast 60 brightness 45 sharpness 50 colour black tone off dynamic contrast off gamma 0 colour space auto white balance : 28 , 25 , 26 , 10 , 25 , 26 colour tone warm 1 everything else either off or at defaults this is used on hdmi 2 for all sources ; being xbox 360 , bluray and tv .
+calibrated using thx dvd , commander shep 's settings and xbox 360 -lrb- fifa 11 / assassins creed brotherhood and matrix reloaded bluray .
+basically i 'm finding that dynamic gives a much more punchy picture , with my movie settings giving a `` misty '' -lrb- for want of a better word -rrb- picture .
+also , even at only warm 1 , the picture -lrb- especially whites -rrb- appear to have an unnatural orange tinge .
+this only appears to be relieved by setting dynamic contrast to medium/high , which i was under the impression was a bad thing ?
+using th thx disc , brightness seems to be perfect at 60 , but contrast seemingly has no effect on the thx contrast test ?
+i 'm not entirely sure if 90 is an ok setting ... ?
+if cell light is set any lower , the picture appears too dark and some detail is lost .
+sharpness needs to be around 45 as otherwise detail is lost on textures etc in games .
+black tone and dynamic contrast seem to greatly improve the clarity of the picture and removes the grey/misty film which is quite apparent ... .
+does nobody else with movie mode see this ?
+so far , movie mode seems to be worse than dynamic as no matter what is changed , the same punchy colour and depth to the picture cantle obtained ?
+it always looks `` less clear '' ... also , 3d mode suffers even further unless dynamic contrast and colour tone and gamma are adjusted to make the picture more like the standard setting .
+cell also needs to be at 20 to compensate for lack of brightness !
+3d mode highlights an awful amount of dithering -lrb- red and green sparkling dots when viewed from 4/5 feet -rrb- , is there no way to remove this ?
+is n't a big deal but lcd 's do n't do it so why does a plasma ?
+another problem is that i have noticed that the tv appears to adjust brightness between some scenes in films -lrb- very slightly and infrequently , but i have noticed it the last few nights ... -rrb- movie mode is set and dynamic contrast turned off so i thought it should n't be doing this ??
+finally , the buzzing varies from scene to scene and it 's volume and pitch also change depending on how high the cell light is ... can anyone truthfully claim any different ?
+thanks all !

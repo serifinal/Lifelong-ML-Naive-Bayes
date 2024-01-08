@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>sony PFM-500A1WE PLASMA monitor</Title>
+		<Username>shaqs87</Username>
+		<Datetime>01-02-2012, 4:51 AM</Datetime>
+		<Content>hello there I have sony PFM-500A1WE PLASMa monitor and the monitor doesnt come on i press the power and it comes on for a second u can hear the fan and then cuts out and the red power sighn starts flashing slowly then fast blinking and turns off, on the side of the tv the service code say's 79 wether it has got anything to do with programming it with a remote or the lamp of the tv has gone i really havnt the foggiest idea can any one out there help me?, kind regards Shaqs87</Content>
+	</Post>
+</Thread>

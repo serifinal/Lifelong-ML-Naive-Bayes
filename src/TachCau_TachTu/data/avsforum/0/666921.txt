@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>so what's up with 32" tv's?</Title>
+		<Username>scubie02</Username>
+		<Datetime>10-14-08, 07:35 PM</Datetime>
+		<Content>You've got the new 32" xbr6, for instance, which is priced like the larger xbr6's, and yet is 60hz to their 120 hz. (I guess in theory they are thinking the smaller sets don't need 120hz? But then they shouldn't be priced like they do...?). Then you have the Sammy 550 and 630, but the 630 in larger sizes would be 120hz, right? But why buy the 630 over the 550 32" if they are both 60hz? What are the odds that 120 hz 32" sets will be hitting the market soon? Will this be the new models, out when, Christmas time?</Content>
+	</Post>
+</Thread>

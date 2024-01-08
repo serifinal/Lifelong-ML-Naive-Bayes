@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS59D6900 owners thread</Title>
+		<Username>Bagpuss69</Username>
+		<Datetime>25-04-2011, 3:41 PM</Datetime>
+		<Content>Thought I'd start a new thread for this set, as there genuinely seems to be some significant differences in the way this models performs compared to the 51" version. I'm guessing that mods might merge the threads at some point in the future, but for now, it looks like a good idea. I'm returning my PS51D6900 tomorrow, and taking delivery of the PS59D6900, so I should be well placed to comment on the pros/cons of both. Andy.</Content>
+	</Post>
+</Thread>

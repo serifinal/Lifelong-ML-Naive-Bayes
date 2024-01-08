@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>42PX70 common sense run-in</Title>
+		<Username>yetanotherbob</Username>
+		<Datetime>25-04-2007, 8:55 PM</Datetime>
+		<Content>There have been a lot of comments on this and some people seem to be running their set on unwatchable settings for no apparent reason Using the following settings (taken from http://www.hdtvtest.co.uk) from Day one will cause your set no damage at all and will actually be watchable. Picture Menu Viewing Mode: Cinema Contrast: No change Brightness: 2 clicks left Colour: No change Sharpness: No Change Colour Balance: Warm Colour Management: Off P-NR: Off The following common sense tips (also from hdtvtest.co.uk) will suffice during the TV's first few weeks: Avoid prolonged static images being displayed anywhere on the screen, including logos and menu bars, idle computer images...etc. Avoid watching shows in pillar box or letterbox format. Use the zoom or change film aspect ratios to get rid of them. Using grey side masks or panel can reduce screen burn risks in pillar boxed format, but try not to get in that situation in the first place. Don't use excessive contrast level setting in the early days. Image retention is temporary and can disappear quickly with uniform screen grey out or snow images. There really is nothing else you need to do, enjoy your TV from day one and you might even find the missus likes it (and you) a bit more Bob</Content>
+	</Post>
+</Thread>

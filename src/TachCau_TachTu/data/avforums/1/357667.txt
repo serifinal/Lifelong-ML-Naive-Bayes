@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Gaming Only TV Up to £600</Title>
+		<Username>ashbash159</Username>
+		<Datetime>29-12-2011, 3:30 AM</Datetime>
+		<Content>Hi, I would like to know if there are any TVs which are priced up to £600 that are good for gaming. I need a TV in my room and will pretty much only use my Xbox 360 and PlayStation 3 on it (along with the many services provided on these consoles). I also watch some Blu-rays on my PS3. I want to know if 3D is worth it. I'm thinking I probably wont be able to get it at that price range. Thanks for any advice! Oops almost forgot to say it would be 32" (maybe a bit small) to 42". Thanks!</Content>
+	</Post>
+</Thread>

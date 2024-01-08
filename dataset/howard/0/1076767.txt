@@ -1,0 +1,15 @@
+iphone 3g 8gb - bell problem - no service is displayed - issue is escalated .
+hi guys , i have two identical iphones 3g 8gb running unlocked 3.1.2 , both freshly installed .
+on the first iphone , i insert the bell sim card and i might see the bell network pop up for 3-10 seconds .
+then , i get a `` no service '' for reception .
+i can not use bell on my unlocked iphone !
+-lrb- but it shows me i have voicemail ??
+yet i 'm unable to access it ? -rrb-
+i place the same sim card into my second iphone , and it works totally fine .
+i tried inserting a rogers sim card into the first non-working iphone and that also worked totally fine .
+so what could be wrong with my iphone ?
+is this a problem with the bell network ?
+both are running the exact same sw unlock and both were refreshed/installed fresh and synced with itunes to the same computer .
+bell tech support has documented the problem but they were unable to solve it .
+at first i thought it was the sim card but i had that replaced twice and it was still the same problem .
+any ideas ?????????????

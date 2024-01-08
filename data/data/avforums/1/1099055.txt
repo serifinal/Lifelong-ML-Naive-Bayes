@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is it worth selling my Pioneer krp-500a to get a panasonic 50VT30b?</Title>
+		<Username>kyman</Username>
+		<Datetime>10-07-2011, 3:42 PM</Datetime>
+		<Content>are the new panasonic plasmas (50vt30b) better than my pioneer krp 500a? i know panasonic has 3D and internet, but reading reviews, they say the best plasma ever! but is the picture quality really as good as the pioneer??</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: OCZ Vertex SSD's 120GB (sealed $330) and 60GB (used $200) in Richmond Hill</Title>
+		<Username>howard</Username>
+		<Datetime>04-16-2010 07:04 PM</Datetime>
+		<Content>I have a BNIB 120GB Vertex for $330 and a used 60GB Vertex for $200. Pick up in Richmond Hill.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma help.....</Title>
+		<Username>Dee24</Username>
+		<Datetime>11-08-2011, 11:30 AM</Datetime>
+		<Content>Hi there all was hoping someone could help me.... I've bought a PS50C451BW plasma second hand... all working fine but i've noticed the screen can dim and brighten itself every few seconds hich is only really noticeable on pale colours the manufacture dare is Oct 2010, so sureley it can't be a major problem? Can anyone help as i feel i've pulled the short straw :-(</Content>
+	</Post>
+</Thread>

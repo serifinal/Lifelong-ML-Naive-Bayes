@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Question about th-42pv500 with gamecube</Title>
+		<Username>DarkPhantomLord</Username>
+		<Datetime>10-07-2005, 3:17 PM</Datetime>
+		<Content>Hi, can someone please tell me how the graphics are one this plasma tv (th-42pv500) connected to a gamecube system with a component cable from nintendo? I get this plasma tv very soon and i'm very exited about it. And I hope someone can tell me what the best settings are, to get the best picture quality. I hope to hear from someone soon! Thanks in advance! Tim</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't Figure This Out!</Title>
+		<Username>cmrhodes</Username>
+		<Datetime>12-08-2007, 09:27 AM</Datetime>
+		<Content>I am a teacher, and use a Canon digital rebel with great success. LOVE, LOVE, LOVE, the camera!I am responsible for taking pictures with Santa at our school open house. I usually just shoot and hope for the best. Is there a way to hook my camera to an external monitor, or my laptop, while I am taking pictures so my partners at the desk will be able to see if the shot was good before the kids leave the photo area? I've been googling for two hours, and can't find an answer, maybe because I'm not phrasing the question correctly!</Content>
+	</Post>
+</Thread>

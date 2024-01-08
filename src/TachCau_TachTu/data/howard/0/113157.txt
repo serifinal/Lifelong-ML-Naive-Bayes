@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS BNIB Sealed Black Apple 32GB iPhone 4</Title>
+		<Username>01s0uljah</Username>
+		<Datetime>07-31-2010 12:11 AM</Datetime>
+		<Content>For sale is a brand new in box Apple iPhone 4 32GB from the Apple store on launch day. Comes with receipt. Price is 1075 CDN. Local meet only</Content>
+	</Post>
+</Thread>

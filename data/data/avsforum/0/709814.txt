@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Xbox 360 with built-in blu-ray coming soon!</Title>
+		<Username>gethd</Username>
+		<Datetime>05-02-08, 02:32 AM</Datetime>
+		<Content>According to a source from Taiwan, an OEM will start manufacturing Xbox 360 with blu-ray "built-in" at Q3. So we maybe able to find one of those during Q4 holiday season, or early 2009. This is already reported in Taiwan news. http://www.digitimes.com/NewsShow/Ne...uery=BLU%2DRAY Edited to add news link.</Content>
+	</Post>
+</Thread>

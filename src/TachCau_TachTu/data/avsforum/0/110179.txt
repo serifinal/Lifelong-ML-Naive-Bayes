@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HDCP required For Xbox 360 Netflix HD streaming</Title>
+		<Username>DaMan1970</Username>
+		<Datetime>10-30-08, 01:09 PM</Datetime>
+		<Content>The new HD Netflix streaming service on the Xbox 360 requires an HDCP compatible display device. If you try play a movie while not connected to an HDCP compatible display, you will get the ?Secure HDCP Link Not Found? error. HDCP required For Xbox 360 HD streaming</Content>
+	</Post>
+</Thread>

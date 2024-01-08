@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official HTC Droid Eris 2.1 Update Thread</Title>
+		<Username>dcborn61</Username>
+		<Datetime>05-10-2010 05:02 PM</Datetime>
+		<Content>Multiple sources have the HTC Droid Eris 2.1 upgrade OTA coming on 5/11. Let's keep all the confirmations/questions/problems/observations in one place. I had been sorely tempted to use the leaked versions, but decided to wait it out for the official version. Hope the roll-out goes smoothly!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>MattFlix Media Room Attic Theater Begins Construction</Title>
+		<Username>mattr762</Username>
+		<Datetime>04-13-08, 06:09 PM</Datetime>
+		<Content>What's a theater without a logo? LOL So I love watching movies. I love it so much I've decided to bite the bullet and start construction in my attic. Here are the floor plans: This is a low budget build. I'm hoping to spend less than $4,000 to build the room (not including electronics). I'm doing all the work myself so no labor costs will be incurred. Phase I is now complete. Last week I rerouted my air ducts and today I moved the furnace 5 feet to the south (Yes my furnace is in the attic). Before moving ducts: After moving ducts: This is looking where is screen will be. For scale reference the rafters on the roof are 24" apart. Here is a lame 3d drawing I did looking at the screen. Notice the 2:35 to 1 ratio? I was able to snatch up the Mitsubishi HC4900 on sale the last day they offered the $500 rebate. I'm pretty excited about that! Here it is hooked up in my living room for testing purposes. Here is a list Electronics I'll have up there to start: - Mitsubishi HC4900 1080p - Sony STR-DE897/S 5.1 receiver - Playstation 3 - Energy Act 6 speakers - Cable box Pretty simple set up, but it will do everything I need it to. My goal is to have it complete in 2 months. Wish me luck!</Content>
+	</Post>
+</Thread>

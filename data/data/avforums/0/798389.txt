@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Disappointing John Lewis TV Delivery Service</Title>
+		<Username>fulei1979</Username>
+		<Datetime>26-05-2011, 9:32 PM</Datetime>
+		<Content>I've ordered samsung PS59D6900 from John lewis a week a ago. I could have bought somewhere else and would have received much earlier but I think the customer service with JL is worthy the one week wait. The delivery was scheduled 2pm to 9pm today. I had to take one day off to wait for the delivery at home. Called JL customer service around lunch time to make sure they will deliver today and they said ok but can't give a estimated time. Call them again around 4pm and the message I got was still positive and would be delivered today but still can't give me a time. I waited patiently till 8:30 pm and finally got a phone call from the driver and told me they can't make it today. I was so disappointed. Even then, they could have done a lot of things to make things better. 1) if JL knows I am on the bottom of your deliver list, why don't you tell me earlier so that I didn't have to take the whole day off and waited at home for nothing. 2) why don't you offer me a delivery slot straight away the next day if you can't make it for today? Now I probably need to wait for another delivery slot which may be a week away. The party i organised at home for the bank holiday weekend will just become a joke without the tv. I need to at least take another day off to wait for the delivery at home without doing anything wrong. How ridiculous is that ! I may cancel the order and get it from somewhere else. Think carefully before ordering for john lewis. They do no longer offer the premium service as they used to do. Lei</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>S5IS Freezes when connected to pc</Title>
+		<Username>Krissw</Username>
+		<Datetime>11-14-2008, 12:03 PM</Datetime>
+		<Content>My Camera stops working when connected to Zoombrowser on my PC The image on the LCD screen is the last photo I took all other buttons or functions freeze. Am I doing something wrong here please</Content>
+	</Post>
+</Thread>

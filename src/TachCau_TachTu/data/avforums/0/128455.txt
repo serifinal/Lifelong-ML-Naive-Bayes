@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Connect laptop to panasonic p42ut30b</Title>
+		<Username>shunney</Username>
+		<Datetime>21-11-2011, 1:26 PM</Datetime>
+		<Content>Hi, Can anyone tell me the best way to connect my laptop to my Panasonic P42UT30 ? My laptop only has a vga connection and tv has hdmi, it also has an ethernet port, but not sure if ethernet will only connect to the internet router I see there are vga to hdmi cables and then there's vga to hdmi converter boxes etc, but it's all confusing me now, so if someone could help clear things up much appreciated</Content>
+	</Post>
+</Thread>

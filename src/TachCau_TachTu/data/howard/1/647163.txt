@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Need input for new sticky thread - "Official Sprint Discounts"</Title>
+		<Username>503ducati</Username>
+		<Datetime>10-15-2010 08:40 PM</Datetime>
+		<Content>We are looking for official Links/Procedures to available discounts Sprint offers. Preferably these will be the most recent ones of course. This has been a common question and it would be of benefit to many if we had a central common thread to which we could edit as new info comes in. The sticky thread will be started/edited once we can establish a common list !!</Content>
+	</Post>
+</Thread>

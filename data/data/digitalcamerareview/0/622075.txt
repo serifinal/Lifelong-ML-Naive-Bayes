@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Macro Flower Not Showing</Title>
+		<Username>liane</Username>
+		<Datetime>08-24-2008, 06:23 PM</Datetime>
+		<Content>Just bought an S5 IS because my S1 didn't have a macro mode. Seems no matter what I try I can't get the 'flower' to show up in the LCD window. I have tried touching the 'flower macro button' on the side of the lens umpteen times. Camera is set in Auto mode.... Have read the manual which seems a little vague using macro so am wondering if I am missing something here. Not only can't I get the flower to show in the LCD monitor...but I really bought this camera because I need it to focus within 2" and was told this camera had a super-macro to do just that. Hoping someone can jump in here to point me in the right direction. Thanks, Liane</Content>
+	</Post>
+</Thread>

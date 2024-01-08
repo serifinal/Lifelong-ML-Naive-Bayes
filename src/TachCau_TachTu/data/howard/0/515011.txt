@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Do WIND Phones Work on Bell's Network?</Title>
+		<Username>altecblt</Username>
+		<Datetime>03-17-2010 12:20 AM</Datetime>
+		<Content>I hear it works on Rogers,but does it work on bell or telus?</Content>
+	</Post>
+</Thread>

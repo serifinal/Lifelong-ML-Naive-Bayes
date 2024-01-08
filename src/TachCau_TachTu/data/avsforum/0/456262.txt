@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Brodie Home Theatre - Build Thread</Title>
+		<Username>damonbrodie</Username>
+		<Datetime>05-27-08, 09:19 PM</Datetime>
+		<Content>Hi folks, I'm in the beginning stages of planning my basement HT. I have an unfinished basement, with typical basement issues - 8' ceilings, ducts to deal with etc. The window in the planned HT room is a 2' x 4' window that will be treated with window coverings - so I expect to be in the "bat cave" scenario. Only the exterior walls, and the wall around the stair case are studded currently. The interior partition walls are just my design at this point. The dimensions of the HT section of the room are roughly 15' x 15'. The sofa is placed about 12' from the screen. I don't currently own any components of the setup. I plan this HT to be more casual than some I see here, but I am picky about image and audio quality. Comments and helpful criticism welcome on the design. Some questions (I'm looking for ideas so that when I move to studding the walls, I can place the wiring in right areas): -Is it ideal to place the center speaker behind the screen? It would seem so. -One sub or two? -What is the "correct" height/placement for the side and rear speakers? -I plan to have lots of conduit, so I can pull wires latetly, but in the ceiling I plan to make so I can place projector whereever I choose after the room is finished. Hopefully my plan uploads with this post. Thanks looking. Damon</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>buy a new tv</Title>
+		<Username>veco</Username>
+		<Datetime>29-12-2011, 1:48 PM</Datetime>
+		<Content>New hire... Hi guys, after reading all the comments on internet about TVs I got really confused. I want to buy a new 47 or 50 inch 3d passive smart TV Full hd (good picture quality) for watching movies and Formula 1 but I am not sure which TV I should get.(price max £800) Can anyone help me to choose the best one, please Thanks</Content>
+	</Post>
+</Thread>

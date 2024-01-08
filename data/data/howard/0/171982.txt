@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FT: BELL IPHONE4 32GB for Blackberry Torch</Title>
+		<Username>mladeniki</Username>
+		<Datetime>08-17-2010 04:09 AM</Datetime>
+		<Content>Hi, I am trading a LNIB Bell IPhone4 32GB model for a LNIB or BNIB unlocked Blackberry Torch Anywhere in Vancouver is fine, Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Picture folder help</Title>
+		<Username>newguy</Username>
+		<Datetime>12-21-2011, 01:56 PM</Datetime>
+		<Content>I have a new Canon power shot A3300 IS and can't figure out how to download my pictures in a single window/folder (MY Pictures) When i upload my pictures to "My Pictures" folder,the pics. load singularly in separate windows rather than all in one window folder</Content>
+	</Post>
+</Thread>

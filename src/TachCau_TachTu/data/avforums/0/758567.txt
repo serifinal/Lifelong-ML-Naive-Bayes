@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS50C700 with Red Blinking Light?</Title>
+		<Username>Amoanster</Username>
+		<Datetime>17-12-2011, 5:19 PM</Datetime>
+		<Content>I have noticed today that my Samsung PS50C7000 Plasma's red power light keeps blinking. Its repeating three blinks and then a pause. The TV is working fine with nothing obvious to indicate a fault. Is this some kind of error code or is it nothing to worry about? Any help would be greatly appreciated. Thanks in advance.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CES 2012 - Interview with Panasonic UK about new product etc.</Title>
+		<Username>Phil Hinton</Username>
+		<Datetime>12-01-2012, 5:18 PM</Datetime>
+		<Content>With so many following Panasonic in these forums, here is an interview with Andrew Denham of Panasonic UK about what was announced at CES and how that relates to the UK products. CES 2012 - Panasonic VT50,GT50 and other details for the UK market - YouTube</Content>
+	</Post>
+</Thread>

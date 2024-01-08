@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Response Time</Title>
+		<Username>risingfromashes</Username>
+		<Datetime>05-24-08, 03:18 AM</Datetime>
+		<Content>I have been looking around and I have narrowed my selection down to two sets. I plan on going and purchasing one or the other tomorrow, and I know the manager so I will buy either at cost and not much price difference for me between the two. In the store they are sitting side by side and each has it's up and downs. The Toshiba seems to have more color and deeper blacks and definately looks noticably bigger even though it is only 2 inches, while the Samsung is definately crazy bright and has mad contast and detail. Overall though they really look extremely similar which is why I'm having such a tough time deciding, I mean there are slight differences, but absolutely nothing substantial. Personally I think the Toshiba frame and overall look of the tv is more pleasing to eye and it is 100 dollars more than the Sammy, but at the price of the tv's this doesn't really make any difference to me. Again the tv's I'm deciding between are the Samsung LN40A530 and the Toshiba 42RV530U. Whichever I buy will be hooked up to Pioneer surround sound, a Pioneer 1080P unconverting dvd player and a Xbox360 all at 1080P, and eventually Blu-Ray to come. What are your opinions as I know it can be tough to tell in the store since their feed isn't exactly the highest quality? I just want the overall best looking and performing tv out of the two because I plan on having it for a very long time</Content>
+	</Post>
+</Thread>

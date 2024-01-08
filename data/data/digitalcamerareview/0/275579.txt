@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sharpest img from G10</Title>
+		<Username>1andyw</Username>
+		<Datetime>12-15-2008, 05:57 PM</Datetime>
+		<Content>Hi, New owner of a G10. Which settings should I use to obtain the sharpest img this camera can deliver? So far I've only used the Auto, P, and portrait settings and am not overly impressed with the results. Thanks, Andy</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic PZ80/PZ85 Screenshots thread</Title>
+		<Username>Fr. John</Username>
+		<Datetime>09-13-08, 12:11 AM</Datetime>
+		<Content>As people seem to benefit from seeing screen shots I thought I'd start a thread for those of us with these sets. Lets see your screenshots! My first attempts, not the best, but...: My second batch, making some progress. I've since changed from Warm to Normal color temp so these are a bit warm and consequently red, the actual picture is much more subtle. I should have worked on my white balance more when I processed these: And some SD material just to show off not only the 85u but the upconverting of the PS3. Again, the photography could be a bit better.</Content>
+	</Post>
+</Thread>

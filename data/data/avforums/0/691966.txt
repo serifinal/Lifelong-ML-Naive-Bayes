@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic ST30 Plasma help!</Title>
+		<Username>bery_451</Username>
+		<Datetime>03-01-2012, 7:54 PM</Datetime>
+		<Content>The TV has the latest firmware. How do i get the tv to remember my picture overscan setting on different channel inputs. I dont want to change the setting manually everytime i change input. I want it to set to off on HDMI/Freeview HD and on while watching Freeview SD. My old G10 could remember the setting. how do i check on the tv how many hours i did? what is the best unofficial 3d glasses for the tv and will the 3d picture quality be the same as the official latest panasonic ones? will i get phospor trails if i dont keep the phospors in good condition or exercise them properly during the first 200 hours break in? whats the worst that can happen apart from IR and screen burn if I dont follow the 200 hour break in rule? is it ok to watch films with black bars during break in when using low settings like true cinema mode? I tried answering these questions in the ST30 owners thread but all I was getting was feedback on John lewis customer services</Content>
+	</Post>
+</Thread>

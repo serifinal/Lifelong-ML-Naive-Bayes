@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Google Nexus one or HTC Desire for Rogers Network Questions</Title>
+		<Username>SocaCola</Username>
+		<Datetime>04-11-2010 03:25 PM</Datetime>
+		<Content>Hey there guys, just need some opinions on the matter. Now I have been doing a lot of homework on both phones. So far I'm leaning towards the Nexus one, because I do use a lot of data on the Rogers Network and I know the Google Nexus one supports 850 HSPDA and the Desire only supports 900/1200, does this mean that the Desire will not run at all on the Rogers network with 3g speeds? Also I I like the fact that Nexus one is already out, but from what I'm hearing on the reviews, I'm getting mixed bag reviews with the sound quality of the phone, some people are saying the the noise cancellation feature is really good, but the outside speaker is terrible, you can barely hear it, and the internal speaker for listening to calls is also really bad. The Sense UI is an attractive feature on the Desire, but I know there is an alpha build of the Sense UI which can be uploaded to the Nexus, but I will wait on that down the road for a Beta or even Release. Can anyone tell me the major disadvantages to having the Sense UI over the Nexus UI? this means for updates in the future as well, as I'm sure Google always does updates on the phone from what I have been reading. Also the widgets in the videos I have seen for the Sense UI, is that also available on the Nexus UI? Thanks for anyone able to answer these questions, and sharing their input.</Content>
+	</Post>
+</Thread>

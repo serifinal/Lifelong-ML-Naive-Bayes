@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Google Nexus One on WIND</Title>
+		<Username>Larklen</Username>
+		<Datetime>05-25-2010 08:15 PM</Datetime>
+		<Content>Hey, I'm considering getting the Nexus One for WIND, seeing as how I work here and want a phone for our network. However, I don't want just any old phone, and I have talked to a few customers about their experience with the Nexus One in Edmonton, and the response has been fairly positive. However, most customers were new, so they haven't faced the network as long as some others, and I hope hoping I could get some opinions from some people. Any comments about the Nexus One as a phone and on the WIND network?</Content>
+	</Post>
+</Thread>

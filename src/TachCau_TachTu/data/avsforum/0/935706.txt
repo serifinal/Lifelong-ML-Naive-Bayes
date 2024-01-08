@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GTA IV: Pushing the Limits</Title>
+		<Username>mboojigga</Username>
+		<Datetime>03-31-08, 08:03 PM</Datetime>
+		<Content>Why is this the first true sequel to GTA III? How do you make a multiplayer component that still feels as free and open as the single-player of GTA? And what's Rockstar's take on downloadable content? IGN spoke with VP of Creative, Dan Houser and Rockstar North Art Director Aaron Garbut to get the answers. http://au.xbox360.ign.com/articles/863/863435p1.html 9 Page interview.</Content>
+	</Post>
+</Thread>

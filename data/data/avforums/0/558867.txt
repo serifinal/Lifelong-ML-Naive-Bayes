@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic ST30 owner with a tape measure needed...</Title>
+		<Username>GoNz0</Username>
+		<Datetime>29-12-2011, 9:30 PM</Datetime>
+		<Content>as i have a center speaker at 15cm high would one of you with a tape measure close by mine measuring the height from the deck to the panel please? may be taking the plunge in the morning to replace my poorly 42LG7000 set & need to know if it will sit ok</Content>
+	</Post>
+</Thread>

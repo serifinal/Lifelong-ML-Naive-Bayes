@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>analysis of viera cast</Title>
+		<Username>speculatrix</Username>
+		<Datetime>17-01-2010, 10:11 PM</Datetime>
+		<Content>so, viera cast (apart from the DLNA streaming) is a bit bland, so I wondered whether it'd be possible to hijack it and do something more interesting. it's early days yet, but I wanted to get the ball rolling the first thing to do is set up a sniffer or proxy so that you can see what it's downloading, and to extract the user agent string. here's the first few things it asks for HEAD http://vieracast.eu/test GET http://vieracast.eu/data/home-screen.js GET http://vieracast.eu/data/common/gradation_v.png ... the home-screen.js gives me "denied" when I try and access with firefox, so I will need the user-agent switcher: https://addons.mozilla.org/en-US/firefox/addon/59 for me, vieracast.eu resolves to 83.231.191.161, and there appears to be a vieracast.com on 85.233.160.22 so I shall see if faking the DNS gives me anything interesting. more to follow, but I just wanted to wet people's appetite</Content>
+	</Post>
+</Thread>

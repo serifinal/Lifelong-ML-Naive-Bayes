@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Flashing horizontal line when in 3d - Panasonic (VT30, GT30 and ST30)</Title>
+		<Username>RichG</Username>
+		<Datetime>11-01-2012, 10:40 PM</Datetime>
+		<Content>Hi, I've just got the 50" Panasonic ST30. A few days old now. I plugged it in last Sunday (08/01/12). Watching Sky 3d tonight I noticed a completely horizontal flashing / flickering line / bar to the bottom of the set about 1cm from the bottom. This was in 3d mode. When you dont have 3d mode activated but watch a 3d channel you get two images, the bar was only present on the left image and stopped at the centre of the tv where the right image started. The the flashing bar was also present when the tv was in 3d mode. At first I presumed it might have been some nastyness in the recording so I viewed a recorded 3d program I had on my sky plus box. The flashing bar was present then as well. I haven't been able to replicate the problem since. Both the sky program I recorded and the one playing live now is ok... The bar definitly seemed like something nasty happening in the TV set. Prehaps an issue with the image processor or something. I've watched currently since purchase about an hours worth in total of 3d footage and haven't seen this. Can anyone shed some light on this potential issue. I'm really hoping its not the TV.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer VSX-921 and PDP4280 Control Problem</Title>
+		<Username>gmcraib</Username>
+		<Datetime>12-02-2012, 12:02 PM</Datetime>
+		<Content>Posted this up in amps section but its a tv-amp control issue. Pioneer VSX-921 and PDP4280 Control Problem</Content>
+	</Post>
+</Thread>

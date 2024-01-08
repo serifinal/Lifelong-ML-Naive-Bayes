@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Will bell/telus 3g work for fido??</Title>
+		<Username>chin-boi-88</Username>
+		<Datetime>01-29-2010 08:40 PM</Datetime>
+		<Content>im planning on purchasing a blackberry bold 9700 from either bell or telus, but im concern that the 3G network on the phone may not work with my fido sim card (which is what im currently using). Any ideas? PS. not sure if this is the right forum for this question. sorry if it's not. still kind of new to this forum thingy.</Content>
+	</Post>
+</Thread>

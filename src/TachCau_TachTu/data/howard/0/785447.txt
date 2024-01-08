@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CV/Mobile Video with CNN, FOX, ESPN, etc now free with unlimited data plan??</Title>
+		<Username>stevenwhite45</Username>
+		<Datetime>11-13-2009 10:58 AM</Datetime>
+		<Content>Hi I haven't posted here in quite awhile so I'm a little rusty on the latest juicy gossip but I did receive a free AT&T alert on my phone today blabbing on about how CV was now being called "Mobile Video" and was available to customers with smartphones and an unlimited data plan (I have both). In the FAQ section of their CV/Mobile Video site under "What does it cost?" all it said was that you needed an unlimited data plan ($30.00) but no mention (to my knowledge) of having to pay a subscription fee. I remember some time ago that you used to have to pay $9.99 per month for a access to Mobile Video like CNN, FOX, ESPN and a number of other channels but apparently now it's free??. I tried it out on my Nokia e71x and I was able to view these channels and watch videos with no problem - nor did I get any messages asking me to sign up or that there was a subscription fee being charged. So is CV/Mobile video (which used to cost $9.99 per month) now free?. Has anyone else gotten an AT&T alert pertaining to this?. - Steve</Content>
+	</Post>
+</Thread>

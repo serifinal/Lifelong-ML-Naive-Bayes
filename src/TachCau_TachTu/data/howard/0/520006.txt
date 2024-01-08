@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to satisfy a buyer of my iPhone 4 factory unlocked it is factory unlocked?</Title>
+		<Username>Dude Boy</Username>
+		<Datetime>07-30-2010 07:57 PM</Datetime>
+		<Content>I was hoping someone could help me out here. I purchased an iPhone 4 32 GB factory unlocked at the Apple Store today. I'd like to sell it and a potential buyer asked for its serial and IMEI numbers so he could verify it is factory unlocked. I was uncomfortable giving those numbers because I'm guessing he could somehow lock the phone or something--I have no idea. Can someone with those numbers do something like that? Anyway, this brings me to the main point of this message. How can I satisfy a potential buyer of the phone that it is indeed factory unlocked, short of opening up the package and popping in their SIM card? I'd like to keep it sealed to retain value. Now an Apple Store employee told me all iPhone 4's are factory unlocked, and it is only when Apple activates it to a carrier that they become locked. But how can I satisfy a buyer of this so they will know I am legit? Thanks in advance! Peter</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which Canon has video recorder? $200v</Title>
+		<Username>WaLaday</Username>
+		<Datetime>01-09-2008, 10:39 PM</Datetime>
+		<Content>I would like to purchase a canon camera w/ a video recorder: other camera's have video recorders: but it doesn't come w/ sound or good quality: any suggestions: under $200 perferably.</Content>
+	</Post>
+</Thread>

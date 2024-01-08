@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer 5090 and SC-LX83 Settings</Title>
+		<Username>ahaydock</Username>
+		<Datetime>08-12-2011, 11:05 PM</Datetime>
+		<Content>I recently upgraded from my Arcam AV Amp and Pioneer 51FD Blu-Ray. I use to go directly from the 51FD via HDMI to my 5090 Plasma and was very happy, however since upgrading to a SC-LX83 AV Amp and LX54 Blu-Ray, whilst I am still happy I can't help feel the picture has changed slightly. Now I'm not sure if this is because of a change in source i.e the LX54, or the fact I come out of the LX54 into the amp then into the TV? Which is doing the processing now the Amp or the TV? Should I alter any settings or do anything different? Also where can I find the Bumtious Settings? Can't seem to locate them. Thanks.</Content>
+	</Post>
+</Thread>

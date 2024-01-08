@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot A410: photos come out blurry without flash on.</Title>
+		<Username>BlackamusJones</Username>
+		<Datetime>03-25-2010, 07:37 PM</Datetime>
+		<Content>I can't figure this out at all. Been messing around with all sorts of settings trying to get this to function properly. If I have the flash on it works just fine, taking a good picture and all. When the flash is off the photos come out blurry every single time. What's the deal?</Content>
+	</Post>
+</Thread>

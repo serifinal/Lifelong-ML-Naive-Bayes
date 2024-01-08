@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How Many Photos Remaining ?</Title>
+		<Username>Myron</Username>
+		<Datetime>05-09-2007, 09:31 AM</Datetime>
+		<Content>I recently purchased a Canon SD 600. It takes nice photos but I cannot tell how many photos remain on the SD Memory Card. The number on the lower right is supposed to indicate the number of remaining photos but it doesn't make sense. It recently indicated the #775, how could 775 photos remain on a 1GB SD Card? I was already on photo 348! I set the camera to "L" and Normal. In the past, I suddenly got caught on the road with a blinking indicator saying no memory is left. There must be a way to know exactly how many shots remain.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iphone4 factory unlocked Setup on Telus questions...</Title>
+		<Username>Synergie1</Username>
+		<Datetime>08-04-2010 10:01 PM</Datetime>
+		<Content>Thanks to a nationwide Telus shortage of stock, I ended up getting a factory unlocked 32GB iphone4. It arrives tomorrow.... Now, I am a complete iphone illiterate! I have no idea since this is a factory unlocked and not a Telus version... so if someone can help me out. How difficult is it to set up to work on Telus? I realize I will likely have to put all the Telus data settings in somewhere, but since I have no iphone experience at all, I'm not sure where to find to put them in. I tried to look through the menus at Best buy today on the demo and couldn't find anything (I know where to find the actual telus settings here in the forum... that's not what I am looking for) Anyway, if my iphone dumbness offends anyone, maybe someone can help me via PM?? Thanks in advance!</Content>
+	</Post>
+</Thread>

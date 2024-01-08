@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Show Me your Flat Panel Home Theaters Room</Title>
+		<Username>FHT123</Username>
+		<Datetime>04-28-08, 09:07 PM</Datetime>
+		<Content>Planning a smaller theater, perfer the Plasma picture. Looked all over for a thread dedicated to Flat Panel Home Theater Rooms, but didnt find any. Hoping this is the correct place to post as the Forums under room construction all seem to be slanted towards FP. So... Show Me (and others in my shoes) your Flat Panel Home Theater Rooms Please.........Thanks in advance!</Content>
+	</Post>
+</Thread>

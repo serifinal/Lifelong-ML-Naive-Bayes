@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>1080p streaming to Panasonic GT30 problems</Title>
+		<Username>macwaters</Username>
+		<Datetime>04-02-2012, 2:46 PM</Datetime>
+		<Content>Is anyone successfully streaming 1080p mkv's or m2ts files to their GT30? I've been trying all afternoon and get close to it but ultimately the result is always quite jerky. I'm primarily using Mezzmo as the server on my PC but have also used MS media player and even my popcorn hour and still I get same result. I've changed routers, switches and eventually went direct cable between PC and TV and still not quite perfect. My etherent adapter is 100Mbps. Anyway, would be good to know if you've been sucessful and if so what streaming app did you use and what connection. Many thanks,</Content>
+	</Post>
+</Thread>

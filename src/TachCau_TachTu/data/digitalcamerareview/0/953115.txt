@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Dark Picture!Help!</Title>
+		<Username>rolaineraya</Username>
+		<Datetime>04-18-2009, 10:47 PM</Datetime>
+		<Content>Hi!i,m new here..Hope you can explain this one to me.. I got a Canon Power Shoot A1000..I'd to use it on one og our beach trips. My problem is some of my photos are dark given the sunny condition of the beach. Some of the pictures taken are great..Hope you can help me.. Below are some of the photos we've taken.. Taken same day, same place, same camera settings..</Content>
+	</Post>
+</Thread>

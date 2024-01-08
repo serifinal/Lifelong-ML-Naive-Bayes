@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Intel G45 and HDMI 1.3</Title>
+		<Username>archer75</Username>
+		<Datetime>05-21-08, 10:30 PM</Datetime>
+		<Content>Are these boards still scheduled to ship next month? And confirmation on if they will have HDMI 1.3?</Content>
+	</Post>
+</Thread>

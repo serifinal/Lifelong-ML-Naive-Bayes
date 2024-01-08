@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How are you storing your disks after you rip them?</Title>
+		<Username>RBurnthorn</Username>
+		<Datetime>12-23-08, 12:30 PM</Datetime>
+		<Content>I don't have a massive collection but I do have about 600 movies with cases and it's over running me. I have ripped them to the computer and will need to access them occasionally as I find which ones may not have ripped properly, or if I need to play it somewhere else in the house where I don't have an extender. I have them in open racks right now and having to dust them is a PITA, and now that they are stored on the Server, I won't need them out in the open. I would like to have them in drawers or shallow tubs with lids and could possibly build a rack for the tubs and put them in my storage area out of the way. I don't know.... I'm wondering what others are doing with their collections and how they are storing them once they have them ripped?</Content>
+	</Post>
+</Thread>

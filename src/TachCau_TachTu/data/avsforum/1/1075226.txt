@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung HL50A650 vs. Olevia 747i</Title>
+		<Username>nocchiogrosso</Username>
+		<Datetime>05-03-08, 03:21 PM</Datetime>
+		<Content>Does anybody have advice on choosing between these two? I was originally sold on LCD, but heard great things about the Samsung DLP, and the price is right. I'm looking for something between 46 and 52 inches and under $1400. Am I missing anything? Thanks for the help!</Content>
+	</Post>
+</Thread>

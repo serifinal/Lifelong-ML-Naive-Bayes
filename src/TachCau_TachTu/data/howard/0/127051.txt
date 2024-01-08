@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>3G Unrestrictor on iOS 4/iPhone 4 for FaceTime</Title>
+		<Username>daleraver</Username>
+		<Datetime>06-08-2010 08:48 AM</Datetime>
+		<Content>Any of the developers out there that know if 3G Unrestrictor will work on iOS 4, and possibly allow us to use Video Calling (FaceTime) over the 3G network on the new iPhone? Seems like with a decent signal, this should be possible.</Content>
+	</Post>
+</Thread>

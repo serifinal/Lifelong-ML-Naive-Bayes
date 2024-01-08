@@ -1,0 +1,6 @@
+port blocking .
+so i 've been hearing that wind is getting some criticism for `` port blocking '' .
+i do n't really know what the heck that is .
+from what i gather , certain web servers wo n't be accessible ?
+i 'm mainly just curious .
+i 'm not technologically inept and i know a bit about wireless technology but i 've never heard of these ports until wind started blocking them ...

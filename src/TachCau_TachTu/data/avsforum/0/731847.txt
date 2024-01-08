@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Xbox 360 Display Settings with 800U</Title>
+		<Username>Plasmastic</Username>
+		<Datetime>07-31-08, 07:51 PM</Datetime>
+		<Content>I need help! I have my Panansonic Th50PZ800U connected to my Xbox 360 elite via 1.3 HDMI cables. Under the 360's display settings there is an item called reference levels. You can set the reference levels to standard, intermediate, & advanced. There is a caution though that if you set the reference levels higher than what you tv supports that the picture may become degraded. Can anyone confirm if I should be using Standard, Intermediate, or Advanced? I tried all three and couldn't tell if there was any difference.</Content>
+	</Post>
+</Thread>

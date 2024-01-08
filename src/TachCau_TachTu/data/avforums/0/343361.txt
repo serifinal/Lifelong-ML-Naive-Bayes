@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Soap Opera Effect on Samsung Plasma</Title>
+		<Username>Turkish</Username>
+		<Datetime>26-12-2011, 10:33 PM</Datetime>
+		<Content>Hello everyone, Its more then 1 year since I have my Samsung PS50C7700 Plasma and I'm more then satisfied with it, however last week I went to a local store to check new tv's and they had this "video" effect that looked very nice. I have read on this and this seems to be caused by higher fresh rates. Is there a setting I can turn this "video effect" on my tv? Would love it on my blurays and sport events on tv. Hope you guys can help.</Content>
+	</Post>
+</Thread>

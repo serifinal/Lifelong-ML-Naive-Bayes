@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help Choosing A Popcorn Machine</Title>
+		<Username>Mr.Hander</Username>
+		<Datetime>09-03-08, 04:43 PM</Datetime>
+		<Content>Good Morning To All. I am looking to purchase a new popcorn machine for my home theater and am looking for some input on what make/model to choose for my application. Here is what I am looking for. - A 6oz popcorn machine - Warming Tray/Deck - Old-Maid Tray/Deck - Stainless Kettle - Removable Kettle - Lighted Enclosure I'm not sure where to start as for what manufactures are good/reliable, or what models offer the options I want inside a particular make. Additionally, I am looking for opinions on where to make my purchase . (Who has the best deal and best customer service.) Also any personal experience based opinions are welcome, as I don't know exactly what I want and could be swayed away from any of the options I have listed above. Thanks for your time, Mark Mokita</Content>
+	</Post>
+</Thread>

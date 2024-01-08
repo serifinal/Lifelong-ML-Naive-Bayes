@@ -1,0 +1,9 @@
+berryannoying saves photos at jpeg.rem .
+has anyone else had trouble with this ?
+through the normal camera app the bold saves the photos at jpg 's . .
+so i can just hook up my phone to the desktop in disk mode and grab the photos from it .
+but ive been using berryannoying lately and it saves photos at jpeg.rem ... so when i copy them to the desktop and just change the file extension . .
+they wont work .
+but i converts them or something just fine when i email the jpeg.rem photos because they show up as jpg 's in email .
+how do i fix this ?
+ports

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P46S20BA - Unique HDMI Xbox 360 Connection Problem</Title>
+		<Username>WadeyX</Username>
+		<Datetime>14-02-2012, 7:37 PM</Datetime>
+		<Content>Hi, I have a Xbox 360 however when connecting to the TV I get no signal, If I wiggle it about in the back of the Xbox, I get a green picture, and cannot get it the correct colour. Now, the problem cannot be the Xbox, as when connecting it to another SAMSUNG tv the hdmi works fine.. Im so confused of this one.. No one seems to know the answer of my Problem.. Anyone have any ideas? Many thanks Wadey</Content>
+	</Post>
+</Thread>

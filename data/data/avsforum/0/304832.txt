@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sony STRDG1200 vs STRDG2100 vs STRDA2400es (No Sony bashing needed)</Title>
+		<Username>Ransx77</Username>
+		<Datetime>12-06-08, 06:05 PM</Datetime>
+		<Content>I have a 52XBR6 and trying to match a reasonable priced Sony HDMI receiver to it......because I like Sony, ok? Currently I don't have TOP of the line speakers, (Cerwin-Vega RS series) that will probably come next.... I've looked at other receivers, Yamaha, Denon, and Pioneer Elite at Magnolia, yeah they sound great, maybe even better than the Sony's, OK, I get that, but there is more to an HDTV receiver....and none of those others has a GUI OSD for under $1k, recent posts about Denon Customer Service pushes me away from Denon, and the others are just so expensive! So all three of the Sony receivers I mention are under $1k, and I think from what I can see that any should work FOR ME. All have at least 3 HDMI inputs, all have scaling up-conversion using Faroudja Current Prices: STR-DG1200 - $699 STR-DG2100 - $700 STR-DA2400ES -$799 Also under consideration: STR-DG1100 - $599 STR-DA3400ES -$999 I see Sony Style is carrying the STR-DG1200 on the current Receiver page, but not the 2100, is that last years' model? ......so I'm open to some intelligent input on the differences between them, and why I should consider one over the other?</Content>
+	</Post>
+</Thread>

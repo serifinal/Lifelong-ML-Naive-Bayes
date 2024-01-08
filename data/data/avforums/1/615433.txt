@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which plasma should I buy?</Title>
+		<Username>jthorpe</Username>
+		<Datetime>27-11-2011, 11:42 PM</Datetime>
+		<Content>Hi guys First post here on avforums so I am hoping you guys can help me out. I am currently looking to buy my first "proper" TV and have spent a lot of time researching and come to the conclusion that plasma is probably best for my needs (sport, gaming, low input lag). I was wowwed by the vt30 and gt30 but have been seriously put off by the green tinge faults. I have been looking at the d8000 51 inch also but have heard there are brightness popping issues and peeling issues.... Considering this is my first major spend on a TV, I was hoping you guys may be able to recommend something to me as I really have no clue what to go for! I am looking for something between 46-55 inch and my budget is around 1500, although I would prefer to pay less than that where possible. Any responses are appreciated. Thanks John</Content>
+	</Post>
+</Thread>

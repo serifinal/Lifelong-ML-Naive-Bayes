@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>720p DIGIC 4 processor question</Title>
+		<Username>scar</Username>
+		<Datetime>10-17-2009, 02:25 PM</Datetime>
+		<Content>Seeing that most of the new Canon camera's use the DIGIC 4 processor, and most, if not all, have a pretty basic control when shooting 720p (ie can't zoom while recording), does that mean that all of them have the exact same quality standard? For example; do the Ixus 100 IS, the 110 IS and (for example) the SX200 all output the same quality HD video? I've read somewhere that the Ixus 110 IS has a newer lens, does that matter too? It's a shame that most sites don't elaborate more on the HD video option available nowadays, because from the footage I've seen from the Ixus 110 IS (SD960) it certainly beats quite a few camcorders.</Content>
+	</Post>
+</Thread>

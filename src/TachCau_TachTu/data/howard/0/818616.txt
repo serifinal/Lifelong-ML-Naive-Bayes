@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Are apps installed on memory card portable to other phones?</Title>
+		<Username>cyclone</Username>
+		<Datetime>09-14-2009 06:11 PM</Datetime>
+		<Content>If I install apps to the memory card on, say, my E71, if I plug that card into another S60 (same version) phone, say the E63, will the apps be available, or are there portions of the app which get installed to the phone itself which would be missing on the ? I understand those apps tied to a particular IMEI wouldn't work on the new phone.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Klipsch F2,C2,B2 vs Tannoy F4,FC,FR. Which one is better for movie?</Title>
+		<Username>mrtuanvn</Username>
+		<Datetime>12-30-08, 01:15 AM</Datetime>
+		<Content>Option 1 hxxp://www.klipsch.com/world/as/en/products/details/f-2-home-theater-system.aspx F2 (front) C2(center) B2(rear) Option2 Tannoy Mercury F4(front), FC(Center), FR (rear) Please help me choose the better one for movie. Thanks a lot.</Content>
+	</Post>
+</Thread>

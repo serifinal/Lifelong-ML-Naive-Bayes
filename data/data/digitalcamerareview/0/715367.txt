@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anti-Glare Coating Coming-off LCD Screen</Title>
+		<Username>Myron</Username>
+		<Datetime>08-21-2007, 10:22 AM</Datetime>
+		<Content>I have been using a Canon SD 500 Elph since March. Suddenly, the anti-glare coating that gives the LCD screen a purplish tint, is coming off. I am very gentle with the screen and it was never scratched. I keep it in a soft case at all times. It is coming-off in thin areas rather than in large areas. Canon wants me to send it in for repairs but I have no back-up camera in the meantime so I can not return it. I don't know why they spray a coating on it anyway. My eyeglasses likewise were sprayed with an anti-glare coating and also came off but that took 5 years!</Content>
+	</Post>
+</Thread>

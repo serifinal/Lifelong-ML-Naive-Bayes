@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SX10 IS indoor sports settings?</Title>
+		<Username>RaceMan02</Username>
+		<Datetime>12-29-2008, 10:13 AM</Datetime>
+		<Content>I got the Cannon PowerShot SX10 IS and am completely thrilled by it's results. But, I am having problems setting it up to shoot my daughter's basketball games. It seems the relativly low-light of gymnasiums is giving me all sorts of headaches trying to find the right setting to catch the action at speed. I'm trying to aproach this from NOT using the flash. I may be a bit over-whelmed by all the different shooting modes and how to mix in f-stop, ISO and shutter speed. I can see the graininess when using 1600-3000 ISO setting and just don't know what else to do... Any suggestions would be greatly appreciated!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: BNIB sealed Rogers iPhone 3GS 16GB white - GTA/Cash only</Title>
+		<Username>jontymisra</Username>
+		<Datetime>08-17-2009 03:10 PM</Datetime>
+		<Content>I've got a sealed iphone 3GS white 16GB for sale. Not really a fan of the touchscreen - so using my Blackberry. It's yours for $720. Low-ballers WILL BE ignored. GTA/Cash only!</Content>
+	</Post>
+</Thread>

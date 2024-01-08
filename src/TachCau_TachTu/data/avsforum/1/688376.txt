@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Would you trade the hlt 6176s for the new 650/ 750 series?</Title>
+		<Username>JOE.G</Username>
+		<Datetime>04-06-08, 01:17 PM</Datetime>
+		<Content>Would you I have aweek to decide, also what is the diffrence between the 650 and 750? besides price? What issues do the new series have? what has a better picture? the 6176 or the new ones? thanks</Content>
+	</Post>
+</Thread>

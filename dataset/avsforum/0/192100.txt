@@ -1,0 +1,10 @@
+what 's the best way to hook up stb to htpc .
+hello everyone , i?m in the process of designing a new htpc and i?m trying to determine the best way to hook up my stb , which is a scientific atlanta 8300 .
+my first thought is to run the hdmi directly into my htpc .
+however i see a couple of drawbacks with this option : * i wouldn?t be able to record 2 channels at once * i would need to add some type of ir blaster to change channels if i want to use the htpc as a pvr .
+* if i wanted to watch tv without going through the htpc i would need to run component cables to my tv the other option i can think of it is to connect my stb via its sata output to my htpc .
+however , if i go this route i would i would still be using my cable companies interface to handle all pvr functions .
+am i missing something ?
+how does everyone else connect their stb ?
+my stb also has a firewire connection but the owners manually indicates that it might be disabled .
+thanks tom

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT50</Title>
+		<Username>saarnold</Username>
+		<Datetime>14-01-2012, 7:24 PM</Datetime>
+		<Content>Hi all, just a quick question concerning this years new VT50 line up - CNET have mentioned the 55VT50 and 65VT50 but no 50" - i am under the impression that is for the American market only and that the UK will have a 42" and 50" - can anyone confirm this. saarnold</Content>
+	</Post>
+</Thread>

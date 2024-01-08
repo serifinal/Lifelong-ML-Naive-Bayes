@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasoni plasma disply fault</Title>
+		<Username>olimaran</Username>
+		<Datetime>17-01-2012, 4:30 AM</Datetime>
+		<Content>panasonic TH-42PV60M Plasma Screen Fault Right Half Side plain raster single vertical line</Content>
+	</Post>
+</Thread>

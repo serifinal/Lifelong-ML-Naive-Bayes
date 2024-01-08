@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell Micro-SIM iPad</Title>
+		<Username>cgartly</Username>
+		<Datetime>05-28-2010 09:32 PM</Datetime>
+		<Content>Hi All, I couldn't resist today and picked up an iPad and a Bell MicroSIM from Future Shop. Activation was a bit of a pain having to phone in and took about half an hour to work but seems to work well. I have made a micro sim adapter (Crude one) and placed the Bell MicroSIM in my unlocked 306 and iPhone's and was able to access data. I used the pda2.bell.ca APN. I tried placing voice calls and SMS but was unable to, Bell seems to have that locked up pretty tight. So far there doesn't seem to be anywhere to go to monitor data usage, anyone have any ideas?</Content>
+	</Post>
+</Thread>

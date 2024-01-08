@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Replacing defective panel - calibration - do I need to worry about it ?</Title>
+		<Username>scsnospam</Username>
+		<Datetime>09-04-08, 12:21 AM</Datetime>
+		<Content>I have a Samsung FP-T5084 1080p plasma which is about 11 months old. Recently, an entire row of pixels lit up. I called Samsung, and after one tech visit, the local tech person is telling me that they will be replacing the actual panel. When the actual panel is replaced, doesn't the set need to be recalibrated or something at the factory? Aren't the electronics calibrated to the actual screen? The tech says not to worry "it will be fine"! Well, I do worry. What do you guys think? Should I be asking for an entirely new tv instead from Samsung?</Content>
+	</Post>
+</Thread>

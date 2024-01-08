@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>50" Plasma - Panasonic or LG ??</Title>
+		<Username>D M B</Username>
+		<Datetime>13-01-2012, 1:14 PM</Datetime>
+		<Content>Hi guys, Having had great exeprience with my 37" Panasonic plasma, i'm very tempted to go Panasonic again, with the 50" 1080P model. I can get this for around £550, which seems an awesome deal. However, i'm also intrigued by the equivalent LG model, which is available around £465, again, a ridiculous deal it seems. Question is, how do the two brands generally compare? For the sake of an extra £85 odd for the Panasonic it seems daft not to. What do you think?</Content>
+	</Post>
+</Thread>

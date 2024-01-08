@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HDMI and SVideo output at same time</Title>
+		<Username>mattbrown</Username>
+		<Datetime>11-03-08, 07:11 PM</Datetime>
+		<Content>I have two TVs, and old 32" CRT with S-video in, and my Mitsubishi 720p 1500 projector with HDMI in. I want my upcoming HTPC (assuming it will be MythBuntu) to drive them both, because I try to limit using the projector. And my kids watch all their stuff on the 32. Is there a vid card with both HDMI and SVid out that will work? Hopefully something that can display on both at the same time. I don't want to have to toggle between the two video outputs. Matt</Content>
+	</Post>
+</Thread>

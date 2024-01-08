@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Canon S5 IS</Title>
+		<Username>bTaryag</Username>
+		<Datetime>07-01-2007, 09:27 PM</Datetime>
+		<Content>Hello all, I just dumped my A630 in favor of the S5. Overall I find it to be a super camera. Fast operation, IS, great rotating screen, AA batteries, 12x zoom, relatively fast lens, many many manual controls, decent size for it's class, movie mode w/ stereo recording, zooming, and ability to take pictures, hotshoe should I need one. Picture quality is quite good, but unless I'm imagining, it is slightly less than the A630. However, I'm going to wait before I issue a ruling, as I haven't taken enough pics yet. I'll post more when I have some more thoughts!</Content>
+	</Post>
+</Thread>

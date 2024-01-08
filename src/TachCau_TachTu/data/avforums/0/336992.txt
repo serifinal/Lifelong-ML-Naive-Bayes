@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Th-42pz70ba</Title>
+		<Username>IFEReaper</Username>
+		<Datetime>14-07-2011, 7:22 PM</Datetime>
+		<Content>Hi. I have a Panasonic Plasma TH-42PZ70BA which had developed a fault, But is now repaired by myself, but i need the latest firmware to stop the fault returning! It's a known fault. 7 blinks. I have replaced the transistor on the scan board and the tv is working fine but i need a firmware upgrade. I contacted panasonic but they dont provide the firmware to the public. Any help would be greatly appreciated, tia.</Content>
+	</Post>
+</Thread>

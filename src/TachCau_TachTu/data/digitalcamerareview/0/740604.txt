@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PowerShot SD600 Shutter Speed</Title>
+		<Username>perimpro@comcast.net</Username>
+		<Datetime>09-23-2008, 03:17 PM</Datetime>
+		<Content>In low light, my SD600 gives me a camera shake warning and the shutter speed (ie 1/10). However, some times in the area where the shutter speed shows up I get 0"3, or 0"5, or 1" or another variation. Is this shutter speed? seconds, distance, what?perimpro@comcast.net</Content>
+	</Post>
+</Thread>

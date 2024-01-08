@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What are the top 5 LCD makes/models at the moment?</Title>
+		<Username>terminatorbob</Username>
+		<Datetime>05-12-08, 01:30 AM</Datetime>
+		<Content>Im going to be wanting to upgrade my TV here soon. Ive always been a plasma fan but LCD's have came a long way recently so I thought I would take a second look at them before I discount getting one. What are some of the most recommended LCD's this year? Last time I was on here the Sharps was one of the tops but everybody complained about banding. What are the best ones now? Which ones can compete with plasma black levels? Also are there any good LCD's around the 60 inch mark? So far the only one ive seen that is bigger than 52" is the Samsung 81 series and they are way to expensive. Im looking to spend no more than $3000.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What next for Super AMOLED after Galaxy S and Wave?</Title>
+		<Username>silverwolf0</Username>
+		<Datetime>06-18-2010 01:11 AM</Datetime>
+		<Content>I am in no hurry to get a new phone, but I was wondering if there was any good Super AMOLED phones (Samsung exclusive right?) that are being rumored about for the future and would provide a good middleground for what I want. I really like the Wave and its looks, but the screen size is on the small size and it isn't running Android. The Galaxy S looks too big and I definitely don't like the design or aesthetics. What else is looking on the horizon?</Content>
+	</Post>
+</Thread>

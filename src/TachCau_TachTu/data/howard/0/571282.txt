@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola DROID 2 A955 Release Thread - Keep all phone discussion here</Title>
+		<Username>Bandit390</Username>
+		<Datetime>08-10-2010 10:44 PM</Datetime>
+		<Content>Go. 2year = 199.99 1year = 269.99 Full price = 559.99 www.verizonwireless.com Don't forget to try some coupons.... PRMCD10 SMART30 webch10 FREEOVERNT</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Who is slow? Me or the SD890 IS</Title>
+		<Username>shellstar</Username>
+		<Datetime>05-11-2009, 12:01 PM</Datetime>
+		<Content>I bought the SD890 IS. Charged the battery overnight. Put it in manual mode on continuous shot (flash off) to take pics of the kids outside-- The shutter speed is half as fast as my SD550, using 400 ISO. I am using my same 4g card I use in my 550, and since I have a few of these I do not want to buy faster cards... Help, advice, or return it?! My reasoning for the 890- 1. It still has a viewfinder 2. It has more manual control buttons on the outside (so I can switch modes w/o going thru a menu) 3. Has 5x optical zoom 4. Wanted another Canon =) P.S. I considered the SD990 IS, but price and the fact it claims the same shutter speed kinda decided it for me.</Content>
+	</Post>
+</Thread>

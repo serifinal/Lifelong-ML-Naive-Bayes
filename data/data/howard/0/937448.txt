@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>loopt - Caliber SCH r860</Title>
+		<Username>Okeechobee</Username>
+		<Datetime>04-30-2010 07:34 AM</Datetime>
+		<Content>I'm a bit stunned that loopt is NOT available on the MetroPCS, Samsung Caliber SCH r860</Content>
+	</Post>
+</Thread>

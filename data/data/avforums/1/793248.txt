@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panny S30 vs UT30</Title>
+		<Username>Vitro27</Username>
+		<Datetime>14-02-2012, 10:20 PM</Datetime>
+		<Content>Hello guys , So im choosing between the Panasonic S30 and the UT30. About the S30 there is lot of info and reviews to be found online but almost nothing for the UT30. So therefore im asking here. On the official panasonic site I compared the specs of both sets and the only differences I could find where that UT30 has the 3D and the S30 has the mono filter. I can get both sets for around the same price maybe 50 euro more for the UT30. I would really like to hear from you which one I should choose with arguments</Content>
+	</Post>
+</Thread>

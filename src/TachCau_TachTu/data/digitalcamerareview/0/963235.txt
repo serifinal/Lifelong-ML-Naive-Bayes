@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How do Erase All</Title>
+		<Username>Hudson</Username>
+		<Datetime>12-11-2010, 09:53 AM</Datetime>
+		<Content>Hi all, new here. I have a Canon Power Shot SX120 IS and I can't figure out how to "Erase All"? The manual is very short and the software does not show how to do it. Any thoughts? Thanks in advance</Content>
+	</Post>
+</Thread>

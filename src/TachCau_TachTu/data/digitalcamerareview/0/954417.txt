@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Quiet Introduction of the Kodak EasyShare Z760 Digital Camera</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>05-05-2005, 02:00 PM</Datetime>
+		<Content>With the attention from yesterday's announcement of the new cameras in the C-series, people are noticing that Kodak has added a new camera to the "Z" lineup. The Kodak EasyShare Z760 is a recent addition to the Kodak web site. The Z760 has an MSRP of $329.95 and will be available in May in select retailers and geographies. The Z760 is virtually identical to the DX7630 that is currently available (from Kodak) for $299. The only difference that I could find was that the Z760 is PictBridge compliant (if I am missing something, let me know). I'm not exactly sure of the motivation for this similarity, but I'll definitely keep an eye on it. The Z760 captures 6.1 megapixel images and has a Schneider-Kreuznach Variogon 3X optical zoom lens. The camera features Kodak's Color Science Chip and has 16 scene modes and 5 color modes as well as compatibility with Kodak's printer docks. The shooting modes include: auto, 16 scene modes, program auto, aperture priority, shutter priority, manual, and custom setting mode. Other features: 2.2 inch, 153,000 pixel LCD monitor 4x digital zoom (for a total of 12x zoom) 32MB internal memory, expandable with SD memory cards ISO sensitivities of 100, 200, 400, and 800 Shutter speed: automatic: 1/8-1/1400 seconds; manual: 64-1/1000 seconds Movie: 320x240 pixels at 24 fps with audio Aperature: f/2.8-8.0 (wide), f/4.8-8.0 (tele)</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony XBR4 vs Samsung 650</Title>
+		<Username>masteroc</Username>
+		<Datetime>06-11-08, 10:29 PM</Datetime>
+		<Content>So i am completely lost as to which tv to go with. I spent about an hour in Circuit City today watching the same two movies on both of these tv sets, and i can't make up my mind. The sony seemed to have more of a problem with the motion blur during scenes with a lot of movement, but (even though the contrast ratio doesnt seem like it) the Sony seemed to me to have better colors and a better picture, but i keep worrying that the ghosting/motion blur will get on my nerves after watching it for a while. Any input?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Suggestions for large kitchen / diner</Title>
+		<Username>Calvados</Username>
+		<Datetime>19-06-2011, 7:12 PM</Datetime>
+		<Content>We have built a large extension on to our kitchen and would like to put a TV and surround sound in. Reading through posts, it would seem that a Panny G20 would be an affordable option but I'm thinking that perhaps I should have that in the lounge, moving our 'old' but still great PW7 (42") into the kitchen. If we do this then we'd also recycle our canton speakers and pioneer amp. All this equipment is around 6 yrs - does this seem a bit risky or a good idea? 'Risky' becuase I don't want to plaster in all this cabling and set up this equipment if its only got a year or two to live. Or should i get a G20 for the kitchen? Either way, can anyone recommend a sound system I could use for the kitchen? Looking to spend about £400 I guess. I know I'm rambling a bit but any ideas/reccs appreciated? thanks, Calvados</Content>
+	</Post>
+</Thread>

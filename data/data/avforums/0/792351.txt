@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Hitachi 42PD7200 Died!</Title>
+		<Username>shadowcaster</Username>
+		<Datetime>12-08-2006, 11:39 PM</Datetime>
+		<Content>My Hitachi 42PD7200 was working fine a few days ago and as always I turn it off via the right hand power switch. Anyway, I go away for a few days, come back today, try and turn it on and.....dead as a doornail!! There was no obvious sign of anything going wrong either. no popping, no smoke, no billowing flames!! I checked the power cable to see if it had come loose....nope! I also changed the fuse twice just to make sure. Still nothing...No power light! Apologies, but I'm a bit of a noob on the technical side of this TV and being it's just turned 15 months old, it's warranty has expired and I'm hoping there is an easy solution to getting it working again. I have Sky HD plugged into it via an Octava switch and I hope it's not a case of the vindictive little Sky box thinking it would fry my TV rather than just the HDCP board! I've came across threads saying there is an internal 20mm fuse. Is this true? Any advice would be appreciated guys</Content>
+	</Post>
+</Thread>

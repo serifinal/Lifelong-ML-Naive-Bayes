@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New DSAPA</Title>
+		<Username>MStar</Username>
+		<Datetime>06-04-2010 08:53 PM</Datetime>
+		<Content>Effective June 20th or 30th. (I can't remember which.) Old Length: 12 months data term Penalty: Flat $200 if removed before 12 months New Length: Same as voice term Penalty: Full data subsidy, prorated based on months remaining Monthly reduction: (Data Subsidy / Term Length) Example iPhone - $300 data subsidy, 36 month term. (300 / 36) = DSAPA reduces by $8.33 each month. BB Curve - $175 data subsidy, 36 month term. (175 / 36 ) = DSAPA reduces by $4.86 each month. Some Random Dates and their DSAPA (iPhone Example) Month 0: $300 Month 6: $250 Month 12: $200 Month 18: $150 Month 24: $100 Month 30: $50 Month 36: $0 Some Random Dates and their DSAPA (BlackBerry Example) Month 0: $175 Month 6: $146 Month 12: $116 Month 18: $88 Month 24: $58 Month 30: $29 Month 36: $0 Welcome to 36mo data contracts! I Expect Rogers/Telus to be aligned if not identical.</Content>
+	</Post>
+</Thread>

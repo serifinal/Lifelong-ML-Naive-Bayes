@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon 50D w/wide angle and tele converters</Title>
+		<Username>calicott</Username>
+		<Datetime>02-11-2009, 03:15 PM</Datetime>
+		<Content>I have the Canon 50D w/28-135mm lens. I am interested in enhancing the camera without spending a fortune. Does a decent 2X teleconverter actually double my telephoto to 270mm ?? And as for wide angle converters, which of these gives you the widest field of view, the .43X, the .50X, or the .70X ?? My reasoning tells me that the .43X converter would give me 43% of the low end of my lens, which would be 12mm and the widest possible field of view. Am I correct ? I'm confident that several of you will be familiar with these details. Thanks, Virgil</Content>
+	</Post>
+</Thread>

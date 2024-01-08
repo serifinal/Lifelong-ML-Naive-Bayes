@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Fascinate (Galaxy S) Pre-Release Thread</Title>
+		<Username>ceb unit</Username>
+		<Datetime>03-28-2010 12:37 PM</Datetime>
+		<Content>http://m.youtube.com/watch?v=Uk84hFv...ient=mv-google I'm surprised there hasn't been much talk about this phone here. Looks really nice and the specs are amazing.</Content>
+	</Post>
+</Thread>

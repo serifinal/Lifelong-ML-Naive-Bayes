@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS64D8000 Best Price?</Title>
+		<Username>barryd</Username>
+		<Datetime>22-01-2012, 9:38 AM</Datetime>
+		<Content>Hi all Thinking of getting the Samsung Ps64D8000 but was wondering on the best prices that are about with a 5yr warranty? Robert whte are doing it for £2133.99 with 2 pairs of glasses and 5yr warranty which is the best i can find!Is there anything better out there?cheers</Content>
+	</Post>
+</Thread>

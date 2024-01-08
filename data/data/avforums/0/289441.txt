@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Deep Colour - on or off on my Samsung plasma</Title>
+		<Username>MrKennedy</Username>
+		<Datetime>24-07-2011, 9:41 AM</Datetime>
+		<Content>Hi, I am hoping someone here can help. My tv (samsung c680) a nasty habit of showing dithering, fuzzy pixels on dark areas of the picture and on lighter areas at times of textures like walls, doors anything it can be. This happens on blurays. My source is a ps3 and c5900 samsung3d blu player... They are both connected using the newest sony hdmi with high speed, ethernet, arc etc... So they are very good cables. I figured it could have been a deep colour issue after doin extensive research so i turned this setting off in both the ps3 and bluray player and itactually improved the dithering of the pixels. But now i am getting alot of banding/false contouring/gradiatio n so my question is can this now be fixed by tweaking anything else settings-wise? I assume i am getting this as the deep colour has lowered the bit depth the colour?!... I am not happy i get either of these problems ... Is there no happy/medium?!... Would changing the gamma/brightness/contrast/ colour settings on my tv help remove the banding/posturization i am getting?.... Please help, thankyou.</Content>
+	</Post>
+</Thread>

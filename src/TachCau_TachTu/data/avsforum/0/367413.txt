@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 42LG50 NEW MODELS due out next - What's the scoop?</Title>
+		<Username>jkhill</Username>
+		<Datetime>03-18-08, 04:39 PM</Datetime>
+		<Content>I'm seeing new LG models due out next week at retail outlets but can't seem to find any information about them - not even on LG's web site. What am I missing!?</Content>
+	</Post>
+</Thread>

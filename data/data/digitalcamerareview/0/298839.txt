@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Jlk</Title>
+		<Username>JLK</Username>
+		<Datetime>09-01-2011, 10:57 AM</Datetime>
+		<Content>I have a Canon Rebel XTi, Receiving an Err05 error code, even thou the flash has popped up. Have tried turning the camera off and back on, replacing the power pack, and manually closing the flash, but the message persist, and flash is not flashing. Any suggestions as to what the problem is and how to fix?</Content>
+	</Post>
+</Thread>

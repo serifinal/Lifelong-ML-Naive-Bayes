@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>initial settings for Panny TX-P50U30B</Title>
+		<Username>DaveLeach</Username>
+		<Datetime>07-06-2011, 10:42 AM</Datetime>
+		<Content>just set up my tv, and would like to know the ideal settings for the burn in time of the screen. 100 hours i believe. i currently just have it on cinema mode as it does not seem too bright. any other advice/settings greatly appreciated</Content>
+	</Post>
+</Thread>

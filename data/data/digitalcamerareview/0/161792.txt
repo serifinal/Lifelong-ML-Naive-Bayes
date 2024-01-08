@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Not sure how the SD1200 face detection works, focus box etc</Title>
+		<Username>lottdod_1999</Username>
+		<Datetime>06-17-2009, 05:44 PM</Datetime>
+		<Content>1. There is a green focus box in auto mode, I can't control what it focuses on.. does that mean if it focuses on something to the right, it won't focus on what I'm point at in the center? 2. I thought this has face detection. I mean it does, but I don't know how to activate it.. it doesn't do the white/gray boxes over faces, how do i do that?</Content>
+	</Post>
+</Thread>

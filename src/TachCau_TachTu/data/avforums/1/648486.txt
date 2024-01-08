@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>upgrading to a 60" plasma but which one</Title>
+		<Username>heathpw</Username>
+		<Datetime>17-05-2011, 9:50 AM</Datetime>
+		<Content>Hi i currently have a 42 panasonic viera 42" bought in june 2008 and i am looking at upgrading to a 60" plasma. At the moment i am swaying towards LG 60PZ250T which is £1350 from amazon, . Samsung have a 59" 3D model also which is £1250 i think. I dont know which has the edge LG or samsung for plasma. My current panasonic 42" does not have great Standard def terestrial picture upscaling so i am looking for a TV with improved Standard Def picture quality. Plus of course the LG comes with a FREEVIEW HD tuner. Any one got any advice ot experience?.</Content>
+	</Post>
+</Thread>

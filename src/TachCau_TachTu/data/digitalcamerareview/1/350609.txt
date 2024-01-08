@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>where to buy 450d in New York?</Title>
+		<Username>:mike:</Username>
+		<Datetime>06-14-2008, 02:17 PM</Datetime>
+		<Content>Hello! I?m travelling to United States in July and would like to buy Canon 450d (Rebel XSi) there because it costs less as it does in Europe. I?ll visit New York and LA... I would appreciate any advice about where to get the best deal for the camera. Is there any store I really should visit? I would also like to check the lens... Thanks One other question: is it possible to get a camera with 450d label instead of that rebel xsi anywhere in US?</Content>
+	</Post>
+</Thread>

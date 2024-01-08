@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 3D Glasses</Title>
+		<Username>Blue.Rocket</Username>
+		<Datetime>28-11-2011, 10:07 AM</Datetime>
+		<Content>I have 4x glasses TY-EW3D3ME rechargebles for my TX-P50GT30B. I was told yes but see nothing in the instruction booklet, Can these glasses be charged via a PC ?, . Thought about getting 1in 4 out usb unit to recharge the 4 all at once, Will this work via TV? Thanks</Content>
+	</Post>
+</Thread>

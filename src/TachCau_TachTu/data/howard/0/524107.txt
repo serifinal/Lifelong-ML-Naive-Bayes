@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fix your Facetime and MMS after jailbreak with jailbreakme.org</Title>
+		<Username>Gaginmyjag</Username>
+		<Datetime>08-01-2010 09:57 PM</Datetime>
+		<Content>Add Cydia Source iphonedelivery.advinux.com/cydia/ Restart phone... Go to your settings and then pick the phone tab and turn on facetime, you should be good to go after this...</Content>
+	</Post>
+</Thread>

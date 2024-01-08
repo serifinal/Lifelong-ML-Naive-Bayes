@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>WhammChalk</Title>
+		<Username>Flumoxed</Username>
+		<Datetime>06-04-2009 08:17 PM</Datetime>
+		<Content>Purchased Nokia N85 from WhammChalk on June 3, 2009. Gave free overnight shipping (Iowa to California)! Fast in responding to my questions. Did not hesitate to get into contact via phone to ease my concerns about little feedback. Kept me updated during each step of the transaction! Would love to do business with him again.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rebel 1ti</Title>
+		<Username>Charlene Berenz</Username>
+		<Datetime>10-22-2010, 03:53 PM</Datetime>
+		<Content>A couple of days ago I happily purchased my 3rd Canon camera upgrade. I am pretty sure I will be satisfied with the Rebel 1ti and that it will be awhile before another upgrade. This is my first SLR camera which I was totally unfamiliar with - until pouring over the manual - trying to absorb all the information. I have frustratingly spent hrs attempting to internally register the camera - but with no luck. It is my understanding that the camera and computer can communicate to allow you to put your name & address into your camera. In this section also included steps to copy right your photos. I know it's impossible for you to know what step I am not doing correctly, but if someone else experienced difficulty and then success, then perhaps you can enlighten me. Also, any helpful tips are greatly appreciated!!</Content>
+	</Post>
+</Thread>

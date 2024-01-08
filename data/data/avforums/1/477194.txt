@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panny TX-P42GT30 good price??</Title>
+		<Username>mrben2475</Username>
+		<Datetime>03-06-2011, 8:49 AM</Datetime>
+		<Content>Hi there, looking for a bit of confirmation really... I have struck a deal with my local Panasonic store for £980 to include the TX-P42GT30 the DMP-BD110 BD player(worth between £150-£180 after searches) and 4 3D blurays including Avatar (which i understand is worth about £60-£80 on it's own) Good deal????? Considering the TX-P42G30 is now only £686.90 on amazon?</Content>
+	</Post>
+</Thread>

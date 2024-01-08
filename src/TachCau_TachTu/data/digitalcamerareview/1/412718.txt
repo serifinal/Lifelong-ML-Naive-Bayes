@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Battery Recommendation</Title>
+		<Username>stuman74</Username>
+		<Datetime>12-08-2007, 12:11 AM</Datetime>
+		<Content>For my new Canon SX100 IS, the batteries that came with it wore out very fast. It takes two AA batteries. What battery do you fellow board members recommend? Please vote and provide any experience feedback. I am leaning towards Energizer Rechargeable 2500 mAh AA's. Thanks!</Content>
+	</Post>
+</Thread>

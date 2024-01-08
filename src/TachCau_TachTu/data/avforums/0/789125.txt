@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS50C680 firmware update help</Title>
+		<Username>phrozenballs</Username>
+		<Datetime>18-02-2012, 11:35 PM</Datetime>
+		<Content>so my tv is still on the 1003 firmware so i downloaded the new firmware from samsung 1005 and copied it to a usb drive tried plugging it in the side and also in the back but when the usb is detected i choose the firmware upgrade option but i get a message " no file to upgrade please check or try another file " can anyone help with this please have read loads and am getting a bit frustrated now as im getting nowhere . many thanks in advance</Content>
+	</Post>
+</Thread>

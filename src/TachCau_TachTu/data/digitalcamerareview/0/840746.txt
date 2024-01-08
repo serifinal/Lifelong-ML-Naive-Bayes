@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need Help On Canon S3 IS Video Function</Title>
+		<Username>dang</Username>
+		<Datetime>06-08-2007, 08:18 AM</Datetime>
+		<Content>I need a video of at most 4 minutes. I have a 2gb stick, will that be able to take four minutes of video? BTW, I am using the best quality setting- 640x480 at 30fps. I think I should have enough. Thanks alot</Content>
+	</Post>
+</Thread>

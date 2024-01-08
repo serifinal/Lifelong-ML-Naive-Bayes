@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is now a good time to buy a new plasma?</Title>
+		<Username>srgilbert</Username>
+		<Datetime>11-17-08, 07:29 PM</Datetime>
+		<Content>I used to hang out here quite a bit, but it's been a while! So. Here's the deal. I've been a happy owner of a Panasonic PT-42PD3-P 42" plasma since Dec 2002. It's been a great display and I really felt that I've gotten my moneys worth from it over the past six years. Although it's only 480p, the picture quality on DVD's and HDTV has always been great and even today never fails to impress anybody who stops by. Still, I've been getting the itch to upgrade and compared to 2002, plasma prices are just ridiculous! In 2002, a 50" plasma was $10,000 now you can get a fantastic one for $1,500! I'm strongly considering the Panasonic TH-50PZ800U 50" and pairing it with the new Panny DMP-BD35K Bluray player. I've found a deal that I can get both delivered for about $1900 total. If I buy it now, I'll probably have to make it last for at least another 6-10 years but I don't want to be missing out on something 2-3 years down the road. Sooo, I guess what I'm wondering is, are we close to the peak of plasma tech or are there still major innovations in the near future? Thanks!</Content>
+	</Post>
+</Thread>

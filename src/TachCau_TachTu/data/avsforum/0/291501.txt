@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why do people spend as much (or even more!!) on an AVR as they do on speakers?</Title>
+		<Username>penngray</Username>
+		<Datetime>08-30-08, 02:09 PM</Datetime>
+		<Content>I read threads constantly about people wanting to spend $X on a certain AVR only to find out they have possibly cheaper speakers Buy an $1K AVR but only have a total of $1K in speaker??? I really think it should be stressed more how much important the speakers are then the AVRs, no?</Content>
+	</Post>
+</Thread>

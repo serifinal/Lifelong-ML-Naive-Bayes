@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>3rd Generation Panasonic 3D Glasses.</Title>
+		<Username>tele1962</Username>
+		<Datetime>17-07-2011, 5:18 PM</Datetime>
+		<Content>Here is a little info on the 3rd generation glasses from Panny: New, improved design / Power on/off switch / May be used together with ordinary glasses / Lightweight / Lithium-ion Polymer rechargeable battery The 2011 Panasonic VIERRA TY-EW3D3 Active Shutter 3D Eyewear has several improved features over the previous generation 3D Eyewear at a lower competitive price. ACTIVE SHUTTER 3D EYEWEAR - High-precision shutter control sends clear 1080p images to each eye. LIGHTWEIGHT - Weighs less than one ounce, for more comfortable viewing. RECHARGEABLE - Longer Lithium-Ion Polymer rechargeable Battery for repeated use. FeaturesM-3D1 standard for use with any 3D compatible screen Power on/off switch New, improved design May be used together with ordinary glasses Specifications3D Playback Type: Frame Sequential Type (Active Liquid Crystal Shutter) Active 3D Eyewear Standard Compatible: Yes Battery Type: Lithium-ion polymer rechargeable battery Battery Duration: Approx. 25-hours operation time for a 30-minute full battery charge (Approx. 3 hours operation time for a 2-minute battery charge) Viewing Range: Transmitter for 3D Eyewear within 3.2 m / 10' 5" from front surface (within 35-degree horizontal, 20-degree vertical) Power Supply: DC 5 V ( supplied by USB terminal of a VIERA 3DTV ) Dimensions (W x H x D / without Nose Pad): 170.6 mm x 42.2 mm x 170.7mm / 6.72 x 1.67 x 6.73 in.Weight: 27g / 0.96 lb. As far as i can tell pricing in the US is $69.</Content>
+	</Post>
+</Thread>

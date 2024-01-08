@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official Samsung SCH-U740 "Alias" Thread</Title>
+		<Username>chemicalhero</Username>
+		<Datetime>02-14-2007 08:02 AM</Datetime>
+		<Content>Since the phone was released today, I figured I'd start this. Feel free to post any pictures and thoughts on this phone if you already have it.</Content>
+	</Post>
+</Thread>

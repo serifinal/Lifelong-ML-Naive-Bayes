@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS:Google Nexus One (WIND/T Mobile version). 400 CAD</Title>
+		<Username>Gearbox</Username>
+		<Datetime>05-22-2010 05:26 PM</Datetime>
+		<Content>My nexus one is up for sale.This is the version that works with 3G bands of Wind and T Mobile.This will work on 2G on rogers and fido.Will not work on bell and Telus. Phone was purchased in january.I have the copy of the invoice.So the warranty should be still in effect.I dont offer any sort of warranty on the phone. Phone is in very good condition.Check the pictures.All accessories are included.Headset is unused. I m asking 400 CAD. You must pick up the item from mississauga/oakville,at dundas and 403.</Content>
+	</Post>
+</Thread>

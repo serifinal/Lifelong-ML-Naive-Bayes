@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Switching Between iPhone and BB 9700 - SIM Swap Only?</Title>
+		<Username>Rob11</Username>
+		<Datetime>11-16-2009 06:55 AM</Datetime>
+		<Content>When I was on Rogers, I had a code on my account that would allow me to switch between my Iphone and a Blackberry - just swap the SIM. Can this be done with Bell's new network? Can I swap the SIM between devices and use the full fictionally of both devices? I.E. BIS on the Blackberry? Cheers</Content>
+	</Post>
+</Thread>

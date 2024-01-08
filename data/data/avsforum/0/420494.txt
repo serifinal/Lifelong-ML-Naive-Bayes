@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Samsung AL2216W Owner's Thread.</Title>
+		<Username>tiktik</Username>
+		<Datetime>12-15-08, 09:24 PM</Datetime>
+		<Content>Hi Everyone, I own this monitor for about a year now and I am extremely happy with the performance of this monitor and as a tribute to this great monitor I am starting this thread to learn about other's experiences around this monitor. Cheers, -TikTik</Content>
+	</Post>
+</Thread>

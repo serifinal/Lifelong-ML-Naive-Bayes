@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon power shot SX110 IS and NiMH batteries....</Title>
+		<Username>kalyanamsb</Username>
+		<Datetime>04-24-2009, 03:06 PM</Datetime>
+		<Content>hello fiends, vanakkam..goodmorning. ihave today bought a canon power shot SX110 IS and also joined here today. i just want to know whether sony NiMH rechargeable batteries-cycle energy-NH-AA-HR 15/51 1.2V-AA-HR6-mignon-AA-TYP- 2500mAh (battery charger SONY BCG-34HLD4E) can be used in my canon SX110IS. (i have not yet exausted the alkaline battery supplied with the camera) thanking you. kalyanamsb.</Content>
+	</Post>
+</Thread>

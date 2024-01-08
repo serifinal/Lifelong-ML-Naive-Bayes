@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Please recommend a plasma for around £500</Title>
+		<Username>miffy93</Username>
+		<Datetime>06-06-2011, 8:57 PM</Datetime>
+		<Content>Hi, I'm in need of some advice for buying a plasma TV. At the moment we have a 32" Samsung LCD and a 42" LG LCD, however i've been told that as the viewing distance for the new TV will be quite small a plasma would be best. It will mainly be used for blu ray & gaming. Ideally 42" or 50". Any recomendations?</Content>
+	</Post>
+</Thread>

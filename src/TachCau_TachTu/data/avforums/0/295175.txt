@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G30 USB recording</Title>
+		<Username>4008</Username>
+		<Datetime>14-08-2011, 11:26 PM</Datetime>
+		<Content>Hello Just bought a G30 (super), are you able to use any usb stick, or usb powered drive, or is there a specifc one that has to be plugged into a wall socket? I have had a look on panasonics site, but I could not see anything. I probably missed it! Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>a720 or a590</Title>
+		<Username>rick taylor</Username>
+		<Datetime>02-29-2008, 12:06 PM</Datetime>
+		<Content>I read the review on the 590 nicely done by the way.I was going to buy the 720 but now maybe 590 instead.I don't know much about cameras.The 720 has 6x zoom and the 590 only 4x is this a major factor that i should consider?Would you need tri pod with 6x at full zoom?The 590 has a new motion detection feature to reduce blur does it help much? Iam not sure about these numbers f/2.6[w] f/ 5.5 [t] for 590 and f/2.8 [w] and f/ 4.8 [t] for the 720 is this something i should consider? Thanks for any replies.</Content>
+	</Post>
+</Thread>

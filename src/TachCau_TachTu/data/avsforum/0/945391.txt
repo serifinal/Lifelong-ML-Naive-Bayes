@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Samsung LNxxA530 Owner's Thread</Title>
+		<Username>beauv</Username>
+		<Datetime>04-13-08, 10:37 PM</Datetime>
+		<Content>Ok, seeing that many people are buying, asking questions about the Samsung A530, lets start an official thread. Official specs from Samsung: http://www.samsung.com/ca/consumer/d...XZC&fullspec=F Calibration thread: http://www.avsforum.com/avs-vb/showthread.php?t=1020612 Models (screen sizes): LN37A530 - ? LN40A530 - 1,599$ LN46A530 - 2,099$ LN52A530 - 2,799$ The LNxxA530 dont seem to be sold in the U.S. at least for now. It would be nice to have your impressions of this set, pics, settings...</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 60pz250t freezes</Title>
+		<Username>viktv</Username>
+		<Datetime>18-11-2011, 10:31 PM</Datetime>
+		<Content>Hi. I just bought a 60pz250t today, connected it up to my sky+hd box via hdmi and everything was fine for the fiirst couple of hours. Then the picture on the screen froze however I could still hear the audio. I tried changing the channels with my sky remote and the audio of the channel was changing, however the picture remain frozen. I then pressed the standby button on the lg remote control but it didnt work. In fact none of the buttons on the lg remote were working. I switched the tv off from the power and then back on. Everything was fine for about an hour and then the same thing happened again. I switched the power off and on again. Everything was ok for about 15 minutes, then same thing again. I switched the power off again and immediately after switching the tv back on it froze. I have now turned the tv off from the power and havent bothered switching it back on since. I'm preety sure the issue is with the tv as I have connected my sky box (using same hdmi cable) to another tv and it works fine. Also the fact that the tv stops responding to the remote control points towards a problem with the tv. I'm not sure whether to restore to factory settings and update software or just tell currys to fix it or replace. Any ideas?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>online retailer?</Title>
+		<Username>al in cedar</Username>
+		<Datetime>11-23-08, 10:51 AM</Datetime>
+		<Content>As I sit here looking for a good price on an 42" Panny plasma, I was wondering if anyone has purchased their HDTV's from any of the online retailers? I see that 6th Ave has a really good price on the set that I want, but I'm just wondering about buying online? Personally, I have never had a bad experience buying online, but I would like to hear your opinions; in particular, buying plasma or LCD tv's online... THANKS!!!</Content>
+	</Post>
+</Thread>

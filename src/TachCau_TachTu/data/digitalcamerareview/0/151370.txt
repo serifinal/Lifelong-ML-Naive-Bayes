@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon "Nifty Fifty" trouble</Title>
+		<Username>Lisa Mallette</Username>
+		<Datetime>12-17-2010, 09:29 PM</Datetime>
+		<Content>Has anyone experienced trouble with their 50mm lens "sticking" at the wide apeture? I am pretty new to all of this. I have a fixed 50mm lens that I can not adjust the apeture beyond 1.8/2.0. I see the "bulb" signal in my view finder. Has anyone experienced this or know how to fix this problem before I go out to seek help and have the lense inspected? I have a rebel XTI. In any of the settings -manual, TV, AV or auto - the lense will not adjust beyond 2.0 Help - as this is my favorite lense!!! Thank you.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking at buying the Onkyo SR805 Reciever for my Polk LSi15's</Title>
+		<Username>Hyper_Lite</Username>
+		<Datetime>03-11-08, 10:35 AM</Datetime>
+		<Content>What problems should I be aware of? I've heard the Onkyo has lip-syncing problems and the possibility of not having video through HDMI (DVR's it seems).</Content>
+	</Post>
+</Thread>

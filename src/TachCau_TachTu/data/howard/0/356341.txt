@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Text message viewing</Title>
+		<Username>mystakilla</Username>
+		<Datetime>10-25-2009 03:42 PM</Datetime>
+		<Content>Is there a way to download texts to pc and view them?</Content>
+	</Post>
+</Thread>

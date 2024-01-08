@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Want to get a NAS and connect it to my PCH. What should I get and how do I do it?</Title>
+		<Username>Mysteriouskk</Username>
+		<Datetime>01-03-09, 04:35 PM</Datetime>
+		<Content>I want to get a NAS which has at least 2TB of storage, and it will have all of my 1080p/720p videos on it. So my TV/Router setup is the following: Living Room has my TV/Popcorn Hour (PCH) and Office has my router. I will have to use a wireless setup regardless. Where should I put my NAS? Can I put my NAS in my living room and connect it via USB to the PCH for better speeds? I would also use some type of Router/Bridge to connect the NAS wirelessly to my router in my office. or Would a wireless solution be better by putting the NAS in the office? and streaming the videos off the network? What should I do?</Content>
+	</Post>
+</Thread>

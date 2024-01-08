@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Not receiving text messages</Title>
+		<Username>Samanosuke</Username>
+		<Datetime>10-28-2009 12:28 PM</Datetime>
+		<Content>I'm on T-Mobile, with an unlocked Samsung innov8. I have used this phone Since May of this year sending and receiving over thousands and thousands of texts. No issues there. Till 3 days ago. Now the phone doesn't receive texts, unless I reboot the phone, then the texts come flooding in. I went to the T-Mobile store got a new sim card and put my new sim card into a T-Mobile branded phone and it worked fine, no issues there. I could send and receive texts like there was no issue. Put it back in my Innov8 and there was an issue sending and receiving texts again. It only received them when I rebooted the phone. I also get delivery reports without any problem. What confuses me is that MMS comes through fine. Any idea what the issue could be? I talked to customer care, without anything going on, so I'm kinda lost.</Content>
+	</Post>
+</Thread>

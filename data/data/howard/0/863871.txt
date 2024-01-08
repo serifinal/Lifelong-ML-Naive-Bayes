@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LF: Fido/Rogers Plan (Couples, Unlimited Incoming, 5g+ data)</Title>
+		<Username>xkrp</Username>
+		<Datetime>02-01-2010 12:17 AM</Datetime>
+		<Content>Ideally Couples Unlimited Incoming Adequate Data (5-8gig) Expanded Network Pref JUST those features, shorter contract/cheaper = better. *i realize this may not be highly reasonable* Show me your guns.</Content>
+	</Post>
+</Thread>

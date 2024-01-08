@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>"Memory Card Error" in Canon Powershot G11</Title>
+		<Username>harry_86</Username>
+		<Datetime>02-12-2011, 07:28 AM</Datetime>
+		<Content>Hey guys, need bit of your help. Actually last night I formatted my SD memory card of Canon Powershot G11 and after that when I inserted that card to the camera again it is displaying - "memory card error". After that all the crap is happening I don't know what to do? Please help me out, I have some very precious photos in that card. Thanks in advance.</Content>
+	</Post>
+</Thread>

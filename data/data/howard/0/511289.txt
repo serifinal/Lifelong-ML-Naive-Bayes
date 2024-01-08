@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Video Chat (FaceTime) an API?</Title>
+		<Username>azndrew2</Username>
+		<Datetime>06-08-2010 01:06 AM</Datetime>
+		<Content>can video chat on iPhone4 be used for 3rd party apps as well? an API for other developers to embed into their apps such as skype, beejive & yahoo messenger? Also, what are the other new features with iPhone4 that are APIs for 3rd party developers?</Content>
+	</Post>
+</Thread>

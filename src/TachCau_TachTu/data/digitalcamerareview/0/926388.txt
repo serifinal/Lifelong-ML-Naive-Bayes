@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>help with settings A430</Title>
+		<Username>dkweston</Username>
+		<Datetime>01-30-2007, 03:37 PM</Datetime>
+		<Content>how do i take shots without having to pause everytime i take a photo afterwards....i set it up somehow before.. but know i can't.....</Content>
+	</Post>
+</Thread>

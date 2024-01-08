@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>is it worth the $30 diffrence? 750 VS 650</Title>
+		<Username>nito3</Username>
+		<Datetime>12-02-08, 11:44 PM</Datetime>
+		<Content>The 750 came down in price again !but really going crazy choosing between the two(650 or 750) The price diffrence is $30 right now. Do u guys recomend the 750 over the 650 at $30 bucks? What about the halo? I've heard they now come with new angled bezels. Also about the "halo" .When i read the reviews on Amazon,com no one really talks about this problem, only here on AVS forums. Well hope to hear from u guys!!</Content>
+	</Post>
+</Thread>

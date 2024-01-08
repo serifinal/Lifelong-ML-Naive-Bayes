@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>selling my S5 IS and need ideas for a new camera</Title>
+		<Username>whitetiger777</Username>
+		<Datetime>05-02-2008, 12:56 PM</Datetime>
+		<Content>After some serious thinking, I have decided to sell my nearly brand new S5 IS on ebay. I like it a lot, but I really want something different, that allows me to control the focusing a little more, because I'm not good with the manual focus on these cameras! I got it less than a month ago, and I love the feel of the camera, but I'm looking for something with a manual focus ring. Do you have any suggestions for a Canon digital SLR? I'm not really sure what I'll get, but I'd love to hear suggestions from you all. I'm considering some other brands too, but I don't know much about what else Canon has to offer.</Content>
+	</Post>
+</Thread>

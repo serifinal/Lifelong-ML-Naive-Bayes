@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon A720 IS Manual Aperture</Title>
+		<Username>niffer1023</Username>
+		<Datetime>11-02-2010, 07:48 PM</Datetime>
+		<Content>Does anyone know how to set the aperture on the Canon A720 IS in the Manual mode?</Content>
+	</Post>
+</Thread>

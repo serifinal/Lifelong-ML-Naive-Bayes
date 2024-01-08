@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is it possible to convert a 6Gb data plan to Rocket stick?</Title>
+		<Username>mchammered</Username>
+		<Datetime>05-04-2010 02:54 AM</Datetime>
+		<Content>The cell number itself is now month to month with no contract but the 6Gb plan is on a contract until June 2012. I searched and found out some thread saying that it is not possible to take over the $30 6Gb plan portion only and transfer it to my existing voice plan as is it tied in with the original cell phone number? If I can't separate the 6Gb plan is there a way to convert the data plan it to be used with a rocket stick instead? Thanks for any information and I'll keep searching for an answer in the meantime.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Basement Wall & Firestopping</Title>
+		<Username>interfx</Username>
+		<Datetime>03-21-08, 04:57 PM</Datetime>
+		<Content>I've started finishing my concrete walls in my basement, and have a simple question about firestop. I think I have planned correctly, but not sure about one specific area. Please examine my attached sketch, if I have this correct. Thanks in advance for any input.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy Spica launched?</Title>
+		<Username>Mach1Chris</Username>
+		<Datetime>03-09-2010 08:50 AM</Datetime>
+		<Content>Is this old news or did I miss the thread? Just saw a tweet from RogersBuzz about it and it's on their site now for $79.99 for 3 years.</Content>
+	</Post>
+</Thread>

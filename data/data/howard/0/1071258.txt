@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CCTS News - "Unlimited" Decision, PC Changes, CRTC Review</Title>
+		<Username>BellVictim</Username>
+		<Datetime>06-10-2010 09:36 AM</Datetime>
+		<Content>A number interesting things going on with the CCTS: - Issued a Decision about "unlimited" wireless plan vs 1GB/day usage. (Bell won, fair call by CCTS: congruent with ToS & AUP). More info: s://rogerswatch.wordpress.com/2010/06/02/ccts-decision-bell-vs-business-cx-re-unlimited-plan/ - They've updated their Procedural Code (the rules of how a complaint is: qualified as being in or out 'of scope', and handled) - essentially a few small & medium changes to benefit the cx. Most important to be aware of is that after a Decision is issued the cx has to formally accept the Decision for it to be binding on the cx and TSP (carrier). (Strangely though, a Recommendation is still deemed to be accepted, unless the cx informs CCTS that they "reject" the Recommendation.) More info: s://rogerswatch.wordpress.com/2010/06/09/ccts-procedural-code-changes-and-crtc-review/ - CCTS is getting "reviewed" by the CRTC: CRTC wants a copy of all governing docs, reports on effectiveness, outreach, etc. It seems the public can file a written comment regarding the CCTS up until June 28. More info: s://rogerswatch.wordpress.com/2010/06/09/ccts-procedural-code-changes-and-crtc-review/</Content>
+	</Post>
+</Thread>

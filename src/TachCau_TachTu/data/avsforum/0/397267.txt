@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Harmony 880 Deal on Amazon Today 10/23 - $69.99</Title>
+		<Username>bryansj</Username>
+		<Datetime>10-23-08, 06:50 AM</Datetime>
+		<Content>FYI, Amazon has refurbished Harmony 880 remotes as the Gold Box Deal of the Day for $69.99. http://www.amazon.com/gp/goldbox/ref=cs_top_nav_gb27 Edit: just noticed this posted in the Harmony 880 thread...</Content>
+	</Post>
+</Thread>

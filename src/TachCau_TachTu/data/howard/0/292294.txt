@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BNIB -16gb White iPhone 3G[S]</Title>
+		<Username>rumblebumblebee</Username>
+		<Datetime>12-23-2009 04:05 PM</Datetime>
+		<Content>Brand new, in box, and still sealed. $650 OBO. Markham, local pickup only. PM if interested.</Content>
+	</Post>
+</Thread>

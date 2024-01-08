@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Video calling</Title>
+		<Username>haddadz</Username>
+		<Datetime>10-26-2009 02:07 PM</Datetime>
+		<Content>i was checking my ebill and one of options was video call in and video call out. Is that HSPA service?</Content>
+	</Post>
+</Thread>

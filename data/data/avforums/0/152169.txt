@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma VS LCD/LED, Im Confused ?</Title>
+		<Username>1iam5mith</Username>
+		<Datetime>24-01-2012, 10:47 PM</Datetime>
+		<Content>i thought plasma was bad? i have always been warned by shop staff to avoid plasma like the plague! because its unsafe for in your house, and if you put it on pause for evan half an hour its stains the screen forever? then all of a sudden you rarley found a plasma screen, and now the past year it seems to have made a huge comeback, is it any better now? whats better and whats worse about it than lcd/led? i do like to put my tv on pause quick alot, would this stain the screen? please help?!?! thanks</Content>
+	</Post>
+</Thread>

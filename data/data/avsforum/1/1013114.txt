@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>need another TV 47"-52" but I am confused about one thing</Title>
+		<Username>etrin</Username>
+		<Datetime>09-12-08, 03:03 PM</Datetime>
+		<Content>Ok I have a sony 55 lcos in the den. Now I need another Tv for the backroom. All I have heard about LCD's is 1080P and it HAS TO HAVE 120HZ or you will get pixiliation and blurring and etc..etc...etc Is this a Have to have ? How much is true and how much is an extra $1000 going to get you?</Content>
+	</Post>
+</Thread>

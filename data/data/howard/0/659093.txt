@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rocket Stick with 500mb smartphone data plan</Title>
+		<Username>pei_boy</Username>
+		<Datetime>06-28-2010 07:18 PM</Datetime>
+		<Content>I apologize if this has been asked before. I bought a used Rocket Stick for family travel, I don't need my cell phone during that time, can I switch my SIM into the Rocket Stick and use the existing 500mb data with no extra charge? Thanks!</Content>
+	</Post>
+</Thread>

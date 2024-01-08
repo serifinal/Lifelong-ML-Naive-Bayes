@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HDMI ports on 50" Panasonic GT30...</Title>
+		<Username>tut_gareth</Username>
+		<Datetime>21-12-2011, 4:16 PM</Datetime>
+		<Content>HDMI side sockets Before I purchase my 50" GT30, I need to get some HDMI cables behind the wall,,,, I have read many a review saying how close to the edge the HDMI sockets are on the GT30's... Question is: Can I get away with normal HDMI's in the side sockets on the tv? 1m HDMI Cable - HDplatinum 1.4 Feature Support including 3D and HDMI with Ethernet - Free UK Delivery - Ships Worldwide Or should I go for some of these shorter / slim ones? 1m SlimWire High Speed HDMI Cable with Ethernet - 1.4 3D HDMI Cable - Free UK Delivery - Shipping Worldwide When its wall mounted I don't mind seeing them at the side of the TV just don't want them poking out when I'm in front of the TV...</Content>
+	</Post>
+</Thread>

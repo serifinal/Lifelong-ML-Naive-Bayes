@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Owner Query Re:TX-P50VT30B and THX</Title>
+		<Username>billbirchall</Username>
+		<Datetime>24-06-2011, 4:24 PM</Datetime>
+		<Content>I have today taken possession of a TX-P50VT30B and have a query, regarding viewing modes. I have had the TV viewing mode set up as 'NORMAL', but seem to have read that some people are using THX as it gives a more accurate colour. I am not a 'techie' and just want to know what is the 'best' viewing mode for someone like myself, who is just starting to use Plasma Technology, and knows little about it. When I mentioned THX to the Engineer, he said that his older Panasonic had experienced problems in this mode, so he did not use it. He did agree that there did not seem to be any problems on mine, but still left it on NORMAL. Any suggestions/recommendations?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Suggested settings on Canon EF 100mm f2.8 USM Macro</Title>
+		<Username>stealers</Username>
+		<Datetime>08-22-2008, 01:24 PM</Datetime>
+		<Content>Hey, I just got my 100mm Macro lens yesterday and I mounted it on my EOS 40D. Its an awesome lens. I have to get adapted to this lens from my EF-S 18-55mm style. For eg, I was trying to take portraits of my 3 month old. Earlier I had to be close to the Bassinet. Now, with this prime lens, the focal length is fixed at 100mm, I need to move farter to get her entire face in the frame. I grabbed a couple of shots putting in Portrait mode. I couldn't wait to go and some close-up shots of roses in my backyard. Also some ants and snails. Can someone suggest the most generic settings required. Like, for shooting Portraits, use this setting on 100mm lens. For taking pics of insects/flowers, set this. I read the user manual of 100mm lens and it says some thing about setting magnification. To do this, set the lens in MF instead of AF, turn the focus ring and move camera back and forward to take a sharp pic. But when I put the lens in AF, I notice that always it settles down to 3m on the distance scale. When should I set this scale to infinity? What setting should I make if I want to have a landscape with background and also subject in focus? my understanding is going for a higher f-numbers like f16 or f32 will give smaller DOF. How about ADEP? If I want to take the full length portrait pic of a person with this lens, and I don't have enough room to go back away from the subject, what is the alternative? These kind of situations I bumped into when I switched my lens from 18-55mm to 100mm macro.</Content>
+	</Post>
+</Thread>

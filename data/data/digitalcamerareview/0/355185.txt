@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How do you Download .AVI from a Powershot A1100 IS?</Title>
+		<Username>tncountryboy</Username>
+		<Datetime>02-06-2010, 01:52 PM</Datetime>
+		<Content>I am having trouble with this one. The manual doesn't even specify how to do this. I can pull the pics of just fine. Just cannot figure out the video section. Any helpers?</Content>
+	</Post>
+</Thread>

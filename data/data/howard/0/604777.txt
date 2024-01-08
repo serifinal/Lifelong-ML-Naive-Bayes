@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Will My Rogers iPhone Work on Bell's New System?</Title>
+		<Username>aristottle</Username>
+		<Datetime>10-08-2009 07:10 PM</Datetime>
+		<Content>I own a Iphone 3g with no contract, I bought it used, and purchased a prepaid plan for it along with a sim card. Any chance it will work on Bells new network? Would it be as easy buying a Bell sim or would I have to get the phone unlocked first before putting in a Bell sim?</Content>
+	</Post>
+</Thread>

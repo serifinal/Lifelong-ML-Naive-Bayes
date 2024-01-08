@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Please rank Samsung 550 vs. Sony W3000 vs. Samsung xx69 versus Sony V4100</Title>
+		<Username>stlgasman</Username>
+		<Datetime>05-19-08, 04:54 PM</Datetime>
+		<Content>I have to have a fairly matte screen due to a bright room. I think that the 4100 Sony's and Samsung 550 has a semi-gloss, whereas last year's models are more matte?</Content>
+	</Post>
+</Thread>

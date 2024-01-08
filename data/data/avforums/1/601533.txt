@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic Viera TX-P50S30</Title>
+		<Username>Jaymz404</Username>
+		<Datetime>09-12-2011, 11:27 PM</Datetime>
+		<Content>http://www.johnlewis.com/231222456/Product.aspx I've been looking at buying this for a while and I'm just after some opinions if anyone has bought it and could tell me what they think of it and if they are happy with their purchase. I was also a bit concerned with "burn in" could anyone help to convince me that I won't just ruin my tv with burn in? Is it hard to do and / easy to avoid? Thank you very much for any help you are able to give me either on Burn in or the actual tv itself. James</Content>
+	</Post>
+</Thread>

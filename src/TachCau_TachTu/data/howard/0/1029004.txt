@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Question about 3GS purchase</Title>
+		<Username>Thinkbig12</Username>
+		<Datetime>10-07-2009 07:48 PM</Datetime>
+		<Content>My dad had fido points.. so he bought me an iPhone 3GS with all this fido points.. so around 700$ in fido points for the iphone 3gs if I remember correctly.. So today, they call my father and tell him he must take a 3years contract for data only....the 500mb 25$ one. But he clearly bought it for 700$ with no contract.. @ the applestore, you can get it for 700$ no? Are they trying to steal us money (because we paid with fidodollars so it came like free, so they want to get some money from us) or are they doing the right thing? Fido is slowly becoming Rogers</Content>
+	</Post>
+</Thread>

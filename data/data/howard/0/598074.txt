@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant (Galaxy S) Coming to Bell and T-Mobile</Title>
+		<Username>howard</Username>
+		<Datetime>06-28-2010 09:36 AM</Datetime>
+		<Content>The Samsung Vibrant (a Galaxy S) device is coming soon to T-Mobile in the States and Bell Mobility it Canada. The Vibrant has a 4.0 AMOLED display with a 10000:1 contrast ratio, 1Ghz Coretex A8 processor, 16GB of storage and features Android 2.1 (FroYo update probably coming before the end of the year). I've been using a Vibrant for a few days now and the display is stunning. It's really bright while at the same time has extremely deep black levels. It makes all my other phone's LCD displays look washed out with milky blacks. And unlike the regular OLED display on my Nexus one the Vibrant's AMOLED display works well in sunlight. The T-Mobile variant should ship July 21st for $199.99 and the Bell Mobility one probably roughly around the same time period (probably around the end of the month). Bell pricing has yet to be announced.</Content>
+	</Post>
+</Thread>

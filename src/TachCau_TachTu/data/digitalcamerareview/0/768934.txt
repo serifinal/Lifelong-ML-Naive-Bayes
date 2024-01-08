@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>date stamp & memory card prob</Title>
+		<Username>mko</Username>
+		<Datetime>07-29-2009, 03:15 AM</Datetime>
+		<Content>I have a Canon PowerShot SD870 IS. How do you turn the date stamp on? Mine is grayed out so I can't even select it. Also, have problems with memory card. After uploading all the images, I delete them off the memory card. When I insert the memory card back, it says FULL. Why, when I deleted all the images? Please help.</Content>
+	</Post>
+</Thread>

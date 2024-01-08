@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Largest SDHC supported on sd870is?</Title>
+		<Username>talz13</Username>
+		<Datetime>06-21-2008, 03:12 PM</Datetime>
+		<Content>I was looking for SD cards for my upcoming trip, and saw that 16GB cards were only ~$60 after shipping. Would this ginormous size even be supported in my sd870?</Content>
+	</Post>
+</Thread>

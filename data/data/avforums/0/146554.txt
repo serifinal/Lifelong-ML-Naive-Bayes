@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG Plasma 50inch burn</Title>
+		<Username>jrb1512</Username>
+		<Datetime>25-07-2011, 9:07 AM</Datetime>
+		<Content>i did want to update the below thread but is too old to update LG 50PC55 Plasma Burn i also have a 50inch lg plasma i bought from currys back in march. it developed a burn image that is the same as the screen saver logo and has burned itself into the centre of the screen, its been there a few months now. you can only see it in a darkend room you cannot see it in daylight. you can see the cloud when you switch it to an input channel, or is in screensaver mode or when displaying a blank image. i have had numerous problems with the repair with the know how service by currys. four repair attempts but have never replaced anything on it that i can see, i have made two complaints and will be booking it in again. it developed this cloud within the first month, is there anything i can do to try and clear it? it definately is a residue of the screensaver logo where thE lg logo has moved across the screen. you cannot see it in daylight and despite highlighting this on every repair attempt never gets checked over in a darkened setting so keeps coming back with the same fault. Please can anyone offer any suggestions to a fix i may be able to try? even though its at night i do most of my viewing at night, and as it was a high value purchase for me it is grinding me down slowly.</Content>
+	</Post>
+</Thread>

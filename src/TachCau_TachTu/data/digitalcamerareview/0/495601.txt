@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>? about Canon Powershot SX10 IS Auto ISO Shift</Title>
+		<Username>bethc</Username>
+		<Datetime>10-17-2009, 12:07 PM</Datetime>
+		<Content>Have read the manual about this but still a bit confused about a few things. One must press both buttons together? Is there another way to reduce camera shake? I take mostly pics of birds outside of my windows and for the most part keep the setting on auto. Thanks for any help! Beth</Content>
+	</Post>
+</Thread>

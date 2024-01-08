@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Cheapest Way to Get Samsung Galaxy S and/or Wave</Title>
+		<Username>geokilla</Username>
+		<Datetime>08-07-2010 09:43 PM</Datetime>
+		<Content>What's the cheapest way to get a Samsung Wave and/or Galaxy S as a new customer? I got some friends who are new Bell customers too and they were able to get some excellent plans from Bell a while back, something that's comparable to my own Fido plan in sig. I understand they're smart phones so they both require data plans to get them at the Bell and Best Buy advertised price, but what if I don't get a data plan?</Content>
+	</Post>
+</Thread>

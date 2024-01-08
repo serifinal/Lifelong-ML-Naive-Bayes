@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LNxxA650 Owners: Do you have clouding/flashlighting?</Title>
+		<Username>Cynn</Username>
+		<Datetime>04-11-08, 03:30 PM</Datetime>
+		<Content>LNxxA650 Owners, thank you for being brave and helping all of us decide on this TV from the front lines. If you would, please vote on the poll if you have clouding or flashlighting in your panel and reply here what size you own. That way we can build some info on what sizes and how many people get problems. That will help some of us (me) possibly roll the dice with a Big River buy. Thanks guys!</Content>
+	</Post>
+</Thread>

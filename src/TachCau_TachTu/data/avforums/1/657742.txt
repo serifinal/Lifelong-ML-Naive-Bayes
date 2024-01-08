@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What TV to buy for gaming £650 max?</Title>
+		<Username>ijintheuk</Username>
+		<Datetime>22-01-2012, 9:10 PM</Datetime>
+		<Content>Hi guys, I have made 1 or 2 threads asking about specific TV's but now I have started my search again. I was set on a Panasonic ST30 but after hearing about all the problems I have moved away from it. I want the set to last a while (2-3 years) so I would prefer it to be 3D and also 1080p. I want a plasma because they seem to be the best for gaming and I believe they produce the best PQ available. I don't really want a Panasonic because of all the problems (Well, I could maybe buy a refurb GT20 or something like that) so the main brands I'm looking at are Samsung and Sony since they seem to have the best reputation (although I may be mistaken!) So, I have a budget of £650 to work with and I mostly do gaming (About 90% gaming, 9% Blu-ray, 1% FreeviewHD!). One of the main things is that I want the TV to be able to reduce Jaggies a bit. I know this is a problem with the consoles but I have heard some TV's are good at Jaggies reduction and getting rid of them. Thanks alot!</Content>
+	</Post>
+</Thread>

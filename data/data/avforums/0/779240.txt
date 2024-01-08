@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panny gt30 renaming hdmi</Title>
+		<Username>Scot6y</Username>
+		<Datetime>19-11-2011, 7:49 PM</Datetime>
+		<Content>Not sure if this is the right place to post but I'm asking can I basically rename the hdmi options to say sky, ps3 etc Sorry of its in the wrong thread.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>advice on canon lenses for 40D</Title>
+		<Username>Debbie</Username>
+		<Datetime>02-07-2008, 01:16 AM</Datetime>
+		<Content>Hi I'm looking to buy a new canon lense for sports photography (mostly outside moving shots like athletics). I'd like a zoom capacity for distance and I'm thinking 70-200mm. I'm not sure whether to go image stabilizing or f/2.8 as both in one lense is a little too expensive for me at the moment. Someone suggested 70-200 f/4 L would be good. Does anyone have any advice? I have a 24-70mm f/2.8L which I love at the moment.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Has anyone ever decoupled soffits?</Title>
+		<Username>blast67</Username>
+		<Datetime>05-10-08, 06:44 PM</Datetime>
+		<Content>Hi, I've been lurking on these boards for 1.5 years now. I appreciate everyone's input and and documentation of their theaters. It's time for me to get involved now (both asking questions and helping others out with any insight I can provide from my experiences). Now for my question (after some backgorund). Due to existing hvac ducts and plumbing, I will not be able to easily create a sealed box and add soffits within. Would it be better/easier/cheaper to frame the soffits to the existing framework and then decouple the drywall with RSIC-V, or somehow try and decouple the soffit framework with RSIC hangers, and attach the drywall directly to the soffit framework? Thanks, Matt</Content>
+	</Post>
+</Thread>

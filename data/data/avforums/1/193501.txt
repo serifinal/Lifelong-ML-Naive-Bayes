@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TX-P42G30 or TX-P42U30 ??</Title>
+		<Username>Paul McK</Username>
+		<Datetime>15-05-2011, 4:49 PM</Datetime>
+		<Content>Hi all, This is my first post on here so sorry in advance if this has been asked before I've been looking to upgrade from my good old phillips 32' LCD and since i use the playstation alot i reckon that a plasma is the way to go. so i've narrowed it down to two, both are Panasonic cause i heard they were the best for plasma The TX-P42U30 is my first choice and to my very little knowledge of tvs it seems great! The TX-P42G30 is 200 quid more but apparantly has better moving picture resolution and contrast. it also has alot more things that i dont understand but they sound useful!Lol so what i want to know is if it's worth paying the extra £200 for a tv that will be used for gaming and the odd bluray?? Big thanks to anyone who can give some advice</Content>
+	</Post>
+</Thread>

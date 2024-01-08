@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>==>Need to replace PowerShot S3IS *fast* - HELP!</Title>
+		<Username>ComparedToWhat</Username>
+		<Datetime>06-12-2009, 02:12 PM</Datetime>
+		<Content>I'm on the road and my PowerShot S3 IS has died. It was my first digital camera and I have *LOVED* it. Given the wear and tear it's received I'm honestly surprised it's lasted this long. Anyway, I'm currently in a rural area with limited web access (researching is an issue). My girlfriend will be coming to meet me in a week and can bring a new replacement. If it were possible for her to walk into a store and pickup another S3 IS then the problem would be solved, but I'm willing to guess that it's been replaced by an "upgrade". My question is what camera is most like the S3 IS that is currently available? Any suggestions would be greatly appreciated. Thank you in advance for any help!!</Content>
+	</Post>
+</Thread>

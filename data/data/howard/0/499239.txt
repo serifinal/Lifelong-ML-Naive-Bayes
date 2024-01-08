@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Blackberry Torch 9800</Title>
+		<Username>cmstlist</Username>
+		<Datetime>08-03-2010 06:43 PM</Datetime>
+		<Content>So far there has been word that Bell, Telus and Rogers will get the BB Torch (portrait slider keyboard + touch screen) eventually, while AT&T will get some period of US exclusivity and an early launch. I have reliable information that the 9800 radio is identical to the 9700's. At time of manufacturing, an irreversible firmware change is made that locks it into either UMTS 850/1900/2100 or UMTS 900/AWS/2100. Except in the case of dev phones which can be set to penta-band, or can be reflashed to the other bands. So... it is technically feasible for an AWS-compatible Torch to come out on WIND. Any chance it'll happen?</Content>
+	</Post>
+</Thread>

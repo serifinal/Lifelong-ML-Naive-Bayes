@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Panny hates my hummy.</Title>
+		<Username>Machine Head</Username>
+		<Datetime>16-06-2011, 7:40 PM</Datetime>
+		<Content>Hi guys. Just got a new panny plasma with built in freeview. I ran the RF cable thru' my Humax box to the TV and the TV doesn't pick up a signal. I works fine without the Humax box but as soon as I loop thru' I lose the signal. Any idea's? Am I missing something so obvious I can't see it? Seem's very strange to me.</Content>
+	</Post>
+</Thread>

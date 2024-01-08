@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>DerekinMerrick</Username>
+		<Datetime>04-11-08, 05:46 PM</Datetime>
+		<Content>Are you going to buy the new grand theft auto? I rent most of my games and once i beat them I am done. I think this is how this game will be. What about online will it be worth it? I can keep the game rental for a month I think id rather do that.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pio 5080 vs 5010 vs 5020</Title>
+		<Username>mrTAPOUT</Username>
+		<Datetime>07-07-08, 11:25 AM</Datetime>
+		<Content>Ive tried finding out my answers throught the general forum but couldnt find what I was looking for. I have a 5080, do you think the differnce is significant enough to sell it, get a 5010 or 5020? Ive noticed that the 5020 is actually cheaper than the 5010 in most places, but not being able to adjust color is very bothersome. if Anyone switched from a 5080 to a 5010 or a 5020 and can share their impressions, I'd appreciate it. Thanks. what are the pros and cons to each?</Content>
+	</Post>
+</Thread>

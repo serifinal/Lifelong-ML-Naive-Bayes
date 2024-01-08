@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which Panasonic Plasma? G20 or U30?</Title>
+		<Username>bery_451</Username>
+		<Datetime>30-07-2011, 6:32 PM</Datetime>
+		<Content>Is the U30 superior because it doesnt have the 2010 problems like mll black level rises and floating blacks? g20 does have freesat hd but im not bothered with that. g20 does have a better contrast ratio but with mll black level rises it reduces the contrast ratio anyway. u30 only has 2 hdmi sockets. is there any other differences? cant decide.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Paradigm Monitor v5 vs Studio v4 only for HT</Title>
+		<Username>bendiesel</Username>
+		<Datetime>12-10-08, 10:18 AM</Datetime>
+		<Content>Hi, I have some questions regarding the difference between paradigm monitor v5 and studio v4. I have the following speakers at front : -paradigm monitor 11 v5 -paradigm centrer cc-390 v5 Now, my questions : 1) Will I see a big difference in sound if I traded them for studio 60 (v3 or v4) and cc-570v3 (or cc-590v4) 2) If i decide only to change my center for a cc-570 (or cc-590)does the timbre matching between speakers will still be good ? Please note that i'm only using those speakers for Home Theater, not to listen music. Thanks in advance. Ben PS. Sorry for my poor english i'm from Quebec</Content>
+	</Post>
+</Thread>

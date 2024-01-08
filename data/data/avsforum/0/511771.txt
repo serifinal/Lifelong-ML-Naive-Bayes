@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>DSM-750 vs DSM-330: What's the difference?</Title>
+		<Username>GlassesHandle</Username>
+		<Datetime>07-14-08, 05:20 PM</Datetime>
+		<Content>Realize I'm open to ridicule for a question that probably has a generic answer. Are these components different in some basic way? If not, how should one evaluate which is best for him/her? Many thanks!</Content>
+	</Post>
+</Thread>

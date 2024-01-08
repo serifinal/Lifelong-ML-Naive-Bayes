@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Advantage of Factory Unlocked iPhone 3GS ?</Title>
+		<Username>piyoimut</Username>
+		<Datetime>02-11-2010 06:17 PM</Datetime>
+		<Content>I'm about to get another iPhone and it will be on T-Mobile USA. What's the advantage of getting a Factory Unlocked 3GS? will it be like the new bootrom if jailbreaked?(need tethered reboot)? anyone with Factory Unlocked iPhone here?</Content>
+	</Post>
+</Thread>

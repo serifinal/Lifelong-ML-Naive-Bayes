@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>question for anyone who knows about adding a line/family plan</Title>
+		<Username>Pythagoras</Username>
+		<Datetime>10-04-2009 02:39 PM</Datetime>
+		<Content>I know this is a very basic question but I cannot seem to understand what t-mobile.com has on this subject I have two questions: Do you have to renew your contract when you add a line? Does that automatically make your plan a "Family Plan?" Please tell me if I am understanding this correctly: you pay $10/month to get an extra number which uses minutes from your original plan (as opposed to a new plan)? Thanks!!!</Content>
+	</Post>
+</Thread>

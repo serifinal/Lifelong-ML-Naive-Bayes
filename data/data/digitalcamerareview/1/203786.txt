@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Power Shot SX110 IS</Title>
+		<Username>SUTHERNREDD</Username>
+		<Datetime>09-29-2008, 02:11 PM</Datetime>
+		<Content>I am looking to purchase possibly this camera in the next few days.... I am looking for any comments on this camera that you might have. I am an average photographer who does take regular shots and also sports shots of our son playing baseball -- usually those are just still shots with zoom. We are headed to the beach soon and I want to take some great photo's while there...... **I am in comparrison of this camera and the Fujifile Finepix S1000fd. ~~~Any comments welcome and you can also email me at SuthernRedd@aol.com Thanks for your time =)</Content>
+	</Post>
+</Thread>

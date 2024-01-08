@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>For Apple/ATT: the great thing about Facetime, video calling feature...</Title>
+		<Username>tresmith007</Username>
+		<Datetime>06-07-2010 07:07 PM</Datetime>
+		<Content>is that it's going to make people buy iphone 4's in quantities of two or more. Since Facetime, is exclusive to the latest iphone, you'll need other iphone 4's to make use of it. I can see people who are really into video calling, buying one for themselves as well as their wives, girlfriends, kids, grandparents etc. In the past you could upgrade each phone on the family plan one at a time but this new feature begs you to buy multiple phones so that you can use it. It's no fun to have video calling if no one else can do it. This will mean that ATT/Apple will sell even more of these things and make even more money.</Content>
+	</Post>
+</Thread>

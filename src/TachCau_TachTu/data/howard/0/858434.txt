@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Just got my nexus one NAM : how do i get Froyo on this thing ?</Title>
+		<Username>goldsaint</Username>
+		<Datetime>05-27-2010 03:41 PM</Datetime>
+		<Content>Hey guys, very new to android OS, i red on internet how to get Froyo 2.2 and follow the instructions. But it failed as i get an error installation message. whats happening ? Also, i heard i have to unlcok the bootloader, that means to root the device right ? if so, all i need is to get the update. Somebody help me please on ''how to '' ? thx a lot</Content>
+	</Post>
+</Thread>

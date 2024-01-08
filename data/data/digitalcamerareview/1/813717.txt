@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>help for newbie</Title>
+		<Username>polly</Username>
+		<Datetime>07-08-2008, 03:56 PM</Datetime>
+		<Content>hi all i have had a decent digital cam for ages so am not totally new to this but i was thinking of getting the Canon EOS 400D Twin Kit any one know much about this camera thanks in advance polly</Content>
+	</Post>
+</Thread>

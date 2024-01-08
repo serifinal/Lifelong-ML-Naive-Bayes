@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Pioneer BDP-51/05 Owner's Thread FW 1.17 and higher</Title>
+		<Username>drkddell</Username>
+		<Datetime>11-14-08, 12:13 PM</Datetime>
+		<Content>The owners of the Pioneer BDP-51FD and Elite BDP-05FD have experienced a transformation of their players with the recent release of Firmware version 1.17. This thread is for owner's posts about the player with that firmware or higher. Please do not comment on players that have not had their firmware updated. The first 5 posts are being reserved for FAQs for new owners or members.</Content>
+	</Post>
+</Thread>

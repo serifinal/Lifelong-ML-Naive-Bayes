@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sharp Aquos LC-62C42U problem</Title>
+		<Username>p47at</Username>
+		<Datetime>12-20-08, 07:40 PM</Datetime>
+		<Content>Was watching my Aquos LC-62C42U today when the picture went blank. The power & OPC LED's blink twice, then the OPC LED blinks three times. Tried turning off & on again, and unplugged the set for about an hour to no avail. Any ideas?</Content>
+	</Post>
+</Thread>

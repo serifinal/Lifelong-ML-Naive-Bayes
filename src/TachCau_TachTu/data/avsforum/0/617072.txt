@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Signature 141 vs. Elite 151 Pioneers</Title>
+		<Username>corpfan1</Username>
+		<Datetime>06-20-08, 02:09 PM</Datetime>
+		<Content>Can someone list all the differences between these 2 models? If the exact same price, what are the advantages/disadvantages to each? All I know so far is... 141 - thinner/lighter, but no tuner/speakers</Content>
+	</Post>
+</Thread>

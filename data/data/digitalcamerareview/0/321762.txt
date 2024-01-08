@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Focusing Problems with my Canon Rebel XSI</Title>
+		<Username>dragonfly11m</Username>
+		<Datetime>11-13-2010, 05:07 PM</Datetime>
+		<Content>I have had this camera for about a year now and it worked great for several months. However, the last 4 months with this camera has been a nightmare because I can no longer focus consistently. When I first purchased the camera I am almost positive I could focus on an object at any distance. Obviously if an object was far away I could only zoom to a certain point, but the camera would zoom as close as it could and take the picture. Now if I try to zoom in on an object at a distance the camera will not focus enough to take the picture in auto mode. I can manually take the picture, but the picture is fuzzy. For instance, if I am across a room and try to zoom in on my son on the other side the camera will not focus and take the picture.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic px70 green line smack down the middle</Title>
+		<Username>pioneerman</Username>
+		<Datetime>14-01-2008, 3:54 PM</Datetime>
+		<Content>just appeared this morning when it was turned on ,any one else had this, dixons are sending engineer out thursday but any help in the meantime would be great.</Content>
+	</Post>
+</Thread>

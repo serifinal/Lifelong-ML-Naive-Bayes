@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>yet another convergence question - Epson 1080UB</Title>
+		<Username>steevo123</Username>
+		<Datetime>10-01-08, 07:45 AM</Datetime>
+		<Content>I just bought the 1080UB. The convergence is definatly off. One green here, one red here, etc. Esentially - all the lines on the grid have a red/green companion - probably about one pixel each. I guess my question is how picky should i be? How perfect should I expect that it can be before sending it back. Thanks much</Content>
+	</Post>
+</Thread>

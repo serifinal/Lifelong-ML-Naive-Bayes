@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Nexus One vs. iPhone</Title>
+		<Username>Andre71</Username>
+		<Datetime>01-09-2010 02:46 PM</Datetime>
+		<Content>http://www.fevermagazine.com/a/techn...vs-iphone.html Now that Google?s Nexus One phone has been revealed, the question everyone is asking is how does it compare to the other current top smartphones on the market, most notably, iPhone and Motorola Droid? Moreover, is it worth switching to Nexus One from your current device? BillShrink has put together a handy comparison chart that breaks the devices down (including Palm Pre too) on all key features. There are a few obvious differences ? the iPhone (iPhone) still lacks multitasking while the Android (Android) devices have fewer apps ? but for the most part, the devices are fairly similar on paper. The biggest difference is total cost of ownership, and Nexus One wins big there over iPhone and Droid because T-Mobile?s plans are less expensive than those offered by AT&T and Verizon, who carry the iPhone and Droid, respectively. But that comes with a caveat too ? T-Mobile?s 3G coverage isn?t on par with that of Verizon, and even trails that of the much maligned AT&T. Overall, it seems just about impossible to pick a winner just off the specs, but here?s a look at how the device?s stack</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best Value 37" TV for under £600</Title>
+		<Username>BnA</Username>
+		<Datetime>28-12-2011, 9:41 AM</Datetime>
+		<Content>Hi all, I'm looking for some advice. I'm currently refurbing our back room and want to have a 37" tv wall mounted approx 5 ft high (bottom edge) to be viewed from a normal sitting down on a sofa height. Its a lounge/diner arrangement which will be running a V+ box as its main input, as well as Apple TV. 37" is as large as I want to go given the dimensions of the room. Outside of the obvious picture quality, my Main Feature requirements are: 1) Must be able to play all the normal PC movie files via ethernet DNLA/UPNP (mkv etc...) - planning to run files from a Synology NAS. 2) Reasonable in built speakers are a must - this one wont be rigged up to surround sound as we have another setup in our main room. We already have a nice Panny 42" Plasma & Sony surround system for the films I'm not fussed on 3D - if its a feature then great, but not expecting much at my budget level. I've been looking at the Panasonic TX-L37E30B, but any advice greatly appreciated. Finally I dont want to pay more than £600 tops - that needs to include a decent warranty also. Thanks in advance</Content>
+	</Post>
+</Thread>

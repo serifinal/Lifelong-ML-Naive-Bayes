@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Can I add a line & do ESN swap t get an iPhone 4 @ $199?</Title>
+		<Username>Red Hood</Username>
+		<Datetime>06-09-2010 10:39 AM</Datetime>
+		<Content>Hey everyone, it's been awhile since I posted in the forums but I gotta question I hope someone can answer. Since my upgrade isn't until July 2011, can I add a line to my account to get the iphone 4 for $199 & then do an esn swap?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with ONKYO 606 and PS3 settings</Title>
+		<Username>andy4343</Username>
+		<Datetime>12-10-08, 02:46 PM</Datetime>
+		<Content>Having a little trouble and cant find my answer by searching........Anyways I have an ONKYO 606 hooked up to my ps3 through hdmi with 7.1 speakers........I know that not all movies have 7.1 sound but for some reason the sound only seems to come from the front speakers and does not seem like true surround sound.........when I play my xbox360 using component cables and optical cable the surround sound is much more immersive and sounds better......which obviousy should not be the case, as the hdmi and blu ray should be higher quality. The onkyo says multichannel in and hdmi during ps3 use.......I have the ps3 set to PCM and to accept all forms of audio since the onkyo can take care of all formats. What do I have to do with the PS3 settings and the ONKYO settings to get the best sound outputted? Any help will be greatly appreciated......thank you, Andy</Content>
+	</Post>
+</Thread>

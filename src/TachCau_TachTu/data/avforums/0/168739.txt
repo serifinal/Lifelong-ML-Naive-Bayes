@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>So what happened about VT30s +fbr?</Title>
+		<Username>indus</Username>
+		<Datetime>18-12-2011, 10:04 AM</Datetime>
+		<Content>Hi I have a VT30 65inch and was following the whole fbr issue day by day on here up until a few months ago. Then the TV had to be covered in plastic sheeting because we were having some building work done in the house. I unwrapped it after about two months the other day and updated the fw. I can still be fbr especially on Dragons Den reruns. Could somebody just quickly update me as to where we are with this issue? Thanks</Content>
+	</Post>
+</Thread>

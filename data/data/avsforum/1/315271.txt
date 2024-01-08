@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>andywhoa</Username>
+		<Datetime>09-16-08, 09:53 AM</Datetime>
+		<Content>I'm considering purchasing the Klipsch WF-35 set and the Pioneer VSX-94TXH. http://www.klipsch.com/products/deta...e-theater.aspx http://www.pioneerelectronics.com/PU...vers/VSX-94TXH The VSX-94TXH is boasting 140w x 7 @ 8ohms. My issue is with the WF-35's center (WF-24) and surround speakers (WS-24). Recommended power handling is 90w and 75w respectively (@ 8 ohms). Is there a way of limited power to these speakers which I'm unaware of? Or should I not worry about it? Thanks for your help</Content>
+	</Post>
+</Thread>

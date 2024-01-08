@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>FZ3 or S3IS</Title>
+		<Username>stiles</Username>
+		<Datetime>02-19-2007, 12:03 PM</Datetime>
+		<Content>Hi I am just starting out and I want a 12x CanonS3IS or Panasonic FZ3.Which one is a better "optics" and gives the best pics. and the simpler menu.Also when I soom in on my computer which of the two will give me the resolution the panasonic 3meg.pix & the cannon is 6meg.pix.thanks for any input Jim.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Ideal HT/Game room in my new house??</Title>
+		<Username>Gabe1103</Username>
+		<Datetime>04-21-08, 01:35 PM</Datetime>
+		<Content>Ok, I?m putting my student hat on and also my flame suit just in case? I tried the search function and didn?t find the results that I need or looking for? just bought a new house and need advise on which room I should use for a HT/Game room? here are the extra areas that I have available? 1 ? 10?x10? room (1st floor) 1 ? 11.5?x10.5? bedroom (2nd floor) 1 ? 13.5? x 14.5? open loft area (2nd floor) All areas has 8-ft ceilings. Are the rooms too small? Should I even consider the open area for the loft? Or should I suck it up and accept that I?m never going to have an HT with my home layout? I am also adding a link to the floor plan of the home just in case someone wants to see the layout. http://woodside-homes.com/docs/854_plan_1.pdf any thoughts, advice, or comments will be greatly appreciated. Thank you.</Content>
+	</Post>
+</Thread>

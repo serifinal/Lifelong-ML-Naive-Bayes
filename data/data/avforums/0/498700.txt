@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>thats my 42" gt 30</Title>
+		<Username>BOKOBOY</Username>
+		<Datetime>10-08-2011, 8:46 PM</Datetime>
+		<Content>done 200 hours could someone point me in the right direction for the best settings to watch footie on after being told plasma was best for sport its a bit jerky p.s. ive tried the official thread its like a book</Content>
+	</Post>
+</Thread>

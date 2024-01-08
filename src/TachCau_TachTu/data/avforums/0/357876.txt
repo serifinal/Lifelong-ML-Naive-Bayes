@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help me get the best out of new 50" Panasonic plasma</Title>
+		<Username>Barracca</Username>
+		<Datetime>03-02-2012, 10:51 PM</Datetime>
+		<Content>Hi, Can somene please advise everything I should be doing to get the best out of my Plasma? I have had a P50ST30 for about two weeks, but only got around to hooking it up yesterday. I know about the 'green tinge' issue, and straight out of the box I am seeing the 'green tinge' and also some 'pink tinge'. I have done nothing to this set as far as setting it up, just switched on and watching stuff in normal mode. I just have basic sky at the moment hooked up via a scart lead, and the picture isn't all that great - not the best detail, colour a bit too red, when faces move on the screen they very briefly lose definition and but look ok when not moving. Is the lack of high def material causing any of these problems? Just after some advice really (new to plasmas and high def...etc), mainly for the green tinge which is very evident (I know there is meant to be a f/w fix, but can I do anything first to try and improve my viewing?) I dont have blu ray player so cant test films yet. Thanks.</Content>
+	</Post>
+</Thread>

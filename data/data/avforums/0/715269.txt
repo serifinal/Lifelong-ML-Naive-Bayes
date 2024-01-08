@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help! Has the storms killed my Panny?</Title>
+		<Username>bradalax</Username>
+		<Datetime>07-08-2011, 12:03 AM</Datetime>
+		<Content>Hi, I bought a Panasonic TX-P42g10 from digital direct in 2009. Was watching TV till the wee hours last night (Friday). Saturday we had a terrific thunderstorm and a power cut. Just went to watch some tv - the unit switches on fine, can see all the menus no problem, but cannot get a picture from my Sky HD box, PS3 or Blu-ray player. (the latter two are through an amp. I pulled everything apart, unplugged the tv for an hour or so, then connected just the Sky HD box and the PS3 via HDMI straight into the TV bypassing the amp. No joy! Has the storm fried my telly? How do I go about getting it fixed? thanks</Content>
+	</Post>
+</Thread>

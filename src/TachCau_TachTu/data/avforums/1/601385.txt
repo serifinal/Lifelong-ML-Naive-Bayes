@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Thinking of buying a plasma</Title>
+		<Username>54xhg</Username>
+		<Datetime>14-12-2011, 10:41 AM</Datetime>
+		<Content>H,I'm thinking of buying a plasma tv,the one which i am looking at is the panasonic GT30 it will be replacing my sony lcd and it will be my first plasma,i will be using the tv mainly for sky HD and blu ray,i do not have a games console,with it being my first plasma i am a bit worried about image retention when watching sports(i.e.football,cricket)with the on screen graphics i also watch a lot of the news channels and skysports news which also have a lot of on screen graphics,so will i be ok to watch things like that for the first 200 hours. Thanks,Andy.</Content>
+	</Post>
+</Thread>

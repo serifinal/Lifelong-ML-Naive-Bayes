@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung 51D8000 VS 51D6900 Plasma</Title>
+		<Username>CapoJay</Username>
+		<Datetime>21-02-2012, 12:18 PM</Datetime>
+		<Content>Hi Guys, After a dreadful experience with a green blobbed GT30 from a certain Japanese manufacturer i am in the market to buy a 2011 Samsung plasma (as i cannot bear to wait til the over-priced 2012 models appear). Reading the reviews on here and the web i cannot really see a vast difference between these two models apart from price and freesat capabilities. Am i missing something? I also read that the black levels and response time are actually better on the D6900 (these are the most important factors for me personally). I was just wondering what owners of these two models have to say regarding these and other aspects, expert opinion would also be greatly appreciated. I know this may appear lazy but i really have trawled the internet and i am none the wiser. Cheers Jay</Content>
+	</Post>
+</Thread>

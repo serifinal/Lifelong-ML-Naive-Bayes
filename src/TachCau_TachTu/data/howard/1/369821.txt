@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Wave</Title>
+		<Username>GRANDISON</Username>
+		<Datetime>06-07-2010 09:11 PM</Datetime>
+		<Content>http://mobilesyrup.com/2010/05/16/sa...l-this-summer/ So any word on when the wave is coming to bell. Iphone 4 looks interesting ( seriously why is it so bloody popular, its not like it is revolutionary or anything...) but im more interested in the wave. Mobile syrup says summer but a specific date would be nice.</Content>
+	</Post>
+</Thread>

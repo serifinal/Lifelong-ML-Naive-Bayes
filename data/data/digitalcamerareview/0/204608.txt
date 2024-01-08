@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>White spots on SD870IS model pictures?</Title>
+		<Username>BethL</Username>
+		<Datetime>01-10-2008, 06:02 PM</Datetime>
+		<Content>I purchased the Canon Powershot SD870 IS camera before Christmas. So our family Christmas celebrations were the first shots I took on the camera. When I got the pictures back, there were mysterious white spots on many of the pictures. Sometimes they were tiny - pen head size - and other times they were the size of a dime. They moved around - they were never in the same place in any of the photos so I didn't think there was just a spot on the lens. I exchanged the camera thinking there was an issue, but the same model I brought home today appears to be doing the same thing. I haven't developed the photos yet, but I can see on the LCD where there are small white spots on a few of the photos. I use the Auto mode - I haven't changed any of the settings on the camera. So the flash is on with most of the photos since I have been taking inside shots. Have you ever heard of this problem and what am I doing wrong?!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung LNT4061 firmware updates?</Title>
+		<Username>emills01</Username>
+		<Datetime>12-03-08, 10:34 PM</Datetime>
+		<Content>Have there been any firmware updates for the Samsung LNT4061? Do they have a page where one could check on any?</Content>
+	</Post>
+</Thread>

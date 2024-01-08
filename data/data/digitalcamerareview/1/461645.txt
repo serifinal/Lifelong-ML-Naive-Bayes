@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Reviewing SD1200 photo memory</Title>
+		<Username>PRCDIG56</Username>
+		<Datetime>09-26-2009, 10:09 AM</Datetime>
+		<Content>Hi folks, I guess there is none? What does this mean? So some type of memory card has to be bought before using this camera? How many pics can I hold on any particular size card? What type to buy for amatuer type photos? As you can tell I am new to this so bear with me. Will this canera allow me to download photos w/o a 2.0 USB port? I have an older laptop with Windows XP but the older USB port? Is this an ok camera for vacation type photos? Thanks paul</Content>
+	</Post>
+</Thread>

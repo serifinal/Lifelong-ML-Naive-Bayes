@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon 350d</Title>
+		<Username>mamaoftwobusyboys</Username>
+		<Datetime>10-20-2011, 06:29 PM</Datetime>
+		<Content>my husband bought me a canon 350d rebel used and it is wonderful just have a few questions as i am still learning the camera. the other night I was at the beach with a friend and we wanted to take some pictures when i put it on the night setting it seemed that the shutter froze for a second in between shots is this just the way that setting works or is it a bigger issue? Emily</Content>
+	</Post>
+</Thread>

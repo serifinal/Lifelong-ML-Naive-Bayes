@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SAMSUNG LE40C750 or Samsung PS50C680</Title>
+		<Username>Mr Faust</Username>
+		<Datetime>26-11-2010, 4:14 PM</Datetime>
+		<Content>Sorry if this is a repost, im posting this in excitment as Currys are doing deals on 3D TVs again and id really like some advice and opinions on which is the better deal. SAMSUNG LE40C750 40" Full HD 3D Ready LCD TV with Free Shrek 3D - The Complete Collection, Free 3D Blu-ray player and 2 pairs of 3D glasses £848.00 SAMSUNG LE40C750 40" Full HD 3D Ready LCD TV with Free Shrek 3D - The Complete Collection, Free 3D Blu-ray player and 2 pairs of 3D glasses buy online | Currys or SAMSUNG Samsung PS50C680 50" Full HD Plasma 3D TV with Free 3D Blu-ray player, Shrek 3D - The Complete Collection and 2 pairs of 3D glasses £898.00 SAMSUNG Samsung PS50C680 50" Full HD Plasma 3D TV with Free 3D Blu-ray player, Shrek 3D - The Complete Collection and 2 pairs of 3D glasses buy online | Currys Many thanks in advance... Faust</Content>
+	</Post>
+</Thread>

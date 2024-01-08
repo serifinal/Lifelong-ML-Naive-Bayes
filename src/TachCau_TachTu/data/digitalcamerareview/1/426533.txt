@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Opinion needed for Canon 55mm f1.8 lens</Title>
+		<Username>roadkill401</Username>
+		<Datetime>12-27-2008, 07:52 AM</Datetime>
+		<Content>I have heard them refered to as 'plastic fantastic' version, as they are made with plastic bodies. I don't know if it is just an iteration play on words, and a sarcasm. Meaning it is really a piece of junk, but as fantastic rymes with plastic, it's used. I am heading off to England in about 4 months time, and am planning on going on a photo spree of the sate homes and castles in the area. As most of these are pretty big and on the dark side, I know I will need a wide angle lense with a pretty low f value. As I have no experiance with shooting in these conditions, I am not sure if getting the 50mm f1.8 will be a good enough lens to get the shots that I want. The price for the lens is pretty cheep, but I don't know if that is reflective on the quality. Moving up to an f1.4 costs about 4x more, and I don't know if it is better to get a tripod and the cheeper lens. Right now I have a canon 40D, but as I just got it I may be returning it and moving up to the 50D as it cost just another $150 over what I paid for the 40D. Any advise is appreciated. Matt</Content>
+	</Post>
+</Thread>

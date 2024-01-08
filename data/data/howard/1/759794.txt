@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Wait in line at Walmart or Apple store...and why?</Title>
+		<Username>dinosaur1</Username>
+		<Datetime>06-16-2010 06:14 PM</Datetime>
+		<Content>Which will be the better way to get a guaranteed iPhone 6/24?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,4 @@
+nvidia 180.43 beta .
+nvidia driver 180.43 beta is out http://www.nvidia.com/object/winxp_180.43_beta.html havent installed yet .
+prob will fix the manual fan control .
+will see how it will perform vs the 180.42 in fc2 later .

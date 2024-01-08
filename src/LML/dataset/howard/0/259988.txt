@@ -1,0 +1,3 @@
+server error with jailbreakme.com .
+i am trying to jailbreak with jailbreakme.com , but everytime i do i keep getting the error , `` a server with the specified host name could not be found . ''
+is there a fix ?

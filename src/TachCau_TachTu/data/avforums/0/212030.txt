@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma HELP!!</Title>
+		<Username>dbd</Username>
+		<Datetime>01-02-2012, 8:13 PM</Datetime>
+		<Content>Hi everyone, I turned my Panasonic TH-37PX80B Plasma on tonight and all I get is the green light flashing away, then it clicks like its going into standby but then starts flashing again. I don't get the red light light flashing at all like all the other problems I've found when searching for the problem. The screen starts working as you can noticably see it light up slightly but it stays black. Any ideas anybody? It's almost 4 years old now so probably well out of warranty.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>fuzzy movie with SD1400IS</Title>
+		<Username>rm00k</Username>
+		<Datetime>12-17-2010, 05:07 PM</Datetime>
+		<Content>Just wondering if there is anything I can do about fuzzy video. I bought the camera partly to get better video than my way old Kodak Easyshare (2 mp and 15fps) but this isn't. When I pause the playback movement is blurred, even with recording HD at 30fps. Anyone else notice this and is there some setting that will sharpen up the video?</Content>
+	</Post>
+</Thread>

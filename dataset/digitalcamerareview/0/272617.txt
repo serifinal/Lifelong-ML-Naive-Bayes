@@ -1,0 +1,13 @@
+miscolored `` blob '' in canonpsa95 images .
+yeah , i did n't find any better words to describe the problem ... but the images will speak for themselves .
+the blob only appears only on -lrb- approximately -rrb- even backgrounds -lrb- e.g. , sky -rrb- and only if the background is not very bright or very dark .
+that 's why it 's invisible in perhaps 95 % of the photos that i take .
+it 's very discrete in most of the other 5 % , too ... but sometimes it is annoying .
+it is not dirt on the outside of the lens , i clean that often .
+does anybody have any idea what is the cause ?
+and if so , whether it can be fixed `` at home '' without service ?
+e.g. , cleaning the inside of the lens somehow .
+because sending it into service is not worth it , in that case i 'd rather buy a new camera -lrb- in half a year or so -rrb- .
+in order not to mask the blob , i did very discrete gray and red outlines around it in the photos below .
+the last one is one of the worse cases .
+if you tilt the lcd -lrb- if you 're using a laptop -rrb- you might be able to see the blobs better .

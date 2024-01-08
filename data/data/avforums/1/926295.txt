@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New plasma care help</Title>
+		<Username>Chenz</Username>
+		<Datetime>11-08-2011, 4:50 PM</Datetime>
+		<Content>Hi guys, 1st post so this is me introducing myself. I'm off to Seven Oaks sound tomorrow to check out this deal Panasonic TX-P42GT30B 42" 3D Plasma TV (Full HD) (Claim Free 5YG / 2 Pairs of 3D Glasses) @ £979.00 I think there's a real possibility I'll be bringing her home with me! So I'm hoping for some advice on settings from other owners as it's my first plasma-well first anything for a lot of years. My Panasonic Quintrix is just looking old these days. I'm a bit wary of doing it any damage. Thank you in advance.</Content>
+	</Post>
+</Thread>

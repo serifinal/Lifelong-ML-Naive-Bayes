@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CPS or Mack - does it matter?</Title>
+		<Username>tonyptony</Username>
+		<Datetime>05-08-08, 07:45 AM</Datetime>
+		<Content>I have a few weeks left to pick one of these guys for an EW on my 1150HD. I've already decided I want a 3-year EW so that's not the question. I'm wondering if either of these guys' Ts & Cs are any better than the other. Does one have coverage for some failure conditions that the other doesn't? Does one have more loopholes to get itself out of having to cover things? Do they both deal with factory authorized local repair centers? I tried going through their respective fine print but it got me discombobulated real quick. Hoping others can enlighten me.</Content>
+	</Post>
+</Thread>

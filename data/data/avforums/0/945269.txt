@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer PDP LX5090 - how does it rate now?</Title>
+		<Username>slugger1</Username>
+		<Datetime>08-07-2011, 2:45 PM</Datetime>
+		<Content>As the title suggests, how does this TV rate now against the current crop of plasmas and LCD's on offer? I have owned this TV for a couple of years now and feel that it has improved with age. It was muted as the 'best' TV when it was first released but has it been superseded and if so by what? Just interested in case I feel the need to replace it!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma buzz with settings low</Title>
+		<Username>xabi</Username>
+		<Datetime>08-12-2011, 3:27 PM</Datetime>
+		<Content>My Panasonic 50UT30B buzzes on bright images while I have the settings low for run in. If I Increase the Contrast or use Dynamic mode the buzz is less noticable - everything I have read on plasma buzz suggests that it should buzz more at higher contrast levels, but mine is the opposite - does that sound normal</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Good camera for low light?</Title>
+		<Username>Michelle,NY</Username>
+		<Datetime>06-22-2008, 06:23 PM</Datetime>
+		<Content>Can anyone recommend a Canon camera that takes great pictures in low light using auto mode?</Content>
+	</Post>
+</Thread>

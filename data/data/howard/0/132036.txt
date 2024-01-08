@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>NEW. Use Google voice as Skype's CID! Tweet tweet</Title>
+		<Username>CA</Username>
+		<Datetime>04-29-2010 10:00 PM</Datetime>
+		<Content>I don't know how to do it but Google Voice Voice/Caller ID setup now works! There is a Skype update so do it first. Set Google Voice as Your Skype Caller ID A Google Voice number, one that rings all your phones, makes good sense as the caller ID number for outgoing Skype calls. Google Voice blocked the verification SMS that Skype needed until recently, but Google's flipped the switch and made it convenient. John, a Lifehacker reader and fan of Google Voice and Skype, tipped us off to a tweet from a Google Voice team member that indicated the Google Voice/Caller ID setup now works. You'll have to respond to the SMS sent to your Google Voice number, but once you do, people you call with Skype's "Skype Out" service won't see a random string of digits, but a number they can actually call you back on. http://lifehacker.com/5527273/set-go...ll+(Lifehacker)</Content>
+	</Post>
+</Thread>

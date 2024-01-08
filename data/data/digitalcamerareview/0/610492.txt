@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CanonSD750 picture lag question</Title>
+		<Username>SonDan</Username>
+		<Datetime>08-13-2007, 06:21 PM</Datetime>
+		<Content>Hello, I have had my first digital camera (SD750) for about two weeks now and have read the manuals cover to cover numerous times and done lots of experimenting. I figured out that I don't have a lag taking the shot if I hold down my shutter to focus ... then compose & shoot. But it still takes what seems like FOREVER to take my next shot because the picture I have just take displays on the LCD screen forever! What setting have I overlooked that can be changed to shorten and/or eliminate the display of the photo just taken? Thank in advance.</Content>
+	</Post>
+</Thread>

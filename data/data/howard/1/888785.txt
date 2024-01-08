@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>FT: Google Nexus One (AT&T 3G bands)</Title>
+		<Username>turniphead</Username>
+		<Datetime>06-12-2010 09:14 AM</Datetime>
+		<Content>I have a brand new in box nexus one that comes with all original accessories and a 16GB sd card. Looking for a blackberry bold 9700 or HTC HD2 or iPhone 3GS or some nice device. PM me if you have any questions.</Content>
+	</Post>
+</Thread>

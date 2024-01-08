@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>it it me or are the new flat panel tvs not holding up</Title>
+		<Username>v6blue200k</Username>
+		<Datetime>04-22-08, 03:51 PM</Datetime>
+		<Content>I mean older tvs lasted along time. Now it seem you can get a tv to last past 2 or 3yrs...Why seems like the plasma it doesnt matter who makes there is problems with them. Is there any flat panel out there that has no problems...just asking...</Content>
+	</Post>
+</Thread>

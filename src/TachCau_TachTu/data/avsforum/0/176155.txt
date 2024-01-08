@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Ln37a550 vs. Panasonic Th-42pz80u</Title>
+		<Username>timmy1703</Username>
+		<Datetime>09-24-08, 03:40 PM</Datetime>
+		<Content>Hey everyone, I recently bought the samsung ln37a550 lcd tv but am wondering should I have gone with the panasonic plasma Th-42pz80u. I work for a major retailer selling home theater equip. and I thought I preferred LCD however most of my co-workers like the plasma more and it has me second guessing my purchase. What you need to know: - I have the worst cable/SAT provider ever. It's NTC who provides to college living communities (I do not have the option to switch) - A majority of what I watch is House, The office, NFL, and other prime time shows. - I also play video games, I have an xbox 360 and wii in which i play rock band and gears of war the most. - I don't watch DVD's too frequently however I use my xbox 360 as of now but plan on getting a blu-ray player around christmas I don't feel the SD or HD signal is up to par but I have no way of determining it is the TV or the signal coming from my provider. Your help/opinions would be much appreciated!</Content>
+	</Post>
+</Thread>

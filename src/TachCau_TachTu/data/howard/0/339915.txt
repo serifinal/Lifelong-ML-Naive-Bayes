@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: LNIB HTC Hero Unlocked (Rogers/Telus/Bell)</Title>
+		<Username>Awryter</Username>
+		<Datetime>03-20-2010 10:41 AM</Datetime>
+		<Content>Just bought my N1, so I'm selling a well-maintained, white Telus HTC Hero, unlocked to any 3G frequency. Phone has no marks except a slight scratch on the back of the phone, which is replaceable. Screen is mint, no scratches at all. Currently has a Gold Card SD card in it, meaning any ROM can be installed on the phone. Has a 2GB card in it at the moment. Phone has VillainROM 4.0 ROM on it right now, which is a direct port of the HTC Legend 2.1 build. Runs flawlessly, fast, and has the new Sense UI from HTC. Looking for $360 OBO. Comes with box and all accessories. Meet up in GTA, or anywhere on the subway line.</Content>
+	</Post>
+</Thread>

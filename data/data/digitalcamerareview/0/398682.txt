@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>blurry pics with sd630. need help</Title>
+		<Username>NOSintake</Username>
+		<Datetime>04-29-2006, 10:17 PM</Datetime>
+		<Content>ok, i just got my sd630 today, and i must say, i love this thing. still trying to work thru some things, but its good. but one thing that is killing me, is how blurry the pictures are without the flash. is there any real way to fix this?</Content>
+	</Post>
+</Thread>

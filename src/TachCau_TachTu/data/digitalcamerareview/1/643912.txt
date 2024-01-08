@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon SX10IS: Flash and Geotagging</Title>
+		<Username>robwilkerson</Username>
+		<Datetime>12-06-2009, 11:10 AM</Datetime>
+		<Content>Hey all - About a year ago, I bought a Canon SX10IS. I love shooting, but I'm not technically competent enough to justify the purchase of a DSLR. This is a great, glorified snapshot camera with a great zoom and, at least for now, is working for me. Except: 1. I'm absolutely kicking myself for not finding out whether the camera had a GPS for geotagging. Doing this manually sucks and is hardly accurate unless I'm pretty familiar with my surroundings. Are there any external options for saving GPS data in the photo's exif data? 2. The built-in flash...blows. Can anyone recommend a decent after market flash? I'd like one that allows me to adjust the directionality and perhaps even comes with a diffuser. Any thoughts would be much appreciated. Rob</Content>
+	</Post>
+</Thread>

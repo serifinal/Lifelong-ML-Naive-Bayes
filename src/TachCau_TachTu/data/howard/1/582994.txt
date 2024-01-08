@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>My iPhone is sold... Nexus One on its way....</Title>
+		<Username>EliteABombAZ</Username>
+		<Datetime>01-07-2010 08:14 PM</Datetime>
+		<Content>Loved the iPhone but wanted something new. Besides... the fact that iPhonw always wants to replace the word "kids" with "Kidd" was annoying the hell out of me. Jason Kidd sucks!</Content>
+	</Post>
+</Thread>

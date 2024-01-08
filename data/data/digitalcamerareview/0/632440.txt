@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Image is blurred its so frustating can anyone pls help..</Title>
+		<Username>mahima</Username>
+		<Datetime>02-07-2009, 04:49 PM</Datetime>
+		<Content>hi...Its frustating to see the pictures in blurr..or in changed color.can anyone pls help.camera is cannon powershot S 500.</Content>
+	</Post>
+</Thread>

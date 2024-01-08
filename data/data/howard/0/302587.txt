@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anyone ever try to put ur data/voice plan sim card on your Rogers 3G rocket stick?</Title>
+		<Username>cjbling888</Username>
+		<Datetime>12-10-2009 01:56 AM</Datetime>
+		<Content>Hi just wanna know if it works or not, when I put my rocket stick simcard on my BB 8900 it works fine just i dun have a voice plan with me so I get charge $1 a min if i ever place a call, but its fine when I browse the internet. So anyone try to use a data/voice plan sim card for the rogers 3G rocket stick?? I wonder if it will work the other way around...</Content>
+	</Post>
+</Thread>

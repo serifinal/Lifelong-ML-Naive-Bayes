@@ -1,0 +1,14 @@
+ca n't get new laptop to output to my philips hdtv .
+so i just bought an hp laptop -lrb- dv4-1117nr -rrb- and i have hooked up the hdmi output to my philips 34pw9819/17 hdtv -lrb- with a dvi input -rrb- , with no luck .
+i bought a dvi female to hdmi male adapter and hooked it to a dvi cable to the tv -lrb- bestbuy.com/site/olspage.jsp?skuid=7129396&st=hdmi+to+dvi&lp=1&type=product&c p = 1 & id = 1110262781781 -rrb- .
+the screen just stays black , which means that something is happening , otherwise blue .
+but i can swear that i have tried every possible graphic properties option and it will not work .
+i know that there are things like hdcp , but i have read the specs for both devices and they say that they are compliant .
+philips manual says : `` dvi - dvi is a specific digital input allowing encrypted transmission of uncompressed hd content .
+dvi includes hdcp -lrb- high-bandwidth digital content protection -rrb- , which is supported by hollywood , satellite providers , and most of the consumer electronics industry .
+dvi is gaining momentum and quickly becoming an industry standard for the consumer to view high-definition material while keeping content protected . ''
+also : `` note : this television is designed to accept high definition signals 1080i and 480p as specified by the electronic industries association standard eia770 .3 .
+digital devices from different manufacturers have the possibility of differing output standards which my cause difficulties for the television to properly display . ''
+i tried a single link hdmi to dvi cable today and it did the same thing ... otherwise it could be my video card , but it is hdcp too ... -lrb- mobile intel -lrb- r -rrb- 4 series express chipset family -rrb- sorry to write so much , but i 've done my work trying to figure this one out .
+and it wouldnt let me post a link yet , so i took the www out .
+thanks , scott

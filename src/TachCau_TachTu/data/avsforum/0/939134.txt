@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>[UK] Dumb & Dumber Coming to Blu-Ray December 15th-</Title>
+		<Username>Spizz</Username>
+		<Datetime>09-07-08, 03:13 PM</Datetime>
+		<Content>Saw it up on Amazon.co.uk. Hopefully a US release is out the same time. Such a funny film. http://www.amazon.co.uk/Dumb-Dumber-...dp/B001FB0WB0/</Content>
+	</Post>
+</Thread>

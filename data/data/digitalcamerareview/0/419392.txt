@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Canon SD790IS - busy sign and "unidentified image"</Title>
+		<Username>nhetzky</Username>
+		<Datetime>12-25-2010, 06:59 AM</Datetime>
+		<Content>my memory card is SDHC 4G (Sandisk) but still memory card error persist and unidentified image on some of my photos. how to fix it? Please help me.</Content>
+	</Post>
+</Thread>

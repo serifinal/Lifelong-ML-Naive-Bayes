@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung 650 vs 750</Title>
+		<Username>WatchdogXC</Username>
+		<Datetime>08-16-08, 12:13 PM</Datetime>
+		<Content>I've been looking into getting a 46" Samsung 650 for quite some time and am ready to pull the trigger finally and my parents are going to get a 52" of their own as well. One thing I've noticed though is that I've found the price of the 750 46" model to be within $100 of the 650. I've been set on the 650 since before summer but now might need to check into getting the 750 if it worth the extra for the features. I don't have a surround sound system yet so the woofer could be nice. My biggest worry is the halo effect that I've read about the 750 series and the fact that it isn't a swivel stand. Anybody have any comments that have both models or have spent significant time with each?</Content>
+	</Post>
+</Thread>

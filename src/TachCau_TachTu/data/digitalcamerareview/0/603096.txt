@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>problem of unidentified images</Title>
+		<Username>Adewunmi</Username>
+		<Datetime>08-29-2010, 02:43 PM</Datetime>
+		<Content>My canon digital camera has been showing unidentified images for the past few days.Please, how can this problem be rectified?</Content>
+	</Post>
+</Thread>

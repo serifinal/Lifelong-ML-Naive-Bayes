@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola DROID X Firmware update (.604) and Hardware tracking thread</Title>
+		<Username>FAUguy</Username>
+		<Datetime>07-15-2010 07:51 AM</Datetime>
+		<Content>Use this thread to post the software version and date code of your Droid X. The X should come with firmware 1.13.516 but there is an over-the-air-update that (should) update it to .604 firmware. If it doesn't update you might want to try a factory reset, then have it check for the update You guys can post the date code on the back label if it differs from 25/10 (week/year).</Content>
+	</Post>
+</Thread>

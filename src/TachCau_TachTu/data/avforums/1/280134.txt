@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Why does my heart say one thing and my head say another!?</Title>
+		<Username>billyboy2012</Username>
+		<Datetime>24-01-2012, 6:37 PM</Datetime>
+		<Content>Hi guys I need to buy a 50-55" TV pronto- before the decent discount stuff has all sold and i get forced to pay the full RRP of the new models in Aprilish However- im in a total dilemma! My heart says get a 50" GT30 with 5 yr warranty. Take the risk of the green blobs- if you notice it (which you prob wont!)- you can always return & refund and put the money towards a GT50. My head says that plasma isn't for you. You watch TV during the day sometimes. The room is bright although there wont be any direct glare on the screen. It will cost more to run and if the TV will last you perhaps 8-10 years- it may be an extra £600 to run the plasma. Get a 55" LED samsung 6530. The plasma offerings from Samsung dont appeal. Im not sure why. Either plasma is right- in which case the pannys are the best (provided you get a 5 yr warranty)- or LED is for me! Im finding this decision vvv tricky. I will be spending another £1k on sound/amp/bluray player so want the TV to make the most of it (and visa versa) Interested in anyones opinions. This is exhausting! lol.</Content>
+	</Post>
+</Thread>

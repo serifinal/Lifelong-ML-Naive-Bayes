@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon EOS Rebel T1i</Title>
+		<Username>Leidyfamily1</Username>
+		<Datetime>12-24-2011, 11:55 AM</Datetime>
+		<Content>is there a way to adjust the settings to be able to take pictures through the view screen rather than the view finder (eye hole)?</Content>
+	</Post>
+</Thread>

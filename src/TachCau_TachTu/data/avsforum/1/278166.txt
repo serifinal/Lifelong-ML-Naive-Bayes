@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PZ85 vs PZ80</Title>
+		<Username>arvind_SD</Username>
+		<Datetime>09-14-08, 12:59 AM</Datetime>
+		<Content>I am trying to decide b/w a 42 inch PZ85 and PZ80. Does the 30k:1 vs. 20K:1 contrast ration make a big difference in PQ? Is there any other big difference in PQ or features between the two? I don't think I will e using the PC input too much? BTW, what does the THX on the 800 do? Bottomline pricewise: Fry's has the 80 it for 1270 incl tax, shipping & 5 year warranty. The 85 is 600 bucks more Amazon: Has 80 for 1100 and 85 for 1180. But cannot find warranty information. Anybody know how to add warranty to TVs in Amazon for Panny's? Thanks, Arvind</Content>
+	</Post>
+</Thread>

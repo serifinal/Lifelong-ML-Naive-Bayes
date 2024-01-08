@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Droid Tips and Tricks....</Title>
+		<Username>toker11</Username>
+		<Datetime>11-13-2009 10:18 AM</Datetime>
+		<Content>anyone know of any good sites that have forums with some good tips and tricks for this phone? so far i love it...just trying to figure out how and why it does some of the things it does...</Content>
+	</Post>
+</Thread>

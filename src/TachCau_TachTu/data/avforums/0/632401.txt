@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>First Plasma TV - Questions within</Title>
+		<Username>kraventhehunter</Username>
+		<Datetime>09-02-2012, 2:53 PM</Datetime>
+		<Content>I just bought and have installed a Panasonic TC-P65GT30 TV. Picture quality looks oustanding (played a few blue ray movies and it was very crisp). I use Time Warner Cable and they output in 1080i. I noticed last night that during ending credits of a show etc that would have a black background, there was weird lines that would run across the screen in the black areas. Since I just got it I have not gotten it calibrated and I just kept it on the Standard Setting (used THX on my blueray movies though). Is this normal and will be able to be adjusted out once I have it calibrated? I did not notice this during the blueray movie .. thanks, Gary</Content>
+	</Post>
+</Thread>

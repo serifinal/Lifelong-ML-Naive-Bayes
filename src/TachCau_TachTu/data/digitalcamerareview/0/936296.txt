@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Newbie needs help</Title>
+		<Username>allman304</Username>
+		<Datetime>01-08-2012, 07:24 PM</Datetime>
+		<Content>I just bought the Rebel t3 bundle with 18x55 and 75x300 lenses. Is there a power zoom on this camera? I can zoom manually and take a picture but when I try to use the zoom buttons it takes the picture from the original view. I have checked the manual and google and I just can't figure it out.</Content>
+	</Post>
+</Thread>

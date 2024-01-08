@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>AT&T transfer/port my current SIM onto a microsim even if I dont have iPhone4</Title>
+		<Username>demenion</Username>
+		<Datetime>06-16-2010 11:40 AM</Datetime>
+		<Content>Hi... Does anyone know if AT&T would transfer my current sim onto a microsim?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>what replaced the lg50pk350?</Title>
+		<Username>maxflinn</Username>
+		<Datetime>11-07-2011, 4:11 PM</Datetime>
+		<Content>i used to own a pk350, great tv but i recently had to sell it unfortunately. i thought it was tremendous value for money, i'm now looking for a new 50in plasma (on a very tight budget sadly) so i figured i'll look at lg first. so i'm wondering what is it's replacement? or what current lg plasma would be closest to it in terms of spec? thanks..</Content>
+	</Post>
+</Thread>

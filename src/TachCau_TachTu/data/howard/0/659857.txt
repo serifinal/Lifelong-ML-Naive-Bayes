@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant shuts off, won't start up</Title>
+		<Username>missviolet</Username>
+		<Datetime>08-22-2010 09:22 PM</Datetime>
+		<Content>I'm hoping someone can give me some tips. I bought the Samsung Galaxy S Vibrant through Bell 2 days ago. Since then it froze up once, twice it shut down on me. I put the phone down, went to use it and the screen was blacked out, nothing worked. I ended up taking the battery out and re-installing to turn the phone back on. Since I've only had it two days I'm a little concerned, it's also my first smart phone so I'm not sure if this type of thing is common. Thanks a bunch</Content>
+	</Post>
+</Thread>

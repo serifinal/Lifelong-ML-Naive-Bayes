@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Powershot S95</Title>
+		<Username>docent</Username>
+		<Datetime>10-16-2010, 02:29 PM</Datetime>
+		<Content>Hello - I read somewhere in these posts, that the S90 is almost identical to the new S95, is that correct? I am looking to purchase a S95, because the ads claim a better picture in low light conditions, and the image stability. These cameras, from what I have found so far, are about $100 apart in price. The S95 are selling on line around $399, and the S90's about $300. So, if they are the same, just a newer addition, I probably should be looking for the S90, since there seems to be better deals on them, and there are tons of used ones for sale. What do you think? Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Photostitch Copy / Replacement?</Title>
+		<Username>E.B.E.</Username>
+		<Datetime>09-21-2006, 10:15 AM</Datetime>
+		<Content>Hi, I've lost my Canon installation CD (don't know where, don't know when, but I no longer have it ). I don't need any of the cr_p on the CD except the PhotoStitch to make panoramic pictures. Could anyone provide me (in a legal fashion) with a copy of the software / ISO of the PowerShot A95 installation CD? Since I own the camera I am entitled to a copy of Photostitch... On the support website only updates are available, not the installation kits themselves. Alternatively, can anyone point me to a good replacement software? (freeware preferably). Thanks, E.B.E. Edit: Oh by the way PowerShot A95 is a fine machine had one in a car accident once, the LCD backcover is bent and the zoom mechanism clicks sometimes, but it's still working nevertheless. 4 bad pixels on the CCD but that's to be expected after 1.5 years I presume.</Content>
+	</Post>
+</Thread>

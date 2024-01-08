@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New official Geforce 175.12 beta drivers released</Title>
+		<Username>HDGT</Username>
+		<Datetime>04-28-08, 12:06 PM</Datetime>
+		<Content>http://www.nvidia.com/object/winvista_x86_175.12.html http://www.nvidia.com/object/winvista_x64_175.12.html New beta drivers for Vista only, there's no XP driver releases yet.</Content>
+	</Post>
+</Thread>

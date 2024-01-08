@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How</Title>
+		<Username>dms541</Username>
+		<Datetime>05-08-08, 03:47 PM</Datetime>
+		<Content>Please post your settings for your Samsung LNxxA750 TVs in this thread. *****Link to owners' thread**** http://www.avsforum.com/avs-vb/showthread.php?t=1025681 **************************</Content>
+	</Post>
+</Thread>

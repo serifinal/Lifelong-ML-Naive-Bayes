@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung A650 vs. Toshiba 530U vs. Panasonic LZ800</Title>
+		<Username>ninjurai</Username>
+		<Datetime>06-11-08, 12:27 AM</Datetime>
+		<Content>I'd like to start off by saying I've been following a few threads on here for awhile and been doing some research and narrowed my choices down to these three screens. I'm looking to buy a new LCD TV for when I move into my new house in the next month or so. I want to buy a 32" or 37" set and It will mostly be used for watching HD-DVD Movies, Xbox 360 and PC Input through HDMI. My laptop has an HDMI output so that's how I will be hooking it up. I'm looking for the tv with lowest input lag as that is a big factor to me for gaming, as well as using the screen as a monitor for my laptop. What set do you think has the best overall color reproduction, as well as black levels, etc and so on. Any input would be appreciated. I'm in no hurry to buy one at the moment, so I'm just trying to do all my research before I pull the trigger on one of these LCD's Thanks</Content>
+	</Post>
+</Thread>

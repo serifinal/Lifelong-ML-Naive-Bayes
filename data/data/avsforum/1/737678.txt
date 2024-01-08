@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which LCD Flat Panel has best built in ATSC OTA HD TV tuner?</Title>
+		<Username>dcc</Username>
+		<Datetime>11-29-08, 01:58 PM</Datetime>
+		<Content>After reading about what appears to be a pretty wide range in quality regarding the tuners in the CECB's and their ability to pull in and lock in to OTA SD Digital TV signals, I am wondering if the same pattern holds true for the ATSC tuners built in to the latest generation of flat panel LCD's and their ability to receive and hold OTA HD signals? Is there a wide range in quality here? Do any vendors' built in tuners really stand out as the best? Is there a worst to avoid? Am looking for a 37" or 40" LCD that will be used primarily to receive OTA HD and to connect to a new HTPC - so really want the set to find and maintain any available OTA HD signals. Did a couple advanced searches on this and didn't see a definitive thread on it. If one already exists, a link would be appreciated. Thanks DCC</Content>
+	</Post>
+</Thread>

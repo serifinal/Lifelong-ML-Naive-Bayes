@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does Panasonic VT30 support MHL/Mobile High-Def Link?</Title>
+		<Username>Blue Ray</Username>
+		<Datetime>14-01-2012, 8:56 AM</Datetime>
+		<Content>MHL/Mobile High-Definition Link is an interface for phones such as Samsung Galaxy S2 allowing direct connection to the TV by way of mini USB to hdmi. There's some variants of this, such as mini USB to hdmi adapter then an hdmi lead to the TV but these invariably need a power source plugged into the adapter - more power points to find, more clutter, more hassle. The beauty of MHL is simultaneous charging of the phone via the TV. I guess, if this really takes off as an industry standard, then the TV remote will probably control media etc on the phone but this is just wild speculation on my part I love watching YouTube on a TV but hate the watered down, censored, crippled, standard def crap we have to put up with via Viera Connect. Also Panasonic made the TV DLNA compatible but helpfully didn't bother supporting the most obvious use for DLNA - streaming 1080p recordings from a smartphone. Great. I figured MHL would be a simple way to overcome both of these hurdles So my question to you: is the Panasonic VT30(B) MHL ready? ...or is my TV already out of date? lol Cheers</Content>
+	</Post>
+</Thread>

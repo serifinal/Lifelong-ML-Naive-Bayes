@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SD1100 Flash Question</Title>
+		<Username>firebird</Username>
+		<Datetime>04-26-2009, 09:35 PM</Datetime>
+		<Content>Hi Everyone. I just bought a Powershot SD1100 and I was wondering if there was any way to turn off the orange light that shines on the subject of your picture when you lock the photo and press the shutter. I turned off the flash, and it still went off, so I went to settings and turned off the red-eye correction and the red-eye lamp, thinking that was the prob...no luck. I'm pawing through the user manual, but I feel as though I might as well be reading the one in Spanish. It wouldn't be an issue, but the feline subjects I'm taking pictures of don't seem to take too kindly to an orange light in their faces...any help is appreciated. Thanks!</Content>
+	</Post>
+</Thread>

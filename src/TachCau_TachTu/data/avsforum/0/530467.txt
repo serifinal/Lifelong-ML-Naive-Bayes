@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need advice on speaker purchase.</Title>
+		<Username>bathory</Username>
+		<Datetime>03-20-08, 08:05 AM</Datetime>
+		<Content>I have a 60 watt per channel tube amp, Jolida. I currently own a pair of PSB Stratus Golds that are 4ohm speakers. The sensitivity is 88db and the power handling is 250 watts rms with peak power @ 550 watts. The tube amp is just not powerful enough to drive these speakers. Im thinking bookshelf speakers with high sensitivity. Can anyone here help me with purchasing speakers in the $600 - $1000 range that would be a good match with the Jolida amp? Thanks!</Content>
+	</Post>
+</Thread>

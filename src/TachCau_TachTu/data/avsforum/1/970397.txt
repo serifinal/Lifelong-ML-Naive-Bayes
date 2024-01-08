@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Niles PHD-42 flat panel speakers vs. other flat panel speakers?</Title>
+		<Username>fastgt79</Username>
+		<Datetime>08-20-08, 11:48 AM</Datetime>
+		<Content>Has anyone auditioned the Niles PHD-42 flat panel speakers? There are no local places that have these speakers to audition and I have not found any reviews yet. Generally speaking, are Niles speakers considered good? I am trying to find alternative options in my budget ($300 or less per speaker) for a surround system in my family room. The following are my options so far: - Paradigm Cinema 330 ($299 each) - Good sounding, better for movies than music, not sure if I like the plastic enclosure for the price - Polk RM7300 flat panel speakers - I bought 5 of these on ebay for my bonus room and think they sound really good for the money. I am looking for a better speaker, if possible, for my family room than these. - Energy FPS Take (< $250 each on internet) - I have not heard this speaker in person, but have always liked the way Energy speakers have sounded. Good reviews on internet. - Niles PHD-42 flat panel ( < $300 each on internet) - I have not heard this speaker in person, but is the only 3-way speaker of the bunch. - NHT L5 ( < $200 each on internet) - I have not heard this speaker in person. Heard some good and some not so good reviews. It seems like it might be hard to drive @ 85 db sensitivity rating. What are the opinions of the options above? http://www.nilesaudio.com/product.ph...rdcdID=FG01147</Content>
+	</Post>
+</Thread>

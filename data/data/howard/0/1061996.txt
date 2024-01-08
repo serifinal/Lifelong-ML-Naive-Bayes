@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T939 passed FCC</Title>
+		<Username>Scottish Skyedance</Username>
+		<Datetime>09-30-2009 07:43 AM</Datetime>
+		<Content>http://www.phonescoop.com/phones/fcc...A3L&pc=SGHT939</Content>
+	</Post>
+</Thread>

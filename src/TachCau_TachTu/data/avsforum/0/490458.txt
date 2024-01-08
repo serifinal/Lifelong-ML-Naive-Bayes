@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Anyone have the new Elvis: Viva LV tribute BR?</Title>
+		<Username>sirthx</Username>
+		<Datetime>08-28-08, 09:27 AM</Datetime>
+		<Content>I just read about it but had no idea it was coming. Seems like it's just performances of songs he made famous by diff performers but there looks to be some good stuff there. I need a good review before I go near a Walmart. No that crazy about WM.com either! :-)</Content>
+	</Post>
+</Thread>

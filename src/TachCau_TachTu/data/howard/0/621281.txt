@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Has anyone found a Walmart store that has the 9700??</Title>
+		<Username>Ruskastud</Username>
+		<Datetime>11-17-2009 05:37 PM</Datetime>
+		<Content>I can't find one. Called the closest 3. People I talked to were clueless. (clueless=completely retarded)</Content>
+	</Post>
+</Thread>

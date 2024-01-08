@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon powershot A720is</Title>
+		<Username>piglet91</Username>
+		<Datetime>12-08-2008, 11:00 AM</Datetime>
+		<Content>I need some helped I just got me a digital camera. I was try to take picture of my kids in front of thr Charismas tree but the the tree tinght did not come out and of of my kid did not come out clean. and i was plane take my kids to see the Charismas Parades at night any ideal Thank you Tammy</Content>
+	</Post>
+</Thread>

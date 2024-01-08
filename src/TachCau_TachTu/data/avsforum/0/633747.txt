@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title></Title>
+		<Username>joba2mo</Username>
+		<Datetime>12-13-08, 07:20 PM</Datetime>
+		<Content>Here's what I got: 2.1 Altec Lansing computer speakers with the sub Two bookshelf Polk Audio speakers Kenwood VR-605 Receiver Playstation 3 Samsung LN32A330 HDTV Is it possible to hook up the computer speaker jack to my receiver that only has holes for speaker wire for inputs? I want to use the Polk bookshelf speakers as my front left and right, and use the smaller computer speakers as rear left and right. But actually the Altec Lansing VS4121's sound so good that they can be interchangable. I really want to be able to do this because if it works, I can save a lot of money, and I know it will sound good enough. The main thing is that I don't want to buy a separate sub.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sofa directly in the path of a sub - Is this a problem?</Title>
+		<Username>dalemccl</Username>
+		<Datetime>02-26-08, 03:33 PM</Datetime>
+		<Content>I'm thinking of getting a BIC H-100 sub. Where I need to put it in the room it would be sitting to the side of the TV and left front tower speaker, with the sub's back about 6 inches from the front wall. Its front-mounted speaker would be pointing directly into an upolstered sofa that would be about 6-8 inches away. Will a sofa or similar furniture absorb much of a sub's sound?</Content>
+	</Post>
+</Thread>

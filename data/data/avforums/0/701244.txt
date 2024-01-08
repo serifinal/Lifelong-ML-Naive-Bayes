@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>techsurgeons</Title>
+		<Username>Alex Lake</Username>
+		<Datetime>18-01-2012, 3:32 PM</Datetime>
+		<Content>They came up on a Google shopping search and appear to offer suspiciously low pricing. However, they claim to have a shop (in Birmingham) and speaking to them, they sounded very plausible. They also claim to be Panasonic approved dealers. Any stories - good or bad? Considering a Panny 42G30 for £449 + £79 5yr extended warranty. I suppose one way to find out would be to see if John Lewis would price match!</Content>
+	</Post>
+</Thread>

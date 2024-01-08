@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Vista Media Center DVD and DVD file playback</Title>
+		<Username>James_stewart</Username>
+		<Datetime>06-24-08, 06:13 AM</Datetime>
+		<Content>is there a player with more options? drop down menus, language menu, subtitle menu, time remaining. the media center player is so streamlined it offers very little dvd options. thanks</Content>
+	</Post>
+</Thread>

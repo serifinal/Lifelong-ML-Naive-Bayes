@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't sync Outlook Calendar to t-749.</Title>
+		<Username>bugeyed</Username>
+		<Datetime>02-23-2010 10:17 PM</Datetime>
+		<Content>Samsung SGH-t749 using New PC Studio ver. 1.2.0 IEC. When I try to sync Outlook Calendar with the phone calendar it runs out of memory. I don't know if it is using the internal mem., but I don't see a way to direct it to use the SD card. It also mentions that it is getting email info from Outlook. Does this mean that it is also syncing the address book? I only want to keep the calendar on the phone synced. Anyone have any input? Thanks, kev</Content>
+	</Post>
+</Thread>

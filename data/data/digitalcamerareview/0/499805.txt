@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon EOS 40D passes the test</Title>
+		<Username>WhichDSLR</Username>
+		<Datetime>07-22-2008, 05:40 PM</Datetime>
+		<Content>After going through multiple user evaluations, the Canon EOS 40D DSLR passed with flying colors. Here is the low down on the Canon EOS 40D: The good: Generally superior shooting speed among dSLRs; first-rate photo quality. The bad: Large spot size for spot meter; relatively sluggish low-light focus. The bottom line: Great photo quality and excellent continuous-shooting performance are just two of the Canon EOS 40D's many attractive features. This would be a good choice for professional photographers to consider. Hope this helps!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Did anyone tried the MicroSim from the iPad 3G with the iPhone</Title>
+		<Username>lelety</Username>
+		<Datetime>05-02-2010 07:33 PM</Datetime>
+		<Content>I was just wondering if anyone with the 250mb $14.99 or the unlimited $29.99 plan from the iPad 3G have tried the microSim with an adapter to the iPhone 3G or 3Gs. This might be an option for people that use only data on their iPhones and doesn't want the voice or the other option is having 250mb a month for light users.</Content>
+	</Post>
+</Thread>

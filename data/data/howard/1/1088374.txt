@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Bell Samsung Vibrant on Rogers?</Title>
+		<Username>bjtheone</Username>
+		<Datetime>08-24-2010 07:53 PM</Datetime>
+		<Content>Now that the unlock issue has been solved I am seriously considering getting a Vibrant from Bell, unlocking it and using it on Rogers for a number of reasons: * I like the styling better * 2 cameras * FM radio * money does not go to Rogers Main concern is that the Bell version seems to have 3G 900/1900/2100 whereas Rogers is 850/1900. How big a coverage issue is this going to be. Is there any way to breakout the Rogers 3G coverage maps by frequency? I am assuming 2G is not going to be an issue (I am assuming quad band GSM as all the Galaxy S models I can find info for seem to be GSM 850 / 900 / 1800 / 1900).</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SX10 Goes To NYC</Title>
+		<Username>originalstarlite</Username>
+		<Datetime>04-09-2009, 07:57 AM</Datetime>
+		<Content>The rule is: never take a new camera on an important vacation! Getting this camera in Jan. and practicing around the neighborhood does not prepare you for the chaos of Times Square. Wow! And if that was not enough, take a tripod and shoot you FIRST Canon night shots while on a NYC @ Night Tour! Here is the best of it. There are no shots at the Top of the Rock for our tickets (purchased ahead) were during driving rains and zero visibility.</Content>
+	</Post>
+</Thread>

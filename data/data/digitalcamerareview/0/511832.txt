@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon EOS 50D image quality</Title>
+		<Username>elfbob</Username>
+		<Datetime>04-28-2011, 02:58 PM</Datetime>
+		<Content>5 months ago i bought a Canon EOS 50D body to complement the EOS 20D i already had for its larger raw image size; i have used the same lens(EF70-200 F4L USM) on both bodies, but can't seem to duplicate the 20D's image sharpness with the 50D even with mirror lockup & RS-80N3 remote switch on both bodies using a very stable Bogen tripod. The 20D just keeps exhibiting a sharper image regardless of the subject; i am interested if anyone else has encountered a similar situation or could offer a solution.</Content>
+	</Post>
+</Thread>

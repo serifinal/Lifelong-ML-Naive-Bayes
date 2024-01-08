@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Want to trade blackberry torch for iphone4 sealed and locked to rogers.</Title>
+		<Username>Jeffrey Eidelma</Username>
+		<Datetime>09-11-2010 02:14 PM</Datetime>
+		<Content>I wanna trade a Blackberry Torch for an Iphone4 , I want a straight trade. Thanks Jeff</Content>
+	</Post>
+</Thread>

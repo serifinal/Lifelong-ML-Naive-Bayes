@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS59D6900 to Onkyo 609, trying to get ARC to work...</Title>
+		<Username>Mandingo</Username>
+		<Datetime>13-12-2011, 8:43 PM</Datetime>
+		<Content>Hi all, As above im trying to get the ARC function to work between TV and amp. Have amp set: HDMI Control = ON ARC Function = Auto HDMI (high speed) lead between HDMI 2 of TV and HDMI output of amp. Anynet+ set to on on TV. Getting no sound whatsoever. Using the TV remote to turn the volume up/down does actually alter the volume on the amp and a pop up box appears on the screen with the amp name and volume, but no sound. Anything im doing wrong?!</Content>
+	</Post>
+</Thread>

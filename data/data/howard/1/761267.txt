@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Video call/video chat/video messenger?</Title>
+		<Username>BlackDynamite</Username>
+		<Datetime>02-24-2008 11:21 AM</Datetime>
+		<Content>So I am planning on leaving Sprint and getting an AT&T Tilt. I noticed the unbranded Kaiser has a camera on the front for video calls while the AT&T branded Tilt does not. Is there any way to get that front camera working on AT&T? Say I had 2 of the unbranded Kaisers, 1 for me qnd 1 for my wife. Is there any app I could install that would let us video chat?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P42U30B GREEN TINGE</Title>
+		<Username>curriesredkola</Username>
+		<Datetime>01-02-2012, 8:19 PM</Datetime>
+		<Content>my Panny is 9 months old.It was great until last week but now i have a green tinge off the screen.Any thoughts?</Content>
+	</Post>
+</Thread>

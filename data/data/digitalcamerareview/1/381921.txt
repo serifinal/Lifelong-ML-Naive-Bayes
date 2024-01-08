@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Repair or Replace SD1000</Title>
+		<Username>markg18104</Username>
+		<Datetime>09-03-2009, 08:31 AM</Datetime>
+		<Content>I have a 2 year old, out of warranty, Canon SD1000. It needs to be repaired. The cost is $100. In addition, I have lost the battery charger. That will cost me extra as well to replace. Should I repair the camera or replace it? I would be out $100 PLUS the cost of replacing the battery charger. I looked at the SD1200is. I assume that is the current generation release of the SD1000 line. It is available for about $165 (and that includes a battery charger!). Thanks.</Content>
+	</Post>
+</Thread>

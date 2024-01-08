@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Which is the best wireless provider in the U.S.A. ?? - POLL 2010</Title>
+		<Username>FerneyZan</Username>
+		<Datetime>11-04-2010 12:40 PM</Datetime>
+		<Content>After all the new changes that have taken place in the USA and a few Mergers here and there, which company do we now think is the best wireless provider out there concidering everything about them. Addional Features, Data Plans, Network Coverage, Reception, Customer Service, Unlimited Packages etc etc. ?? Please post your comments and don't forget to vote on the POLL...</Content>
+	</Post>
+</Thread>

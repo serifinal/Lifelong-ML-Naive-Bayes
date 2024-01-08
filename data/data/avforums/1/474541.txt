@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>phosphor trails - help</Title>
+		<Username>fcz_</Username>
+		<Datetime>23-01-2010, 12:47 AM</Datetime>
+		<Content>let's see if i understood this correct; all plasma tv's have this, some models more some less, but every plasma has them. people who are susceptible to phosphor trails will see them on any plasma, and the ones who are not will never see them, right? the thing is that i want to buy an x10, and i'll go to my friend who has one to test myself if i am able to se phosphor trails. so if i don't see any trails on his tv, does it mean that there is no way i'll se them on my x10? and what is the surest method to test if i am susceptible to seeing phosphor trails?</Content>
+	</Post>
+</Thread>

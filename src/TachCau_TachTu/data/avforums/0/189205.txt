@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panny G20 HDD recording</Title>
+		<Username>Zog</Username>
+		<Datetime>02-09-2010, 8:30 AM</Datetime>
+		<Content>I'm aware that the G20 re-formats the HDD to ensure that recordings cannot be played back on other devices.... However... Having used the HDD for a few weeks I now need to use it to back up my laptop. The only problem is that my laptop can no longer see the drive to let me re-format it. Is this right ?.... Are we saying here that once the HDD has been formatted for use with the TV there is effectively no going back ?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot A640 - flash not working</Title>
+		<Username>SaoirseC</Username>
+		<Datetime>10-04-2009, 07:23 AM</Datetime>
+		<Content>No matter what mode, the orange light at the front comes on and the flash symbol blinks at me, but the flash doesnt actually work. Fresh batteries & all. Any ideas?</Content>
+	</Post>
+</Thread>

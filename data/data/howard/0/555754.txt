@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone4 Battery...Any Real-World Improvement?</Title>
+		<Username>davistld01</Username>
+		<Datetime>06-08-2010 09:02 AM</Datetime>
+		<Content>I didn't get to see the Jobster announce the new iPhone yesterday. I keep hearing snippets about a larger battery with added talk time. How much more capacity is the "new" battery really adding, and how much more real life will it give those who surf the web, play games and do a lot of messaging...as opposed to "talk time" which is really a moot point that sounds good from a marketing perspective?</Content>
+	</Post>
+</Thread>

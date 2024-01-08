@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Decent non 3D 60"?</Title>
+		<Username>Vellocet</Username>
+		<Datetime>18-07-2011, 3:13 PM</Datetime>
+		<Content>Anyone know of a decent 60" panel without 3D as I'm not really interested in that and hopefully without it would mean a cheaper price?</Content>
+	</Post>
+</Thread>

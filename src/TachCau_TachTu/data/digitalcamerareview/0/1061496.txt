@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does anyone like the Panasonic dmc-fx01 night shots ?</Title>
+		<Username>John9062L</Username>
+		<Datetime>07-27-2006, 01:01 PM</Datetime>
+		<Content>Hi, Does anyone like the Night shots or Low-light performance of the Panasonic dmc-fx01 Camera. The camera seems to have so many things going for it, but people really seem to not be happy about the night/low-light performance.Any feedback would be appreciated. Thanks, John L.</Content>
+	</Post>
+</Thread>

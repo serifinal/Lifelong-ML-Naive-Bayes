@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic 50VT20B or 50GT30B - which is better?</Title>
+		<Username>BAVC10</Username>
+		<Datetime>08-04-2011, 8:37 AM</Datetime>
+		<Content>Hi - I would appreciate some guidance from this forum. I am replacing a broken V20BA (no longer available from my retailer) and have a choice of the VT20BA or GT30B (similar price and I have a Panasonic dongle already). I am not particularly bothered about 3d so which would be the better 2d set to go for as both have the faster switching phosphors? Is the new G14 panel much better than the G13? I understand Viera Cast has been replaced by Viera Connect which has iPlayer available, is Cast still likely to be supported by Panasonic for the next few years? Finally - the VT20BA only supports 3d from a 3d source. Does the GT30B offer the ability to watch 2d in a 3d type environment using some fancy software conversion or is it too limited to just 3d from 3d sources - no reviews seem to discuss this? Many thanks in advance.</Content>
+	</Post>
+</Thread>

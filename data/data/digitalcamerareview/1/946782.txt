@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>30D vs. 400D (probably for the billionth time)</Title>
+		<Username>pitch_white</Username>
+		<Datetime>03-31-2007, 10:53 PM</Datetime>
+		<Content>Hi All, I work for Canon Australia, and as a canon employee I am entitled to buy products at staff purchase prices...(i.e. even cheaper than wholesale) I was looking at buying the EOS 400D (Rebel XTi in the US), body only and then buying the EF-S 17-85mm f/4-5.6 IS USM lens. I can get all this for around $1300 AU. However, I've started wondering about getting the 30D instead with the same lens as this is available at the moment as a package called the Enthusiast kit, and so is only an extra $50 or something compared to the EOS 400D which I'll have to buy the lens and the body separately (Staff can't buy the enthusiast kit at the moment) So I'm torn between the two for the following reasons... EOS 400D - Lighter, smaller, higher megapixels, a little cheaper. But also made of plastic, and a slightly slower fps of only 3. EOS 30D - heavier, larger, lower megapixels and little more expensive. Made of magnesium (more durable) and a faster frames per second of 5. Does the 30D deliver in other aspects compared to the 400D that make the extra $$, weight and size and the fewer megapixels, worth it? Thanks in advance....</Content>
+	</Post>
+</Thread>

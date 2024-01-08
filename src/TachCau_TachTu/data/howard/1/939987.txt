@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: Samsung Galaxy S Vibrant/ FS/T: Nexus One Rogers 3g $530 GTA</Title>
+		<Username>SplitSnake</Username>
+		<Datetime>09-05-2010 10:45 AM</Datetime>
+		<Content>Hello, I'm looking to purchase an Samsung Galaxy S Vibrant, Mint, LNIB or BNIB. Looking to purchase this with all accessories, unlocked preferred, but locked is okay. Also looking to sell my Nexus One $530 or trade for Galaxy S Vibrant plus a bit of cash on your end. Nexus One is in 10/10 condition, and had a BSE skin since day one, and still have more. Comes with warranty, and all accessories. Looking to purchase/sell ASAP, contact at 647-938-0772 for quick reply. Thanks, SplitSnake</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>VT30 Guinea Pig Repair</Title>
+		<Username>TONYELISE</Username>
+		<Datetime>24-01-2012, 12:43 PM</Datetime>
+		<Content>I have a 50vt30 that has had alot of problems i posted these on the vt owners thread,after speaking to darren at tps i had arranged for a engineer to come today well they phoned earlier and said that it was not worth coming out as after speaking to panasonic they were told that they are aware of the faults on the vt30's and were in the process of writing a new firmware to fix the current issue's but could not tell me how long,they have just phoned back and are coming on friday-now the good bit they told me that panasonic have now written a new pdp frimware that can only be installed through the service port with a laptop as it's completley different and that i will be the first in the uk to have this and they going to use me as a guinea pig,so this does sound promiseing as they told me it has something to do with the way the actual pdp panel is driven it's completely different to the firmware updates we can install ourselves,Once again all i can do is praise tps cs they have been first class in helping me get this issue resolved with a totally professional outlook on there customers.Will keep you all upadated.</Content>
+	</Post>
+</Thread>

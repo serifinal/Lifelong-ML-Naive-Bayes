@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TX-50U30B or TX-50C3B please</Title>
+		<Username>marjrie</Username>
+		<Datetime>29-07-2011, 8:36 PM</Datetime>
+		<Content>I have a panasonic 42" plasma which is about 6 or 7 yrs old and have been very happy with it, it still has a good picture, but we want to go to 50" and be able to watch some HD stuff as we have a Virgin V+ box. So we are looking at the Panasonic TX-50U30B or the TX-50C3B, one HD ready and one full HD. We generally watch normal TV and sport (football) and want to still be able to connect our old DVD recorder, which is a Panasonic DMR-ES20 The full HD TV is quite a lot more than the HD ready, what are your opinions on this? We have about £650 to spend and will need to get cables and a stand, as the TV we have has the stand built onto it. Hope for some advice here, Thanks</Content>
+	</Post>
+</Thread>

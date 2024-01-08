@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>About T-mobile internet and Exchange server</Title>
+		<Username>kcman123</Username>
+		<Datetime>01-21-2010 12:05 PM</Datetime>
+		<Content>I have this issue for some reason with T-Mobile Internet and the exchange server I can use wifi to send and recieve emails find out of my server, But when I use T-Mobile internet I can only Recieve emails fine, but cannot send emails out. It gives the error of send failure Also I have an inbox with more subfolders under it to reorganize my emails and such. All my folders except one has an issue of no recipient. I keep getting emails daily that are not "new" but read but all have under the email of no recipient. All my other email folders dont have this issue just that one with one particular person. Now that particular person can send me other emails and it would have her name on it. BUt everyday she sends me word documents and it shows her under no recipient and the email is completely blank when i Open the email in my N900. Anyone else have this issue? Thanks for everyone's help!</Content>
+	</Post>
+</Thread>

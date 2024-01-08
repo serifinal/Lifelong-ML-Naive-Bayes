@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: BNIB Iphone 3GS 16GB Black/White Fido</Title>
+		<Username>hausuiding</Username>
+		<Datetime>12-01-2009 11:41 PM</Datetime>
+		<Content>Per the title, I have 2 BNIB Iphone 3GS 16GB for sale. 1 Black and 1 White. These phones were purchased from Fido recently. Have receipt for proof. With Xmas just around the corner, make it a magical one for that special someone in your life! Price: 650 OBO</Content>
+	</Post>
+</Thread>

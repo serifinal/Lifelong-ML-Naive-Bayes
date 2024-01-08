@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Lighting for EOS 5D?</Title>
+		<Username>Cosmo</Username>
+		<Datetime>07-07-2007, 02:47 PM</Datetime>
+		<Content>I intend to shoot portrait photos with a Canon EOS 5D, Could any one recommend a ideal strobe lighting set for this. A link for showing what is it the set, list what they think is best. Something like that. The more detailed the better. Better yet, any one with a Canon EOS 5D that shoots portrait photography. If they would be so kind to list their lighting equipment. The more detailed the better Also is their a 10 second delay feature for taking a picture with that camera? I am also using a CHROMAKEY GREEN SCREEN for the background, does this affect the lighting? Many thanks to all those that participate!</Content>
+	</Post>
+</Thread>

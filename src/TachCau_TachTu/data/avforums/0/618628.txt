@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 60PZ550 Screen Size Adjustment?</Title>
+		<Username>LTCSZ</Username>
+		<Datetime>20-01-2012, 4:51 PM</Datetime>
+		<Content>Hello: I have recently purchased the LG 60PZ550TV...It is great, but I have one small problem...The screen cuts off just the smallest bit of picture on the sides and top...Not much at all, but enough to cut off, say, a letter or two of a title or headline...Is there a way to adjust this? I have looked through the manual (really) and haven't found the answer...Thanks a lot, Steve</Content>
+	</Post>
+</Thread>

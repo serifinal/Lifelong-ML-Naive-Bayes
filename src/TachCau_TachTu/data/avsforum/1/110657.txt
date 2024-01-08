@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which LCD?????? Samsung 850 or 750 or other?</Title>
+		<Username>bnewt</Username>
+		<Datetime>10-25-08, 06:27 PM</Datetime>
+		<Content>The wife & I went tv shopping today. We both like the brighter LCD over the plasma units. But which to buy??? What are the major differences between the Samsung 850 & 750? Also liked the Mitsibushsi & Toshiba. Guidance from anyone would be great.</Content>
+	</Post>
+</Thread>

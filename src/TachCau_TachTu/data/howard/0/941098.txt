@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPad (MicroSIM) Data Plan Used on Rocket Stick</Title>
+		<Username>kaka</Username>
+		<Datetime>07-07-2010 11:17 AM</Datetime>
+		<Content>Has anyone tried using their iPad microSIM on a Rocket Stick (with microSIM adapter)? Does it work? Would Rogers charge you extra for doing this? Thanks.</Content>
+	</Post>
+</Thread>

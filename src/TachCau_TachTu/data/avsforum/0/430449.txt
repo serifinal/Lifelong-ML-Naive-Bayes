@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How are you storing your BD/HDDVD movies on your media server/HTPC?</Title>
+		<Username>bjmarchini</Username>
+		<Datetime>08-22-08, 04:44 PM</Datetime>
+		<Content>DVDs are pretty easy. You either Rip it as an ISO or in folders and if you want reconvert it to another codec. HD is alot more complicated I am just curious how everyone is storing them. I have found it easiest to break apart the Disks and extract the feature. I usually keep it in a single EVO or M2TS depending on the format. If there are any special features worth keeping on there, I have a seperate folder for those. The Field of Dreams doc about the real field is a good one. Same with the Chronicles of Riddick Doc. I have thought about converting the EVOs to an MKV, but nothing seems to be easy at this point with HDM (Not that it was with DVD 2-3 years out.... I remember having to fiddle with flaskmpeg and a host a little programs until DVDfab came out) I have thought about just keeping the whole ISO, but it can really eat up space quick. I use Nero 8 as you can play these files back individually with TrueHD support (DTS-MA is still a problem it seems although DTS-HD seems to be working)</Content>
+	</Post>
+</Thread>

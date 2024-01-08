@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with late sport shots</Title>
+		<Username>sdexcalibur</Username>
+		<Datetime>12-02-2007, 08:11 PM</Datetime>
+		<Content>I figured out I can shoot in the TV setting to STOP the action. but around dusk I had the darnest time, I tried shooting my daughter clolor guard preformance. If I set it to tv mode and let the camera focus the screen turned black, So I opened the flash, It did help but the shot came out DARK, tried different setting, either it blured the shot or was really dark, Pretty much tried them all, Indoor, night, P, auto, any insite on what setting will work for a early evening action shot.</Content>
+	</Post>
+</Thread>

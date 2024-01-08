@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony XBR6 soft vs W4100</Title>
+		<Username>LotharQberry</Username>
+		<Datetime>12-08-08, 12:44 PM</Datetime>
+		<Content>My wife and I went to a couple of stores yesterday , Sears and CC, to look at the above 2 HDTVs. We both felt that the XBR6 looked noticeably softer than the W4100. One store rep said that this was because of a connection issue but after he left I got behind the TVs and both were running off the same wires with the same programming. The CC rep said that he could see it also but did not know what would cause it. Thank goodness for an honest rep! Would anyone care to please comment on whether they have seen this also or what might be the reasons behind it. If it were one store, I could see there being multiple reasons as to why this might be but to have the sets act the same way in both stores seems a bit odd. Especially when the XBR unit is supposed to be the better of the 2 units. Thank You,</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fixing overscan on LG 32LC7D</Title>
+		<Username>larry2506</Username>
+		<Datetime>12-03-08, 06:01 PM</Datetime>
+		<Content>My set seems to have a bit of overscan, more noticeable on some channels (HD cable) than others. Noticed during the election, that some of the outermost numbers shown on NBC-HD were cut off, and I've noticed text that is close to the edges of the screen may be truncated, although most everything else looks okay and not too obvious. I know how to get in the service menu, but didn't see anything that looked like an adjustment for overscan. Is that even adjustable on this set? I can live with it, but I'm a geek and like to get the best from my "toys." Many thanks.</Content>
+	</Post>
+</Thread>

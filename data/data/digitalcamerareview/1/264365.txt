@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>best powershot for underwater photo's?</Title>
+		<Username>dlearyous</Username>
+		<Datetime>09-09-2009, 08:04 PM</Datetime>
+		<Content>I'm a Dive Master that likes to take pictures while diving. I have been using my sd600 for the past few years and have finally decided to upgrade. I love the powershots and use a canon wp housing. I was thinking about the sd990is as I saw some positive personal reviews of the camera on amazon.com though I found this site which was not very pleased with the camera it seems. "Too high a price for what you get." I'm looking for something that I can shoot lots of macro pics with and get nice sharp results. I also use the camera on land when traveling so it needs to be good there as well. I'm confused looking through the site trying to figure out which I should be looking at buying. Oh yes, last thing. I was hoping to spend around 500 in total. Camera and housing. The housings usually run around 180 to 200 from canon so around a 300 dollar max camera. Thanks! Help??</Content>
+	</Post>
+</Thread>

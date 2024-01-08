@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Upgrading from 3.0.1 with questions</Title>
+		<Username>Colin1234</Username>
+		<Datetime>10-28-2009 12:51 AM</Datetime>
+		<Content>Hey, I have a few questions. I'm planning on upgrading my JB 3.0.1 3GS to 3.1.2. 1. Am I correct that if I update via pwnage tool I won't lose my baseband? 2. If I backup my iPhone first and then reload the backup onto the phone after the update will it work or do I have to start from scratch copying all my apps etc. back? 3. Besides the carry logo problem (which is easily fixed) is there any other known issues? 4. Do I need my SHSH off the phone or is that pointless since 3.1.2 is now hackable? If so, what's the easiest way to do this? And finally, is it really worth it to upgrade? Thanks in advance.</Content>
+	</Post>
+</Thread>

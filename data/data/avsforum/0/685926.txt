@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>What is the LFE used for and how should I set it up?</Title>
+		<Username>emgesp</Username>
+		<Datetime>03-17-08, 03:31 AM</Datetime>
+		<Content>I set all my mains to a 100hz cutoff point, but I have no idea what I should set the LFE to. I own an Onkyo HTIB system, which offers a more adjustable speaker setup menu. Some I heard let you choose speakers to be set to small, or large and that is all you have to do when it comes to adjusting the frequancies. I wished it was that easy using my receiver.</Content>
+	</Post>
+</Thread>

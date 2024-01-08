@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: BNIB Samsung Galaxy Spica</Title>
+		<Username>superis</Username>
+		<Datetime>04-07-2010 10:29 PM</Datetime>
+		<Content>i have a brand new in box Samsung Galaxy Spica from Rogers for sell, looking for $320 obo, no trades pls GTA local deal only pls call 416-566-6162</Content>
+	</Post>
+</Thread>

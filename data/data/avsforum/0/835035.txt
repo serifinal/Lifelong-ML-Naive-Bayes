@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Blu-ray player prices slashed</Title>
+		<Username>DaMan1970</Username>
+		<Datetime>10-28-08, 01:00 PM</Datetime>
+		<Content>Manufacturers & retail chains are slashing prices of Blu-ray players to boost adoption of HD movie format. Industry analysts believe stores may have been overly optimistic in ordering Blu-ray players for the holiday season. Blu-ray player prices slashed "Up to this point, the category has not performed to expectations, but manufacturers sense the urgency, and are making sure that they lower prices to the point that Blu-ray players will become irresistible to consumers this holiday season," said Bruce Tripido, a vice president of marketing at Sharp Electronics Corp.</Content>
+	</Post>
+</Thread>

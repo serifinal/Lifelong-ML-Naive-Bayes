@@ -1,0 +1,5 @@
+new owner of tm506 - which cradlepoint router can i use ? .
+i am interested in tethering a tm506 with a cradlepoint router .
+while i have seen mention of this ability on the forum , the specific cradlepoint model is not listed .
+i have also looked on cradlepoint 's website , but could not find the tm506 listed .
+any recommendations of known working cradlepoint routers to tether with the tm506 to create a mobile wifi hotspot ?

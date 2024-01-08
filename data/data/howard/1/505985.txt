@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Anyone know when 32Gig micro sd cards will be available?</Title>
+		<Username>flip69</Username>
+		<Datetime>12-17-2009 09:13 PM</Datetime>
+		<Content>I would like one for my droid as I have mostly filled the 16 gig card with movies.</Content>
+	</Post>
+</Thread>

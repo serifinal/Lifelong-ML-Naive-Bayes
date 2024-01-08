@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What is acoustic effect of leaving door to HT open?</Title>
+		<Username>zmisst</Username>
+		<Datetime>06-20-08, 08:57 AM</Datetime>
+		<Content>Aside from the obvious sound isolation issues, could anyone report on the acoustic effect of leaving the door to your HT open? I've heard that by leaving the door open, or not having a door to close, you cannot "contain the low frequencies" which, I was told, will adversely affect sound *quality* (not just sound *isolation*). We could theorize on the effect of opening your HT to the another normal living area room (e.g., an open doorway to another large furnished room would seem to act like big broad range absorber: all sounds that go there would not be reflected by a boundry and so would mostly disappear from the listening room, with perhaps some coming back very diffused and much attentuated, depending on what was in the next room). But could a few people just listen to some soundtracks, music, perhaps with some good bass, with and without their HT door open and report back any differences here? thanks.</Content>
+	</Post>
+</Thread>

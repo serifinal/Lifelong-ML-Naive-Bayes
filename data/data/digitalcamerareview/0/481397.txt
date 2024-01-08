@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New rules for carrying lithium-ion batteries on U.S. flights effective today</Title>
+		<Username>Ed Hardy</Username>
+		<Datetime>01-01-2008, 11:53 AM</Datetime>
+		<Content>The U.S. Department of Transportation has instituted new rules for carrying spare rechargeable batteries on an airplane. Starting today, these must go in the traveler's carry-on baggage, not in their checked baggage.The DOT is concerned that batteries will short-circuit and start a fire in the hold of the plane. A similar fire in the passenger cabin will be noticed earlier and is more easily extinguished.Under the new rules, people can bring an unlimited number of spare batteries with up to 8 grams equivalent lithium content in carry-on baggage. All lithium ion batteries in cell phones and cameras are below this threshold, and nearly all laptop batteries are below it, too. In addition, travelers can carry two spare batteries with a total equivalent lithium content of up to 25 grams. This allows people to transport items like extended batteries for laptops and professional A/V equipment.Again, these rules apply to carry-on bags. The new rules forbid putting spare batteries in checked baggage under any circumstances.Still, these new regulations apply only to spare batteries. Travelers are allowed to put battery powered electronics in their checked baggage, as long as the battery is installed in the device. However, the DOT recommends that all electronics be transported in carry-on luggage whenever possible.More information is available on safetravel.dot.govVia Smartphone Thoughts</Content>
+	</Post>
+</Thread>

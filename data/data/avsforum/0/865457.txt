@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Blu-ray Imports (General discussion, announcements and retailers)</Title>
+		<Username>kick ass sub</Username>
+		<Datetime>02-02-08, 12:13 PM</Datetime>
+		<Content>it's a Dutch studio that supports both BD and HD-DVD. Some HD-DVD exlusive movies are now on BD too. here's a list: http://www.digitalmovie.nl/133621/default.aspx</Content>
+	</Post>
+</Thread>

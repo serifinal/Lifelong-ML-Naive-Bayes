@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Test Drive a Pentax Digital SLR</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>09-11-2006, 07:00 PM</Datetime>
+		<Content>Pentax has announced a new promotion where you can test drive one of their K series digital SLRs and get a chance to win a 2007 Toyota FJ Cruiser. From now until December 31, 2006, all you have to do is visit a participating retailer and test drive a Pentax K100D or K110D. Pentax Marketing Director, Ned Bunnell, is convinced that once consumers get their hands on one of their new digital SLRs that they will be impressed with the ergonomics and overall performance of the cameras. The "test drive" consists of visiting a participating retailer and asking for a hands-on product demonstration. If you can't find a retailer nearby, you can visit www.pentaxslr.com/testdrive and watch a product video and to get registered to win the FJ Cruiser. The Pentax K100D and K110D are 6.1 megapixel digital SLRs. The K100D features the Pentax Shake Reduction system. Since the Shake Reduction is a CCD-shift mechanism, any existing Pentax K-mount lenses can be used with the two cameras. The test drive promotion will also apply to any additional K cameras announced while the promotion is going on. To watch the video, register to win, and read contest rules, see www.pentaxslr.com/testdrive Related Article: Pentax K100D Digital Camera Review</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S3 Macro Feature Help...</Title>
+		<Username>lensman34</Username>
+		<Datetime>08-05-2007, 12:05 AM</Datetime>
+		<Content>Hello. I was wondering if someone could give me a short tutorial on using the Macro and Super Macro features on the Canon S3? This would be greatly appreciated. Thank you. lensman</Content>
+	</Post>
+</Thread>

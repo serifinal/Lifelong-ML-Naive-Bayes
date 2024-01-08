@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Back to the Future II and III on MAXHD 5/10/2008</Title>
+		<Username>replayrob</Username>
+		<Datetime>05-10-08, 09:35 AM</Datetime>
+		<Content>Set your HD DVR's and TiVoHD's gentleman... Back to the Future II- Sat, May 10 2008 2:40PM - 4:30PM, MAXHD Back to the Future III- Sat, May 10 2008 4:30PM - 6:30PM, MAXHD Only showings for this run in HD so don't miss it buttheads!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Icons/text/image blurry in viewfinder Canon sx10IS</Title>
+		<Username>bethc</Username>
+		<Datetime>01-25-2009, 04:03 PM</Datetime>
+		<Content>Still getting familiar with my new camera. Been reading the manual and really trying to do it myself but am stumped about this problem. Today the icons, numbers, etc that are usually displayed clearly are blurry as is the image I'm looking at. Stays that way even when shutter button is depressed. The AF frame image is clear. Haven't made any setting changes (that I know of) except today I learned to delete groups of pics by date. Husband says it's blurry too. Help please! Beth</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BNIB iPhone 4 32GB sealed *FACTORY UNLOCKED*</Title>
+		<Username>sc1010</Username>
+		<Datetime>08-06-2010 07:43 AM</Datetime>
+		<Content>I'm selling a brand new iPhone4 32GB sealed factory unlocked. I have the receipt to prove that this was purchased at apple store at launch day. This is a factory unlocked and can use any wireless carriers or international. Cash only. I'm willing to meet at Markham, Richmond Hill, or Scarborough. Picture upon request. Asking for $980</Content>
+	</Post>
+</Thread>

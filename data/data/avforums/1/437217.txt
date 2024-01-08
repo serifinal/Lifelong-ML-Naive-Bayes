@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Buy Panasonic Viera TX-P50ST30 now or wait for possible price drop?</Title>
+		<Username>Shiver2K8</Username>
+		<Datetime>08-01-2012, 9:08 PM</Datetime>
+		<Content>Hi all, Just wanted to ask for the forums opinion on whether i should buy the Panasonic Viera TX-P50ST30 with 5yr warranty and a pair of 3D glasses for £699 or wait until new sets come out to get it cheaper? Could it go cheaper if i wait? Thanks for looking</Content>
+	</Post>
+</Thread>

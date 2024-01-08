@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is Boost Mobile Blackberry Unlimited with International Connect the best plan?</Title>
+		<Username>sdip</Username>
+		<Datetime>07-29-2010 06:02 PM</Datetime>
+		<Content>I'm a Canadian moving to the US looking for a new phone. I've been using a Blackberry 9700 with BIS and I'm looking for a plan in the US that offers the following: LOTS of minutes to Canada Reasonable local calling BIS service (~100mb of blackberry data) Is Boost Mobile's International Connect option the best for people wishing to call Canada a lot? The plan seems great ($70 a month for unlimited everything) but its painful shelling out $200 for a 8330 when I have a perfectly good 9700. Are there any alternatives? I'm not huge Google Voice fan, too much of a delay when talking...</Content>
+	</Post>
+</Thread>

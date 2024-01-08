@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panny S30 vs G30</Title>
+		<Username>Vitro27</Username>
+		<Datetime>29-01-2012, 1:12 PM</Datetime>
+		<Content>Hii guys , Im already months busy with reading reviews,comparing different plasma etc to decide which will be my new Television. Now it comes down to these 2 pannys  the S30 and the G30. I know the G30 has the better filter,thx mode, lot more options for calibrating. But im not so sure if these things are important enough for me to warrant a 100 Euro price difference ? Now comes the part which is important to me and also confusing.. thats the Internet functionality. Before I read on different sites that the S30 only had EASY IPTV and not the full Viera Connect with more online options. And this was for me a important factor to choose the G30 over the S30. However after reading the review of the S30 on this site it says that it does have Viera Connect !? Also i watched some youtube reviews of the S30 where in some reviews I see only few apps displayed which is easy iptv, but in other video reviews i see the full viera connect display with also the market etc just like the G30 I would be really grateful if somebody could give me some clarity on this aspect I live in holland and I can get the S30 for 445 euro and the G30 for 545 euro. What would you recommend and why ?</Content>
+	</Post>
+</Thread>

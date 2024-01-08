@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon powershot a570is-need help</Title>
+		<Username>canon user #1</Username>
+		<Datetime>12-30-2008, 02:41 PM</Datetime>
+		<Content>I am new to your forum,so if I make a mistake please let me know,my help question is,I can't seem to get my a570is to print the date on the pictures,that option seems to be blacked out in the menu,I have had the camera for about 6 months and we really like it a lot,also takes some great movies too,any way if someone knows how to set this where it will print the date on the pics I would greatly appreciate it,thanks and also a great forum.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>USCC Wireless Modem</Title>
+		<Username>tyjack96</Username>
+		<Datetime>07-21-2010 10:49 AM</Datetime>
+		<Content>i was wondering if the uscc wireless modems are the thing you can use internet everywhere you go.</Content>
+	</Post>
+</Thread>

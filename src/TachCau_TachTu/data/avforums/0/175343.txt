@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS51D8000 Apps!....</Title>
+		<Username>xtream08</Username>
+		<Datetime>28-06-2011, 4:16 PM</Datetime>
+		<Content>As anyone else's Love film been stolen from them i logged on to the hub and it stole my app i notice also BBC Iplayer STILL not here!! has anyone heard anything about the fixes???</Content>
+	</Post>
+</Thread>

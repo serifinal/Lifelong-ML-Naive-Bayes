@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Ixus 100is</Title>
+		<Username>hack_digit</Username>
+		<Datetime>08-14-2009, 03:29 AM</Datetime>
+		<Content>Hii all, I just wanted to ask that is it possible to view the videos taken from this camera(100IS) on regular television?? I would love to know your views on this camera, and is their any other camera in the same price range that is better than this. And what do you think about IXUS 95IS. Thank you.</Content>
+	</Post>
+</Thread>

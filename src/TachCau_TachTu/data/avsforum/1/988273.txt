@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>So what's up with Sony speakers and speaker reviews?</Title>
+		<Username>Tiga</Username>
+		<Datetime>08-28-08, 09:12 PM</Datetime>
+		<Content>Well now that I have my home theater projector I've started looking for a budget surround setup. I've been doing some speaker research (as I'm a noob) and checking them out at the local big box stores. I notice that the Sony 3000 bookshelf speakers are on sale at BB (79/pr) and noted the glowing reviews. Now I was always under the impression that Sony didn't make good speakers however the reviews say differently. (Of course none of the stores I visited had the Sony's set up so I could listen to them - and I visited 3 BB and 2 CC). Then I noticed something else - EVERY speaker gets glowing reviews. Yes there is the occasional negative review but overall 98% of every review I've read for every speaker is very positive, regardless of brand or price. That leads me to believe that speaker construction has got to a level that even cheap speakers sound good, or that most reviews out there are fake. Any thoughts? Also - has anyone here listened to the Sony 3000 and would they be a good choice for a 5.1 setup for the L/R speakers, with the sony 5000 center? Probably go with a dayton sub and an Onkyo 5.1 receiver. It's a small room (11x18). They'll be used 80% for movies/tv and 20% for music. Thanks everyone.</Content>
+	</Post>
+</Thread>

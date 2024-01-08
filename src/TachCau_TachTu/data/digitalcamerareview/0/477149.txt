@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Color Accent</Title>
+		<Username>mhoppe.spink</Username>
+		<Datetime>01-06-2010, 01:48 PM</Datetime>
+		<Content>Can anyone give me ideas? I just bought a canon sd200 IS from best buy in a bundle with camera, canon deluxe leather case, 4.0 GB sdhc card, and an extra NB-6L batery for $199.99, and would hate to lose the bundle. I love the color accent reture on my mom's sd1100 IS, but is has been removed from the sd1200 IS. Is there any FREE software i can download that will do the same thing? I don't want to take back the camera back because of this feture loss.</Content>
+	</Post>
+</Thread>

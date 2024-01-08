@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pentax Announces Three New Digital Cameras: Optio S5z, Optio S45, Optio S55</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>05-11-2005, 12:00 AM</Datetime>
+		<Content>Pentax has announced the introduction of three new digital cameras to the Optio line of compact point-and-shoot cameras. The Pentax Optio S5z, Optio S45 and Optio S55 will be shipping to dealers in June 2005. Pentax Optio S5z The fifth generation of this successful line from Pentax - the camera can capture images at 5 megapixels, get close with a 3x optical zoom (and 4x digital zoom), and then display the results on a 2.5 inch LCD. The camera body is constructed of an aluminum allow and it measures 3.3 (W) x 2.2 (H) x 0.8 (D) inches. The S5z can capture MPEG-4 movies at 640x480 resolution at 30 frames per second. Pentax is also boasting a 0.01 second shutter lag time. The S5z will be available for under $350. Pentax Optio S45, Pentax Optio S55 The next two cameras are pretty much identical except for the image capture resolution. The S55 can capture at 5 megapixels while the S45 does 4 megapixels. Both cameras have a 3x optical zoom, 4x digital zoom and 2.5 inch LCD monitor. The S55 boasts slightly more flash range (16 ft vs 11.5 ft in the S45). Another great feature is that there is help content built into the menu system that displays function descriptions. The S55 will be priced at under $300 and the S45 will be priced under $230. Pentax Optio S45 Pentax Optio S55 More details on Pentax's site</Content>
+	</Post>
+</Thread>

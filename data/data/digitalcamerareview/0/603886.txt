@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cannon S60</Title>
+		<Username>Carol Rossi</Username>
+		<Datetime>11-30-2010, 08:40 PM</Datetime>
+		<Content>No problems til recently .....all the pictures taken look likeI have taken picture through a set of mini-blinds. Thin lines all the way across. I have tried setting to factory default, I have also reformatted. Battery is fully charged ....any suggestions?</Content>
+	</Post>
+</Thread>

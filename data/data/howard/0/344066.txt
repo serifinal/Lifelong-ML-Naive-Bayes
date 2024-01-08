@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>DEVICE ISSUE: Motorola EM330 - Hinge Issue (Warrantable)</Title>
+		<Username>Kar98</Username>
+		<Datetime>11-29-2009 09:40 AM</Datetime>
+		<Content>Issue Summary: Customers who have purchased the Motorola EM330 may experience the hinge cracking or breaking on the inner portion of the hinge area when opened. Motorola is covering this issue under warranty and is honoring the customer?s warranty. This warranty coverage applies if there is no other evidence of physical or liquid damage. Motorola EM330 customers experiencing damage to the inner portion of the hinge area when opened are advised to call XBM at 1-800-801-1101.</Content>
+	</Post>
+</Thread>

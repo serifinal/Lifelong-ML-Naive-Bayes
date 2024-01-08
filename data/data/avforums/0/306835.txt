@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>VT30 - Stupid question about powering TV</Title>
+		<Username>martpu</Username>
+		<Datetime>29-06-2011, 1:55 PM</Datetime>
+		<Content>Guys, this is gonna sound pretty stupid but I'm dumb and need to ask!....... As an owner of this TV, you'll know it has a power on/off button on the front of the set. Since I purchased this set last week, after powering it on for the first time I've been turning it off via the standby button on the remote then turning it completely off at the mains as opposed to actually switching it off on the actual set. Is that ok or should I really be switching it off on the TV before switching the mains off!!?!! I'm sure it doesn't matter either way but I wanted to be sure for certain!! Cheers.</Content>
+	</Post>
+</Thread>

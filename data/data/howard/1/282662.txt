@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Captivate difference from unlocked Samsung Galaxy S I9000</Title>
+		<Username>Baldilocks</Username>
+		<Datetime>06-19-2010 12:00 AM</Datetime>
+		<Content>I'm getting one in addition to the iPhone. I really wish Samsung would have stepped up and used better materials on this phone though. Looks very very plastic.</Content>
+	</Post>
+</Thread>

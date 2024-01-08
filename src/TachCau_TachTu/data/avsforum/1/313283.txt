@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking for HDTV Mount that Can Rotate 180 Degrees and Move In and Out...</Title>
+		<Username>Knolly</Username>
+		<Datetime>04-15-08, 10:49 AM</Datetime>
+		<Content>Okay, so as the title says, here's what I'm looking for and why... I have a really old and really nice wooden cabinet that we keep our tv in, but the cabinet is tall and slender, so to put in a widescreen tv normally would mean it would have to be rather small... So IDEALLY what I'd want is something with a motor where I could open the cabinet doors and have the TV placed in it vertically and then press a button on the wall/a remote that would cause the TV to push itself out of the cabinet (to clear the edges of the cabinet) and then rotate into a horizontal position. I actually wouldn't horribly mind having a mount where I'd have to do this manually, but motorized is always better. Does anyone know of something like this that exists? I actually wouldn't even mind something where it was two separate motors or something, I'm just hoping this is possible. Any help would be greatly appreciated!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>U-Verse or Fios if you had a choice and why</Title>
+		<Username>amazonracer</Username>
+		<Datetime>12-29-08, 10:29 PM</Datetime>
+		<Content>If you had a choice of U-Verse or Fios, which would you pick and why. Does one have a better long term outlook. I can get Fios right now but don't trust the people trying to sell it to me. My mom lives approx. 15 miles from me and just got U-Verse but she doesn't know what it really does yet. I saw a few HD channels today and looks similar to her Direct TV. I want the best technology but I want something long term. I am happy with my direct tv but video on demand looks interesting. Maybe get Howard TV, etc.</Content>
+	</Post>
+</Thread>

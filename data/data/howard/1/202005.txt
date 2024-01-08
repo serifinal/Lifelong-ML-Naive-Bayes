@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>policy for adding a line to my family plan</Title>
+		<Username>dchaney297</Username>
+		<Datetime>04-24-2010 01:15 AM</Datetime>
+		<Content>Hello all, I currently have a jailbroken iPhone 3G. I am planning on upgrading to the next gen iPhone when it's released in a couple of months. I am thinking that I want to keep my 3G since it's jailbroken and I can use MyWi to tether my iPad. The way I understand it is, the extra line is $10.00 plus the $30.00 for the data plan. My question is, by adding an extra line to my family plan using a device I already have, will I be required to sign a contract for that extra line or will I be able to have it on a month to month basis? Thanks David</Content>
+	</Post>
+</Thread>

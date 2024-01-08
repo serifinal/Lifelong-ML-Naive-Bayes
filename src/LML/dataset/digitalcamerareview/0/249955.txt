@@ -1,0 +1,45 @@
+sx1 questions .
+i was looking for an hd camcorder , read about the nikon d90 , was stunned by the canon 5d mark ii .
+i had to know more .
+the sx1 records hd at 40-45mb / sec , 5-5 .6 mb/s , which is why it needs a class 6 memory for video .
+that is the same as the 5dm2 and 60 % to double other camcorders and cameras including the panasonic gh-1 .
+it uses the very effective avchd protocol , were the nikon and older cameras used mjpeg , an mpeg2 protocol similar to hdv .
+why are all the cameras peaking in the 17-25mb / s range ?
+because the 1990s dv tape protocol was 25mb/s , a physical limit of the tape drives .
+hdv was designed to use the same tape drives , however interframe mpeg2 gave an advantage over intraframe dv .
+avchd was to allow recording to hard disk drives and solid state memory when a 10gb disk drive for the camera was big .
+hdv was matched or exceeded at 17mb/s ... really closer to 13mb/s .
+although dv cameras had sensors that fully sampled their 720x480/576 images , the hd cameras all undersampled .
+the small sensors and high resolutions usually meant that the lens was also a limiting factor .
+fast forward to 2009 .
+cmos and some ccd sensors do a full sampling or over sampling of hd .
+lenses able to fully sample hd are regularly available .
+and sensors have improved .
+to capture video at a high quality , people have taken hdmi output through a blackmagic design intensity card to record at 100mb/s or more .
+the canons used avchd on steroids...40-45mb / s and it shows .
+the reason the 5dm2 is good is not only the sensor and the lens ... it is that the image is recorded in a way that the lens and sensor can do their stuff .
+back to the sx1 .
+it has the same recording bandwidth , but a much smaller sensor and a , well , lens appropriate for a us$ 600 camera .
+in the us , the 5dm2 kit lens is us$ 1000 .
+however the lens and sensor are comparable to hd camcorders costing up to us$ 1500 .
+sound on all camcorders regardless of price is awful .
+unfortunately , there is no microphone input on the sx1 .
+however a zoom h2 or h4 can be purchased inexpensively so that is no really an issue .
+the lens and sensor , like all low end pieces , work fine if their is enough light .
+the biggest problem is chromatic aberration from the clips that i saw .
+in low light , it behaves like a small sensor camera .
+it does allow an ae lock .
+the 5dm2 does n't ... causing a ruckus among its owners .
+but the sx1 has problems .
+first , how stable is the ae lock .
+second , how easy is it to focus ... hd requires an accurate focus .
+third and most important , how do you mount a filter ?
+video requires filters to look right .
+outside , a circular polarizer is essential .
+neutral density filters help deal with bright days ... the small sensor limits you to an f8 , and you really need to stay under f5 .6 -lrb- this deals with how the lens handles contrast at different spacial frequencies , and a function of the small sensor -rrb- .
+the only way are the neutal density -lrb- nd -rrb- filters .
+because the cameras have limited dynamic range -lrb- would love a fuji exp hd camera -rrb- an ultra contrast filter is useful .
+and a small black diffusion -lrb- i use .5 -rrb- works wonders indoors .
+so ... my questions : 1 -rrb- how do you mount a filter ?
+2 -rrb- how easy is it to achieve and maintain the focus ?
+3 -rrb- does the ae lock work ?

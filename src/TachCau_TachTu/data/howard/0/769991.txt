@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Google Nexus One</Title>
+		<Username>collegeville</Username>
+		<Datetime>01-07-2010 07:34 AM</Datetime>
+		<Content>If this thing is sold on Verizon by Google at a subsidized price I am going to be REALLY pissed at Google. If they are selling it for $500+ I don't care I am just praying we don't have an Indirect I Phone situation brewing. http://www.feelphones.com/</Content>
+	</Post>
+</Thread>

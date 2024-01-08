@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>VT30 Buzzing noise on 55 inch model</Title>
+		<Username>Doron</Username>
+		<Datetime>26-05-2011, 9:44 AM</Datetime>
+		<Content>Hi The buzzing noise is louder on my 55 inch VT30 compared to my 42 inch PZ800 plasma which I can only hear when I?m standing next to the PZ800 When the TV volume is low on the VT30 I can hear the buzzing noise from where I?m sitting about 10 feet away? I can also hear the buzzing noise level going up and down sometimes on the VT30? Appreciate any comments! Thanks</Content>
+	</Post>
+</Thread>

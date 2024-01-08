@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Charging SD750 in Argentina</Title>
+		<Username>Alex</Username>
+		<Datetime>06-14-2008, 06:16 PM</Datetime>
+		<Content>So, I'm spending two months in Argentina this summer and I decided to get the SD750 (haven't ordered it yet). Does anyone know if this product is dual voltage? (I am not even sure how it charges yet though.) That is to say... can it charge safely simply using an argentinean power adapter without it getting zapped, or do I need to buy a converter? Their voltage is much higher there. Thanks a lot.</Content>
+	</Post>
+</Thread>

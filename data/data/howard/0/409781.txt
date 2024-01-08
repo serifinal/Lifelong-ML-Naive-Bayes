@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>micro sim & micro sim adapter will it work on other smartphones + $20 shared add on</Title>
+		<Username>ndewji</Username>
+		<Datetime>07-29-2010 10:53 PM</Datetime>
+		<Content>1) I have voice plan w/ 6GB data w/apn3 using blackberry. Will my blackberry work if i get IPHONE 4 if exisiting sim is transfered to micro sim? 2) If I subcribe to shared data $20 will it work on other smartphone if I decide not to keep IPAD? What do you people think?</Content>
+	</Post>
+</Thread>

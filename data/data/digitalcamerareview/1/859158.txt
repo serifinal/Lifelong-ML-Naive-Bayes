@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon SX30 - Power Button Question</Title>
+		<Username>st_firestone</Username>
+		<Datetime>07-14-2011, 09:49 PM</Datetime>
+		<Content>I'm thinking of buying a Canon SX30. Does the power button click when you press it and does it stay pressed in until you press it again to turn the camera off? I'm used to the switches that you rotate to turn on and off the camera, not press. Just wondering. Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>e66 torch</Title>
+		<Username>v1ralIV</Username>
+		<Datetime>12-09-2009 11:21 PM</Datetime>
+		<Content>any apps that turns on the flash as a torch, ive tried brightlight, didnt even launch and s60 torch, it only turns on the light halfway</Content>
+	</Post>
+</Thread>

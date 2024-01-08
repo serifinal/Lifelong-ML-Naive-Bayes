@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Losing focus in video with Canon Power Shot SX20 IS</Title>
+		<Username>Bill Dedman</Username>
+		<Datetime>07-24-2010, 10:34 PM</Datetime>
+		<Content>Hi. I'm an amateur having an issue with a new Canon Power Shot SX20 IS. When I shoot video, often it will lose the focus and then seem to search back and forth looking for focus. I'm shooting in auto mode, though I don't know if this applies to the video or only to stills. At an orchestra concert, for example, with the camera on a tripod, I'll focus on a player, but then as the players move the focus is lost and it wanders. It seems this may be related to the Face Detect setting in auto focus. Does that setting apply to video? I'm experimenting with that set to FlexiZone/Center. Is there a mode I should be shooting in, or something I can do to help it maintain focus? For example, what setting should I use when shooting video at a hockey game, when players may be moving toward or away from me? Thanks for any suggestions.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Video out works GREAT on the TP.</Title>
+		<Username>k_semler</Username>
+		<Datetime>09-21-2009 10:47 PM</Datetime>
+		<Content>I just got my order of my TP video cable in today, (ordered on Saturday, damn fast shipping), and I'm using it right now to watch "Lord of War" on my HDTV, and the quality is GREAT. Now I'll have a portable computer wherever I am. All I need is a foldable bluetooth keyboard and mouse, and as long as I have a TV available with RCA inputs, I'll be able to use my phone as a desktop computer. (I could now, but it kind of sucks using that small keyboard when I have a 23" widescreen HDTV). Now all I need to find is a holster that will carry my TP, the video cable, the AC charger, and a sync cable. Is there a holster like this available, or will I be into fanny pack territory?</Content>
+	</Post>
+</Thread>

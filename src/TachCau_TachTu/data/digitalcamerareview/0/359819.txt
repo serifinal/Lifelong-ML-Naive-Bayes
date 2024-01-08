@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS A720IS Auto focus</Title>
+		<Username>Tommy</Username>
+		<Datetime>11-01-2010, 10:26 AM</Datetime>
+		<Content>I'm a point & shot guy with very little camera savvy. That's why I bought a P&S I can't seem to get those crisp clear pics that I used to get when I first bought the camera. Anything relatively close up comes out blurry and none of my pics have that - jump out off the page - quality that I've seen with you folks. I'm very camera techno challenged ........... oh yeah...... is there a way I can download a copy of my users manual? I only have the Spanish one...... Thanks Tommy</Content>
+	</Post>
+</Thread>

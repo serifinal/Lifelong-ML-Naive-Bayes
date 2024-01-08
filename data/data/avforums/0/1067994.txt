@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Accessing service menus</Title>
+		<Username>Rcww</Username>
+		<Datetime>01-02-2005, 12:31 PM</Datetime>
+		<Content>Pioneer 435XDE / 505XDE Plasma Service menu Make sure the plasma and the media box is in standby. Press DISPLAY on the remote (just press, do not hold) Wait 3 seconds Press LEFT, UP, LEFT, RIGHT and POWER (on the remote) If done correctly, the plasma turns on and the INFORMATION page is displayed (the DISPLAY button is normally the one below the 4 on the remote)</Content>
+	</Post>
+</Thread>

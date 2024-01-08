@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PS51D6900 and poor scaling (compared to D8000)</Title>
+		<Username>viajero</Username>
+		<Datetime>15-02-2012, 1:03 AM</Datetime>
+		<Content>good morning! on HDTVtest the D6900 doesn't get any compliments, when it comes to scaling of standard definition. especially compared to the D8000... is it really that bad? or was it a software/firmware problem and is already solved? is anybody in the position, to compare the scaling of the D6900 with the D8000 (or D7000)? thx for ur help! i would like to buy the D6900, but most of my contend is still standard definition and the TV should be able to handle it!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cell Light Contrast Brightness</Title>
+		<Username>Samsung boy</Username>
+		<Datetime>23-12-2011, 7:28 AM</Datetime>
+		<Content>Hi, Can someone tell me the difference please, especially Cell Light and Brightness. My old Samsung Plasma did not have a Cell Light function. Thanks</Content>
+	</Post>
+</Thread>

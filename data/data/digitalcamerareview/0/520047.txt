@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon 1000D good news:</Title>
+		<Username>gubak</Username>
+		<Datetime>07-22-2008, 04:10 AM</Datetime>
+		<Content>Apparently it clearly beats the A200, D60 & E420 on high-ISO IQ; actually even in the lower ISOs. And this is on both luminance *and* chrominance noise. What more if the 1000D's in-camera high ISO chroma NR is turned on. http://www.infoborder.com/Digital_Ca.../eos_1000d.php The 1000D also appears to have better per-pixel sharpness than the other 3 cameras in both JPEG & RAW. http://www.infoborder.com/Digital_Ca...1000d.php#Feat The above could be evidence that the 1000D has a tweaked 10MP sensor compared to the one used on the 400D (or at least the in-cam image processing has gotten better with respect to NR) and that it has a weaker AA filter. The review also confirms that the A200 & D60's (same 10MP Sony CCD sensor) ISO3200 firmware-boost is nothing more than a marketing gimmick that is hardly usable =P.</Content>
+	</Post>
+</Thread>

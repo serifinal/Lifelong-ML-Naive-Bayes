@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PN50A450 vs Panasonic TH50PX80</Title>
+		<Username>matryx</Username>
+		<Datetime>12-03-08, 11:50 AM</Datetime>
+		<Content>I'm currently deciding between the Samsung PN50A450 and the Panasonic TH50PX80. Which would be the better buy?</Content>
+	</Post>
+</Thread>

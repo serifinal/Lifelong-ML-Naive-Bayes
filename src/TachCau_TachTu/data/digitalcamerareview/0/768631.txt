@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon ixus 980is set/function button jammed</Title>
+		<Username>scooby_r</Username>
+		<Datetime>10-08-2009, 11:28 PM</Datetime>
+		<Content>I've got an Ixus 980is, only 1/2 year old. One day, i realize that the function/set button is jammed. Tried pressing hard but still stuck, also tried using a sharp thin object to try and lift the button up but still couldn't. Sent to canon support. Repair cost is $64USD. Just wanna hear from you guys whether it's worth repairing the button. The camera is still is still functioning well but the only reason why i need the button is to set certain options, features and to delete photos.</Content>
+	</Post>
+</Thread>

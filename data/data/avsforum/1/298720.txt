@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony 46Z4100 or Samsung LN46A750?</Title>
+		<Username>Hogfan2502</Username>
+		<Datetime>11-08-08, 09:38 AM</Datetime>
+		<Content>I'm ready to buy one of these two tv's but i can't decide on which one. I've read good and bad on both but i was curious of owners which one to get. I'm all about picture quality so any recommendations? I'll also post a poll on which one everyone likes better to help me decide. Thanks</Content>
+	</Post>
+</Thread>

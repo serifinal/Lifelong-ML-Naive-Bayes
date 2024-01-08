@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer Kuro Panel Life and Problems</Title>
+		<Username>satadioz</Username>
+		<Datetime>18-06-2011, 6:12 PM</Datetime>
+		<Content>Hello users, i'm very glad to be part of the community, Since two days, i'm a proud owner of a second hand Pioneer Kuro PDP-LX508D HDTV. But yesterday I found some problems. With no signal input (Black Screen) the panel isn't really Black but Grey (Brightness and other relevant parameters are set on minimal settings), it seems to be a idle luminance problem I think. Today I found out some Informations about the panel in the Service Menu. The panel life is around 9106 Hrs and a Power Count of 2205 Times. Not even 1/6 of panel lifetime is over. Where is the Kuro "blackerness" i've seen by every single pioneer dealer? For that price range is this for me unacceptable. Is there any solution for the idle luminance problem? Could some one help me Please? Many thanks Satadioz</Content>
+	</Post>
+</Thread>

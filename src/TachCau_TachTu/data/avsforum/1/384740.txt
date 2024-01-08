@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TH-42PX80U or Samsung PN42A400 (same price)</Title>
+		<Username>Davidf26</Username>
+		<Datetime>01-01-09, 05:30 PM</Datetime>
+		<Content>I can't sleep over this decision. Both have the same price tag and similar features... I would love to hear from owners of either one and if anyone could help me make this decision I would greatly appreciate it. Btw, sound quality is not a factor in making my decision, and both have plenty of connections. THANKS.</Content>
+	</Post>
+</Thread>

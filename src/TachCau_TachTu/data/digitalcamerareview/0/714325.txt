@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fujifilm Finepix F50fd First Thoughts</Title>
+		<Username>Jim Keenan</Username>
+		<Datetime>10-11-2007, 08:10 AM</Datetime>
+		<Content>It seemed like the Finepix F40fd had hardly hit the street before Fujifilm announced the September arrival of the Fujifilm Finepix F50fd. The jump to 12MP on the same physical-sized sensor as the F40fd naturally raised the question of what would happen to ISO noise as a result. Fujifilm&#8217;s Super CCD-equipped cameras enjoy the reputation for providing the best low-light performance in the digital P&S ranks, but could Fujifilm pump up the resolution by 4MP and still retain their low-light lead?(view large image)A quick look at some blue sky shots has me thinking the F50fd appears a little noisier than the F40fd, but still better than the competition by perhaps a stop. I took these shots at default values after literally getting just enough of a charge on the battery to run the camera, so there&#8217;s a lot of shooting yet to go before the final verdict comes in. Focus acquisition seems fairly quick, and shutter performance looks good in bright light conditions, based on about a dozen shots so far.(view medium image) (view large image)(view medium image) (view large image)The F50fd has some new features such as mechanical stabilization in addition to Fujifilm&#8217;s traditional ISO increase method, and automatic red eye correction that I first learned to appreciate on a Nikon P&S. We&#8217;ll have a more complete review of the F50fd in a week or so.</Content>
+	</Post>
+</Thread>

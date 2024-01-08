@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Manual AF & Spot Metering.. Are they the same thing?</Title>
+		<Username>ManxMania</Username>
+		<Datetime>11-01-2011, 11:01 AM</Datetime>
+		<Content>Hi guys Every time I try to get my head around Manual AF Points and Spot metering I see video's on yourtube etc but they always seem to be talking about the same thing. Basically, I want to bring out the best in my studio sittings... help.... Regards Gary</Content>
+	</Post>
+</Thread>

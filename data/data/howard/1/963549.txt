@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Does Virgin Mobile texting have issues? Long delays, never delivered, etc.</Title>
+		<Username>jonm011</Username>
+		<Datetime>10-03-2009 09:31 AM</Datetime>
+		<Content>I'm considering a Rumor2 with Texter's Delight but a few google searches have shown people mentioning if they text to a certain carrier like Verizon the text never goes through or that they'll recieve texts with hours of delays from when it was sent. Is this true? Do you have any issues with texting? Are the issues known but it's a "you get what you pay for and it's not a deal breaker for me" thing? Because that would definitely be a deal breaker for me if it took a few hours for someone to get my text (if they get it at all). Thanks.</Content>
+	</Post>
+</Thread>

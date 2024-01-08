@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PAYGO Phone not receiving text messages</Title>
+		<Username>Shismo</Username>
+		<Datetime>12-11-2009 01:09 PM</Datetime>
+		<Content>Hi All, I'm on Rogers Pay-As-You-Go with a 125/mo text package (with a balance of about 100 left, and some money left in the monthly balance expiring in January). As it is, I can send texts to people no problem. But receiving is a very different story. When some people (some on 711 speakout, others on Rogers monthly) send my texts, they don't get a delivery report and I don't get the message until very much later, when I get all the messages I was sent together at once. This has happened multiple times. Does anyone know whats going on? Thanks!</Content>
+	</Post>
+</Thread>

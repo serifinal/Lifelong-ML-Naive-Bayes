@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>canon a540 vs kodak c663</Title>
+		<Username>wibz</Username>
+		<Datetime>09-14-2006, 11:03 PM</Datetime>
+		<Content>i want to buy a digital camera and after some "soul searching" and also some "money searching" the option come down to this two, canon PSA 540 or kodak C663. the 540 will cost me around us$ 255 and the C663 us$ 250 which do you think i should choose. and by the way i lived in jakarta,Indonesia (for those who wants to know, which i don't think is a usefull info) oohh...sorry did not see the buying sugestion thread in the front. can the admin move it there or something, really sorry i didn't noticed it</Content>
+	</Post>
+</Thread>

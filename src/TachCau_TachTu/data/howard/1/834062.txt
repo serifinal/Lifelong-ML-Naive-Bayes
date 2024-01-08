@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>***iphone 3gs vs samsung vibrant/nexus*** help!</Title>
+		<Username>bigg12x</Username>
+		<Datetime>07-07-2010 01:44 AM</Datetime>
+		<Content>Hey im goign to simple mobile and not sure what to get. i like the iphone 3gs but it running on simple mobile wont get 3g net it will run on EDGE NETWORK which is slower. also andriod has some freezing problems nad was thinkign of the VIBRANT which come to tmobile and will be able to catch 3g net????? i know those 2 andriod phones have better processors and stuff but nothing can beat an iphone cmon guys... any opunions please....?</Content>
+	</Post>
+</Thread>

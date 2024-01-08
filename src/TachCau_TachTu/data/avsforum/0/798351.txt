@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Help - analog and digital audio out simultaneously with Onkyo TX-SR504</Title>
+		<Username>eagle_2</Username>
+		<Datetime>03-16-08, 06:56 PM</Datetime>
+		<Content>I hope someone can help me. I just bought an open-box Onkyo TX-SR504, and I love it, except for one big problem. My girlfriend owns a gaming sound chair, which she sometimes uses when I watch DVDs. I have everything hooked up, but no matter what I try, I can't get the Onkyo to output Dolby Digital surround, which is connected through the DVD player's digital coaxial, and also output 2-channel analog, which is connected through the DVD player's analog cables, at the same time. If I select the default DVD mode on the receiver, it automatically selects the digital coaxial input (DTS/DD), and I can't get it to also send out analog at the same time, even though my DVD player's analog audio cables are connected to the analog inputs on the receiver. I know the DVD player is outputting both signals, because if I bypass the receiver, and hook the DVD player's analog out directly to the chair, the chair works, while also getting Dolby Digital through my receiver. That would work, except I have other things connected to the receiver that I want to get through the chair, and everything else is getting passed through to the chair except my DVDs. Is the Receiver not letting me output both analog and digital simultaneously, or am I missing something. Any help or advice would be great. I imagine their other receivers act in a similiar fashion.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,4 @@
+sd 850 is flash no working .
+i flash just stopped working on my sd850 and on auto it just flashes orange and the flash shows up on the lcd screen and blinks but no flash .
+do i have a setting wrong or what could it be .
+thanx timmyy .

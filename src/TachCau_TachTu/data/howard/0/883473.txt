@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>WIND Mobile Chooses Telepin Software to Provide Mobile Transactions Solutions</Title>
+		<Username>netcon</Username>
+		<Datetime>09-15-2009 01:50 PM</Datetime>
+		<Content>just fresh of the press... Dragonwave first.. and now second Canadian company is selected for providing services to WIND.. good stuff.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Vibrant From Bell on Virgin</Title>
+		<Username>Krel</Username>
+		<Datetime>08-06-2010 08:44 AM</Datetime>
+		<Content>Hi all, I'm not sure if this is the right place to ask this question but here goes... I am on virgin mobile and recently broke my phone. I was wondering if it is possible to buy a samsung vibrant from Bell and then use it on virgin mobile. Would I need to unlock the phone and/or buy a sim card? Thanks</Content>
+	</Post>
+</Thread>

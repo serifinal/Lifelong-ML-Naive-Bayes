@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Latest firmware for Panny S10?</Title>
+		<Username>stanleyntl</Username>
+		<Datetime>04-11-2009, 7:09 PM</Datetime>
+		<Content>I'm on my second Panny S10 - first had lots of pixel defects - that was at software version 1209. My replacement is at software version 1208. Not sure if this is the firmware version being reported. My current set has less colour banding than the "later" model (based on serial no) but still too much IMHO, especially on standard def from DVB-S (satellite). What is the most current software/firmware version for this model? Has the colour banding problem (as reported by Which) been resolved or not?</Content>
+	</Post>
+</Thread>

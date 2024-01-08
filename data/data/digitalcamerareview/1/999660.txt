@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panoramic</Title>
+		<Username>jasmine3407</Username>
+		<Datetime>03-25-2008, 09:08 PM</Datetime>
+		<Content>I'm pretty much a point-and-shoot type of person. But I'd like to be able to take panoramic photos for an upcoming trip. I am thinking of getting one of the Canon Elph models, but I'm not sure if I need to look for anything in specific regarding panoramic mode. Do I need a camera with a special lens? Or just a camera with that feature? Do any of the Elphs have this feature? My old digital cameras have all been Sonys and none of them had this feature, unless it was there and I never stumbled across it. I heard you can use a feature called "stitch" or something to put together several pics, but none of my previous cameras had this, either. Please help!</Content>
+	</Post>
+</Thread>

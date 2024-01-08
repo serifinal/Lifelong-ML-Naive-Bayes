@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Elph 310 HS: Best compact camera so far?</Title>
+		<Username>drwarf</Username>
+		<Datetime>11-05-2011, 05:53 PM</Datetime>
+		<Content>I noticed the Sony WX9 and the Canon Elph 300 are in the top 10 October digital cameras list, but the new Canon Elph 310 which is becoming readily available over the last couple of weeks is better than both. I have the WX9 and Elph 300 sitting in my closet, but none have the power this compact camera has. I bought it last Monday and so far it is the best camera I have owned in a long time. It is getting really good reviews on BestBuy and Amazon and I am hoping this site here does an in-depth review since I enjoy reading them. Anyways, it has a brighter screen then its predecessor and has the almighty better optical zoom range while still maintaining a wide angle. Even the tripod socket is metal which not all cameras have, but should. The controls are simple and quick responding movie button for full HD movie recording. The menu button is on the side and is easy to touch by moving your index finger from the zoom ring. The macro mode is up front on the control pad and of course the zoom works while movie making. Canon didn't add more megapixels, but 12 is plenty big for me. I have been waiting for years for a small camera to have the features altogether that this Elph 310 has. Sorry for a long read, but I am truly excited about my this camera! A must buy. P.S. I also bought a Sandisk Extreme Class 10 8 GB SDHC card with 30 mb/sec transfer, so that also helps performance.</Content>
+	</Post>
+</Thread>

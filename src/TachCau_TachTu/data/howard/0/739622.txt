@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola DROID X: FAQ & Tips-and-Tricks. Post your questions and tips here.</Title>
+		<Username>FAUguy</Username>
+		<Datetime>07-18-2010 04:15 PM</Datetime>
+		<Content>Use this thread to post questions, answers, and tips about using the Motorola DROID X. Such as "How do I import contacts" or "Here's a suggestion..."</Content>
+	</Post>
+</Thread>

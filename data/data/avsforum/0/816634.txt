@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>White "artifacts" (noise) Pioneer Elite 9G</Title>
+		<Username>leetmode</Username>
+		<Datetime>10-22-08, 09:59 AM</Datetime>
+		<Content>I have searched everywhere for topics on this and cant find anything. Any help is appreciated. I just purchased a Pioneer 9G Kuro Elite 60", ran the break in for about 20 hours that the picture is stunning ! However, when i run my PS3 at 1080p i receive a white "artifacts" (looks like white noise) i do get a picture but it looks like white random snow all over. I am using a Denon receiver that runs at 1080p Rapid Run HDMI cables 25' When i plug in the ps3 directly to the monitor it works perfectly. When i plug in the ps3 directly via the 25' cable the noise appears. When i plug in the ps3 through the Denon same noise appears. Have tried the active cables from rapid run and more noise appears. Does this sound like a Cable issue or is it a Pioneer issue ?</Content>
+	</Post>
+</Thread>

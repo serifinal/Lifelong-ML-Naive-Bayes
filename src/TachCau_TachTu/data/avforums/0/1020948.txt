@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TXP46GT30 problem with hdd media player playback</Title>
+		<Username>Slaine36</Username>
+		<Datetime>20-02-2012, 5:18 PM</Datetime>
+		<Content>Hi All ... Can anyone shed some light on this wierd little problem for me please? I've had my Panny TXP46GT30 for a few days now and everything seems peachy that I've tried so far apart from one thing. I have a DVICO TVIX 65000 hdd media player that I use to stream movies, tv stuff, music etc to my Pioneer plasma (which worked fine without problem). Now I've just upgraded to the Panny and strangely when I'm watching a movie using the media player (hooked up exactly the same way as the Pioneer was) the sound goes off, followed a few seconds later by the picture. The screen thgen goes all pixellated the blocky before going off alltogether. The screen just goes blank as if there's no signal!. This seems to occur about 30mins plus into the movie, and if I switch off the media player and back on I can resume where it went off before. Naturally I've done all the usual things like checking cables, trying other hdmi ports on the tv etc and can't find anything out of the ordinary that could cause this!. Does anyone know of an issue with this make of tv and media players? Basically I'm at a complete loss as to why this is happening!. I've also rang the shop where I bought it from and they've suggested to try the old tv again to see if the media player is faulty which I'm doing right now. Also they've suggested me bringing in the media player for them to see if it does it for them. So that's it ... any suggestions would be very welcome</Content>
+	</Post>
+</Thread>

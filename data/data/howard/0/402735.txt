@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>darkhero168</Username>
+		<Datetime>09-04-2011 11:34 AM</Datetime>
+		<Content>I have a brand new Blackberry 9360 locked to Rogers. Never used, but opened from the box to ensure contents are intact. Was given the phone for contract renewal but had purchased a different phone elsewhere to use. $300 OBO, lowballers will be ignored. Local sale in the GTA only. No shipping, cash only, no trades.</Content>
+	</Post>
+</Thread>

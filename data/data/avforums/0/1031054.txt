@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>samsung ps50c680 problem</Title>
+		<Username>sterrick</Username>
+		<Datetime>13-12-2011, 8:38 PM</Datetime>
+		<Content>hi, recently i entered the Hotel Mode MUTE-1-1-9-ENTER and followed the steps online to enter the extended menus. i enabled the 24p thingy and also SRS Tru sound/Equalizer. i exited that setup menu, powered off the tv and then powered back on and now i have a problem with my remote......arghhhh the numeric buttons dont function, either does SOURCE, prog up/down and Ch List, although the tv picks up the IR signal from those buttons indicated by the light on the tv. please can someone help with this issue</Content>
+	</Post>
+</Thread>

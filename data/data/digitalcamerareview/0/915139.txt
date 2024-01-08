@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon powershot sx130is..... pls help</Title>
+		<Username>Sreehari</Username>
+		<Datetime>05-11-2011, 07:39 AM</Datetime>
+		<Content>I have canon powershot sx 130 only 6 months since i bought but now find some black dots while photographing..... is it any problem by dust or other pls reply me</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Verizon rep claims that their set top box is necessary...</Title>
+		<Username>heinosuke</Username>
+		<Datetime>08-21-08, 09:33 AM</Datetime>
+		<Content>Does anyone know if this is true? I'd really like to build an HTPC, but I don't need an additional computer if it can't double as a PVR... What do I need to tell Verizon? The rep was adamant that without one of their boxes, there's no way I could watch TV (from both a technical and non-technical standpoint). Thanks!!!</Content>
+	</Post>
+</Thread>

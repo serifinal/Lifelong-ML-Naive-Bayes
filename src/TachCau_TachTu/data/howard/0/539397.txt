@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant Galaxy S unlocked AT&T/T-Mobile/Winds/Rogers/Mobilicity/Bell 2G,3G</Title>
+		<Username>thanhdang</Username>
+		<Datetime>11-06-2010 09:51 PM</Datetime>
+		<Content>Hello, I am selling a used, Unlocked Samsung Galaxy S in a very good condition. I don't need to say it over and over again that this phone works great on 2G,3G network from many wireless carriers in North America. The packages including: - The Samsung Galaxy Phone - Battery - 2 GB Micro SD card - Wall charger - USB data cable - Earphones - Extra battery cover - Micro SD card adaptor - User Guide - Box $365 Shipped to U.S and $385 Shipped to Canada</Content>
+	</Post>
+</Thread>

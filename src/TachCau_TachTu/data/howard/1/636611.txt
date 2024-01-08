@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Buying Factory Unlock iPhone4</Title>
+		<Username>shouhutianshi</Username>
+		<Datetime>03-14-2011 09:43 AM</Datetime>
+		<Content>Hi, I am looking to buy a Factory Unlock iPhone 4 for cash. Please send me a PM on the condition and the price of the phone. Thank you</Content>
+	</Post>
+</Thread>

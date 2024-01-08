@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>8 gig Micro SD card</Title>
+		<Username>Kherani</Username>
+		<Datetime>03-17-2010 02:59 PM</Datetime>
+		<Content>I have a Brand-New 8GB MicroSD card. It is Kingston brand, and it comes with a USB reader. Located in GTA, can ship at buyers expense.</Content>
+	</Post>
+</Thread>

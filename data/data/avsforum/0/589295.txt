@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to acheive LPCM output over HDMI</Title>
+		<Username>bahndit</Username>
+		<Datetime>12-31-08, 04:58 AM</Datetime>
+		<Content>I am running a Asus P5N7A-VM and with the integrated NVIDIA 9300 I have been able to get HDMI audio working (NVIDIA 180.11 drivers and ALSA 1.0.18a). However I can not get my setup to pass LPCM, 6-Channel, to my reciever. When playing a video with a 6 channel FLAC file in XBMC I am only getting 2 channels on my receiver. I have spent the last few days poking around the internet to see if anyone has successfully been able to pass LPCM in Linux with the new NVIDIA integrated mobos like mine but I haven't been able to find any useful information. Any suggestions on how to solve this problem?</Content>
+	</Post>
+</Thread>

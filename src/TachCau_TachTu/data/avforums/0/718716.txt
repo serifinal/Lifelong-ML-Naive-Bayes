@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PSXXD8000 Buzz!!</Title>
+		<Username>mjhat5</Username>
+		<Datetime>29-05-2011, 1:09 AM</Datetime>
+		<Content>Just got my PS58C7000 exchanged with a PS59D8000 due to the 3d crosstalk and glasses losing sync. PQ is fantastic with great motion, better blacks and improved 3d. I am really happy with the set except on around the 2nd or 3rd day of viewing I have noticed a fairly loud buzz from the set. I know from having plasma's before that there is usually a slight hum and I did have a slight buzz on the C7000 but it usually went whisper quiet after a bit of viewing. It wasn't even enough to bother me when it was buzzing. But... the level of the buzz on this new set is pretty irratating even with the volume up. I can't see myself getting used to it as unless your pretty much listening to a loud concert or something, you hear the buzz in the background the whole time. I obviously have all my sound running through my amp and the buzz is coming straight from the back of the set. Does anyone have any experience with having the buzz on any samsung palsma's fixed? 2011 series or earlier? I remember seeing people saying a new power cable fixed it, or tightening screws in the back of the panel which were vibrating causing the buzz. Others have said the whole panel needed to be changed out. Anyone with anything to add would be much appreciated as it really seems to be a lottery getting a samsung plasma when it comes to buzzing, bad banding etc.</Content>
+	</Post>
+</Thread>

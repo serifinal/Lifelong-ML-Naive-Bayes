@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Home Theater seating from Stargate Cinema?</Title>
+		<Username>cwright3</Username>
+		<Datetime>08-27-08, 09:24 AM</Datetime>
+		<Content>Stargate Cinema has a sale offering free shipping on all of their seating through the next few days, and I found a sectional there that I really like. Their price is several hundred dollars less than what I've found for the same (or similar) set on all other websites, as most charge around $1700-$1800 but do not include the ottoman or shipping. I've also looked at the local furniture stores and outlets and every configuration similar to this is far and away more expensive. So I guess what I'm asking is, has anyone purchased furniture from this company? Should I expect a lesser build quality for the price? I'm a little nervous about buying such an expensive piece of furniture online, but then again this is exactly what I want and for the right price...</Content>
+	</Post>
+</Thread>

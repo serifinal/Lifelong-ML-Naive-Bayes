@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Screen Burn</Title>
+		<Username>lukeledbrook</Username>
+		<Datetime>03-01-2012, 10:00 PM</Datetime>
+		<Content>My Panasonic TX-P50G20B is about 1 year old now, I watch a lot of Blu Rays and DVD's on it using 'cinema' mode with the contrast defaulting at about 75%. I've never used dynamic mode after reading the high contrast can burn the screen easier. However over the Christmas period I had a particularly lengthy stint on Assassins Creed Revelations on the PS3, only to discover to my horror that the life bar has burnt my TV in the top left. Now I've read all the bits n pieces on the web saying that plasma burn has virtually been eradicated from new TV's but I can assure you it has not! So my question now is does anyone know a good method to remove the burn or try to reverse it? Thanks</Content>
+	</Post>
+</Thread>

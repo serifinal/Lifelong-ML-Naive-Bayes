@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Toshiba 52HM84 - Do I need to replace the Lamp Ballast?</Title>
+		<Username>smergs</Username>
+		<Datetime>11-26-08, 03:34 PM</Datetime>
+		<Content>I've been looking around and posting in a few older threads but I have been unable to get a clear answer. I think I need to replace the Lamp Ballast in my Toshiba 52HM84 DLP television. Sometimes when I go to turn on the tv I will hear the audio come on but the video will not come up. Then the Green light will blink 9 times and the tv will try to restart itself. Usually after a few tries it will come on and work as it should. Sometimes if it seems like isn't going to come on, I give it a 5 - 10 minute rest and then it comes on fine. Other times (like last night when I got home from work and this morning before leaving the house) I turned it on and it came on on the first try. Can anyone tell me if this is a ballast issue? And if it is, does anyone know the difference between part #'s 23122468 and 23122468P? The only thing I can find is the one with the P on the end is cheaper.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can you put lenses on the Canon powershot SX20 IS?</Title>
+		<Username>XxPHOTOGRAPHY_GIRLxX</Username>
+		<Datetime>07-18-2010, 12:32 AM</Datetime>
+		<Content>Just wondering weather you can put lenses on the Canon SX20 IS.</Content>
+	</Post>
+</Thread>

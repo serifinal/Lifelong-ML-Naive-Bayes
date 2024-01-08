@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>50 " ish TV ?</Title>
+		<Username>kungfupondfish</Username>
+		<Datetime>23-07-2011, 11:23 AM</Datetime>
+		<Content>Hi everyone. The dreaded time has come where I have to buy a new 50" ish TV. I'm not bothered about 3D, but would like built in Freeview HD. I've waited for the reviews on the new Panasonic G30 and find them rather mixed. I'm open to LCD or Plasma. Please help !</Content>
+	</Post>
+</Thread>

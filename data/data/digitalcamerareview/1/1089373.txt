@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Re: Canon PowerShot SX130 IS Review Discussion</Title>
+		<Username>gobble</Username>
+		<Datetime>09-28-2010, 06:02 PM</Datetime>
+		<Content>I'm about to buy a new camera and I was thinking about that nice SX130, it is compact, AA batteries and nice zoom, mean while, I fell in love with the upcoming SX30. Everything tells me to buy the cheap, small and AA batteries operated cam and not to the buy a more expensive bulky SX30, but com'on, 35X zoom ??? that's amazing. at some sites, i found sample images of SX130 superior than that of SX30!! could this be the case? I know SX30 is a pre-release, but anyone compared SX130 with SX20 (closest relative) ??</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Anderson Cinema Construction begins!!!...slowly.</Title>
+		<Username>HTanderson</Username>
+		<Datetime>05-04-08, 07:57 AM</Datetime>
+		<Content>Well, after few pictures and a hint from Bud, "uh!, hey man, you need to start a thread".... here it is. Of course, the room is a dedicated home theater "man cave", whichever you prefer. It is a blank slate. The HVAC guys will be here tomorrow to install all the ductwork and set the 2-ton unit. I will complete the rest of the wiring for the reccessed lighting, track lighting, and oter lights I plan install. Seems to take a little bit to install 36 reccessed lights and three track lights, and billards lights (to go over the pool table) and fans, light/fan combos in the bathroom and the other other points for power Bud reccommended. So, if I could get away from looking at all the pictures on here and reading about the ways to build a HT I might be able to start on my HT. Also, we have an area within the HT that will house the A/V rack, DVD/CD storage, popcorn machine andconcession stand. I will put a laundry list of cables together this week and get that stuff ordered. Room size: 12' (w) x 16' 3" (l) So, anything you think I should do or put in the wall before drywall goes up, PLEASE chime in. By the way, the lighted movie poster box with chasing lights came from a Hollywood Video that closed down here last week.... I could not pass it up for $65. IMG_0526.JPG IMG_0529.JPG IMG_0513-1.JPG</Content>
+	</Post>
+</Thread>

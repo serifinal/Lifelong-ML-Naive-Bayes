@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Picture Attributes of SX 110 IS</Title>
+		<Username>Suresh Rajadurai</Username>
+		<Datetime>03-01-2009, 11:43 PM</Datetime>
+		<Content>Hi Gurus, I have taken a lot of pictures using the camera Canon SX 110 IS, but I cannot remember which attributes I used to capture those pictures. Is there any way that I could get this information from the pictures in the camera? Or do I have to note down the settings that we change/make when taking a shot? Please reply, much appreciated and thanks in advance, Suresh.</Content>
+	</Post>
+</Thread>

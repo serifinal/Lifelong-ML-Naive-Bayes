@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SX30 Mysterious Shutdown Quirk</Title>
+		<Username>sbcwinn</Username>
+		<Datetime>12-15-2010, 11:54 AM</Datetime>
+		<Content>I recently purchased an SX30 as a second camera. Wow its one heck of a bang for the buck. But it has a strange problem..... When I review photos for longer than 60 seconds, and then press the key to go back to shooting mode the camera shuts off. If I review photos for 30 seconds this doesn't happen. Is this a design feature, a design flaw, or a problem with my camera? Thx</Content>
+	</Post>
+</Thread>

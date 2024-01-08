@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Rebel ?</Title>
+		<Username>chinaturq</Username>
+		<Datetime>09-06-2011, 10:48 AM</Datetime>
+		<Content>I have a 10 yr old film EOS Rebel that I love with 6 different AF lenses. I want to move up to a T3i. Will my old lenses fit the new camera?</Content>
+	</Post>
+</Thread>

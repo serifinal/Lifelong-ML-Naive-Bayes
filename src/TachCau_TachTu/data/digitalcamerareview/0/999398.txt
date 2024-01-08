@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CNET leaks Canon Rebel T1i</Title>
+		<Username>Sam</Username>
+		<Datetime>03-25-2009, 12:20 AM</Datetime>
+		<Content>Now also on Canon's official website: http://www.usa.canon.com/consumer/co...&modelid=18385</Content>
+	</Post>
+</Thread>

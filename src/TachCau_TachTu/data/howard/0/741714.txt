@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Network issues in Richmond Hill?</Title>
+		<Username>john99</Username>
+		<Datetime>05-05-2010 05:47 AM</Datetime>
+		<Content>Since yesterday my phone has been going off the network, and back on. SOS shows up. Now I get no data. I know it's not my phone as I was downtown Toronto yesterday and everything worked. Anybody else having issues?</Content>
+	</Post>
+</Thread>

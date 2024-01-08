@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Picasa viewer - Poor image quality</Title>
+		<Username>NeilF</Username>
+		<Datetime>13-01-2012, 10:44 PM</Datetime>
+		<Content>Just set up my GT30 to show my photos from Picasa. This would be a great way to view our photos in the lounge. HOWEVER, the image quality of the photos seems poor. If I log manually into the web album (eg: using firefox) I can see the image quality is indeed higher, and the settings in Picasa are defined as 2048x2048 pixels (along longest side), so what's up? As it stands it's pointless using it, as the image quality is just frustrating!</Content>
+	</Post>
+</Thread>

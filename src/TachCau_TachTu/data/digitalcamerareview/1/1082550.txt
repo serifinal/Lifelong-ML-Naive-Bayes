@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon camera case</Title>
+		<Username>Stewart W</Username>
+		<Datetime>08-12-2010, 07:10 AM</Datetime>
+		<Content>I have an eos500d with a 75-300 zoom. While I have a backpack to carry my kit, I need a case so that I can tromp around with my gear easily accessible. I have searched all the sites, and there is a bewildering array of cases available. I dont want to get one that is too big, so that I can revert to fitting my 18-55 on other occassions. Any suggestions? thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My BB 9700 Drops Calls Because It's a DECEPTICON?!</Title>
+		<Username>potentpotable</Username>
+		<Datetime>12-28-2009 11:41 PM</Datetime>
+		<Content>Title is in jest, but please tell me if any of you are experiencing the same problem (which I've had since launch): You're on the phone, network is flawless (or not), then after about 3-4mins the line goes dead silent, presumably from signal loss/network switching. Five to ten seconds later, it sounds as if all your friend's words that were "clogged" come rushing out through the earpiece at once in a few hundred milliseconds. If you've watched Transformers, it sounds exactly like Frenzy speaking in the Decepticon language, Cybertronian. I'm dead serious. It's funny because it's so ludicrous, but annoying because my call gets dropped. This doesn't happen EVERY TIME (sometimes the phone just cuts with "call failed", or I get impatient and disconnect first) but it's generally what I experience on calls lasting longer than three minutes.</Content>
+	</Post>
+</Thread>

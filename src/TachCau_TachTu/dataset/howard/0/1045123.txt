@@ -1,0 +1,7 @@
+problems w / 3g unrestrictor and otb 3.1 3gs .
+i , like many other people who got stuck with an otb 3.1 3gs , rushed to install blackra1n as soon as it became available because it offered a solution to those of us that wanted to install third-party apps .
+well , one of the things that i enjoyed about my old 3g was that i had voipover3g installed and enjoyed making skype calls over my 3g connection .
+one of the first things i did on my 3.1 3gs as soon as i install blackra1n was to download skype along with 3g unrestrictor -lrb- a paid app on cydia -rrb- .
+i ca n't seem to be able to get this thing to work , i have it installed and provisioned it for both skype and fring and neither of them seem to want to make a phone call .
+skype gives me a warning prompt saying that i need to be on wifi in order to make calls and fring just hangs there and does nothing .
+has anyone here had any luck using skype in conjunction with 3g unrestrictor on an otb 3.1 3gs that was jailbroken using blackra1n ?

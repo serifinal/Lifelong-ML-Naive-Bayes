@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A little help please</Title>
+		<Username>geese</Username>
+		<Datetime>03-12-2006, 4:50 PM</Datetime>
+		<Content>Alright guys......I just got myself a 427XA and its great. But I have problems dealing with settings. I had a sony plasma before this....rocking PQ and I understood all the settings and what to do with them. But man there's like 10 times more on the pioneer. What are your settings when viewing pal dvd's. I watched pitch black last night and Im sure I had the settings set wrong. What should be on/off to achieve better PQ? BTW does this plasma get better when it ages abit?.....would the black levels get better with time and stuff like that? Help is appreciate it.....and thanks.</Content>
+	</Post>
+</Thread>

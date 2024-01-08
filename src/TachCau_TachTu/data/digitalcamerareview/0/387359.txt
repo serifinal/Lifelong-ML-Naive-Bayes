@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Older cameras can't use 2GB+ sd cards?</Title>
+		<Username>sumob</Username>
+		<Datetime>04-08-2007, 11:21 AM</Datetime>
+		<Content>Is it true that some older devices cannot work with sd cards 2GB and upwards? Does anyone know if the canon powershot a410 will be able to work with a 2GB sd card?</Content>
+	</Post>
+</Thread>

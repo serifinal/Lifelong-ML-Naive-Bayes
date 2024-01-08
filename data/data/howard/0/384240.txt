@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with Iphone 2g - what do I do with it to unlock/jailbreak?</Title>
+		<Username>AdamKPL</Username>
+		<Datetime>11-17-2009 07:24 AM</Datetime>
+		<Content>I just got a 2g Iphone off ebay...I have no clue what to do with it but essentially I want to unlock it for use when I go on vacation in Europe with a prepaid sim....the problems im encountering is that i dont know which OS version it has installed...when i put in an old att prepaid sim it prompts me to activate it, when I put in a vodaphone/verizon sim nothing happens. Please point me in the right direction....thanks so much, sorry for the noob question</Content>
+	</Post>
+</Thread>

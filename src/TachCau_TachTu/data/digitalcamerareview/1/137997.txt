@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Image quality</Title>
+		<Username>Amigoss</Username>
+		<Datetime>06-09-2011, 05:52 PM</Datetime>
+		<Content>Hi. I've seen older canon cameras like Canon A650IS makes really good pictures.I can say that, they were better than nowadays compacts. I would like to buy a canon SX220 HS, what do u think is the SX220 could make as quality photos as the A650IS? Or better? Thanks.</Content>
+	</Post>
+</Thread>

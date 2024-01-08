@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>G30 phosphor / flashing issues</Title>
+		<Username>Steve1977</Username>
+		<Datetime>28-01-2012, 5:41 PM</Datetime>
+		<Content>Well it seems that the last few posts in the G30 owners forum reveal that a few people have experienced issues with TV and others have stated their displeasure in the blogs. Whilst it seems true that only a small proportion experience Phosphor lag, it seems perhaps more than this 1% are experiencing issues and im unsure if it's a problem thats repairable or one that will go when it's broke in. Notice on the forum that earlier iterations of Plasma TV's such as the G10 also suffered the same issue and some people suggested it goes once the Plasma is bedded in. Is this the case? Or is there something that needs to be fixed? On the issue of bedding in, in relation to this particular Plasma it has been suggested to use the THX pre-set (which I have been doing) but do different bedding in methods create better pictures than others? (kinda thing). I read there are 1080p slides which you can use to bed it in and these can reduce or elimenate the Phosphor lag... is this right? Or can these harm the telly? Basically, what can I do to remove the Phosphor issue thats plagued mine and others TV;s?</Content>
+	</Post>
+</Thread>

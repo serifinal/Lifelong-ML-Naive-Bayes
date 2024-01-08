@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PIXAR Screenplay slides for you all.</Title>
+		<Username>gnolivos</Username>
+		<Datetime>07-15-08, 07:53 PM</Datetime>
+		<Content>I'm a huge fan of Pixar films, so I decided it was time to put something together for Pixar movies... I came up with 15 slides for each of the following movies... that is 15x13=195 slides total!Toy Story 1 The Incredibles Cars Finding Nemo (added Jul 16 '08) Monsters Inc (added Jul 17 '08) Ratatouille (added Jul 18 '08) Toy Story 2 (added Jul 19 '08) Wall-e (added Jul 20 '08) A Bug's Life (added Jul 21 '08) Pixar - The Company (added Jul 25 '08) Up (added Dec 03 '09) Toy Story 3 (added Jul 05 '10) Cars 2 (added May 25 '11) NOTE: I do not (and never will) accept donations of any kind for these slides. This is something I do for fun only. Thanks Blipszyc for hosting these! Here are a few screenshots. EDIT: The slides are created in full 1920x1080, and created from scratch in Photoshop. They are extremely crisp and defined, and look gorgeous in hi resolution.</Content>
+	</Post>
+</Thread>

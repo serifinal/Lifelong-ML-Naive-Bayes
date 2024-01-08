@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G20 - Horizontal spotted blue lines</Title>
+		<Username>zuface</Username>
+		<Datetime>12-06-2011, 7:41 PM</Datetime>
+		<Content>I have a G20B and it is a year old and whilst watching Virgin over HDMI roughly 20 horizontal blue lines 5 cm apart and maybe 2mm width are slowly coming down my screen (at a rate of maybe 1 a second)!!! On any input (including the 3 possible HDMI inputs i have, Viera cast, and Anolouge) there still there. Does any one have ANY ideas what this is and more importantly can i fix it???? (have tried leaving it of for an hour and also removing all but one inputs, resetting to factory conditions)</Content>
+	</Post>
+</Thread>

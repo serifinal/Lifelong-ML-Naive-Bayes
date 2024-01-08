@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best TV for gaming £500 - £600</Title>
+		<Username>ijintheuk</Username>
+		<Datetime>18-01-2012, 8:42 PM</Datetime>
+		<Content>Hi everyone, I was on here 1 or 2 years ago asking a similar question to this and ended up getting a Panasonic U30. I am selling that and I am now looking to upgrade to a better TV. I will have about £600 to spend, however and could spend an extra £100 if needed. I rarely watch normal SD TV and one of the only things I do is play games (Xbox 360, PS3) I would also like a very good Blu-ray picture, but I'm sure that goes hand in hand with the games. The reason I got rid of the U30 was because of the horrid Jaggy lines. Whatever I did I couldn't get rid of them on games so I am looking for a TV with no Jaggy lines in gaming (if possible, if not the least) and a sharp but natural image. I believe plasma's are best for gaming but I am willing to buy and LED or LCD. I don't care about size. The one I have at the moment is 42" but nothing bigger than that. My room is quite small so I have to sit quite close to the TV (About 5 - 6ft away). Thanks alot!</Content>
+	</Post>
+</Thread>

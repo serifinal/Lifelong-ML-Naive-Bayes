@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BlackBerry Torch (or Bold 3) 9800!</Title>
+		<Username>d.zerv</Username>
+		<Datetime>08-03-2010 01:36 PM</Datetime>
+		<Content>Virgin has done it again...The soon-to-be-released BlackBerry 9800 aka Torch aka Bold 3 will be available as soon as it hits the Canadian market. The highly rumored/awaited BlackBerry is a mix of a Bold 9700 and a Storm2 with OS 6...Very exciting. No pricing available yet...but I'm sure it'll be around the 9700 price range. Watch out iPhone 4...Watch out...</Content>
+	</Post>
+</Thread>

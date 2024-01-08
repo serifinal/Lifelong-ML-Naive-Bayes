@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma's!</Title>
+		<Username>MrCoolxx</Username>
+		<Datetime>20-02-2012, 8:05 PM</Datetime>
+		<Content>My problems with Panasonic Plasmas</Content>
+	</Post>
+</Thread>

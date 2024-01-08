@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Screen on LG plasma cracks by itself</Title>
+		<Username>Mick Turner</Username>
+		<Datetime>12-07-2010, 3:57 PM</Datetime>
+		<Content>Hi, on Saturday the screen on our LG PQ2000 plasma cracked by itself and without warning. The TV was switched on and being used to listen to the radio when without warning the it made a popping noise followed by hissing and when I looked towards it the screen was cracked. There was no one else in the room and I was no where near the TV when it happened. The pictures show the cracks which under close inspection reveal it is the inner glass which has cracked and not the outer. The TV has not been moved or laid flat or disturbed in any other way. The warranty has expired as the set is just over 12 months old. Does anyone know what the legal situation regarding this problem may be? The TV is not used a great deal as I have a projector for my main viewing and it is in immaculate condition with no impact marks or scratches etc.</Content>
+	</Post>
+</Thread>

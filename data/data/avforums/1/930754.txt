@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking for HDTV without High pitch frequency</Title>
+		<Username>jojopuppyfish</Username>
+		<Datetime>05-02-2012, 4:30 PM</Datetime>
+		<Content>I am one of those people who care hear the tv emit a high pitch when the tv is turned on. I currently bought a Panasonic Plasma tv and it is making my ears ring. Can anyone recommend a 50 inch HDTV that does not have this high pitch that is currently available? LCD, Plasma, LED. Looking for around $1000. Thanks.</Content>
+	</Post>
+</Thread>

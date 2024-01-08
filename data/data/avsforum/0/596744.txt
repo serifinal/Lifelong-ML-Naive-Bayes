@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Horton Hears A Who! Coming To Blu-ray December 9th</Title>
+		<Username>Blu-News</Username>
+		<Datetime>07-28-08, 06:58 AM</Datetime>
+		<Content>Fox has announced Horton Hears A Who! for a December 9th Blu-ray release date. The release will be on a BD-25 and include a 1080p AVC/MPEG-4 video transfer, and a 5.1 DTS-HD Master Audio track. It will also include a Bonus View feature, an Ice Age short, and many more special features. 39.98 MSRP. We will post the cover art soon! Discuss.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone in Richmond Hill, full signal, failed calls.</Title>
+		<Username>iHype</Username>
+		<Datetime>11-15-2009 09:26 AM</Datetime>
+		<Content>Is anyone else experiencing this or have experienced this? I have full bars, and I tried to select network to ROGERS or Automatic the results are the same. I make a call, takes 30 seconds to even hear the ring tone, then it's choppy and will fail the call about 10 to 20 seconds into the call. Also, some attempts to call out have resulted in what appears to be crossing onto other lines as i hear choppy audio of other people talking to loud noises? I'm not sure. I'm in Richmond Hill Ontario area.</Content>
+	</Post>
+</Thread>

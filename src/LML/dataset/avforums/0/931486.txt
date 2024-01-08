@@ -1,0 +1,16 @@
+help needed for repairs to philips 42pf9964 .
+we have a 42pf9964 which we purchased from sevenoaks sound and vision in january 2003 , for just under # 4,300 , and have experienced a continual problem with the on/off switch .
+when i switch the tv on , it appears as though it is going to start i.e the green light comes on , then after about 10 seconds it switches itself off and the standby light flashes red .
+it takes 10 / 12 times before it starts and eventually does not work at all .
+apparently , the problem is caused by three faulty capacitors - 2663 , 2664 both 100µ / 25v and 2662,1000 µ / 25v .
+the problem first occurred early in 2005 and eventually rendered the set unusable in april of that year .
+when i first contacted the manager of the shop from whom i purchased the unit he said that he would speak to philips and get somebody there to contact me - this never happened and after several more calls he told me that they could arrange an out of warranty repair for around # 400 !
+after a lot of telephone calls emails and letters to sevenoaks , enclosing a copy of the sale of goods act , ending with the assistant to the md , philips arranged for the machine to be repaired in july 2005 , completely free of charge !
+however , the same fault developed again in february of this year but , whilst deciding what to do , we were able to get around the problem by leaving the unit switched on and connected to the pc screensaver when not in use .
+unfortunately , we experienced a power cut earlier this month and although it only lasted about 15 minutes it was enough to put the unit completely out of action .
+i have n't spoken to philips because , from previous experience , their out of warranty service is completely non-existent and i have not contacted the retailer because i am sure they will no longer be interested as we have had the tv now for four years and three months and am now resigned to purchasing a new one .
+however , it still riles me to think that a perfectly good tv , costing several thousand pounds will have to be scrapped because of substandard parts being used in the first place and the fact that we have also got to pay for the disposal of the unit only exacerbates the situation !
+the sale of goods act basically says that goods such as this should work as they were intended to do for at least five years but it is between the purchaser and the retailer to resolve the situation , whereas the manufacturer of the sub-standard goods is not liable after the initial warranty period .
+philips must be aware of the problem because i ca n't believe that we are the only customers that have experienced it and , surely , they had a moral , if not legal , duty to either recall the units to effect a proper repair or replace them !
+i now have nothing to lose by getting someone to replace the capacitors as suggested but i have not got any idea as to where i would be able to purchase the parts .
+i would therefore very much appreciate any help that anyone is able to give me on this !

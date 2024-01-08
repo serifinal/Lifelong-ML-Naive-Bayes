@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PlayOn Beta B3 released</Title>
+		<Username>Turd Furguson</Username>
+		<Datetime>09-03-08, 01:38 PM</Datetime>
+		<Content>The PlayOn Beta is upgrading again ? version B3 (that?s Beta-3). And - you have been selected from over 10,000 beta users to test B3. We strongly recommend you download the latest version and install it from http://www.themediamall.com/playonbeta2008 It will automatically replace your old version if you have one. In addition to all the great features you have been enjoying, PlayOn B3 offers: * Hulu: Fix for videos not playing * Hulu: Movies (yippee ? the largest beta request by far!) * Hulu: New categorization of episodes and clips with season and episode numbers * YouTube: User Playlists/Subscriptions and Published videos * General: Icon in system tray to see the status of the server, and ability to disable it from automatically starting when windows starts We have lots more feature requests in the works. Next up is: * Netflix * Hulu High Resolution</Content>
+	</Post>
+</Thread>

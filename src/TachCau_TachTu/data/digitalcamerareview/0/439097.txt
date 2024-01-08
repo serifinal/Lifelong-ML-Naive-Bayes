@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>d10 aperture/shutter shooting waves</Title>
+		<Username>noop</Username>
+		<Datetime>01-18-2010, 07:49 PM</Datetime>
+		<Content>hello i've been using my d10 to take shots of breaking waves http://www.flickr.com/photos/dumbat/4239403524/ http://www.flickr.com/photos/dumbat/4238629473/ http://www.flickr.com/photos/dumbat/4279442703/ ideally i would like a fast shutter speed, and preferrably a small aperture. so far i have been using P mode and pushing the ISO up so that the camera will compensate by tending towards the settings i want. but of course that results in lots of nasty noise (i also use exposure compensation to stop it down because in the lag between light metering and shutter opening the breaking wave usually gets a lot whiter) i would be interested to hear if anyone else has other tips. for example do any of the auto scene modes work well? cheers noop</Content>
+	</Post>
+</Thread>

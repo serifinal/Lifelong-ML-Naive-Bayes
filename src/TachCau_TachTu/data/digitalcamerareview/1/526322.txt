@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon xsi for newbie</Title>
+		<Username>woofwoof</Username>
+		<Datetime>04-28-2008, 12:12 PM</Datetime>
+		<Content>Hello, I am thinking to get a Canon Rebel xsi (aka 450D). Is this a good camera for taking fast moving pictures? My girl does gymnastic. When using my regular point and shoot camera, I rarely have a picture that is no blurred. Based on what I have read so far, I think Canon might able to meet my requirement. But I still want to hear your advice. Also, I am looking for the cheapest (and trustworthy) place to get one in Canada or US. I am thinking to get the kit with two lens. Your comments are welcome! TIA DW</Content>
+	</Post>
+</Thread>

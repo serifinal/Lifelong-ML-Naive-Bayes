@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon D10</Title>
+		<Username>Weskus</Username>
+		<Datetime>05-08-2010, 02:34 PM</Datetime>
+		<Content>I purchased a Canon D10 on ebay from Hot Digital USA. This camera is rated to 10 meters underwater. It is endorsed by most diving organizations and diving magazines, internationally. I purchased this camera brand new and on first use it leaked in one meter of water. I have been to canon, written emails to customer care, canon SA and canon America. The response is pathetic as not to be expected from a 'professional global company. I have invoices and all necessary documentation and see no reason why this camera is not immediately replaced. I thought I was dealing with a reputable company and am deeply disappointed in their response (or lack thereof!). That their camera is not tested and should leak in the first case is wrong, their response to this is criminal.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is there a Verizon Plan similar to Sprint Family Data Share plan?</Title>
+		<Username>calypsocowboy</Username>
+		<Datetime>10-28-2009 11:15 PM</Datetime>
+		<Content>Sprint has a family plan for $130 that has 1500 minutes, unlimited texting, and includes data for smart phones. With Verizon there are family plans that include the minutes and texting but the smart phones are extra. I think its $100 for a 700 minute unlimited texting and $30 for data. With multiple data devices, the Sprint plans are a lot cheaper. Does Verizon plan on having something to compete with this? I'd think that with more people getting smart phones they would want something. Thanks, Josh</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Hulk Coming To Blu-ray On September 16th</Title>
+		<Username>Blu-News</Username>
+		<Datetime>07-11-08, 05:00 AM</Datetime>
+		<Content>Universal Studios has The Hulk scheduled for release on September 16th, 2008.</Content>
+	</Post>
+</Thread>

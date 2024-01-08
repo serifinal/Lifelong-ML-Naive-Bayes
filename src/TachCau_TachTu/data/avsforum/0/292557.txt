@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title></Title>
+		<Username>Kor770</Username>
+		<Datetime>12-02-08, 05:50 PM</Datetime>
+		<Content>Hi everyone! I've been doing research on a low-cost 720p PJ to act as a 2nd TV in my home. Will only be throwing less than 15feet onto a wall, so .. I've come down to these three: (in order of preference) Epson HC720 Panny AX200U Optoma HD65 Hoping to find one on sale during boxing day for like $799? That would be fantastic! (just got married, not much $$ floating around) However, I cannot find anywhere in the Toronto area that sells any of them. Mind you, I've only searched the FutureShop, BestBuy, Costco.ca, some computer online stores ... Really blind as to where else to look .. Could someone give me some pointers, please? Even online retailers that will ship to Toronto? Or anywhere around that GTA that might have them in store, but doesn't have a online store, i won't mind driving over and taking a peek. Oh, and of course, any comments as to my 3 choices above is greatly appreciated also! Thank you in advance for your time. Kor</Content>
+	</Post>
+</Thread>

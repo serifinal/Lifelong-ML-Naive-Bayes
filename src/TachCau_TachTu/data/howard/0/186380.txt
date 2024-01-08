@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Thinking of ditching my INC for an EVO. Service??</Title>
+		<Username>DestinationMoon</Username>
+		<Datetime>05-27-2010 12:00 PM</Datetime>
+		<Content>I am stoked about my INC. The Android System, Sense, and even the phone quality are excellent. My only problem is the screen size. I just came from taking a close look at the HD2. The screen! I want that screen! That leads me to the EVO. Who knows when the Shadow really will be released and even then, it lacks Sense. Here is my question: The Sprint rep tells me that when roaming they use Verizons towers?? That should make coverage as good (or better?) than Verizon. My home looks to be in a roaming area. Any info on this would be of great help. Thanks!</Content>
+	</Post>
+</Thread>

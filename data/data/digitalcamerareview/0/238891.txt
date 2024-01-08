@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is the S3 right for night sports?</Title>
+		<Username>TaurusMom</Username>
+		<Datetime>05-20-2008, 11:02 AM</Datetime>
+		<Content>I love my S3. It takes great shots with lots of light available. However, I need to shoot my sons in high school sports-football and track--at night, under stadium lights. The shots are blurry, and I've been told I need a Rebel XTI. Spending that kind of cash, and sitting in crowded bleachers is just not my idea of fun. any advice would be welcome. Maybe I am not using the settings correctly? Thanks!</Content>
+	</Post>
+</Thread>

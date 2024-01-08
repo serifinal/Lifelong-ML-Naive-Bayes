@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>870 self-timer question</Title>
+		<Username>ohiohockeymike</Username>
+		<Datetime>02-12-2008, 08:18 PM</Datetime>
+		<Content>Is there anyway to turn off the self-timer lamp, the blinking orange light that goes off when one uses the self-timer. I've tried turning off the red eye and AF-assist beam, but the self timer lamp is still active. Is there anyway to deactivate the light while still being able to use the self-timer, it's just annoying when useing the camera, with the self-timer, in a dark, crowded room. thank you</Content>
+	</Post>
+</Thread>

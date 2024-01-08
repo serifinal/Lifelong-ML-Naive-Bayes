@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PV500: Wot i found</Title>
+		<Username>Gordon @ Convergent AV</Username>
+		<Datetime>28-07-2005, 5:31 PM</Datetime>
+		<Content>Just some quick notes on the PV500 I got to see at Mals. Mal tried to show me the auto contrast feature that many folk appear to be complaining about on the forums. I wasn?t able to really see it due to the light coming in to the room. Mal is re-decorating at present and there are no curtains to stop the light from outside so it was very bright in the room, making the black level bounce impossible to see with programme material. It did appear to be apparent with test patterns. In that if you set the black level with a 20ire pattern then went and displayed a 10ire pattern the black level appeared to be raised??I didn?t measure this though. Really the point of the visit was to measure how the set behaved in each mode and to work out whether it was possible to do greyscale calibration to make it more accurate. The first thing I did was measure the gamma curve on different settings and also the greyscale. Those graphs will follow. None are ideal. Cinema and Standard measure the same so I only show one graph. Those two are closest to correct but the deviation from being right may actually be due to the DVD player rather than the display?.or it could be this auto contrast thing??The Auto and Dynamic modes I?m not a fan of?Dynamic especially as it really ups the light output, driving the panel hard and it has the horrible crushed white detail syndrome?. AUTO and DYNAMIC gamma curves below. Standard and Cinema don;t seem to have saved.....they were similar to AUTO but without the tailing off at top right (tailing off signifies crush/compressed bright detail.</Content>
+	</Post>
+</Thread>

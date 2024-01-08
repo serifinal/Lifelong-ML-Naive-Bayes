@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What do you guys think about this Tamron?</Title>
+		<Username>mbciuso</Username>
+		<Datetime>08-23-2008, 11:50 AM</Datetime>
+		<Content>http://www.tamron.com/lenses/prod/70300_di_a017.asp Model A17 AF70-300mm F/4-5.6 Di LD Macro Thanks, Gerard</Content>
+	</Post>
+</Thread>

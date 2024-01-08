@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The "official" Onkyo TX-SR706 Owners Thread</Title>
+		<Username>sexon</Username>
+		<Datetime>09-01-08, 01:56 AM</Datetime>
+		<Content>Well... I assume this thread might be getting a lot of action soon. The 706 comes with the MultiEQ + DynamicEQ + 1080P + a plethora of HDMI ins + the all important blue back-lit volume knob--that is what sold me. I have one being delivered this week. I will report back with my initial impressions.</Content>
+	</Post>
+</Thread>

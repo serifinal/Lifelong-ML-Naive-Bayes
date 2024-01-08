@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can any one help w/ A590??</Title>
+		<Username>missjewell</Username>
+		<Datetime>06-13-2008, 06:55 PM</Datetime>
+		<Content>I orginaly bought a Nikon coolpix L 18 after being talked into and ended up going back and getting the Canon A590 IS but when I got home read the manual and stared shooting it was really, really slow some pics came out blurry not all. The slowness is what started to get to me. I kept it in easy mode as well, same thing. I ended up getting really frusturated and took it back and got the Coolpix again. I just wanted to upgrade I was using a kodak z740 before Now I am sitting here wandering if I made mistake with keeping the Coolpix? Any suggestions? Thanks</Content>
+	</Post>
+</Thread>

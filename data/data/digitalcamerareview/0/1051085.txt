@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot G9 USB mode / explorer</Title>
+		<Username>HeinzVoerbakje</Username>
+		<Datetime>07-14-2008, 07:49 AM</Datetime>
+		<Content>Hi all, I just bought a Canon G9, nice camera. I have just one question, is it possible to set the camera to normal USB-mode? I mean so I can take the pictures off the camera without using an additional software interface. I know I can take the memory card out of the camera and put it into a cardreader, but I'd rather just plug the USB cable into the camera and then 'drag and drop' the photos to my harddisk using explorer. I cannot find a way how to do this in the manual. Thanks for the help, HeinzVoerbakje</Content>
+	</Post>
+</Thread>

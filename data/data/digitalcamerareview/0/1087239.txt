@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I dropped my g12 please help!</Title>
+		<Username>yellow013</Username>
+		<Datetime>11-22-2010, 09:36 AM</Datetime>
+		<Content>I accidentally dropped my g12 on the floor a couple days ago . The exterior looks fine without any noticeable scratches. The camera turns on ok and the lens extends properly. There's no damage to the lens as far as I can tell. The LCD is also fine because it displays all the text and I can also look through my old photos. It also does not display any error messages. The problem is the screen displays only black instead of whatever I'm pointing the camera at. When I press the shutter button it takes the picture of the black screen. I'm guessing the damage is inside the camera. Is this something that can be easily fixed or do I have to mail it back to Canon? Any suggestions are welcome. Thanks.</Content>
+	</Post>
+</Thread>

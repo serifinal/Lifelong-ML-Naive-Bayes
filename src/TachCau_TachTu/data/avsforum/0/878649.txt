@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Painted Faux Starry Sky Ceiling</Title>
+		<Username>interfx</Username>
+		<Datetime>07-13-08, 08:55 PM</Datetime>
+		<Content>I've read the various posts of the fiber optic starry ceilings, but am quickly running out of budget for my home theatre. (saving the rest for good speakers) Have any others painted a faux starry night ceiling in their tray ceiling, using glow in dark paint for the stars? I know this will not be as good as the fiber optics solution, but trying to find a similar solution with paint for my 10 ft. x 10 ft. ceiling area... Thanks in advance for any other examples, and what color you used to make the night sky? (black? or dark blue?) I will be lighting using a rope light inside of the crown molding... Thanks in advance -</Content>
+	</Post>
+</Thread>

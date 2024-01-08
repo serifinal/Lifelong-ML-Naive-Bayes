@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic P42GT30B pc desktop resize</Title>
+		<Username>cartman69</Username>
+		<Datetime>11-01-2012, 8:35 AM</Datetime>
+		<Content>I've just received my 42gt30b andi'm more than happy with the picture out of the box - but i do have a problem. I currently connect everything to my receiver via hdmi (currently a yamaha rx-v1065 with changing to an onkyo 609), and then output to a splitter so i can send the output to my panasonic ae3000 projector and now my panasonic 42gt30b. The issue i have is if i set the pc to output 1080p24hz the desktop on the pc is too big when displayed on the tv. I could resize it on the pc, but then the picture when displayed on the projector would be wrong. I previously owned a panasonic PH8D panel and you could resize the tv picture from the remote. Is there any way to resize the picture size on the tv???</Content>
+	</Post>
+</Thread>

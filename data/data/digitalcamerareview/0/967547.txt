@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot SX20IS - Blank Display</Title>
+		<Username>Miercs</Username>
+		<Datetime>12-08-2010, 02:00 PM</Datetime>
+		<Content>Does anyone have a solution? When my SDHC card is locked, the display on my camera functions properly. However when the card is unlocked, the display remains blank. This pertains to both the viewfinder and the LCD. Any suggestions are appreciated. M</Content>
+	</Post>
+</Thread>

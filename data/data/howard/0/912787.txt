@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Microsoft office outlook??</Title>
+		<Username>Cally95</Username>
+		<Datetime>11-16-2009 03:26 PM</Datetime>
+		<Content>This is my work email. OK, I have read many threads on microsoft exchange accounts and corporate vs non corporate accounts. My confusion is...you guys say you can not set up an exchange account, but I think mine is an exchange account. It is set up, I can recieve and send new emails just fine, but when I press reply and type an email and then press send it wont send. It puts the reply in an outgoing folder. When I try and send the out going email I can't. Is MS office outlook an exchange account? How do I tell? Or is it IMAP or POP3? To add to my ignorance - At home I connect to MS office outlook account via the internet at home, (webaccess.si.edu) + password, that is how I set up the account. Is that correct? I tried to talk to my IT guys and they wouldn't help. (we do not support smartphone email usage they said). Thank you,</Content>
+	</Post>
+</Thread>

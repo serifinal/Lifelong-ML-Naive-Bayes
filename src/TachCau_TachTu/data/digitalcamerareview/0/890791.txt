@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Wide angle and 2X teleconverter on ebay</Title>
+		<Username>spdracer</Username>
+		<Datetime>09-18-2008, 07:34 PM</Datetime>
+		<Content>Saw this combo kit on ebay for my S5 IS ,the price is definitely right,I'm a little leery about the quality though. I emailed the seller for the brand name but I haven't heard back yet. Anybody have one or know of them? here's a link. http://cgi.ebay.ca/Lens-Accessory-Co...713.m153.l1262</Content>
+	</Post>
+</Thread>

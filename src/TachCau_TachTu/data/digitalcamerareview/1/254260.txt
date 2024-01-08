@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>replace 40d top lcd data panel</Title>
+		<Username>ultralkk</Username>
+		<Datetime>02-06-2008, 01:27 AM</Datetime>
+		<Content>i scratched my 40D top lcd data panel, i am wondering that if i can replace it or not. if yes... how much will it cost??? Thanks</Content>
+	</Post>
+</Thread>

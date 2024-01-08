@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Bell Share vs Telus Share v.Iphone</Title>
+		<Username>patdaman</Username>
+		<Datetime>12-23-2009 08:48 AM</Datetime>
+		<Content>Hey currently out of contract with bell right now. Looking at 2 16G Iphones. Looking at both of the 60$ per line options with both companies. Which has more to offer in your guys opinion? Should I take this opportunity to bounce from Bell, or could I get the better offer from them?</Content>
+	</Post>
+</Thread>

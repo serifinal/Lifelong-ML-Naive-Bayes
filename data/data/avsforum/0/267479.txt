@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problem with DVD Audio on Pioneer DV-47Ai</Title>
+		<Username>archappell</Username>
+		<Datetime>11-23-08, 04:45 PM</Datetime>
+		<Content>I'm having a problem with my Pioneer DV-47Ai. It plays DVDs and regular CDs fine, but there is an issue with DVD Audio CDs. (Haven't tried SACDs lately.) On several different DVD-As, it seems to be missing a "track" from the audio. Not sure if that is the correct term, so let me describe what happens. Let's use Queen's Night at the Opera, Bohemian Rhapsody. Most of the audio is fine, but some of the higher voices are very faint. They sound like they are a long way away from the mic, which is why I said it sounded like a track was missing. All these DVD-As worked great until recently so there must be a new problem of some kind. Anyone else had a similar problem? Wondering if this is a fixable problem, or if its a buy a new player problem. -arc</Content>
+	</Post>
+</Thread>

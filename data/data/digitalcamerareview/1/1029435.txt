@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD 800 IS extended warrenty?</Title>
+		<Username>phonevoice</Username>
+		<Datetime>04-26-2007, 10:59 AM</Datetime>
+		<Content>Does it pay to buy a Mack 5 yr extended warranty for $40? Thanks.</Content>
+	</Post>
+</Thread>

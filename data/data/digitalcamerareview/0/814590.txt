@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need Canon Expert User Advice</Title>
+		<Username>wvredhead</Username>
+		<Datetime>02-04-2011, 10:14 AM</Datetime>
+		<Content>I have read many reviews on these cameras. I currently have a Canon PS for my purse that I will keep. I have a Canon SX 20 IS that I really like but was considering the following: Canon SX 30 IS-I like my SX 20 because the zoom is great and I am sure the zoom on the 30 is even better...advice? or Canon EOS Rebel T2i My question: Can you use the lens that comes with the Rebel 18-? as the normal lens that you would take normal (ie. in the house or yard pics of your kids) pictures? Suggestions? Thanks so much for any advice/suggestions!!!</Content>
+	</Post>
+</Thread>

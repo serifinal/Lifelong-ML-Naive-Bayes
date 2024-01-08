@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Micro Sims on T-Mobile?</Title>
+		<Username>HappyBunny</Username>
+		<Datetime>01-28-2010 10:28 PM</Datetime>
+		<Content>Since the new iPads will be unlocked, will T-Mobile be starting to use the new micro sim cards that it uses? I know it is not 3G compatible with T-Mobile. Otherwise, I will have to use the beastly AT&T data network and the AT&T card.</Content>
+	</Post>
+</Thread>

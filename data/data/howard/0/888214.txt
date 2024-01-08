@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Ditching iphone for android phone?</Title>
+		<Username>PETE2674</Username>
+		<Datetime>10-01-2009 07:38 PM</Datetime>
+		<Content>Is anybody thinking of ditching their iphone for an android phone. If so why?</Content>
+	</Post>
+</Thread>

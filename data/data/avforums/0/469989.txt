@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung hp-r5052 Screen Question</Title>
+		<Username>dave808</Username>
+		<Datetime>04-07-2011, 8:21 AM</Datetime>
+		<Content>I just got a free Samsung hp-r5052 because the screen isn't working correctly, and you can't get it repaired on Maui. I am pretty good with electronics and repair, need a little help diagnosing this one. I read someone talking about the Y upper buffer boards with similar description of their problem. Thanks for your help.</Content>
+	</Post>
+</Thread>

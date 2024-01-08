@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 50vt30</Title>
+		<Username>weavesno1</Username>
+		<Datetime>27-11-2011, 9:08 AM</Datetime>
+		<Content>Picked the 50vt30 up yesterday from Sevenoaks £1699 with 5 year warranty, star wars on bluray and avatar 3d. 2 pairs of specs and wifi dongle. All I can say is "WOW". Didn't realise screen and frame was all one piece either. I am ultra over the moon</Content>
+	</Post>
+</Thread>

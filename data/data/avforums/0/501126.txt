@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Support direct email??</Title>
+		<Username>dbd</Username>
+		<Datetime>14-02-2012, 2:15 PM</Datetime>
+		<Content>Does anybody have a direct email address for somebody at Pansonic Support?? I have to keep filling in their stupid bloody forms online and it takes them a week to reply!!! Absolutely appalling customer service they have, had troubles before, now I'm sure I'll never go Panny again!! Cheers (and rant over)</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>The_Hun</Username>
+		<Datetime>07-02-08, 11:01 AM</Datetime>
+		<Content>Ok, I guess Since a decent amount of us have these units now. We can slowly try to find out which picture settings work the best. I will start by posting D-Nice's break in settings as well as his post break in settings: BREAK IN Picture: AV Selection: Standard Contrast: 50 Brightness: -2 Color: +15 Tint: 0 Sharpness: 0 Pure Cinema Film Mode: Off Text Optimization: Off Screen Size: Full Power Save Mode: Off Orbiter: Mode 1 POST BREAK IN Pioneer 5020FD/6020FD Reference Settings Picture: AV Selection: Movie Contrast: 38 Brightness: -1 Color: -5 Tint: 0 Sharpness: -15 Pure Cinema Film Mode: Advance Text Optimization: Off Power Save Mode: Off Orbiter: Mode 1 (All screen size modes except Dot-by-Dot) Mode 2 (Dot-by-Dot screen size mode ONLY) I have used D-Nice's reference settings and I must say they are quite good. I might have tweaked the color up 1 or 2 notches to my liking. I was curious as to if anyone has played with the pure cinema modes to see how it affects the picture. I haven't had time yet myself to give it a shot to see differences. Also, I was wondering if anyone has been using other modes besides movie to see what works best for them. I also would love it if someone could post some good settings for regular cable viewing. I do not have HD Cable just regular analog so settings of that nature would help (looking for mostly sports settings) Thanks in advance.</Content>
+	</Post>
+</Thread>

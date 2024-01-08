@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Question re: Samsung LNT4061 nd DTS audio</Title>
+		<Username>emills01</Username>
+		<Datetime>11-18-08, 10:05 PM</Datetime>
+		<Content>First post - I'm quite a noob when it comes to this but I *think* I'm asking the right question and it looks like I'm in the right place. Any help is greatly appreciated. I have a Samsung LNT4061. Great so far - no problems. Recently I bought a WD TV, which is a device made by Western Digital which lets you connect an external hard drive and "streams" video from it to the TV. Here's the problem: While most videos play fine, those using DTS for audio (so far they've all been MKV files) do not have any sound. The video is fine. I called Western Digital support and the tech support guy said that if this happens it's because the TV doesn't support DTS and I would need to go through a receiver that does support it. A friend of mind has the same device and played the same movies on his TV (not sure what model) and the audio came through fine. I combed through the settings on my TV and didn't see anything suggesting that DTS could be enabled or had to be turned on or anything like that. So my questions are: 1) Does this TV support DTS and is is likely that I have some settings wrong? 2) If not, is it possible that DTS support was added in a firmware update? 3) Where can I get a firmware update? I searched online and didn't find anything. I'm also unsure what version firmware I'm running; I wasn't looking for it but I didn't happen to catch where it might tell me that. Thanks for any help - dealing with this is completely new to me so I'm just trying to learn what I can.</Content>
+	</Post>
+</Thread>

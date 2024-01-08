@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>functor</Username>
+		<Datetime>05-26-08, 04:10 PM</Datetime>
+		<Content>My parents currently have a Sharp LC37D64U out at their cottage. They purchased a wall mount with it which the sales person assured them that it would fit. The mount didn't fit. So my parents have a couple options. 1) Keep their current TV and get the right moun for an extra $400. (they aren't a fan of this one) 2) The store is willing to exchange their TV for a Samsung LN40A550 (which will fit the mount they bought). 3) Return their TV and get the Sharp LC37D44U (720p instead of 1080p) and get some money back. They asked me what I thought, and I'm not up to snuff about which models are better than others. Is the Samsung TV a step up or down other than the obvious 3 inches of increased size? What would you do if you were me? What advice should I give? Thanks!</Content>
+	</Post>
+</Thread>

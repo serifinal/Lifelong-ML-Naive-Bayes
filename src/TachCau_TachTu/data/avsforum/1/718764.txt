@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Confused between Samsung 81 series and Samsung A750!</Title>
+		<Username>vkhara</Username>
+		<Datetime>08-19-08, 11:44 PM</Datetime>
+		<Content>Hi all, I am a new member to the forum and have been really impressed with all the posts. It has all been very helpful. I am on the market for a 40" LCD TV and have narrowed it down between the Samsung 81 series with the LED backlight and the new Samsung A750. I am terribly confused between the two. The picture looks equally stunning in both, although the 81 seems to have better contrast ratio and black levels. My only problem with the 81 though is Samsung is phasing it out, so not sure if I should buy a TV that's not going to be available soon. Also, the 750 has some pretty neat features like being able to get connected to the internet and the DLNA streaming capability. Price is the same for both sets.. Any thoughts / suggestions? Thanks!</Content>
+	</Post>
+</Thread>

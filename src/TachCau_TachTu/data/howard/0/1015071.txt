@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New HSPA rocket stick & $30 6GB data plan</Title>
+		<Username>ndewji</Username>
+		<Datetime>10-25-2009 09:38 PM</Datetime>
+		<Content>I just got this new rocket stick. 1 have 6GB data plan with blackberry APN 3. I confirm it is working fine in GTA area I am getting 21mbs. Very impressive! I can also confirm that it uses bucket of data from 6GB. I was speaking with technical support they added APN6 to acess internet. Technical support confirms that rocket stick recognizes as a data device any data used not considered as teathering and uses actual data. I just want to reconfirm this with anyone using rocket stick with the promotional data plan prior to june 8 2009 and if anyone had issues or being charged Pay Per Use..</Content>
+	</Post>
+</Thread>

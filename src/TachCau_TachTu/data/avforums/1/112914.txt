@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG Plasmas</Title>
+		<Username>MATT0902</Username>
+		<Datetime>20-01-2006, 3:29 AM</Datetime>
+		<Content>Does anyone have an opinion on LG plasmas in general? They seem to be cheaper than most others & their brightness & contrast levels seem to be higher than other manufacturers. Do they stack up against a panasonic(TH-42PV500A) or a pioneer (PDP-436HD)? Cheers</Content>
+	</Post>
+</Thread>

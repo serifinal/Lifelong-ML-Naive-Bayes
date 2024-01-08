@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer S-LX70 flat panel speakers</Title>
+		<Username>rdr1</Username>
+		<Datetime>03-05-08, 12:10 AM</Datetime>
+		<Content>Hi All, Has anyone heard about Pioneer's flat panel speakers? They are listed on Pioneer's uk website and I have seen it for sale at one place on the internet. However, I have not been able to get any other information on them. If anyone knows anything, or has had an opportunity to listen to them, I would like to know what your thoughts are. Edit: link to product http://www.pioneer.co.uk/uk/products...X70/index.html Thanks, R</Content>
+	</Post>
+</Thread>

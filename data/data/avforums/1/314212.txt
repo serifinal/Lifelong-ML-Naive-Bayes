@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PS51D550 or TX-P42G30B</Title>
+		<Username>jooroo</Username>
+		<Datetime>11-06-2011, 2:41 PM</Datetime>
+		<Content>Hi All, Ok, I appreciate this is a 42 vs a 51 but ... My room is fairly small. A 42 might be better in a way. I was all set on the Panny but I've had last minute doubts and am tempted by the Samsung. Not really arsed about 3D but the two models are more or less the same price on Amazon at the moment so ... Really I want a new screen for watching tv and movies (blu-ray). I'll be getting a Sony BDVE370 which will give me the access to iplayer etc. Any thoughts? Really welcome any help (and quickly please - I'm itching to order!) Thanks</Content>
+	</Post>
+</Thread>

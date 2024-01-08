@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon REBEL XT</Title>
+		<Username>patelp</Username>
+		<Datetime>04-07-2006, 06:01 PM</Datetime>
+		<Content>I am considering buying the Canon Rebel XT, but i'm debating on wheather to buy it now, or to wait. Does anyone know if Canon will be coming out with a newer model anytime soon? Or when the prices will be dropping for the XT.... THANKS</Content>
+	</Post>
+</Thread>

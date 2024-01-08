@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A couple of hot/stuck pixels, what should I do/think?</Title>
+		<Username>lottdod_1999</Username>
+		<Datetime>06-19-2009, 06:52 PM</Datetime>
+		<Content>Canon Powershot SD1200 Here are a few shots. All but the third are shrunk to 50% and then cropped, and the third to 25% and cropped.</Content>
+	</Post>
+</Thread>

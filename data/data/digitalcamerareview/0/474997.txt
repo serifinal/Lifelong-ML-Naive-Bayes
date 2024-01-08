@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot G7 Digital Camera</Title>
+		<Username>Stephen Ainsworth</Username>
+		<Datetime>03-23-2007, 12:45 AM</Datetime>
+		<Content>I bought Powershot G7 Digital Camera for just $419.00 from Planetonline. It is for serious photography enthusiasts who have a lot to be excited about. It includes 10 megapixel resolution and a powerful 6x optical zoom and also includes an Optical Image Stabilizer for clear shots throughout the zoom range.</Content>
+	</Post>
+</Thread>

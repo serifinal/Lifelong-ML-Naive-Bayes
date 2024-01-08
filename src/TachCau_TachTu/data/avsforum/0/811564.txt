@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Yet another GTA IV thread, but this time it's relevant!</Title>
+		<Username>like.no.other.</Username>
+		<Datetime>04-30-08, 11:05 PM</Datetime>
+		<Content>Is it me or when you go to Audio options on the screen it ask you how your surround is setup. Looking at the text there is 2 options available, side or rear on how you setup rear channels. But looking at the diagram it appears to have a unused 2 channel on the rear not available in the options possible 7.1. I tried applying Pro Logic IIx or NEO:6 but no option came out for that unused option. Is it possible that Rockstar Games going to release a patch for PS3? I also think that the audio output is a little weak. I have to boost the volume too high to hear the dialouge yet the SFX is blasting. Also they didn't manage to have the same contrast of SFX and music which annoys me because I can't focus on the music anymore... unless I ride a taxi cab the whole way.</Content>
+	</Post>
+</Thread>

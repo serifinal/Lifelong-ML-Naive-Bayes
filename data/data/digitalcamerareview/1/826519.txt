@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon 50D</Title>
+		<Username>Mike O.</Username>
+		<Datetime>04-18-2010, 03:30 PM</Datetime>
+		<Content>After reading review after review I went and held the Canon 50D with a 28-135mm lens. I must say I like the feel of it. Very well built I feel. I think I am going to take the plunge and buy one, I just am not sure what the best len would be for it. I like to shoot outdoor photography- Sporting events- Any advice on lenses would be great. Thanks in advance, Mike O.</Content>
+	</Post>
+</Thread>

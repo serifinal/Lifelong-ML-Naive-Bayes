@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TH-50PZ80B - today's equivalent?</Title>
+		<Username>MrBungle2005</Username>
+		<Datetime>26-12-2011, 9:22 AM</Datetime>
+		<Content>As an aside to a thread I started about a fault with this set of mine I have been doing some googling as to what the fault might be. As there is a possibility it could be the panel that has gone, is the G series the nearest equivalent, bearing in mind this TV was one of the better TV's in their range when I bought it? I'll be dealing with John Lewis under their 5 year warranty and will be hoping it can be fixed as I love this TV so much. But if it is worse case scenario should I be looking at a G model? The cheap model they do sounds awful compared to the quality I have been enjoying with this set. I can't see 3D because of an eyesight problem, so have no interest in any of those models at all. Thanks for any input.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>G20 Firmware 2.703 - Possible Problem</Title>
+		<Username>JonUK</Username>
+		<Datetime>05-03-2011, 2:11 PM</Datetime>
+		<Content>I have had my G20 since July 2010 and have not had a single problem with it.... until now. The latest firmware update has caused the TV to reboot every few minutes but only when watching freeview. Watching via freesat is not affected. I have tried a factory reset and this will work for a while but the rebooting eventually returns. Any suggestions please. JonUK</Content>
+	</Post>
+</Thread>

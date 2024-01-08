@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Best setting for group photo</Title>
+		<Username>ajh</Username>
+		<Datetime>12-06-2008, 06:33 PM</Datetime>
+		<Content>Hi all - Very first post here - hopefully will start using this to get questions answered after I fail to figure them out myself. I have a Rebel XSI Camera which I love - simple question is - what is the best setting to take a group picture with? If I use the full auto mode someone in the group always ends up blurry. I took a group photo of a bunch of kids in line - the ones in the center were focused but the kids towards the outer edges became blurred. Even with groups that are close together it seems it focuses mostly on the inner people. Any simple suggestions? I've tried the scenic setting too but this is not much better. I'm learning, I'm learning!! Thank you!</Content>
+	</Post>
+</Thread>

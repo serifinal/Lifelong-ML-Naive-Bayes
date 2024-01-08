@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon announces new Hybrid Image Stabilization</Title>
+		<Username>andrewmoquin</Username>
+		<Datetime>07-24-2009, 02:47 AM</Datetime>
+		<Content>From PDN: Canon has announced the development of Hybrid Image Stabilizer (IS), a new optical image stabilization technology that's designed to compensate for both angle camera shake and shift camera shake. Canon says the technology will be featured in an interchangeable single lens reflex (SLR) camera lens planned for commercial release before the end of 2009. Full press release here.</Content>
+	</Post>
+</Thread>

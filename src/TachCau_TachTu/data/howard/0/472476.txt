@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rove Mobile Admin client Java Error when attempting to connect to server</Title>
+		<Username>sashkok</Username>
+		<Datetime>04-09-2010 02:38 PM</Datetime>
+		<Content>Getting error when attempting to connect to Rove server via Rove Mobile Admin version 4.2.6075 on Blackberry 9700 OS (app version) 5.0.0.586. Error in question is "Unknown error java.lang.RuntimeException: pushModalScreen called by a non-event thread". Downloaded the client off of the company's server. Attempted running latest version of Rove Mobile Admin client which I downloaded off of Blackberry App World, however that gave me an error saying that the client version did not match with the server version. Have also attempted a re-install as well as a battery pull.</Content>
+	</Post>
+</Thread>

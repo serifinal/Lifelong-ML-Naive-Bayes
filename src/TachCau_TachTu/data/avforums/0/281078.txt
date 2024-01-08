@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to connect my panasonic TX-P42G20B to the internet!</Title>
+		<Username>jag23456</Username>
+		<Datetime>22-12-2011, 8:10 PM</Datetime>
+		<Content>What wirelees Lan card do I require?</Content>
+	</Post>
+</Thread>

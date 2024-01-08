@@ -1,0 +1,12 @@
+.
+i 've been searching and searching but i have n't been able to find anything that explains this very well .
+i am not talking about amp .
+forget amp .
+i am talking about the ability to take a 24fps/hz source and use 5:5 pulldown to display each frame 5 times and thereby reduce -lrb- get rid of ?? -rrb-
+the juddering present in lcd 's .
+first , i ca n't find anything that confirms that the lnxxa650 can do this -lrb- or for that matter the 750 , 850 -rrb- , so does it in fact do this ?
+it 's awfully conspicuous that this information is n't easy to find ... second , even if it does do this , how could i actually take advantage of this ?
+i currently have comcast , and the cable box outputs at 60hz , so when i 'm watching a movie broadcast in hd , it 's already gone through the 3:2 pulldown so it can be output at 60hz , right ?
+so in that case , there 's nothing the lcd can do , because even if it did support 5:5 pulldown , it needs a source that 's outputting at 24fps/hz , correct ?
+does any blu-ray player , or dvd player , or really anything , support outputting content at 24fps/hz ?
+and , if there is , can someone confirm that that 's the only way the lcd could take advantage of 5:5 pulldown -lrb- if it indeed did support it -rrb- ?

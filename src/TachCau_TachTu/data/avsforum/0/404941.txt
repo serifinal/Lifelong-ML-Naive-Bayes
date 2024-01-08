@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Great Deal on Receiver/Speaker System</Title>
+		<Username>Sirkassad</Username>
+		<Datetime>12-15-08, 08:37 AM</Datetime>
+		<Content>If you are in the market for a Receiver and 5.1 speaker system look no further. w w w .6 a v e.com/shop/product.aspx?sku=CESRXV2700KHT3005 Brand new Yamaha rx-v2700 + KEF 3005 5.1 surround sound speaker system for less that $2,400. You can't beat this, I'm sure of it.</Content>
+	</Post>
+</Thread>

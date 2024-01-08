@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official Samsung Alias 2 Release Thread</Title>
+		<Username>FAUguy</Username>
+		<Datetime>05-11-2009 05:00 AM</Datetime>
+		<Content>http://www.verizonwireless.com/b2c/s...edPhoneId=4686</Content>
+	</Post>
+</Thread>

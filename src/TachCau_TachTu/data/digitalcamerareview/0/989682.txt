@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>taking concert photos with a canon powershot sx20</Title>
+		<Username>bryce87</Username>
+		<Datetime>11-07-2010, 03:21 PM</Datetime>
+		<Content>I am new to photography and bought the canon powershot sx20. I have filmed for a number of years and recently became interested in taking photos. I go to many concerts and take as many photos as I can. Last night I went to a concert and still have yet to figure out how to take photos without grain in them etc. The pictures are sometimes blurry even though the settings are usually the same during every picture. I have the camera set to Program mode, ISO 400, and exposure I usually leave unless the lighting drastically changes on the stage. The image quality is set to Large and I used the flash as I was back a ways a good 50 feet maybe. I had the digital zoom on to 1.5x so I get up close. Any tips how I can improve my photos? thanks</Content>
+	</Post>
+</Thread>

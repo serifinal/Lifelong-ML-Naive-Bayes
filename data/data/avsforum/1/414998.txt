@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung 650 vs. Sony V4100</Title>
+		<Username>nvidia101</Username>
+		<Datetime>10-14-08, 02:59 PM</Datetime>
+		<Content>Samsung 650 40" vs. Sony V4100 40" which one shows more detail in picture quality? im stuck in between which one to get in my price range. I recently returned my a550 because it would show motion blur in fast scenes.</Content>
+	</Post>
+</Thread>

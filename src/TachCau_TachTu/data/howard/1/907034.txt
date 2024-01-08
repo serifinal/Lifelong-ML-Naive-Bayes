@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Iphone4 16gb- Fido</Title>
+		<Username>uwaiss91</Username>
+		<Datetime>09-30-2010 03:29 AM</Datetime>
+		<Content>Got a iphone 4 16gb locked to fido. Used for a month but it's in 10/10 condition. Screen protector and case from day 1. NEVER dropped. Looking to trade it for a phone that's on its level. You add cash depending on which phone . Will also take cash. Comes with a griffin case and also another heavy duty case, box and everything. Also have recipt. Looking for a torch or somthing around that level</Content>
+	</Post>
+</Thread>

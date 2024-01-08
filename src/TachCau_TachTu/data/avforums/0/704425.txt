@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Burned image problem</Title>
+		<Username>zeliscar</Username>
+		<Datetime>26-05-2011, 12:06 PM</Datetime>
+		<Content>Hello, my first post here. Few months ago I bought my first plasma TV (LG PK760). I knew that I had to be careful about static images, because they could be burned into the screen but I totally forgot about the black line on top (and bottom) of the screen that 80% channels that I watch have. Now that place has become "lighter" than the rest of the screen, which is visible when watching fullscreen channels or playing playstation. Right now it doesn't bother me much, since you only see it if you focus on it, but I'm worried that after more time it will become more and more visible (if just 3 months is enough for this kind of damage) I'm guessing there's nothing I can do to fix that but would like to know how do other plasma users avoid getting this and what should I do to not damage my screen any further? I don't think I've been using TV too exessively, but there were a few times when it's been turned on for whole day - I'm now guessing this is the main reason I just didn't think it could be this bad... Thanks for the answers and sorry for my bad english.</Content>
+	</Post>
+</Thread>

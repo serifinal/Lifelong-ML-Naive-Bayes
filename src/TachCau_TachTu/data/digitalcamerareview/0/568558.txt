@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sony Cyber-shot DSC-H3 Review Discussion</Title>
+		<Username>David Rasnake</Username>
+		<Datetime>01-20-2008, 11:20 AM</Datetime>
+		<Content>The Sony Cyber-shot DSC-H3 is yet another take on the emerging compact ultra-zoom theme, sporting a 10x optical zoom in a larger compact-camera package. Amid some other, more prominent entries into this field, the Sony seems to have been often lost in the mix. Even with some tough competition and nagging questions about high-ISO image quality and interface performance, however, the 8.1 megapixel H3 looks like it brings enough pocket-sized power, building on the obvious draw of a 10x zoom in a compact body, to set itself apart. Read the full content of this Article: Sony Cyber-shot DSC-H3 Review</Content>
+	</Post>
+</Thread>

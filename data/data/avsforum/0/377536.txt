@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cant play The X-Files: I Want to Believe blu ray with powerdvd 8</Title>
+		<Username>outbreak</Username>
+		<Datetime>12-27-08, 12:48 AM</Datetime>
+		<Content>Just got The X-Files: I Want to Believe Blu Ray and its not working with PowereDVD 8 Ultra. This happens with or without anydvd hd running in the background. My drive is the LG H20LK. I updated PowereDVD thinking that would fix the problem but that did not help. How can I get this to work?</Content>
+	</Post>
+</Thread>

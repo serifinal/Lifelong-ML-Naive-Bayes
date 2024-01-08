@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Latest Firmware</Title>
+		<Username>3dxr</Username>
+		<Datetime>12-25-08, 04:57 PM</Datetime>
+		<Content>Hi all, I want open separate thread only about + open source firmware modifications + firmware compiling issues + unofficial firmware develepment talk and all about unofficial firmware develepment The Main thread is place where people talking cross over a lot of topics /upgrade issues/remuxing/etc... this is the key reason why I want open this thread. I hope this will help to people from WD/and another open source firmware developers share own knowledge more efficient If you need to know somethink about WDTV you should go to this thread New* Western Digital - WD TV HD Media Player BUGS reports for official firmware you can post here.... http://www.avsforum.com/avs-vb/showthread.php?t=1100499 NEW WDTV Developers WIKI old location not updated from 28.march 2009 is here and currently is down</Content>
+	</Post>
+</Thread>

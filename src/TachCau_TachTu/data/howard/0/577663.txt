@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>AT&T iPhone Plan (includes UNLIMITED data, corporate discount, and more!)</Title>
+		<Username>FCPatriot</Username>
+		<Datetime>06-09-2010 04:19 PM</Datetime>
+		<Content>550 mins (450 + 100 courtesy of Customer Care)|Unlimited Data|Corporate Discount|Unlimited Text|5000 N&W mins|Unlimited Mobile to Mobile If you are a new customer planning to purchase an iPhone 4 on June 24th taking over a contract is the only way you'll get access to unlimited data. My contract is set to expire in December, but thanks to AT&T's leniency it is eligible for an upgrade early (effectively shortening the contract by 6 months). In other words this contract will be no longer than a new customer agreement. The corporate discount is 15%! I'm planning to downgrade to the 200 mb tier but I am sure there are new customers who would prefer an unlimited data plan. I pulled 16 gigs one month without hearing a peep from AT&T. It is truly unlimited. The transfer can be done completely online! Selling it for $300. Get it while it lasts</Content>
+	</Post>
+</Thread>

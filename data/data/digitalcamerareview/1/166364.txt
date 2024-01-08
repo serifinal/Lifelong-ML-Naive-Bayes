@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Case for SD780?</Title>
+		<Username>klezmer41</Username>
+		<Datetime>01-27-2010, 11:01 PM</Datetime>
+		<Content>I've got this great little camera, and now I can't seem to find a good case for it. I think I want something without a zipper, cause I know I'd scratch it up that way.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS43D450A2</Title>
+		<Username>danrac</Username>
+		<Datetime>20-03-2011, 9:20 PM</Datetime>
+		<Content>Has anyone purchased this model which is only really for sale in Comet and John Lewis for £549?.There is no mention of it on Samsung's own website and i can't find any reviews for it.How good is it in comparison to the PS42C450?</Content>
+	</Post>
+</Thread>

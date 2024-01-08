@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P50V10B - Black has turned Grey?</Title>
+		<Username>discover</Username>
+		<Datetime>27-11-2011, 12:08 PM</Datetime>
+		<Content>Hi guys, My mate has had he's TX-P50V10B since it was released in Summer 2009 and there is something really wrong with he's TV. He's TV is unable to display any shade of black at all! I am by no means exaggerating here but he's PQ on that once a great plasma TV is worse than an entry level LCD. There is sooo much brightness or some form of light all around the screen. Anything that's supposed to be black is grey. I tried lowering the brightness control so much I actually turned it off completely and the TV still couldn't display black. It was just a big grey mess. Normally if you turn off the brightness completely, you would struggle to see anything right? Not on this set. There is no such thing as black on this TV. I'll try and take some pictures if I go down to he's place tonight. I read about the black level/MLL rise on this particular set and I strongly believe this set has been affected real bad. My mate who owns it and knows absolutely nothing about TV's noticed it and called me over to come look at it. Is there anything he can do? He did get the 5 year Panasonic warranty when he bought the set? I feel really sorry for him, the TV is a total waste and unwatchable!!</Content>
+	</Post>
+</Thread>

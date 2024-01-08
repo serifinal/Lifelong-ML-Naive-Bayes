@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Spots on Pictures</Title>
+		<Username>electrogirl86</Username>
+		<Datetime>03-12-2007, 07:59 PM</Datetime>
+		<Content>I just got my new Canon Powershot SD800 IS camera and for the most part, I like it a lot. I do have one problem, though. Some of my pictures have these weird clear spots on them. I uploaded an example to show you. Even in daylight, sometimes I get these (ranging from small to large) spots on my pictures. I don't think it is the lens because not all of the pictures are like that. So I was wondering if someone here could help me out? Also, I was wondering if anyone could help me with a few settings on my camera. I mainly just use it to put the pictures on my computer, once in a while, I'll print out some standard sized photos (4x6). So I was wondering what the best size for my pictures would be? There is L, M1, M2, M3, and S. The larger the picture, does the quality get worse or better? And also do you think I should keep it on the Superfine setting? The files are larger in size but I don't mind if the quality is a lot better. Sorry for all the questions, thanks so much.</Content>
+	</Post>
+</Thread>

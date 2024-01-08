@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I would like a newbie's guide to tethering</Title>
+		<Username>mikethaler</Username>
+		<Datetime>01-18-2010 08:21 PM</Datetime>
+		<Content>I know absolutely nothing about how to tether a laptop to a BB (or any other) phone. Can someone point me to where I could learn the basics? Thanks. ...mike</Content>
+	</Post>
+</Thread>

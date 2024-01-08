@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Getting the most from the Canon D50</Title>
+		<Username>Photobug4741</Username>
+		<Datetime>01-18-2009, 01:53 PM</Datetime>
+		<Content>I am learning quickly the only way to really get the most from the new Canon 50D, is to read the manual and stop using Auto, and start using the manual controls. Learning to set the shutter speed and Aperture is very important if one really wish's to get sharp clear and colorful pictures. I think the many who have posted negative comments about the quality of pictures taken with this new Canon, just have not taken the needed time to read the manual and start using the manual controls this fine camera has.</Content>
+	</Post>
+</Thread>

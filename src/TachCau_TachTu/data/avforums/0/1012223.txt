@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung 51d6900 Brightness pops fixed?</Title>
+		<Username>Nicholars</Username>
+		<Datetime>28-01-2012, 6:26 PM</Datetime>
+		<Content>Sorry I know I should search but I have looked through loads of threads and cannot really find a definitive answer.... Also I think a dedicated thread would be usefull as this is an otherwise excellent TV and this issue might put a lot of people (including me) off... Questions are as follows: a) has this been fixed now via firmware? Or at least significantly reduced? b) How bad is this really? Is it people being overly pedantic or is it a regular and distracting problem? How often does it happen? Once a day? Once every 5 minutes? It is hard to guage the severity of it... c) Does this model suffer from raising black levels after a few years? How bad is this? Thanks a lot please reply because I am almost going to buy one I would just like a little clarification on these areas</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Netflix quality @ 6 Mbps vs 3Mbps?</Title>
+		<Username>Drew Eckhardt</Username>
+		<Datetime>12-20-08, 02:51 PM</Datetime>
+		<Content>I bought us a Samsung BD-P2500 for Christmas and plugged it in last night using an ethernet cable direct to the DSL router and HDMI cable to the 768P plasma in the bedroom. We have a 3Mbit connection right now, and had all but the last two little bars on the SD (Poseidon Adventure) and HD (30 rock) source we watched last night. The Poseidon adventure was a little soft compared to DVD but didn't have much in the way of motion artifacts; the still parts of 30 rock were sharper than DVD although backgrounds got soft and had some macro blocking. Both beat satellite and were watchable. How much better would things be if I upgraded our DSL connection to 6mbs?</Content>
+	</Post>
+</Thread>

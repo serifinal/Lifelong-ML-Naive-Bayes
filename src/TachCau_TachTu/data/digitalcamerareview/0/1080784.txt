@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>Brian</Username>
+		<Datetime>04-25-2005, 09:56 AM</Datetime>
+		<Content>No scene modes in a point and shoot is disappointing. Couple that with the small LCD and I'm not sure this is the best option for $300. It's obviously very popular though, I'll be interested to read your final verdict.</Content>
+	</Post>
+</Thread>

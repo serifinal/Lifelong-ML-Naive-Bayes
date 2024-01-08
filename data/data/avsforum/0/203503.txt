@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Audio problems with intel G45 and HDMI</Title>
+		<Username>derBertl</Username>
+		<Datetime>10-26-08, 06:16 AM</Datetime>
+		<Content>I have built a HTPC using an Asus P5Q-EM board. The HDMI output of the PC is connected to a Denon 3808 with a 5.1 speaker setup. Everything works perfectly fine, but I hear artifacts in the audio. It is difficult to describe ... it sounds like a slightly scratched vinyl record. Every few seconds I hear a tick in one of the speakers. This is totally random and independent from the media I am playing: MP3, movies, internet radio ... it does not matter. It all has the same problem. My DVD player, PS3 and satellite receiver also work fine with the Denon. When I switch the PC audio hardware from HDMI audio to the Realtec HD chip the sound is ok, but then the audio is not transported to the Denon via HDMI. I run XP, latest Intel drivers on the HTPC, upgraded the Denon firmware, read articles and postings for the last two days, but I am stuck. Any advice? thanks in advance!</Content>
+	</Post>
+</Thread>

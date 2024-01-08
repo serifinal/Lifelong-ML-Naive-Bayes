@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Adding FAN discount to existing line renews contract?</Title>
+		<Username>saberchan</Username>
+		<Datetime>04-08-2010 03:26 AM</Datetime>
+		<Content>I have existing line with my iPhone 3G which only has few months of contract left. I'm waiting for 4G to come out so I can swap the phone. Today I learned that my school has FAN discount and went to the website, but, Special benefits are provided solely as a result of the business agreement between AT&T and your organization and are subject to change and/or discontinuation without notice to you. Requires a two year service agreement and qualified plan. Other restrictions apply. If you have a question about your eligibility, please contact your organization's benefits coordinator or telecommunications manager. that red line scares me off. I'm almost at the end of 2 year contract and it would be dumb if I added another 2 yr contract at this point to get 20% discount. Does anyone know what that line really mean?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon S5iS Microphone Specs?</Title>
+		<Username>tweeterdj</Username>
+		<Datetime>07-31-2008, 01:46 AM</Datetime>
+		<Content>Hey everybody. My wife and I recently bought the S5iS. It is a great little camera, and being an audio engineer, I like the feature that lets you record 44.1kHz .wav files with the stereo microphone on the front. I'm wondering though if anybody has the specs for that microphone however. Signal-Noise ratio, response graph, even what kind of mic it is (I'm guessing it's an electret cardioid, but hey, can't hurt to know for sure!). Any info would be greatly appreciated!</Content>
+	</Post>
+</Thread>

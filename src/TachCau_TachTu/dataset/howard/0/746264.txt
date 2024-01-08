@@ -1,0 +1,7 @@
+bell micro-sim ipad .
+hi all , i could n't resist today and picked up an ipad and a bell microsim from future shop .
+activation was a bit of a pain having to phone in and took about half an hour to work but seems to work well .
+i have made a micro sim adapter -lrb- crude one -rrb- and placed the bell microsim in my unlocked 306 and iphone 's and was able to access data .
+i used the pda2.bell.ca apn .
+i tried placing voice calls and sms but was unable to , bell seems to have that locked up pretty tight .
+so far there does n't seem to be anywhere to go to monitor data usage , anyone have any ideas ?

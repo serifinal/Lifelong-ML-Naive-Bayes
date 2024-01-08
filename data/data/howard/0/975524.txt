@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: BNIB Sealed Rogers Iphone 3GS 16GB Black</Title>
+		<Username>pel2000</Username>
+		<Datetime>01-12-2010 12:15 PM</Datetime>
+		<Content>For Sale: Apple Iphone locked to Rogers Wireless Iphone 3GS 16GB Black Brand New Sealed in box C$625 PM is the key to reach S/N: 829434C93NP Available anytime after 5P in Scarborough Area Please send PM</Content>
+	</Post>
+</Thread>

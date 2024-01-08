@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Google Nexus One (Rogers/ATT Bands)</Title>
+		<Username>kenshaw</Username>
+		<Datetime>09-01-2010 10:16 PM</Datetime>
+		<Content>Selling my Super Mint Nexus One. Comes with everything in the retail box. Headphones and syncing cable unused. Phone is rooting and running Froyo 2.2 firmware. This is the Rogers and ATT banded phone, not the T-Mobile version. Asking $520 Text 647-989-7903 for quickest response Joe</Content>
+	</Post>
+</Thread>

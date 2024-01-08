@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic PZ80/PZ85 Calibration Thread</Title>
+		<Username>bpmurr</Username>
+		<Datetime>04-15-08, 02:36 PM</Datetime>
+		<Content>Please keep all talk to calibration settings and related topics. Everything else should be in the owners thread. AVS Calibration Disc http://www.avsforum.com/avs-vb/showthread.php?t=948496 Tom's Settings - Keep in mind he has adjusted his service menu (if you live in the Baltimore/DC area you should hire him to come out!) Cinema Picture: 60 Brightness: 52 Color: 41 Tint: -2 Sharpness: 50 Color Temp: Warm Black Level: Light Here are my settings using a PS3 via HDMI with DVE Blu-ray and of course by eye. RGB is set to full on the PS3. I have not done anything in the PZ85 service menu. Cinema settings: Picture: +70 Brightness: +48 Color: +44 Tint: -3 Sharpness: 0 Color temp: Warm Color mgmt: Off x.v.Color: Off C.A.T.S.: Off Advanced Picture Settings: Video N/R: Off Black level: Light HD size: Size 1 Standard: - Use for Bright room Picture: +70 Brightness: +44 Color: +46 Tint: -3 Sharpness: 0 Color temp: Warm Color mgmt: Off x.v.Color: Off C.A.T.S.: Off Advanced Picture Settings: Video N/R: Off Black level: Light HD size: Size 1</Content>
+	</Post>
+</Thread>

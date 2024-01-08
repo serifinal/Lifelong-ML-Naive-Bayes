@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>The Dungeon --> Beginnings of a new build</Title>
+		<Username>chadcummings</Username>
+		<Datetime>07-02-08, 12:40 PM</Datetime>
+		<Content>OK, I finally found someone to start studding up my basement while I am away and figured I better start finalizing a few things. Here are a couple of rough design pics for what I want to do for my HT and some general info on the numbers I am coming up with. Please pick it apart and tell me what I am doing wrong so I can make changes now. General room size: 14? 6? x 18? From IB wall to rear wall: 14? 6? False wall to rear wall: 16? 6? Ceiling height: 102? Soffit height: 90? IB: IB Space: 235 cu ft Speakers: 8 ? DPL-15 Amp: Face 1200 EQ: FBQ2496 Screen: 120? 2.35 First row: 120? Second row: 180? PJ: Dunno, prob RS2 or newer model Lens: Aussie MkIII when they ship Speakers: 7.1 LCR: Klipsch 10.5 Surround: Klipsch 3.1 Rear: Klipsch 3.1 Pre/Pro: Looking at the Marantz 8003 set I will be powering my AV closet via a Belkin PureAV PF60. I will also have FO stars in the top ceiling area, rope lighting around the soffit edge, can lights in the soffit and controlled by a Graphik Eye. My AV closet will be controlled by a touchpad a friend is setting up using RF or wireless on a linux system. I will also have a 12TB RAID in the closet for the movies that are not being played off the PS3. I know the screen is too big for some people but the way I see it, I can mask it down if it is too big for me. I would rather it be too big then not big enough. Thanks for your pre-help. Chad</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Do all plasmas interfere with routers?</Title>
+		<Username>AngryDog1981</Username>
+		<Datetime>27-01-2012, 9:39 PM</Datetime>
+		<Content>Having just taken my Samsung ps43d490 back to the shop because of it interfering with my router, will all plasmas cause me the same problem?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What kind of screen, where and how do mount?</Title>
+		<Username>swinnydon</Username>
+		<Datetime>03-08-08, 03:25 PM</Datetime>
+		<Content>Hi there, So I just stumbled across a Home Theater store the other day and after a quick look round, I started to play with the idea of getting a projector again, maybe a Mitsu HC1500 or the Opto HD70. My problem is where I can put my screen.. I currently have a Mitsu 46" LCD which sits on an Ikea AV bench. I have NHT C4s either side of the bench and am due to have a C3C speaker in the next few weeks. So obviously the screen has to go in front of the TV so what are my options? Should I get a portable? Or maybe a fixed screen with some kind of stand to so that I can put it onto the AV bench whenever I want to watch a movie. I have high a high slanted ceiling (plus I'm in rented accomotation) so ceiling mounting really isn't an option. Here are a couple of pics: (Oh, and yes I know it's a mess. I'm just waiting for my Emotiva LMC-1 to arrive to go back into that bottom left slot. I sold my NAD T753 last week and just waiting for the replacement! )</Content>
+	</Post>
+</Thread>

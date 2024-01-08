@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>blury shadows on plasma tv</Title>
+		<Username>honza1</Username>
+		<Datetime>16-12-2011, 12:37 PM</Datetime>
+		<Content>Hi, we got panasonic TX-P50V20BA last christmas. It seems to be good TV but I have one think I would like to ask you about. When watching something like eagle flying in front of clif or runner in front of the fence or similar scenario of moving object in front of detailed background I can see blury shadows on the background. Only little "shadows" kind of like what you see thru hot air. I am pretty sure You know what I mean but I am not too familiar with corect wording for this issue.(as I am Czech and going in to some technical details and wording gets a bit too much for me) I would like to know if that is something that I will have to put up with for live of the TV as the technology simply is not good enough to generate sharply detailed pictures (in shoots like mentioned above) or if I can adjust it somehow. Please excuse me if you have already mentioned this somewhere. If thats the case Please give me the correct wording for the problem and directions/link where I can read how to reduce it (if possible). Many thanx And Happy Christmas</Content>
+	</Post>
+</Thread>

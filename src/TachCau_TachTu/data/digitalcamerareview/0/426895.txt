@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Downloading Raw images to photoshop?</Title>
+		<Username>jttphotography</Username>
+		<Datetime>05-09-2009, 09:54 PM</Datetime>
+		<Content>I just purchaesd the Canon EOS 5D Mark II. I am having trouble downloading my RAW images to Photoshop elements 6.0. The program says that I doesn't recognize the format. Is anyone else running in to the same problem? Any suggestions? Thanks</Content>
+	</Post>
+</Thread>

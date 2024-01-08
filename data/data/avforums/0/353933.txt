@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>G10 firmware 1.612 (uk only)</Title>
+		<Username>mitchec1</Username>
+		<Datetime>12-09-2009, 8:21 AM</Datetime>
+		<Content>Ok have just received firmware 1.612 from Panasonic and uploaded it This is the latest with the ITV HD fix RapidShare: 1-CLICK Web hosting - Easy Filehosting Same process as previous updates, use SD card insert into sd slot. Wait 20 secs picture should disapear and be replaced by uploading application. Press OK button on remote when prompted and the download should start. Wait until it reaches 100% and follow on screen instructions which basically tell you to remove sd card, turn tv off with power button, turn tv on and let the system initiate ( can take upto 5 mins) No major changes from 1.611 with menu's, picture etc</Content>
+	</Post>
+</Thread>

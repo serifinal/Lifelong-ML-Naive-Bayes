@@ -1,0 +1,68 @@
+: : new users read this first - stuff you probably wo n't find in the wiki : : .
+hey guys , i 've recieved many , many message over the last few weeks ranging from questions about jailbreaking to unlocking .
+the amount of experience the individual has had will often dictate how the dialogue continues .
+however , over the last little while , there seems to be an influx of newer users , undoubtably drawn here by news that there has been an unlock for new iphones .
+over the course of the week i continually found it hard to explain even simple concepts to newer users , since i would find myself using terms that i just assumed that the person on the other end would understand .
+i took for granted that everyone i was helping would just know what ` dfu ' means when in fact they only joined the forum 4 minutes ago .
+sometimes i would spend a considerable amount of time explaining something only to find out that it was n't even what the user needed because their interpretation of ` unlock ' was different than what my understanding of it was .
+this wastes the time of both parties and usually turns into frustration before anything positive was accomplished .
+so i 've compiled a little guide that will explain some of the things a user may not understand when visiting this place for the first few times .
+hopefully this will ` level the playingfield ' for newbies , especially when they are forming questions .
+- terminology and concepts - bnib ?
+brand new in box o.o.b - this is just an acronym for ` out of box ' or ` brand new ' -lrb- home -rrb- button ?
+the round button on the front of your iphone -lsb- sleep -rsb- button ?
+the long button along the top of your iphone dfu mode - you do n't need to know what it stands for ; you just need to know how to get there .
+hold down the -lsb- sleep -rsb- and -lrb- home -rrb- button until your iphone disconnects from your computer .
+i know , some people say `` 10 seconds '' or whatever , but the best way to do this is to turn on your speakers and listen for the device to disconnect from the usb interface .
+when you hear this , let go of the -lsb- sleep -rsb- button , but keep on holding the -lrb- home -rrb- button until you hear the device connect again .
+** please note that while in dfu mode , you should not see anything on your screen .
+if you see a yellow triangle -lrb- 1.0.2 -rrb- , an ipod cable -lrb- 1.1.1 -rrb- or a picture of your mom , you are not in dfu mode .
+restore mode - this is the normal restore mode that sees less use than dfu mode , especially in the unlocking community .
+unlike dfu mode , you will see an image of a yellow triangle or an itunes cable on your screen while you are in this mode .
+some recent jailbreak utilites call for this mode , and i am including it in here becaue it also emphasizes the difference between this mode and dfu .
+to get into restore mode , turn off your phone by olding down the -lsb- sleep -rsb- button for 5 seconds then sliding the red bar across the screen with your finger .
+once the screen turns off , contiunually hold down the -lrb- home -rrb- button while you press the -lsb- sleep -rsb- button .
+hold the -lrb- home -rrb- button until you see either a yellow triangle -lrb- 1.0.2 -rrb- or a ` connect to itunes ' picture on the screen .
+jailbreak ?
+alters the iphone?s file system to allow writing and modifying data in specific areas .
+in turn , this allows 3rd party applications to be installed .
+unlock ?
+let?s a sim other than at&t operate as a cellular device in any given gsm provider .
+note that when you?re at the ?
+slide to unlock ?
+screen on your iphone , which is not the same ?
+unlock ? .
+** you 'll hear a lot of talk about ` unlocking 1.1.2 , or unlocking 1.1.1 .
+this , technically speaking is actually incorrect , as the ` unlock ' actually occurs on the baseband of the corresponding firmware .
+when someone says ' i unlocked 1.1.1 ' , they are really saying ' i unlocked the baseband 4.01 ' .
+baseband 4.01 , as i will explain a bit later , is the corresponding baseband to the 1.1.1 firmware .
+activation ?
+pairs the sim card with the phone , and for all practical purposes lets the user access the springboard -lrb- home screen -rrb- firmware ?
+this is the os of the iphone .
+current popular versions are 1.0.2 , 1.1.1 , 1.1.2 , and of course 1.1.3 baseband ?
+the component of the iphone that handles all the communication aspects of the the iphone * upgrading / downgrading - when upgrading your firmware , the baseband upgrades alongside the firmware .
+if you are at 1.1.1 with its corresponding baseband 4.01 and you upgrade to 1.1.2 , you will also upgrade your baseband to 4.02 .
+** unlike upgrading , when you downgrade firmware , the baseband does not tag along .
+instead , the baseband will stay the newest version .
+if you downgrade to 1.0.2 from 1.1.2 using dfu mode , you will still have the 1.1.2 baseband on your phone .
+this is not a bad thing .
+we just need to be aware of this .
+as mentioned above , each firmware revision has its own corresponding baseband : 1.0.2 - > 3.14 1.1.1 - > 4.01 1.1.2 - > 4.02 1.1.3 - > 4.03 please note that it is essential that you understand that because of this behaviour of upgrading and downgrading , have firmware 1.0.2 with baseband 4.02 on your phone by merely restoring from 1.1.2 to 1.0.2 virginizing ?
+returning the phone to 1.0.2 with baseband 3.14 .
+this is done via scripts , and there are many out there ?
+some require minimal user input while other are more involved .
+i am mentioning this only because some people have this misconception that downgrading the fw is the same as virginizing , which is not the case .
+when someone says ?
+i virginized it ?
+, it means -lrb- for all practical purposes of this guide -rrb- they downgraded the firmware along with the baseband and in turn , locked , re-jailed and deactivated the phone .
+bootloader - the bootloader is bascially the bios of the phone , and for all practical purposes of this guide , will be treated as such .
+the most important thing to know in this case is what bootloader version do you have ?
+currently , there are mainly two version floading around : v3 .9 , and v4 .6 .
+if you are unsure of which version you have , you can check it by finding out what week your phone was manufactured .
+to do this , look at the 4th and 5th digits of your serial number .
+example : serial number : 7t341wdnwh3 - this phone is week 41 , and will most likely have bootloader v3 .9 .
+you may continue with the guide .
+serial number : 7n445nntpj1 - this phone is week 45 , and will most certainly have bootloader v4 .6 .
+this guide is not for you .
+if your phone is manufactured in week 45 or later , you will most certainly have the new .
+if your phone was manufactured before week 45 , then you most likely have v3 .9 of the booloader .

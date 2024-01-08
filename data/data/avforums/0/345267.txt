@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma To Amp/DVD Sound Problem</Title>
+		<Username>Geefiasco</Username>
+		<Datetime>04-06-2011, 12:16 PM</Datetime>
+		<Content>Bought an LG 50PV350T last week and I'm having problems getting my surround sound system set up. I've tried running Audio Phono cables from the Amp > TV and from the Amp > DVD Player, which was my original setup with the old TV. Here's an illustration:</Content>
+	</Post>
+</Thread>

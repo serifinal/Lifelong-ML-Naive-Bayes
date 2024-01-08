@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Mark II 5D making grinding noise</Title>
+		<Username>Beks</Username>
+		<Datetime>01-20-2011, 02:50 PM</Datetime>
+		<Content>Hi list! I have a new mark II 5D as a work camera. And when ever use it for filming - it makes a grinding noise. Now - You can't hear the grinding noise when you are filming. Only hear it when you play back the video on the computer. I called canon - they asked if I used an external mic. I don't too often. It does not seem to help. They did tell me to send it back for repairs ....I hate to part with it...even for the 10 days they tell me it will be gone for. Any one else have this issue? Beks</Content>
+	</Post>
+</Thread>

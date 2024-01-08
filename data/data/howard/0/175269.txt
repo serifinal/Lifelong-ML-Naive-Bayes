@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Apple iPhone 4 16GB Factory Unlocked BNIB - $880 (Scarborough/Toronto)</Title>
+		<Username>InfernalAffairs</Username>
+		<Datetime>08-04-2010 05:12 PM</Datetime>
+		<Content>I have an iPhone 4 16GB from Apple, brand new in box, sealed & factory unlocked. Receipt & a Rogers sim card will be included. Price: $880 CAD PM if interested. Can meet up in Scarborough or downtown Toronto. Thanks!</Content>
+	</Post>
+</Thread>

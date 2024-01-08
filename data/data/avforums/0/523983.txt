@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Philips 42pfp5532d help please</Title>
+		<Username>jallan1985</Username>
+		<Datetime>20-11-2011, 8:49 PM</Datetime>
+		<Content>hi there got a problem with this plasma basicly theres a line of static on the left and i cant get rid? tried different vid souces and zoom settings nothing its like the alignment is off but dont know how to fix that any help would be amazing thanks james sorry about the crap pic</Content>
+	</Post>
+</Thread>

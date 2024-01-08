@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>42LG3000-ZA.AEK Problem Help Please</Title>
+		<Username>mr fudd</Username>
+		<Datetime>29-05-2011, 1:10 PM</Datetime>
+		<Content>Hi all Just come across this forum while searching for an answer to a problem i have with the above titled tv. Iv been having a few problems with not being able to tune all the channels in on DTV and the picture is becoming a bit fuzzy and breaking up and becoming a little unstable in other areas. After searching the internet my suspicion of the problem being a firmware one has more or ess bein confirmed but im struggling to find the firmware upgrade and how to do it so could some kind person point me in the right direction please? The tv is currently running 3.35.1 firmware if this helps point to the problem and im based in the UK Nice to see we have forums that cater for everything to help people where it can be done by yourself rather than being hit deep in the pocket so keep up the good work and thanks in advance. jason</Content>
+	</Post>
+</Thread>

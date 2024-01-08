@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 50PZ570T sound output??</Title>
+		<Username>MattyP1990</Username>
+		<Datetime>20-07-2011, 3:41 AM</Datetime>
+		<Content>I can't seem to find any sound output on my LG 50PZ570T, does anyone know if it has one? If not is there any other options to use freeview on surround sound?? Thanks a lot</Content>
+	</Post>
+</Thread>

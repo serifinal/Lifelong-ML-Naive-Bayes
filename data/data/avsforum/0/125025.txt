@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Screen Wall:</Title>
+		<Username>Dseal</Username>
+		<Datetime>03-31-08, 11:04 PM</Datetime>
+		<Content>I have visited this site numerous times over the last year. I have approximately 98% of the basement framed. (except for soffits) I need help/input on my dedicated HT and game rooms. The theater is approximately 13' x 16'9". I have a riser built in place that is 13' x 62" x 7". This equals out to the seating being 16.5 feet from the screen on the rear row. The front row would be 10.5-11' from the screen. I plan on putting in a 110" screen. I am wondering if these dimensions are good or is the front row to close??? I will be purchasing Berkline 090's or 091's. My seating setup would be 3 seats in each row. This works well considering I would have space on each side of the rear row to put an audio cabinet on each side. I'll give some other thoughts on my next post and some pics to help out. I need to finalize this because the more I look at it, the more I think I need to make changes. If you guys could help on ideas and different posts, I would appreciate it. Like I always say, It is, what it is!!: Also, I've attached some pics but does anyone know how to place them directly into the text post??</Content>
+	</Post>
+</Thread>

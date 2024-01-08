@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A540 Won't Hold Charge</Title>
+		<Username>JoeBronx</Username>
+		<Datetime>10-19-2009, 12:40 PM</Datetime>
+		<Content>Suddenly my trusty Powershot A540's batteries won't hold a charge. When I replaced the rechargables with new Alkalines, they too soon lost their charge. Is this a problem with older Powershots?</Content>
+	</Post>
+</Thread>

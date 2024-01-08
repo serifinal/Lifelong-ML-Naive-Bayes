@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Plasma Fault</Title>
+		<Username>damian22</Username>
+		<Datetime>13-12-2011, 2:07 PM</Datetime>
+		<Content>hi guys ive a samsung 43inch plasma and for some reason im getting an itermitent picture any ideas why guys ?? model number as follows PS43D450A2WXXU thanks for any help</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Viera TX-P42G20B - Picture too large for screen</Title>
+		<Username>CherbertLemonz</Username>
+		<Datetime>15-06-2011, 10:22 AM</Datetime>
+		<Content>Hi. I apologise if I have the wrong forum for this. It looks like the best place to post this though! I've only noticed that the screen size is wrong whilst on Sky when the channels have writing on. Haven't watched the television in any other way to scrutinize normal tv and dvds for the screen size too. But seeing as I want to watch sky and not normal tv I need to sort it this way. I've tried pressing the Aspect button but anything apart from Auto (which it doesn't fit on) makes the problem even worse. What can I do to fix it?</Content>
+	</Post>
+</Thread>

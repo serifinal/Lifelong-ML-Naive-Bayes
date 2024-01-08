@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P42ST30B</Title>
+		<Username>TTwice</Username>
+		<Datetime>10-12-2011, 6:36 PM</Datetime>
+		<Content>Hey everyone, just receive my Viera TX-P42ST30B, all assembled but I am wondering if I have to run this at certain settings or something like that for so many hours? is there anything they reccomend? ty</Content>
+	</Post>
+</Thread>

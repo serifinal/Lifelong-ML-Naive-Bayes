@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can you recommend me a wall mount?</Title>
+		<Username>Moneyboi</Username>
+		<Datetime>09-06-2011, 9:16 PM</Datetime>
+		<Content>Hi, I know this is the wrong place to post but for some weird reason I cannot post in the tv wall mount section... I need to wall mount a Panasonic TH-42PE50B I don't no anything about wall mounts but was wondering which wall mount is compatible for my TV? I need it for about £25 and from either amazon or eBay if possible. Will this wall mount be suitable an fit comfortably to my tv? http://www.amazon.co.uk/Duronic-PLB1...7652944&sr=8-5</Content>
+	</Post>
+</Thread>

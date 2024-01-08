@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why Plasma has so high brightness spec's ?</Title>
+		<Username>Cristof</Username>
+		<Datetime>06-10-08, 09:17 PM</Datetime>
+		<Content>Several plasmas (Samsung, LG, Panny) claim to have brigthness sepcifications of 1000 cd/m2 to 1500 cd/m2. Any high-end LCD (XBR4, LNxx81F) has brightness specs of 500 cd/m2 or less. 1) Has anyone known technical reasons why plasmas can reach so big score, compared with LCD's ? 2) And why plasma pictures can't get that bright in real life ? (P.S. - I know brightness is not an important factor in PQ evaluation)</Content>
+	</Post>
+</Thread>

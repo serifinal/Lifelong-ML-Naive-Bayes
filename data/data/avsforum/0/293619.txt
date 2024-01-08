@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to get shows off of a ReplayTV HD with a computer?</Title>
+		<Username>todd2000</Username>
+		<Datetime>11-25-08, 09:36 PM</Datetime>
+		<Content>Im not familiar with all of the utilities, and stuff for ReplayTVs. Is it possible to get my shows off of the HD if I put it in my computer? I know you can upgrade drives, I have done that before, but Is there any way to get the shows off of the drive onto my computer?</Content>
+	</Post>
+</Thread>

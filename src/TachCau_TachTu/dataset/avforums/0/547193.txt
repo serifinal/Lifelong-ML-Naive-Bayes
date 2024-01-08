@@ -1,0 +1,8 @@
+calibrating ps51d8000 colourspace question .
+so ... .
+had my tv a while now , figured i should probably at least try to calibrate it .
+have sky-hd & popcorn hour running through amp on hdmi2 -lrb- mainly because it means i only have to run a single cable and hdmi2 works arc -rrb- i also have xbox 360 via component and freesat -lrb- built in -rrb- .
+i want to calibrate using my pch , which has options for 0-255 colourspace .
+do n't think any of my other sources do .
+so my questions is do i set the pch to 0-255 colourspace and calibrate using that , or leave it on 16 ?
+235 ?

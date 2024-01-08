@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS63C7000 & Bose T20</Title>
+		<Username>RJBFord</Username>
+		<Datetime>04-07-2011, 12:38 PM</Datetime>
+		<Content>Hi - I have just installed Samsung PS63C7000 and connected it to Bose T20 - all OK except I cant get sound out of the TV to play via BOSE - Have tried in HDMI1 and HDMI2 - I have HDMI 1.4 cables - was hoping that either HDMI port 1 or 2 would work - especially with the ARC feature on HDMI2. HAve built all the cables into the 'new wall' - didn't run audio digital/optical cable - any ideas? RJB</Content>
+	</Post>
+</Thread>

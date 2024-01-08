@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HELP ( lost all links when I press Internet on my remote) VT30 ( with pics)</Title>
+		<Username>Tegs200</Username>
+		<Datetime>31-12-2011, 5:09 PM</Datetime>
+		<Content>I have just been watching bbc iplayer on my Vt30 and it buffered so I returned out of the menu and now when I press Internet on my remote all the boxes are blank as in now iplayer ect , all the boxes are there but are blank , any ideas of what's happened and can you reset the whole tv if needed? Thanks for any help. http://i150.photobucket.com/albums/s...0B367-orig.jpg</Content>
+	</Post>
+</Thread>

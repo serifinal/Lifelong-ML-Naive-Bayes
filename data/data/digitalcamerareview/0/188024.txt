@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon 1000D - Rebel XS - Redscale Negative</Title>
+		<Username>ghireg</Username>
+		<Datetime>04-20-2011, 09:36 AM</Datetime>
+		<Content>Hi, I was wondering if it was possible to get a redscale effect on the camera itself? If this is possible, how would you achieve the effect? Thanks G</Content>
+	</Post>
+</Thread>

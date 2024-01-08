@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>100 Long Distance Minutes + 100 Local Minutes = 100 North American Minutes</Title>
+		<Username>Velnich</Username>
+		<Datetime>06-02-2010 01:43 AM</Datetime>
+		<Content>I've been with Telus since the clearnet days and had (up until now) always understood my long distance minutes to be separate from my local minutes. This month I managed to use up my 100 local minutes, but thought I was safe to still make some long distance calls only to discover them being charged as overages. A call to Telus clarified that if you make a call during the daytime, they take that airtime out of both your long distance AND local minutes. Was this supposed to be common knowledge? Am I the only one who thinks the advertising suggests two pools of minutes?</Content>
+	</Post>
+</Thread>

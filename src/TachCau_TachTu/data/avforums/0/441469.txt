@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Faint VERTICAL lines (like banding) on my plasma</Title>
+		<Username>goonergaz</Username>
+		<Datetime>17-09-2009, 8:35 AM</Datetime>
+		<Content>In a nutshell I always notice this when watching football...what I have are 2 very VERY faint vertical bars (like 'watermarks') about an inch wide that run from the very top to the very bottom of the screen. One is to the left of centre and the other around 4 inches from the right edge of the bezel. Initially I thought it could be like a banding effect or even transmission but playing with the zoom proved the problem lies with the screen. The TV in question is a 50PS6000 which I've had for a couple of months...TBH I only ever notice this very rarely during TV - when there's a consistent colour and the picture is panning - which is why it's most niticable with football! Any ideas? Should I just live with it? Is it a fault or is it like LCD clouding - a limitation of the tech? I've never noticed this effect ever before and have had a few plasmas of various makes. Thanks in advance</Content>
+	</Post>
+</Thread>

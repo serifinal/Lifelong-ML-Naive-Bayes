@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Xonar HDAV1.3 Availablility</Title>
+		<Username>hceuterpe</Username>
+		<Datetime>07-22-08, 09:14 AM</Datetime>
+		<Content>I think it's coming soon. ASUS usually doesn't have a hint of product info until right before the release: http://www.asus.com/products.aspx?l1=25&l2=150 http://www.asus.com/products.aspx?l1...55&modelmenu=1 http://www.asus.com/products.aspx?l1...55&modelmenu=2 No drivers yet though. Any thoughts on when this is pop out of ASUS? Has anyone else noticed the added product page? I'm almost certain that by now, the 4000-series ATI cards will have only limited LPCM with no PAP and so no different than the analog I'm using now.</Content>
+	</Post>
+</Thread>

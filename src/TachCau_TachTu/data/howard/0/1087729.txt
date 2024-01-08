@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS - BNIB Apple Iphone 3GS - 16GB White - $500</Title>
+		<Username>joongpark</Username>
+		<Datetime>06-07-2010 02:19 PM</Datetime>
+		<Content>I have Brand new Apple Iphone 3GS - 16GB White ones for sale. It was purchased just over a month ago so it still has full warranty for almost a year. It's locked to rogers and box has never been opened (Still in the box Rogers shipped) I am downtown (Bay/Bloor) during the day and Yonge/Finch in the evening. Contact me via email or phone (leave message if no answer) 416-268-6396 PRICE IS FIRM @ 500 WILL NOT SHIP SO DON'T ASK. NO TRADE</Content>
+	</Post>
+</Thread>

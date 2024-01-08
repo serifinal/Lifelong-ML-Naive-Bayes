@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Am I being fed a line???? Expert opinion please.</Title>
+		<Username>shape</Username>
+		<Datetime>28-01-2012, 7:03 PM</Datetime>
+		<Content>Hi, I have a Samsung 50" plasma model A457. I purchased the set in August 2008. It has given me trouble free performance till of late. The set picture gegraded some what, and the best way to describe it is HD became SD and Sd was just terrible. I suspected at first an external source like my sky hd box etc. However with all HDMI disconnected i noticed the noise. On the menus there is lines across the set and horrible noise. Here is where I would appreciate some advice before I jump in with two feet. Although the visiting enginner told me the following, I informed him there had never been a aerail connected since bought in august 2008. He replied that has shot my theory down, however here is there report. Does it sound correct to you guys & gals??? We returned the set to our workshop and tested on a full digital aerial system. We found no fault apparent but noticed that when the aerial was removed the graphics on the screen showed distortion. This is entirely normal as the set uses the aerial signal information to synchronise accurate graphics on the screen. As we have found no fault our opinion is that the set is working according to manufactures specifications taking in to account the technology and age of set. Is it true for the set picture to work correctly without noise I must have an Aerial connected? Like I have said earlier I have never had an aerial connected since purchase 2008. Please advise it would be very much appreciated. I would welcome any advice please?</Content>
+	</Post>
+</Thread>

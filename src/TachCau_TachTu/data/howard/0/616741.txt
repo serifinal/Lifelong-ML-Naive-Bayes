@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>MMS Settings on WIND</Title>
+		<Username>ace309</Username>
+		<Datetime>12-14-2010 05:35 PM</Datetime>
+		<Content>Just got the $40 unlimited Big 3 Killer plan haha. I have a Nexus One and want to use MMS. Are there any special settings that you need to set to get it to work? I've already added APN internet.windmobile.ca and can use data efficiently even tethering. My MMS's do not send though, I'm wondering how to fix this. Thanks</Content>
+	</Post>
+</Thread>

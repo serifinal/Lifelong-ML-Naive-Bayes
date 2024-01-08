@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Poweshot S2 IS Question</Title>
+		<Username>TampaMike</Username>
+		<Datetime>01-25-2010, 09:01 PM</Datetime>
+		<Content>I recently purchased a Canon Powershot S2 IS. I wanted to get a great camera that can handle different situations now that my son is a little over a year old and constantly on the go. My concern is those shots when my boy is on the go. Action shots. I really want to capture those clearly. I am having a little trouble understanding the user guide though. I have found where to adjust the shutter speed to get those qucik shots. But do I need to adjust the aperture as well? And once I adjust the settings for action, should I put the camera dial to auto to take these action shot pictures? Sorry, I am trying to learn as much as I can about this awesome camera and I need a little hlep with action shots. Thanks for any input</Content>
+	</Post>
+</Thread>

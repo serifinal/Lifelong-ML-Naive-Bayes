@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell iPad Plan on USB Stick</Title>
+		<Username>djeagle</Username>
+		<Datetime>07-10-2010 07:37 PM</Datetime>
+		<Content>I see that Bell is offering a very good data plan for the Ipad - up to 5 GB every 30 days for $35. However, I don't see anything similar for anyone using a Mobile Wireless e.g. the Novatel U998. I have a netbook, and I would like to use it rather than spending the money on a new Ipad. The netbook came preloaded with Skype. So here's my question. Why can't a person pick up a Ipad MicroSim, and use it in the Novatel stick? With adapter of course. Then I can browse and make calls from the netbook with Skype. Right? Any reason why it wouldn't work?</Content>
+	</Post>
+</Thread>

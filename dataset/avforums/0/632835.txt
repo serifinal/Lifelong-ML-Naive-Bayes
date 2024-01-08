@@ -1,0 +1,13 @@
+pioneer 8g owners thread .
+ok by request here we go .
+more later lets keep in in one thread so we can all help each other and just look in one place of reference .
+i have now attached 6 sets of setting text files for each type of source as promised , this is a calaboration between myself and andrew fee .
+the hdmi settings are perfect d65 , the others track the hdmi setting as close posible we found differences between sources using scart .
+there are 2 scart settings , try them both but the sky one works for sky sd .
+check back weekly as they may change , the first line is the date they were issued .
+amended 22nd february 2008 sony ps3 settings text file added the hdmi video setting of auto will now work as sony have fixed a bug with the ps3 .
+review of the pioneer 4280 review of the pioneer 508xd ************ do not play with this unless you know what you are doing ************** the get into the service menu do the following . .
+enter the service menu start with the plasma turned off make sure you point the remote directly at the ir sensor in the tv press the i button -lrb- directly below 9 -rrb- on the remote -lrb- just press , do not hold -rrb- wait 3 seconds press left , up , left , right then power if done correctly , the plasma turns on and the information page is displayed , will change 3 times on its own quickly .
+********* to make 4:3 side bars black once in the servive menu ************** press mute 3 times until the side bar screen is displayed at the bottom .
+press enter set : standard is set to 115 use left button to set to 0 ************************************* next to show hours meter once into the menu press mute to show panel factory press enter then press down and you will see the hours .
+press home menu to exit ************************************************** ***********************

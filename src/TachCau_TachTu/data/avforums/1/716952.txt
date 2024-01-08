@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Would love if someone could help me out, ST30 or C7000</Title>
+		<Username>Scurrie</Username>
+		<Datetime>30-12-2011, 3:39 PM</Datetime>
+		<Content>Been pulling my hair out over this. Basically thinking of replacing my LE40C580 which as many of you know is a cracking set, with either the Panasonic ST30 (50") or the Samsung C7000 (50"). | ST30 | C7000 Both are plasmas and both got good write-ups. The ST30 is currently £700 with a 5 year warranty but I can get the C7000 for £500 with a standard year warranty. Is the Panasonic one worth the extra £200? Im worried about the panel problems with Panasonic's 2011 line. Will be used purely for HD content (Blurays) and 3D gaming. Any help would be much appreciated. Thanks</Content>
+	</Post>
+</Thread>

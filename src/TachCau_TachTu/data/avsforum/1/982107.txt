@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pioneer DV-410V-K - need advice on new purchase</Title>
+		<Username>jd_avs</Username>
+		<Datetime>07-28-08, 12:13 PM</Datetime>
+		<Content>I'm in the process of upgrading my equipment and just purchased a Samsung LN40A450 (720p/1080i) and Yamaha YHT-290 (receiver + speaker/sub package). I'm also in the market for a decent upconverting DVD player to pair with the new setup - budget is $100CDN and below. I'm currently looking at the Pioneer DV-410V-K for $99CDN at places like Best Buy. Any other brands/models below the $100CDN price point that I should consider? The Pioneer seems to have a good reputation and comparable image quality to more expensive players. Will I have any regrets buying a player with coaxial only for digital out? I plan on sending bitstream to the receiver for decoding. Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SX120 availability</Title>
+		<Username>leaftye</Username>
+		<Datetime>01-16-2010, 12:13 PM</Datetime>
+		<Content>Is there any reason to believe the SX120 will be discontinued in the next couple of months? I'm thinking this may be the best camera for me to take on a 2700 mile hike this year. The big attraction are the batteries since I can find spares anywhere without the hassle or weight of a charger. I will probably use nimh batteries and a solar charger because my other devices also use AA's, but it's nice to know I can always pick up alkalines or lithiums if something happens. Money is tight for this trip, so I want to postpone buying it until the last minute....hopefully it's still there. I'll probably try contacting Canon on Monday, but I'm hoping someone here already knows what's up.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,6 @@
+does the asus p5ql-cm support tv out directly through vga ? .
+my htpc has let me down getting a signal from the htpc to my onkyo receiver , so my last resort is a vga-s-video cable -lrb- not ideal , i know ! -rrb- .
+however , the cable im contemplating states `` your vga card must support tv out directly through vga port function '' .
+but i dont know my the motherboard i am using -lrb- asus p5ql-cm -rrb- support this .
+does anyone know if it does , or how i tell ?
+thanks

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Will T-Mobile UK Phones Work With T-Mobile US Network?</Title>
+		<Username>guardianflash</Username>
+		<Datetime>06-27-2010 01:12 AM</Datetime>
+		<Content>Over here it says Europe phones with 2100 will work with T-Mobile US but will only get 2G. http://reviews.ebay.ca/Which-UMTS-Ph...00000009263164 I do not care about 3G. I just want to know if I buy a phone with 2100 but no 1700 will it work with T-mobile US?</Content>
+	</Post>
+</Thread>

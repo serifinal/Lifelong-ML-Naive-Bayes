@@ -1,0 +1,8 @@
+powershot sd4000 is / general question , `` shutter mode problem '' .
+hi , this is more of a general question for those with powershot and shutter mode experience .
+i 'm using shutter mode and i set it to 1/1250 which is the highest speed possible on my sd4000 is / 300 hs .
+i tried with auto iso and iso 3200 .
+no flash were used .
+in both cases , the camera does its own -lrb- auto -rrb- shutter speed and goes much slower such as 1/60 or 1/4 .
+what am i doing wrong , perhaps in the settings ?
+when i use aperture mode , it does exactly as i say with the aperture set but for some reason in shutter mode , it keeps doing its own auto speed . .

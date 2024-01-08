@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My TV has a million red Dots PIC Inside</Title>
+		<Username>crxvt</Username>
+		<Datetime>16-12-2011, 4:21 PM</Datetime>
+		<Content>Dear All, Panasonic Plasma So i walk in the the room my TV sits in one morning and WOW i have this BAR of red dots bang on in the middle of the TV from the TOP to the Bottom. I have no idea where its cme from or how its happened. Hoping some of you can shed some light. Model of the TV IS: TH-65PF10</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>35 mm Lenses on powershot</Title>
+		<Username>gtjr92</Username>
+		<Datetime>04-15-2008, 07:55 PM</Datetime>
+		<Content>My dad has a lot of lenses for his old 35 mm canon. Not sure what model i think the camera is about 20-25 years old is there any way i could get these lenses to work on my powershot s2? i thought i could get an adapter for this but not sure exactly what one i need. Thanks!!</Content>
+	</Post>
+</Thread>

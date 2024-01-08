@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LED Flash as Torch</Title>
+		<Username>chimphappyhour</Username>
+		<Datetime>05-18-2010 07:56 PM</Datetime>
+		<Content>Is there a way to use the camera's LED as a flashlight/torch? I figure it would be better than one of the flashlight apps that just juices up the screen.</Content>
+	</Post>
+</Thread>

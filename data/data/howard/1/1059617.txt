@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Good place to buy a factory unlocked iPhone?</Title>
+		<Username>surfkitty</Username>
+		<Datetime>12-15-2009 06:58 PM</Datetime>
+		<Content>I need one to use between AT&T in the u.s. And Rogers in Canada. I just want it to be plug and play (not have to worry about jailbreaking and extra stuff everytime I update it). If I buy factory unlocked I can just update it normally right? Is there anything else different about the factory unlocked iPhones? I don't care about the warranty, just want to be able to switch my sim card at will. Any recommendations on a reliable place to get one? Thanks in advance!</Content>
+	</Post>
+</Thread>

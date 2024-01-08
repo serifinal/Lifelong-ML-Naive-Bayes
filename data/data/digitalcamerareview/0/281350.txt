@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Elph 300 HS Scratches</Title>
+		<Username>wanttobuy411</Username>
+		<Datetime>07-16-2011, 02:08 PM</Datetime>
+		<Content>Hey y'all! I ended up buying the Canon elph 300 hs last week and love it! But the one thing I don't love is the material on the outside. It's rough and feels like sandpaper. Well, I can get over that, but it's already scratched up quite a bit...with fingernail polish that's scratched off from people exchanging hands, etc. Is there any safe way to clean it or maybe something I can put on it to protect it from stuff like that and scratches. Thanks in adavnced!</Content>
+	</Post>
+</Thread>

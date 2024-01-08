@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer pdp 507xd HDMI not working</Title>
+		<Username>g-force</Username>
+		<Datetime>18-02-2010, 2:41 PM</Datetime>
+		<Content>Hi, I have the pioneer 507xd. I play my pc Blu-ray player through the HDMI port. All of a sudden the HDMI would no longer show a picture. I have tried inputs 3 and 4. And I have also tried other equipment such as my SonyHD camcorder directly, including a different HDMI cable. Input 3 is enabled in the settings menu too. My Nvidia control panel detects my TV so a connection is happening (I think) just no picture. It is now 3yrs old. And have only started using the HDMI ports recently. Does anybody have any ideas? Pioneer want £160 exVat just for a call out. Minus labour and parts!! I really appreciate your help.</Content>
+	</Post>
+</Thread>

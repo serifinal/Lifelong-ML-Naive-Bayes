@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I need help with radio fre san andreas!</Title>
+		<Username>KronosIsDiabolic</Username>
+		<Datetime>11-15-08, 03:03 AM</Datetime>
+		<Content>I'm total noob and I dunno how to use it could someone write an easier guide to using it then what is on the website I don't know what compiling is and I also don't know how to do it the websites explanation is way hard (to me)! And I cant' find any videos of people using it. Just videos of people downloading San Andreas come up every time I search for it. If someone could help I would really love a reply. Thanks for reading anyway.</Content>
+	</Post>
+</Thread>

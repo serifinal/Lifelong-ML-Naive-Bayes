@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>32gb iPhone 4 locked to Rogers Sealed bnib with sim</Title>
+		<Username>jacklar</Username>
+		<Datetime>08-02-2010 10:01 PM</Datetime>
+		<Content>32gb iPhone 4 Locked to rogers sealed in box. This has never been used, brand new and comes with a new microsim at no cost. I'm available in downtown Ottawa for pickup. I'll ship but only if it's EMT up front. PM me.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy I7500 - Wind Mobile Compatible - Unbranded Mint Condition</Title>
+		<Username>mobileservice</Username>
+		<Datetime>04-05-2010 11:41 AM</Datetime>
+		<Content>Looking To Sell My I7500 Which Is In Mint Mint Condition. 10/10. Comes With All Accessories In The Box. Usb Cable, Ear Phones (unused), Pouch, And The Phone. Price Is $320 Runs Android 1.5 And Is Upgradeable To Android 1.6. (android 2.1 Is Out However Wifi Apparently Will Stop Working If You Do Upgrade). For Pick Up In Mississauga Only! Pm Me If Interested And I Will Provide A Contact Phone Number. Will Also Provide 2 Extra Screen Protectors And A Extra Silicone Skin For The Phone.</Content>
+	</Post>
+</Thread>

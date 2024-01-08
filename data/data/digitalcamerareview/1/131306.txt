@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Satisfied with my digital camera</Title>
+		<Username>Mike Landry</Username>
+		<Datetime>11-27-2007, 08:02 AM</Datetime>
+		<Content>Few months back i planned to buy a digital camera.SD1000 seems a good choice from a price-performance perspective,but after seeing my friend's Canon SD700 pictures i was totally disappointed with the pictures from SD1000. I aslo tested quite a bit comparing pics and the Sony was much better,The only issue is the sony does not take great low level lighting pics.Now after doing extensive research, i planned to go for SD850. It is far far better than SD1000 and i can say it is the real successor of SD700. It has all features of SD700, in addition to that it has many more features which is not available in SD700.I am totally impressed and Satisfied with my SD850. MOD:the review was written by just4deal , please indicate author when reprint,thanks.</Content>
+	</Post>
+</Thread>

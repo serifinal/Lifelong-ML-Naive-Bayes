@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Date Stamp</Title>
+		<Username>Hudson</Username>
+		<Datetime>12-20-2010, 11:32 AM</Datetime>
+		<Content>Hi again. On my SX120 I have the Date Stamp on to tell when I took the shot. Is there a way to move it lower in the photo as it's a bit high in the right corner? Thanks in advance.</Content>
+	</Post>
+</Thread>

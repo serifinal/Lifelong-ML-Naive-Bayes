@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is it worth it to get a laptop cable and set it up to my LCD?</Title>
+		<Username>rightcoastsurf</Username>
+		<Datetime>05-19-08, 04:01 PM</Datetime>
+		<Content>and if so, what kind of cable do I need, and how cheap can I get it?</Content>
+	</Post>
+</Thread>

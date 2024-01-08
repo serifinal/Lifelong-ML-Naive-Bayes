@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Advise needed: Canon A95 & A590</Title>
+		<Username>patita71</Username>
+		<Datetime>12-08-2009, 11:08 AM</Datetime>
+		<Content>Hello Currently I have a functioning Canon A590, it does not take good low light pictures at all and some of the normal light pictures come out grainy as well, it supposedly has "image stabilization" but I do not see this happening with this camera. Most of my pictures are garbage; either blurry or grainy. It is very disappointing/frustrating to look at birthday pictures, family gathering pictures and 9 out of 10 shots are garbage. I called Canon and they informed me to send it in for examination. My siblings thought my camera issues were "user error" but last night I was looking at old photos taken with my older camera Canon A95 and low and behold... low light pictures that are not grainy! Kid pictures that are not blurry. Unfortunately this camera is not functioning (Error E18?) I was thinking of trying to have it fixed, I'm wondering if it is worth having it fixed or look into a camera that is good for low-light (I've read through those threads and have noted down some of the recommendations) I would rather not have to buy a new camera at this time (budget reasons) Has anyone had issues with the A590 and what is the average 'life span' of the A95 or has anyone had an A95 repaired. Thanks in advance for any advise you can give!!</Content>
+	</Post>
+</Thread>

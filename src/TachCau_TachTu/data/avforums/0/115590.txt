@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Wiki on HDTV 1:1 Pixelmapping</Title>
+		<Username>azirath</Username>
+		<Datetime>25-07-2006, 10:15 AM</Datetime>
+		<Content>Hi, Like alot of other people ive been getting very frustrated about the lack of information about exactly which HDTV's(both RP, plasma and LCD) actually support recieving a video signal from a PC over DVI-HDMI (or failing that, VGA) at the TVs native resolution displaying it without scaling or overscan. I thought it would be a good idead to create a website to hold such information. Towards that end i have created a Wiki at wikispaces.com called pixelmapping.wikispaces.com in which i hope to create an up-to-date view on what is known about this topic so far. Its a public Wiki meaning everybody can edit it ( no registration/login required ). I have added a little basic information myself, and hope that others will help add information on more TVs. Just in this forum i can already tell that there is alot of information on some specific TVs, so lets help each other out by summarising this information, so that people dont have to check 50 forums on the net and read 500 posts long threads to find out whether a given TV supports 1:1 pixelmapping. Other information regarding displays for HTPCs etc, are also welcome. Its all very much a work in progress The Wiki is available at: http://pixelmapping.wikispaces.com [Note: This also posted in LCD forum, which is technically a crosspost, but it applies evenly well in both places. See fit to move/delete as appropiate]</Content>
+	</Post>
+</Thread>

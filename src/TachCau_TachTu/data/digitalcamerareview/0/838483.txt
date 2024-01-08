@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I have the Oregon Scientific ThinCam DS6618</Title>
+		<Username>shivy</Username>
+		<Datetime>08-10-2006, 02:26 PM</Datetime>
+		<Content>The thinnest camera in the world.It only take 101 low resolution pictures and 26 high resolution pictures.I do not see any slot on the camera for me to put in a new memory card.I think its integrated.Is there anyway I can change it?</Content>
+	</Post>
+</Thread>

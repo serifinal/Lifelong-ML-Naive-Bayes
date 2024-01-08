@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Repositories for Cydia for free Cydia/Rock Apps??</Title>
+		<Username>lukeiphone</Username>
+		<Datetime>12-10-2009 01:14 AM</Datetime>
+		<Content>Does anyone here know of repositories which I could add into cydia which could give me access to free cydia apps? There are some apps in cydia and rock for which you have to pay but I know there were some repositories which would allow you to install those apps straight from cydia without paying. Let me know if anyone knows them</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P46ST30B Yellow ghosting/Intrusion</Title>
+		<Username>Spikenaylor</Username>
+		<Datetime>15-01-2012, 9:38 PM</Datetime>
+		<Content>Just get this tonight and whilst watching bright scenes there seems to be a yellowing ghosting intrusion visible around objects in the scene. most noticeable on the bright scene when you move your eyes around the scene and blink, can still be seen whilst trying to keep eyes steady on the scene. Seems to vanish when doing the 2d to 3d conversion. happens both on freeview and on external freesat. Any ideas from anyone please.</Content>
+	</Post>
+</Thread>

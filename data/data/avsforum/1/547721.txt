@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sharp 46? LC-46SB54U LCD HDTV</Title>
+		<Username>mmjcarr</Username>
+		<Datetime>12-11-08, 01:01 PM</Datetime>
+		<Content>So, I decided to purchase the Sharp 46? LC-46SB54U LCD HDTV from Dell during the after Thanksgiving sale. They had it listed for $899.00 and I had a $100.00 Dell credit so I go this thing for $799.00. However... The problem I am having with the TV is the detection of the resolution each channel is bring broadcasted in. Let me try to explain it! It down converts just fine. I.e..When I am watching a channel that is 1080i and switch to a challen being broadcasted in 720p the conversion goes just fine but when I switch back to the 1080i channel it does not upconvert back to 1080i and remains in 720p. Frustrating!!!!!!! Does anyone have a similar experience or know of something I may be doing wrong? Any thoughts would be much appreciated. Michael</Content>
+	</Post>
+</Thread>

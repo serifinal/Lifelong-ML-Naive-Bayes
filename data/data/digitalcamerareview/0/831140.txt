@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot A460 problem</Title>
+		<Username>McFoote</Username>
+		<Datetime>05-03-2008, 11:25 PM</Datetime>
+		<Content>The camera has stopped shooting videos...in fact I can't change modes at all. I cannot view playback, and many of the options are not selectable. I have tried resetting all the defaults, and I have formatted the card, changed the card...I'm lost</Content>
+	</Post>
+</Thread>

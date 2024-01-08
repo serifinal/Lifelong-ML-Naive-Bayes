@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is it possible to transfer my cellphone contract but also be able to port my # ?</Title>
+		<Username>syd23</Username>
+		<Datetime>01-13-2010 12:33 AM</Datetime>
+		<Content>Im transferring my Rogers plan to another person, but I also want to transfer/keep my current cell phone number and transfer it to Fido. Is this possible? When I called Rogers, they said its not possible cuz when they port my number, it cancels my service completely. Does anyone know a way to keep my number? I'd hate to have a new number after having my current number for more than 4 years.</Content>
+	</Post>
+</Thread>

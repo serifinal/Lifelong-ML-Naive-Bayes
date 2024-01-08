@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Better than Pioneer Kuro Elite 9G/10G?</Title>
+		<Username>n3wb</Username>
+		<Datetime>26-05-2011, 10:09 PM</Datetime>
+		<Content>Is there a plasma TV that is better than Pioneer Kuro Elite TVs as of now? Thx</Content>
+	</Post>
+</Thread>

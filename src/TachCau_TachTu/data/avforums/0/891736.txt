@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>TX-P42S30B internet dongle ?</Title>
+		<Username>fender62</Username>
+		<Datetime>19-01-2012, 8:57 PM</Datetime>
+		<Content>just bought a TX-P42S30B and was wondering what wireless adaptor will work besides panasonics own dongle</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Weird Reception Issue</Title>
+		<Username>OrangeAndBlack</Username>
+		<Datetime>05-28-2010 11:44 AM</Datetime>
+		<Content>At first, I thought my reception problems were a product of the ROMs that I was installing onto my phone. That doesn't appear to be the case anymore. I noticed that when I put the phone down and don't touch it, the reception bars will typically always show three or four. When I pick the phone back up, I see them drop to one or two. It's a weird and frustrating problem. Has anyone else endured this?</Content>
+	</Post>
+</Thread>

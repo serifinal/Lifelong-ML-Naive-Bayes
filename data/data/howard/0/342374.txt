@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Port Blocking Status?</Title>
+		<Username>jbr439</Username>
+		<Datetime>04-04-2010 01:01 PM</Datetime>
+		<Content>Can anyone tell me the status on the port blocking issue? I haven't seen anything on it for a while and am wondering whether I simply missed it. Last I heard (quite a while ago) Wind was taking a white list approach (which we all seemed to agree was the incorrect approach), and there were still a number of applications having problems due to this. Is that still the case? Is Wind hell-bent on continuing with a white-list approach? Has Wind even explained why it needs to do this (which we all seem to agree is unnecessary from a security point of view).</Content>
+	</Post>
+</Thread>

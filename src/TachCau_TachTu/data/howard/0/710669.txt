@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Tutorial: Setup iPhone 4 as a new phone, but save SMS, photos, game saves, etc.</Title>
+		<Username>Ruski</Username>
+		<Datetime>08-23-2010 06:47 PM</Datetime>
+		<Content>So i started this thread a few days back looking for ways to setup iPhone 4 as a new phone rather than restoring it from backup of my iPhone 3G. Figured out the answer to my questions so, here is a link to a summary of the steps: Summary</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New PowerShot SX220 HS in a whitebox reconditioned?</Title>
+		<Username>Tinderbox (UK)</Username>
+		<Datetime>05-18-2011, 11:22 AM</Datetime>
+		<Content>Hi. I just received my new PowerShot SX220 HS , the thing is it came in a plain white box with no lettering or anything on the outside with only an intact silver security seal, when i opened the box my camera was sitting on few pieces of what looked like tissue paper. Now i paid full price for this camera from a large online retailer in the UK, have a received a reconditioned camera? Thanks John.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What lens do need?</Title>
+		<Username>Shuttermama</Username>
+		<Datetime>05-17-2010, 10:38 AM</Datetime>
+		<Content>HI! :0) I have been playing around with the cam after reading Understanding Exposure, after troubleshooting everything recc, I think I may need a new lens? I have a canon S5 IS. I love taking close up pics of my babies. You know, pics where their sweet chubby face fills the entire frame? I usually try to do this when they are about 1-2 feet from me. I am getting blur. I am pretty sure I am too close to them, but if I back up, the pic is not as close as I want it. Is there a lens that I can order that will help me with this? Second, I love taking pics of my boys playing. I am usually pretty far away, and I zoom in. When I try to zoom in to get a closer pic, their faces are soft. Can a diff lens help me with this? Or...maybe can someone give me a rundown of what each of the diff lenses do?</Content>
+	</Post>
+</Thread>

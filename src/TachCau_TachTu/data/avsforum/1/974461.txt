@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung 650 vs. Toshiba 550?</Title>
+		<Username>Golfshrink</Username>
+		<Datetime>06-07-08, 08:58 AM</Datetime>
+		<Content>After months of reading here, its time to finalize my decision on a 46" in one of these two sets. Both sets are getting good reviews now that Samsung seems to have fixed the power off problem with the early 650's. This set will be used primarily for watching HD and SD cable (lots of sports) as well as some upconvert DVD's. No Blu-ray or gaming yet but potentially down the road. The set will hang on a wall. Sound quality is not important as it will run through another system. Cost is not a factor at this point. FWIW, I will not be able to see either set in person before my purchase so I have to go on what info I find out here and elsewhere on the net. From my reading and research, here are the pros and cons of each set for my situation. Samsung 650: Pros...lots of pop from glossy screen...thinner front to back than the Tosh... Cons...TOC, I don't really like the red on the bezel but the wife doesn't seem to mind...glossy screen may yield glare issues in our windowed room...power off problems with early sets... Toshiba 550: Pros...love the thin bezel...more matte screen should help with glare... Cons...thicker...flashlighting issue is common among reports here... Both sets have lots of fans here so I'm considering their PQ and feature sets essentially equal and just a matter of preference. I need any and all info I can find on these two sets so please feel free to add your insights and comparisons. Thanks, Jeff</Content>
+	</Post>
+</Thread>

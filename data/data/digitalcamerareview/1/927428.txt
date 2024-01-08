@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Confused about pricing of 2 similar Canons</Title>
+		<Username>Rebecca Connet</Username>
+		<Datetime>09-08-2007, 10:18 AM</Datetime>
+		<Content>Hi. I am confused as to why the "older" Canon Powershot A710 IS is selling for $315 on average, yet the "newer" Canon Powershot A720 IS can be bought at Amazon.com for $250. Can anyone help me to understand why this is the case????</Content>
+	</Post>
+</Thread>

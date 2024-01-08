@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Canon Powershot SX20 IS</Title>
+		<Username>Renoir</Username>
+		<Datetime>05-29-2010, 04:32 PM</Datetime>
+		<Content>Hi, Ive had Canon Powershot SX20 IS for nearly six months. Im quite happy with it. But today I noticed that some pictures show a notable red dot in the exact same place. Depending on light or sth else, the red dot is more visible. On other pictures I cant find it. On some I can. The place never changes. So, Id like to know if that is the so-called matrix fault? A warranty job? Or its just something that I shouldnt care about?</Content>
+	</Post>
+</Thread>

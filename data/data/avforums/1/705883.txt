@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Plasma as a PC monitor</Title>
+		<Username>hjn123</Username>
+		<Datetime>28-12-2011, 12:44 PM</Datetime>
+		<Content>Hello All and Happy Holidays! I'm looking for my next TV Samsung Galaxy S and previous 40 inch LCD have both been working flawlessly so I'm feeling another Samsung product. Got my mind set on 46 - 55 inch range and my budget is up to a £1000 Possible contenders: - Samsung PS51D6900 - Samsung PS51D6900 51-inch Widescreen Full HD 1080p 3D: Amazon.co.uk: Electronics - Samsung PS51D550 - Samsung PS51D550 51-inch Widescreen Full HD 1080p 3D: Amazon.co.uk: Electronics The idea in this set-up is this TV will do everything, the connected devices will consist of: - PS3 ~ gaming, blue ray 3D - Xbox 360 ~ gaming - SEGA Dreamcast ~ Soul Calibur! - PC ~ gaming, flims, general browsing All the devices will probably see about equal use mostly PC, but never for more than a few hours at a time, I'm pretty good when it comes to making sure things are not left on and will take proper precautions like screen savers/TVs anti burn in tech, etc. Is this a good idea? Would it be best to go for the more expensive option due to the amount of use it will see, and the newer model might have more burn in prevention tech than the older model? Would it be better just to go for a smaller LED in this case? I'm aware that burn in is Plasma is more of a thing of the past but still very possible on modern sets, the question is, is it up to the task. Many thanks hjn123</Content>
+	</Post>
+</Thread>

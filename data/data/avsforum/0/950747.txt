@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Human Body: Pushing the Limits [Blu-ray] (2008)</Title>
+		<Username>Vampyro</Username>
+		<Datetime>05-06-08, 07:56 PM</Datetime>
+		<Content>Did you guys know that Discovery is releasing this at double the price on May 21st? The Image consumer version arrives on 07/29/2008. Are there differences? I doubt anyone knows... Image will present the complete four-episode, 180-minute series on a BD-50 dual-layer disc in 1080p video and Dolby TrueHD 5.1 Surround audio.</Content>
+	</Post>
+</Thread>

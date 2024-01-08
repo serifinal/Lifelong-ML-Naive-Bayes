@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Please help me with my room acoustics (pic inside)</Title>
+		<Username>leov36</Username>
+		<Datetime>12-18-08, 10:59 AM</Datetime>
+		<Content>i dont know a whole lot about proper room acoustics, but im pretty sure mine is not ideal. i currently have the Owens Corning basement system, for those of you who are not familiar, the walls are made out of a insulation type material, then covered with cloth. I know that people put up cloth type materials in there rooms to help with the absorption of sound, but is there a such thing as too much absorbtion? (since my all my walls are cloth and insulation) it seems like my music is too "flat"??? and not lively enough.(movies sound "ok") my question to you all is, what can i do to help this situation? btw, i have your typical cieling tile, i painted it black (which i know affects the original acoustic qualities of the tile) but i couldnt stand the amount of light the white tile was reflecting onto my screen. here is a pic of what im dealing with. any help would be appreciated.</Content>
+	</Post>
+</Thread>

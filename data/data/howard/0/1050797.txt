@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung S8500 Wave and HTC Desire Headed to T-Mobile Soon</Title>
+		<Username>supahsain</Username>
+		<Datetime>02-17-2010 09:12 PM</Datetime>
+		<Content>Code: http://www.gsmarena.com/samsung_s8500_wave_and_htc_desire_headed_to_tmobile_soon-news-1461.php Good news for us I guess. Great phones coming out for AWS</Content>
+	</Post>
+</Thread>

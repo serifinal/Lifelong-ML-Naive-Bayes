@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't show pics on my TV</Title>
+		<Username>Tommy</Username>
+		<Datetime>11-16-2010, 08:57 AM</Datetime>
+		<Content>Canon PS A720 IS Using the AV cable, following the manual's directions...no picture any ideas? Thanks Tom</Content>
+	</Post>
+</Thread>

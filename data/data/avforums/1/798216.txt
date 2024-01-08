@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Need Help!!! Samsung PS51D450 vs LG 50PT353K</Title>
+		<Username>roberto95</Username>
+		<Datetime>11-08-2011, 7:05 AM</Datetime>
+		<Content>Hi guys, i have been looking for about a week now for a good plasma hdtv for under £550. these are the two best i found just looking for a comparison and a number one choice. any other plasma hdtv at the same price you would recommend is much appreciated thanks, rob</Content>
+	</Post>
+</Thread>

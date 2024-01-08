@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why was SD700 discontinued so quickly?</Title>
+		<Username>ajaynejr</Username>
+		<Datetime>06-03-2007, 10:59 PM</Datetime>
+		<Content>Would anyone have insight in to why the SD700 was discontinued? Was the added zoom not so popular? Were there problems or idiosyncrasies unique to that model? I don't see any other compact point and shoots with 140mm (35mm equivalent) or greater zoom.</Content>
+	</Post>
+</Thread>

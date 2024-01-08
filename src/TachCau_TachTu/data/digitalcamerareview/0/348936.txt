@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What camera is this?</Title>
+		<Username>sarahholder</Username>
+		<Datetime>05-31-2008, 09:33 PM</Datetime>
+		<Content>i saw this camera on a website and it didnt say what kind it was. all i know is that it's a canon. i think it might say canon s5? im not sure though. http://s276.photobucket.com/albums/k...ced_camera.jpg</Content>
+	</Post>
+</Thread>

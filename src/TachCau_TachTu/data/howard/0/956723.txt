@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Factory Unlocked 32GB Iphone4 - $1000</Title>
+		<Username>hound88</Username>
+		<Datetime>08-10-2010 10:15 PM</Datetime>
+		<Content>I just picked this up at the Apple store in Yorkdale today. It's BNIB 32GB factory unlocked version and still sealed with Rogers Micro SIM. I also have the receipt. Price is $1000 firm. Located in Thornhill, ON.</Content>
+	</Post>
+</Thread>

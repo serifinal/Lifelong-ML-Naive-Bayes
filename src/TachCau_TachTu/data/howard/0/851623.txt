@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anyone want a $30/mo unlimited data account?</Title>
+		<Username>aparker813</Username>
+		<Datetime>01-24-2010 01:33 PM</Datetime>
+		<Content>Apparently I entered into a contract without any sort of agreement on my part and sprint is not wanting to cooperate in the least so anyone want to take over liability on this? Its a $30 per month unlimited data account (signed up for as Radio Shack employee), I would greatly prefer this go to someone who will use a massive amount of data each month. I'm taking contracts this semester but I really don't think I want to get into a legal battle with spring over the intricacies of contract law since I'm sure they have attorneys with about a billion times more knowledge than myself. Oh, the kicker...I called and canceled the account mid November and was told everything was good, the line was canceled and the device was even removed from my sprint.com account....and then I got another bill yesterday.</Content>
+	</Post>
+</Thread>

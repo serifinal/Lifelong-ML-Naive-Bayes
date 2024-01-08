@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Reset to factory settings</Title>
+		<Username>Dovberman</Username>
+		<Datetime>09-15-2010, 11:13 AM</Datetime>
+		<Content>RE: Canon PowerShot SD1300 IS I take photos of diamonds using Macro Mode. The first pictures I took were perfect. Then I changed the factory settings. What are the factory settings for White balance, etc? The photo on the left was taken before I changed settings. The photo on the right was taken after I changed settings. I need to return to all the factory settings. Thanks,</Content>
+	</Post>
+</Thread>

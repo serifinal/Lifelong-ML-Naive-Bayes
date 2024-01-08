@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTT: Motorola Droid (For HTC Droid incredible)</Title>
+		<Username>Mrdroid691</Username>
+		<Datetime>04-26-2010 11:21 AM</Datetime>
+		<Content>If you get one and hate it not having a keyboard, I will trade you my Moto Droid for it. My Droid is like new, hardly used it. I have everything including the box.</Content>
+	</Post>
+</Thread>

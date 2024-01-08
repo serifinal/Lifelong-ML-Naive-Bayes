@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Canon Xsi. Is it broken or am i just confused?</Title>
+		<Username>aaronszy</Username>
+		<Datetime>09-24-2009, 02:45 PM</Datetime>
+		<Content>I just purchased a Canon Xsi from Costco. They only had the display camera left and they offered to sell me the whole kit with 2 lenses for $800. I've been shopping around for an slr for a while now so im really excited to have finally settled on one. However, im just a little worried about something. I'm not sure if its a defect or if i just really have no clue how this camera is supposed to work. When i set the camera to Av mode and take a picture the mirror of course flips up and the camera takes a picture. But, the mirror only goes back so i can see through the viewfinder after i press the shutter button a second time. The picture will come out fine, so its no like the shutter is just staying open ridiculously long. Is it broken or do i perhaps have it configured wrong? It's worrying me just a little. When i have the camera in full auto mode it seems to work fine. I'm really hoping that one of you will be able to help me figure this out. Thank you!</Content>
+	</Post>
+</Thread>

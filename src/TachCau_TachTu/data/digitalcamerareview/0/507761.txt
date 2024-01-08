@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-adapter for G12?</Title>
+		<Username>DFWKen</Username>
+		<Datetime>01-18-2011, 01:28 PM</Datetime>
+		<Content>I sold all my SLR stuff a couple of decades ago. Too much stuff. Have been using various Canon Elf cameras since. Bought myself a Canon G12 for Christmas. I like it. It seems to be a good step between an Elf and a full DSLR. Now, I'm playing with it. Fun. Question: I'd like to adapt my Celestron C8. Is it possible? Is there a T-adapter mount? Thanks in advance. Ken</Content>
+	</Post>
+</Thread>

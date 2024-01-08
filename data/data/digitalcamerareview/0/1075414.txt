@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S5 IS time series</Title>
+		<Username>namnarak</Username>
+		<Datetime>12-21-2009, 06:35 AM</Datetime>
+		<Content>Hi, Has somebody this problem? I am using Canon S5 IS to take time series pictures. The camera takes and corrects images every 10 seconds in 24 hours. After 5 days the camera turned off itself. What 's happened? Is there the problem with ccd sensor or another problem? Thanks for your answer.</Content>
+	</Post>
+</Thread>

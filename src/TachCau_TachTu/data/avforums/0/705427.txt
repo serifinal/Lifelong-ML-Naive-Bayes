@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Lg50pk590</Title>
+		<Username>nathanannand</Username>
+		<Datetime>06-08-2011, 6:47 PM</Datetime>
+		<Content>Evening, Its been a while since I was here, I bought a LG50PK590 just before new year last year, and I have not looked back since, great great tv, I set it up with the "bedding" in settings and just realised I havent now gone back and refined them!!! Can someone please point me in the direction of some optimal settings please? Much appreciated</Content>
+	</Post>
+</Thread>

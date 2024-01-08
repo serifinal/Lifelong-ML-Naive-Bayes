@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How Do I find the Hours I've Used on my 42PX60?</Title>
+		<Username>40something</Username>
+		<Datetime>27-01-2012, 12:23 AM</Datetime>
+		<Content>Hello Can anyone help me findout how I can check the amount of hours my Panasonic 42PX60 plasma has done please?</Content>
+	</Post>
+</Thread>

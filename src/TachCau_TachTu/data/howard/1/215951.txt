@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>iPhone 4: Use another line to upgrade? Micro Sim Swap possible?</Title>
+		<Username>Legaleye3000</Username>
+		<Datetime>06-16-2010 09:05 AM</Datetime>
+		<Content>If I have 2 lines and only 1 of them is available for the upgrade, so I ordered on that line, but I want to really use the iPhone 4 on the non-upgradeable line (my line). How will that work with swapping the MICRO SIM ? Do I have to get a separate micro sim from the store for my line? Thanks</Content>
+	</Post>
+</Thread>

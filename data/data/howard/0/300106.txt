@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Google Nexus One (Unlocked) Rogers/AT&T Bands *CHEAP*</Title>
+		<Username>DigitaL BlisS</Username>
+		<Datetime>03-29-2010 10:43 AM</Datetime>
+		<Content>Item: Unlocked Google Nexus One Price (and Currency): $645CDN or best offer Condition: Used for a few days but LNIB - 9.99/10 Accessories included: * Google Nexus One phone * Li-ion battery (installed in the phone) * USB cable * AC Adapter * Stereo headset * Google Nexus One pouch * 4GB memory card (installed in the phone) * Original Google Nexus One box Location: Ottawa, Ontario Additional details: the phone comes with an unlocked bootloader and is loaded with the latest Cyanogenmod (5.0.5.3). It runs incredibly fast on this rom! The rom actually unlocks all of the phones memory, and the speed improvement from this is very apparent. If you don't want this rom, I could always load the stock one back on for you as well. I can meetup in Ottawa, or have it shipped anywhere else in Canada. *If you're interested or have any questions, please send me a PM. Thanks for looking.*</Content>
+	</Post>
+</Thread>

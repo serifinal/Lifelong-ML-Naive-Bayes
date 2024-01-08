@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Gaming on a pz80 vs a pz85</Title>
+		<Username>Crazygamer</Username>
+		<Datetime>01-01-09, 11:39 PM</Datetime>
+		<Content>Is there any difference between gaming on either of these tv's? and also is there a lesser chanc of seeing green blur on either of them? please help, thanks!</Content>
+	</Post>
+</Thread>

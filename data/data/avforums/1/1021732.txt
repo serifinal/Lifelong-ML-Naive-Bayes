@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Software to access lx5090 ISF menu</Title>
+		<Username>octocom</Username>
+		<Datetime>08-02-2012, 10:48 PM</Datetime>
+		<Content>Hi all, I have had my pioneer lx5090 tv for around 3 years and thought it was time to try some home calibration. Now i have a colour metre and software but in my research I just found out I need something to access the ISF menu. Whats the best cheapest software to access this menu please? thanks octocom</Content>
+	</Post>
+</Thread>

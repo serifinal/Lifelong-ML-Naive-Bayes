@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Powershot SD1400IS or Canon Powershot SX210 IS?</Title>
+		<Username>tdc15068</Username>
+		<Datetime>10-04-2010, 10:52 PM</Datetime>
+		<Content>They seem so similar, but C-NET reviewed them both in a way that made them seem just slightly better than average. I currently own a Powershot S2 IS, and am wondering if I will regret buying one of these thinking that it will be an upgrade.</Content>
+	</Post>
+</Thread>

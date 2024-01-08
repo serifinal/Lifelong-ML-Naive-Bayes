@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Do Canon cameras come with camera bags?</Title>
+		<Username>vcam</Username>
+		<Datetime>04-08-2009, 08:42 PM</Datetime>
+		<Content>If I buy it from Amazon.com, will it include the bag? I'm interested in buying one, but scared of the lens error</Content>
+	</Post>
+</Thread>

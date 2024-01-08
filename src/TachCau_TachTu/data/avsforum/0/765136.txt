@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Show me your COMPLETED Theater!</Title>
+		<Username>Renesis</Username>
+		<Datetime>08-28-08, 10:49 AM</Datetime>
+		<Content>My favorite part of this forum is the build threads - but I always find it hard to figure out exactly what the "finished product" looked like. (Maybe that's because no one ever really has a "finished product"!) The "Show me your" threads are pretty good for this but for specific applications. So, I want to see two or three photos of your finished theater! Feel free to leave a brief description as well. The goal here is a to create a quick and easy gallery of completed theaters as a reference for both old and new members of the forum. I'll start: 108" laminate screen, Mitsubishi HC 1500. You may notice I'm not an audiophile or sound engineer. Regardless, I love the way it turned out.</Content>
+	</Post>
+</Thread>

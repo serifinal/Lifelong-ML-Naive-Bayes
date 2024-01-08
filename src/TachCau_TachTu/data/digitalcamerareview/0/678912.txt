@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>display flicker problem</Title>
+		<Username>bobob</Username>
+		<Datetime>11-12-2007, 03:24 PM</Datetime>
+		<Content>I have a 3 year old canon powershot a85. it was working fine until recently it's screen started to flicker. It only happens while taking a picture, there are lines and the display is not still but keeps flickering. This happens for 4-5 minutes and then it goes away. The pictures come out fine though. Does anyone know why this might be happening? Is this camera dying?</Content>
+	</Post>
+</Thread>

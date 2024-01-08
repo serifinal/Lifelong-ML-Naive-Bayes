@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P42G20B - repaired but awful pic</Title>
+		<Username>gjs1</Username>
+		<Datetime>22-07-2011, 10:37 PM</Datetime>
+		<Content>Hello. I bought one of these in November 2010, and about 6 weeks ago it stopped working. Oh yes, the 7 blinks of death. So we reported it to Comet and they arranged for an engineer to come out. The next day after the 7 blinks came up, a spider web type crack appeared on the screen. We updated Comet. They were useless and mucked us around for several weeks. Eventually after more than a month, the tv was repaired and delivered back to us. However, the picture doesnt look anywhere near as good as it did before it went pop. It is like it is a different television. It isnt the settings - I've put them to how I had them before. The contrast isnt anywhere as good, there is a lot of pixelation and blurriness or blockiness. One of the things that impressed me so much when I first bought it, was how well it displayed SD pictures. Now that we've got it back from repair, it is almost unwatchable. Even the HD stuff isnt as sharp and clear as before. I've checked the signal quality and strength and they are as strong as before. So I wonder, could they have replaced the panel with a more inferior model? Is this a possibility? How would I find out for sure? Comet are sending an 'engineer' out on Monday but going by their current poor service and the previous engineer who knew less than I did about the set, I can guess he will just try and fob us off and tell us we've changed the settings and merely fiddle with them himself, so I'm keen to get some more thoughts on it before then. Any suggestions or advice will be most appreciated. Regards, Greg</Content>
+	</Post>
+</Thread>

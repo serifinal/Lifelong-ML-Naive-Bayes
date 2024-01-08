@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>F/T Samsung Galaxy S Vibrant</Title>
+		<Username>Jinjavitus</Username>
+		<Datetime>08-30-2010 02:19 PM</Datetime>
+		<Content>I want to trade my VERY MINT condition UNLOCKED (and I think rooted) Samsung Galaxy S Vibrant for a Samsung Captivate. Please let me know if you're interested!</Content>
+	</Post>
+</Thread>

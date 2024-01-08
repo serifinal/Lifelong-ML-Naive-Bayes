@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Ditching iPhone4 for HTC EVO</Title>
+		<Username>elitegm</Username>
+		<Datetime>06-18-2010 11:23 PM</Datetime>
+		<Content>Okay I need some advice here. I was one of the very first to successfully place the pre-order for the iphone4. It was early Tuesday morning around 7:45. I had zero issues and it all went through in 1 attempt. It also states on the confirmation that it should arrive around June 24. Now I have decided I no longer want the iPhone4 and will be picking up an EVO tomorrow. I called ATT to cancel the iPhone order and she said it is already processed and possibly en route so she could not cancel it, but that I would just need to refuse shipment or if I receive it, simply ship it back for a full refund. NOW TO THE QUESTION: Do I refuse shipment? Or do I list this mfer on ebay for a premium (800-1000) and when I get the phone just tell ATT to shove it and charge me the $325 cancellation fee? Can I do this? Is there any other penalty in doing this? Like will it affect my credit or anything like that? Thx</Content>
+	</Post>
+</Thread>

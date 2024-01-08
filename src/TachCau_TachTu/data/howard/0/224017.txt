@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Transfer pictures from camera to 5730</Title>
+		<Username>mutrax</Username>
+		<Datetime>02-16-2010 11:05 PM</Datetime>
+		<Content>Hi, In our next trip to Europe I want to use my (soon to be purchased) Nokia 5730 as a backup for my pictures. I have SD and SDHC cards that I'd like to copy from 2 Canon and 1 Casio cameras to the 16GB SDHC memory inside the 5730. I supose the 5730 doesn't have an USB host mode but is there a way to copy the pictures without using a computer ? Thanks in advance ! Christian.</Content>
+	</Post>
+</Thread>

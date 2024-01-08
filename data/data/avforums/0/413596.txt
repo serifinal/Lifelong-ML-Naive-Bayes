@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>can't tune bbc channels</Title>
+		<Username>amavadia</Username>
+		<Datetime>24-12-2011, 9:24 PM</Datetime>
+		<Content>I have a really old Samsung LE46N87BDR which is working fine for most channels but for some reason it wont pick up the bbc channels? When i autotune the first channel is ITV and if I manually tune, it wont let me go down beyond channel 21 (bbc is 1 and 2). Anyone had this kind of problem before? Also noticed when it autotunes it starts at 21</Content>
+	</Post>
+</Thread>

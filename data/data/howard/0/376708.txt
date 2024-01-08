@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung VIBRANT aka "Galaxy S," Coming to T-Mobile US on July 21st</Title>
+		<Username>danny.boi</Username>
+		<Datetime>04-18-2010 03:17 PM</Datetime>
+		<Content>I originally posted this here: Wireless Advisor but wanted to share. Source: SIZLOPEDIA Samsung CTIA Event Sources report that the sexy looking Samsung Galaxy S will getting a new home at T-Mobile. Bluetooth SIG has approved this Android beauty and has named it Samsung SCH-T959 following the T-Mobile naming convention. We will still be referring it to as T-Mobile Samsung Galaxy S to make our life easier. There appears to be some suspicion regarding the device identity being other Galaxy S. Specs wise the device definitely looks the one we want with a 4 inch AMOLED touchscreen, Android OS and of course Samsung's very own TouchWIZ 3.0 The question here is of course this - will the Samsung Galaxy be able to do wonders like the recently launched T-Mobile HTC HD2? T-Mobile and Samsung folks will definitely be hoping for that to happen again.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to get rid of letterbox panasonic U30</Title>
+		<Username>ijintheuk</Username>
+		<Datetime>05-06-2011, 12:33 AM</Datetime>
+		<Content>Hi. I have recently started renting movies and have noticed that a lot of the movies have letterboxing. Now, I usually wouldn't mind this but because my new TV is a plasma, I don't want to risk Screen burn/IR. I am running Blu-ray discs on my PS3. I know there is some way to at least make the letterboxing lighter so there is less risk but I don't know how. Can anyone help me get rid of Letterboxing/making it brighter on my Panasonic TX-P42U30 on PS3? Thanks alot</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Blue face syndrome Panasonic TX-P42X10 and TX-P37X10</Title>
+		<Username>jaymac</Username>
+		<Datetime>16-07-2009, 7:46 AM</Datetime>
+		<Content>As this fault seems to a bit sporadic in its appearance and in fact only seems to be a very small number .I thought it needs a thread of its own as most reports are a bit spread out to say the least and soon get lost in the Owners thread.Could all those who have already had it occur please post again here. The model the approximate length of ownership when it occurred etc., Also any new occurrences Mines was about 2 weeks into use when it occurred and that was in March I did not have Sky at that time only a pvr</Content>
+	</Post>
+</Thread>

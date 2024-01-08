@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic gt30 probs</Title>
+		<Username>clydes18</Username>
+		<Datetime>16-12-2011, 10:24 AM</Datetime>
+		<Content>hi guys new tv arrived( panasonic gt30) today, noticed on a few channels we are getting small square pixaling on the top right of the screen, and on outer edges very faint lines which seems to come and go, any ideas , also noticed when i switch on the virgin v+ box it comes up with 1080i/50Hz input i thought the tv was a 600hz</Content>
+	</Post>
+</Thread>

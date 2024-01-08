@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>November 21st - Black Friday Roundup</Title>
+		<Username>Braden Russell</Username>
+		<Datetime>11-21-08, 01:45 AM</Datetime>
+		<Content>Today's Show: On today's show we will discuss the expected Black Friday deals we can all look forward to on the day after Thanksgiving. We will also see how our predictions we made back in September turned out. more... Listen now - mp3</Content>
+	</Post>
+</Thread>

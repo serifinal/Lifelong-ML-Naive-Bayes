@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>HELP!! I have less than 12 hours to decide! :)</Title>
+		<Username>BlaXXXima</Username>
+		<Datetime>07-15-08, 12:11 AM</Datetime>
+		<Content>Okay, my first post, and of course, it's a 'panicked' one I am having my basement finished currently, and am building a dedicated HT room in a 13Wx17L room. My local audio shop selection is limited, and carry Paradigm, B&W, Monitor and Klipsch primarily, with some Angstrom, and other brands. However, I stumbled upon AV123 (had previously heard about them), and was reading up on the Rocket 850s and liking what I was hearing, UNTIL I noticed that the summer sale ends tomorrow. Oh sheet. So - anyone who has them, or has heard them care to chime in. I'm willing to be impulsive here. TELL me what I should go for in a 7.1 setup. Receiver: NO idea. TBD. Could be a Denon 3808 or other. Use of speakers: - Movies: 50% - PS3: 50% NO music, apart from the movies. SOOOOO... set me up with a 7.1. Is the following going to impress me (yes, be subjective): - Rocket 850s (fronts) - Rocket RSC200 (centre) - Rocket RSS300 (sides) - Eventually Rocket RS250MkII (rears) I'm in Canada, so I'm going all in on your opinion. I know you won't steer me wrong. Bear in mind too, that I have limited options for HT shops to go and audition stuff. What I DO have access to here though are Paradigm (the Monitor 11s are likely in a good price range for me), B&W, Monitor, Energy and Klipsch. Thanks in advance. Your opinion is much appreciated. I'm pulling your leg a little, but I seriously will purchase these tonight if I feel like I should (esp. at that price).</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Lumix L10 Review Discussion</Title>
+		<Username>Jerry Jackson</Username>
+		<Datetime>11-05-2007, 11:29 AM</Datetime>
+		<Content>The second full-featured digital SLR from Panasonic is the new Lumix DMC-L10. And while Panasonic is a relative newcomer to the SLR marketplace, the L10 packs an impressive set of features and a very interesting lens into one unique camera kit. Read on for our full review!Read the full content of this Article: Panasonic Lumix L10 Review</Content>
+	</Post>
+</Thread>

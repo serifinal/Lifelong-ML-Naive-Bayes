@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nice discovery - VT30 - Use CATS to your advantage!</Title>
+		<Username>MultiRoom</Username>
+		<Datetime>29-12-2011, 12:32 PM</Datetime>
+		<Content>I'm using PHOTO mode, all settings at standard, and with CATS switched on. By placing my mobile phone's LED torch in front of the CATS sensor, the TV thinks it's in a permanently bright room and boosts the image to give, in my opinion, brighter whites and all round better quality image. All I need now is to find a more permanent solution - I'm thinking a USB fed single white LED which are no more than a 3 or 4mm tall, discreetly taped and sealed over the front of the sensor with black tape - so as not to be seen. For those that don't know where it is, the sensor is to the left of the power LED which is green when the TV is on. The sensor is clear in colour. Try it, in a dim room. Switch CATS off and on, when it's on you'll see a noticeable boost in your TVs image. Happy to finally get a permanently brighter image on this TV, which I and many others have always thought to be on the dim side.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which powershot?</Title>
+		<Username>Scoobertdoo</Username>
+		<Datetime>02-03-2011, 09:38 PM</Datetime>
+		<Content>My old and trusty S2is is nearing the end of its life. Due to many drops and bouncing around inside the jeep as my do everything camera. So i have been looking to replace it but many of the reviews are saying the SX30 doesn't have a great picture due to the 14.1 packing into the small ccd. So should I grab a used SX20, A used S5 is or a new sx30? Or is there another big optical zoom with video choice that would be better. Picture quality is my main concern. Which of the 3 is going to give the best picture. Really wanted to stay with the Canon brand because to my the s2 is was a GREAT camera. 95% of my shooting is outside daytime events (Jeeps rock crawling) and double duty as the inside flash camera for holidays with the family. Thanks for any help I can get New camera noob.</Content>
+	</Post>
+</Thread>

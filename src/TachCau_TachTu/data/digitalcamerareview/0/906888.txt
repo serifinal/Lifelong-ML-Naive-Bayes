@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Mirror Reflection</Title>
+		<Username>Bob Florida</Username>
+		<Datetime>02-15-2011, 06:49 AM</Datetime>
+		<Content>My problem relates to my Power Shot SX130IS. When using outside in the sun I get a mirror reflection and can't see the subject. I just have to guess what I have focused on. The camera takes great pictures, but this is a real problem outdoors. Tried NuShield DayVue film, but that didn't help. Any suggestions would be appreciated.</Content>
+	</Post>
+</Thread>

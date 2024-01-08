@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Vt30 & Gt30 Vibrant Setting. Both have it?</Title>
+		<Username>Sportsguy7</Username>
+		<Datetime>28-05-2011, 3:54 PM</Datetime>
+		<Content>I saw a 3D Avatar demo of the VT30 in the vibrant setting and it blew me away. It was awesome. There are no VT30 promotions here (New York area) yet and the price is still at full list. I am considering a GT30 55" and see that the prices are definitely coming down. Does anyone know if there is a comparable Vibrant setting in the GT? It would help me decide which to buy. Many thanks. Marty Rahn</Content>
+	</Post>
+</Thread>

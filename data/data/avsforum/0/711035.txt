@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sony LCD: blue streak at the bottom of the screen</Title>
+		<Username>Saviure</Username>
+		<Datetime>09-13-08, 09:33 PM</Datetime>
+		<Content>In the past week or so I noticed a blue streak at the bottom of my screen, maybe 3 to 4" from the bottom. Does anybody know what it is and if it can be fixed easily? Thanks.</Content>
+	</Post>
+</Thread>

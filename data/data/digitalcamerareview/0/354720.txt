@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Replace Canon PowerShot DS900?</Title>
+		<Username>carvanz</Username>
+		<Datetime>11-28-2011, 02:16 PM</Datetime>
+		<Content>A few years ago I was given a Canon SD 900. It cost about $500 at the time. I LOVE this camera. About 6 months ago a bottle of water spilled into my purse and drained into my camera cover. I have been sick over the loss of this camera. There is not a local place that repairs cameras. When I called Canon the rep I spoke with sounded like it would not be worth having it repaired but that I could send it in and have the option of upgrading to a different camera...at a cost of course. What do you think I should do? Send to Canon? Try to find an independent repairman? Forget about it? (I make a little over minimum wage so purchasing a new camera is out of the question.) Thanks for any advice/help you can offer!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>End of September in sight and still no word on DM for mac?</Title>
+		<Username>ATC7</Username>
+		<Datetime>09-25-2009 10:55 AM</Datetime>
+		<Content>Didn't RIM announce that the new DM for Mac will be out in September 2009? It's less than a week till October. Has it been delayed?</Content>
+	</Post>
+</Thread>

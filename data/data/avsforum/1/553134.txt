@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SAM HL-61A750 vs SAM HL-T6176S would you swap the 6176 for the 61a750</Title>
+		<Username>JOE.G</Username>
+		<Datetime>03-31-08, 02:21 PM</Datetime>
+		<Content>I am thinking about swapping my 6176S for the 61A750, which has a better pic? the 6176S has a great picture but it does have slight bowing, does hte 750 have this problem? does the 750 have all of the features of the 6176S? also what is the diff between the 750 and the 650? thanks</Content>
+	</Post>
+</Thread>

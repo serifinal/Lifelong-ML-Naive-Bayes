@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer PDP LX6090 has stopped displaying..</Title>
+		<Username>AVZippy</Username>
+		<Datetime>15-06-2011, 10:57 AM</Datetime>
+		<Content>Hi After just over 2 years and within 3 weeks of our digital switch over my Pioneer PDP LX6090 has stopped displaying digital channels. The channels which have a strong signal come up with the error 'This channel is not in service' The EPG is populated, the analogue service works properly and all the scart and HDMI inputs work correctly. I have not touched any settings but could something of happened with an automatic update. The reason for this posting is has anybody else had this problem? I'm not to concerned has I'm still covered by a 5 year warranty. Has anybody had to call on this cover.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Multiple Display Issues w/ Projector</Title>
+		<Username>Tergo247</Username>
+		<Datetime>01-03-09, 11:50 AM</Datetime>
+		<Content>I have a HTPC (Running Win XP SP3) that I'm trying to connect to a projector and a small LCD monitor simultaniously. I have a 7900 GTX to accomplish this, with the projector hooked up through the component output of the card, and the LCD into an DVI to VGA adapter. I just installed a Blu Ray drive and bought PowerDVD ultra and play Blu Ray disks just fine on the projector. I have the monitors in dualview mode. Here's the problem: I can only play DVDs on the LCD. As soon as I move the window to the projector, I get a DVD playback error, claiming my resolution is too high. I've humored this and turned it down to 800X600 with no luck. DVDs refuse to play through any software player (Nero Showtime, WMP, PowerDVD) on the projector. I've updated every driver I can think of, reinstalled every player, and even tried multiple DVD drives. None play on the projector. The LCD is fine. I've disconnected the LCD at this point fearing copyright issues. Still no dice. I have watched DVDs through the projector before the Blu Ray install, and even after the install before I got PowerDVD, on the projector. I am out of ideas. A million thank yous in advance.</Content>
+	</Post>
+</Thread>

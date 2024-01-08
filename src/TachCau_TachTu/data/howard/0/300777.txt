@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Rogers iPhone4 16G NEW SEALED</Title>
+		<Username>johnmoon</Username>
+		<Datetime>08-13-2010 08:34 AM</Datetime>
+		<Content>Selling a brand new Rogers Apple iPhone4 16G (SEALED) Comes with one full yr warranty, asking 700CAD Firm Can meet up in London / GTA area Shipping will be 10CAD, expresspost with tracking number, must be paid by EMT Thanks</Content>
+	</Post>
+</Thread>

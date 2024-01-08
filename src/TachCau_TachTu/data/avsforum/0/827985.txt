@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>And the Berkline and Private Collection Seating Power Buy Prize winners are ...</Title>
+		<Username>rsh</Username>
+		<Datetime>07-03-08, 06:31 PM</Datetime>
+		<Content>Folks, We are glad to announce the Berkline and Private Collection Home Theater Seating Power Buy Prize winners: 1. Buttkicker Gamer (retail price $115.00) Randy Barnette from Bristow, VA; AVSForum name: chiliman 2. The Metropolitan Popcorn 4 OZ machine (retail price $480.00) Wayne Roberts from Thomasville, GA; AVSForum name: WAR_GA 3. LUTRON RadioRA Car Visor lighting control package (retail price $1800.00) Mike Franks from The Woodlands, TX; AVSForum name: MikeDTS Congratulations to all winners !!! As always we would like to thank all Power Buy participants for your support.</Content>
+	</Post>
+</Thread>

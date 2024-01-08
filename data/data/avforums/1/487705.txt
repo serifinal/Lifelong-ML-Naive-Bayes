@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>CES 2011 products</Title>
+		<Username>Kakes</Username>
+		<Datetime>04-07-2011, 10:27 PM</Datetime>
+		<Content>I'm in the market for a 50 - 65 inch plasma and I'm new to the Forum. I've just read a review on the new Samsung 51 inch plasma AVForums.com - Samsung D8000 (PS51D8000) 51 Inch 3D Plasma TV Review and the Panasonic 50 inch AVForums.com - Panasonic VT30 (TX-P50VT30) 3D Plasma Review Reading around, there appear to have been issues with the Panasonics (burn in / blacks over time) and the new Samsungs don't appear to have moved on much. The Panasonic EPGs appear to be dire. I have a couple of questions. 1) Have sets demonstrated at CES 2011 at the beginning of the year filtered through to the retail channels yet ? i.e. should I hang on a little while for new models to appear and be reviewed. 2) If the answer to 1) is yes, taking into account the various factors - is there a clear leader in terms of reliability? While I'm not willing to buy a B&O or similar over priced set, budget is not really a constraint and according to a mathematical calcuation*, I'd need a set between 55 and 60 inches in size (64 inches is the max that would fit on the wall). If budget is not a constraint - is there a clear model leading the field ? I'm concerned about what I read about the Panasoic EPGs (useability, no picture / sound while looking at the EPG). Sources would be Blu Ray and Freeview HD. * attached image contains formula D=diagonal screen size, d=distance to set - assumes 16:9 set</Content>
+	</Post>
+</Thread>

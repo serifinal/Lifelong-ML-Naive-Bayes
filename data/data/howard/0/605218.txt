@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Lg Rhythm stuck in s/w update. told its in emergency mode</Title>
+		<Username>veteranmina</Username>
+		<Datetime>03-03-2010 11:06 PM</Datetime>
+		<Content>Okay so today i was just trying to get on the internet. well it gave me a access denied so i did what i was told to do to fix it which was to reset the browser. when i did it always goes to a reset...the usual. but when it booted up it went to a s/w update and got stuck there for hours. i took it to verizon (im alltell still) and they said it is in emergency/recovery mode and there is nothing that they can do on their side yet it was their fault for forcing the fota (firmware of the air) update on my phone and crashing it. i was wondering if there was a way to get it out of the emergency mode by any chance?</Content>
+	</Post>
+</Thread>

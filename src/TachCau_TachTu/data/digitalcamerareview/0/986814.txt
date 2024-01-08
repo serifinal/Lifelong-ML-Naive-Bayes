@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Canon PowerShot SX130 IS Review Discussion</Title>
+		<Username>RayOfMinneapolis</Username>
+		<Datetime>01-27-2011, 02:42 PM</Datetime>
+		<Content>I am LOVING my Canon Powershot SX130IS! I upgraded from the A590, which I wish still worked, because it was PERFECT in it's own way... But this SX130IS is so FUN. I hear you guys on the battery issues. If you plan on doing HD video, you'd better have like 8 NiMH's that you think are fully charged, cause that's the main drain. Even if you think you have fully charged batteries, you might go dead and have to swap out right away. Interestingly, it doesn't drain power so fast when recording in the Miniature mode. It doesn't take nearly as much space on your memory card either. Probably cause theres no audio and less visual information, frames... I haven't seen anyone show an example of the tilt-shift mini mode, so I'll link a video at the end of this post. I think it's one of the coolest features on the camera. Also, Color Accent is GREAT! It's an eyedropper tool! Easy to learn to use it. You just zoom in on your desired color and select it. You can get super creative. The color swapping is cool to, but I haven't used it much beyond turning the sky red once. Might be just me, but AUTO mode always seems washed out so I keep it in Super vivid most of the time. We can post photos in these forums, right? I'd love to see what others are doing with their SX130IS's. I hear it's becoming a very popular camera world wide. I see a lot of Japanese people have it, from the videos they post on youtube. Here is my example of Mini Mode. (Click to play)</Content>
+	</Post>
+</Thread>

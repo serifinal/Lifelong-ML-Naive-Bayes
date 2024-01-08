@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Memory card for Canon S5 IS</Title>
+		<Username>lilnickysgirl</Username>
+		<Datetime>02-15-2008, 09:26 AM</Datetime>
+		<Content>Hi. I am going to buy a Canon S5 IS, and I would like to know what memory card is best to go with it. Should I buy one that is fast? Thank you.</Content>
+	</Post>
+</Thread>

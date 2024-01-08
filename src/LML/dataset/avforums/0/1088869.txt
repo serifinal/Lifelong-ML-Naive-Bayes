@@ -1,0 +1,11 @@
+panasonic 2011 range - hdmi ethernet .
+does the new range implement hdmi ethernet ?
+the current situation is . .
+1x ethernet cable to bd palyer -lrb- bd live and/or skype -rrb- 1x ethernet cable to tv -lrb- vierra connect -rrb- 1x ethernet to my amp for internet radio would be nice -lrb- dare i say desirable -rrb- to use only 1x ethernet connection then let hdmi take care of the rest .
+audio return channel is it possible to connect a 3d bd palyer hdmi 1.4 to the tv -lrb- for best picture quality , bypassing the amp 's picture processing , then using the audio return channel send bitstream/lpcm full hd surround sound to the amp ?
+lpcm would be handy for older amps .
+currently , a dual hdmi 3d bd player is required for this -lrb- 1x hdmi cable to the tv and 1x hdmi cable to the amp -lrb- lpcm -rrb- when the amp cant decode hd bitstreams .
+suround audio -lrb- arc -rrb- has this been sorted ?
+from 1st of april , all tvs must have an encoder/decoder to send surround sound -lrb- freeview hd -rrb- as dts to the amp -lrb- not dolby pulse and mixed codecs required for audio description -rrb- .
+2010 range could not do this , all had was stereo .
+thanks bill

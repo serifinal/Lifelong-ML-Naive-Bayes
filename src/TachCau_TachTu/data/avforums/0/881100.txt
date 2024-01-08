@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Manufacturer refurbished Plasmas?</Title>
+		<Username>bery_451</Username>
+		<Datetime>17-12-2011, 6:26 PM</Datetime>
+		<Content>this site claims their panny plasmas are manufacturer refurbished: Techsurgeons LTD - UK's top retailer and wholesaler of household electronics products Are Panasonic Manufacturer refurbished plasmas reliable to buy? Is this website approved to sell manufacturer refurbished plasmas by panasonic? Do panasonic even refurbish their Plasmas to sell to the trade? Are the manufacturer refurbished plasmas by panasonic good as new when it comes to working spec? thanks,</Content>
+	</Post>
+</Thread>

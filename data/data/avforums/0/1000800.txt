@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma Screen Problem TH-42PX60B</Title>
+		<Username>mlf7268</Username>
+		<Datetime>01-12-2009, 7:42 PM</Datetime>
+		<Content>Hello, I have a Panasonic TH-42PX60B that has developed a 3 inch vertical black line right in the centre of the screen? The line appears whatever I watch (TV, DVD, Cable) and a cannot seem to get rid of the line. I have disconnected and reconnected all cables but no luck. Does anyone have any idea what the problem could be? Any advice would be greatly appreciated. Thanks.</Content>
+	</Post>
+</Thread>

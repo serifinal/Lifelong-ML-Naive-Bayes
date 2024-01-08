@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Flash on the S95</Title>
+		<Username>Rayna</Username>
+		<Datetime>02-18-2011, 07:52 PM</Datetime>
+		<Content>Hello everyone, I am looking for a good quality compact for my friend.... now he does not want the G11 series because it "does not look sexy" So I have been looking around and found the Canon S95 I tried it out but the flash seems very weak... Is it possible to adjust the power of the flash on this camera like the G series? I couldn't really play around in that detail at the time so I couldn't see for myself... Thanks</Content>
+	</Post>
+</Thread>

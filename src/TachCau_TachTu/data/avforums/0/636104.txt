@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Do phosphor trails diminish over time?</Title>
+		<Username>ianegg</Username>
+		<Datetime>27-07-2011, 8:42 AM</Datetime>
+		<Content>I've been searching the forums and elsewhere for a while now and haven't found a definitive answer. Phosphor trails were one of the first things I noticed on my new GT30, but I didn't know what it was and assumed it was some artifact related to moving high contrast windows on my PC. I didn't actually notice it anywhere else until I saw it on Clarkson's jacket & shirt on Top Gear the other day, and it's almost painful in that kind of situation. Strange thing is, contrary to my understanding of the issue, yellow seems to be the leading edge with blue trailing. So aside from me getting accustomed to it, does a PDP's tendency to display plainbows improve as it beds in? Also, does it vary much from panel to panel? (for the same model)</Content>
+	</Post>
+</Thread>

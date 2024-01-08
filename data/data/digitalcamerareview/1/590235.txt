@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>I need some advice!</Title>
+		<Username>alspeedo</Username>
+		<Datetime>06-10-2008, 01:19 PM</Datetime>
+		<Content>I am torn between buying a Canon Powershot SX100IS or a Conon Powershot SD870IS. Is there anyone out there who can advice me which one to buy??</Content>
+	</Post>
+</Thread>

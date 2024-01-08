@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS42c431a2</Title>
+		<Username>arnoldtp</Username>
+		<Datetime>15-07-2011, 2:20 PM</Datetime>
+		<Content>Please help, i have a samsung 42" pdp and want to activate the "play movie of usb feature" model number is PS42c431a2. Anybody got any adviceplease</Content>
+	</Post>
+</Thread>

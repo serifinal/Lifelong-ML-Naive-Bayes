@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung A550 or Sony W4100</Title>
+		<Username>Reizoko</Username>
+		<Datetime>07-24-08, 12:29 AM</Datetime>
+		<Content>Hi, this is actually my first post even though I have been reading this forum for a long time now. I finally get my chance to own a 40 inch lcd because I was offered a really good deal between a Samsung A550. After buying the Samsung, I came across another deal for the Sony W4100 and now I am wondering if I should return the Samsung and get the Sony instead. The Sony W4100 will probably be around 200 bucks more than the Samsung. Any suggestions are appreciated.</Content>
+	</Post>
+</Thread>

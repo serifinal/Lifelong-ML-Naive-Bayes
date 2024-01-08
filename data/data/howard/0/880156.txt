@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola Droid Pre-Update thread for FROYO 2.2</Title>
+		<Username>3vil p3rs0n</Username>
+		<Datetime>03-31-2010 11:29 PM</Datetime>
+		<Content>Keep all Froyo on the droid discussion here.... Any hints bill... lol</Content>
+	</Post>
+</Thread>

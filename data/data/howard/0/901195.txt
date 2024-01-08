@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Great Micro Sim adapter!</Title>
+		<Username>aphexacid</Username>
+		<Datetime>07-11-2010 03:17 AM</Datetime>
+		<Content>I know a lot of people are cutting and mutilating, taping, gluing, etc etc. But seriously, stop with the shenanigans. Gizmodo posted about the Microsim-Shop.com, and their adapter. So i ordered 5. Under 20 bucks. I'm giving a few away to friends, and keeping the rest for myself. They fit and work perfectly. Price is great, and shipping is fast. i got mine in about a week, shipped from Austria. http://microsim-shop.com/</Content>
+	</Post>
+</Thread>

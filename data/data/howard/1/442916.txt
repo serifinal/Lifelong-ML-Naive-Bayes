@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Tethering on the Samsung A707?</Title>
+		<Username>bartolo5</Username>
+		<Datetime>11-07-2006 04:45 PM</Datetime>
+		<Content>I'm thinking of getting this phone and I was wondering if someone has tried to tether with it and what speeds are you getting. Given that its an HSDPA phone it should be much better than tethering with any phone that has EDGE. I have the a grandfathered MEdiaWorks plan.</Content>
+	</Post>
+</Thread>

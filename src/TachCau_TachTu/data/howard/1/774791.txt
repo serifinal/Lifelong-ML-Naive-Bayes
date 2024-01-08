@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>long time centro user first time htc touch pro2 user.</Title>
+		<Username>crowdwarr</Username>
+		<Datetime>03-18-2010 12:22 AM</Datetime>
+		<Content>I have the sprint sero plan. my contract is about to end and I would like to get a new phone. the htc touchp2 is the latest phone out that is still compatible with the sero plan. I have had experience with winmo in the past and am not thrilled about it. really the only thing i am curious about getting a new phone is if it will have as useful hot keys? i just would like to have one button that takes me directly to txt messages. if you know anything either of these phones let me know. plus if youre looking for awesome centro apps get ahold of me.</Content>
+	</Post>
+</Thread>

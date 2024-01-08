@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SD500 initial thoughts</Title>
+		<Username>Josh Dollins</Username>
+		<Datetime>07-25-2006, 04:05 AM</Datetime>
+		<Content>Now that the camera has seen some vacation time and travel I have comments. The software is great compared to what I've had come with other cameras. My prints have come out great (up to 8x10 prints) and I love its compact size and battery life saving features (turn off lcd, viewfinder, turn off camera automatically after certain amount of time) build quality seems excellent as well. I like the USB 2.0 and direct print features (all new to me) Complaints: Shots with flash have a rather long refresh rate (between shots) The LCD while big enough could have a better resolution its pretty fuzzy.</Content>
+	</Post>
+</Thread>

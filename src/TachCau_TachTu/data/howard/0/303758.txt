@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile Android Devices (Samsung Vibrant)</Title>
+		<Username>danny.enrique</Username>
+		<Datetime>06-20-2010 10:14 AM</Datetime>
+		<Content>I was wondering if we can start a new discussion section. If possible and if moderators agree, the path should be (Home) Forum --> US Carrier Discussion --> T-Mobile Device Discussion -->Android Devices. Thanks in advance. HoFo Moderators: Feel free to delete this paragraph and start a new discussion if you wish. With that said, I'll start by saying... I feel that T-Mobile hase something huge planned. One which they have quietly been keeping secret. They will soon release the most powerful phone of all phones. Apple and its iPhone has had its days in the limelight. Now, Android phones will crush its competitor. I woul not be surprised that RIM and Nokia will eventually release Android driven devices. So... what do you think T-Mobile will do next? Sprint has the EVO... what will Deutsche Telekom do next?</Content>
+	</Post>
+</Thread>

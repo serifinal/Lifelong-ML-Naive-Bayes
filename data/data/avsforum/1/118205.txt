@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help with decsion on Pio 5010HD vs new LG</Title>
+		<Username>panjj</Username>
+		<Datetime>04-17-08, 04:22 PM</Datetime>
+		<Content>Upgrading my system after 6 years and moving away from XBR LCD to Plasma. I have an opportunity to purchase 720P 50" Elite (5010HD?) at approx. $2,300 from an authorized dealer vs waiting to see if the new LG's and Panasonic 1080P offerings would be a better choice (800u and LG60). I"ll be sitting about 9 feet from the screen and was advised by a friend that I am likely not to see differences in 720P vs 1080p at that distance and would love the Pio picture. Thanks for any advice. BTW--I'll likely be getting the 94 elite receiver as I can't wait for the new line.</Content>
+	</Post>
+</Thread>

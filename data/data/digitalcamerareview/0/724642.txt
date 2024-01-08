@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX110 IS battery indicator</Title>
+		<Username>shoshia</Username>
+		<Datetime>03-22-2009, 01:49 PM</Datetime>
+		<Content>Hi, I bought a new Canon SX110IS 2 weeks ago. When placing my fully charged energizer NiMH 2500mAh batteries in it, I get the low battery signal right away. When placing the same batteries in my old Sony digital cameras, the battery indicator shows they are fully charged... Is this a problem with my Canon or the batteries?</Content>
+	</Post>
+</Thread>

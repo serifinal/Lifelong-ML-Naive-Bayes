@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Do i really need to get a D'igital Video Essentials' dvd for setting up the tv?</Title>
+		<Username>adamknox</Username>
+		<Datetime>18-07-2011, 4:43 PM</Datetime>
+		<Content>Ive just got my plasma GT30 :D and while its good..the picture is rather lacking WIll i need to buy one of the dvds to get the picture quality up to standards? (i guess i could randomly change settings lol)</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>iPhone 4 or Samsung Galaxy S Vibrant (Bell)</Title>
+		<Username>~Alvin~</Username>
+		<Datetime>09-05-2010 10:15 PM</Datetime>
+		<Content>Friends help me choose between Ip4 or galaxy S vibrant ? Thethering, email, and UI are my main areas of concern!</Content>
+	</Post>
+</Thread>

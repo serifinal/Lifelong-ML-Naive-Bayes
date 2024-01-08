@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Blurry sd/hd picture on panasonic s30</Title>
+		<Username>robjodi1985</Username>
+		<Datetime>24-07-2011, 8:26 AM</Datetime>
+		<Content>hi guys im hoping someone can help,3 weeks ago i purchased the panny s30..i ran it on normal picture setting for the first 100 hours,i avoided channels with logo's,game consoles etc..i also ran the slides from sd card because im going to have it calibrated the thing is there's alot of blur on screen i notice it alot especially on faces,whilst watching sport etc,ive noticed that still images or slower images look better and theres no blur at all..also when i watch hd channels like movies from my sky hd box the pictures fine but soon as there action like a car chase or something the screen carnt keep up..my brother did a self check and it failed and it keeps failing..on the self check menu after it says failed if i look in top right hand corner there's 4 digits and it says 7964 in red..is this why its failing? everything else on the self check menu says ok..im really fed up with it im hoping someone can help thanks</Content>
+	</Post>
+</Thread>

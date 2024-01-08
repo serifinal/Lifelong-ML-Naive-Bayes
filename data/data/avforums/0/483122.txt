@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My LG Plasma 42PC1RR is dead</Title>
+		<Username>RGovanzza</Username>
+		<Datetime>11-06-2011, 6:22 PM</Datetime>
+		<Content>I am (still) the owner of TV LG plasma 42PC1RR. I bought it in June 2007 in Belgrade (Serbia) and two weeks ago suddenly appeared dark (black) fields on the display. These fields cover black appearances during current broadcasting, and when they are changing black fields are slowly disappearing and then appear on other black (dark) appearances during TV program. Few servicemen explained me that plasma display was definitely dead and that any repair is too expensive (authorised repair services of LG in Serbia is terrible and shameful so I did not want to entrust them repairing of TV). It means, after only 4 years of normal use, TV set I paid 1100 Eur, is to end in garbage. Next time I will not buy any LG apparatus.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>ISF calibrated LX5090 vs KRP-500a which one better please give your opinion</Title>
+		<Username>Julio V</Username>
+		<Datetime>25-06-2011, 10:02 PM</Datetime>
+		<Content>Hi Do you have any idea about PQ comparetion between LX5090 calibrated and krp-500a non calibrated? I heard about moving a calibrated TV to new environment will make calibration unworthy. The change in room decoration, wall paper colour, light, position near or far from window. . .will make the TV not be at best performance. What happen if I buy a calibrated tv? Will calibrated 5090 beat 500a in term of picture quality? I also hear out-of-box setting of 500a is nearly accurate Please advice</Content>
+	</Post>
+</Thread>

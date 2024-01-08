@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>If the southern view is blocked, is it possible to get Dish?</Title>
+		<Username>doogiehowser</Username>
+		<Datetime>05-12-08, 03:28 PM</Datetime>
+		<Content>Last time I tried the people at DirctTV said I need an unobstructed southern view and they could not add service. This was a couple years ago. Does Dish still require a clear southern view to work? Is there any way to increase the signal with an amplifier if it is not pointed directly south? What is the tallest pole Dish can use for HD service?</Content>
+	</Post>
+</Thread>

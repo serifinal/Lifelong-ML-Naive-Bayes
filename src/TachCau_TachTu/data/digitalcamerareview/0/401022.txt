@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon PowerShot SX 130 IS</Title>
+		<Username>tk1205</Username>
+		<Datetime>12-19-2010, 05:32 AM</Datetime>
+		<Content>Hi, I have just bought a Canon SX 130 IS Digital camera and with that I have got 1 pair of Nimh rechargeable batteries (Uniross AA/R6 1900 mAh) and also a charger (Uniross x-press mini ultracompact charger) to charge the batteries, absolutely free. Nowthere are 2 pointss. 1. On the packing of charger the charge time of some batteries is mentioned which are 800mAh Nicd, 1300mAh nimh, 2100mAh nimh, 2300mAh nimh, 250mAh nicd and 1000mAh nimh. but nothing is mentioned for the batteries (1900mAh nimh) which I have received with this charger. whether these are compatible with the charger or not? if they are not then why the company has provided those batteries with this charger. 2. Second point is I used the battery in my camera and after some time camera showed me low battery and I had put them for charging and red light was showing on the charger when I plugged it in the socket and after 24 continues hours of charging light is still red. ideally it should change to green if battery has got charged up. (charging time for this battery is 7 hours as mentioned on batteries). Please provide a solution for my problem.</Content>
+	</Post>
+</Thread>

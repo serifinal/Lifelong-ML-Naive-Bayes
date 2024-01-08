@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung a540 vs Sony V4100 Both 46" Please respond.</Title>
+		<Username>Zlat</Username>
+		<Datetime>08-11-08, 11:47 AM</Datetime>
+		<Content>I heard that the 540 is better than the 550 and also that the V4100 is better than the 550 so which one between the 540 or the V4100 is a better choice ?</Content>
+	</Post>
+</Thread>

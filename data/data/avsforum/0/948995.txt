@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official Panasonic TH-65PZ850U Owner's Discussion & Information Thread</Title>
+		<Username>Cleveland Plasma</Username>
+		<Datetime>08-27-08, 11:37 AM</Datetime>
+		<Content>No specs of any kind yet. ( Stand is not included again ) Now that these have hit the streets I guess it is time......</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Should my Plasma be doing this?!</Title>
+		<Username>Jaymo</Username>
+		<Datetime>15-06-2010, 9:11 AM</Datetime>
+		<Content>Hi, After issues with LCD tv's, I made the switch to Plasma. Everything was fine (bar a few phosphor trails on certain things) and then I started getting some Xbox 360 time in. Been playing RDR recently and have now noticed that whenever I pan the camera around, the background, erm...ghosts? Best way to describe it is the picture can't keep up when I pan around. It almost looks like I'm looking at a 3D picture without 3D glasses on. Everything goes blurry. If I pan slowly, it's fine. As soon as I pan quickly, it becomes an issue, so it's a nightmare in FPS games at the moment. Was playing Mass Effect 2 last night and with a couple of characters on the screen, when I was panning the camera, it looked as if the characters had doubled up. I can try and film it if people don't know what I'm talking about, lol.</Content>
+	</Post>
+</Thread>

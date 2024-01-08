@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic Line up</Title>
+		<Username>Rajsaww</Username>
+		<Datetime>26-12-2011, 11:51 PM</Datetime>
+		<Content>I understand the panasonic line up runs like so: VT30 - ultra high end GT30 ST30 G30 U30? - bottom end C3B - last years model in new chassis Do the G3/ST/GT/VT use the same panel? Also looking back through the generations, was this the same line up style for 20 and 10? Would a high end 20 beat a low end 30? I am looking to buy a panny plasma from Bestbuy sale and want to make sure I know what I am getting. Thanks!</Content>
+	</Post>
+</Thread>

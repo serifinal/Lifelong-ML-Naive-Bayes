@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Motorola DROID 2.1 ESE81 Update Thread</Title>
+		<Username>RyZR</Username>
+		<Datetime>03-30-2010 11:37 AM</Datetime>
+		<Content>http://www.engadget.com/2010/03/30/v...oid-owners-to/ http://support.vzw.com/pdf/system_update/moto_droid.pdf ------------ Edit by FAUguy I have also posted the update.zip file here and with instructions. http://www.phonearena.com/htmls/Manu...e-a_10510.html</Content>
+	</Post>
+</Thread>

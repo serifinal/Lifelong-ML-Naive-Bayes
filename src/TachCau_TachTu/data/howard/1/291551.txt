@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Nokia 5800 Apps & Wifi questions</Title>
+		<Username>Alphonse-Cdn</Username>
+		<Datetime>02-28-2010 08:30 AM</Datetime>
+		<Content>Hi gang, So bought the Nokia 5800 last night and have a few questions as I set it up. First, I thought I'd see how it is for browsing the net. While I haven't yet signed up for the Unlimited Mobile Browsing, figured could use my wifi at home. While it sees it and connects okay, when I try to go to a website, says I need to get the UMB plan or pay the day charge. Is Rogers blocking the wifi, or I am not doing something right? Next up, I'm going to get UMB, with the $20 voicemail, call id, text package. I read through most of the stickyed thread here in the forum, but still confused. Will I be charged if I download and use 3rd party apps like google maps, accu weather, twitter? I assume the pre-installed apps are free. Finally been told the built in web browser is okay but not great. Therefore I'm looking at getting at either opera mini or skyfire. One better than the other? Can I use both with UMB? Thanks in advance for any info. Cheers,</Content>
+	</Post>
+</Thread>

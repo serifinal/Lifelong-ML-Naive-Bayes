@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>PG13</Username>
+		<Datetime>05-16-08, 09:04 AM</Datetime>
+		<Content>I'm going to be changing this post up for it to be a FAQ for owners. If you have any suggestions as to what should be in the FAQ (and links to the answers) I'll go ahead and include them! In the meantime: Link to product manual: http://www.samsung.com/us/support/do...sp_nm=BD-P1500 Firmware updates: http://www.avsforum.com/avs-vb/showt...0#post16406390</Content>
+	</Post>
+</Thread>

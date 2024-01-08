@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Hi buddies, Can iPhone & Samsung Vibrant use the $5.99 t-zone plan?</Title>
+		<Username>gaore</Username>
+		<Datetime>07-22-2010 04:15 AM</Datetime>
+		<Content>only web browser surfing , or both web & applications? Thanks</Content>
+	</Post>
+</Thread>

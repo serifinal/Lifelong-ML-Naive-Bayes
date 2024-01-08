@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic GT30 & Netgear Wireless Dongle?</Title>
+		<Username>tele1962</Username>
+		<Datetime>30-07-2011, 4:17 PM</Datetime>
+		<Content>Can anyone advise as to why the recomended Netgear Dongle i have is not connecting to my router via the Pressing the button on the Router method, it would be very much appreciated.</Content>
+	</Post>
+</Thread>

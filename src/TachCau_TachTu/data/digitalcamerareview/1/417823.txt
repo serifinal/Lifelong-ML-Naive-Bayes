@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon a570is</Title>
+		<Username>integra_guy</Username>
+		<Datetime>02-24-2008, 02:46 AM</Datetime>
+		<Content>Hey guys, I'm new to this forum, I'm not that good at taking pictures, but I do want to replace my Olympus FE-180 to a Canon a570is, I been reading reviews on here, and other sites as well. Well basically I want a camera that take good pictures at night, day, indoors, and out doors, as well as my kid, I'm just leaning about cameras so I don't really know to much, I just want some of you guys thoughts about this camera Thanks</Content>
+	</Post>
+</Thread>

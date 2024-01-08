@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Free Samsung glasses problem</Title>
+		<Username>Mdb108</Username>
+		<Datetime>19-09-2010, 12:35 PM</Datetime>
+		<Content>I gave a Samsung PS50C6900 and when I type in the serial number on the online order form on the Samsung website it won't accept the serial number.It just keeps telling me it is the wrong serial number.Has anyone else had this problem ?</Content>
+	</Post>
+</Thread>

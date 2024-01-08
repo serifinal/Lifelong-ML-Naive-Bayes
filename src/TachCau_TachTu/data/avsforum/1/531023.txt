@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung model confusion - 650 vs. 750?</Title>
+		<Username>inky blacks</Username>
+		<Datetime>09-12-08, 06:22 PM</Datetime>
+		<Content>What is the big difference (if any) between the Samsung LN52A650 and the Samsung LN52A750? Looking at the Circuit City website, all I can see is that they picture the 650 with an oval looking base, while the 750 is shown with a rectangular base. Are there any other differences? Both seem to have the same specs as far as I can see. I like the rectangular base better, by the way. Is the 750 a good TV to buy? IB</Content>
+	</Post>
+</Thread>

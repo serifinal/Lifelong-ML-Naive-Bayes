@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Did search first: but I need the dummies guide to tethering w/ cricket</Title>
+		<Username>bucky2007</Username>
+		<Datetime>01-14-2010 07:46 PM</Datetime>
+		<Content>I have a blackberry storm, and I have installed the desktop manager, and I am using the standard modem. The phone does read that its going into modem mode, but the password and user name arent working. I am using my mdn with area code@ mycricket.com and password cricket. Am I doing something wrong. I tried both #777 and *99#, they both attempt to put the phone in modem mode, but the password and user name are wrong. Someone please help. I know Im not the only one with this problem. I know your gonna say for me to seach, but I have. For you smart guys, it will take you two seconds to help me out..... can you spare 2 seconds?</Content>
+	</Post>
+</Thread>

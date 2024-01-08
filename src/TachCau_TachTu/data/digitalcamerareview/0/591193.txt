@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with a Canon PowerShot A720 IS</Title>
+		<Username>eaw81</Username>
+		<Datetime>01-19-2009, 04:46 PM</Datetime>
+		<Content>Okay, up until recently I've kept my pictures on the computer and have printed out very few. In fact, I have not printed out any pictures since I got my camera this past Spring/Summer. The camera I have is a Canon PowerShot A720 IS. The pictures look fine on a computer screen, but when my sister took them to Wal-Mart and Target to print them out, they came out blurry and horrible. I did look in the manual and it said to have the settings on Superfine and L (8M 3264x2448). I took some more pictures in the Auto mode and with these settings, but they still did not come out correctly when she took them in. What else is there? Is there another setting I should have it on? Is the camera somehow broken? Please help!</Content>
+	</Post>
+</Thread>

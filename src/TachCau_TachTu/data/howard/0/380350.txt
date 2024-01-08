@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Default location of icons</Title>
+		<Username>kwando</Username>
+		<Datetime>10-12-2009 01:26 PM</Datetime>
+		<Content>Trying to find out where the default location of icons are located on the phone. Rather than use a theme, i was wonder if its possible to SSH and update the icon/apps that i have. I know using winterboard when a theme is selected it is located in /var/stash/theme/ is there a location that i can upload icons if i am not using winterboard??? winterboard slows the phone down so much. Thanks and any help is appreciated!</Content>
+	</Post>
+</Thread>

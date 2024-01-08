@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon G12 and the LA-DC58K</Title>
+		<Username>grebmrof</Username>
+		<Datetime>11-22-2010, 08:48 AM</Datetime>
+		<Content>I purchased a lens adapter for my new G12 with the thought that it might be a way to protect the lens and be a bit of a lens hood. I know, the filter adapter FA-DC58B would be a better choice - it is on order. Using the LA I interestingly found that at the G12 widest lens setting, the hood clipped the image. Also I found the LA comes in two parts - anyone know why that is? I haven't found anything about that in the sparse document Canon sent with the LA. Thanks, Tom</Content>
+	</Post>
+</Thread>

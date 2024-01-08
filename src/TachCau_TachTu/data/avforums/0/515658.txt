@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why use ferrite cores'.. ?</Title>
+		<Username>alexbaker</Username>
+		<Datetime>18-02-2012, 10:58 PM</Datetime>
+		<Content>Hi all. Just got a Panasonic 42GT30 and was wondering what the Ferrite Cores are used for... I have the TV set up ok an is connected to the internet with a LAN cable. No visable issues with the picture. Should i use them ? If so, what on ?... ( reccomendations anyone ?.).. Thanks. Alex</Content>
+	</Post>
+</Thread>

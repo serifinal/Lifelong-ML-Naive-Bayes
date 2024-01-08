@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Limited Edition HP Photosmart R607 Designed by Gwen Stefani</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>05-16-2005, 11:00 PM</Datetime>
+		<Content>HP and Gwen Stefani have announced the availability of a limited edition Harajuku Lovers HP Photosmart R607. Only 3,000 of this gem will be produced. The camera is custom designed - "styled in turquoise and white with maroon-colored accents, including hearts and Japanese kanji and katakana characters." The camera will be available for $249. Gwen Stefani will be presenting Ellen DeGeneres and a few lucky fans with some of the first cameras off the production line on Tuesday on Ellen's talk show. Ellen viewers and Gwen fans will be able to log onto http://www.hp.com/buy/gwen and http://www.gwenstefani.com to enter to win a camera. Fans can also get a peek at the HP Photosmart R607 Harajuku Lovers Digital Camera by Gwen Stefani in action as it is prominently featured in Gwen's new No. 1 music video, "Hollaback Girl." The camera's accessory package includes an authenticity card verifying which number of the 3,000 cameras made the individual owns, a stylish case and charm designed by Stefani, a wrist strap with a heart-shaped charm, and a DVD with Gwen Stefani video, audio interview, wallpapers and more. The camera is a 4.1 megapixel camera that features HP's innovative Real Life Technologies such as adaptive lighting technology, panorama preview mode for capturing panoramic shots, in-camera red-eye removal to instantly eliminate red-eye without a PC or software, HP Image Advice and HP Instant Share. Press release For details about the much less exciting HP Photosmart R607, check here.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Inside Sony - New TV technology blogs from AVForums in Japan</Title>
+		<Username>Phil Hinton</Username>
+		<Datetime>14-02-2012, 8:24 PM</Datetime>
+		<Content>Steve Withers is in Japan this week at the invitation of Sony to see their new TV technology for 2012 and beyond. His blogs will appear on the forums front page all this week for you to keep up to date. (Obviously some of the technology is covered by NDA) You can read Steve's first blog here: ?OLED is the new black? - Inside Sony Day 1</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CanonSD1000-Washed out color</Title>
+		<Username>pizzipie</Username>
+		<Datetime>09-16-2010, 07:26 PM</Datetime>
+		<Content>Hi, My wife was trying to set macro mode. She did something that definitely did not do what she wanted. Now the large square view window shows some menu thing continuously. Can't get it to go off. I managed to take a picture and the color is all messed up(washed out false colors). To make matters worse we can't find the manual plus I wouldn't know where to begin to fix this. Any help would be appreciated greatly. Thanks, Rick P</Content>
+	</Post>
+</Thread>

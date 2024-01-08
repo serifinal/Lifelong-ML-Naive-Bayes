@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Connecting DVD Recorder to LCD TV</Title>
+		<Username>luiginyc84</Username>
+		<Datetime>03-28-08, 11:07 PM</Datetime>
+		<Content>Forgive me if this comes off as a "dumb question", but I just recently purchased a Samsung LCD TV. I have a DirecTV HD DVR Box and a PS3 plugged into 2 of the HDMI Ports. I have my Samsung DVD-VR330 plugged into the Component Inputs. Now obviously with this setup I cant record from LIVE TV to a DVD as my DVD Recorder and Satellite are not on the same Input. Is there a splitter that I can use for this situation like the old RF splitters? Or is there any other way to do this? Thanks for any help!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is There an Unlimited Data Plan for the New iPhone?</Title>
+		<Username>shawn87</Username>
+		<Datetime>11-19-2009 06:58 AM</Datetime>
+		<Content>Not impressed with the 1, 2, 3 gb data plans. After testing out the new Canadian Sirius app on my buddy's iphone, we calculated that it requires 2mb/min to operate. Is there an unlimited data plan that isnt advertised but possible to get?</Content>
+	</Post>
+</Thread>

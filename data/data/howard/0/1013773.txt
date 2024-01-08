@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Camera Roll says (30) Yet no pictures??</Title>
+		<Username>David Aames</Username>
+		<Datetime>09-28-2009 02:23 AM</Datetime>
+		<Content>This isn't a huge problem, but just something that bugs me. I deleted all pics from camera roll, only had 46, just stupid random shots. Now the camera roll shows 30 with no thumbnail preview, and when i go into camera roll it says no photo's/vids etc. I even did a restore and completely wiped the 3GS 32gb through itunes. Restored from last backup etc, everything great except for it still says i have 30 pics yet there is 0 in that folder. Even when i go into the iphone not using itunes (iphone camera/windows) there is nothing there, not even any hidden folders etc. Iphone is up to date with 3.1 and such, MMS also..that works pretty good i must say. PS i've tried taking more pictures, and deleting them, thinking this would refresh it-no luck. The 2-button reboot multiple times, nothing.</Content>
+	</Post>
+</Thread>

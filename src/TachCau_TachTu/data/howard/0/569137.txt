@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why do firmware versions differ for different regions on same phone</Title>
+		<Username>krayzie</Username>
+		<Datetime>09-24-2009 08:20 AM</Datetime>
+		<Content>Why is the firmware version number different for different regional flashes on the same phone? For example on my Luna the North American firmware is still at v3.52 while the European firmware has gone to v4.04 with improved phone menu responsiveness and battery life. I always thought Nokia will update all the different regions with the same firmware (aside from custom transceiver tuning and branding).</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PS59D6900 USB Device</Title>
+		<Username>nat695</Username>
+		<Datetime>14-12-2011, 7:55 PM</Datetime>
+		<Content>Hi, Can anyone recomend a flash drive for recording or pausing live TV on this TV, or even a Hard Drive? I've tried a 16GB Integral splash drive and it failed the performance test!! Thanks</Content>
+	</Post>
+</Thread>

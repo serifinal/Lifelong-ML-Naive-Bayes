@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Yamaha 663 or Onkyo 705 or Denon ?? or Pioneer??</Title>
+		<Username>Bkj69</Username>
+		<Datetime>05-31-08, 03:38 AM</Datetime>
+		<Content>Ive read as much posts as my eyes will allow and still cant come to a conclusion. I bought the onkyo 705 unused display model for $380 which i know is a great price. ive read back and forth the yamaha 663 is better sound quality wise and vice versa. im new to all of this and there is no store that has all the models to preview side by side. Ive heard of denon and everyone says there great too. I have a ps3, kef speakers and an olevia and I just want the best sound quality. i will only run hdmi and dont care for upconverting to 1080p as i will not be watching tv, only blu rays and gaming. I am willing to spend around 500 maybe 6. just want a very pleasing sound (dts-hd, etc) with music, movies and games, be it harmon kardon, marantz or anyother receiver. Need advice please.</Content>
+	</Post>
+</Thread>

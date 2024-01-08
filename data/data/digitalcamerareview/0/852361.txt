@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Setting Resolution on Xsi ??</Title>
+		<Username>johnnieq</Username>
+		<Datetime>10-07-2008, 11:48 PM</Datetime>
+		<Content>I recently bought a Canon Xsi. I have the quality set at its highest setting ( L 4272 x 2848 ) When I work with my photos in CS, I see the resolution is only 72 pixels per inch. My old Canon Powershot A95 pics were 180 pixels per inch. Our new Kodak takes pics at 480 pixels per inch. Is there another quality setting I am overlooking?</Content>
+	</Post>
+</Thread>

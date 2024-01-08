@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung a550 vs. Sony V3000</Title>
+		<Username>Jeep360</Username>
+		<Datetime>03-25-08, 05:30 PM</Datetime>
+		<Content>ok so i've used the search extensively before i posted this, and i don't have access to a B&M store at the moment to actually check out these sets side by side, but here goes... I'm looking for a 40" set around the $1500 mark to be used for mostly xbox 360 gaming and some 480p dvd watching. I'm pretty set on either the Sony or the Samsung, here's what i'm lookin for. Which of these sets has the most 3D pop/depth to it? I would like the glossiest screen possible and something that isn't going to blur/smear/pixelate/macroblock during fast movement. I'm also going to use it with my laptop and will be sitting CLOSE and want the sharpest possible set. Should i wait until the new Sony's come out in April or go with an ln40a550 or 40V3000 now?</Content>
+	</Post>
+</Thread>

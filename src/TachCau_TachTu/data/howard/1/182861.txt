@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Where to buy the micro sim card that is used by the iPhone?</Title>
+		<Username>maldini</Username>
+		<Datetime>08-03-2010 06:16 AM</Datetime>
+		<Content>Where to buy the micro sim card that is used by the new iPhone?</Content>
+	</Post>
+</Thread>

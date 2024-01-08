@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon eos 60d or 7d?</Title>
+		<Username>fnatic</Username>
+		<Datetime>12-10-2010, 10:23 PM</Datetime>
+		<Content>Canon eos 60d or Canon eos 7d? I want to shoot cool HD Movies, which is a better? THANKS.</Content>
+	</Post>
+</Thread>

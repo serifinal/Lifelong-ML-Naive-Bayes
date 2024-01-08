@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Micro sim card and the iphone</Title>
+		<Username>gjkiii</Username>
+		<Datetime>05-27-2010 06:48 PM</Datetime>
+		<Content>Since the next iphone is rumored to use a micro sim card will I be able to remove it and use it in any of the other At&T phones? Thank you</Content>
+	</Post>
+</Thread>

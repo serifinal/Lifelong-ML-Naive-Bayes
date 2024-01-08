@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PANASONIC VIERA TX-P50GT30B loud buzzing noise from new tv</Title>
+		<Username>carlg1979</Username>
+		<Datetime>28-11-2011, 10:23 PM</Datetime>
+		<Content>Hi all I have jus had my new Panasonic tv delivered and I have set it up,the picture is superb not quite what I expected but definately up the good side of the scale , however I have noticed a loud humming noise which I can only presume is the fan and then there is the static noise this is there constantly and gets worse when there is anything on the screen that is white or of a lighter shade. Now I know this is not the best of the Panasonic screen but it was 500 quid either so I need to know is this something that is normal or should I contact currys to come and collect it ? I have binned the box also does this effect the matter oh just one more thing my contrast is not set high it is at the thq standard setting.</Content>
+	</Post>
+</Thread>

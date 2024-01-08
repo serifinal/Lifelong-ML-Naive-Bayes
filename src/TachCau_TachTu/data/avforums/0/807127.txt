@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P50S10 - viewing issue?</Title>
+		<Username>m8internet</Username>
+		<Datetime>18-12-2011, 11:09 AM</Datetime>
+		<Content>I have noticed a slight issue when viewing my Panasonic TX-P50S10 This doesn't occur when watching any other television I wear glasses, due to being short sighted The room is darkened The seating position is central in the room, 12 feet from the TV, and level with the screen Occasionally I see horizontal bars across the screen Usually these are more easily seen where there is dark detail and a light background For example a ship with sky in the background When I turn my head to the wall, not viewing the screen, I continue to see these bars Any ideas?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,6 @@
+lg tv has ethernet port but no smartshare menu ? .
+hi guys , i just bought an lg pw450t , it has an ethernet port at the back but it does n't seem to do anything ... when i press the home key on the remote , there is a ` network ' menu , when i go into that , all i can do is configure the ip address/subnet and test that the connection to the internet is working -lrb- which it does -rrb- .
+i can not find any menu anywhere to access media stored on my computers .
+i can find the menu to access media from a usb device , but no where within that menu does it say anything about pc 's on the network .
+when i press the ` input ' button , i can select hdmi1 , usb etc but nothing about network , no buttons on the remote for smartshare either ... i can not understand why they would include an ethernet port on this tv if it has no function or why they would even let you configure it so you can connect to the internet and not be able to do anything .
+on lg 's website , it does n't say anything about the tv having an ethernet port , the port is n't even listed under ` rear inputs ' !?!? any help would be greatly appreciated .

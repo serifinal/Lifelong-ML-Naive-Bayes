@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What's the latest version of the PZ85B?</Title>
+		<Username>N16E</Username>
+		<Datetime>12-06-2011, 7:35 AM</Datetime>
+		<Content>Hi, I've had a TH42PZ85B and a TH46PZ85B for a few years now and I'm looking for another 42" TV, I'm really impressed with the picture quality of both sets mainly used for watching Sky/HD (football with IFS off!) and Blu Ray. Can someone help me out by telling me the latest models which are as good picture quality wise - perhaps they all are. I haven't read the details but there seems to be some concern of the Neo PDP screens...are they really that bad? Perhaps I should pick up a second hand PZ80/PZ85/PZ800?? I certainly think the the styling on the older models is better than the bland new versions. Thoughts welcome. N16E</Content>
+	</Post>
+</Thread>

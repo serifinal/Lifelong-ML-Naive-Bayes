@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Incremental zoom and overscan ON LCDs</Title>
+		<Username>Didimos</Username>
+		<Datetime>01-03-09, 08:55 PM</Datetime>
+		<Content>I am researching to buy a flat panel high definition display(probably LCD) and one of my requirements is to have an incremental zoom feature.Don't get me wrong.I am a strong advocate of OAR.I never intend to watch any movie or whatever video other than on it's original aspect ratio.But from what I understand incremental zoom might be important while watching non anamorphic 4:3 letter-boxed DVD(this means it gets window-boxed on wide-screen 16:9 displays) and Criterion's(video distribution co.) window-boxed 4:3 DvDs(few of their classic academy-ratio-film video releases are window-boxed to compensate for over scan). I am assuming there wont be over-scan[by default] on the panel I will be buying(this is my other requirement). So what I figured is If the TV set has incremental zoom feature: 1.In the case of the window-boxed 4:3 criterion dvds ,it would be possible to zoom the video without cropping any content. As another solution to the problem What about enabling over-scan on the display to a certain percentage,say 7%, to correct the window-boxed criterion DVDs ,do LCDs and plasmas have optional over-scan?If so is it possible to select the percentage?(for example from 0 to 10%). 2.In the case of non anamorphic DVD,it would be possible to remove the upper-bars and only the side-bars would remain(it would be only pillar-boxed instead of window-boxed after zooming incrementally).Note that no content would be lost or cropped. Please, tell me if there is such thing as an incremental zoom feature in flat-panel displays?</Content>
+	</Post>
+</Thread>

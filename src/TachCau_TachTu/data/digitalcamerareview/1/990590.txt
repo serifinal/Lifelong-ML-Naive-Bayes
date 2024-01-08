@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>I'm Looking For A Canon Powershot G9 Wrist Strap</Title>
+		<Username>kage</Username>
+		<Datetime>05-04-2008, 12:37 AM</Datetime>
+		<Content>I'm looking for an adjustable wrist strap with a loop at the end for my G9. Do you have any recommendations on good and comfortable wrist straps for under $15?</Content>
+	</Post>
+</Thread>

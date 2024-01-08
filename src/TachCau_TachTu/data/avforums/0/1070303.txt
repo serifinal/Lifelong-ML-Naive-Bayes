@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 50VT30B fan noise</Title>
+		<Username>beermat999</Username>
+		<Datetime>23-06-2011, 8:58 AM</Datetime>
+		<Content>Hi all, I wanted to get a feel for owners of the VT30B and whether or not they are noticing the sound of the fans at the rear of the set. My environment at home is very quiet with a lot of hard surfaces and I can clearly hear the sound of the fans when either the set is on mute or when the volume in a particular scene drops. At first this wasn't an issue but now that I have latched on to it I find myself listening out for it and it is becoming a nuisance. My questions to the group are: 1) Do you hear the fans? 2) Given that my set is only 10 days old it is possible to ask for an exchange? Thanks,</Content>
+	</Post>
+</Thread>

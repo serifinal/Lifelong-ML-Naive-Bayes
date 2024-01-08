@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon A85 v A590is battery life</Title>
+		<Username>boilermatt</Username>
+		<Datetime>01-28-2009, 10:40 PM</Datetime>
+		<Content>While I wait to buy a dslr I'm getting anxious and considering the A590is as an upgrade from my old A85. One key difference is the A85 takes 4 AA batteries and the A590is takes only 2 AA's. Should I assume then that the A590is will get 1/2 the battery life when compared to the A85? Maybe a trivial question but if you don't know, ask; right?</Content>
+	</Post>
+</Thread>

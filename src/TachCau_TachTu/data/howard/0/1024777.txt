@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Seriously!! The advantage and disadvantage of Page Plus v/s Straight Talk</Title>
+		<Username>zakee20</Username>
+		<Datetime>02-24-2010 04:46 PM</Datetime>
+		<Content>What are the true advantages that page plus have over Straight Talk? I seen alot of people in the area I live in leave page plus to go with Straight Talk. It got me wondering....I know the roaming issue. What else? People telling me that Straight Talk is just as good, besides the roaming issue. I also know you can bring some phones to Page Plus and none to Straight Talk. Im thinking of jumping over to ST also due to the unlimited web.</Content>
+	</Post>
+</Thread>

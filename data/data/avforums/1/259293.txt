@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Plasma refresh rates on PC</Title>
+		<Username>Nicholars</Username>
+		<Datetime>30-01-2012, 12:54 AM</Datetime>
+		<Content>I have searched but cannot find anything on this.... I am considering buying a plasma but I hate flickering.... If I run a plasma through my PC input (Samsung d550 or d6900) which is capable of 96hz/100hz playback, can I run it at these settings on my PC by selecting 24/50hz on the PC control panel? Will the TV upscale these settings (24/50hz in PC graphics card control panel) to 96/100hz? Or will I be stuck with 60hz for PC input? 96/100hz will be fine but I can't stand the flicker on 60hz... I guess these options wont be selectable from the PC control panel (96/100hz)... But will the TV upscale if you select a multiple of these numbers (24/50hz)? Please get back to me if you have tested this because I am close to buying one but this is putting me off!</Content>
+	</Post>
+</Thread>

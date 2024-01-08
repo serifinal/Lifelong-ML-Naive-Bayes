@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Powershot G9 vs S5 IS</Title>
+		<Username>aceriana</Username>
+		<Datetime>01-10-2008, 06:40 AM</Datetime>
+		<Content>Ladies and Gentlemen I am sort of a "neanderthal" of digital photography and would like to purchase a top of the line digital camera without venturing into the SLR world. I currently own a Minolta Dimage which is dawning away. My choice narrows down to the Canon Powershot G9 and the S5 IS. Both have qualities I like and others I dislike. I like the G9 but dislike the use of non AA type batteries. I like the S5 IS but it does not have RAW (not fundamental). Are they bulky cameras? With three kids I do not want SLR type material, I have enough to carry around as things stand. Any helps, tips, suggestions... are more than welcome. Thank you and regards Bert</Content>
+	</Post>
+</Thread>

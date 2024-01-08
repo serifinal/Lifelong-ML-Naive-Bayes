@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon 300D software needed</Title>
+		<Username>ashleygreen14</Username>
+		<Datetime>06-10-2010, 05:21 AM</Datetime>
+		<Content>I need to get some images off a 'new-to-me' CF card (got it from a friend) that is causing problems downloading with Adobe Bridge. I would like to download and install any other software that can do the job, hopefully better. I've got a Canon 300D that is still doing a great job. I've been using Adobe Bridge to retrieve images for about 4 years, but there's a problem since I used the CF card I was given by a friend. For some reason Bridge stops downloading, usually 75% of the way through a download job of around 150 RAW images. Computer HD has lots of space, and camera battery is fine. Where can I get hold of some other software - I know I got Canon's software when I bought the camera, but can't find the CD anywhere. Many thanks.</Content>
+	</Post>
+</Thread>

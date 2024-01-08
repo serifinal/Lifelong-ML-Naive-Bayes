@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My Panasonic TX-P55VT30 has almost half screen slightly darker, any clues?</Title>
+		<Username>Nikpink</Username>
+		<Datetime>30-01-2012, 4:26 PM</Datetime>
+		<Content>Hi everybody, I'm pretty new on this forum but I have a problem and I believe you're the only ones who could help me figure it out. 1 week ago I bought a Panasonic TX-P55VT30 and I'm actually doing the break in routine with the DVD ISO playing on my Cyclone MKV 2 via HDMI. Now during the break in process some solid colours are displayed and I've noticed that almost half of the screen (is not perfectly central as it starts over the P of the Panasonic logo) is slightly brighter on the left hand side with an almost invisible line that goes vertically from the top to the bottom of the screen dividing the tv in 2 parts (brighter and darker). Even though this is almost invisible I found it inacceptable in a screen of this quality. Now I have a 5 years warranty and I'm pretty sure that I didn't caused the problem burning the screen ( I never played anything with this weird half screen shape ). I've tried to call the Panasonic UK support all day today and It's always super busy so I'm thinking to go to my retail shop and talk with them about the problem. Do you know if this is a known issue? Could it be related to the Cyclone MKV 2 player giving an incorrect output? Any clues? Suggestions? This panel is so incredibly expensive and the only thought of having bought a faulty product is freaking me out. Many thanks in advance for your help guys! Nicola</Content>
+	</Post>
+</Thread>

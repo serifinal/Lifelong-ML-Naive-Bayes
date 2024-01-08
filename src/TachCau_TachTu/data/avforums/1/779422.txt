@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>42GT30 or 42VT30</Title>
+		<Username>Monk888</Username>
+		<Datetime>17-07-2011, 8:26 PM</Datetime>
+		<Content>Guys, In been a while, time for an upgrade!!! Tried a Sony 40HX803 and returned it due to clouding and backlight issues, then Samsung with other issues I don&#8217;t have time to scribe. Given up on LCD - so many clouding/backlight issues from all makes (yes I'm aware and it&#8217;s a lottery some good some awful; panel lottery), the Sony9x3 series seemed to solve BL/Clouding problems but £1800 for 40" no way! (But Sony 9x series the best LCD by far) I've been looking at the Panasonic 42" G30 series and I'm very impressed, to my eyes it beats even the Sony 9x3 series at a lower price. We visited quite a few shops yesterday including John Lewis (who don&#8217;t sell the 42VT30, and seem very obtuse on price matching these days), but one thing in common all shops recommending the 42VT30 over the 42GT30 (for example Panasonic local shop and S&V) - the 50Hz bug can be eliminated on the VT series and the blacks are deeper (demo tracking a golf ball in the air, they showed how the VT30 can fix this issues) The wife is sold on the Panasonic plasma for 3D, I&#8217;m happy on 2D. I'm sure this has been covered but please bear with me, is the VT30 really worth the extra at 42" size, price wise its £200 extra (Panasonic shop was very aggressive on pricing for the VT30 and until the end of July offering a 6 year warranty); purely on picture quality? Viewing : - Liverpool football games (wife) - Golf & Sailing (me) - Blueray (Both of us), we have a Denon 3800BD so very high end. - TV (mostly HD on v+ box) - SD Soaps (wife!) - SKY Sports on Virgin v+ HD box (Kids) Cheers Mr Monk</Content>
+	</Post>
+</Thread>

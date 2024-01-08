@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panny Problems...</Title>
+		<Username>buckaroo</Username>
+		<Datetime>12-02-2012, 12:37 AM</Datetime>
+		<Content>Hi everyone, I'm having trouble with my 4 year old Panasonic PX37 TV. About 5 minutes after I switch it on, the picture flashes then goes dark If I wait about 5 mins then switch it on again the same thing happens. I haven't contacted anyone yet - I will try the shop tomorrow (But, I reckon they'll wash their hands.). Has anyone here had any luck with the Warranty which Panasonic gave away with these sets? If so, did you have to pay much towards repairs, and was it even worth it?.</Content>
+	</Post>
+</Thread>

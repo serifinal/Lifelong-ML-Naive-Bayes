@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Im due for an upgrade on a line without an Iphone...</Title>
+		<Username>hart1583</Username>
+		<Datetime>10-13-2009 03:30 PM</Datetime>
+		<Content>If I buy the iphone, can I turn around and sell it on ebay right away or do I have to wait 30 days?</Content>
+	</Post>
+</Thread>

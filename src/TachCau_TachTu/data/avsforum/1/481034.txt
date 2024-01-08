@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Mits 60735 vs Sam 61a750</Title>
+		<Username>dtorz21</Username>
+		<Datetime>12-12-08, 12:32 PM</Datetime>
+		<Content>Looking for opinions on these two sets. I have been very focused on the Samsung 61a750 for about a month now, waiting for a decent price point. I have seen the Mits advertised for about $500 less than the samsung and I am starting to wonder if there is $500 difference in quality. I know the Samsung LEd does not need bulbs, but at $99 each it will take at least 10 years to recover the price difference. I don't care at all about power consumption or "greenness", I only care about PQ and reliability. Bottom line, is the samsung worth the extra $500?</Content>
+	</Post>
+</Thread>

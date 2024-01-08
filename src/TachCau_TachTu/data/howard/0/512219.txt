@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official New Sprint 3G sitings thread</Title>
+		<Username>digiblur</Username>
+		<Datetime>04-01-2010 02:57 PM</Datetime>
+		<Content>It was mentioned in another thread that there should be a Louisiana 3G thread. I wouldn't want a thread just for one state. You can't leave out several other states that have huge 3G holes where the other carriers have 3G. I don't want to turn this into a Sprint bashing thread have it closed. Everyone in 1X areas is upset that Carrier XYZ has 3G...and everyone knows that. So let's not turn this into, well just switch carriers, sprint sucks, etc type thread. I know there have been a couple of new 3G sitings in Alabama somewhere, just don't remember. So if you are one of the lucky ones to be stuck in a 1X area or one of the few areas where Alltel provides the 3G when on Native Sprint service (like my area) feel free to chime in. So I'll chime in... Nothing new to report on filing the gaps on the I-10 corridor. Lake Charles, LA, Lafayette, LA, and Hammond, LA are still 1X. Baton Rouge has Alltel providing 3G, no native Sprint 1X yet.</Content>
+	</Post>
+</Thread>

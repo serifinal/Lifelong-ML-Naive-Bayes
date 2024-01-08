@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>AVForums Plasma screen videos/reviews (Updated 11/07/11)</Title>
+		<Username>Phil Hinton</Username>
+		<Datetime>16-06-2008, 11:18 AM</Datetime>
+		<Content>Reviews of Plasma Screens on AVForums.com/reviews Panasonic VT30 (TX-P42VT30) Plasma TV Review Panasonic VT30 (TX-P65VT30) Plasma TV Review Samsung PS51D8000 Plasma TV Review Panasonic VT30 (TX-P50VT30) Plasma TV Review Panasonic G30 (TX-P42G30) Plasma TV Review Panasonic ST30 (TX-P46ST30B) 46 Inch 3D Plasma TV Review Panasonic TX-P50GT30B 3D Plasma TV Review LG PK790 (50PK790) Plasma TV Review Panasonic TX-P42C3B Plasma TV Review Panasonic VX200 (TH-85VX200E) 85 Inch 3D TV Review Samsung C7000 (PS50C7000) Review LG 50PX990 THX 3D Plasma Review LG 50PK350 Plasma Review Panasonic TX-P42GT20B Review LG 15 inch OLED TV (15EL9500) Review Panasonic TX-P65VT20B review Panasonic TX-P50V20B Plasma HDTV Review Panasonic TH-42PF20 Plasma Monitor Review Panasonic TX-P50VT20 3D Plasma TV Review Samsung PS50C450 Review LG 50PK990 Plasma HDTV Review Panasonic TX-P42G20 Plasma HDTV Review Panasonic TX-P65V10 Plasma HDTV Review Samsung PS50B650 Plasma HDTV Review LG 42PQ6000 Plasma HDTV Review Panasonic TX-P54Z1 High-end Plasma HDTV Review Samsung PS50B560 Plasma HDTV Review Panasonic TX-P46G15 Plasma HDTV Review LG 50PS7000 Plasma Panasonic TX-P42X10 Plasma Panasonic TX-P50V10 THX Certified Plasma LG 50PS8000 THX Certified Plasma Panasonic TH-50VX100 Plasma Panasonic TX-P42G10 Plasma Panasonic TH-65VX100 Plasma Panasonic TH-42PZ81 Plasma Panasonic TH-46PZ80 Plasma Pioneer KRP-500A Plasma Pioneer PDP-508XD Plasma LG 42PG6000 Budget Plasma LG 50PG7000 Flagship Plasma</Content>
+	</Post>
+</Thread>

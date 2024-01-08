@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official AT&T Samsung Captivate (Galaxy S) Pre-Release Thread</Title>
+		<Username>killerdraft</Username>
+		<Datetime>06-17-2010 11:24 AM</Datetime>
+		<Content>http://www.att.com/shop/wireless/dev...-captivate.jsp Knowing att and android devices past .... i dont know ...</Content>
+	</Post>
+</Thread>

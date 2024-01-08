@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Having problems copying video file from Canon IXUS to hard drive</Title>
+		<Username>Jericho-79</Username>
+		<Datetime>08-07-2011, 03:23 PM</Datetime>
+		<Content>Hey everyone. I'm new here. I own a Canon IXUS 130. Last week, using this camera, I took an 8-minute video of U2 performing "City Of Blinding Lights" and "Vertigo" at their final concert in Canada. Right now, I'm having a difficult time transferring this video file from my Canon IXUS to the hard drive on my Dell Inspiron 1525 laptop. Scanner and Camera Wizard would give me two error messages: "The current picture could not be copied" "Not enough storage is available to complete this operation" I've already removed unnecessary programs and deleted massive amounts of music/movie/Word files from my computer. Yet, I keep getting the same error messages from Scanner and Camera Wizard over and over again. Usually, I'd never have problems transferring pictures and videos from my Canon IXUS to my computer. This one 8-minute video is the first that I've had troubles copying. What could be going wrong? What else could I do to successfully transfer this one video from my camera to my computer?</Content>
+	</Post>
+</Thread>

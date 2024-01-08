@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 50PZ550T has turned itself off twice!</Title>
+		<Username>jocarl11</Username>
+		<Datetime>10-01-2012, 6:15 PM</Datetime>
+		<Content>Hi, Just bought my LG 50PZ550T 50" plasma 4 days ago and it's been perfect untill today when it switched itself off this morning and then did the same again this afternoon! As soon as it turned itself off I switched it back on by the remote and all was fine?? But to do this twice in 1 day when it's just 4 days old is a bit odd isn't it? Thanks.</Content>
+	</Post>
+</Thread>

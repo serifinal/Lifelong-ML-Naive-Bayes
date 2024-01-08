@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What happened to the green tinge fix thread</Title>
+		<Username>EvilEdna</Username>
+		<Datetime>26-01-2012, 1:41 PM</Datetime>
+		<Content>What happened to the thread was it deleted?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG PG20 vs. Panasonic PZ85</Title>
+		<Username>scorpio_87</Username>
+		<Datetime>05-03-08, 08:42 PM</Datetime>
+		<Content>Discuss. I can get them for roughly the same price. I'm most interested in deep black levels, sound, and clean SD processing.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer Replace Faulty POWER SUPPLYS</Title>
+		<Username>dafinity</Username>
+		<Datetime>27-03-2006, 2:01 PM</Datetime>
+		<Content>Just been investigating and found many links that mention that Pioneer are aware of faulty power supply units in some of their plasma's. I found lots of U.S sites, so thought I would ring Pioneer UK. Within 20 minutes I had received a call from Authorised repairers near me who will visit and swap out unit, free of charge. See here: Uk Number: Customer Relations: Phone: 01753 789500 U.S sites with info: http://www.pioneerelectronics.com/pn...495789,00.html http://news.com.com/Pioneer+replaces...3-5462879.html http://www.rtoonline.com/Content/Art...lies112204.asp</Content>
+	</Post>
+</Thread>

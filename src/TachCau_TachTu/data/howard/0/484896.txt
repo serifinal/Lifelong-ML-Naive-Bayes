@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell's APN's</Title>
+		<Username>mau108</Username>
+		<Datetime>05-19-2010 01:51 PM</Datetime>
+		<Content>So my 9700 was set to pda.bell.ca, ran a few speed tests and ranged from 2600-4600kbs tried pda2.bell.ca as i saw that on a recent post here and my speeds are 6400-8300kbs. Is this pda2.bell.ca a test apn or is it being used by the public? Thanks</Content>
+	</Post>
+</Thread>

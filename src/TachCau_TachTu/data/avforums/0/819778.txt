@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pdp 436 no display</Title>
+		<Username>abbsy3</Username>
+		<Datetime>29-06-2011, 2:49 PM</Datetime>
+		<Content>Hi, I have a Pioneer PDP 436 display. When disconnected from the Media Reciever I would expect a red and blue flashing square on the screen but I get nothing but the red and blue led's flashing near the switch. I am recieving the new Media Reciever later, but wanted to start looking at the faults now. I did buy this as faulty just so you know. Any guidance would be appreciated.</Content>
+	</Post>
+</Thread>

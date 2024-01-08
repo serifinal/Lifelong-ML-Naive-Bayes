@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Group SMS sending as Group MMS in 3.0 on 3GS</Title>
+		<Username>ChocoDough</Username>
+		<Datetime>06-24-2009 10:11 PM</Datetime>
+		<Content>I just noticed what I think is a bug in 3.0 on the 3GS. I have MMS enabled on my phone which works just great. But I just noticed that now when I send a group SMS it sends it as a group MMS. That really puts a hamper on other iPhone people I send in that group SMS who don't have MMS installed. Is there a setting I am missing, or did I find a bug?</Content>
+	</Post>
+</Thread>

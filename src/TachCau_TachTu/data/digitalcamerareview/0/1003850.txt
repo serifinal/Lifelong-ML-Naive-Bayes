@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SX100 IS My Colors Mode - Where is Color Accent?</Title>
+		<Username>stuman74</Username>
+		<Datetime>12-04-2007, 12:48 AM</Datetime>
+		<Content>If someone can point me to where this is in the camera, I would be most grateful. I can't find it for the life of me. The Canon website says the SX100 IS has this as part of My Colors mode, but I don't see it anywhere. I bought this camera with the expectation that I could take a photo and turn it all black and white except for one portion with this feature. Here's the link from the Canon website. http://www.usa.canon.com/consumer/co...15672&id=14327</Content>
+	</Post>
+</Thread>

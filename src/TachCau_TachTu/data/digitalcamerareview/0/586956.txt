@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A570IS loose Cap</Title>
+		<Username>darunium</Username>
+		<Datetime>03-21-2008, 02:41 PM</Datetime>
+		<Content>Hi all! Just got the A570 IS, ordered it from amazon. On the front around the lens there is a plastic donut type thing attached to the body (theres a little button in front you can click to rotate it and take it off, exposing the sides of the lense). This thing is kind of loose on mine. I wanted to check to see if this is true of all A570IS's, or if this is just the case with mine (in which case I should probably return it). What I mean by loose is... it's loose, when you tap it it moves. I'm not sure what function the thing servs, or why it deserves a button to take it off, but its looseness is rather disturbing as it rattles whenever I pick the camera up. Thanks in advance Darunium</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>A590 IS vs. SD750</Title>
+		<Username>Novel</Username>
+		<Datetime>04-06-2008, 11:52 AM</Datetime>
+		<Content>http://www.bestbuy.ca/catalog/prodde...74&catid=20220 + AA batteries + 4x zoom + 8 MP + cheaper + Image stabilization http://www.bestbuy.ca/catalog/prodde...12&catid=22474 + 3" lcd screen + faster in shooting pics + better movie mode + ultra-compact I know it's weird to compare, especially since SD750 is an ultracompact. But I'm torn between these two. This is gonna be mainly for family events and stuff. I think the dealbreaker will be which one takes better pictures. I can't find any comparison on the net, so tips?</Content>
+	</Post>
+</Thread>

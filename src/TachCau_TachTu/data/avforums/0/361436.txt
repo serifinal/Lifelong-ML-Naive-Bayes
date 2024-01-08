@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Blue/Purple Lines</Title>
+		<Username>SBM Wizard</Username>
+		<Datetime>07-02-2012, 3:03 PM</Datetime>
+		<Content>I have a 58" Samsung Plasma TV and recently i have noticed that on light colored screens (full white shows the effect worse than any others), there are blue/purple horizontal lines on the screen they don't cover the whole screen and don't follow any discernible pattern, i have no idea what could be causing this, also when in the menu screens for the TV the problem disappears, adjusting certain settings can lessen the effect but not completely has anyone got any ideas. Thanks in advance for any help.</Content>
+	</Post>
+</Thread>

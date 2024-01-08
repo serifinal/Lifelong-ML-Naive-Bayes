@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>a620</Title>
+		<Username>bTaryag</Username>
+		<Datetime>08-17-2006, 06:40 PM</Datetime>
+		<Content>I am having a hard time finding the a620 from a reputable retailer and I was told that it has been discontinued. Newegg and Buy.com both list it as on back order. Is there a good reason Canon stopped making it, especially since the A700 is not a perfect replacement (i.e. no articulating LCD)?</Content>
+	</Post>
+</Thread>

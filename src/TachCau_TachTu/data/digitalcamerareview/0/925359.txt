@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>No IXUS?</Title>
+		<Username>croaken</Username>
+		<Datetime>04-17-2007, 01:10 PM</Datetime>
+		<Content>Im a little bit confused cause here in sweden there is a camera called "Canon IXUS 70" witch i am interested in. But when i went to this site to read about it, there wasnt any IXUS 70.. Later i clicked on a random camera on this site and came to a camera witch look very similar to the IXUS 70. It was called Canon Powershot SD1000. My question is, is it the same camera? Why havnt you got an IXUS here on this site?</Content>
+	</Post>
+</Thread>

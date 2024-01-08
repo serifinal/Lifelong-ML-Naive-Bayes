@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anyone have The New Consumer Report Review On Plasmas?</Title>
+		<Username>Bill1313</Username>
+		<Datetime>11-05-08, 06:52 PM</Datetime>
+		<Content>Was just wondering what their rankings were because I heard that one of the Pioneer's rated number 1. I never really go by what their ratings are just curious. Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Swap to iphone questions.........</Title>
+		<Username>Tony2</Username>
+		<Datetime>12-11-2009 03:11 PM</Datetime>
+		<Content>Hello All, I have a couple of questions which I am sure are pretty easy to answer but to be honest I am pretty green on the iphone. I am considering swapping from my blackberry to a iphone not wanting to change my plan at all in case I don't like it and want to go back to my blackberry and have a couple of questions....... 1) Currently I do not use blackberry?s push email service as I get hammered with spam! I have the BIS set up but to not forward emails (This is so the service books were still sent to device and I can email out) what I have done is forwarded my emails to GMAIL so I can take advantage of their spam filters, then have GMAIL set to forward to my XXXX@rogers.blackberry.net email. That being said since it is set up this way after I insert SIM card in would the iphone receive the emails the same way? Or would it require some setting changes? 2) On SMS and MMS are there any other settings that need to be adjusted to send receive them once going to the iphone and SIM is inserted? I don?t really care if I have an unlocked phone or one still branded to Rogers, would the one branded to Rogers make it easier so I wouldn?t have to adjust any further settings? Or would both be the same and good to go right out of the box?? Thanks, Tony2</Content>
+	</Post>
+</Thread>

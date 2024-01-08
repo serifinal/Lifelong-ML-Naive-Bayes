@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>cable management</Title>
+		<Username>mumulee</Username>
+		<Datetime>11-26-08, 08:19 AM</Datetime>
+		<Content>i had to shift my home theater a/v system out, so the maintanence could get to to the central air system. i decided to clean up all the wires behind my A/V stand. here is the before and after. took me 1.5hours to clean up the wires.</Content>
+	</Post>
+</Thread>

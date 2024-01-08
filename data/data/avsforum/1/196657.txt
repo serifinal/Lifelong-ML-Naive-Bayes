@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung LN32A450 or LG 32LG40</Title>
+		<Username>kevin.kimm</Username>
+		<Datetime>12-30-08, 02:56 PM</Datetime>
+		<Content>I am trying to decide between both of these two 32in 720p LCD's. They both seem comparable to each other (except for the fact that the LG comes with a built in DVD player). Any suggestions or advice to push me one way or the other would be appreciated. The reviews on both TV's are excellent so I am trying to find that little extra... to help me decide. Thanks for the help!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Calling for a Comparison review between the Sony 550 and the Panasonic 55</Title>
+		<Username>nate358</Username>
+		<Datetime>10-11-08, 03:42 PM</Datetime>
+		<Content>I believe we need a professional head-to-head review of the street released Sony BDP-S550 and the already professionally reviewed Panasonic DMP-BD 55. These two players have the same MSRP $399, 7.1 analog outs, are supposed to Decode all audio Codec, and are 2.0 players. We need to know: Build Quality Power Up times Disk Load times Quality of DACs for analog outs Blu-ray playback quality Color quality Std DVD Playback quality USB functions (Sony) vs. SD functions (Panasonic) Add others you think should be covered in the H-2-H! There are plenty of great reviews of the Panasonic, but how does the Sony stack up against it?</Content>
+	</Post>
+</Thread>

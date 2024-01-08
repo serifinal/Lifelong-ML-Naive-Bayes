@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Intel G35 chipset overscans on 720p & 1080i with LG 42PX5D 42" Plasma TV</Title>
+		<Username>andyking</Username>
+		<Datetime>10-11-08, 04:37 AM</Datetime>
+		<Content>Dear readers, I purchased a Asus P5E-WV HDMI motherboard with the Intel G35 chipset and have connected it to a LG 42PX5D 42" Plasma TV. However, when setting it to the 720p and 1080i resolutions it overscans. I can find no config options to change this. I have skyhd and a dvd upscaler which both work fine at 720p and 1080i so i can only believe that it is the Intel g35 chipset drivers. In a previous thread (http://www.avsforum.com/avs-vb/showthread.php?t=1024233), archibal and woozy helped me to add the resolutions 1366x768 & 1360x768 using dtd calc and some modelines they found. However, I have noticed that my tv works best with 720p and 1080i so now want to solve the problem of the overscan. Any advice on how to correct this overscan would be greatly appreciated. Thanks for your help.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant - T-Mobile *AND* ATT 3g-capable!</Title>
+		<Username>reuthermonkey</Username>
+		<Datetime>07-27-2010 12:12 PM</Datetime>
+		<Content>According to a thread over at XDA-Developers, the Samsung Vibrant for T-Mobile supports 1900mhz UMTS/3g. This would be the first phone sold by T-Mobile that supports ATT 3g as well as on its own AWS band. I didn't believe it when it was first posted, but it seems to hold up to scrutiny, as the user posted a screenshot of a speed test result which includes an ATT (Cingular) IP address for the device, as well as 3g speeds and ATT's trademark high 3g latency. further proof: http://www.vimeo.com/13641477 So, now the question is: If the Vibrant and Captivate are practically identical hard-ware wise, is it possible that the Captivate is using the same radio, and itself supports T-Mobile 3g on the AWS(1700) band?</Content>
+	</Post>
+</Thread>

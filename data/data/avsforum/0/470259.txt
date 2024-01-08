@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Downgrade HD-A30 from firmware 4.0 to 1.3/2.0?</Title>
+		<Username>santora</Username>
+		<Datetime>10-31-08, 10:50 PM</Datetime>
+		<Content>I just updated my A30 to 4.0 and now it won't play any HD DVDs. It starts to stutter and then freezes up. Looking to roll it back to either 1.3 or 2.0. Is there a modified firmware out there for that? And if not, how do I edit the firmware for the A30 (using a hex editor) to roll back the firmware? What settings need to be changed? Thanks Mark Santora</Content>
+	</Post>
+</Thread>

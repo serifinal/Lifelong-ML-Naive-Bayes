@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Design by Rives....dollars by The Bogg</Title>
+		<Username>The Bogg</Username>
+		<Datetime>05-01-08, 01:48 PM</Datetime>
+		<Content>Well it's finally time to start the build thread (now that it's finished!). Rives level 3 room, optimized for 2 channel, with 6.x theatre setup. Equipment list: 2 channel: ATC Anniversary 100 Active in rosewood. Pair 29 out of 30. ATC SCA2 preamp with phono board Esoteric P70/D70 cd transport and dac Accuphase DG-28 digital eq Alesis Masterlink ML-9600 cd burner All kinds of cables - Transparent, DH Labs, PS Audio.... Music Hall MMF-9.1 turntable with Soundsmith Voice acrylic phono cartridge Sony DVPs9000es dvd player used as a 2 channel sacd player HT: Anthem D2 processor Oppo BDP-83 bluray player Sony PS3 Sony VPL-VW60 "Black Pearl" projector Prismasonic Fe-1500r anamorphic lens Screen Research 100 inch wide motorized 2:35 AT screen with black backing ATC C6 active centre channel ATC 50 active rears older ATC C6 as centre rear JL Audio Fathom F113 subs - 4 of them Equitech 7.5Q provides 4-20amp circuits for all equipment Cables by a bunch of different manufacturers including Blue Jeans Cable I'll post the latest pics I have at the beginning and update as I go along... View of the front of the room: A look at the rear of the room:</Content>
+	</Post>
+</Thread>

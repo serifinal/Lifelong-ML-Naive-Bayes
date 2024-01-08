@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Card size</Title>
+		<Username>kjb</Username>
+		<Datetime>07-23-2006, 09:33 PM</Datetime>
+		<Content>Enjoy shooting with digital, knowing pictures come out verses film, but don't know much about the technical stuff behind the camera. Does a larger card (1gig or 2 gig) make a camera faster? Would that help my current camera, a Nikon Coolpix 4300 which currently I miss my daughters sports (volleyball and soccer) action shots because it is sooooooo slow. I only use a 128 mb card in it. If so, does it make it faster taking pictures (with shutter lag) or just time between shots, going into sleep mode, etc. I do notice that the more pictures I have on the card the slower it gets. THANKS!!!!!</Content>
+	</Post>
+</Thread>

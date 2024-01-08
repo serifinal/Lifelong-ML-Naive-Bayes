@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>corpfan1</Username>
+		<Datetime>06-15-08, 01:11 PM</Datetime>
+		<Content>Can't wait to hear the reviews... I will be buying one or the other - I am pretty sure of that... But, honestly, I hear one buyer saying that he would have NOT BOUGHT a Non-Elite had he known about the lack of Service Menu and some of the other calibration features...so... The question is... Which one are you buying and why?</Content>
+	</Post>
+</Thread>

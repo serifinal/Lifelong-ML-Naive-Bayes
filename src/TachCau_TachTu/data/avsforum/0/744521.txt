@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>toltec</Username>
+		<Datetime>04-08-08, 08:46 PM</Datetime>
+		<Content>I'm in the process of finishing my basement and setting up a home theater in the future rec room. The room is 23x14 with a 9 foot ceiling. I plan on running a front projector on one of the 14 foot walls with a 120 - 144 inch screen with seating set back the full 23 foot length of the room. I'm not an audiophile - most of this is new to me. The more I read the more indecisive I get. I thought I had settled on the Onkyo sr800 but the HDMI not processing the audio seems to be a big deal to a lot of people. I'm so new that I don't know if this will annoy me or not. I'd like the collective advice from this forum on finding or building a system for under $800 that is expandable and that I won't regret buying from the start. Thoughts on the Onkyo HT-SP908 or 907? The system can be either 5.1 or 7.1. I plan on using the system for watching DVD's and playing Wii. I want to make sure whatever system I get is powerful enough for the room size. Thanks in advance for your help.</Content>
+	</Post>
+</Thread>

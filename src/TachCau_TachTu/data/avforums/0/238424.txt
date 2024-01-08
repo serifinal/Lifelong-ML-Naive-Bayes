@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung ps50c580 plasma -needing help with settings</Title>
+		<Username>123weekender</Username>
+		<Datetime>17-07-2011, 10:22 AM</Datetime>
+		<Content>purchased a samsung ps50c580 but i need help with the settings.Has anybody got one of these and could they advise me on the best settings for the tv.</Content>
+	</Post>
+</Thread>

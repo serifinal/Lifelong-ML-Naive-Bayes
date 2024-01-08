@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>"The Bachelor Pad"...HT Build</Title>
+		<Username>Chuck1906</Username>
+		<Datetime>06-25-08, 09:31 PM</Datetime>
+		<Content>I was trying to come up with a clever name for my Thread and thought since I am single and live alone, I may as well just call it the Bachelor Pad for the sake of this thread anyway. My room will double as a HT and a Screening room to view Music Videos and other project I produce and shoot. Now I am turning an already existing room into a dedicated theater so its not going to be as elaborate as many of your great theater rooms I see on here. I should have started this thread a while back but oh well. I will post some pics and info to catch everyone up. First 3 pics are BEFORE anything was done in the room. The stand used to hold the 42" Flat screen. Hired an electrician to come out and install 4 sconces, whole house surge protector and run my Panamax Power Pro outlets and run romex in between both outlets Below you can see the Panamax outlet for the projector. I have built a shelf on the back wall because I have small "I" beams in the ceiling that wasn't big enough to attach a mount to. I do have the Chief RPA-Universal though. The other plate on the wall is a single gang cable outlet where I will run my cables from the PJ through the wall. I covered the sconces so I could do the patchwork to the 12 holes the electrician put in my walls and ceiling. Yesterday I painted the ceiling a Bluish Gray color called "Skipper" from Behr. Flat of course and 2 coats. Oh yea the whole room was primed white before any painted began. That is where I am as of today. I plan to paint the screen wall tomorrow followed by the other 3 walls this weekend.</Content>
+	</Post>
+</Thread>

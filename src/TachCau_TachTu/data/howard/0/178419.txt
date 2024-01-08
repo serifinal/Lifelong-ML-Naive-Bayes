@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Wave or Samsung Galaxy?</Title>
+		<Username>ucpollux</Username>
+		<Datetime>07-10-2010 02:07 PM</Datetime>
+		<Content>Anyone knows if Telus is going to carry Samsung Wave or Samsung Galaxy anytime soon?</Content>
+	</Post>
+</Thread>

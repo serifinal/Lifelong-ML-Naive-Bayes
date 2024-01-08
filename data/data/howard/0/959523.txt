@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Kies won't recognize Samsung vibrant :(</Title>
+		<Username>belayson</Username>
+		<Datetime>08-17-2010 11:42 PM</Datetime>
+		<Content>Bought the Samsung Vibrant from bell about a week ago and I didn't really bother with samsung kies and always just used the mass storage mode. But now that I heard there's a new firmware update that fixes the gps and increases the battery a bit I need to use samsung kies to update. Crappy thing is everytime I try to use it Kies will just get stuck on "connecting the device... please wait". Does anyone have a solution for that?</Content>
+	</Post>
+</Thread>

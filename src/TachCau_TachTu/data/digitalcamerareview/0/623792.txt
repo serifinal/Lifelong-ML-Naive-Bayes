@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with focusing</Title>
+		<Username>HGarber</Username>
+		<Datetime>05-04-2009, 05:58 PM</Datetime>
+		<Content>I'm enjoying my new SX110 but I'm having a hard time getting crisp clear focusing in two situations. 1. Up-close objects. Sometimes they come out clear but often they are blurry. I've tried the Auto as well as Portrait and a couple other settings both with and w/o flash but i havent been able to figure the most optimal way to use the camera for taking pictures of close objects. 2. Pictures of my baby who is never quite perfectly still. I tried the "kids and pets" setting but that doesnt seem to do the trick. Any guidance would be greatly appreciated!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Blackberry International Unlimited E-Mail plan</Title>
+		<Username>DWC1</Username>
+		<Datetime>07-28-2009 04:11 PM</Datetime>
+		<Content>Now I know this topic has been discussed to death with some people claiming they get charged for non email use overseas while others like myself have had quite the opposite experience. There is new thread over at Crackberry that suggest that this loophole for people like me has been recently closed and that I will now start getting data charges after 3-4 years without them on my regular travels. Crackberry Forum Link I will not travel abroad until late August to find out for myself so I thought I would ask the HoFo experts What alarms me is that up until now my on my invoice data use has always showed as "RIM Blackberr" for ALL data used. I now seem to have entries on my last invoice that also show "Internet Acce" which I have never seen before in my 4 years with T-Mobile. Also around the same time I replaced my 8700 with a New Bold Blackberry so I'm not sure if this is a coincidence or part of a new way of reporting data use so that they can start charging me for the overseas roaming.</Content>
+	</Post>
+</Thread>

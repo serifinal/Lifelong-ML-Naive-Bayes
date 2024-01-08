@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>outlook sync and google sync??</Title>
+		<Username>Geronemo</Username>
+		<Datetime>06-14-2010 01:49 PM</Datetime>
+		<Content>Hi, i recently came across google sync, google sync is over the air and outlook is via USB, so is it possible to have both google sync and outlook working on same ppc. at the sametime. please let me know. thanks.</Content>
+	</Post>
+</Thread>

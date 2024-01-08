@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Renewing line, adding line, and upgrading plan..any way to get better deal on phone?</Title>
+		<Username>thisisbrianly</Username>
+		<Datetime>09-30-2009 09:13 AM</Datetime>
+		<Content>Hey guys, I currently have a basic family share plan with 700 minutes, 2 lines - basic text plans, but really no frills. The primary line was just renewed last week, and I will be renewing the secondary line, adding a third line, and upgrading to a 1400 minute plan in the next few weeks. I've been a VZW customer for 4 years, no late charges, etc. My question is do CSRs have any power to offer a better price than what the standard online price is on new equipment with a 2-year activation? Anyone had any luck in talking with the Verizon folks? Any info would be helpful, thanks guys!</Content>
+	</Post>
+</Thread>

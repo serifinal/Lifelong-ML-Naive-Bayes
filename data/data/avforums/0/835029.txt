@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42GT30 in bright room</Title>
+		<Username>hubiedubie</Username>
+		<Datetime>21-12-2011, 12:31 AM</Datetime>
+		<Content>My tv viewing / family room is has a skylight and big glass doors (without blinds) at the end of it. We do most of our watching at night time. However in the summer it doesn't get dark here until late. How is this screen in light conditions?</Content>
+	</Post>
+</Thread>

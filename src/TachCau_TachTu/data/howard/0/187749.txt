@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Wireless modem and My Account</Title>
+		<Username>cmandd</Username>
+		<Datetime>10-26-2009 09:42 AM</Datetime>
+		<Content>Hello all, is there any way to add the wireless modem service to the "My Account" page online? It asks for a pin sent via text that the modem can't receive. CS rep said it can't be done, I'm just wondering if there is a way that she may not have known of. Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>my panasonic tx p42vt30b turned up today</Title>
+		<Username>archer1204</Username>
+		<Datetime>19-12-2011, 3:21 PM</Datetime>
+		<Content>so just got my new panasonic tx p42vt30b today what settings etc you suggest i try so far no green tints or dead pixels so far etc.I mainly use it for watching blu rays and a bit of gaming.</Content>
+	</Post>
+</Thread>

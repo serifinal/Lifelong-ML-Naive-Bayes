@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Green Tinge Fault:Gathering numbers effected.</Title>
+		<Username>Scooby2000</Username>
+		<Datetime>17-01-2012, 3:38 PM</Datetime>
+		<Content>This thread is to gather numbers, no chat please. Just post your model and size(i.e. 46" GT30) if you have at this moment in time got the green tint/splodge whatever you want to call it. If you had a model with this issue and no longer have the set, can you also please post that you no longer have the set. I will add a link to this thread here: Green Tinge Fault - Panasonic (VT30, GT30 and ST30) *Part 2* The green tinge fault thread above is where you need to post opinions and experiances. Thank You. If you wish to post a picture of your screen showing the issue feel free to add this to your post if you wish. A link will be provided to some grey slides that show the issue more clearly in photos. If you have the time can you please use the slides and post a single picture showing the issue on your set. UPDATE..... If you have a set with this issue please contact your retailer and then Panasonic on this number 0844 844 3899 and ask to speak to Dominic. Please also add:Your sets serial number found on the back of the set. leave this blank if you wish or just add the first two numbers. If you have informed Panasonic of your issue. How long it was before you noticed the issue on your set.</Content>
+	</Post>
+</Thread>

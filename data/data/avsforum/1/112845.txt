@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Need Help Choosing Sam LN46A650 or Sony KDL-46XBR6</Title>
+		<Username>brad1279</Username>
+		<Datetime>11-17-08, 02:51 PM</Datetime>
+		<Content>i need help choosing between the two, what has the best PQ and best 120hz and motion, the only thing i think is holding me back from the samsung is the ability to auto crop the black bars when view some 4:3 content, b/c some hd contect is not on 16:9 and the philips lcd does have automatic options that will auto crop the black bars both side and top/bottom, i do not show that option with the samsung i do show with the sony versions looking through thier manuals, but the sony is about 300-500 more would it be worth going to the sony, thank you.</Content>
+	</Post>
+</Thread>

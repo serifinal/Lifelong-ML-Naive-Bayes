@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nokia 5800 Music VS 5800 Nav ? Cameras</Title>
+		<Username>Phone Crazy</Username>
+		<Datetime>01-04-2010 11:53 PM</Datetime>
+		<Content>Are the builds of these 2 phones different? My brother got the Nav edition from Amazon 2 weeks ago and i just received my music ed. from Dell today. My main concern is the camera. I know that the cameras between the E71(Unlocked) and E71x (ATT) are different and you can tell by looking at the lens with a light shined on it. The E71x shines green. Well my Brothers 5800 Nav Ed. Shines green While My 5800 Music Ed. does not. Is this something I should worry about? Are the cams different?</Content>
+	</Post>
+</Thread>

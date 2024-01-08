@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GTA IV: The Lost & The Damned (Debut Trailer)</Title>
+		<Username>Rieper</Username>
+		<Datetime>12-16-08, 03:24 PM</Datetime>
+		<Content>So this is the 1st downloadable content for GTA IV that XBOX 360 owners were braggin' about having before PS3 owners?? Bwahahaha. http://www.rockstargames.com/thelost...ed/index2.html XBOX 360 execs must be wondering: "And we paid Rockstar how much for this exclusive content???"</Content>
+	</Post>
+</Thread>

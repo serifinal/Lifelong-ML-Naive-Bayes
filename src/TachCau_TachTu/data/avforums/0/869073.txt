@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anyone know the real deal re. Red Sparkles?</Title>
+		<Username>elementalist2</Username>
+		<Datetime>15-12-2008, 4:55 PM</Datetime>
+		<Content>Hi there and a nearly Merry Christmas. I've started noticing what seems to be a known phenomenon: "The Red Sparkles". I have a Samsung PS63P76HDX and I think it's out of warranty so I'd be REALLY interested in anyone who's overcome this issue without the need for major repair! I've read it's happened on Samsungs, LGs (mostly), Sonys, etc., so it must be a 'generic' problem. I read it may be to do with voltages (though it seems that changing the voltage only masks the issue) or HDMI cables (though the problem has started without me changing my cable or it's location). To add my version: I get smatterings of red pixels - some solid some flickering - in the dark areas of the picture (also sometimes in 'transition' grey areas and not the black, like it is effecting a certain luminocity range). This condition can come immediately on switching on or sometimes after an hour or two. It sometimes goes away after a few minutes and sometimes not. If I change inputs away and back to HDMI it goes away, though sometimes only for a moment. If I freeze the image, the red sparkles stay static, but will go away if I change inputs away and back. Fun huh?! Here's hoping someone can help me... Thanks!</Content>
+	</Post>
+</Thread>

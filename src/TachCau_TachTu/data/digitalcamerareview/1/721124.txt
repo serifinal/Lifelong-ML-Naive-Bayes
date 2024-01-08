@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>best compact/ultra compact canon for the money?</Title>
+		<Username>J.T.M.</Username>
+		<Datetime>03-21-2008, 06:02 PM</Datetime>
+		<Content>I plan on getting a decent compact camera, and decided on a canon. In your opinion which is the best bang for the buck compact they make? Thanks, Jon</Content>
+	</Post>
+</Thread>

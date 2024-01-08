@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant Spotted on Virgin Site!!!!!</Title>
+		<Username>d.zerv</Username>
+		<Datetime>09-13-2010 10:51 PM</Datetime>
+		<Content>Hey guys...if nobody else noticed, click on the specs tab for the Gravity Touch on the Virgin site and check out what comes up in the picture... ...that doesn't really look like a Gravity Touch now does it? So all you hopefulls, hope no more! It's coming! ***the picture changed on the Virgin site and so it changed here too!...i just have to find out how i can put up the screenshot I took***</Content>
+	</Post>
+</Thread>

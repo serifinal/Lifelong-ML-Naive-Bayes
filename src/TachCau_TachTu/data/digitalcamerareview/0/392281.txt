@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Error message? r09</Title>
+		<Username>mbstokes</Username>
+		<Datetime>10-14-2009, 11:58 PM</Datetime>
+		<Content>Canon D50 - when I try to take a picture, I am getting r09 in the spot where the counter usually appears. I also seem to have a flashing 'low battery' signal in the upper left. Is it simply a low battery? Help!</Content>
+	</Post>
+</Thread>

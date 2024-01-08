@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>flash off by default on canon powershot sd1400is?</Title>
+		<Username>unfilter</Username>
+		<Datetime>10-17-2011, 07:56 PM</Datetime>
+		<Content>i just got and started using this camera a few weeks ago. i feel like i had it set to have the flash off by default (though i could be misremembering), but now i can't get it to stay off - i have to manually set it to "off" every time i power the camera on. does anyone know if it's possible to have the default setting for the flash be off? thanks in advance</Content>
+	</Post>
+</Thread>

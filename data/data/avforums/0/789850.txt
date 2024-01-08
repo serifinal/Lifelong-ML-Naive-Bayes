@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung plasma tv - black levels/dynamic contrast - help!</Title>
+		<Username>MrKennedy</Username>
+		<Datetime>04-07-2011, 8:42 PM</Datetime>
+		<Content>Hi, Im hoping someone can help me. I have the samsung c680 3d plasma tv... 1. How do I test if my black levels are correct? I normally have my brightness at about 50% - anything less and i appear to loose detail in dark areas (although 50 isnt great... Anything above 60-65% and it appears to go slightly whitish... How can i make the screen vibrant like an led with colour yet give good deep black levels as a plasma should? 2. Why is the HDMI Black Level sometimes greyed out in the menu options? It seems to be that when I watch anything through my bluray 3d player (samsung bd5900 and my hddvd player hdep30) for some reason it's greyed out when watching Blu-Ray / DVDs, and it's always at Normal when grayed out. Does this have anything to do with my setup?! 3. Dynamic Contrast : yes or no? Okay so is dynamic contrast worth using on either low medium or high?! i have heard DC can cause an awkward "dip" during "fade to black" moments in movies.. Or it can hinder the picture and make it add "noise" and bad "artifacts".... Is this true? Also, black level setting (dark, darker, darkest) i assume this will crush any black or shadow detail and make it non apparent? 4. Gamma Whilst i am still learning what gamma is (the control between saturation of colour, brightness and contrast and where they meet)... If gamma is above or below is it better to be higher than lower? Thankyou kindly.</Content>
+	</Post>
+</Thread>

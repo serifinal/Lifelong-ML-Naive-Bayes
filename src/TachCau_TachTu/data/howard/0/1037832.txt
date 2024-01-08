@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Wave S8500 Official Thread</Title>
+		<Username>uncanny</Username>
+		<Datetime>02-14-2010 09:18 PM</Datetime>
+		<Content>Great Specs and very hot looking.</Content>
+	</Post>
+</Thread>

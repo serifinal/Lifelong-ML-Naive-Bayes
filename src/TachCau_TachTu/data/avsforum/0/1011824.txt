@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer 9G "buzz" poll (Elite and non-Elite)</Title>
+		<Username>avssa</Username>
+		<Datetime>06-29-08, 04:04 PM</Datetime>
+		<Content>Please describe how much buzz you hear from your Pioneer 9G model. Also, please note the model number.</Content>
+	</Post>
+</Thread>

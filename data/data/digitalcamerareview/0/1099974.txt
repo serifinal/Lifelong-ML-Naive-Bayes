@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Lithium for Canon SX 20is</Title>
+		<Username>infini2</Username>
+		<Datetime>05-26-2010, 05:19 PM</Datetime>
+		<Content>Hi! Yesterday, I bought a Canon Powershot SX 20 IS, and, of course, I am still learning all its possibilities. In the manual they don't mention about using Lithium non-rechargeable batteries. And I tried it anyway, and the camera doesn't even want to work with these (Yes, they are new!). I don't uderstand why this happens: 4 AA batteries rated at 6 volts total should work, no? (and last a long longer). Pls explain to me. AH: another question I am pretty used to work using TV (shutter-priority). But on my new Canon, when the light is too low, shutter speed changes by itself on this mode, going to a much slower speed. Is this normal on this model? I find it strange, because this feature should be only on full auto or P setting. Thx very much!</Content>
+	</Post>
+</Thread>

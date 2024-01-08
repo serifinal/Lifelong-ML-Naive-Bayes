@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Viera Cast Questions</Title>
+		<Username>doobds</Username>
+		<Datetime>24-07-2011, 10:29 PM</Datetime>
+		<Content>Despite searching for the answers I can't find them, so here goes I have a 2010 G20 WITH VIERA CAST I am trying to find out 1 - Is it possible to resize the standard video playback window - I saw a youtube demo where the initial playback window magically went to full screen but they did not show you how! 2. How do you ff/rew the video whilst in playback - I have tried the buttons that look like >> and << at the bottom of the window - all it does is ff/rew to the next or prev video in the search list - I just want to ff/rew the individual video I am watching Advice appreciated</Content>
+	</Post>
+</Thread>

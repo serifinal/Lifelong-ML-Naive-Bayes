@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The OFFICIAL Will Only People With Facts Make an "OFFICIAL" Thread</Title>
+		<Username>fone sex</Username>
+		<Datetime>01-07-2010 11:08 PM</Datetime>
+		<Content>Shouldn't there be some sort of requirement to make an "Official" thread? As opposed to "hey, I have no facts to back up anything I speak about (which is fine because a lot of good discussion comes from conjecture) but based on "MY information", which is mostly comprised guesses and somehow tying in completely non-related actions by the carrier and/or manufacturer, I'm gonna start an Official iSlate Pre-Release Thread". STOP IT, PLEASE. IMO on Mods and a couple other people should start "Official" threads. Rant over.</Content>
+	</Post>
+</Thread>

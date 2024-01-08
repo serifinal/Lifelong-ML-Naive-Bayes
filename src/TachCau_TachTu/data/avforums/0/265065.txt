@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic TH42PX80BA - is it HD ready?</Title>
+		<Username>HazzaM</Username>
+		<Datetime>05-01-2012, 10:28 PM</Datetime>
+		<Content>I have a Panasonic 4242PX80BA and I want to know whether it is HD or HD ready?</Content>
+	</Post>
+</Thread>

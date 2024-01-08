@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Receiving Late Text Messages</Title>
+		<Username>AF_Windsor</Username>
+		<Datetime>04-19-2010 09:10 AM</Datetime>
+		<Content>Hi, I'm not sure if any of you have experienced this problem but lately my phone has been sending me some of my text messages late. I'm not sure if it has anything to deal with the fact the phone is unlocked (AT&T phone), but the messages I receive and the time stamp at which it was sent don't seem to match up. Ex. I'll get a text message at 9:45 AM The text message will say it was sent at 5:05AM I'm not sure what the problem seems to be. I can't tell if the messages are being sent on time and the time-stamp at the bottom of the message is wrong. Thoughts?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Issue with deleted content from G11 - HELP!!!!</Title>
+		<Username>ianlap</Username>
+		<Datetime>09-13-2011, 06:10 PM</Datetime>
+		<Content>Hi I accidentally used the erase feature on my G11 to delete a movie file. I removed the CF card so as to not cause overwrite issues. I have tried about 8 recovery software programs and though some find a .mov of the correct size and recover it the file cannot be played by any media software. So does this mean the camera has done something weird when it marks the movie as erased ? Do I need to format the card and then run a recovery ? I really want this movie clip back but am scared to format the card if there is another option. Any help greatly appreciated Cheers</Content>
+	</Post>
+</Thread>

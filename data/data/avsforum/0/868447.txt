@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need help choosing looking to buy 7.1 system.</Title>
+		<Username>Sintel</Username>
+		<Datetime>12-14-08, 10:45 AM</Datetime>
+		<Content>I am finally setting up my home theater room. Here are the current components Projector: Panasonic AE3000U Receiver: Onkyo TX-SR606 7.1 BluRay: PS3 I need help completing this system with speakers. I know just the basics about speakers so; any type of help is appreciated. The room that the speakers will be mounted in is 15x15. The 2 rear speakers and 2 rear surround speakers need to be in the ceiling. The front surround speakers I would prefer to be in wall speakers. The center cannot go into the wall since I am not buying a sound transparent screen. I have $1600 to work with. Please give me some ideas on what to purchase. Thanks a ton for your help!!!! P.S. Receiver stats link: http://www.us.onkyo.com/model.cfm?m=...s=Receiver&p=s</Content>
+	</Post>
+</Thread>

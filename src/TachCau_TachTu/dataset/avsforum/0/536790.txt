@@ -1,0 +1,25 @@
+the dungeon -- > beginnings of a new build .
+ok , i finally found someone to start studding up my basement while i am away and figured i better start finalizing a few things .
+here are a couple of rough design pics for what i want to do for my ht and some general info on the numbers i am coming up with .
+please pick it apart and tell me what i am doing wrong so i can make changes now .
+general room size : 14 ?
+6 ?
+x 18 ?
+from ib wall to rear wall : 14 ?
+6 ?
+false wall to rear wall : 16 ?
+6 ?
+ceiling height : 102 ?
+soffit height : 90 ?
+ib : ib space : 235 cu ft speakers : 8 ?
+dpl-15 amp : face 1200 eq : fbq2496 screen : 120 ?
+2.35 first row : 120 ?
+second row : 180 ?
+pj : du n no , prob rs2 or newer model lens : aussie mkiii when they ship speakers : 7.1 lcr : klipsch 10.5 surround : klipsch 3.1 rear : klipsch 3.1 pre/pro : looking at the marantz 8003 set i will be powering my av closet via a belkin pureav pf60 .
+i will also have fo stars in the top ceiling area , rope lighting around the soffit edge , can lights in the soffit and controlled by a graphik eye .
+my av closet will be controlled by a touchpad a friend is setting up using rf or wireless on a linux system .
+i will also have a 12tb raid in the closet for the movies that are not being played off the ps3 .
+i know the screen is too big for some people but the way i see it , i can mask it down if it is too big for me .
+i would rather it be too big then not big enough .
+thanks for your pre-help .
+chad

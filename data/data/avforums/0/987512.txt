@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Faulty 61in NEC MP1 plasma tv, stuck with a 17in CRT in the lounge</Title>
+		<Username>safeashouses</Username>
+		<Datetime>07-01-2012, 12:33 PM</Datetime>
+		<Content>Faulty 61in NEC MP1 I have this screen and it will not switch on. Yesterday it was fine, went out for a hr and when i come back and switched it on the green light come on, a little click like always but the screen is blank. Tried changing the input, vol up or down to see if it was the input. But nothing on the screen. I do have a have a spare screen with some boards on it to try if i know where to start looking. I did see this refurbished board on the bay NEC PX-61XM1A 61MP1 Buffer Plasma 942-200412 PKG61C1E2 | eBay This must be a common part to go if the are refurbing them. If not i was hoping to get it fixed if the cost was less than £300 total. I might be a mile of with the cost to fix these things? Any help would be great because i am stuck with a 17in CRT sitting under my 61in in the lounge at the moment. I feel like i have gone back to the 90s.lol If not a new one might be in order, Led back light, plasma, Lcd or not..........</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which 50" plasma for less than £1000?</Title>
+		<Username>broona</Username>
+		<Datetime>26-11-2007, 12:20 PM</Datetime>
+		<Content>Ideally looking for 3 HDMI sockets, but could live with 2 if needs be. Will be used mainly for watching Sky HD (I appreciate that 90% of Sky HD is actually SD!!!), Xbox 360 and Wii, with a little DVD watching too. We'll be approximately 10 to 12 feet away from the TV, so I suppose SD performance should be decent too. I know nothing at all about plasma's, and am looking to upgrade from a Samsung LE40R72 LCD, the only thing I know is that Panasonic are supposed to make good ones!!!</Content>
+	</Post>
+</Thread>

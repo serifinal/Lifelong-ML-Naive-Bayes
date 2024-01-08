@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 42PC55 HDMI problem</Title>
+		<Username>rainyo</Username>
+		<Datetime>14-08-2011, 6:55 PM</Datetime>
+		<Content>Hi I have an LG 42PC55 ond on the whole Im very happy with it, but now that I have some HDMI equipment to set up on it, im having some problems If I connect either of the 2 HDMI connectors on the tv to my xbox or freeview box and switch them on, the TV picture freezes, then goes off, displaying the message poor signal this means i cant watch tv without switching off the HDMI equipment is anyone familiar with this issue please</Content>
+	</Post>
+</Thread>

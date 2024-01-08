@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD800 IS Movie mode, two questions</Title>
+		<Username>arla</Username>
+		<Datetime>10-27-2006, 08:29 PM</Datetime>
+		<Content>Anyone timed to see what the battery life is like in Movie mode, although card size will limit the use of the feature right now, I'm thinking in the future it might not as much. Also can you record videos without using the LCD, or does in require the LCD to take a video?</Content>
+	</Post>
+</Thread>

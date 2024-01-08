@@ -1,0 +1,6 @@
+ca n't see media server ??
+panasonic tx-p42s30b .
+hi all , i have recently bought a panasonic tx-p42s30b and currently have it wired to my bt homehub .
+i can access the onboard internet features fine , but ca n't seem to make any media servers appear on the tv - i have tried twonky and wild media - both can detect the tv , but the tv never seems to show any sign of recognising the presence of a media server ??
+any suggestions for will it work/how can i get it to work ??
+i 'm truly stumped ...

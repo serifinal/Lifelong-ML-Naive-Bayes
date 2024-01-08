@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>vt20- thx mode problems</Title>
+		<Username>Pearman</Username>
+		<Datetime>10-08-2011, 3:44 PM</Datetime>
+		<Content>Whenever I use thx mode (when watching sky) I get a thin black and white striped line at the top of the screen. Anyone know why this is? and how I can correct it? Thanks</Content>
+	</Post>
+</Thread>

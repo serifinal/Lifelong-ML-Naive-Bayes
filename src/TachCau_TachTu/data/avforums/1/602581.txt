@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS50Q96HD - Worth £250? Other Recommendations?</Title>
+		<Username>caecus</Username>
+		<Datetime>13-06-2011, 3:16 PM</Datetime>
+		<Content>I am in the market for a 46" - 50" TV for occasional gaming and movies. I am on a shoestring budget of £200 - £300 so am limited on my selection, however, I am doing everything I can not to compromise on the picture quality. 1080p is important, as is the ability to reproduce shadow details well. I have the option to buy a PS50Q96HD for £250, it doesn't fit my criteria well, but I seem to have run out of options. Is this TV worth that amount of money? Are there any other options which I have overlooked? Many thanks.</Content>
+	</Post>
+</Thread>

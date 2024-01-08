@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Black Spot on Photos</Title>
+		<Username>Rakilee</Username>
+		<Datetime>03-14-2009, 10:00 PM</Datetime>
+		<Content>Does anyone know what causes a black spot to appear on the photos? Its NOT the lenses, they have been cleaned and have taken photos w/out the lenses as well. I've also cleaned the inside flap of the cam and the mirror. please reply. thank you, -me</Content>
+	</Post>
+</Thread>

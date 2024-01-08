@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Which Store Are YOU Lining up at on Launch Day?</Title>
+		<Username>potentpotable</Username>
+		<Datetime>12-11-2009 07:55 AM</Datetime>
+		<Content>For those of you die-hards who will be in the door within the first few seconds of the official launch, which store do you plan on lining up at? Which reminds me, I probably need to update my map for you guys before the launch! (I hope it's not this Monday, because I have an exam and would need to skip and fail it...) Google Maps link: http://tr.im/windON</Content>
+	</Post>
+</Thread>

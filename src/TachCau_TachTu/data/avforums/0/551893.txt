@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30 - Stops freeview recordings when Onkyo receiver is on?</Title>
+		<Username>branners</Username>
+		<Datetime>28-01-2012, 2:08 PM</Datetime>
+		<Content>Hey, I have a Panasonic 50" VT30 which is superb on all fronts. One issue I have is that when I record on freeview, or saorview here in Ireland, when my Onkyo 609 receiver is on then it wont record and "REC Pause" or the likes constantly comes up on the top right corner. Even though it says Pauses no recording takes place, until I turn off my receiver and then the VT30 will start to record? I was wondering is there a setting that I can change on either the TV or the receiver so that the recordings dont stop? Thanks, Branners</Content>
+	</Post>
+</Thread>

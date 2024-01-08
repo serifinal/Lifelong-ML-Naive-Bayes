@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Make Some Noise About Port Blocking</Title>
+		<Username>j0no</Username>
+		<Datetime>06-24-2010 05:10 PM</Datetime>
+		<Content>Come on, HoFo. You guys can't possibly be all happy with the port blocking situation. Having a cool app not work over 3G, having to ask pretty please for them to open the relevant ports, and then waiting months until the app doesn't seem that cool anymore is unbearable. Make comments on Wind's community site and let them know you're still not happy. I'm not saying you shouldn't also be asking for them to open ports you need, but if people stay quiet about the overall issue they may start to think that the large majority of people who care are happy. App I'm upset about right now: Ustream.</Content>
+	</Post>
+</Thread>

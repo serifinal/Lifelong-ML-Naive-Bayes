@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>samsung le40b550 or samsungps43d450?</Title>
+		<Username>beamish189</Username>
+		<Datetime>19-07-2011, 6:06 PM</Datetime>
+		<Content>im on the verge of buying my first flat screen tv and have narrowed it down to the the above tv,s, both have good and mixed reviews, im leaning more towards the plasma as mainly i watch movies and do a lot of gaming on xbox but the lcd has full hd and cud possibly do the same but has better asthetics and more inputs, any info would be appreciated thanks.</Content>
+	</Post>
+</Thread>

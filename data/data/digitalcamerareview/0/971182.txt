@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot Sx110is</Title>
+		<Username>simond</Username>
+		<Datetime>05-14-2011, 02:12 AM</Datetime>
+		<Content>Last weekend, after using the zoom on this camera, the zoom got stuck, i.e. the lens wouldn't retract. When I tried pressing the on/off button the viewfinder just flashed briefly, so I couldn't take any more shots. About 24 hours later, when I pressed the button again, the lens did retract, but I still couldn't get the camera to turn on. About 4 days later, when I tried again, everything seems OK. Has anyone else had this problem? Should I get the camera looked at by an expert?</Content>
+	</Post>
+</Thread>

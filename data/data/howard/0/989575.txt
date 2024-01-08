@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Port Blocking and Blocking Content is Illegal With Wireless As Per CRTC Ruling</Title>
+		<Username>Tony2468</Username>
+		<Datetime>07-05-2010 07:11 PM</Datetime>
+		<Content>On June 30th 2010 the CRTC ruled on Telecom Decision CRTC 2010-445 This means port blocking is illegal. It is also illegal for wireless providers to slow (throttle) time sensitive data like VOIP or Video Conferencing ect.. http://arstechnica.com/tech-policy/n...e-data-too.ars http://www.crtc.gc.ca/eng/archive/2010/2010-445.htm</Content>
+	</Post>
+</Thread>

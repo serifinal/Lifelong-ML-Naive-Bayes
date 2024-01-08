@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Battery Life SD800 IS</Title>
+		<Username>MSJmom</Username>
+		<Datetime>06-15-2007, 02:38 PM</Datetime>
+		<Content>Just purchased this camera. Do you think the battery will last a day or shooting pictures, say on vacation? Will I need to recharge every day? I had a Nikon a few years ago that ate batteries, it was horrible. I'm hoping this new Canon will be better. This may be a simple question, but not very camera savy here</Content>
+	</Post>
+</Thread>

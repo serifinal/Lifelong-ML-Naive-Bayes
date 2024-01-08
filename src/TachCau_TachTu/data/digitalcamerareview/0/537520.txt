@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help! Multiple Black spot on canon powershot SD1000 image</Title>
+		<Username>canonsd1000</Username>
+		<Datetime>11-12-2009, 02:04 AM</Datetime>
+		<Content>Hi my online research tells me that all those black dots on my images are dust on the sensor and it is cheaper to just buy a new one rather than sending it in for cleaning. I will appreciate any confirmation from experts here. The attached image is zoomed at 3x. Without zooming I get the spot on the right corner only. I feel bad as going through my pics I traced it back to a month before the end of the 1yr warranty. My CC covers the 2yr but canon-canada has to verify this is a job that would have been under warranty.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Klipsch Synergy Sub-12 for $200 or SVS PC12-NSD for $600</Title>
+		<Username>Webslinger</Username>
+		<Datetime>12-27-08, 11:39 AM</Datetime>
+		<Content>Okay, this decision is absolutely killing me. I can get a Klipsch Synergy Sub-12 for ~$200 (U.S.) http://www.klipsch.com/products/deta...specifications I can get a SVS PC12-NSD for ~$600 (U.S.) I would be using the subwoofer in a very small room at below reference level volume for both music and movies. I know the SVS is a way better subwoofer. But the question is, is the PC12-NSD $400 better? Probably not. I kind of had my heart set on the SVS. But $200 for a Sub-12 seems like an incredibly good offer. Should I hold out for the SVS?</Content>
+	</Post>
+</Thread>

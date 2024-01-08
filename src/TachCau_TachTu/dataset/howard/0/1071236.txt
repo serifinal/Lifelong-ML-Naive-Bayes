@@ -1,0 +1,3 @@
+ca n't connect to internet with browser ? .
+hello , my a1200 wont connect to the internet - my plan is with rogers and i have inputed all the information from rogers , that is also indicated in these forums , and still nothing ... i have also done a master clear and a master reset and nothing .
+i see that i am connected to the apn -lrb- i think -rrb- because there is a green bar under the g on my main screen and in settings , it says i am connected , but still no browser opening ... ideas ?

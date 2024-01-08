@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>philps plasma will not turn on</Title>
+		<Username>garyh</Username>
+		<Datetime>09-12-2011, 10:07 AM</Datetime>
+		<Content>hi i have a 42 plasma tv when i turn it on it clicks the green light comes on but tv will not if i keep switching it off and on it will sometime finaly come on any thoughts,thanks modal bos4231r/00</Content>
+	</Post>
+</Thread>

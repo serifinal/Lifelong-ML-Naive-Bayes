@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>DIY 104" 1.85 screen with integrated masking system for 2.35:1</Title>
+		<Username>deewan</Username>
+		<Datetime>12-01-08, 04:43 PM</Datetime>
+		<Content>Hello. I wanted to share with everyone on AVS what I hope to be a very easy, cheap, and effective plan to make a DIY screen with a manual (remember cheap) masking system to allow for 2.40 content. Since I am not using a special lens, this masking system will be for a constant width image. Hopefully within a year I will be building a new theater in a new home, so I didn?t want to spend much money on this new screen, but at the same time I wanted to keep the screen and the front wall appealing. My goals:Increase screen size from current 92 inch screen. Create a manual masking system that will allow user to set different aspect ratios. Keep cost of the screen and masking system under $150. Masking system completely integrated into the screen frame. I only have a few drawings of my plans, so I prolly won't most those. But I hope to share plenty of photos. Basically the masking system will be a turn-by-hand system using pulleys inside the frame. To lower the upper mask, I will turn the upper tube clock-wise to my desired position. Same idea for the bottom but turning counter clock-wise. Since the pulley systems are not attached, I will be able to completely cover the black bars on the top, while allowing for some of the bottom black bar on the bottom to be covered. I thought I make not always use the lower masking system completely since on 2.40:1 content the time bar and some subtitles are shown in that area.</Content>
+	</Post>
+</Thread>

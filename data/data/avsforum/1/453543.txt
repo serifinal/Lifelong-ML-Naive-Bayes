@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>StumperTX</Username>
+		<Datetime>09-10-08, 07:54 AM</Datetime>
+		<Content>Hey guys, I know this sounds ridiculous, but I need a new TV, and I've narrowed it down to two optoins: I have a chance to get a new 60" Kuro for 2800-2900 with wall mount (I believe it's the new 8th gen) through a contact, or a Samsung HL67A750 at the best price I can find online (1847 + ship right now). I know the Kuro is a better picture, but is it worth the extra grand, and 7 inches? The size of the set doesn't necessarily matter for me. I'm just starting out, bought a house a few weeks ago, and money isn't extremely tight, but I don't exactly have tons of it lying around, and I also have a honeymoon to pay for ****NO, I CAN NOT GET YOU THIS DEAL ON THE KURO, DON'T ASK****</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help using Canon Rebel XS</Title>
+		<Username>Twokids2Cavs</Username>
+		<Datetime>12-27-2010, 02:57 PM</Datetime>
+		<Content>I just got the Canon Rebel XS digital camera, and I started using it today after reading the manual. I mostly got the camera to take photos of dogs, mine and others - that are always in motion. I put the camera in Auto mode, and it won't let me do continuous shooting. I put it in sports mode and I can do continuous shooting, but the pictures come out all blurry. The flash doesn't go off in that mode. It won't let me pop the flash up. How can I take nice, clear pictures of dogs that are running indoors (I'll be taking lots of pictures at rescue parties, etc) with this camera? What steps should I do? I'm just a beginner with SLR cameras, so this is all new to me.</Content>
+	</Post>
+</Thread>

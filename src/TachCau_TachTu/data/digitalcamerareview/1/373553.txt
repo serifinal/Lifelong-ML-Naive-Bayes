@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>need a hand</Title>
+		<Username>charliesimith</Username>
+		<Datetime>07-03-2008, 09:56 PM</Datetime>
+		<Content>I am a student.Because of money limitation, I want to buy a digital camera these days.I see a cheaper sony t70 on popvoucher, but I do not know which is better between sony t70 and canon IXUS 860 IS. it is said that the screen of sony digital camera show the picture too bright-colored.Is that ture? and will this problem effect the quailty of photo?I don't know what kind of lens they are and which is the better.who can tell me somthing about the difference between sony t70 and canon IXUS 860 IS.I just want to choose one for daliy use.Thanks.</Content>
+	</Post>
+</Thread>

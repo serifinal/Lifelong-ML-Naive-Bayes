@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Bell Samsung Galaxy Question</Title>
+		<Username>KM626</Username>
+		<Datetime>02-27-2010 01:51 PM</Datetime>
+		<Content>This is probably a stupid question to ask, but is it possible to get the Samsung Galaxy on just a voice plan, and no data? I use Wifi a lot so that would be plenty for me. I tried it out in store and I really like it, but this is the only thing setting me back. My contract needs to be renewed soon. If I can't, What's a good Phone on bell that doesn't require data?</Content>
+	</Post>
+</Thread>

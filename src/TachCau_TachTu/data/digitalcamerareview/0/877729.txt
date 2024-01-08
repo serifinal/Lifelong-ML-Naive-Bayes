@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon eos 60d AF problem</Title>
+		<Username>analysis230</Username>
+		<Datetime>05-17-2011, 10:02 PM</Datetime>
+		<Content>I just bought a canon eos 60d and 55-250mm, 5o mm lens..... the camera quality is nice and I just love it..... bt I m a total noob and i can not use autofocus, I did exactly as shown in the manual but still nothing happens..... I tried with only 50mm lens, PLEASE CAN ANYONE HELP>>>>></Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>anyone know anything about these new w760 firmwares?</Title>
+		<Username>scottuf</Username>
+		<Datetime>05-16-2009 08:58 AM</Datetime>
+		<Content>i got a davinciteam newsletter yesterday so i cruised over to see if there was anything new and saw these for the w760. anyone know anything about them? which CDA to use to get them from SEUS? W760a R3EC008 CID49,CID52 AMERICA-VT CDF1207-7139 AMERICA-VT - CF EN PB XL W760a R3EC008 CID49,CID52 GENERIC AUSTRALIA AMERICA-VT - CF EN PB XL W760a R3EE001 CID49,CID52 VODAFONE GERMANY/ROCKY SILVER WESTERN-EUROPE - EN EU CA NL W760a R3EE001 CID49,CID52 WESTERN-EUROPE CDF1208-4557 WESTERN-EUROPE - EN EU CA NL i'm currently running R3EA037 i got using the great britain generic CDA (westen europe really, but SEUS says there isn't a new version, so I don't have the western europe CDA the EE001 is looking for). obviusly Vodafone is a branded fw, but the others all look generic. btw, does anyone know what the "-VT" means?</Content>
+	</Post>
+</Thread>

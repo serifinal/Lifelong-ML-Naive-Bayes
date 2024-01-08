@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Digital Camera - Scratches</Title>
+		<Username>SD780 IS</Username>
+		<Datetime>03-29-2009, 01:14 AM</Datetime>
+		<Content>MY SD780IS camera is prone to scratches! I had the camera inside my pocket with my iphone and somehow it scratched the black coating on the camera. Now, do you guys know any scratch removers that can work well for digital cameras?</Content>
+	</Post>
+</Thread>

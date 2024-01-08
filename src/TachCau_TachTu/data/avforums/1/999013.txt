@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Wanted 15" LCD for Campervan</Title>
+		<Username>ace0001uk</Username>
+		<Datetime>28-12-2011, 5:05 PM</Datetime>
+		<Content>Hi, I'm a new member looking for advice pertaining to LCD TV for my camper van. Apparently I need a television that can use 240v or 12v. Is there anyone who can give me advice and suggest make and model I should purchase and if possible if anyone out there has what I'm looking for I can make them a reasonable offer. Many thanks</Content>
+	</Post>
+</Thread>

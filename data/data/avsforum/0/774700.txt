@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I think it's time to buy a screen. Any suggestions?</Title>
+		<Username>Eric Schwamb</Username>
+		<Datetime>01-04-09, 05:07 PM</Datetime>
+		<Content>I recently moved into a new place. In my old place, I always put off buying a screen for my Sony VPL-HS20 because even projecting on a white wall the image looked better than most of my friends big screen TVs. Now I'm installing my gear in my new place, and I've discovered that the wall I intend to project on is not flat! At first I thought that I had somehow damaged my HS20 because the image had a funny curve to it, but then I broke out the trusty laser level and found that indeed, my wall is not straight. You can see in the picture "top" I lined up the top of the PJ image with a laser level. Then in the picture "bottom" I move the laser level to the bottom of the PJ image. You can see the laser level light disappears on the bottom picture, showing where the wall curves inward. So, now I'm thinking that it's time to buy a screen. I assume I can get one with a rigid frame that won't conform to my wall's poor shape. What brand would you recommend? The image in the picture is about 108" diagonal with the PJ fully zoomed out, so a 100" screen will probably be perfect. Thanks in advance! Eric</Content>
+	</Post>
+</Thread>

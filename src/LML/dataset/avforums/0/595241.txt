@@ -1,0 +1,8 @@
+panasonic tx-p50g10b hdmi to dell xps l501x laptop - help ! .
+i have a panasonic tx-p50g10b television .
+i 'm attempting to connect a dell xps l501x laptop through hdmi directly into the television .
+the television is recognised by the laptop , however when the output from the laptop is set to the television nothing is displayed .
+i would appreciate any suggestions on how to resolve this issue !
+is there a certain resolution and/or refresh rate that the laptop needs to output in order for the television to recognise it ?
+the hdmi cable is fully working , with no issues connected to a playstation 3 .
+many thanks in advance !

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Poor picture on TX-P42530B?</Title>
+		<Username>AndyBrew</Username>
+		<Datetime>09-01-2012, 6:30 PM</Datetime>
+		<Content>Hi I bought my son a Panasonic TX-P42530B tv for Xmas and he has been complaining of a poor picture quality, I today finally got round to taking a look and I have to say he's correct the image, particularly the dark colours, appear to have a lot of "noise" like fussy, shimmering effect. I've looked on my other TV's and they certainly don't have this effect, even my cheap techwood appears to have solid blocks of colour. Any thoughts? Andy</Content>
+	</Post>
+</Thread>

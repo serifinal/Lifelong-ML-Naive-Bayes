@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Feast your eyes on an upgraded G series digital camera!</Title>
+		<Username>gubakl33</Username>
+		<Datetime>10-14-2010, 08:56 AM</Datetime>
+		<Content>First, let me say I own or have owned a G10, G11, and G12. I am not really sure why anyone expect the G12 to be a major upgrade to the G11. The title of this review is the first line of Canon's marketing material on the Canon USA website....so this is what I personally expected, and Canon delivered, as far as I am concerned. I am not a professional, so my observations are from the viewpoint of an average guy with a serious camera addiction. I took photos side by side using my G10, G11, and G12 and I have to be honest, I could not tell much difference ( expert sites has exactly the same opinion like infosync and digital trends:, though a slight nod would go to the newest camera. They are all great, however, and suit an average user like me perfectly. My tests were not scientific and not comprehensive - I have to work for a living after all. I am very pleased with the image quality, but is it a major upgrade from previous G series cameras, I do not think so. If I were forced to choose one, I would probably go for the G12 because the photos look slightly nicer to me, and the camera is easier to work with but only if I am forced to choose!</Content>
+	</Post>
+</Thread>

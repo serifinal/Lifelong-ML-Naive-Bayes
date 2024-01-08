@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Putting Date on Photos</Title>
+		<Username>xCuteBunnyx</Username>
+		<Datetime>12-26-2008, 02:38 AM</Datetime>
+		<Content>Hi, I just recently bought a Cannon SD1100is(thanks Andy for the help!) and I would like to know how to put the dates on the photos. I know there is a date stamp option, but I would like to put the dates on photos I already took and have to option to put on/take off. Is there any way I can put dates on the photos I already took? Thanks! Oh does anyone know how common the e18 Lens Error is? Does every camera have this possibility or just a few bad batch Cannon cameras? Due to reading "if you are unlucky" I take it as if you get a bad batch. Oh and any way to take the reflection of glasses in photos? Sorry for the many questions. Happy Holidays everyone!</Content>
+	</Post>
+</Thread>

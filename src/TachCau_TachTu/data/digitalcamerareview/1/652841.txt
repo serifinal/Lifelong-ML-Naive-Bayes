@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>lag time - SD1100 vs. SD1200</Title>
+		<Username>Ksb1</Username>
+		<Datetime>09-21-2009, 02:37 AM</Datetime>
+		<Content>I am debating between the Canon SD1100 or SD1200. It will be a gift for my ten year old, but I will use it as my backup camera I want something within $200 that has minimal lag time - is there a difference in lag time between these two? I'm wondering if the SD1200 is worth the extra $50.. Thanks.</Content>
+	</Post>
+</Thread>

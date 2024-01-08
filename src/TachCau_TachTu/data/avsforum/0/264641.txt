@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS3 USB hard drive not recognized when powered on before ps3?</Title>
+		<Username>nsurg</Username>
+		<Datetime>12-30-08, 11:28 PM</Datetime>
+		<Content>I have a ps3 with a new usb 1tb hard drive connected... i formatted it as one large FAT32 partition, and it has a power supply from its own AC adapter. Everything works fine (usually) when I power up the ps3 and then later power up the hard drive... but if I leave the hard drive on and turn the ps3 off, it is no longer recognized when I turn the ps3 back on. Is this common or a unique issue with my hard drive or enclosure? It is really annoying given that I want to have the whole thing managed by remote and would like to just leave the drive turned on all the time. Any suggestions or solutions would be appreciated!</Content>
+	</Post>
+</Thread>

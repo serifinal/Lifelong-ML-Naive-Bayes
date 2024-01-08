@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>barberfunny</Username>
+		<Datetime>12-21-08, 11:16 PM</Datetime>
+		<Content>I have owned a Klipsch Synergy speaker setup for almost ten years, and I'm still driving them with a Yamaha RXV-595 (first dolby digital model!), still kicking if only at "85 watts per channel". I'm going to stick with the Klipsch for a few more years, but of course it's almost time for a receiver upgrade. I definitely want minimum 3 HDMI inputs, 7.1 channels (minimum 110 wpc), USB in/networking, "night listening" for volume control, lip sync...hoping to keep it under $1500, so I may have to wait a year. The real question is, do I want another Yamaha? I've always liked the sound, but I was 19 when I bought it and didn't really audition other brands with my Klipsch. I can see what some reviewers mean about the Yamaha/Klipsch combo being occasionally too bright. I am very interested in the DENON 2809CI / 3808CI, and the PIONEER VSX-94TXH / VSX-03TXH. Thoughts? Klipsch Synergy SF-1 mains SC-1 center Klipsch Quintet II satellites for rears Polk PSW350 10" sub Yamaha RXV-595 PS3 on the way!!</Content>
+	</Post>
+</Thread>

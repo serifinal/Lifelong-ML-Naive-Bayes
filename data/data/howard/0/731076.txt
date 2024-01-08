@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: BNIB Iphone4</Title>
+		<Username>rkhwu</Username>
+		<Datetime>09-21-2010 10:44 PM</Datetime>
+		<Content>Locked to Fido, just received today still sealed Price is $680 firm Can meet anywhere in GTA</Content>
+	</Post>
+</Thread>

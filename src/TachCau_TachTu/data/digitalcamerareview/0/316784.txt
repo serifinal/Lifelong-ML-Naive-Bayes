@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon 450D - frame things on my 17" laptop screen</Title>
+		<Username>gubak</Username>
+		<Datetime>02-18-2008, 11:22 AM</Datetime>
+		<Content>I just sold my D80 and eagerly awaiting to switch back to canon. I was originally going to get the 40D but the XSI just welded its ugly head. The main thing i want is live preview (here are some great demonstration videos: http://www.infoborder.com/Digital_Ca...nonEOS450D.php). I also do a lot of studio stuff where i can hook up the camera to comp or laptop and it would be amazing if i could frame things on my 17" laptop screen or even my tablet. I know the 40D has this feature, anyone know if the XSI will? The XSI has pretty damn close to everything i wanted to upgrade to from the D80. The main thing is the FPS is still stuck at 3fps, but thats about the same as the D80, so i don't really lose anything.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sd 890 Is</Title>
+		<Username>jasmine3407</Username>
+		<Datetime>04-18-2008, 02:27 AM</Datetime>
+		<Content>Has anybody purchased this camera yet? It came out this month, and I'm really interested in reading some reviews about it- especially about the 5x zoom! I was thinking of purchasing it myself, once I read some favorable reviews on it. It seems a little pricey, and am wondering if the zoom really makes it worth it.</Content>
+	</Post>
+</Thread>

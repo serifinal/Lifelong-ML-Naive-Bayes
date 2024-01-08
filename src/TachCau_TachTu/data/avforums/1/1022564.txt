@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panny TX-P50U30B or LG 50PV350T ??</Title>
+		<Username>nej</Username>
+		<Datetime>06-06-2011, 9:01 AM</Datetime>
+		<Content>Hi guys, I'm getting an urge to get a bigger, full HD screen to replace my faithful old 42" 720p Samsung (forget the model number!). Not wanting to spend a fortune and the two that have caught my eye are the Panasonic TX-P50U30B and the LG 50PV350T. My instinct says "Get the Viera", but the LG is a) A bit cheaper, b) the specs report higher contrast, and c) It looks really nice (almost LED-thin). Has anyone any experience of (preferably both!) of these? Cheers,</Content>
+	</Post>
+</Thread>

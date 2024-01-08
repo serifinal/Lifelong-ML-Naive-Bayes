@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic PV500 series known faults summary</Title>
+		<Username>maltese</Username>
+		<Datetime>04-07-2005, 11:08 AM</Datetime>
+		<Content>I am having my TH37PV500 being delivered by the end of the week. There are many posts related to PV500 faults and I think it would be a great idea to have a summary of these possible faults, how to detect them with a simple test, if it is a question of settings or just part of the set (comment any official support answer you may have received) and if some of you have sent your set back because of a particular fault. It could be helpful as a quick guide to faulty unit detection for everyone in the same situation. I've read about these main three faults: - buzzing - horizontal line - contrast changes by itself - other ones? Please, comment: Fault description - simple detection test - possible solving - Official support answer - did you send it back? Thanks in advance -m</Content>
+	</Post>
+</Thread>

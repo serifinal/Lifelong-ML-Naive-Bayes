@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon HG20 Owners Thread</Title>
+		<Username>tpuzio</Username>
+		<Datetime>11-04-08, 05:57 PM</Datetime>
+		<Content>I searched and didn't find any specific thread dealing with owners questions/comments/concerns related to the Canon Vixia HG20 Read a review from Camcorderinfo.com</Content>
+	</Post>
+</Thread>

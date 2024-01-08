@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best/cheap "regular" 4GB SD Card for S5 IS?</Title>
+		<Username>Sho Geist</Username>
+		<Datetime>11-30-2007, 01:53 AM</Datetime>
+		<Content>I just got my S5 IS and I'm looking for a 4GB non-SDHC card for it, so that I can put it into my Samsung i730 Pocket PC phone when I'm on the go if I want to upload photos to the web or send them to my home computer. I'm looking for quality and something that's inexpensive of course. http://dcresource.pricegrabber.com/s.../sortby=priceA The TopRam card on there seems to be the least expensive 150X model, but I need to know user opinions on it first. I suppose if they have a good warranty policy then that might affect my decision as well, but I want to get this right the first time of course. I think between $30-$40 is about as much as I'd be willing to spend on an SD card. Also, I want the build quality to be good. I have an A-Data 4GB 150X regular SD card, but it's starting to fall apart from ejecting in and out of my i730. I don't know if it's a design problem with all SD cards or what and the plastic breaks over time if you're not just "super careful" when inserting and removing the card. Anyway, that's about all I can think of right now. Let me know, thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help us select</Title>
+		<Username>judy77</Username>
+		<Datetime>06-27-2008, 11:31 AM</Datetime>
+		<Content>Husband and I are considering the Canon SX100, Canon A590, and Panasonic FZ4. I'm most interested in shooting family photos and jewelry close-ups. Tim, whose hands shake from Parkinson's, hopes to do some distance shots at drum circles. Any thoughts?</Content>
+	</Post>
+</Thread>

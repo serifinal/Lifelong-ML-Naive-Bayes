@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung LN32A450 32-Inch 720p LCD HDTV</Title>
+		<Username>Hephastion</Username>
+		<Datetime>11-11-08, 12:49 PM</Datetime>
+		<Content>I've built a Linux-based MythTV HTB/PVR and am using a Samsung LN32A450 as the display. I'm using the latest proprietary nVidia drivers with a 9600 GSO based card. I had originally connected to the TV using a DVI~>HDMI cable. This worked, but the only resolution the TV seemed to accept was 1280x720 (native for this TV is 1360x768). Colors were wonderful but you could tell the resolution was non-native by the blockyness of fine details like text. Annoying. I then connected via the VGA port (DVI~>VGA adapter and VGA cable). This time I got the native resolution (very nice and crisp) but the colors are VERY washed out. Does anyone know of a way to get native resolution *AND* vibrant colors on this set with a PC for input? This is really starting to get on my nerves TIA... James</Content>
+	</Post>
+</Thread>

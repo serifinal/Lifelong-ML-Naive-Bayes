@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot D10-not worth it</Title>
+		<Username>z1mian</Username>
+		<Datetime>12-22-2011, 01:05 AM</Datetime>
+		<Content>I partly disagree with the review offered here. It is a good overall camera.However it LEAKS. And most importantly the warranty excludes leaks. I bought a powershot D10 11months ago. I've kept it in impecable conditions. After every swim, I've always cleaned it as per instructions. Last week, while swimming, water leaked in through the AV outlet. I was shocked as a $300 camera should last longer than 11months. I sent it to the manufacturer and I've been told the warranty does not include water leak!!! and had to pay $200 to have it fixed. How can an underwater camera not have a leak warranty? Specially when there are tons of reviews stating leaks occur in the first year of the camera. As a canon lover, my first camera was a Canon A1, I'm deeply dissapointed. Anyone thinking of purchasing a D10, think about it!!!</Content>
+	</Post>
+</Thread>

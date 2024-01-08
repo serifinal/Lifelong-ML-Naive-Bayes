@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TX-P50G20 to Samsung PS50C7000 worth it?</Title>
+		<Username>spacemanc</Username>
+		<Datetime>27-01-2012, 3:45 AM</Datetime>
+		<Content>I've recently been looking for a used plasma TV as I'm on a pretty tight budget. I had kind of decided on the Samsung PS50C7000, but then came across an excellent deal on a Panasonic TX-P50G20 which I ended up buying. I'm very happy with the Panasonic, but the reason that I wasn't looking at that model in the first place was it's lack of 3D and also I'm not a big fan of it's styling. I am certainly impressed with the picture - I've always owned plasmas, but the picture quality on this is amazing and I've not experienced any of the problems which can sometimes be found on this model. I do find it's internet features a little disappointing though. As it happens, I can sell the Panasonic for a price that is enough to cover the cost of a deal on a Samsung PS50C7000 that has been offered to me. The main benefit being that the styling is much nicer on the Samsung, and it also has 3D. The styling is not a major issue really, and the 3D is certainly only in the 'nice to have' category for me. I'm much more interested in SD and HD picture quality. Does any one have experience of these TV's side by side? How does the picture quality of the Samsung compare to the Panasonic?</Content>
+	</Post>
+</Thread>

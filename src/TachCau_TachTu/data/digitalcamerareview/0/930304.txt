@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problems with Canon S60</Title>
+		<Username>Linda</Username>
+		<Datetime>12-08-2008, 10:27 AM</Datetime>
+		<Content>I bought a Canon S60 in 2005 and it worked great until yesterday. Now the images have a pink hue, some (but not all) have a line across the middle, and the objects, such as furniture, appear to have a "fringed" edge. Any suggestion about what could be causing this and how to fix it?</Content>
+	</Post>
+</Thread>

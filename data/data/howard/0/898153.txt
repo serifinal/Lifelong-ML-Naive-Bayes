@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Page Plus, Outgoing SMTP Server</Title>
+		<Username>Fairchild</Username>
+		<Datetime>05-20-2010 01:48 PM</Datetime>
+		<Content>I'm certain I've asked this before. On my Palm Treo, I can receive email from my AT&T account, but I can't send it. They don't allow connections from foreign networks to their outgoing mail servers. How is everyone else getting around this? It would be nice if PagePlus had an outgoing mail server. Regards, Hans</Content>
+	</Post>
+</Thread>

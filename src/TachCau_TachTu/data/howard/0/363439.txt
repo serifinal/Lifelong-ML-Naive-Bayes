@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>..::OFFICIAL Samsung Finesse Release Thread::..</Title>
+		<Username>berry_lthird</Username>
+		<Datetime>03-29-2009 11:51 PM</Datetime>
+		<Content>Your hands-on reviews, impressions, feedback, and questions about the new Samsung Finesse start here........</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Green Patches Problem</Title>
+		<Username>Stone Free</Username>
+		<Datetime>11-08-2011, 12:28 PM</Datetime>
+		<Content>My TV has the Green Patches/Tinge problem as described in: Green Tinge Fault - Panasonic (VT30, GT30 and ST30) Please post/vote on this thread to get an idea of how many people had or still have this problem. If you sent back your TV before any of the milestones in the poll, add the details as a post. If you haven't got this problem and are gutsy and also have an HD Humax PVR, go into the EPG and press the i button on one of the programmes, this will bring up a big white box with the programme details that really highlights the problem.</Content>
+	</Post>
+</Thread>

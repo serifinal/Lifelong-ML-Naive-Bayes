@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P50S30B</Title>
+		<Username>D M B</Username>
+		<Datetime>31-01-2012, 1:57 PM</Datetime>
+		<Content>Hi guys, I've had this set about a week now, and whilst i'm well impressed with it, i'm still adjusting the picture quite a bit. I've noticed that in various room lightness, the picture seems to look different for example, if we have the room quite dark with one light on, the best setting seems to be "cinema", whereby if we have the main light on, it looks better on "normal". If we have it set to "normal" in a dark room, there appears to be a very slight grey tinge to the picture, which goes when we change it to cinema. The other thing is I can't see to get the balance just right with the contrast and brightness. Can I ask similar TV owners, how do you have your's set? Thanks!</Content>
+	</Post>
+</Thread>

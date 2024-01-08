@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Too many Owners Threads on this board now</Title>
+		<Username>shippo_uk</Username>
+		<Datetime>15-02-2012, 4:53 PM</Datetime>
+		<Content>Most of the first page of this Plasma forum is taken up with owners threads. I'm definitely not having a go but isn't it time AVForums had its own Owners Thread Board for each category? I think it'd free up a lot of space for more general questions on here. Just a thought, dont shoot me down!</Content>
+	</Post>
+</Thread>

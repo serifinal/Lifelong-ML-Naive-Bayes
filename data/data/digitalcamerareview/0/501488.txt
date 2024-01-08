@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does the 350D allow you to imbed a copyright?</Title>
+		<Username>wrightcg</Username>
+		<Datetime>09-23-2010, 11:38 AM</Datetime>
+		<Content>Does anyone know how or if you can imbed a copyright into the picture data on Canon DSLRs?</Content>
+	</Post>
+</Thread>

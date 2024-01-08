@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is there a simpe answer to G30 or S30?</Title>
+		<Username>big2422</Username>
+		<Datetime>19-05-2011, 2:06 PM</Datetime>
+		<Content>Hi, I think I have narrowed down my search to either the Panasonic G30 or S30. Looking at the specs side by side they look similar, which one should I go with? Thanks Chris</Content>
+	</Post>
+</Thread>

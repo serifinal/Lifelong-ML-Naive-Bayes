@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>XP1</Username>
+		<Datetime>10-15-08, 03:54 PM</Datetime>
+		<Content>Canon FS-H37U 37mm Filter Set vs. non-Canon Third-party 37mm Filter Set I have a Canon HF100 camcorder, and I plan to use a filter to protect the lens from dust, moisture, and scratches. I would like to know your opinions and which one (Canon or 3rd-party) performs better? The Canon FS-H37U 37mm Filter Set costs $60 shipped while the Third-party one on eBay costs less than $30 shipped. Use of third-party filters will not void the camcorder warranty: Quote: Originally Posted by Canon [Canon does not] recommend the use of third party filters for your VIXIA HF100. They are not covered under the Warranty, not will any damage caused by their use be covered by the warranty. It will not, however, actually void your warranty.</Content>
+	</Post>
+</Thread>

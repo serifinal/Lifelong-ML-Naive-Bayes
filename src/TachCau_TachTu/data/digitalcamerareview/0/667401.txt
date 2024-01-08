@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Flash does not work on powershot a640</Title>
+		<Username>vikoula</Username>
+		<Datetime>10-28-2010, 04:23 PM</Datetime>
+		<Content>Hello I have a powershot A640 and the flash indicator light blinks as it is ready to take a picture but no picture no flash happens. I am able to take pictures without a flash. Can you advise on how to fix the problem?</Content>
+	</Post>
+</Thread>

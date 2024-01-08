@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30 panning problem in 30fps games?</Title>
+		<Username>Beano70</Username>
+		<Datetime>20-07-2011, 5:12 PM</Datetime>
+		<Content>Got a new TX-P50VT30Y yesterday and have discovered a nasty problem... Seems it has problems with some 30fps games - for example 3rd person games where the player controls the in-game camera. Tried Uncharted 2 and Infamous 2 on Playstation 3 where there is a lot of ugly choppyness or juddering (not sure what to call it) which I did not have on my old Sony Bravia W3000 LCD. I have tried several picture modes (Normal, THX, Game) and tried to enable/disable several settings, without a major difference I tried another similar game in 60fps (Ratchet & Clank Quest For Booty) which was silky smooth and so is Wipeout HD (another 60fps title). Is this a known problem with a fix/solution, or am I stuck with the issue? Thanks in advance!</Content>
+	</Post>
+</Thread>

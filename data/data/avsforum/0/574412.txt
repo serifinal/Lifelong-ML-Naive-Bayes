@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Great deal on amazon for a great receiver TODAY ONLY</Title>
+		<Username>Rockokma</Username>
+		<Datetime>07-20-08, 03:40 PM</Datetime>
+		<Content>Not sure if i could do this but it's too good to not share. If your in the market for a new receiver http://www.amazon.com/gp/product/B00...pf_rd_i=507846 Sorry, it won't let me link for some reason, just go to amazon's deal of the day, amazing deal.</Content>
+	</Post>
+</Thread>

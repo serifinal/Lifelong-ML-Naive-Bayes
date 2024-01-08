@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cannon G9</Title>
+		<Username>Clay</Username>
+		<Datetime>04-17-2008, 05:05 PM</Datetime>
+		<Content>Does anyone know how to slow down the zoom speed on the Cannon G9, every time I go for a slow zoom I have to go at the one fast speed it goes and then stop and its choppy?</Content>
+	</Post>
+</Thread>

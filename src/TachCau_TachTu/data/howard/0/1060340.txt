@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is there an Api for the new iphone faceTime</Title>
+		<Username>Marino215</Username>
+		<Datetime>06-17-2010 12:56 AM</Datetime>
+		<Content>Hi, I'm just wondering if anyone knew if and when there will be an API for the new iphone 4's faceTime? Thanks Ant</Content>
+	</Post>
+</Thread>

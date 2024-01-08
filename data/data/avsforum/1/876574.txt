@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pioneer Elite Pro FHD1 vs Pro 1150</Title>
+		<Username>Spiegs</Username>
+		<Datetime>03-19-08, 08:33 PM</Datetime>
+		<Content>I am looking to purchase my first plasma TV and have narrowed it down to 2 - the Pioneer Elite Pro FHD1 and the Pro 1150. Both are under $2500 so price is not a consideration. I will be placing this unit in a 10' x 10' room (fairly dark room) and will be sitting about 8.5' to 9' away. I will be purchasing a blue ray player but most of my viewing will be upconverting my existing standard DVD collection and watching standard and HD cable broadcasts. I plan on wall mounting this unit and using my HD DVR cable box and an external sound system so the absence of a stand, tuner and speakers are a mute point. I have looked at both units side by side and so far, am learning torwards the Pro FHD1. I find the FHD1 to have a sharper image and better color saturation. Obviously having 1080P will not shut me out of the new technology. I am told the 1150 has better black levels which should give better detail in darker scenes. I have not seen this yet but will be looking closely for this in my next viewing. Is there anything else I should be considering and looking at? I know the 1150 is a newer unit and has the Kuro technology but it is only 720P. I may be kitpicking here but I want to get the best picture quality for the money. Thanks</Content>
+	</Post>
+</Thread>

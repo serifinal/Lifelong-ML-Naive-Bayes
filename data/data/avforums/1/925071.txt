@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Old panasonic or new plasma? Contrast ratios?! help!</Title>
+		<Username>temptor224</Username>
+		<Datetime>02-02-2012, 10:58 PM</Datetime>
+		<Content>Hi, I'm unsure which tv to get, I understand Panasonic have a very well known reputation for good quality TV's. up there in the top! I'm unsure between a panasonic TH-42PZ70B I can get hold of or wait it out and get a 50" newer tv, which will most likely be some cheaper model. The Panasonic has GREAT reviews, and is 42" The other tv I would have in mind is some form of cheaper 50" tv. I will mainly be watching SD movies and occasional tv. My only concern is that the panasonic is 'old' technoloy almost? Its a good few years old the tv. The contrast ratio of 10,000 to 1. Even though its had great reviews, in comparison to 50" tv's with 3 MILLION to 1, the 10,000 seems really... low? Maybe someone else can make sence! I just want the best I can afford! argh!</Content>
+	</Post>
+</Thread>

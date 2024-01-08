@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>HDTheater 2.0 build thread</Title>
+		<Username>hdtheater</Username>
+		<Datetime>08-11-08, 02:27 PM</Datetime>
+		<Content>Hey guys, My build thread was a casualty of the data loss. I will try to recap where I started to where I am in the next post. Fortunately, Mine just got started and will not be too hard to get it caught up. But for starters Here is what my room will be. Room Size: 15x25 Will have 8' soffits running the length of the room with 9.5' ceiling in the center. Seating: Berkline 088's in a 3x3 configuration. Seats chosen will also give me the option of doing 4x2 if the needs arises. Equipment List: (some of the models are older models, but equipment is all new or in great condition) Projector: SharpVision XV12000 Mark II Screen: 120" 16:9 AVR: Pioneer Elite VSX81 (will be upgraded soon after theater is finished, just using for testing purposes) AMP: Kenwood KM-Z1 (speakers include passive subs and need external amp) Sat: DirecTV HD-DVR Blu-Ray/ DVD: PS3 Will post pictures as construction progresses. I will also be asking lots of questions. -HD</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is more gloss the only reason the 71's amp is more extreme than 650</Title>
+		<Username>RapRepoMan2</Username>
+		<Datetime>03-29-08, 11:15 AM</Datetime>
+		<Content>I went to ciruit city in New Braunfels, TX and they had the 650 playing pirates of the carribean on blue ray. It defiantly was a step down from the 71 as far as "soap opera look" or the extreme amp look when you crank both of them up. I ask the rep there why was that the case and did samsung tone the amp down and he basically said no. He told me the reason the 71 looked more extreme was only due to the extra glossy screen they had and it had nothing to due with there amp. Also he said the 120hz isnt what give it the soap opera look it was something else that went with it. I couldnt remember the last part though only him mentioning about why the 71 looked more extreme with the auto motion plus. I dont know but i was wondering what some of you guys thought about it.</Content>
+	</Post>
+</Thread>

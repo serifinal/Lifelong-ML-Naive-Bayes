@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS51D550 Audio Issues</Title>
+		<Username>meggie_dude</Username>
+		<Datetime>25-01-2012, 6:48 PM</Datetime>
+		<Content>Hi there. Had this set for a couple of months without issue. Today though there are real issues with the sound. Every few minutes the volume goes completely off. A few secs later the sound comes back again only a lot louder. This happens on all channels from what I can see. I have turned off the Auto Volume leveler in the menu and that made no difference Turning power of then on again makes no difference. Help</Content>
+	</Post>
+</Thread>

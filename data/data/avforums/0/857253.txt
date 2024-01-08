@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic V10 black problem but under gaurantee</Title>
+		<Username>Ernie Quinch</Username>
+		<Datetime>26-05-2011, 1:58 PM</Datetime>
+		<Content>Any help appreciated, as title says have a Panasonic V10 42" and overnight the black levels have rocketed which is very noticeable and makes dark scenes/films hard to discern. I bought it January 2010 from Tec7 so I got a 5 year guarantee but it was the display model. Apologise if this has been asked before but is there anything I can do about it? As it's under guarantee will they replace/repair it or is it a case of having to get used to it? As I said apologise if this has been asked before and appreciate any help. Ta</Content>
+	</Post>
+</Thread>

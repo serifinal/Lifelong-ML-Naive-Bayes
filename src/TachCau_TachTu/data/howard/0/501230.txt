@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>deletedelete</Title>
+		<Username>MikeBuzzsaw</Username>
+		<Datetime>08-19-2010 07:03 PM</Datetime>
+		<Content>deletedelete</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung 32" A650 vs Sony XBR6 TV/PC</Title>
+		<Username>Beckler</Username>
+		<Datetime>08-21-08, 01:05 PM</Datetime>
+		<Content>Just deciding between these. For PC use also. Which is better? Can't seem to find many reviews on these. Also, samsung specs say 120 Hz. I guess no 120 Hz on the Sony... Thx.</Content>
+	</Post>
+</Thread>

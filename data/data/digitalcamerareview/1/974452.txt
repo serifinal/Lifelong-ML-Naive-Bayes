@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon S5IS or something newer?</Title>
+		<Username>StoryBoutAGirl</Username>
+		<Datetime>06-01-2010, 10:08 AM</Datetime>
+		<Content>Hello, I have a question. I have a Canon S5IS that I bought about 2 years or so ago and I love taking pictures with it but never really have learned how to use it. I know little to nothing about Shutter Speed, Aperatures, Depth of Field or anything really. Here's my question. I want to learn. Mostly by teaching myself through resources on the internet and by just learning hands on. However am I better off learning on what I have before I shell out money for a more expensive camera? I realize my S5IS is not a DSLR and I really want a DSLR but is it enough to learn on for now? I have my heart set on a Nikon D3000 to start and I know I can get about a quarter to a 3rd of the money for it by selling the S5IS on Kijij or somewhere but I just don't know if it is worth it right now or if I should just stick with what I have?</Content>
+	</Post>
+</Thread>

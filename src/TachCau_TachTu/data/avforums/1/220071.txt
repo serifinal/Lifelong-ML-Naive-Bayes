@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>a 50vt20 for e999, or wait??</Title>
+		<Username>maxflinn</Username>
+		<Datetime>26-06-2011, 6:17 PM</Datetime>
+		<Content>there's a few going here in ireland, brand new, for e999. now i'm aware of the 50hz thing (having once owned a 50v20), but i still feel it's a great tv for the price. i'm wondering though, if i were to wait a few months, would i be able to buy a tv from this years range (not just panasonic, any make) that may be better? at around the same price? any views on this? thanks...</Content>
+	</Post>
+</Thread>

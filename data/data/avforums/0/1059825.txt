@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to set Samsung PS64D80000 1080 24p and XBMC</Title>
+		<Username>jaywrth</Username>
+		<Datetime>02-02-2012, 7:55 PM</Datetime>
+		<Content>hi I have recently bought this new TV and I want to how I make sure that the TV is outputting 1080 24p. I am using XBMC running on an ASRock 3D Vision PC. Question is how do I set everything to work in this manner, Im a noob at this kinda of thing as you can probably tell</Content>
+	</Post>
+</Thread>

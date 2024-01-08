@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Powershot SX 10 "version"</Title>
+		<Username>TomS</Username>
+		<Datetime>03-22-2009, 06:07 PM</Datetime>
+		<Content>I just was about to order a canon sx10 si when the salesperson asked if I wanted the US or Eruopean version. I asked the difference and he said the instruction book. He also said the difference in cost is $350+ for US and $264 for the Eruopean. It sounds fishy to me and can't find anything on google. Anyone have information on US vs European versions?? TomS</Content>
+	</Post>
+</Thread>

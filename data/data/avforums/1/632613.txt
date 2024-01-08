@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Replacing a Small Plasma (LG 32PG6000)</Title>
+		<Username>alahen</Username>
+		<Datetime>08-08-2011, 2:31 PM</Datetime>
+		<Content>I'm thinking of replacing my LG 32PG6000 because my son scratched the screen with his toys! I would love to stick with a plasma as I think it has the most natural picture. Trouble is, I can't really go much bigger than 32" and there just aren't any plasmas that small. Ideally I would like FreeviewHD built-in and 1080p (for my PS3) but I can't find any plasmas smaller than 42" with these features. Perhaps I have missed some? I think the room is too small for 42" so my looming predicament is having to consider an LCD. Are current LCDs still inferior in terms of natural-looking picture quality and viewing angles? If I did switch to LCD, will I regret it big-time?</Content>
+	</Post>
+</Thread>

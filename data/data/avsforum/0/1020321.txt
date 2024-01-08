@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sales of flat panel TVs are going flat</Title>
+		<Username>Auditor55</Username>
+		<Datetime>12-26-08, 12:06 PM</Datetime>
+		<Content>http://www.nytimes.com/2008/12/19/te...ref=technology Quote: In a reversal of fortune, television sales in the United States are predicted to drop in 2009, according to a new report from DisplaySearch, a market research firm. It would be the first sales decline in at least a decade, said DisplaySearch, and the first decline in revenue since 2000. TV makers have long argued that TVs were recession-proof because Americans would continue to buy them as a cheap way to entertain their families. But consumers are now starting to shun the LCD and plasma sets, even as prices fall sharply. In 2009, sales of all types of TVs in North America are predicted to decline by 4 percent. LCD TV sales are expected to increase in North America by 2 percent over 2008, a fraction of the 22 percent gain in 2008 and the 77 percent rise in 2007. I think some of the greedy companies need to take a serious look at this forecast. Especially the arrogant companies that keep manufacturing and marketing overpriced displays that are not selling.</Content>
+	</Post>
+</Thread>

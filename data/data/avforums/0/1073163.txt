@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42gt30</Title>
+		<Username>jaymac</Username>
+		<Datetime>23-12-2011, 10:52 PM</Datetime>
+		<Content>Just got this beast and anyone know what the latest firmware is mines is 1.218</Content>
+	</Post>
+</Thread>

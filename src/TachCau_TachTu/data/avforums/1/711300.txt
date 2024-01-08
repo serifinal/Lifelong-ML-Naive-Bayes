@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>samsung ps43d450a2 any good</Title>
+		<Username>craigymuk</Username>
+		<Datetime>28-12-2011, 4:30 PM</Datetime>
+		<Content>Hi i might be buying this later on and wanted to know if there any good it will replace my old 32inch Toshiba whichi got 2 years ago i would use it for xbox and virgin and blu ray flims thanks ppl its nice and cheap at the min</Content>
+	</Post>
+</Thread>

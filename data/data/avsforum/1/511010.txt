@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is now the best time to buy a 1080P Projector?</Title>
+		<Username>theshadow1234</Username>
+		<Datetime>12-02-08, 03:19 PM</Datetime>
+		<Content>Or should I wait until next year? Im looking forward to buy the Epson 1080UB but with these 2nd generation projectors coming out, should I wait until they drop even more in price? I'd hate to pass up these great rebate offers! Thanks</Content>
+	</Post>
+</Thread>

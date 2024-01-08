@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>iphone4 vs N95</Title>
+		<Username>danlauz</Username>
+		<Datetime>07-20-2010 10:36 AM</Datetime>
+		<Content>hello. thinking to make a trial for the iphone4. However 1 big question: one of the feature I like the more with my N95 is " sending files and pics" to my main computer with bluethooth (no wires to connect). Can we make it with the iphone ? Can I configure my phone to be part of my network ? tks to let me know</Content>
+	</Post>
+</Thread>

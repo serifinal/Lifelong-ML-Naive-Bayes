@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Viera - TX-P42S20B</Title>
+		<Username>monomonkey</Username>
+		<Datetime>03-08-2011, 5:51 PM</Datetime>
+		<Content>Hello everyone, i'm hoping someone can help me I have recently tried to use my 42" Panasonic Viera TV as my monitor for my laptop. Unfortunately my TV is not picking up the signal from my Laptop but my Laptop is identifying that I have plugged in my TV?????? I am using a HDMI cable. I am running Vista with a G Force 8200 M graphics card. I have a 32" Toshiba regza aswell and this works brilliantly. My Laptop automatically recognises that I have plugged in the TV and does everything I would expect my more expensive Viera to do. Ive downloaded the latest drivers for the graphics card and still have had no joy. Please someone help me or let me know if you have had the same problem, just so I know whether to quit or keep plugging away at it (pardon the punn) Thanks, James</Content>
+	</Post>
+</Thread>

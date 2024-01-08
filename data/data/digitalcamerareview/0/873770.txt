@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S3/ Kingston 1 GB Problems--HELP!</Title>
+		<Username>JzeroT1437</Username>
+		<Datetime>03-27-2008, 08:53 PM</Datetime>
+		<Content>Okay, so I went on a trip to San Francisco, took about 300+ pics on my Kingston card, then the batteries died. Afterwards it said that the card was full, yet when I tried to review the photos, the buffer light would flash for a while before returning with "No Images". Looking through the format option, I found that it recognized 890 Mb currently being used. I DID NOT format. Now that I'm home, my computer won't even read the card. When I insert it into my computer's SD slot, the autoplay buffer box comes onto the screen, then nothing. I try exploring it only to find that it doesn't recognize the card to even be present. Anybody have help/suggestions?</Content>
+	</Post>
+</Thread>

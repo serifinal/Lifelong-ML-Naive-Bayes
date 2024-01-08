@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pana G30 - Auto Aspect never switches to 4:3 and it's driving me crazy</Title>
+		<Username>daneaston</Username>
+		<Datetime>09-07-2011, 9:18 AM</Datetime>
+		<Content>My 3yr old Panasonic LCD TV will happily switch between 16:9 and 4:3 so when, for example, Friends comes on, the TV produces vertical black bars giving a 4:3 image. My new Panasonic 42G30 however will not do this. In 'Auto' mode it stretches the picture across the whole screen, so I have to manually select '4:3'. This is annoying because when the ads come on or I turn over, everything is squished. Also, when watching a widescreen broadcast via my Humax PVR with the TV in 'Auto' aspect, the image is stretched on the edges but compressed in the centre giving a really odd effect. To make it look correct I have to select "16:9". I've had the TV a few weeks and this constant selecting of aspect ratio is driving me nuts - is there anything I can do?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung ps51d6900 calibration settings help</Title>
+		<Username>dan10117</Username>
+		<Datetime>03-02-2012, 11:23 AM</Datetime>
+		<Content>Hello there, I've no clue how to calibrate my tv, does anyone here have any idea and be able to help Thanks looking forward to your replies! Dan</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Viera Link Sound Problem</Title>
+		<Username>pauliell</Username>
+		<Datetime>14-08-2011, 5:46 PM</Datetime>
+		<Content>Hi everybody, I'm hoping somebody can help me resolve an issue I have had with 2 different Panasonic Viera TV's and the Panasonic PT480 home cinema system. Basically everything is ok unless I use the TV to run the home cinema surround sound and the system automatically connects to ARC. At this point the TV sound mutes but no sound comes on via the surround sound. Currently I have auxiliary leads connected so can listen but with no stereo or 5.1. Everything is connected via HDMi and I have also tried with a scart cable. When watching a movie on the DVD player the surround sound works fine as does my xbox which is connected via a digital lead so works via D-IN Any advice welcomed</Content>
+	</Post>
+</Thread>

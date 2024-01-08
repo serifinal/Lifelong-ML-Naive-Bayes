@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Dead pixels in Canon A650</Title>
+		<Username>Dulze</Username>
+		<Datetime>05-21-2008, 08:54 AM</Datetime>
+		<Content>I noticed 2 dead pixels last night while using the cam-recorder of A650. One white and the other one blue. They both show in video & pics. I could easily photoshop them off, but Im wondering if I should return the camera and demand for a refund, or is this normal? Im quite happy with the camera, but now after seeing the dead pixels on screen & pics...</Content>
+	</Post>
+</Thread>

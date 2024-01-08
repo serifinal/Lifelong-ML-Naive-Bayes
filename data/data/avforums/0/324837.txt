@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 50" GT30</Title>
+		<Username>mickeym</Username>
+		<Datetime>27-11-2011, 12:59 PM</Datetime>
+		<Content>Does anyone know if the Panasonic 50inch GT30 is still being produced, as John Lewis tell me they cannot get them .</Content>
+	</Post>
+</Thread>

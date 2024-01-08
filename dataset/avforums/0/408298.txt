@@ -1,0 +1,9 @@
+samsung ps51d550 audio issues .
+hi there .
+had this set for a couple of months without issue .
+today though there are real issues with the sound .
+every few minutes the volume goes completely off .
+a few secs later the sound comes back again only a lot louder .
+this happens on all channels from what i can see .
+i have turned off the auto volume leveler in the menu and that made no difference turning power of then on again makes no difference .
+help

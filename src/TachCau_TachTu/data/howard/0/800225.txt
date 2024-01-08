@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy Spica CID No Name</Title>
+		<Username>fobon</Username>
+		<Datetime>05-16-2010 09:16 AM</Datetime>
+		<Content>When I receive a call that has caller ID on my cellphone, I only see the calling number, not the subscriber's name Phone:Samsung Galaxy Spica I5700</Content>
+	</Post>
+</Thread>

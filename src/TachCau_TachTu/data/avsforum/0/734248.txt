@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Looking to build my first Surround Sound</Title>
+		<Username>Outc4sted</Username>
+		<Datetime>09-30-08, 01:44 PM</Datetime>
+		<Content>The speakers I am considering atm are polk: L&R front - TSI300 sub - PSW110 center - cs10 (not getting immediately) This is what I am starting out with and later on I will get the rears and center. Also, I am trying tpo stay at about $500 for the fronts, sub, and receiver. Soo, I am trying to stay at about $200 for my receiver. So, if you guys can help me out by finding a receiver that retails for about $300-$450 that would be very helpful. However, if it is onkyo, then it has be about $200. So to sum it up, if it is: Denon, Sony, Pioneer (or something else BB carries) - $400-450 anything else - ~$200</Content>
+	</Post>
+</Thread>

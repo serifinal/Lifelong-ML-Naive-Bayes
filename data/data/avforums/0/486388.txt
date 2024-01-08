@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Techwood twp4210</Title>
+		<Username>CBDSonline</Username>
+		<Datetime>05-07-2004, 5:57 PM</Datetime>
+		<Content>having just joined i would like to say thanks for the help and thoughts imparted on these forums. I have bought the DSG Techwood plasma 4210 and am impressed by the quality. i read a couple of threads about what the tuner box is so i slid the top off and had a looksee inside. On the lable on the underside of the tuner is the words PLASMA42 (LG). This backs up the installers info that the 4210 is a rebadged LG Inside (attached if i can is an pic) it has a sticker with the same info Plasma42LG. A few of the bigger chips are labled. Pixelworks PW181 and PW1231. ThePanel controller is a Sillicon Image Panel link chip. I must say this panel / setup is Pretty good for the price. I will agree with the rest of the comments that scart/rgb connections are briliant from $ly plus box. Panny e30 and Xbox. Poor reception from terrestial tv tuner from a GOOD ariel setup via booster though. as per other threads the setup is best viewed from at least 15 foot, Any closer and i get a headach after about 5 mins. I am happy. No i am more like a dog with 2 tails. lol.</Content>
+	</Post>
+</Thread>

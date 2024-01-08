@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Second hand value of Panasonic TH-50PZ80B</Title>
+		<Username>pannywarrior06</Username>
+		<Datetime>03-06-2011, 8:37 PM</Datetime>
+		<Content>Hi Guys, I am upgrading to either a 55" LED or 60" Plasma 3D tv and want to sell my current tv, a Panasonic TH50PZ80B. Anyone any ideas on what is a fair price to ask second hand? Its 2 years old and is spotless and works as new. Cheers</Content>
+	</Post>
+</Thread>

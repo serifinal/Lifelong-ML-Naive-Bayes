@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Gaming on lg 50pk590</Title>
+		<Username>cardinalbaz</Username>
+		<Datetime>11-07-2011, 12:57 PM</Datetime>
+		<Content>Looking at getting this TV but have seen a few posts around the web saying its got a bad lag and therfore not the best for gaming and Im hoping to be plugging in my PS3 once arrived since its a bit bigger than my existing sammy le46c750. I've seen a few post regarding the pk590 being a good TV but what is it like for FPS black ops / MOH etc? If there is a drawbacks is there a good alternative? Many Thanks</Content>
+	</Post>
+</Thread>

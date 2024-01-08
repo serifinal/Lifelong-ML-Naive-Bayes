@@ -1,0 +1,5 @@
+galaxy s - bluetooth car connection keeps dropping .
+hi anyone with galaxy s ran into a pairing problem with car bluetooth connection ?
+i had blackberry storm before and had no problem at all connecting and keep the connection on however with galaxy s , it seems to connect in the beginning but then the connection drops out after a few minutes .
+any idea what is causing this ?
+and any solutions ?

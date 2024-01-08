@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon powershot SX100 IS.....erase picture...??</Title>
+		<Username>cooler2005</Username>
+		<Datetime>07-23-2008, 07:34 AM</Datetime>
+		<Content>Hi.. I just bought this camera...the issue is...i am not able to find an option to erase only one image....i found the option where it says erase all.... how can i delete only one image at a time.?? Thanks..</Content>
+	</Post>
+</Thread>

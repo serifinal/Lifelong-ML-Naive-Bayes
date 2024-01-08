@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>LCD + strange dark vertical line issue</Title>
+		<Username>x-cimo</Username>
+		<Datetime>11-30-08, 12:23 AM</Datetime>
+		<Content>Hello, My mother`s Samsung LCD (32``, about 3 yr old), show some maybe 3-4 dark vertical line (about an inch thick, it actually look like some shadow), they do not show all the time, and mostly show on gray (i.e a gray brackground). The line do not show at all on full bright white screen, or complete black. The effect is similar to moire, but not round a all, it`s just a couple of vertical darker line on some picture. I am wondering if It could be related to the backlight.., those line show up on all sources. Please let me know if this problem has a name, and maybe a way to fix it? Thanks</Content>
+	</Post>
+</Thread>

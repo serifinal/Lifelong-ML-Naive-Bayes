@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Yamaha 663 or Pioneer VSX 1018THX-K?</Title>
+		<Username>msully1</Username>
+		<Datetime>03-03-08, 10:47 PM</Datetime>
+		<Content>I was ready to buy the Onkyo 605 but now see these two new models on the horizon for about the same price. I see a lot of excitement around the Yamaha in the forums but from the looks of the specs the Pioneer looks like a better possible choice for only $50 more. What do the experts think? [url="http://ces.cnet.com/8300-13855_1-67-0.html?keyword=VSX-1018TXH-K"]</Content>
+	</Post>
+</Thread>

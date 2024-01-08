@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>International Texting problems??</Title>
+		<Username>c-ton</Username>
+		<Datetime>05-05-2010 08:39 PM</Datetime>
+		<Content>Hey everyone, first post. New to these forums. I just have a question hoping to get answered. I just bought a Samsung Freeform phone an am on the $60 dollar plan for metropcs because I have alot of friend over in the UK. I am currently in Texas close to Fort Worth. My issue is this, all my friends in the UK can receive my text message but when they try and text me back, I do not receive them. I called customer service a few times, had them refresh my phone, they said it would fix it but it didnt. Ive double checked if some of my friends phones in the UK were compatible to send me messages on the metropcs site as well as talked to them about there plan being able to send etc etc etc. For instance, one of the friends is using the O2 service in UK England and one is a Vodofone. Anyways, does anyone know anything about this or any work around etc. Ive tried everything I possibly can Thanks in advance!</Content>
+	</Post>
+</Thread>

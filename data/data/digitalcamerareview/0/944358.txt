@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX10IS</Title>
+		<Username>TeddyV</Username>
+		<Datetime>07-19-2009, 06:58 AM</Datetime>
+		<Content>I am new at this but I do need help. A month ago I bought SX10IS. Upgrading I thought from a S2IS, but it is not working for me. I can not get macro - super macro to work - either it is focused but washed out too light or it is not focused but right colours - tried a lot of thing but not working- I am about to give up and go back to my old camera</Content>
+	</Post>
+</Thread>

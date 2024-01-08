@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Triangular swap or Premium swap</Title>
+		<Username>Smoove-E</Username>
+		<Datetime>03-07-2010 11:51 AM</Datetime>
+		<Content>Is it possible to do a number swap with Fido from line A to a prepaid and get a new number on the line A? Or do I have to wait 90 days to for the number to be released back into the pool? I called them and they said that this is not possible. I do it everyday for customers at Telus, it's called triangular swap or premium swap. Fido says this doesn't exist!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help! Samsung UE46D5520 vs UE46D5000</Title>
+		<Username>moosic</Username>
+		<Datetime>29-12-2011, 4:18 PM</Datetime>
+		<Content>Hi Everyone, i'm in the market to buy a new tv. I currently own a samsung 32'' LED monitor and decided it's time to buy something bigger. I have a sky HD full sub, watch mainly sports, movies and xbox, i also have many avi and mkv files (mainly boxing) that i like to watch. I want to stick with samsung, as past experiences have been good, plus the design look sleak. So, i have finally narrowed it down to two - UE46D5520 vs UE46D5000, both 46'' LED screens and only slight differences as far as i can see. I have two questions for anyone out there - I'm after a tv that can play mkv's, avi's but NEEDS to be able to stream live football from the internet, eg 3pm ko's direct through the tv - I understand the D5000 can't do this, does this mean i would need a tv with the smart tv function ? And finally, in people's honest opinions, which tv is better, why, plus, am i completely wrong with what i'm looking at and should be looking at a different model ? Thanks in Advance.</Content>
+	</Post>
+</Thread>

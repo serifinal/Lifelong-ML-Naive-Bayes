@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Riser as Bass Trap- Still in or out?</Title>
+		<Username>twenty/twenty</Username>
+		<Datetime>05-15-08, 12:32 PM</Datetime>
+		<Content>Refering back to the old DE article in HT builder, the riser can be used as a broadband bass trap. Apparently, it can be used as a helmholtz resonator as well. I'm just interested in the nonspecific broadband basstrap possibilities. The Riser is 14.5ft wide x 8ft long x 12 inches high. It is filled with R38 insulation and is to be covered with 3/4 inch tongue in groove OSB glued and screwed. No buttkickers, no sub on the riser. The original DE article has roughly 9 openings cut out into the top of the riser along the sidewalls and backwall. These openings are covered with 4x10 inch vents. Is this technique still in vogue/valid? Should the naked fiberglass exposed by the 9- 4x10 openings in the riser top be covered with GOM or other fabric to minimize the chance of glass fiber floating out into the room air?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BB - iPhone swap</Title>
+		<Username>ftboomer</Username>
+		<Datetime>11-28-2009 10:47 AM</Datetime>
+		<Content>So my daughter had a BB and when I upgraded my 3G to a 3Gs I gave her my 3G and my wife got the BB. Now she hates the iPhone and wants her BB back. So today we swapped the SIMs and gave my wife the 3G. My question is this, she only uses data at home on the WiFi and is a real technophobe. We don't want to add the $30 data plan since she will never use it. Are we running a risk of the phone "calling home" and using data when not on WiFi. Last thing we want is to unknowingly incur a $100+ data charge. Is there a way to turn off data usage when not on WiFi? (already turned off Location services, deactivated all mail and push notifications)</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,32 @@
+htpc build suggestions please ... .
+hello , here is what i have from a week or so of searching the forums , i could definitely use the input .
+am a total noob to av stuff -lrb- but not system building -rrb- .
+case : i 'll decide on this after i decide on the rest of the components .
+i figure i 'll just browse newegg which probably carries a vast majority of 'em .
+or is there a site that has a better selection or a good comparison of the current ones ?
+mobo/cpu : ga-ma780gpm-ds2h and amd x2 5050e .
+is there a better motherboard + igp solution out now ?
+or even non-igp .
+want the video accel features .
+but possibly a faster solution for not much more power usage ?
+i have n't bought a receiver yet , so not having lpcm over hdmi is n't an issue until then .
+but if there as a diff igp solution that offers same or better igp , might as well get that one .
+or will a discrete video card that is similar speed but better audio solution give a similar total power consumption -lrb- when igp is disabled -rrb- ?
+ram : crucial ballistix 2x1gb -lrb- pc6400 -rrb- - have it laying around video capture : do they have tuner cards , or whatever , that will let me timeshift dish network programming ?
+actually it would only be about 6 or 7 international channels .
+getting tivohd for fios programming .
+although i might end up not getting fios and getting dish for all my tv .
+in that case i would just use dish 's dvr .
+still in the process of comparing the two , and hope to decide by tomorrow afternoon .
+optical drive : ggc-h20l -lrb- possibly ggw-h20l -rrb- .
+are these drives quiet ?
+when playing , hopefully they do n't spin up to full speed and stay there .
+for most play back i figure they probably do n't need to be spinning full speed .
+or is there a better combo drive that is quieter ?
+software : will be running vista .
+will be playing audio/video content streamed from other pc -lrb- s -rrb- .
+probably use mpc-hc and wmc or mediaportal .
+does wmc/mediaportal do timeshifting in the case of dish network above ?
+remote/keyboard : another thing i 'll not worry about till after i get the rest of the components -lrb- case might come with a remote etc. so i might not have to worry about till i get a receiver -rrb- .
+oh , btw i have a wd-73736 mitsubishi dlp -lrb- that i got early this week -rrb- .
+anyway , thanks a lot for reading and/or responding ... imran

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PX60 - Blurring / Green tinge</Title>
+		<Username>TheBlueRaja</Username>
+		<Datetime>04-04-2006, 12:53 PM</Datetime>
+		<Content>Hi all, Ive noticed on my PX60 that the response time leaves a lot to be desired really, it seems to echo the picture as a camera pans accross a shot. Not by much mind but its noticable. I was aware of this issue on LCD's but im suprised to see it on a top line plasma. Im not 100% sure its the telly thouhg as on my Xbox its not so noticeable somehow, but it is clear on my feed from Sky (scart). Has anyone else noticed this and would changing the input from scart to another type of feed help (is this even possible?</Content>
+	</Post>
+</Thread>

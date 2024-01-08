@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TCP50X3 and Wireless headphones?</Title>
+		<Username>Kyle4</Username>
+		<Datetime>10-06-2011, 7:16 AM</Datetime>
+		<Content>I just got this television today as a gift from my parents (who got it for a great price after spending a certain amount at a store) and have a question about hooking up wireless headphones. I do a lot of gaming at night and don't want to wake up the others in the house, on my smaller tv I had a headphone jack and used that every time it was on. The Panasonic doesn't have that option but I figured my wireless headphones would work. After plugging in the WH into every port imaginable at the back and playing with both the PS3's settings and the TV's settings, I couldn't get them to work. Am I doing something wrong or does this tv not support that ability? Since it's brand new I'm also not sure about image retention and how much it can be gamed on at one time before settling in. On my old CRT I'd sometimes wrack up 6-8 hours at a time of Halo and it has the map and weapons icons firmly in the bottom. Any advice on how to properly tune this tv would be much appreciated. I'm new to Plasmas, my only experience with owning a high definition tv is a Sony Bravia LCD. Thanks.</Content>
+	</Post>
+</Thread>

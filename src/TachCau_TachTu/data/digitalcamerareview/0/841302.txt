@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>File Numbering on Canon cameras</Title>
+		<Username>stuman74</Username>
+		<Datetime>12-03-2007, 12:05 AM</Datetime>
+		<Content>I just got a Canon SX100 IS and have a quesiton about file numbering. Years ago, I had a Canon A20. Apparently for Canons, you can number the folders on the memory cards, but I don't see any way to influence the file names. For example, in 2003 I have file names on my PC from my A20 named IMG_0001.JPG and so on. I take a photo today with the SX100 IS, and the file name is also IMG_0001.JPG. I don't want to ever screw up and overwrite old photos just because of the name change. Is there a way to change that prefix to make, for example, IMG10001.JPG or IMGa0001.JPG or something like that? Thanks!</Content>
+	</Post>
+</Thread>

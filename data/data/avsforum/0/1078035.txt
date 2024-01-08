@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Ripping DVD for PS3 -- with commentary?</Title>
+		<Username>adman123</Username>
+		<Datetime>01-04-09, 06:56 PM</Datetime>
+		<Content>I'm currently doing the following steps to back up my DVD for playback on my PS3: 1) Use DVDFab to rip DVD to VOB When I do this, I am ripping the main movie, and selecting multiple soundtracks (including commentary). 2) Use VOB2MPG to join VOBs into a single MPG. 3) Copy this MPG to my PS3. This system works very well. However, I would like to listen to the commentary tracks. Using the PS3 controller, it appears I only have ONE audio track to choose from. I'm guessing that it's being lost somewhere? DVDFab says it's ripping all tracks... so perhaps the VOB2MPG doesn't pass them along or something? Any ideas? Thanks in advance! Adman</Content>
+	</Post>
+</Thread>

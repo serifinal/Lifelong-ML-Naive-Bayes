@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon EF 28-135mm Lens?</Title>
+		<Username>Sam</Username>
+		<Datetime>12-30-2008, 01:55 AM</Datetime>
+		<Content>Hi everyone! After a long hiatus, I've returned from NotebookReview, because of course, my interest in serious photography has returned! This time, I've inherited my dad's Canon EOS 20D (he jumped to the 5D Mark II), so that helps motivate me from my previous Point-And-Shoot, the SD800. So I'm still using the 17-85mm lens, and I think its a good idea to replace it. I've heard mixed opinions about the EF 28-135mm lens, I wonder if any of you guys can give more insight? I'm mainly using it as a general lens, for everyday-usage. My dad (and now I, since I inherited the 20D) has a long-range lens so I have that otherwise. I want a better lens for everyday photos, indoor photos, and definitely good image stability. Is the 28-135mm the right lens for this? If not, any others under $400 you guys could recommend me? Thanks a ton! Sam</Content>
+	</Post>
+</Thread>

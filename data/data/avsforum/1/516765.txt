@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which 2008 model LCD has the least amount of lag?</Title>
+		<Username>MonkeyGoD</Username>
+		<Datetime>04-30-08, 11:31 AM</Datetime>
+		<Content>I know that this is a question that is almost impossible to answer but I'm looking for a TV for gaming and want an LCD set with the least amount of lag. I have been using a Sharp 46d92u for a year now and found lag to be a non-issue with this set. I've been playing games like Rock band and Guitar Hero without having to touch the in-game calibration to fixed any perceived lag. I've read that Sharp LCD's in general have been highly favored by gamers because of its low lag. I know most LCDs, older and newer, have some kind of gaming mode that minimizes delay. However, more recently, I have seen on brochures that they are more heavily marketing this feature than they were for last years models. This leads me to believe that video lag could be more prevelant on the current generation of LCD TVs, likely due to video processing features on the new sets (like 120hz). This is a very similar trend thats been happening with current generation receivers (audio lag/delays) which also has to cope with more processing features. I'm getting worried because I am upgrading to a new set and have been reading reports of lag on top LCDs like A650 (even when gaming mode is turned on). So can anyone point me to any models that have the least amount of lag or least number of reports on this issue? historically, which brands have been least problematic with lag? Right now, I am considering a 52" Toshiba xv540. Normally, I would jump on a Sharp set, but the banding problems are too much for me, which is the reason for me upgrading in the first place.</Content>
+	</Post>
+</Thread>

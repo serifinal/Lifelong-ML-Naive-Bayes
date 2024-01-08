@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Buying dillema</Title>
+		<Username>ekr3peek</Username>
+		<Datetime>29-01-2012, 12:26 AM</Datetime>
+		<Content>Next week I want to buy a new 42 inch TV. I already decided that I will buy a TV with a Plasma display, but I can't choose between 3 different models, mainly because I don't really know the difference between HD-Ready and FullHD. I want to use the TV for three things: watching non-HD TV channels, connecting the XBox to my TV, and connecting my PC to the TV. My main concern is, that two of the tvs which I want to buy are HD-Ready, and at each site I checked, it says that their native resolution is 1024x768. But my PC runs at a resolution of 1280x1024, and I would like to share my display with the TV, but to do this, I need my TV to run at the same resolution. So my first question is, that if I connect the PC with my TV using a HDMI cable, can I set it to a resolution bigger than it's native resolution, or the max resolution for the TV display is it's native resolution?(this would be helpful as the HD-Ready TV's which I want, are 60£ cheaper at my country then the FullHD TV, and price is an issue to me:P) Secondly, I would be grateful if someone could point me to some reviews about my TV's, as I can't really find anything about them on the net except the specifications, and some lame reviews from which I don't understand nothing at all(perhaps the problem is with me:P)). Comparissions would be even better. These are the TV's which I would consider buying(with their prices, converted from RON to GBP): Samsung 3D PS43D490 ~380£ LG 3D 42PW450 ~ 385£ Panasonic NEOPDP 3D TX-P42ST30E ~ 445£ Sorry, but I can't post URL for the specs, I'm a new member</Content>
+	</Post>
+</Thread>

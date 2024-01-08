@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD500 and taking pictures that are sharp</Title>
+		<Username>datachasm</Username>
+		<Datetime>08-22-2006, 07:33 PM</Datetime>
+		<Content>i just got a SD500 and bought a 2gb SD card for it, i cant seem to get a good photo indoors. this is a 7.1mp camera, and an old 3.2 i used to have that was a moderate off brand took better pictures. the 3.2 had a good feature where you could turn the flash off but it would compensate with some sort of anti shake deal. with the SD500, indoors the pics are sharper with the flash on but the flash washes everything out in the photos so i prefer to have it off and use light from lamps. i used to have the SD200 but i sold it because i thought it took bad pictures. ive tried to use the indoor profile, messing with the ISO, and adjusting the resolution settings. anyone have any good tips or know of a website that posts lots of good information for this camera? i have a steady hand somewhat, i dont have a tripod but dont think i actually need one, ive tried setting the camera down and taking pictures that way. as another example, i tested the camera taking pictures of myself for MySpace, at a resolution of 1600x1200 with the indoor profile. they all look sharp in the LCD, but when i transfer them to my PC they are all blurry. my monitor resolution is 1680x1050. if i resize the pictures down to about the size of the LCD then the pictures are once again passably sharp. maybe im trying to shoot to close (usually within 2-3 feet), but so far my experience with this camera is that its not much better than a web cam indoors.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My Samsung Vibrant Review</Title>
+		<Username>howard</Username>
+		<Datetime>06-30-2010 09:49 AM</Datetime>
+		<Content>Here's my Galaxy S Vibrant Review</Content>
+	</Post>
+</Thread>

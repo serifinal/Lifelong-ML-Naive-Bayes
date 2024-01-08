@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone 4 reception problem is a SOFTWARE issue, not PHONE issue.</Title>
+		<Username>pOLLYpOCKET</Username>
+		<Datetime>06-24-2010 06:00 PM</Datetime>
+		<Content>Software glitch with iOS 4. Here it is being duplicated with a 3G. YouTube- iPhone reception issue on iPhone 3G.mov Here it is being duplicated on a 3GS. YouTube- iPhone 4 Reception Issue Replicated on iPhone 3GS Running iOS 4 Source</Content>
+	</Post>
+</Thread>

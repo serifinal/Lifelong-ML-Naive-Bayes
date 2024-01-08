@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Taking good pictures.</Title>
+		<Username>zazonz</Username>
+		<Datetime>09-05-2005, 01:26 PM</Datetime>
+		<Content>I have an A510 on the way as per the Suggestions forum. Any tips for taking good pictures? On all my old camera, admittedly ebay cheapies, they were fuzzy and I could never get the flash to work correctly. Either no flash and they were dark or overwhelmed with light. Thanks.</Content>
+	</Post>
+</Thread>

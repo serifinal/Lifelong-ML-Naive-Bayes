@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Buy a 52" XBR4 or wait for the new XBR6/7</Title>
+		<Username>notebook_gamer</Username>
+		<Datetime>04-06-08, 10:04 PM</Datetime>
+		<Content>I am in the market for a new tv and want a sony xbr and am debating between the 52" xbr4 or the new ones coming out. What is the consensus out there? Is it worth the wait or not that much of an advance. Need your help guys...thanks!</Content>
+	</Post>
+</Thread>

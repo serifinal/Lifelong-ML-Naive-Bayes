@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>where do you buy your CANON ?</Title>
+		<Username>trx680</Username>
+		<Datetime>12-15-2011, 08:24 PM</Datetime>
+		<Content>I'm looking to buy a 7D or maybe even a 60D. None of the big box retailers here in Virginia stock the 7D. Crutchfield in Charlottesville has them and I'm still looking for a camera shop that has them. But if I have to order a 7D where would you suggest I order from?</Content>
+	</Post>
+</Thread>

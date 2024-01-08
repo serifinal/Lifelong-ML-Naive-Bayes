@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>date change on a canon rebel xti digital camera</Title>
+		<Username>mark</Username>
+		<Datetime>05-23-2008, 10:17 PM</Datetime>
+		<Content>having a difficult time re setting the date on y new canon rebel xti any pros out there with the steps to cure?</Content>
+	</Post>
+</Thread>

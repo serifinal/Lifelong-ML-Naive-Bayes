@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TX-P42G10B - 12 months old - anyone recommend a fair price?</Title>
+		<Username>mandub</Username>
+		<Datetime>04-07-2011, 12:49 PM</Datetime>
+		<Content>Been looking on the web, ebay etc and can't seem to find any second hand ones for sale at much below price of a new TV Maybe just a lack of availibility. So would anyone have an approx idea of how much they'd think is an OK price to pay for a second hand TX-P42G10B As far as I know the one I can have if I want it is in good/very good condition & is around 12-18 months old.</Content>
+	</Post>
+</Thread>

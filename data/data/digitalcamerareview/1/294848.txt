@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Buying a Canon NEED help choosing!?</Title>
+		<Username>southpawUWM</Username>
+		<Datetime>02-25-2011, 01:36 PM</Datetime>
+		<Content>I am planning on buying a new digital camcorder. I plan on waiting till march when they release the new Canon vixia HF s30. Right now they have the Canon vixia HF s21 which is basically the same as the s30 except the s21 has a 64GB internal memory while the s30 has a 32GB and the S30 has two SDXC compatible SD memory card slots for faster transfer. The Vixia HF S30 price starts at $1,099.99. The vixia HF S21 price starts at $1,300.00 (Although I found a website selling it for $999.00) After reviewing these two camera's I looked at the Canon Vixia HF S20 also which has the same exact specs as the Vixia HF S21 but has a 32GB internal memory instead of a 64GB. Vixia HF S20 price starts at 999.99 (Although I found a website selling it for $792.95) I am a freshman film major in college and I want a camera that will be able to last me for a good amount of years. I am mainly interested in getting the best picture quality along with zoom. With your guys impute I was hoping you would be able to help me decide which camera would be best and make the most sense to buy? P.S. I plan on waiting till march not only for the Vixia HF S30 to be released, but also hoping that once it is released maybe the prices of the other 2 cameras will drop?</Content>
+	</Post>
+</Thread>

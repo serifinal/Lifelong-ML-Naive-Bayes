@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cybe's noob theatre build</Title>
+		<Username>cybe</Username>
+		<Datetime>10-24-08, 09:37 AM</Datetime>
+		<Content>Hey, guys. Just bought my first house. It came with an unfinished basement, divided lengthwise by a block wall. The half without the utilties is about 13 feet by 40 feet. Walls are block, floor concrete. Ingredients: Mitsubishi HC-1500 (DLP, 720p) Wilsonart DesignerWhite, 5' x 10' in Matte 60 Xbox 360 w/ HD-DVD Onkyo 605 Mains: JBL S38 (v2) Rears: JBL S38 (v1) Center: JBL N-series Monoprice cabling ------------------------------------------------- I had to "adjust" some cabinetry. And a closet. Consolidated cabinetry and closet:</Content>
+	</Post>
+</Thread>

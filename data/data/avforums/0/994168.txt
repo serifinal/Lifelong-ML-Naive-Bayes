@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30 Buzzing question?</Title>
+		<Username>Showoff</Username>
+		<Datetime>25-01-2012, 12:33 PM</Datetime>
+		<Content>Those of you with Buzzing sets, is your TV wall mounted? Those of you without a Buzz, is your TV stand mounted? I only have until tomorrow to decided if I want to return my TV to the suppliers for a refund (28 days after purchase). They don't have anymore in stock and won't be getting anymore, so a swap out is not an option. I've spoken to a Panasonic service centre who advised that they have solved the buzzing on a number of these units that were walled mounted, by fitting a small spacer between the bracket and the TV, something like a plastic washer. Not in all cases has this solved the problem, but with quite a few. I'm going to try it tonight on my 55VT30 and will let you know the outcome. Has anyone tried this already with or without success? Thanks.</Content>
+	</Post>
+</Thread>

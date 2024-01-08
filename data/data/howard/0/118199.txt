@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Not receiving text messages from a Rogers client</Title>
+		<Username>livelikeian</Username>
+		<Datetime>11-05-2009 05:30 PM</Datetime>
+		<Content>Hey there, I activated an iPhone 3GS today and tried out the text messaging. I am able to send and receive texts from other Telus clients, but I can't seem to receive texts from a friend who is with Rogers. She receives everything I send to her, though. Anyone else experience a similar problem?</Content>
+	</Post>
+</Thread>

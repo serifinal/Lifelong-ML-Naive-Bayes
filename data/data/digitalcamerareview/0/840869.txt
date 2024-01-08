@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>no memory card</Title>
+		<Username>baxter sutton</Username>
+		<Datetime>07-11-2011, 04:23 PM</Datetime>
+		<Content>This morning I went to take some picture and my cannon powershot a3100 15 said that i have no memery card, after inserting another spare it again said I have no memery card. Any suggestions?</Content>
+	</Post>
+</Thread>

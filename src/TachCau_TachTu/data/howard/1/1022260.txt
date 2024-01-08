@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Using unlocked Galaxy S / Samsung Vibrant without a data plan?</Title>
+		<Username>heynow</Username>
+		<Datetime>07-25-2010 12:59 AM</Datetime>
+		<Content>Hello all, I was thinking about buying a Samsung Vibrant (or other android t mobile phone) until I got some bad news. I called a tmobile store(official, not reseller) in my neighborhood and they said they wouldn't sell the phone without a data plan. I thought that was weird so I called tmobile customer service and they told me that the phone would not work at all unless I had a 30$ data plan. I don't really want a data plan because I planned on using wifi(available in most places I will be using the phone) for internet access instead. So my question is, can I buy an unlocked Galaxy S and use it on T-Mobile(US) without a data plan? Will any problems arise from me going this route(updates, servicing, etc). Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TV will not connect to laptop</Title>
+		<Username>GRIFFYBOY</Username>
+		<Datetime>08-07-2011, 1:09 PM</Datetime>
+		<Content>Hi, I have a pansonic viera TX-P50G10B flat screen and for the past 6 months hooked my laptop up to the VGA port and all worked fine. For some reason is has stopped working and does not recognise my laptop is connected. I have tried 2 different VGA cables and 2 other laptops and still no joy. Is there a certain set up that may have changed on the TV itself?? Kind regards Griff</Content>
+	</Post>
+</Thread>

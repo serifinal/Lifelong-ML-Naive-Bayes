@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>Huuuze</Username>
+		<Datetime>09-03-08, 10:11 AM</Datetime>
+		<Content>I own a Sharp LC42D64U. When watching standard definition TV (my provider is Dish Network), a small, thin band of "static" (for lack of a better term) appears at the top of the picture. This phenomena does not occur when watching HD programming. Is this an issue with my TV or Dish Network? In either case, is there a known fix?</Content>
+	</Post>
+</Thread>

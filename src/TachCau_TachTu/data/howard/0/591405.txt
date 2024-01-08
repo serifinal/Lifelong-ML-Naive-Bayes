@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPad prepaid data plan like att in us</Title>
+		<Username>AahH</Username>
+		<Datetime>04-30-2010 01:48 AM</Datetime>
+		<Content>I am wondering if rogers will offer prepaid data plans like in The us $15 for 250mb. Since these ipads are not locked, will rogers have to offer a prepaid data plan now? Ie: imei filtering will not work.</Content>
+	</Post>
+</Thread>

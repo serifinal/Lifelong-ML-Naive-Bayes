@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help ordering Panasonic TX-P42U30</Title>
+		<Username>Paul McK</Username>
+		<Datetime>24-05-2011, 4:55 PM</Datetime>
+		<Content>Probably not the place to post this but i'll give it a go Im going to order a Panny TX-P42U30B for amazon for £434.90. great price, but it says it wont be dispatched for two months! is this true? or is it shipped out earlier than this? I can spend an extra £50 and i'll have it by the end of the week if i buy from another shop that Amazon is also advertising but... £434 is already alot</Content>
+	</Post>
+</Thread>

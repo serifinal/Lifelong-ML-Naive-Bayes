@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sound lens Ixus 65</Title>
+		<Username>PeterP</Username>
+		<Datetime>04-15-2006, 01:33 PM</Datetime>
+		<Content>Hello, I recently bought a Canon Ixus 65, Powershot SD630. As I'm fairly new to digital photography and I had problems with the lens on a Kodak Easyshare V530 (it wouldn't retract anymore) I would like to ask if it is normal that the lens on the Canon makes a light mechanical or rattling sound when you focus on an object? I might be looking for problems that aren't there, but I would really like to be sure that this camera is 100% ok. Thanks for any help. Kind regards, Peter</Content>
+	</Post>
+</Thread>

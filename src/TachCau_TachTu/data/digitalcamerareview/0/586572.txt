@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Issue with S5IS - Pls help</Title>
+		<Username>Aargee</Username>
+		<Datetime>11-17-2010, 01:05 PM</Datetime>
+		<Content>Hi All I'm a very beginner to photography, but love taking lot of pics. I own a S5IS for over 3 years & I'm very happy with it. In last 3 days, I'm seeing a weird behaviour with my camera. I'll upload the pics here. Can somebody help me diagnose as what could be the issue? I haven't dropped the camera, not changed any setting. I used it on 11th as usual & since 14th evening I see all my pics are appearing like the attached. I've cross checked the image with LCD panel of camera & TV as well as on laptop & the lines do appear. The image is not captured properly. I'm not sure how this can happen all of a sudden. Has anyone seen such a kind of issue with S5IS before? Has the camera gone for a toss & needs a replacement? Thanks for any help. Regards Ganesh .R</Content>
+	</Post>
+</Thread>

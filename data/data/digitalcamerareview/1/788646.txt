@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Can't back up far enough with my 50mm 1.4</Title>
+		<Username>Oldcaliforniakid</Username>
+		<Datetime>12-10-2007, 03:39 PM</Datetime>
+		<Content>Hi everyone. I'm new here and this is my first post. I just received my new Canon 40d today. I bought the body and lens separately based on info I read on this site. I'm an artist and I paint in both watercolor and oil. I update my website on a daily basis by taking photos of my paintings in progress. Up til now I used my Olympus 2.1 C-2020 Z (my first digital camera after 25 years of using a Pentax Spotmatic I bought in the military) to photo my paintings. When my oil painting is on it's easel and very wet, all I had to do with the Olympus was to stand 5 feet away and shoot the image. I just went into my studio and tried to take a photo of a 4'x4' canvas and I can't back up far enough to get the entire canvas in the picture. Can't take it outdoors as it is too wet to handle and I don't want foreign objects sticking to it. So, I've got a real nice lens that will work with most of my other needs, but doesn't work so well in a confined space. What other lens should I look at that is in the same quality level as my 50mm that will allow me to shoot a canvas 4' wide from 5-6 feet away? Thanks Scott</Content>
+	</Post>
+</Thread>

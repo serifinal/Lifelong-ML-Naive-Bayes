@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which canon would u rec'd??</Title>
+		<Username>jethica</Username>
+		<Datetime>12-09-2007, 10:25 PM</Datetime>
+		<Content>Im trying to decide which camera to get [all canons]. the things that are a must: small size anything above a 3x op. zoom would be nice but not a MUST Have. smallest amount of lag time b/w shots. [VERY important] here are the ones im looking at. sd850 is sd800 is sd750 sd1000. anyone who can offer advice please do.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile Vibrant Capable of AT&T 3G. Could the Bell Vibrant Have AWS?</Title>
+		<Username>Faruk88</Username>
+		<Datetime>08-22-2010 06:02 PM</Datetime>
+		<Content>http://www.engadget.com/2010/08/22/c...r-phone-vibra/ http://forum.xda-developers.com/showthread.php?t=761045 Are you guys thinking what I'm thinking? Could this mean that the Bell Vibrant can be unlocked to work on Wind? Maybe the Bell and T-Mobile Vibrants have identical hardware after all... Users on XDA have reported that the method has successfully unlocked their phones for use on Rogers, but nobody has said anything about Wind yet.</Content>
+	</Post>
+</Thread>

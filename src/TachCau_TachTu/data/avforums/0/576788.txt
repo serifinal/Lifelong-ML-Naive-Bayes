@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CES 2012: Latest on plasma from our team at CES inc videos.</Title>
+		<Username>Scooby2000</Username>
+		<Datetime>10-01-2012, 8:25 PM</Datetime>
+		<Content>Here are all the links to AVForums coverage of CES 2012 relating to this years new plasmas. Big thanks to Phil and Steve for there hard work bringing us some fantastic reports and not forgetting our man behind the scenes Mark. CES 2012: Panasonic Plasma TV Line-Up for 2012 CES 2012: Panasonic (don't really) Show Off New TV Range CES 2012: Panasonic Introduces myspace TV for Smart VIERA CES 2012: LG Announce Google 2.0 TV CES 2012: LG Improves Magic Motion Remote and Launches Kinnect Style Device CES 2012: LG Smart TV Upgraders CES 2012: LG Flagship Plasma for 2012 - LG PM970T CES 2012: Bang & Olufsen's New 3D TV VIDEO: CES 2012 - Samsung Series 6 Plasma HDTV launched VIDEO: CES 2012 - Samsung Series 7 Plasma HDTV Launched VIDEO: CES 2012 - Samsung Series 8 3D Plasma HDTV Launched VIDEO: CES 2012 - Panasonic GT50 and VT50 3D Plasma TVs Launched Phil and Steves final words on CES 2012. Final Report: CES 2012 round up from the AVForums Team Part Two With so many links Im bound to miss some, so please PM me if any are missing and Ill add ASAP.</Content>
+	</Post>
+</Thread>

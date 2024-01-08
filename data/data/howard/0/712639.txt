@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Not Getting International Texting</Title>
+		<Username>max_bobby</Username>
+		<Datetime>01-03-2010 04:27 PM</Datetime>
+		<Content>Anyone having trouble getting texts from family/friends from overseas. In my case I am not getting texts from Ireland. thanks.</Content>
+	</Post>
+</Thread>

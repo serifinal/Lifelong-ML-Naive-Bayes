@@ -1,0 +1,24 @@
+-lrb- lg50pz570t -rrb- problem getting sound output from the scart port .
+hi , i recently bought an lg plasma tv -lrb- lg50pz570t -rrb- and i wanted to connect it to my old sony dvd home theatre system -lrb- dav-sb300 -rrb- .
+previously with my old crt tv when i watched anything on the tv the sound would also be sent to the home theatre system via the scart port .
+so whatever device -lrb- sky + box , vcr or xbox 360 -rrb- i used i could always get the sound output through the home theatre system as long as it was being displayed on the tv .
+the new lg tv i have has only one scart port and so connecting it in the same way to the home theatre system i would have expected the same results .
+but unfortunately this is not the case .
+my current setup is as follows : 1 .
+sky hd box -lrb- changed from sky + -rrb- connected to the tv via hdmi -lrb- port 1 -rrb- 2 .
+xbox 360 connected to the tv via hdmi -lrb- port 2 -rrb- 3 .
+home theatre system connected to the tv via scart -lrb- as it has no hdmi output -rrb- with the above i can only receive sound from the home theatre system when i play a dvd from it .
+another thing is that the tv does have a spdif output but the home theatre system does not .
+the home theatre system does have twin phono inputs but the tv does not .
+the only workaround i have found which partly works is as follows : 1 .
+sky hd box connected to the tv via hdmi -lrb- port 1 -rrb- 2 .
+xbox 360 connected to the tv via hdmi -lrb- port 1 -rrb- 3 .
+xbox 360 also connected to the home theatre system via composite audio connectors 4 .
+home theatre system connected to the sky hd box via scart with the above i can receive sound via the home theatre system from the xbox 360 , sky hd box and dvds played on the home theatre system .
+but the problem now is that i cant get a picture from the home theatre system when i play a dvd , only sound .
+getting sound from the xbox 360 is resolved so i 'm okay with that but the rest confuses me .
+another thing is as the tv can play video files via a usb port and have a pc connected to it via hdmi .
+if i play any video or audio file from either device i can not have the sound routed via the home theatre system .
+i know that the easiest solution would be to buy a new home theatre system with an spdif input which should resolve all of the above issues but i 'm hoping not to have to resort to that .
+so this is my pickle , if anyone can help then any suggestions or advice would be greatly appreciated .
+cryofuse

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why is Plasma cheaper than LED?</Title>
+		<Username>point zero</Username>
+		<Datetime>29-05-2011, 11:35 AM</Datetime>
+		<Content>Hi, Was wondering why LED TVs are more expensive than Plasma TVs of the same manufacturer? Even though Plasmas IMO has better picture quality.</Content>
+	</Post>
+</Thread>

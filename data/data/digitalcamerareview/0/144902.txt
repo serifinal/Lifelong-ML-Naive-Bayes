@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rebel XT Updated Model?</Title>
+		<Username>jtom</Username>
+		<Datetime>05-18-2007, 03:38 AM</Datetime>
+		<Content>The rebel xt has been out for a few years and I was just wondering if canon is releasing an updated version anytime soon. Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New SD1400is Owner</Title>
+		<Username>big12university</Username>
+		<Datetime>12-14-2010, 03:29 AM</Datetime>
+		<Content>Just bought my third Canon Powershot, an SD1400is. My first digital camera was a 500s back in '03, then went to an SD780, and now my 1400. I love the updated features, especially the fact it will go into macro mode automatically if you are too close to an object. I just got it, and haven't messed around with the manual settings, but I'm sure I'll be able to fine tune it and get some better pictures. Anyway, here is a picture of our fire last night. I typically overload our fireplace....I'm a bit of a pyro. But hey...it made for a great photo opportunity. This was one hot fire!</Content>
+	</Post>
+</Thread>

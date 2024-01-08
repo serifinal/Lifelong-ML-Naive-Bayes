@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Sky+ to MCE</Title>
+		<Username>travis11</Username>
+		<Datetime>10-20-08, 02:10 PM</Datetime>
+		<Content>Hi, I currently have Sky+ with multi room giving me Sky+ in the lounge and normal sky in the bedroom. I am moving house in December and am currently speccing out the new build house for audio/video and networking. There will be 5 rooms in the new house with TVs in. I'm having most rooms cat5'd .. and I like the idea of putting a media extender or x-box with each and sharing recorded TV, live TV, movies and audio around the house. My questions are: - Can I capture a sky signal and share it / record it? - Could I also capture and share digital free view as well if I had another tuner device? So I can have multiroom, by having sky on one tv and regular digital freeview on the other? How does one switch between the different live TV signals? - Is it possible to recreate Sky+ features like recording 2 channels simultaeniously? - Do I need an AMP in each room if I want surround or is that data sent down the CAT5 (or wireless) to the media extender and then to the TV and speakers from there? If so how? is it HDMI and then normal audio? - I've seen some set ups with a single amp in a control room and speaker wire running to all rooms ... is that another way of doing it? Sorry if these questions are noob. Just having a hard time getting my head round it all and really don't want to lose my sky+ facility as I've grown to love it. Cheers Trav</Content>
+	</Post>
+</Thread>

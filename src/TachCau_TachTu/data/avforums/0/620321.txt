@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G30 - how long does it take your EPG to appear?</Title>
+		<Username>daneaston</Username>
+		<Datetime>05-06-2011, 9:25 AM</Datetime>
+		<Content>I've just bought a TX-P42G30 and am getting very frustrated at the fact that the EPG takes 5 seconds to appear. 5 seconds of black screen is annoying! Can anyone confirm if this is about normal?</Content>
+	</Post>
+</Thread>

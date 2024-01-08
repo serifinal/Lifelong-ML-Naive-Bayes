@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic P42GT30 picture settings.</Title>
+		<Username>alexbaker</Username>
+		<Datetime>11-02-2012, 10:32 PM</Datetime>
+		<Content>Hi All... Just wondering if anyone out there has any good proven settings for the P42GT30 Panasonic Plazzy job ? I have waded through the other threads but can't seem to see if anyone has posted anything up yet... Got mine on Friday but can't quite seem to hit the spot with the pic quality. Not into gaming so just looking for settings for general HD viewing and Blu Ray DVD. Thanks for your help in advance. Alex</Content>
+	</Post>
+</Thread>

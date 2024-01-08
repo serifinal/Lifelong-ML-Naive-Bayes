@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Black Dot on LCD</Title>
+		<Username>Myron</Username>
+		<Datetime>12-19-2007, 09:24 AM</Datetime>
+		<Content>I own a Canon SD 600 with a 2.5 LCD. I notice recently a black dot in the upper part of the screen. I never saw it before. Is that a burned-out crystal? What happened? Is this normal after using. I've had it for about 9 months.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TH-42PX80U vs Samsung HP-T4254</Title>
+		<Username>whiteblur</Username>
+		<Datetime>03-07-08, 03:11 PM</Datetime>
+		<Content>For those that have seen both sets, what does each set have over the other? My main question, is the Panny ~$150 better than the Sammy is? Does one produce better whites and blacks? I am looking at about 50/50 HD and SD viewing. No bashing, I have limited expierence with plasmas, just want some comparison info.</Content>
+	</Post>
+</Thread>

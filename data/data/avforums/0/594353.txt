@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Connecting Macbook Pro to Panasonic G10</Title>
+		<Username>guitarfreak</Username>
+		<Datetime>09-08-2011, 11:29 PM</Datetime>
+		<Content>Hi Guys What do i need to connect my laptop to the tv? I want it to be simple so i can watch my videos and streams on the tv... I guess id need a dvi to hdmi cable.. but what about sound how does that work? Thanks in advance Alan</Content>
+	</Post>
+</Thread>

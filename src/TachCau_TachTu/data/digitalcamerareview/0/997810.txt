@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>S5 IS super macro exposure problem</Title>
+		<Username>spdracer</Username>
+		<Datetime>08-22-2008, 08:10 PM</Datetime>
+		<Content>When shooting in macro the exposures are fine,when I switch to super macro and lightly touch the shutter button the image on the screen turns darker resulting in an under exposed shot. I've tried changing many settings with no improvement. Any ideas?</Content>
+	</Post>
+</Thread>

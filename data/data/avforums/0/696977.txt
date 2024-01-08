@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung D8000 plasma</Title>
+		<Username>tomhd</Username>
+		<Datetime>09-02-2011, 9:54 AM</Datetime>
+		<Content>Hi guys, Any news about 2011 Sammy plasmas? D 8000 looks awesome for me and blacks, they claim to be improved together with overall performance. In next few months it should be on market. Generally: less crostalk, better blacks, new engine?,+1 extra inch, touch remote control, full web browser etc. Edit: Follow avs D8000 series * Full 1080P 3D, with 2D-to-3D conversion * Crystal Full HD video processing engine with Cinema Smooth * LCE (Local Contrast Enhancer) * Real Black Filter (micro-louvre antiglare filter) * Narrow bezel * Touch of Color design (silver-finished bezel) * Touchscreen remote * Smart TV (Samsung Apps, universal search, web browser) * Built-in Wi-Fi connection * Supports Bluetooth 3D active glasses * 0.004 fL MLL (claimed by Samsung engineers, expected across 6-, 7-, and 8-series lineup) Samsung PN51D8000: 51-inch Samsung PN59D8000: 59-inch Samsung PN64D8000: 64-inch more: http://www.avsforum.com/avs-vb/showthread.php?t=1304494</Content>
+	</Post>
+</Thread>

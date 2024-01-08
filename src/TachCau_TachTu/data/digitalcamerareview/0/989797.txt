@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot A95</Title>
+		<Username>Gautam</Username>
+		<Datetime>05-13-2007, 11:21 PM</Datetime>
+		<Content>I got a Canon Powershot A95 a couple years ago, to take with me when I went studying abroad. In the beginning, the camera took reasonable quality photos - nothing spectacular - but since last year or so, the image quality has reduced drastically. I don't know much about digital cameras, since I am a film guy...any help on what to do would be great (or even just telling me to throw the piece of junk out). Thanks.</Content>
+	</Post>
+</Thread>

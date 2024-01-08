@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>DVI Input on 436XDE used for PC</Title>
+		<Username>bix</Username>
+		<Datetime>08-01-2006, 9:40 PM</Datetime>
+		<Content>I know this has been mentioned before, but have any of the retailers/installers/calibrators worked out a way of persuading the 436 panel to accept an input other than the media receiver via DVI? I imagine the media box sends some sort of signal down the DVI cable to remind the panel of it's presence.</Content>
+	</Post>
+</Thread>

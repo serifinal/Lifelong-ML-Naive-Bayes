@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung i9000 release date (Galaxy S)</Title>
+		<Username>enigma99a</Username>
+		<Datetime>05-11-2010 04:43 AM</Datetime>
+		<Content>Hey does anyone know when this one is going to drop?</Content>
+	</Post>
+</Thread>

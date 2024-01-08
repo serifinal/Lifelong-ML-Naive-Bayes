@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Hitachi 42PD5200 e Plasma daughterboard issue.</Title>
+		<Username>schades</Username>
+		<Datetime>18-09-2009, 8:34 PM</Datetime>
+		<Content>Have acquired a dead Hitachi 42PD5200. From what I've read on here it seems to have similar probs to the 42PD7200. I've been informed that the 42PD5200 has a "daughter-board" and this daughter-board has 2 smd transistors that need checking before R003/R005 are replaced, otherwise they're likely to blow again. So, my question is..: which board is the daughter-board and does anyone know the location of the transistors? Or...have I been given the wrong info and the 2 transistors are on the same board (PSU) as R003/R005?</Content>
+	</Post>
+</Thread>

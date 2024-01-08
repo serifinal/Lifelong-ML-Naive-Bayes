@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fiji Fine Pix4900 Zoom</Title>
+		<Username>7073</Username>
+		<Datetime>06-19-2009, 11:42 PM</Datetime>
+		<Content>Why does this camera powers down after a few seconds may be 20 secs? Is there a way to adjust the time? Is it the battery? Can the camera be powered by the charging cable if the battery is weak? Sorry for too many questions - just frustrated all these years. Thanks</Content>
+	</Post>
+</Thread>

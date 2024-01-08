@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic 42GT30 HDMI input madness.</Title>
+		<Username>Rimsey</Username>
+		<Datetime>28-11-2011, 10:22 AM</Datetime>
+		<Content>OK I have a Panny 42GT30 and an Onkyo AVR (NR609). All is good and I have got the ARC working when the TV is in net mode (BBC iPlayer and the like). Problem: When the TV starts up, it starts in "Internal Freesat" mode. I have changed the prefered mode from TV to AV and this works every now and then. In the manual it says the AV will be prefered when a signal is present (there definitely is). Any ideas anyone? Is there any way to force the TV to start on the last used input? TBH it seems a strange way to do things e.g. have the TV default to a freesat internal, rather than default to a "Last Used" input. lets be right who is going to pay £1,000+ for a Plasma HD 3D TV to watch freesat?!?!?!? thanks</Content>
+	</Post>
+</Thread>

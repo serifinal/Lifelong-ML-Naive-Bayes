@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>A few questions about the Panasonic TX-P50VT20 and more.</Title>
+		<Username>Moonwalker2006</Username>
+		<Datetime>05-07-2011, 9:56 AM</Datetime>
+		<Content>Hi all, So i'm about to make my purchase, after reading every single review of this tv, but then i stumbled upon a forum where people were discussing this tv and one particular person strongly adviced NOT to choose this tv. The guy said this. Potentional VT20 buyers, please don't. I've had this model and and this one has problems with serious retention/burn-in, which doesn't seem to go away easily. Panasonic has traded this VT20 for the VT30 without any extra costs because there was no way to save the VT20. Panasonic didn't say it in these words, but there's a structual problem with the VT20. Also weird that there's no 'pixel orbiter' and the 'scrolling bar' on the VT20. This function IS present on the VT30 and i must say next to clearly better picture quality, it doesn't seem to have any troubles with retention or burn-in. And of course the burn-in thread from Tomasgajan on this forum as well...has me worried...alot. Is this a common problem, or more like that some people just got 'unlucky' ? Cause i honestly didn't read this in ANY of the reviews. Other tv's i am considering if i'm not going for the VT20 Samsung PS51D6900 Samsung PS51D6900 TV review - Final thoughts - Trusted Reviews Samsung PS59D550 Samsung PS59D550 Owners thread But in what ways are these models inferior to the Panasonic VT20? Help is greatly apreciated.</Content>
+	</Post>
+</Thread>

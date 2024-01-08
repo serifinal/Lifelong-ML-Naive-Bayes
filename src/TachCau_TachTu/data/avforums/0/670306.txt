@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panny 50" with only VGA sockets...</Title>
+		<Username>scottyboy</Username>
+		<Datetime>04-01-2012, 8:53 PM</Datetime>
+		<Content>Can I use an XGA box (gadmei) to watch freeview box on my panny 50" plasma? It only has 2 vga sockets (female) so makes a great monitor but I want to watch tv on it lol. Got it from work as it had slight IR but a great set. Tried £3 scart to vga cable but no joy so searched the forum and an xga box was suggested to someone but he never said how he got on with it. Cheers!</Content>
+	</Post>
+</Thread>

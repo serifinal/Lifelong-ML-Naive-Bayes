@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My Canon A610 dead already?</Title>
+		<Username>nickspohn</Username>
+		<Datetime>10-04-2006, 04:46 PM</Datetime>
+		<Content>My camera has been sitting on my desk, untouched for a few weeks now. Last time i used it, it was for my review on NBR. I go to use my camera, and there is no image??! Everything else works. I can take a picture, (but it just shows up black) i look on the display, and i can see the items like pics left, but no image. I call Canon, and they didn't know what to do (since we tried everything) so im about to send it in. Today i go to turn it on, and now it doesnt even turn on. So, i hope i get this one fixed, or just a new one. Why would this happen though?</Content>
+	</Post>
+</Thread>

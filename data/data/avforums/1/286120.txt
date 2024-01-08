@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 60PZ570 vs sony KDS55A2000 SXRD</Title>
+		<Username>marc carballo</Username>
+		<Datetime>16-07-2011, 7:07 AM</Datetime>
+		<Content>hello im looking at replacing my sony kds55 sxrd im looking at the lg 60pz570 so i can put it on the wall to save some space anyone know watt the pq will be like comp to the sony the reason im looking at the lg is its in my mum's catalog as i dont have cash</Content>
+	</Post>
+</Thread>

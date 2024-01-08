@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Exchanging internet order in store</Title>
+		<Username>platinumsc7</Username>
+		<Datetime>12-19-2009 10:44 PM</Datetime>
+		<Content>So I got a Chocolate touch with my new every 2, but I am not liking the phone. I have played with my wifes Env Touch and have fell in love with it. The question I have is- can I take my Chocolate that I ordered online and exchange it for an env touch in a corporate store? Or will I have to reactivate my Dare, send the choc touch in, wait until they receive it, then pick my new phone? If I do have to send it in, does anyone know how long the process takes? When I selected the phone, I could have gotten either the choco or the env for free, but I'm afraid that if I have to wait to send it in that I will lose the free pricing and get stuck paying for a phone. I have this feeling that it may be a hassle in the making, but I hope I am wrong. Thanks!</Content>
+	</Post>
+</Thread>

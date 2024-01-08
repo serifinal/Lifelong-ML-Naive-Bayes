@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Vizio won't turn on</Title>
+		<Username>56BelAir</Username>
+		<Datetime>19-11-2011, 10:19 AM</Datetime>
+		<Content>I was watching TV and my Vizio VP50 shut off. No lights on or any indication of power. I unplugged it and plugged back in. Any ideas where I can research and see if a component can be replaced? Perhaps it's a component for the power that needs replaced. TV is 3 years old and out of warranty. Paul Parker, CO</Content>
+	</Post>
+</Thread>

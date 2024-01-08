@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell U760 3G Turbo Stick Problems</Title>
+		<Username>dirtyrobot</Username>
+		<Datetime>07-07-2009 11:42 AM</Datetime>
+		<Content>Hello, I have recently purchased a Bell 3G turbo stick (Novatel U760). I have managed to get it working on my Macbook (Leopard) under my username. My wife also uses the same computer and has her own account. However the Bell "Mobile Connect" software will not work when she is logged in. The following error pops up: "Mobile Connect cannot run from a locked disk. Unlock the disk or copy it to your hard drive.". Any ideas as to what is going on? Thanks!</Content>
+	</Post>
+</Thread>

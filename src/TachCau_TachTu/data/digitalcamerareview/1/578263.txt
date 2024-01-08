@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Powershot SX100</Title>
+		<Username>canoon</Username>
+		<Datetime>05-12-2009, 04:51 AM</Datetime>
+		<Content>Hey guys! This is my first post on here. I've got a Powershot SX100, its been a great camera so far, I'm just taking pictures of family members and just random shots. Here lately my camera will take one picture or two and then it will just go blank. Its like it turns off for some reason. I've checked different battery and it does it with new ones to. i'm scared there is a setting messed up on it and I can't seem to figure it out. I don't want to buy a new one and that be whats wrong. Do you all have any ideas Thanksfor the help in advance.</Content>
+	</Post>
+</Thread>

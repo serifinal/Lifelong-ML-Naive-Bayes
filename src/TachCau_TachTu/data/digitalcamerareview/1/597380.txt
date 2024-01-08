@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>canon</Title>
+		<Username>AviWEnger</Username>
+		<Datetime>04-23-2006, 10:04 PM</Datetime>
+		<Content>considering purchasing the rebel xt. the issue of lens compatibility is a roadblock at the moment. the 18-55mm which comes with this camera certainly is useful. however a telephoto would be an asset for my style of shooting. what slr lenses are compatible with the rebel? thanks...</Content>
+	</Post>
+</Thread>

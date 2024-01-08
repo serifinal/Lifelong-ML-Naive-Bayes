@@ -1,0 +1,68 @@
+using samsung t-mobile vibrant t959 on wind mobile ... in canada .
+introduction : this is a technical guide on how you can use an unlocked samsung t-mobile vibrant t959 model on wind in canada and enjoy your unbelievably priced wind plan ... well i know i am ... .
+for wind plans see go to their website and look under shop - > voice plans -lrb- sorry i am new on here ca n't post outside links yet heads up : 1 .
+sorry for the long sentences , take your time , grab some coffee and do this when you have plenty of chill time ... 2 .
+important : this article only covers connecting to wind home ... wind away does not work for me , i 'm still playing with the settings , should i succeed , i shall let y' all know that way you can go roaming and pay those extra monies << update >> wind away now possible ... please see bottom section of this article conditions / prerequisites 1 .
+you do n't have to be a techy -lrb- cell phone or otherwise pc / mac guru -rrb- to do this but please do so at your own risk .
+i strongly recommend a pen and paper , that 's right , pen and paper write down each step as you do it so you know what the heck you changed and can revert the settings .
+2 .
+of course , the samsung t-mobile has to be unlocked .
+if you 're buying from ebay -lrb- win that auction man ! -rrb-
+make sure you ask the seller to confirm unlock .
+this can be easily done by the seller asking t-mobile customer service for unlock code using the phones imei but that is the seller 's business , yours is to simply make sure its unlocked before you cough so much $ $ !
+alternatively , should you already have your vibrant phone , you can check for unlock status before reading further down this cool idea .
+open the dialer and key in * # 7465625 # .
+for an unlocked vibrant you should get the following result : network lock -lsb- off -rsb- , network subset lock -lsb- off -rsb- , sp lock -lsb- off -rsb- cp lock -lsb- off -rsb- , press ok to exit that menu and please proceed with caution .
+3 .
+oh by the way , if you have wind data plan then you do want to make sure your unlocked samsung t-mobile vibrant t959 already has the apn settings ... if not here 's what you do : i. tap on applications ii .
+tap on settings iii .
+tap on wireless and network iv .
+tap on mobile networks v. tap on access point names -lrb- apn -rrb- vi .
+tap on menu and then new apn and here is all that you need to populate in the fields : name : wind data -lrb- or whatever you like -rrb- apn : internet.windmobile.ca mcc : 302 mnc : 490 apn type : internet leave other fields blank -lrb- fyi : they 'll simply read not set -rrb- .
+note : if you 'd like to use mms ... then perform step v. above and this time use the following to populate fields as per step vi above : name : wind mms apn : mms.windmobile.ca mcc : 302 mnc : 490 apn type : mms leave other fields blank -lrb- or they 'll say not set -rrb- .
+4 .
+and finally , i should mention that the following below steps / process / procedure is only for those whose unlocked samsung t-mobile vibrants will not auto register to wind home and are always stuck in wind away zone which can not even make any calls or even send text messages .
+how to force samsung t-mobile vibrant t959 to register on wind home zone in other words remind it that wind just like t-mobile uses aws -lrb- 1700/2100mhz - both -rrb- configuration .
+fyi : each time you 'd like to go back to previous menu , press the menu key and tap back to go back .
+1 .
+open the dialer -lrb- that 's the phone interface -rrb- on your vibrant 2 .
+key in the following * # 197328640 # to access the phone 's servicemode 3 .
+tap to select -lsb- 1 -rsb- debug screen 4 .
+tap to select -lsb- 8 -rsb- phone control 5 .
+tap to select -lsb- 7 -rsb- network control 6 .
+tap to select -lsb- 4 -rsb- aquisition order 7 .
+tap to select -lsb- 3 -rsb- umts - > gsm -lsb- -rsb- & nbsp7.a phone should now say = aquisition order = select acq_order_wcdma_first , now click menu key and tap on back , do this twice to go back to network control menu display 8 .
+tap to select -lsb- 2 -rsb- band selection 9 .
+tap to select -lsb- 2 -rsb- wcdma band -lsb- * -rsb- notes : once in this menu , just double check to see that the following -lsb- 4 -rsb- wcdma 1700 -lrb- fddiv -rrb- -lsb- * -rsb- and -lsb- 2 -rsb- wcdma 2100 -lrb- fddi -rrb- -lsb- * -rsb- are selected .
+and how do you know its selected ?
+well , if it has the * -lrb- asterix -rrb- it means its already selected , if not then tap to select will select it for you .
+once you have verified that -lsb- 4 -rsb- wcdma 1700 -lrb- fddiv -rrb- -lsb- * -rsb- and -lsb- 2 -rsb- wcdma 2100 -lrb- fddi -rrb- -lsb- * -rsb- are selected , now press the menu key and go back to the previous menu ... 10 .
+tap to select -lsb- 4 -rsb- combi bands -lsb- -rsb- notes : make sure the following have asterix on them ; -lsb- 7 -rsb- wcdma 1700 -lrb- fdd iv -rrb- -lsb- * -rsb- and -lsb- 5 -rsb- wcdma 2100 -lrb- fddi -rrb- -lsb- * -rsb- 11 .
+that 's it ... you 're done !
+press the menu key and select end .
+if you dont see wind home in like 3-8 seconds , restart your unlocked samsung t-mobile vibrant t959 .
+if you still do n't see wind home and its just wind away , try making a call if that call does not go through then you did something wrong ... go back and repeat all from step 1 above .
+enjoy wind home on android , its cool !!
+################################################## ############### setting up wind away on unlocked samsung vibrant on wind mobile canada okay so i 've been playing with the settings a bit more and i got wind away to work ... here 's how i did it and what you should know .
+note : 1 .
+once on wind away , there 's no way to manually select the option that takes you back to wind home .
+& nbspwhat i mean to say is that once your vibrant goes into wind away mode , it means if you wan na go back to wind home , you have to follow the steps as detailed above under how to force samsung t-mobile vibrant t959 to register on wind home zone 2 .
+wind away only give you access to edge speeds for internet access 3 .
+need i remind you that wind away means that you 're roaming ??
+okay now that you know ... do these steps only if you 're stuck in some area with no wind home .
+okay here 's the steps ... 1 .
+open the dialer -lrb- that 's the phone interface -rrb- on your vibrant 2 .
+key in the following * # 197328640 # to access the phone 's servicemode 3 .
+tap to select -lsb- 1 -rsb- debug screen 4 .
+tap to select -lsb- 8 -rsb- phone control 5 .
+tap to select -lsb- 7 -rsb- network control 6 .
+tap to select -lsb- 4 -rsb- aquisition order 7 .
+tap to select -lsb- 2 -rsb- gsm - > umts -lsb- -rsb- & nbsp7.a phone should now say = aquisition order = select acq_order_gsm_first now tap menu key and tap on back 8 .
+tap to select -lsb- 3 -rsb- gsm band -lsb- -rsb- 9 .
+tap to select -lsb- 2 -rsb- gsm 850 -lsb- -rsb- & nbsp9.a phone should now say select gsm 850 only -lsb- * -rsb- , now tap menu key and tap on back , do this twice to go back to = band selection = menu display 10 .
+tap to select -lsb- 4 -rsb- combi bands -lsb- -rsb- , fyi while in this display -lsb- 1 -rsb- gsm 850 -lsb- * -rsb- should have * on it , if yes then continue , if not go back and repeat step 8 11 .
+tap to select -lsb- 4 -rsb- pcs 1900 -lsb- -rsb- & nbsp11.a phone should now say add pcs 1900 -lsb- * -rsb- if you want bla bla bla ... too long ... now tap menu key and tap back 12 .
+tap to select -lsb- 7 -rsb- wcdma 1700 -lrb- fdd iv -rrb- -lsb- -rsb- & nbsp12.a phone should now say add wcdma_w1700 -lsb- * -rsb- if you want bla bla bla too long ... now tap menu key and tap back 13 .
+tap to select -lsb- 5 -rsb- wcdma 2100 -lrb- fdd i -rrb- -lsb- -rsb- & nbsp13.a phone should now say add wcdma_w2100 -lsb- * -rsb- if you want bla bla bla too long ... now tap menu key and tap back that 's it ... your vibrant should now refresh its antenna and you should see wind away in the notification area , also if you have data active , e for edge should show up 2-3 minutes later .
+try to make a call if it does not go through , reboot the phone and when you 're back , check your settings by going through all the steps outlined above .
+enjoy roaming on wind away , do n't pay too much unless you have to !

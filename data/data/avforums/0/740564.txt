@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need help with flickering om my t.v</Title>
+		<Username>jk1988</Username>
+		<Datetime>Today, 5:02 PM</Datetime>
+		<Content>I am in need of some assistance. I have a Samsung plasma that is now two years old but as of recent I have noticed a flickering on the screen reminiscent of fluorescent tube loosing juice whilst watching anything. i.e sports, movies and gaming but more so on movies. At first it was on darker scenes but I watchd the Lion King the other day which is quite a colorful film I noticed it quite frequently. I'll also add that I have sent it to be repaired through currys knowhow repair centre but when the guy came to pick up the t.v he said that they may not find a fault with the t.v as they would look at the t.v through the freeview channels of which I do not use as I use a virgin media V+ hd box all of which I mentioned to the guy on the phone when booking in my t.v. I rang the day before my t.v was due to be delivered back to me to be told that it had something replaced and it had passed through quality control test's. recieved the t.v back ok for a week but now it is happening more frequently. Any help would greatfully recieved as what the issue could be. Thankyou jk1988</Content>
+	</Post>
+</Thread>

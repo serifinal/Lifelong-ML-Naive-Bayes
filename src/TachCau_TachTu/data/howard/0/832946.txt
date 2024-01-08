@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Apps NOT multitasking?</Title>
+		<Username>JMCollins128</Username>
+		<Datetime>04-15-2010 02:14 PM</Datetime>
+		<Content>I am updated to OS 4.0, Which I LOOOOOVE, but the apps like pandora and last fm that I really want multitasking for do not work? Anyone else ran into this? Is there a fix for this yet?</Content>
+	</Post>
+</Thread>

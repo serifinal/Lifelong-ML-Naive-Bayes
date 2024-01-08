@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony 46" V4100 vs W3000 - which one is better?</Title>
+		<Username>niceguy1234</Username>
+		<Datetime>06-26-08, 04:53 PM</Datetime>
+		<Content>I am looking for a 46" TV, and consider the Sony new line 46V4100 or an old 46W3000. If their prices are the same, which one should I pick? 46V4100 looks better with new BE2 engine. 46W3000 is 10-bit panel vs 46V4100 which is 8-bit panel</Content>
+	</Post>
+</Thread>

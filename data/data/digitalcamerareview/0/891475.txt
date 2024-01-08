@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon G12 review</Title>
+		<Username>pixelmantis</Username>
+		<Datetime>10-09-2010, 02:12 PM</Datetime>
+		<Content>Hi guys, Long time lurker first time poster here. Just did a review of the G12 if anyone's interested at Canon PowerShot G12 Review Any feedback and comments would be greatly appreciated</Content>
+	</Post>
+</Thread>

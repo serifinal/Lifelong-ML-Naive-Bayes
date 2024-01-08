@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Do in ceiling speakers have to be installed in the ceiling?</Title>
+		<Username>mskeezer</Username>
+		<Datetime>01-02-09, 11:11 PM</Datetime>
+		<Content>This is probably a dumb question but I just came across some very inexpensive in ceiling speakers and need to know if they have to be installed in the ceiling/wall. Can these be hung from a bracket or installed in a DIY enclosure? Please let me know. Thanks.</Content>
+	</Post>
+</Thread>

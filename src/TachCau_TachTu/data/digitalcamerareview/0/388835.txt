@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>G10 - Controlling Depth Of Field</Title>
+		<Username>justicentyme</Username>
+		<Datetime>05-31-2010, 12:40 PM</Datetime>
+		<Content>At one time we had our own color darkroom and did wedddings and senior pictures. Now after years of film cameras I purchased a Canon G10 for my wife. A neighbor wants her to take her daughter's senior pictures and we are having trouble controlling the depth of field. In my old Pentax K2 DMD I used an 85mm 1.8 that worked perfect for portraits. (I don't remember what I used on the Mamiya RB67 it has been so long.) I used almost exclusively VeriColor film. We have tried the manual settings using the 2.8 aperture in an attempt to shorten the DOF (ISO 80 to enhance image quality) and whatever shutter speed that will give us a proper exposure but we can't seem to get any difference. Everything still has far too much depth of field. Also she had tried different zoom values. Is this camera capable of giving what I routinely got with my filmcameras? Thanks James</Content>
+	</Post>
+</Thread>

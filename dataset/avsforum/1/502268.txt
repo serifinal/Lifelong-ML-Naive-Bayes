@@ -1,0 +1,24 @@
+help me figure out what i need to replace my sd-6109c .
+so i am currently using a toshiba sd-6109c dvd receiver .
+it has a built-in dvd player , but i have n't used that part in years -lrb- i use stand alone players -rrb- .
+normally , i 'm a `` ai n't broke , do n't fix it '' guy , but i 'm finding the 6109c is a pain with my hd devices .
+i want to keep the price between $ 500 and $ 800 .
+i have a 55 '' 1080i rptv which has 1 dvi input and 3 component but no hdmi .
+my tv does not support 720p , only 480i/p and 1080i .
+however , i 'm aiming to get a 55 '' + 1080p lcdtv via hdmi/vga/component by the end of 2009 .
+my speakers are a set of bose double-cubes for l/c/r and infinity 's for rears .
+they all handle 100 watts and a powered sub with a coax connection .
+i 'm not using the acoustamass module .
+i connect my tw 8300hd-dvr to my tv via an hdmi-dvi cable , audio to my 6109c via optical .
+philips dvp-5992 to tv via component and audio to 6109c via coax .
+wii to tv via component , audio to 6109c via rca .
+xbox 360 elite to tv via component , audio to 6109c via rca .
+i would like to run the dvr , dvp and 360 elite to the receiver via hdmi and be able to use an hdmi-dvi cable to the tv .
+the i 'd also like to run the wii 's component to the receiver and have it output through the hdmi to the tv .
+radio would also be nice , but it 's not required .
+my goal is to make switching between devices really simple as my wife is getting annoyed that she ca n't figure out the current configuration .
+i 've looked around and just do n't have the brain power after work to figure av stuff out .
+so , i 'm open to suggestions .
+i 'm not brand loyal or watt hungry .
+i 'm getting 50x5 right now and it 's plenty .
+what do you all think and thanks for the help .

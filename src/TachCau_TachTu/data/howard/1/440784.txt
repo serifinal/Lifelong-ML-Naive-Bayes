@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Can I Get This Voice/Data Plan From Bell for an iPhone?</Title>
+		<Username>ws6formula</Username>
+		<Datetime>12-23-2009 06:29 PM</Datetime>
+		<Content>I would like to purchase a new 3gs 16g iPhone from Bell and get this plan: 250 Weekday Min VM, Call ID UnLtd Eve/Wknds @6pm UnLtd Incom UnLtd Text 1GB Data I will sign a 3yr contract. I would like to get the plan for $60 (taxes included). Can I get this plan? Where would I have best chance to get this plan? Call Bell? A Bell Corporate Store? A third party reseller? I would just like to say to the rep that I will sign for 3yrs if they can give me this plan...though from reading it seems that typically reps tell us what we can get..just thought, why cant we make an offer for the plan and the price we want (maybe we can - but they will tell us where to go). PS- I would like to get the phone for $149 (they normally sell for $199 on 3yr contract)...</Content>
+	</Post>
+</Thread>

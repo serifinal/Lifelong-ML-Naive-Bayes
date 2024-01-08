@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Gt30 v vt30 - differences?</Title>
+		<Username>AbzH</Username>
+		<Datetime>26-05-2011, 4:44 AM</Datetime>
+		<Content>As far as my limited tech knowledge allows me to differentiate, are these the only differences: Vt30 has - better reflective filter, wifi dongle, 2 pairs of glasses, sd card recording as opposed to hdd rec only on the g30. I'm looking at buying one of these two this weekend. Just tying to figure out where extra £ is going on the vt30 & if it's really worth it. Is there anything I have missed, apart from the designs of course. Thanks.</Content>
+	</Post>
+</Thread>

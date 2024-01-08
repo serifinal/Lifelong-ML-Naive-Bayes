@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>battery recharge</Title>
+		<Username>cooler2005</Username>
+		<Datetime>08-30-2008, 03:34 PM</Datetime>
+		<Content>hi... i am using canon sx100 IS and i have this recharger http://www.bolha.com/oglas1067271/po...jev-acu-mw1281 i use 2300nimh batteries...can u tell me how much time should it take to fully recharge the batteries..? thanks</Content>
+	</Post>
+</Thread>

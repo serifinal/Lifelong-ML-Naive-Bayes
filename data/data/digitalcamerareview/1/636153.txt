@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What is your opinion about this these lenses ???help me please</Title>
+		<Username>sharif_al</Username>
+		<Datetime>08-16-2009, 03:01 AM</Datetime>
+		<Content>hi i need to buy a new lens for my canon 450D camera, but i am so confused because i have a little experience in lenses so please help me to chose a lens that may be used for several purposes , like landscape, telephoto, wide angle,sports .... and also that has excellent colors i face a lot of problems in photographing sport action or moving objects and also taking pictures in low light 1) Canon EF 24-105mm f/4 L IS USM 2) Canon EF 17-40mm f/4L USM 3) Canon EF 24-70mm f/2.8L USM 4) Canon EF 70-200mm f/4 L IS USM especially how do you see the last one</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>Serzland</Username>
+		<Datetime>11-23-08, 10:44 AM</Datetime>
+		<Content>Hi, I have a 32 inch 720p poloroid tv. I really like the color and that there is no glare, but there is one problem its a little small. walmart has the deal for a samsung 50 inch 720p plasma or a 42 inch 1080p lcd. what one should i get? I sit about 10 feet away from the TV. Is the samsung going to look good? When I went to the store i looked at the plasma's and they looked very dark. Is this just in the settings or are these the way plasmas are. What one would you choose Thanks in advance!</Content>
+	</Post>
+</Thread>

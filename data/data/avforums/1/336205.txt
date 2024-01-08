@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>tx-p50ST30B vs. tx-p50G30B</Title>
+		<Username>gman67</Username>
+		<Datetime>08-01-2012, 9:22 PM</Datetime>
+		<Content>HI, I am hesitating between those two models, one of each being 3D but I am not really bothered about this feature but more about the rest, I have looked at their specs and they looks pretty the same to me with small differences. I was wondering whether it was worth going for the G30 series when I could get a 3D S30 series for £150 less and nearly the same specs, so confusing! What do you think between them both? which one would you go for? thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,6 @@
+hdcp required for xbox 360 netflix hd streaming .
+the new hd netflix streaming service on the xbox 360 requires an hdcp compatible display device .
+if you try play a movie while not connected to an hdcp compatible display , you will get the ?
+secure hdcp link not found ?
+error .
+hdcp required for xbox 360 hd streaming

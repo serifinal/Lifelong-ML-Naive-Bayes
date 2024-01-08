@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>End of the road for Plasma ?</Title>
+		<Username>nexus_6</Username>
+		<Datetime>12-01-2006, 10:02 PM</Datetime>
+		<Content>Friend of mine works for Sony and I've been talking to him for months about the LCD v Plasma debate and here is an excerpt from an email he sent me yesterday: **** During' 06 we will cease production of CRT and Plasma products completely as will many of our competitors. Plasma will probably disappear next year generally ,as older sets are now failing fast with screen burn and system is becoming too expensive to produce and service in comparison to LCD. **** Looks like the begining of the end for plasma as LCD gets better by the day it seems. Thoughts please....</Content>
+	</Post>
+</Thread>

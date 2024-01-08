@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony 46S3000 or 40V3000 for almost same price??? Which one??</Title>
+		<Username>thelams</Username>
+		<Datetime>03-21-08, 10:45 PM</Datetime>
+		<Content>I have the chance to get the Sony [b]46[b] S3000 or the 40V3000 for pretty much the same price. This will be for my bedroom and the viewing distance will be about 12ft. It will be used for pretty much SD/HD?up convert movies. I know the S is 720p and the V is 1080p, but which one would you get. Would you go for bigger or better PQ? Will I even notice a difference at that distance? Thanks for all the help!</Content>
+	</Post>
+</Thread>

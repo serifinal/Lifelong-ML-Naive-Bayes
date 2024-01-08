@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot A3300 SI</Title>
+		<Username>rhaberman</Username>
+		<Datetime>11-27-2011, 12:27 AM</Datetime>
+		<Content>With the Canon Powershot A3300 SI digital camera, while you're videoing can you zoom in and out?</Content>
+	</Post>
+</Thread>

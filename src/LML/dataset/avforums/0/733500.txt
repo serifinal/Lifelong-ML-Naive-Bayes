@@ -1,0 +1,6 @@
+px60 - blurring / green tinge .
+hi all , ive noticed on my px60 that the response time leaves a lot to be desired really , it seems to echo the picture as a camera pans accross a shot .
+not by much mind but its noticable .
+i was aware of this issue on lcd 's but im suprised to see it on a top line plasma .
+im not 100 % sure its the telly thouhg as on my xbox its not so noticeable somehow , but it is clear on my feed from sky -lrb- scart -rrb- .
+has anyone else noticed this and would changing the input from scart to another type of feed help -lrb- is this even possible ?

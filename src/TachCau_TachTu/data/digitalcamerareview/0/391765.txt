@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>DONT BUY NeoScene for 5DM2 video conversion</Title>
+		<Username>bradpr</Username>
+		<Datetime>02-28-2009, 02:52 PM</Datetime>
+		<Content>I've been searching for a good PC editing solution for the 5D Mark II MOV files. Don't buy NeoScene from Cineform if customer service is important to you. I just purchased this product off Cineform's website for $129, only to find out a few hours later that I could have bought it from one of their resellers for $99. I made a plea with David at Cineform to give me a credit for the price difference. His response was that dealing with processing a credit was too much effort for them to go through. He told me that "you can always find something cheaper on the internet" (which has some validity to it, but HE IS THE MANUFACTURER - IT SHOULD BE CHEAPEST FROM HIM!!!). They essentially told me, "thanks for your money, sucker, now go away". I'm not a pro. My budget is blown after purchasing the 5DM2 and Premiere Pro CS4 this year. I really couldn't afford $129 for the cineform encoder, but what I've been reading about their product in many Canon 5DM2 forums convinced me it was a must have. Cineform had no obligation to match prices or to make me aware that their resellers sell the product cheaper. Just like I have no obligation to hold a door open for a lady, give directions to someone who is lost, or help a friend move. There are some things that are just the right thing to do. The management at Cineform seems to lack that sense. Don't buy this product & hang on to your $129 (or $99). Its only a matter of time until Cineform gets some competition.</Content>
+	</Post>
+</Thread>

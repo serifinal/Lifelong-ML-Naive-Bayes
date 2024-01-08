@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon SX1is</Title>
+		<Username>SoCalRich</Username>
+		<Datetime>01-19-2009, 11:34 PM</Datetime>
+		<Content>Does anyone know if or when the Canon SX1is will be released in this country?</Content>
+	</Post>
+</Thread>

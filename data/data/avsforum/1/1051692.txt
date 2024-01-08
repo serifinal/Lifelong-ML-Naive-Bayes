@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TH-C42HD18 vs. Samsung PN42A400</Title>
+		<Username>ThatGuyWatchinTV</Username>
+		<Datetime>11-24-08, 09:32 PM</Datetime>
+		<Content>I am looking to pick up one of these 2 TVs in the next couple days and I am wondering which one people consider the better of the 2? What features does each have that the other doesn't? If you have owned one or have experience with them, what do you like and dislike about them? Are either of these older models or brand new? Which has the better picture quality? Better audio? I won't have money for external speakers for a couple months. Is either considered more reliable? They are both on sale for the exact same price at 2 different stores and they are my maximum(actually over) price by budget, so please don't suggest another TV even if it is literally $50 or $100 more. Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Hyundai HPT 4281H</Title>
+		<Username>Dave469</Username>
+		<Datetime>24-06-2011, 8:02 PM</Datetime>
+		<Content>Does anyone have a power switchboard for this model cctech cd-1 I need one please</Content>
+	</Post>
+</Thread>

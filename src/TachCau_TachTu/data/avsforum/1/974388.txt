@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Need Help Toshiba 42RV530 or Sony KDL40S4100</Title>
+		<Username>SonyMS1986</Username>
+		<Datetime>10-29-08, 10:57 PM</Datetime>
+		<Content>I'm having a really tough time choosing between either of these sets, any help from you guys would be very much appreciated seeing as how this will be my first larger LCD set. Thanks in advance. Sony KDL40S4100 Toshiba 42RV530</Content>
+	</Post>
+</Thread>

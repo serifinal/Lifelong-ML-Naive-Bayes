@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Samsung Captivate (Galaxy S) Release Thread</Title>
+		<Username>Baldilocks</Username>
+		<Datetime>07-18-2010 06:41 AM</Datetime>
+		<Content>Ordered mine shortly after midnight. How many else got in on the deal??</Content>
+	</Post>
+</Thread>

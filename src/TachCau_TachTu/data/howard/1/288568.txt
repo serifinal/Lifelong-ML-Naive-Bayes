@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HSPA+ Router recommendations - rural setup (unlocked?)</Title>
+		<Username>cloneman</Username>
+		<Datetime>07-13-2010 11:01 AM</Datetime>
+		<Content>Gonna setup a rural internet for someone , looking for recs on how to get this done. I'm thinking 1) HSPA+ router, compatible with external / outdoor antenna. 2) HSPA+ Router mounted in a outdoor enclosure, onto a tree etc. Option 2 is more complicated, but I don't have to deal with signal loss on long antenna cables, since the cables will be only the power cable and an Ethernet cable (or a WiFi AP). I did a test run with an android phone... using WiFi tethering, with my phone outside positioned at a particular angle I was able get 1mbit with fairly stable pings. The connection felt very fast for web browsing, I want to make it even better with a setup as indicated above. I heard there's even some routers with a built in PSTN port to make voice calls (awesome!). Although if I can get this connection stable enough, VOIP over 3G might be more interesting. I'm certainly not willing to pay 150$ more for one that supports voice. Ideally I'd like this device to be unlocked, but if it's rogers-only, I won't complain... I'm probably gonna get the 5gb Ipad plan, hopefully by using only 2gb per month they won't care...</Content>
+	</Post>
+</Thread>

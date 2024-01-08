@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Write Speed for A720 IS</Title>
+		<Username>New A720 IS Owner</Username>
+		<Datetime>04-30-2008, 12:09 PM</Datetime>
+		<Content>Last weekend we bought a new Canon A720 IS digital camera. Now we are looking to buy an additional 2 GB SanDisk SD memory card, and are considering either their Ultra II Plus (which includes the USB connector) or their Extreme III card. They claim for the former a minimum 9MB/second sequential write speed lets you capture large image files faster and for the latter a minimum 20MB/second sequential read and write. We expect to be primarily casual users of this camera, and take occasional video clips of a few seconds to perhaps a couple of minutes or so. Given I can buy either of these cards today for the same price ($30) at Circuit City, which would be a better choice for our usage - the USB interface or the faster write speed? I have read through all I can trying to find the camera's maximum write speed, but don't find anything specific. I even called their technical support line and got a very generic answer that suggested the lower speed was adequate. Obviously a faster write speed is always better than a slower one, especially when it comes to recording some video. But when the card's capability exceeds that of the camera's, then there is no value. Any insights? Thanks in advance for your words of wisdom!</Content>
+	</Post>
+</Thread>

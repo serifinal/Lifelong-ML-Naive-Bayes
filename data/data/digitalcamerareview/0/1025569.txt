@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Concert Photography</Title>
+		<Username>homkat4201</Username>
+		<Datetime>01-21-2011, 11:40 PM</Datetime>
+		<Content>I have a Canon Rebel xti, and have been having issues getting the quality of photos I want at concerts.... any advice?</Content>
+	</Post>
+</Thread>

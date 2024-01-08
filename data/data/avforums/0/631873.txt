@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>hd fury 4 aka 3dfury</Title>
+		<Username>Yaka</Username>
+		<Datetime>14-12-2011, 8:34 PM</Datetime>
+		<Content>not sure if this is the right place to post this but theres prolly a few non 3d ready plasma owners like me who dont wana upgrade just for 3d. the makers of hd fury are releasing hdfury4/3dfury this month. HDfury.com no idea how this compares to 3d theater. also seems somewhat bulky compared to hd fury which is more or less hidden when plugged into the vga port on my 42phd8</Content>
+	</Post>
+</Thread>

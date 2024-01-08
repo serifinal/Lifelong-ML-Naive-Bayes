@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Media Net settings for Samsung Gravity</Title>
+		<Username>-bd-</Username>
+		<Datetime>04-02-2010 02:32 PM</Datetime>
+		<Content>Does anyone have a step-by-step procedure for enabling AT&T's Media Net on a T-Mobile Samsung Gravity? From my reading, access to profiles seems to be: *#87927# Then it gets a little dicey.</Content>
+	</Post>
+</Thread>

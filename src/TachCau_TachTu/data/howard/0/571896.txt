@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SEALED BNIB Blackberry Bold 9000 Locked to Rogers GTA downtown</Title>
+		<Username>falling_petals</Username>
+		<Datetime>12-23-2009 06:51 AM</Datetime>
+		<Content>For sale is SEALED, BNIB, Lock to Rogers Blackberry Bold 9000 in Rogers retail box that you would normally get from a Rogers store. The price is $460.00 Firm. NO OFFERS.... Please call 416 273-6088 for a quick transaction to arrange face to face, pick-up in a public place at Yonge & Bloor area.</Content>
+	</Post>
+</Thread>

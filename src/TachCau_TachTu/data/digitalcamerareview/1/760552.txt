@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Any news on 5D MK III - typical odering time MK II</Title>
+		<Username>DetlevCM</Username>
+		<Datetime>11-09-2009, 12:09 PM</Datetime>
+		<Content>Visiting back with a question after a long time... I'm on an EOS 400D - and at some point will want to make a leap (direct leap bypassing the xxD series) - I hope for summer 2010 at the latest (maybe Christmas, Spring??). So, 2 questions: 1) What is the typical time for a 5D MK II to be delivered if orderd by a camera shop - I have seen comments that Canon does not seem to produce them quick enough and they are backordered? (just a typical value) 2) Any news on a MK III version of the 5D? The internet doesn't seem to helpful in this respect at the moment. (I'd prefer it to a MK III as it would have to last a long time - so a newer model would be better in this respect) Thanks for any replies (and there is still plenty of time)</Content>
+	</Post>
+</Thread>

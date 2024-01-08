@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>optical audio cable - how do these connect?</Title>
+		<Username>avnewbierichl</Username>
+		<Datetime>11-12-2008, 8:55 PM</Datetime>
+		<Content>I am trying to connect the optical audio out from my plasma hdtv to the optical audio in on my AV receiver. I have never used optical cables before,, and the connections don't seem to click or lock in to place. I am concerned that I might push the connection too hard and break something. The connection seems to fit in only one direction but doesn't seem to go in far enough. Any help would be appreciated. Thanks</Content>
+	</Post>
+</Thread>

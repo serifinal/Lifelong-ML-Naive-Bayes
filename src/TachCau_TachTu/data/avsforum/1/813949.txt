@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HDMI 1.3 for HTPC - How is Niveus Media doing it?</Title>
+		<Username>camnito</Username>
+		<Datetime>09-05-08, 02:56 PM</Datetime>
+		<Content>I'm dying to setup an HD HTPC, but I've decided to hold off until hardware support for HDMI 1.3 is available. I've learned about the ASUS and Auzentech sound card solutions that claim to support HDMI 1.3 (route video through another card - no thanks!), but wanted to know if anyone knows how the newly announced Denali HTPC from Niveus Media is pulling off HDMI 1.3.</Content>
+	</Post>
+</Thread>

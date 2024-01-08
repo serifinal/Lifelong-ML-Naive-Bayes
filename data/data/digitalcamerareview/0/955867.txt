@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Making the switch</Title>
+		<Username>Kinnyhugh</Username>
+		<Datetime>05-14-2009, 04:46 PM</Datetime>
+		<Content>I currently use a Canon EOS A2, 35 mm and would like to make the switch to digital. Will I be able to use my current lenses with a D30 or a similar Canon digital?</Content>
+	</Post>
+</Thread>

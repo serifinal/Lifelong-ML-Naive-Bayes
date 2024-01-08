@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BNIB Sealed Bell iPhone4 16GB -- $725</Title>
+		<Username>bonnie818</Username>
+		<Datetime>09-28-2010 08:58 PM</Datetime>
+		<Content>I have a brand new, still sealed in plastic, non-activated Bell iPhone4. Looking to sell for $725 firm. Pickup or meet-up in GTA.</Content>
+	</Post>
+</Thread>

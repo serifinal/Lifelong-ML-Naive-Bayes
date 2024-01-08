@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>fido iphone4 for your rogers iphone4</Title>
+		<Username>tanksta</Username>
+		<Datetime>12-06-2010 01:44 PM</Datetime>
+		<Content>i got a fido iphone4 in hardware upgrade but would like to swap it for a rogers iphone4. will meet anywhere in the GTA to complete swap. email alex.tank@gmail.com</Content>
+	</Post>
+</Thread>

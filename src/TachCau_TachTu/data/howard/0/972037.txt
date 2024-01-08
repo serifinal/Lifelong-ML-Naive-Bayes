@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Android 2.2 Froyo Now Available for Non-rooted Nexus One Devices (Link Inside)</Title>
+		<Username>Gordon Gartrell</Username>
+		<Datetime>05-22-2010 03:19 PM</Datetime>
+		<Content>You can only download it manually for now. Source Engadget Download link here: http://android.clients.google.com/pa...7.1e519a24.zip</Content>
+	</Post>
+</Thread>

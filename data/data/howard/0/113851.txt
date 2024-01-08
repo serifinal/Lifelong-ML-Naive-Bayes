@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why Doesn't Desktop Google Sync sync Contacts?</Title>
+		<Username>M0t0R0ller</Username>
+		<Datetime>11-24-2009 09:31 PM</Datetime>
+		<Content>Why Doesn't Desktop Google Sync sync Contacts? They need to add this.</Content>
+	</Post>
+</Thread>

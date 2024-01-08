@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX30IS - Landscape photo and washed out whites in sunny conditions</Title>
+		<Username>kduane01</Username>
+		<Datetime>06-29-2011, 04:27 PM</Datetime>
+		<Content>Hi Everyone, new to the digital photo world. We are at Yellowstone Park again and this time instead of my old 35mm Pentax K1000, I have this new Canon SX30IS. Thought it would be good first start without going to a DSLR and lenses since this lense is somewhat a wide angle and it has decent zoom capabilities. Do any of you know what setting I need ( I believe I will play with the white balance settings next ) but we were in the canyon area and any pictures in bright sunlight of the waterfalls and river are just showing up with the water completely white. Any photo down river out of the sun shows the blue water color. The same photos done years back with the Pentax manual 35mm camera resulted in perfect color balances. I have tried the auto, landscape and sport modes so far. I think next would be some custom program settings with this white balance adjustments or is it just a limitation of these point and shoot digital processors and I really need the DSLR to get true 35mm quality. A side note, the zoom featutre in auto mode is fantastic, even hand holding at full 35x optical zoom results in a perfect clear picture when viewing as a slide show on the 22" computer monitor. Happy with the purchase so far, just need to see how to get some better contrast and realistic color in the white areas in bright sunlight conditions if possible.. thanks for any advise or help ! Kevin</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Simple question for most of you, do I have my components set up correctly?</Title>
+		<Username>tracerit</Username>
+		<Datetime>11-03-08, 05:53 AM</Datetime>
+		<Content>I have the following components for my bedroom: 1. PC 2. LCD TV 3. Speakers 4. HD DVR This is how I plan on setting it up: Just a few questions: 1. Will I get 5.1 sound if I connect the PC and Speakers by a 3.5->RCA cable? 2. Will I get 5.1 sound when I watch 5.1/HD TV Shows if I go with the setup on the top? Or will I have to connect the HD DVR and Speakers with a Optical TOSLINK cable? 3. Are coaxial audio and optical TOSLINK audio connections basically the same? 4. Should I go with the Onkyo S3100 for $250 or Sony DDWG700 for $180? The system will be used for my bedroom and I'd like to keep it with me even after I move out to an apartment where it will be used for the living room. 5. I might consider the Sony CT100 soundbar, figured I'd ask here also. Does the sound still good if I stand off to the side of a soundbar or do I have to position myself directly in front of it to get the same quality? 6. What is the HDMI connection good for for audio? I thought it's mainly used for video, why would I having it in a receiver be used for?</Content>
+	</Post>
+</Thread>

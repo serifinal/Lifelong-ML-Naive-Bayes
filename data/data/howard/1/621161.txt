@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Share Your iPhone Plan</Title>
+		<Username>DallasP</Username>
+		<Datetime>01-24-2010 08:05 PM</Datetime>
+		<Content>Getting an Iphone very very soon, Just wanting to hear what you have..and how its working out..Usefull Stuff/Non Usefull stuff.. 500mb or 1gig or more? etc..</Content>
+	</Post>
+</Thread>

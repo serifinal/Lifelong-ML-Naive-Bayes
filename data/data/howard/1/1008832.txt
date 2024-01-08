@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Micro usb female to mini usb male adapter</Title>
+		<Username>tranh2</Username>
+		<Datetime>07-27-2010 03:51 PM</Datetime>
+		<Content>Does anyone know where I can find a micro usb female to mini usb male adapter? Newegg has one but its 17 bux after shipping which is waaay overpriced for a piece of plastic and some metal. I tried ebay with no luck as well. Anywhere in Canada would be great. Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Take pictures of Fireworks using the Froyo Camera on my Moto Droid?</Title>
+		<Username>jwd45244</Username>
+		<Datetime>06-16-2010 05:57 PM</Datetime>
+		<Content>What chance do you think I'll have to take pictures of Fireworks using the Froyo Camera on my Moto Droid? In other words: think we'll get Froyo before July 4th?</Content>
+	</Post>
+</Thread>

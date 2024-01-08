@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Can't Get Progressive Output to AVR</Title>
+		<Username>mangoldm</Username>
+		<Datetime>02-26-08, 11:10 AM</Datetime>
+		<Content>When connecting my "Early 2008" Mac Pro to my new Denon 3808ci AVR, I can only get interlaced output for most resolutions from the Mac's nVidia 8800 GT graphics card. I have posted this issue on the AVR forum here: http://www.avsforum.com/avs-vb/showt...2#post13165042 and also on Apple's forum here: http://discussions.apple.com/thread....04562&tstart=0 Connecting the Mac directly to my projector results in normal operation. Any help appreciated.</Content>
+	</Post>
+</Thread>

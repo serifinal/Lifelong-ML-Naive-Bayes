@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>multiple homescreens</Title>
+		<Username>mikeovi</Username>
+		<Datetime>04-08-2010 07:41 AM</Datetime>
+		<Content>hi all, are there any other ways of getting more launch screens other than using aHome? i need about 5 homescreens.. 7 is too much and 3 is too little. i guess i can use 7 homescreens and just fill up 5, but that means i'll have to use Sense, which i prefer to avoid.</Content>
+	</Post>
+</Thread>

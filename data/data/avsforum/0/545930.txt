@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>agentcody5000</Username>
+		<Datetime>09-17-08, 03:31 AM</Datetime>
+		<Content>I recently obtained one of these amazing units for free form a man on Craig's List who Wanted more room in his Townhouse. However, there is a problem. When I turn it on, the screen is Green with Bright Green horizontal lines that are a little wavy and unstable. It remains lit for about 5 seconds and shuts itsself down. I have stopped trying to turn it on in fear of making it even worse. Is this a power supply issue? Is it the Green CRT that's malfunctioning? I also hear kind of a squeeking noise after the pop and power down... kind of an eep, eep, eep, eep... weird. THe man who gave it to me said that he's had this same problem fixed before, and it only costed him $150 and took the repairer about 15 minutes to finish. So I'm thinking that if It's as simple as it sounds, maybe I can fix it myself. I'm no expert, but if it's simple enough, I can do it... Any help would be greatly appreciated!!!</Content>
+	</Post>
+</Thread>

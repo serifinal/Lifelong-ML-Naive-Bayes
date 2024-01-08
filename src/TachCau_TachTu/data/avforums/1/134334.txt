@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>50VT30 or 55VT30</Title>
+		<Username>paldridge</Username>
+		<Datetime>19-06-2011, 5:16 PM</Datetime>
+		<Content>Hi Guys Well it looks like I'm going to swap my 50hz buggy VT20 for a VT30 (hearing from the dealer tomorrow) Quick question .. Should I go for the 50" again or maybe go up to the 55"? Veiwing distance is 9 feet and the online advice seems to say that 55" is perfect (distance = double the screen size) The 50" seemed HUGE when we got it to replace our old 42" so will the 55" be too much? Opinions? Cheers</Content>
+	</Post>
+</Thread>

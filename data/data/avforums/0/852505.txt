@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer 9G and ControlCal - isf settings</Title>
+		<Username>tinmanuk</Username>
+		<Datetime>28-05-2011, 3:45 PM</Datetime>
+		<Content>Anyone used this software to tweak their Kuro and if so any pointers please</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic G30 Vs ST30</Title>
+		<Username>Dumachi</Username>
+		<Datetime>04-08-2011, 6:33 PM</Datetime>
+		<Content>There both selling for the same price on amazon? which would be better outta the 2?</Content>
+	</Post>
+</Thread>

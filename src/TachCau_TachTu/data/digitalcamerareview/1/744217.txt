@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Anyone know when we can expect to >>></Title>
+		<Username>mbciuso</Username>
+		<Datetime>08-04-2008, 06:11 PM</Datetime>
+		<Content>see the new Canon Xs 1000D in the stores? Been waiting to get my hands on one to try it out for myself, before deciding between it and the Nikon D60. Thx</Content>
+	</Post>
+</Thread>

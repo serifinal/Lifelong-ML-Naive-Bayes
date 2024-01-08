@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Viera Cast</Title>
+		<Username>tagmorrisuk2008</Username>
+		<Datetime>04-05-2011, 9:43 PM</Datetime>
+		<Content>Hi I have just bought a Netgear wireless adaptor to connect my viera tv to viera connect. I have tried both wired and wireless connections and in each case I get an error saying "cannot connect etc (005)" I have had a look at my router settings (a BT open hub) and all looks ok in terms of network I have run the connection tests and all tests are passed Is the sever down? is this a regular issue people have seen? Cheers for all your help</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma Tv on Dynamic picture setting</Title>
+		<Username>Pogo1</Username>
+		<Datetime>26-01-2012, 9:30 PM</Datetime>
+		<Content>By far the best picture setting for Blu-ray. Fantastic picture quality.</Content>
+	</Post>
+</Thread>

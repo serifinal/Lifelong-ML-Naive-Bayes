@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Ps50c680</Title>
+		<Username>Smokie365</Username>
+		<Datetime>28-07-2011, 1:24 PM</Datetime>
+		<Content>Hey everyone, I have had my above set for about 4 months now. everything was great as far as I was concerned until the screen cracked in the middle. An engineer took it away and replaced the screen. Everything seemed good again, untill i started to notice IR on it. I'm with sky and although the IR does go after a while I dont find the amount of time it takes as acceptable. I could be watching a film thats on a dark scene and I can still see the sky banner for anything from 5-10 minutes. Is this acceptable? Since I have already had it replaced, would I be able to demand a refund or a replacement TV. maybe the next model up? Thanks Graham</Content>
+	</Post>
+</Thread>

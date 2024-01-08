@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 60PZ950t</Title>
+		<Username>Spidermanparker</Username>
+		<Datetime>24-05-2011, 7:50 AM</Datetime>
+		<Content>Hi all, I took delivery on Friday on my 60 inch pz and I can say it was well worth waiting instead of getting the px model, The magic motion remote is a cool gadget for getting around the tv on the internet typing in letters, the games on the apps are a cool idea just need some decent ones, but when it comes to 3d it is amazing the depth is mad! i have been watching tennis which started on Eurosport3d on sunday 22nd, the glasses don't loose sync at all and no crosstalk whatsoever! the only problem is you only get one pair and they are not released yet I spoke to LG yesterday and he said they didn't have a release date? Good news they do kids glasses AGS230 and designer ones ASG270 made of metal. If anyone wants any photos sent please don't hesitate</Content>
+	</Post>
+</Thread>

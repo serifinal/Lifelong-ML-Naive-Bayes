@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Best pic setup for panny 50gt30</Title>
+		<Username>Hjm80</Username>
+		<Datetime>28-01-2012, 3:12 PM</Datetime>
+		<Content>Can anyone enlighten me on a good setup for my Panasonic 50gt30. Hear that the pic can be much improved when played with.</Content>
+	</Post>
+</Thread>

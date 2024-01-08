@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Battery dilemma</Title>
+		<Username>Rumpel</Username>
+		<Datetime>12-14-2007, 03:58 AM</Datetime>
+		<Content>For Christmas I'm getting the Canon Powershot A570IS, a nice camera which meets all my requirements. I especially like that it uses standard AA batteries. Now I need to decide which rechargeable batteries I want to use. I need to decide before Monday, because then my father's going to our supplier for the last time this year (our store also sells batteries). I can choose between two pairs of the standard GP NiMH 2700 mAh or two pairs of the new GP Recyko. The advantage of the standard 2700 mAh is that it will last longer, because the Recyko's are only 2050 mAh. On the other hand there are times when I don't take a lot of photographs and the Recyko's won't discharge over time, like the standard NiMH. Which means that I will always have a set of full batteries available. I can't choose and keep going backwards and forward between both. Any advice would be welcome. TIA. Bianca</Content>
+	</Post>
+</Thread>

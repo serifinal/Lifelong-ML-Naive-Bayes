@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HELP need new camera with fast shutter speed!!!</Title>
+		<Username>vtracy</Username>
+		<Datetime>12-08-2010, 09:51 AM</Datetime>
+		<Content>Hello, Im looking for a camera that has fast shutter speed to capture pics of small and quick rugrats! I take photos at the beach as well as indoors... I always miss great shots because my camera takes waaaaayy to long to shoot.... Im looking at Canon and my budget is maxed at $300.00... can anyone suggest a good camera with good battery life...prefer a rechargable battery too!! Thanks, my sanity appreciates it.</Content>
+	</Post>
+</Thread>

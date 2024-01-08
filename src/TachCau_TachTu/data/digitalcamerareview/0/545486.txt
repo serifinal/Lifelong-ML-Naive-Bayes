@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>what I have learned about the Canon 50D</Title>
+		<Username>Photobug4741</Username>
+		<Datetime>01-17-2009, 07:04 PM</Datetime>
+		<Content>Well I have had time to start getting into how the Canon 50D works with the 18-200mm lens system. First off I have found if you are not using a tripod, less zoom is better. Hand shake is your picture taking enemy. Canons anti shake stabilizer system helps but it can do just so much. Getting closer and cutting back on zoom example from 200 to 185 really did wonders to picture sharpness. Also I have found that if you are shooting into a well lighted area and there are over hanging items that the lens picks up as a dark area, the little flash pops up and flash's when you shoot. Not something I wanted to happen. I am really getting to like this Canon camera it has a lot going for it I feel. As I progress deeper into the learning process I will report my new to a DSLR finding. Anyone wishing to add something I welcome it.</Content>
+	</Post>
+</Thread>

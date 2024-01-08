@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HD tv for fullHD games?</Title>
+		<Username>TimbeS</Username>
+		<Datetime>25-12-2011, 8:54 AM</Datetime>
+		<Content>Im buying a tv for gaming only. I found this Panasonic TX-P42C3 wich has only 16ms of input lag! My concern is that xbox360 games are 1080p fullHD and this tv is only 720p HD(not even "trueHD", only 1024 x 768) When the TV processes the picture from xbox to screen, does it have to somehow scale the image size so it would INCREASE the input lag, cause thats what I really dont want to happen?! I would really appreciate if someone who knows something about this could answer.</Content>
+	</Post>
+</Thread>

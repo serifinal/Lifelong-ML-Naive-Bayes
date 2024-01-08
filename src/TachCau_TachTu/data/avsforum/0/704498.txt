@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title></Title>
+		<Username>benwaynet</Username>
+		<Datetime>12-12-08, 10:39 AM</Datetime>
+		<Content>My old pc just died so I think I want to move to Vista and dual connect it to my monitor and home theater. Problem is I didn't run (and can't easily or cheaply) HDMI so I'd like to use component to my projector. Will blueray with vista work over component. Even if it doesn't I can still view DVDs over it. I've found links and post about general budget HTPC but I don't see much about using them with component outputs. If I use component could I dual connect it to my monitor (VGA) when I don't need/want to fire up the projector? Also if anyone wants to list their shopping list for a good budget system, I'm listening. Most of the post I've found are a few months old and we all know how much prices change. Hoping to spend around ~700 thanks,jb</Content>
+	</Post>
+</Thread>

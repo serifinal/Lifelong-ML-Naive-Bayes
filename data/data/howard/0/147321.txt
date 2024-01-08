@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FROYO! on my nexus one with working flash!</Title>
+		<Username>EkostonS</Username>
+		<Datetime>05-22-2010 06:36 PM</Datetime>
+		<Content>so i did the update from modaco and wow, thing is BLAZING fast, scored 38 on linpack, installed flash from market, www.youtube.com works www.addictinggames.com works, and everything else. it auto detected my telus apn and worked hspa+ right away with no configuring needed only problem ive run into sofar is browser only works on wifi for me, cant figure that one out. but wow! i love the speed of my n1 now! EDIT: fixed my browser problem for all telus N1 owners doing this update. after flash, go to settings->wireless/networks->mobile networks->Access Point Names click on the TELUS one, go down to under PROXY put 80 for your PORT then MMS proxy=74.49.0.18 , MMS port=80 and it should refresh and work perfectly! EDIT: another thing, sending links from google chrome to your phone WORKS on froyo !</Content>
+	</Post>
+</Thread>

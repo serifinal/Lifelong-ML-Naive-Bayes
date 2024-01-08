@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LCD monitor in AUTO MODE</Title>
+		<Username>cdbbdc</Username>
+		<Datetime>11-11-2010, 09:27 PM</Datetime>
+		<Content>I just got a T1i and can't figure out how to set the LCD monitor view in the Basic Zone settings. I can push the Live View button when using the Creative Zone settings but not Basic. I want to view the subject in the LCD monitor while shooting in Full Auto. Any help here?</Content>
+	</Post>
+</Thread>

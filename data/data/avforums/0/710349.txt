@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung 50'' plasma TV. Could somebody tell me the model number</Title>
+		<Username>leannej2010</Username>
+		<Datetime>10-08-2011, 7:43 PM</Datetime>
+		<Content>Hi, I have put my tv up on the wall in my new house and i don't know the model number since i moved house i have lost the book I also removed the sticker on the right hand side of the TV so i cannot get it that way either I can't get the TV back off the wall to get to the sticker on the back because im on my own now. The TV has got another number on the left hand side aswell which is PS BN64 00633C If that helps. Anyway I have posted some pictures so if anybody can help that would be great. Thank You in advance.</Content>
+	</Post>
+</Thread>

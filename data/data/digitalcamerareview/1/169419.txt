@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>First lens for a 30D?</Title>
+		<Username>kerouacknew</Username>
+		<Datetime>05-29-2008, 07:22 PM</Datetime>
+		<Content>Just purchased a 30D body(my first digital) and now i need a lens for it. Not sure exactly what type of pictures i will be taking so just looking for a good all around prime or decent zoom. My budget would be under $500. Would appreciate any suggestions as there are a lot of options out there. thanks shawn</Content>
+	</Post>
+</Thread>

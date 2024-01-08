@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Error Message</Title>
+		<Username>Bratyturtle</Username>
+		<Datetime>06-25-2010, 07:40 PM</Datetime>
+		<Content>I love my camera!!! Its a Canon PowerShot SD1200 IS I was using it one day and shut it off. Not even five minutes later I turned it back on. When I turned it back on the screen light up and said canon and then beeped 4 times and then in the lower left the screen said "Lens error, restart camera" I am not sure what is going on. Has this ever happened to anyone and if so what did you do to fix it? Please help! I want to go back to using it!!!</Content>
+	</Post>
+</Thread>

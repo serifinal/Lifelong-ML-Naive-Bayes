@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Played - Episode 36 (GTA IV MP news, Patapon, Army of Two and more...)</Title>
+		<Username>warcrow</Username>
+		<Datetime>03-16-08, 02:46 PM</Datetime>
+		<Content>Quote: This week?s trimmed and lean episode of Played kicks off with discussion of Grand Theft Auto IV and its just-announced multiplayer modes, with a bit of a detour to discuss Chris? lack of Counter-Strike prowess?Liz also chimes in to discuss her lack of gaming prowess all around. The crew is also surprised to learn that Criterion?s new Burnout: Paradise island content will be free. Liz has been playing quite a lot of Super Smash Bros. Brawl, while Chris has continued to spend his time on Advance Wars: Days of Ruin as well as PC classic No One Lives Forever 2. Mark has finished up Lost Odyssey and Army of Two, and is currently deep into Patapon on PSP. Finally, head over to our upgraded forums, which feature a cleaner look, better functionality, and a brand-new URL. http://www.playedpodcast.com/2008-03...ed-episode-36/ Enjoy guys! -Mark</Content>
+	</Post>
+</Thread>

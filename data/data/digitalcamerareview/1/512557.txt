@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD550 vs SD630</Title>
+		<Username>hardd1</Username>
+		<Datetime>06-28-2006, 12:16 PM</Datetime>
+		<Content>Need your advice....time to update the old A40.....I like both of these models...priced about the same $$$...help me choose....thanks</Content>
+	</Post>
+</Thread>

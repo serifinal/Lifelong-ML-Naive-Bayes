@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: BNIB 16gb 3gs iphone locked to rogers</Title>
+		<Username>hwoarang13</Username>
+		<Datetime>05-28-2010 06:17 PM</Datetime>
+		<Content>for sale: iphone 16gb 3gs locked to rogers black price: $600 OBO please pm, thanks can meet up in hamilton, burlington, oakville, mississauga, toronto, markham, richmond hill, scarborough thanks</Content>
+	</Post>
+</Thread>

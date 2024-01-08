@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A550: no image being captured - CCD Advisory problem?</Title>
+		<Username>prexpressions</Username>
+		<Datetime>10-07-2008, 01:16 AM</Datetime>
+		<Content>My 11 month old Canon Powershot A550 no longer receives images from the CCD. The camera function is every other manner, even going through the process of taking photos but they are black (when viewed on LCD or downloaded), the LCD works fine (even shows photos taken before it stopped working with no issue). It failed when it was stored in a bag to protect it from the sun, the bag was in the sun. It took two photos and then refused take photos or to close the lens. Each time I went to switch off the camera the lens would extend. By opening the battery cover while powered up I managed to get the lens to close when switching the camara off. But still the image previewed or captured remains blank. It seems 100% the issue as reported in the CCD Advisory notice: http://www.canon-asia.com/index.jsp?...enomena_notice However as I am travelling I brought the camera in Italy and am now in Dubai but the warranty is not world wide it seems so I can not get it repaired here. question has anyone else had this issue with the Powershot? And if so was it repaired for free or for how much? many thanks paul</Content>
+	</Post>
+</Thread>

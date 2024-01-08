@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Kodak Announces Easyshare V705, C875, C743, C433 and a Portable Printer Discussion</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>08-08-2006, 07:00 AM</Datetime>
+		<Content>Today, Kodak has announced four new digital cameras and a new portable printer. The Kodak Easyshare V705 is another dual lens camera that takes wide angle shots (upgrading the V570). The Kodak Easyshare C875, C743, and C443 will be added to Kodak's simple to use, entry level C series. The new Kodak Easyshare G600 Printer Dock will provide some portability to Kodak's Easyshare printing solutions.Read the full content of this Article: Kodak Announces Easyshare V705, C875, C743, C433 and a Portable Printer</Content>
+	</Post>
+</Thread>

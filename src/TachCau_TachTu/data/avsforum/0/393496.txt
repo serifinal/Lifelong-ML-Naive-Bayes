@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is there a Signature Elite 101 owner's thread?</Title>
+		<Username>kellzey</Username>
+		<Datetime>01-03-09, 09:00 PM</Datetime>
+		<Content>Wasn't able to find one... Is it that it's relatively new, or everyone is getting the 141? If there isn't one, can someone start one? Thanks, Q</Content>
+	</Post>
+</Thread>

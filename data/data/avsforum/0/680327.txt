@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HANCOCK comes to region 2 DVD December 1st 2008</Title>
+		<Username>JBLsound4645</Username>
+		<Datetime>10-18-08, 12:15 AM</Datetime>
+		<Content>I&#8217;ve heard some good views on this and that&#8217;s good enough for me. Extended cut and theatrical version of the HANCOCK, plus many other extras packed in this 2 disc set of the summertime box office smash hit. http://www.sphe-trade.co.uk/hancocktesco/</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>tv /amp question</Title>
+		<Username>dlemon</Username>
+		<Datetime>22-12-2011, 9:55 AM</Datetime>
+		<Content>Hello guys, sorry if I have posted in wrong forum, please move me if needed, I have decided to change my tv, I currently have a panny pz42, and have made my mind up and going for a panny gt30 50inch, hopefully thats the right choice (other contenders was Samsung d8000/7000), go on throw a spanner in my works. The main question is do I need to change my amp to get the 3d pass through (Yamaha rvx1900), the tv is park of a package with 3d bluray player, or can this be done through the bluray, I know I will probably have to at some stage, but can I get decent sound through the yamaha at present, or is this a pointless exercise, any ideas guys</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Brides to be want the SD200</Title>
+		<Username>Brian</Username>
+		<Datetime>05-31-2005, 11:02 AM</Datetime>
+		<Content>An interesting study from theknot.com says that modern brides are more willing to embrace technology oriented gifts. One of the top gifts they want is the SD200 due to it's ease of use and thin body. Now you know what to buy!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung ps42q7hdxxe diagnose needed</Title>
+		<Username>NOVICE1981</Username>
+		<Datetime>24-05-2011, 3:39 PM</Datetime>
+		<Content>Hi, PLEASE help, my name says it all really. My plasma suddenly makes a click sound and whole screen is red. I am hoping to repair this myself as in no financial position to replace or pay for prof. repair. Any ideas firstly and then where can i source parts. Many thanks</Content>
+	</Post>
+</Thread>

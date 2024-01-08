@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New proxy server for internet over metropcs?</Title>
+		<Username>couponhead</Username>
+		<Datetime>10-31-2009 05:46 PM</Datetime>
+		<Content>Is there a new proxy server required for internet over metropcs? I tried tethering today and got a message that the proxy server is "busy or unavailable". I tried looking for wap.metropcs.net on my desktop and found that there is no DNS entry for it. Internet on the dinky little phone still works, so I tend to conclude that the proxy server is no longer wap.metropcs.net port 3128.</Content>
+	</Post>
+</Thread>

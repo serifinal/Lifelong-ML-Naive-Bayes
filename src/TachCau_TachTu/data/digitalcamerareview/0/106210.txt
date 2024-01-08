@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>a720 concert setting?</Title>
+		<Username>moochi</Username>
+		<Datetime>07-30-2008, 03:56 PM</Datetime>
+		<Content>hi! im new to this forum and this is my first post.. I just recently got a canon a720 IS and i'll be going to a concert tomorrow night.. I'm not so familiar with manual settings, i need help to get the best setting for this occassion.. Thank you!</Content>
+	</Post>
+</Thread>

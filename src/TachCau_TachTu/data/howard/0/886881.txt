@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile rolls out faster wireless Internet in L.A. and 24 other cities</Title>
+		<Username>exit</Username>
+		<Datetime>06-16-2010 08:13 AM</Datetime>
+		<Content>T-Mobile USA has upgraded its cell network in Los Angeles and two dozen other cities, and best of all, some customers will see speedier downloads with the smart phones they already own. The fourth-largest wireless carrier announced the immediate expansion of its faster data network technology Tuesday night. T-Mobile beats Sprint Nextel, the front-runner in national 4G roll-out, to the L.A. market by covering the city and several surrounding counties. Sprint, the No. 3 cellular provider, maintains that its program will take flight next in the City of Angels. Whenever that may be. http://latimesblogs.latimes.com/tech...hspa-plus.html</Content>
+	</Post>
+</Thread>

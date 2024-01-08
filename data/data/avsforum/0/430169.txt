@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung A550 vs Pani Pz85</Title>
+		<Username>Euphoric</Username>
+		<Datetime>07-06-08, 05:53 PM</Datetime>
+		<Content>So Ive got a 42" Pz85u right now but I am wondering if I should take it back and switch it for the samsung a550...LCD btw. I know this gets into the lcd vs plasma debate but Im not here for that. I know the plasma will have deeper blacks but the samsung has truer colour at least from what i have read. I would rather have the truer colour. The samsung is also 46" vs the pani's 42" (both the same price). the samsung plasma in those sizes is more money here so im not looking at it. I dunno what to do Im pretty happy with the pani's picture but 46" would be nicer and if im gonna be gaming im a bit worried about IR in the plasma. Also the pani seems to have quite a list of possible problems. thoughts?</Content>
+	</Post>
+</Thread>

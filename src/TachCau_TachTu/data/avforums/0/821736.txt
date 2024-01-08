@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 50GT30B - 3D picture not coming out of TV</Title>
+		<Username>Duey</Username>
+		<Datetime>10-01-2012, 7:53 PM</Datetime>
+		<Content>Not sure if it just me but when viewing in 3D on my Panasonic 50GT30B the image doesn't really feel like it is coming out of the TV. The 3D picture look great - very good quality and depth but when images are meant to feel like they are coming towards you they just don't. I did try another 3D TV in a shop once (not sure what model it was) and the images really felt like they were coming towards me. I even felt like ducking. So I'm very disappointed with my TV at the moment. Is there something wrong with the TV or the settings?</Content>
+	</Post>
+</Thread>

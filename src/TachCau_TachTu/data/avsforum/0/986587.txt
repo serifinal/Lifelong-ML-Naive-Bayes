@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bose AM 10 Series III Vs AM 15 Series II</Title>
+		<Username>jeev155</Username>
+		<Datetime>12-26-08, 05:06 PM</Datetime>
+		<Content>Cancel</Content>
+	</Post>
+</Thread>

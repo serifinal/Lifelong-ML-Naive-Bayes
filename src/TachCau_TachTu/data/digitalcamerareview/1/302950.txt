@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>lens for canon s5</Title>
+		<Username>lilnickysgirl</Username>
+		<Datetime>02-18-2008, 12:56 PM</Datetime>
+		<Content>Do I need to buy a telephoto or wide angle lens for the Canon S5? I was looking at a package of Opteka lenses, but the reviews I read online say they are crappy. If I were to buy those lenses, what brand, type, etc. should I look at?</Content>
+	</Post>
+</Thread>

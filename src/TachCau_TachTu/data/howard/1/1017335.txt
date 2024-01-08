@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Whats the best app for video recording and voice recording?</Title>
+		<Username>Fenrry</Username>
+		<Datetime>10-16-2009 11:55 PM</Datetime>
+		<Content>Ever since 3.0 came out and Cycorder became useless on 3GS I've been looking for the best replacement for the awful built in video recorder, does anybody have any recommendations? Same thing with the voice recorder, since it's locked to 30 mins I was hoping a recommendation on this also.</Content>
+	</Post>
+</Thread>

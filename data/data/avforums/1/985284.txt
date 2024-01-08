@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which 50" for £799?</Title>
+		<Username>Calvados</Username>
+		<Datetime>29-12-2011, 12:48 PM</Datetime>
+		<Content>Currys have the following all for £799 (which happens to be my budget). 50PZ570T P50ST30B P50G30B I see there are fans for all of these but should I plump for the P50G30B (I say this as someone who doesn't intend to watch much/any 3D). That said, I guess I don't envisage another big screen for another 5 years so perhaps I should get a 3D now.... they also have the P50UT30B at £699 - is this a more cannier buy? Its good too and it has 3D capacity cheers, C</Content>
+	</Post>
+</Thread>

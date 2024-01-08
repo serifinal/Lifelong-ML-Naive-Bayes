@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cannot See LCD Screen in Sunlight</Title>
+		<Username>Myron</Username>
+		<Datetime>01-08-2007, 12:23 PM</Datetime>
+		<Content>Am I the only 1 was this problem? I cannot see the LCD screen out of doors. I have tried brightening the screen and even using my hand to block the sunlight, but to no avail. Most of my photos are either off-center or are ruined. How do you guys use the screen? Indoors or on cloudy days, there's no problem. I am tired of getting home and having to delete most of my snapshots.</Content>
+	</Post>
+</Thread>

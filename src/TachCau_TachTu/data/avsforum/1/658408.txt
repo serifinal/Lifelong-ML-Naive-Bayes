@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Just impule bought a Panny TH42PZ80U....couple questions for you all.</Title>
+		<Username>mdbrad</Username>
+		<Datetime>08-26-08, 06:13 PM</Datetime>
+		<Content>My only other HD set has been a 1080P DLP. Late last week my old tube tV crapped out in the bedroom. I went online and without much research at all I purchased the Panasonic TH42PZ80U (the deal...from an authorized Panny dealer....sure seemed to be a great one). Anyway, now it's been delivered and directv has been out to hook me up with a HD DVR....but....I've got no idea of the proper settings and the "100 break in" guidelines that I've heard about. By chance, can somebody direct me to a quick reference on the proper settings as well as break-in guidelines? I'm really trying to avoid having to read through the thousands of posts in the "owners thread" if at all possible. One last thing....is there such a thing as "motion blur" with plasmas? I was doing some late night TV watching the other night on the new set and could have sworn the pixels were breaking up from time to time. Thanks!</Content>
+	</Post>
+</Thread>

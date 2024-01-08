@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 50PG6010 fault</Title>
+		<Username>Maddog666</Username>
+		<Datetime>27-06-2010, 12:12 PM</Datetime>
+		<Content>I am not sure if this is the right site but I have a LG 50PG6010 plasma TV and it has 2 lines from top to bottem on the righr side of the screen. The lines are about 35mm wide each and are grey with a fuzzy look to them, is there anybody who has come upon this and if so does anybody know how to fix it please. Thanks Eddy</Content>
+	</Post>
+</Thread>

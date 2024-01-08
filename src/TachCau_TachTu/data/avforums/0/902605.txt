@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer Kuro KRP500 without mediacenter KRP-M01</Title>
+		<Username>KURO16</Username>
+		<Datetime>31-07-2011, 8:11 AM</Datetime>
+		<Content>I've a (new) KRP500A without mediacenter KRP-M01. Now was I wondering if you could use the displayportconnection of the TV with the ATLONA converter wich can convert a HDMI signal to a Mini displayport signal. It's capable at 1080P. It's developed for a HDMI signal (PS3, BD, DVD) on a Macscreen wich only has a minidisplayport. Has someone experience in this matter? I think the technology of the TV is inside the TV and not in de mediacenter (for example the KRP500M and the fact that the IR-eye of the remote controller is located in the TV and not in the mediacenter). http://www.atlona.com/ATLONA-HDMI-MI...-SWITCHER.html Many thanks</Content>
+	</Post>
+</Thread>

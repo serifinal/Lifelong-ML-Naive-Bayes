@@ -1,0 +1,7 @@
+pio 5080/5010 and digital audio out .
+i 'm considering buying a pioneer 5080 or 5010 to go with my existing stereo receiver and surround sound speaker setup .
+unfortunately , my receiver , a nice but older yamaha , does n't have hdmi inputs and i 'm not sure i want to get an hdmi switcher .
+my plan at the moment is to use the 4 hdmi inputs on the 5010 -lrb- currently leaning towards it -rrb- to hookup my video devices -lrb- currently hd dvr , xbox 360 and oppo upscaling dvd player -rrb- , i would then run the optical audio out from the 5010 to the receiver 's optical input for audio .
+is there any reason this would n't be viable ?
+i 'd rather not buy a newer receiver if it is n't necessary -lrb- especially given the cost of the tv already -rrb- .
+instead of doing hdmi switching via the receiver i 'd just be doing switching via the tv ; i see no reason to not take advantage of the pioneer 's extra hdmi inputs , but i 'm worried there might be something about these tvs and the digital audio out that i 'm not aware of settings - or feature-wise , so i thought i 'd ask since so many people here own them .

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Torch not dead??</Title>
+		<Username>crc</Username>
+		<Datetime>10-10-2009 09:32 AM</Datetime>
+		<Content>Maybe the torch is not dead after all? I found this on engadget.com Anyone know anything more...Bueller, Bueller anyone Bueller http://www.engadget.com/2009/10/07/m...ed-hey-its-so/</Content>
+	</Post>
+</Thread>

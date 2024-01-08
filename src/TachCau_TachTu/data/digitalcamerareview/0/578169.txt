@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>S2IS with black display</Title>
+		<Username>Jul</Username>
+		<Datetime>02-10-2008, 08:46 PM</Datetime>
+		<Content>Hi, I have a Cannon Power Shot S2IS with the black display that I 've read about on this forum. I can view pictures on the card, but when I try to take a picture all I get is the black screen. I called Cannon asking about the service bulliten for the CCD image sensor and the tech said there is no service bulliten for the S2IS but to send it in and they'd check it out. I'm a little leary of that. Anyone have any ideas what else could be going on? Thanks for your help!</Content>
+	</Post>
+</Thread>

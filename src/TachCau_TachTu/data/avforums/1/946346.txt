@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PS51D6900 vs PS51D8000</Title>
+		<Username>Spock</Username>
+		<Datetime>10-01-2012, 11:32 AM</Datetime>
+		<Content>Is there a difinitive answer ( I couldnt find one!), has the 8000 got better PQ than the 6900? I'm looking to buy in the next week or so. I havent ruled out a gt30 for some strange reason, I think this is more because I'm thinking if/ when it goes wrong I'll ask for a 2012 replacement. Any replies will be welcome. I hate buying tvs. I bought my last one 7 yrs ago, An LG 37LC2D!!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What are the best picture settings for your TV? Find out here.</Title>
+		<Username>Phil Hinton</Username>
+		<Datetime>26-08-2008, 7:27 AM</Datetime>
+		<Content>There are many requests for what are the best settings for TVs so we have produced a series of Tutorial videos which explain everything YOU need to know. The guides can be used by anybody to get a great starting point for your TVs picture settings, including what to do with the brightness, contrast, saturation and sharpness controls. Further videos coming in the next few weeks will explain picture processing. AVForums believes in promoting best practice when it comes to setting up TVs and using accepted industry standards. This helps you achieve the best possible picture quality from your TV. http://www.youtube.com/watch?v=D-l1AFroyO4 http://www.youtube.com/watch?v=O1Jwzn8_WQ0 http://www.youtube.com/watch?v=k7PbLeSRZxU http://www.youtube.com/watch?v=KphNsnK7T8Y http://www.youtube.com/watch?v=6JKR6ofUZBQ http://www.youtube.com/watch?v=bO8wgJ43NTw What is ISF Calibration? Part Two Coming soon</Content>
+	</Post>
+</Thread>

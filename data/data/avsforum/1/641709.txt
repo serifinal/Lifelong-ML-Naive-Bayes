@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>nonpareil</Username>
+		<Datetime>10-17-08, 06:42 PM</Datetime>
+		<Content>As I've been weighing the pros and cons of choosing between the Polk Audio RM10 and buying some BIC America speakers to build my 5.1 system, I began wondering: do any of these speakers come with the necessary wires to connect them to the receiver, or should I be buying wires separately? HDMI cables, I know I need to connect the inputs (xbox, playstation, etc.), but I have seen a lot of discussion about speaker wires (and "banana plugs," which I still don't get), and am not sure which wires I should/need to be buying separately. Sorry for the clueless post, and thanks!</Content>
+	</Post>
+</Thread>

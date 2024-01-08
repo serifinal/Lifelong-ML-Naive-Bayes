@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic plasma, strange screen problem</Title>
+		<Username>ShaunKennedy</Username>
+		<Datetime>09-08-2011, 4:08 PM</Datetime>
+		<Content>I just got my new tv in the day and when I took it out of the box there was a dark bar down the left hand side, about an inch thick. The bar was still there when i turned it on, I could see the picture through it but it was darker the rest of the picture. Any ideas on how it can be fixed or will I be sending it back. Thanks</Content>
+	</Post>
+</Thread>

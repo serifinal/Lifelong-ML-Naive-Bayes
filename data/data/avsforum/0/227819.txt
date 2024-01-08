@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>hoyty</Username>
+		<Datetime>08-17-08, 09:51 AM</Datetime>
+		<Content>I have been looking at specs and pictures on Onkyo's site as well as popular authorized online dealers. In almost all cases the text specifies 4/1 HDMI but the pictures show 3/1. The world's largest online book seller says it is in stock and ready to ship so hopefully someone will have one soon to verify what it really is.</Content>
+	</Post>
+</Thread>

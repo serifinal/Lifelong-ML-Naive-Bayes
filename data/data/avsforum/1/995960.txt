@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help me pick a 2.0 system to replace my broken Klipsch Promedia 2.0s!</Title>
+		<Username>gyropod</Username>
+		<Datetime>10-09-08, 08:42 PM</Datetime>
+		<Content>Three years ago, I purchased some Klipsch Promedia 2.0 speakers after seeking advice from audiophiles like yourselves for the best 2.0 system under $150. And I loved them. I mean I really loved them! Unfortunately for my ears and for my budget, I am running into the problem that apparently everyone else but me knew about with these speakers, and the left speaker is now on the fritz. I am looking to replace them with another 2.0 system. It's three years later, but I'm turning to you, the pros, again: (Nowadays) what's the best 2.0 speaker system in the 150-dollar ballpark?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung is going to replace my plasma. Whats Comparable?????</Title>
+		<Username>ratm</Username>
+		<Datetime>12-29-08, 06:39 PM</Datetime>
+		<Content>So next week a tech is coming out to try and fix my dancing green pixel issue. The first guy came out, fixed the "X-Board" and with the hour, it started again. So today when my wife scheduled the appointment for tech #2, she asked how many times a tech has to come out for the same issue before we get a new TV. I really do not think that anything is going to fix my TV's issue, so when I call Samsung next week and say that I want a replacement, what model should I say I want if I have the FPT-5084? Sammy said that we would get a comparable one or the next model bigger. Thanks!</Content>
+	</Post>
+</Thread>

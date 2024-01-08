@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Will the Samsung A707 Work on Solo Mobile Network?</Title>
+		<Username>tahmadn</Username>
+		<Datetime>07-13-2010 06:07 PM</Datetime>
+		<Content>Can anyone say if the Samsung A707 will work on Solo? I had them try the IMEI number on the Bell Mobility site and it did not have the phone listed as compatible but the specs say it will support UMTS 850 & 1900 mhz, which is the Solo requirement. Anyone?? thanks..</Content>
+	</Post>
+</Thread>

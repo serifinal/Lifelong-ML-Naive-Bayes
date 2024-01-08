@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Video Chat App?</Title>
+		<Username>DRNewcomb</Username>
+		<Datetime>02-16-2010 09:29 PM</Datetime>
+		<Content>While the HTC Hero only has a camera on the back I've been thinking about a video chat application (maybe compatible with Google Talk) that uses the back camera and a mirror to view the other side of the conversation. Anyway, does anyone know of a two-way video chat application for Android?</Content>
+	</Post>
+</Thread>

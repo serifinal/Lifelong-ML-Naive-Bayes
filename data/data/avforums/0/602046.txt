@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HD Freeview 'shutter or blinking' effect</Title>
+		<Username>falcs</Username>
+		<Datetime>25-11-2011, 11:39 PM</Datetime>
+		<Content>Whilst watching HD Freeview on my LG 50'' every 15-60 seconds I get a very brief black screen, similar to the shutter on a SLR camera, or the blink of an eye. It doesnt happen on blu ray, or my PS3 games. I have retuned, checked settings, reset tv to factory settings, no cure yet. Any ideas?</Content>
+	</Post>
+</Thread>

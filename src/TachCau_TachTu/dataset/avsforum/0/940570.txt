@@ -1,0 +1,6 @@
+forceware 180.42 beta driver .
+i am having probms installing this beta driver .
+when i launch the install progm it installs fraps -lrb- ????? -rrb- but it doesnt seem to install the forceware 180.42 beta driver drivers .
+tried two diff dl -lrb- nvidia and guru3d -rrb- and both were the same results .
+anybody install this beta for xp 32 yet .
+just prepping for far cry 2 ...

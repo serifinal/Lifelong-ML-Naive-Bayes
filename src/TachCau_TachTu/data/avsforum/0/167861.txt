@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Overscan on LG 37LC2D</Title>
+		<Username>rocketpants</Username>
+		<Datetime>09-10-08, 04:36 AM</Datetime>
+		<Content>Hi all, i have an LG 37LC2D-AA which gives me significant overscan with PC input via VGA or HDMI ? I'm currently using HDMI. I'm trying to work out how to fix it. I've read the extremely long post (http://www.avsforum.com/avs-vb/showthread.php?t=685784) but there is no joy there. Using the service menu I can eliminate overscan with the HDMI input but I am unable to save any settings in the service menu. This means every time I turn off the TV or change input the settings revert to overscanning. I've tried all the tricks posted elsewhere ? leaving off for a period of time, pressing all sorts of key combos etc but nothing seems to work. I'm wondering if I need to connect to the service port of the TV and do something that way ? but would need to find software to allow me to do this. I have an LG service remote (Adjust Remocon or 105-201M) and hope its as easy as just using this remote but I can't find any info on how I might do this. Can anyone advise on how to save the settings in the service menu or is it a lost cause? Thanks</Content>
+	</Post>
+</Thread>

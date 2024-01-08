@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Nokia N900 Brand new in box - Markham/Richmond Hill - $520</Title>
+		<Username>ongmike</Username>
+		<Datetime>06-10-2010 02:22 PM</Datetime>
+		<Content>Still sealed in box so it comes with everything inside.</Content>
+	</Post>
+</Thread>

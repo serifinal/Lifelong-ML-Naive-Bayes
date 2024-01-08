@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Poll: "Unconventional" sonotube finishing opinions</Title>
+		<Username>dylanblada</Username>
+		<Datetime>08-02-08, 12:54 AM</Datetime>
+		<Content>So, this week I'llne building my sonotube and though I'm not against doing a sleek black carpet covering, I might like to do something a little different. Something that might be a good coversation piece as well as a monster sub. I might still just play it safe and do the black carpet on glossy black MDF, but maybe someone will have a better idea..... Another idea I forgot to add to the poll was the lifesaver (like a Lifesavers candy package) Also, if you think its all too strange, tell me to just do black and stop the madness....</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Freezing Issue - Bell Galaxy S</Title>
+		<Username>mattzaj</Username>
+		<Datetime>08-09-2010 08:53 AM</Datetime>
+		<Content>I picked up the Galaxy S on Friday afternoon from the Bell store and have been having freezing issues ever since. By my count it froze at least a couple dozen times in the first 48 hours. I exchanged the phone on Sunday afternoon and am having the same issue with the replacement phone. I charged the new phone using the wall charger for 12 continuous hours and it's still freezing at random times it seems. Right now it's been freezing while laying on my desk with no input. It took me a few tries simply to do a factory reset because it would freeze before I could finish entering the reset code. There isn't much info out there on this particular model phone from bell but it did read elsewhere, a few mentions of freezing and the Bell Galaxy S. I really don't have the patients to be try to figure this out. Does anyone have any advice? It seems to freeze more when I'm in my home office which has always had bad reception. Is it possible that the freezing is related to that? One other thing I noticed is that the battery status is very inaccurate. I charged the phone over night for 12 hours, turned the phone on for about 30 minutes and the battery status now reads 89%, which doesn't seem reasonable.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Getting pixelation while watching sports! Please help?</Title>
+		<Username>budmonster</Username>
+		<Datetime>28-11-2011, 8:20 AM</Datetime>
+		<Content>I just recently bought a LG 50PV450 Television - 50" Class 1080P Plasma TV and I was watching Sunday Night Football on NBC tonight. I noticed that at certain times when there was fast motion going on, when the screen was moving very fast that certain areas of my TV would get fuzzy or pixelated. Also, at certain times NBC has their HUD come up to show you certain stats and what not. Whenever that transitioned on to the screen that area would get fuzzy/pixelated too. But on the other hand I was watching Transformers on TNT, an extremly fast paced movie as you probably know and I didn't see any problems, from what I can tell. Whats going on? Am I just nitpicking right now or is something really going on? What can I do about this. I just got the dang TV 3 days ago. Also, I noticed the my TV will starting dimming in and out in certain areas of the TV, like a pulsating effect. Thanks for the help in advance!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>circuit city is going to swap my hlt 6176s for a 650 or 750 samsung model which shoul</Title>
+		<Username>JOE.G</Username>
+		<Datetime>05-10-08, 09:38 AM</Datetime>
+		<Content>Circuit city price matched best buy, so i got $100 back and I have had my HLT6176S for 3 months, they gave me a $100 back already, and if I decided to go with the 650 they will give me $300 back, I paid $1,889.99 for my 6176S.My ? is which is better the 650 or the 750, the 650's I have seen in the stores seem to have geometry issues where the 750's appeared to be pretty good. The 650 seems to have a better pic but that could have also been the hook, does the 750 have a real pixel look to the pic? thanks</Content>
+	</Post>
+</Thread>

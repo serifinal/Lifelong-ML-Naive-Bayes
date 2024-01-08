@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>No iPlayer on Viera Cast</Title>
+		<Username>Ebcdic</Username>
+		<Datetime>28-05-2010, 12:32 PM</Datetime>
+		<Content>I e-mailed Panasonic support to ask what their plans were for iPlayer on Viera Cast, and received the following disappointing reply: Quote:</Content>
+	</Post>
+</Thread>

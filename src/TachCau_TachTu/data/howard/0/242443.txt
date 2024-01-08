@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>950 Server Error Fix!</Title>
+		<Username>Sprintonboost</Username>
+		<Datetime>01-31-2010 09:20 PM</Datetime>
+		<Content>Ha! got your attention, didnt it. If anyone knows why my sprint branded m540 / rant is getting this error code every time I try to download opera 3.1.2.? After selecting proceed after the non-trusted site warning, it immediately gives this error. Please help if you can.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Charger for Car cigarette lighter plug?</Title>
+		<Username>Sektionschef1</Username>
+		<Datetime>01-09-2008, 05:56 AM</Datetime>
+		<Content>Dear all I want to buy a ultracompact camera soon and some of my candidates are the SD850IS or SD950IS. Does anyone know whether there is a battery charger available that can be used in a car by connecting it to the cigrarette lighter? or, can anyone please tell me what DC voltage and current the included charger delivers that I can build my onw charger for the car? Thanks for any hints regards Sektionschef</Content>
+	</Post>
+</Thread>

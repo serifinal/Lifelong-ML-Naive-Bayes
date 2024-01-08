@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS51D6900 no picture at all?</Title>
+		<Username>rolfee</Username>
+		<Datetime>16-12-2011, 7:59 PM</Datetime>
+		<Content>hi, Just got above tv, had it for 10 days and i turned it on today and there is no picture what so ever, power light is working, it seems to be accepting ir commands but there is no output what soever via the screen or sound. Not even a boot screen, or smart tv. Is this a case of dead unit for replacement? or is there any further test i could do? If it is dead, does anyone know what i can expect in terms of getting a replacement and how quickly? I will be obviously calling Robert Whyte tomorrow to start this process, but being this near to holidays, what are my chances to get it replaced before next week? Many thanks</Content>
+	</Post>
+</Thread>

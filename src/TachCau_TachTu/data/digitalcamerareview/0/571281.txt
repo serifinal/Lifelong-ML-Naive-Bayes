@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>when is the canon powershot tx1 replacement (tx2?) coming out?</Title>
+		<Username>masterchef341</Username>
+		<Datetime>08-16-2008, 01:42 PM</Datetime>
+		<Content>just curious. wonder if anyone knows?</Content>
+	</Post>
+</Thread>

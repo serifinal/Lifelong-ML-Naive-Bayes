@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon G11 vs G12</Title>
+		<Username>hewittj</Username>
+		<Datetime>12-04-2010, 02:26 PM</Datetime>
+		<Content>Hi there Im new to this forum so please forgive me if this question has been discussed previously but I couldnt find any threads that looked like they dealt with this. I am currently in Istanbul taking a break from cycle touring towards New Zealand. So far we have travelled from London over the summer time taking photos with a Canon Ixus compact. Ive now decided that before we head on through Russia, Mongolia, China and SE Asia I want to upgrade cameras and am fairly certain that the Canon G series is the most suitable camera for what I need. Ive taken a look at the G12 model in stores and like it except for the swivel LCD display on the back which to me seems like the kind of thing that could easily break and cause me a headache while travelling. However I also noticed that the G12 has a wider range of ISO settings and auto modes (not that useful I know) than the G11. So basically my question is whether any forum members have views on the G11 vs the G12, any comments or experiences good and bad to help me decide between the two models are very welcome. Thanks Justin Rolling Tales:Small adventures by bicycle Home</Content>
+	</Post>
+</Thread>

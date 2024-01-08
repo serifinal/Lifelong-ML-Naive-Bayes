@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Outlook Business Contact Manager - best device?</Title>
+		<Username>tonyd48</Username>
+		<Datetime>04-02-2010 11:11 AM</Datetime>
+		<Content>I use Outlook 2007 Business Contact Manager (BCM) to track contacts, vendors and related e-mails. I must be able to link e-mails to a specific client/contact. Which brand of smartphone offers the easiest syncing between BCM on my computer and the smartphone. So far I'm finding "can't do that but here's a workaround". Does anyone use BCM and have a smartphone they're happy with with reasonable sync? Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>?Westworld? coming to region 2 DVD ?boy, have we got a vacation for you??</Title>
+		<Username>JBLsound4645</Username>
+		<Datetime>07-01-08, 10:18 PM</Datetime>
+		<Content>Looks like promising September 22nd with another MGM realise this time with (Yul Brynner) as ?gunslinger? in the futuristic ?Westworld? (1973) with (Richard Benjamin) and (James Brolin) take a vacation to delos a futuristic theme park where you can live out the adventure of lifetime, that is until the robots that have been designed and engineered to provide entertainment, start to malfunction where it becomes a battle for survival. http://www.imdb.com/title/tt0070909/ I?ve enjoyed watching this Michael Crichton thriller on TNT cable many years ago, often repeated twice in the evening. I see on the imdb it was produced in 4 track so I hope all there as well as the 2.35:1 scope.</Content>
+	</Post>
+</Thread>

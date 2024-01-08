@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Black and white with color accents - Rebel T1i</Title>
+		<Username>aadepa</Username>
+		<Datetime>08-10-2009, 10:49 AM</Datetime>
+		<Content>I've noticed a lot of people now taking black and white photographs where they can focus on a color or two so that the entire image is BW except for those colors. Ive been looking through the manual and playing with the menu but can't seem to figure out how to do this. I like the look of the pictures and want to try a few like that myself. Any help would be appreciated. I am running a Rebel T1i. Also, what's this type of photography called, if it does have a specific name?</Content>
+	</Post>
+</Thread>

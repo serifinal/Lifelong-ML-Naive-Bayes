@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Wave Pricing - Wow!</Title>
+		<Username>Carbon Molecule</Username>
+		<Datetime>07-08-2010 10:35 AM</Datetime>
+		<Content>I'm speechless, so here's a picture: And another picture:</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Same Price: BIC H-100 or Klipsch Synergy Sub-12</Title>
+		<Username>thediceman504</Username>
+		<Datetime>08-28-08, 01:45 PM</Datetime>
+		<Content>Hello Guys, I have been reading the forum for a while now and it has helped me so much in my first home theater purchase. This is my first post because I could not seem to find a direct comparison by searching. I can get the Klipsch Synergy Sub-12 for about the same price as the BIC H-100. The H-100 gets great reviews on the forum, but most are in reference to its $250 price range. If i can get the Klipsch Sub-12 for around that price, would that be a better sub for the money? I will be using it for music and movies regularly. Hopefully someone out there can share their experience with both. Thanks a lot, Mike</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>TX-P46GT30B - Only 3D when I stand up?</Title>
+		<Username>revisj</Username>
+		<Datetime>22-07-2011, 8:54 PM</Datetime>
+		<Content>I've just got my new Panny TX-P46GT30B out of the box popped Resident Evil Afterlife into my LG 3D Bluray player and discovered that I can only watch the film in 3D if I stand up... My normal viewing position is 3m from the screen and my head would come dead centre of the screen height wise. If I stand up the image clicks into 3D mode. If I then sit down, that mode is retained for about 5 seconds and then the image blurs and 3D is lost. I get the same effect with Sky 3D too. I'm using Panny's TY-EW3D2ME glasses. I have even tried propping up the rear of the TV stand with a couple of drinks coasters to simulate a greater viewing elevation, but that didn't give me a seated 3D image. Any thoughts? Thanks</Content>
+	</Post>
+</Thread>

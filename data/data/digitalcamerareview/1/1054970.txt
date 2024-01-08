@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Just bought a 30D</Title>
+		<Username>chattphotos</Username>
+		<Datetime>01-22-2011, 12:36 PM</Datetime>
+		<Content>Hello All! I'm chattphotos or Silent Shadows in the studio. I shoot Pentax K-7, but we live in a Canon/Nikon world. So I got bold and bought a Canon 30D from a friend that upgraded to the 50D Mk2. I shoot alot of nature, people, pets, and night photography. In your opinion/experience with Canon, is this a good buy? If it is a good buy, what lenses would you recommend for it?</Content>
+	</Post>
+</Thread>

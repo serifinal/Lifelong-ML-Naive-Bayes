@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Rebel replacement?</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>07-11-2005, 11:12 PM</Datetime>
+		<Content>The following message came in via e-mail: I am strongly considering buying the digital Rebel XT. I have had two professional photographers tell me not to buy it because Canon will be replacing the Rebel in September. I know its not likely considering both models of the Rebel have been great sellers. Any truth to this rumor?</Content>
+	</Post>
+</Thread>

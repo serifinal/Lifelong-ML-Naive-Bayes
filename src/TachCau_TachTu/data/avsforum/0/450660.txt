@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Dyslexic's Build</Title>
+		<Username>dyslexic</Username>
+		<Datetime>03-02-08, 08:07 PM</Datetime>
+		<Content>Ok...after Snowkarvers build....I'm in. Mine has a twist. I have set aside a 13ft by 16ft space for the main theatre....since I had to compromise with the wife and the 'kids space'..I threw in an 11ft by 16ft space for a "Wii Wall"...I just picked up my Sharp LC46D82U flat panel for that...I just hung that this afternoon in a temporary spot over the fireplace upstairs...let the build begin...Pictures to follow. I may be a bit slower than some of you faster guys as this also includes a bathroom and separate bedroom/gym.</Content>
+	</Post>
+</Thread>

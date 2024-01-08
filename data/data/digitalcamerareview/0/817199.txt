@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help pls date and time problem with ixus60</Title>
+		<Username>bessyx77</Username>
+		<Datetime>12-26-2007, 07:24 AM</Datetime>
+		<Content>Im besarti from albania i cant speak english very good but i try to speak so can anyone help me to fix my problem . I have an canon ixus 60 and i love my camera but when i shoot with the camera i can't see the date when i shot the picture pls help me how can i fix this problem for me :$</Content>
+	</Post>
+</Thread>

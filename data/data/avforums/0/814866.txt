@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Has the green tinge issue put you off buying Panasonic?</Title>
+		<Username>Scooby2000</Username>
+		<Datetime>28-01-2012, 2:45 PM</Datetime>
+		<Content>OK looks like this thread and poll may be needed on here. Please keep this a one issue thread only. I want Panasonic and others to have some idea what damage this sort of thing can do to sales. To be clear if you vote yes it doesn't necessarily mean you will never buy Panasonic again, more wont buy now or in the near future.</Content>
+	</Post>
+</Thread>

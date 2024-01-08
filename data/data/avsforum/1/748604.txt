@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Screen Wall Color</Title>
+		<Username>interfx</Username>
+		<Datetime>09-13-08, 06:20 AM</Datetime>
+		<Content>I'm getting ready to buy my projector (glad I waited, the new Sony VPL-HW10 sounds awesome), and purchase by foxed 102" screen. Question is, should I paint the screen wall matte black before I hang the screen? Right now the wall is painted the same color as all of other walls in the room... Any advice? I need to get to a decision soon (and also have to be able to convince my wife that it will look good... Any thoughts?</Content>
+	</Post>
+</Thread>

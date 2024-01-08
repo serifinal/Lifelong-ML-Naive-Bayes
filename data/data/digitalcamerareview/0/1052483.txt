@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>E 18 error - How widespread is this problem??</Title>
+		<Username>SoCalRich</Username>
+		<Datetime>03-19-2009, 06:33 PM</Datetime>
+		<Content>I found a site that explains the problem and how to fix it if the camera is out of warranty. http://www.e18error.com/ My question is how bad is this problem?</Content>
+	</Post>
+</Thread>

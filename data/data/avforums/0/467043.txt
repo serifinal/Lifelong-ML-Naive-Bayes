@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS43D450A2</Title>
+		<Username>Rickoza</Username>
+		<Datetime>26-12-2011, 11:21 AM</Datetime>
+		<Content>Hi I bought this at Comet on Christmas eve and it has worked perfectly until this morning. There appears to be a shadow picture coming through of other channels, is this something to do with the graphite clip thing which it instructs you to clip on the power cord, this wasn't present yesterday. Last night i tuned in the freeview channels and now I have this shadow screen which moves from left to right across the picture. Anyone help please?</Content>
+	</Post>
+</Thread>

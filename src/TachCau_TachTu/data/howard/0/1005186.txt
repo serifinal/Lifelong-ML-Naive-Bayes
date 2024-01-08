@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Important: Question for rogers retail employees</Title>
+		<Username>joninator</Username>
+		<Datetime>09-01-2009 08:35 PM</Datetime>
+		<Content>My manager made up this policy where if closing wasn't done to his satisfaction. He would dock our pay by 30 minutes. All closures has it's own task to do and we have to sign the closing sheet at the end of the night before we leaving stating what we did and such ie. mopped floor, count cash etc... Scenario: We all stayed till 9:45PM. Person A: Cleaned (sweeped, mopped etc..) Person B: Count Cash and Deposit Person C: Paper work, phone count Person B, and C did everything properly and signed appropriate spots on closing sheet but Person A did a poor job at cleaning AND didn't signed the closing sheet. Now, because Person A didn't sign his closing sheet. My manager would not know who to deduct the pay from but instead all of the closures will be docked 30 minutes from our pay because we are all responsible to make sure everything is done. Now if, Person A would've signed his papers and he did a poor job at cleaning...then he will be the only person be docked the 30 minutes. Does he have the rights to do this? Because he has already docked my pay because of someone did a bad job at cleaning and didn't sign his papers. I was so stressed about this that I walked out of the store shaking (Anxiety?). Having customers yelling at me all day doesn't help either. Should I take this to my area manager or even higher ups? Your inputs would be greatly appriciated Thanks,</Content>
+	</Post>
+</Thread>

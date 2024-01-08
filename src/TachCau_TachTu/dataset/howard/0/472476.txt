@@ -1,0 +1,6 @@
+rove mobile admin client java error when attempting to connect to server .
+getting error when attempting to connect to rove server via rove mobile admin version 4.2.6075 on blackberry 9700 os -lrb- app version -rrb- 5.0.0.586 .
+error in question is `` unknown error java.lang.runtimeexception : pushmodalscreen called by a non-event thread '' .
+downloaded the client off of the company 's server .
+attempted running latest version of rove mobile admin client which i downloaded off of blackberry app world , however that gave me an error saying that the client version did not match with the server version .
+have also attempted a re-install as well as a battery pull .

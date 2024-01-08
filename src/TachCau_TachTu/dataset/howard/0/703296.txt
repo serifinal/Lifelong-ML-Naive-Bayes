@@ -1,0 +1,2 @@
+torch 9800 announced by rim & at&t .
+its official now , the new torch is announced ... http://www.att.com/shop/wireless/dev...erry-torch.jsp i cant wait for the aws version to run on wind .

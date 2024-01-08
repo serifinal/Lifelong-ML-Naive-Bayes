@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>805</Title>
+		<Username>King_David</Username>
+		<Datetime>11-02-08, 01:11 AM</Datetime>
+		<Content>Which is better: Onkyo 805 or Onkyo 806? And please state why?</Content>
+	</Post>
+</Thread>

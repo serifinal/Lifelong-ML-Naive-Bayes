@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Quick opinion: Toshiba 42RV530U or Sharp LC42D64U?</Title>
+		<Username>mikey328</Username>
+		<Datetime>05-08-08, 12:30 PM</Datetime>
+		<Content>Need help on making a decision. I play a lot of XBox 360 and watch tons of movies (plan on getting a PS3 eventually for Blu-Ray). Need some help on my decision... thanks in advance!</Content>
+	</Post>
+</Thread>

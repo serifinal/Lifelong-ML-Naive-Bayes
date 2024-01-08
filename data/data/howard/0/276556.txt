@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: BNIB Iphone4 16gig</Title>
+		<Username>hjlow</Username>
+		<Datetime>08-01-2010 02:44 PM</Datetime>
+		<Content>got from Apple store today. my understanding is it can be activated on any network since box has not been opened yet. $1,000. first come first serve. prefer local deal in K/W.</Content>
+	</Post>
+</Thread>

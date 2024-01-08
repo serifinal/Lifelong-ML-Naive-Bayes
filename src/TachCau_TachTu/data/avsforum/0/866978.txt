@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>-{show Off Your Home Theater!!}-</Title>
+		<Username>Demetri99</Username>
+		<Datetime>03-13-08, 03:36 PM</Datetime>
+		<Content>hello to all out there in AVSland. i am calling on all AVSforum users to come forth with their home theater pictures. this is a chance for some to show off their ht progress, completed ht's and for newbies to get ideas for their ht project. so come on and show off all your hard work!! THANK YOU IN ADVANCE!!</Content>
+	</Post>
+</Thread>

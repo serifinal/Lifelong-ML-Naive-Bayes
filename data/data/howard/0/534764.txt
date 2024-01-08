@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>switching a voice plan on family account to a data only laptop account... POssible??</Title>
+		<Username>khart214</Username>
+		<Datetime>07-18-2010 11:57 PM</Datetime>
+		<Content>I have a family plan and one of my lines I am not using. I was thinking about calling att and seeing if I could go ahead and turn that into a data plan line for my laptop card I already own... will they allow me to do that?</Content>
+	</Post>
+</Thread>

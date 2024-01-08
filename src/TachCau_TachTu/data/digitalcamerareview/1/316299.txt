@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>lenses?</Title>
+		<Username>Dawgs</Username>
+		<Datetime>12-13-2010, 06:17 PM</Datetime>
+		<Content>i just bought wifey a T2i. i would like to get her an additional zoom lens. shes an amateur but like photography. im sure the lenses with IS are better...but how much better? would one without IS be ok?</Content>
+	</Post>
+</Thread>

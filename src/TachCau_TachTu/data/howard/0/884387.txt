@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Unlocked and Rooted Nexus One and Rooted Acer Liquid For ATT and Rodges 3G</Title>
+		<Username>sabwafare2001</Username>
+		<Datetime>05-08-2010 11:47 AM</Datetime>
+		<Content>Unlocked Rooted White Acer Liquid with 16gb SD Card with no scratches or nics anywhere on the phone. Phone will work with ATT 3g and T-mobile on Edge. Comes with box and all accessories. It is Rooted to install custom Roms or themes. The price is $360 shipped to the US. Will ship to Canada for extra $. Unlocked Rooted Nexus One for 3G on ATT and Rodges in LIKE NEW condition. Comes with box, all accessories including 16GB memory card, invisible shield, and Desktop Dock. Rooted to install custom roms and already has the SD ready for Apps2SD. The price is $580 for everything. Can work out a deal if all extra accessories not wanted. Will ship to Canada for extra $.</Content>
+	</Post>
+</Thread>

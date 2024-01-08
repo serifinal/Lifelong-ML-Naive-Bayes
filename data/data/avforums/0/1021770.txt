@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Another possible problem with PV500</Title>
+		<Username>Ekko Star</Username>
+		<Datetime>19-06-2005, 12:01 AM</Datetime>
+		<Content>If the screen is fired with some test RGB screens, or blank backgrounds have noticed that the screen appears to have 2 halves shaded ever so differently The line of separation is exactly across the middle of the screen, whether this is a feature or not or is common to all sets is unknown. Certainly not a good thing.</Content>
+	</Post>
+</Thread>

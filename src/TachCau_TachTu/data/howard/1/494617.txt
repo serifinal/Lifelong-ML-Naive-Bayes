@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTT: BNIB Blackberry Bold + cash for BNIB iPhone 3GS 16gb or 32gb</Title>
+		<Username>VinceThePrince</Username>
+		<Datetime>08-02-2009 05:02 PM</Datetime>
+		<Content>Like the title says, I have a brand new Blackberry Bold 9000, completely unopened, unused, and sealed. I would like to trade for any iPhone 3GS in the same condition (brand new and sealed). It can be black or white, and can be 16GB or 32GB. It can also be Rogers locked, I don't mind. I will of course be adding cash on top. I live in Windsor, Ontario but I will be in the GTA for the weekend of August 15 and 16 so I will be meeting up in person with you. Thanks for looking!</Content>
+	</Post>
+</Thread>

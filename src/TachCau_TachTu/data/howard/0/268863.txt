@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Adding Data Plan to an Existing Voice Plan [iphone]</Title>
+		<Username>shadow21x</Username>
+		<Datetime>12-20-2009 09:58 PM</Datetime>
+		<Content>Hey guys. I am being offered an iphone 3GS from my buddy for a price I cannot refuse.. so I will be picking it up and looking into adding a data plan on top of my existing contract. I called Rogers and the rep told me that if I go with the $25 smartphone plan, I won't get the same speeds I would get on the 3G network with the (minimum $60) iphone plan. My question is: How true is this? I believe it, but why do they do this? Is it a compatibility thing, or do they just tune down your speed so you get the iphone plan. Also, if true, how big of a drop is there in speed? Is it a huge deal? I will be browsing websites, using apps, and streaming from youtube. Thanks in advance for any insight.</Content>
+	</Post>
+</Thread>

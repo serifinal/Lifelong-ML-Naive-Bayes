@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Galaxy Or iPhone With Bell?</Title>
+		<Username>voodoochild16</Username>
+		<Datetime>01-12-2010 04:22 PM</Datetime>
+		<Content>Hey all, I am interested in a new phone, I like the iPhone and I hear good things about the Samsung Galaxy but what do you guys think is better with Bell in terms of rates and specs?.</Content>
+	</Post>
+</Thread>

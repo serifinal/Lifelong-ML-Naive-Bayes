@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>880 vs 970...Last 2 choices</Title>
+		<Username>Zydan</Username>
+		<Datetime>06-09-2009, 11:27 PM</Datetime>
+		<Content>Well I'm going to pick up my camera this weekend, I really can't decide between these 2 cameras...is the 970 really worth the extra money? Which of the 2 has the wider lens? I read both reviews, but I'm not sure how to tell. ...well any input anyone can provide on these 2 cameras (Most likely Andy) is greatly appreciated.</Content>
+	</Post>
+</Thread>

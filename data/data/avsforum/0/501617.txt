@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Roxul sound proofing opinion</Title>
+		<Username>Outsider787</Username>
+		<Datetime>04-09-08, 08:25 AM</Datetime>
+		<Content>I'm currently finishing a basement in my house, and am planning on putting Roxul Safe'n'Sound insulation in the ceiling between the joists, to stop the transmission of sound up into the mail floor of the house. The house is older, and the joists are 2x6,s (16" on center) and I am debating on whether to put in one layer of the Roxul stuff or two. The Safe'n'Sound stuff is only 3" thick, so I can physically fit. It's just a question of the effectiveness of $200 worth (second layer) of Roxul will make a huge difference or not. The final ceiling will be suspended ceiling tiles. Any thoughts on this? Will a second layer of this stuff make a huge difference?</Content>
+	</Post>
+</Thread>

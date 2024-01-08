@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why does apple.ca say iPhone4 and iPad microSIM cards are NOT interchangeable?</Title>
+		<Username>alGB</Username>
+		<Datetime>06-15-2010 06:14 PM</Datetime>
+		<Content>ok, it's great news that unlocked iPhone 4 will be available through Apple Canada. Both the iPhone 4 and the iPad use the smaller form-factor microSIM cards, but I notice on their website, in the FAQ section there is the following: "Are iPhone 4 and iPad micro-SIM cards interchangeable? No. Your iPad micro-SIM card will not work with your iPhone." what's the reason for this?</Content>
+	</Post>
+</Thread>

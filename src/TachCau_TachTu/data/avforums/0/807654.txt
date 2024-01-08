@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42 PX80 Owners,Colour settings for HD</Title>
+		<Username>_Dragon_</Username>
+		<Datetime>21-11-2011, 2:50 PM</Datetime>
+		<Content>So now ive got a Sky HD box i want to get the wow factor again when watching sky,So what settings looks best when watching HD channels? I know everyone has a different view but i was just seeing if there is a common setting. At the moment i have: Settings are from 0 so 0 to 38 (Normal) - CONTRAST 38 - BRIGHTNESS 32 - COLOUR 28 - SHARPNESS 3 - COLOUR TEMP Normal</Content>
+	</Post>
+</Thread>

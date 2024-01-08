@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Home Theater noob needs some help w/ Onkyo 605 and Sony DG910</Title>
+		<Username>frankspin</Username>
+		<Datetime>04-04-08, 04:09 PM</Datetime>
+		<Content>I'm getting ready to take a jump into the home theater market and put together a system soon. I'm trying to get some research done and have narrowed it down to the Onkyo 605 and Sony 910. I like the 910 because it has 3 HDMI and I know the 605 has gotten rave reviews on here but I noticed some people have mentioned the popping. I was wondering if I could get any further feedback on either one. Other quick home theater questions: What is a better bet for speakers, getting a "box set" or buying individual center/book shelf/etc? Will these receivers take a 5.1 and change it to 7.1? What is the deal on the Onkyo 576? Has anyone had the chance to use one or heard any preliminary things? I should probably mention I'm on a budget of sorts. Thanks for any help!</Content>
+	</Post>
+</Thread>

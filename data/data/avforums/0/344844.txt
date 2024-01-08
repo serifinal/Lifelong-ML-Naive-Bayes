@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT20 White Brightness Reduction</Title>
+		<Username>Laes</Username>
+		<Datetime>27-06-2011, 12:20 PM</Datetime>
+		<Content>Hey guys, First time posting here. I bought a Panasonic 54inch VT20 about a week ago and I am loving it so far. I just have one question about an "issue" I am having, it doesn't really bother me that much but I'd like to try and see if there's a fix for it. Basically if the whole screen has mostly white, it will reduce the overall brightness of the display. I have turned off eco mode and power save, tried different display presets and it does the same thing. There's a youtube video I found of a Kuro doing the same thing here: YouTube - &#x202a;Plasma screen overall brightness reduces as input frame brightness is increased&#x202c;&rlm; Does anyone know a way you can fix this or is it normal for all TVs? I'm not using the power cable that came with the TV if that matters. Thanks</Content>
+	</Post>
+</Thread>

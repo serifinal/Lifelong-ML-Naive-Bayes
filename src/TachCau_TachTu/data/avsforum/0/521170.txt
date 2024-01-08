@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Samsung LNxxA550 (Series 5) Owners Thread NO PRICE TALK!</Title>
+		<Username>SeanM5</Username>
+		<Datetime>03-09-08, 08:56 PM</Datetime>
+		<Content>These are available now. Samsung Series 5 LCD (2008) HDTVs Model Numbers: * LN32A550P - 32-Inch * LN37A550P - 37-Inch * LN40A550P - 40-Inch * LN46A550P - 46-Inch * LN52A550P - 52-Inch (The above links go to Samsung's support pages which includes manuals and quick start guides for each). Something I would like to point out is that the 32" and 37" models have worse technical specs than the 40", 46", and 52". A 15,000:1 contrast ratio compared to a 30,000:1 contrast ratio (and possibly other differences). So even though they are in the same 550 series they are not all the same! Interesting posts in this thread: - Service Menu stuff - Pictures of the set in action: here, here, here, here, and here. CALIBRATION THREAD: Official LNXXA550 Calibration/Settings Thread</Content>
+	</Post>
+</Thread>

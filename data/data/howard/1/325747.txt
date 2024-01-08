@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Current Fido Inventory for the Iphone 3GS</Title>
+		<Username>zerokarma</Username>
+		<Datetime>09-15-2009 03:34 PM</Datetime>
+		<Content>Does anyone know what the current inventory situation is for the Iphone 3GS at Fido? or what the current wait time is for one if ordered today?</Content>
+	</Post>
+</Thread>

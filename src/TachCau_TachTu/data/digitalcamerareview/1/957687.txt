@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New Canon</Title>
+		<Username>anp0214</Username>
+		<Datetime>03-30-2008, 11:06 AM</Datetime>
+		<Content>I am looking at getting a Canon after reading many positive reviews. I currently have a Kodak V610 which I bought for the 10x zoom, however, the photo quality is not great on it. I love using my zoom, but I also carry my camera with me at all times. I am looking at the SX 100-IS and the SD 1100. The SX100 obviously has more zoom, but it is also larger in size. I also looked at the Olympus Stylus 1010 but have heard better review on Canon so I am hesitant to try that. Zoom is important to me, but I don't know how much of a difference I will be able to tell in these two cameras. Any advice would be appreciated!</Content>
+	</Post>
+</Thread>

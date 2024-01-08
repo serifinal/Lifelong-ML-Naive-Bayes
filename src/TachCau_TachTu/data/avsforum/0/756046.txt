@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>free AO's</Title>
+		<Username>crknapp</Username>
+		<Datetime>11-28-08, 06:23 PM</Datetime>
+		<Content>I was wondering if anyone had any input on this one... I just moved to SoCal and called Time Warner Cable (not a huge fan at all...but it is the only non-satellite option) to get cable and internet setup. I have had them before in NC, and other companies when I lived else where, so I am familiar with their pricing. I went with the HD DVR and Road Runner Turbo. However, I was just told that for each additional TV that I want to have cable (no box...just coaxial from wall to TV) requires a $15 per TV hook up fee. Every other place I have lived you pay a hook up fee for the TV's that get cable boxes, but never for those that you just plug directly into the wall. Can anyone confirm this is correct? Does the "installer" actually do anything to turn these outlets on that warrants a $15 per TV charge? Or, is this just a scam to get more money? If I don't pay the $15 per TV charge will the other outlets in the house not work? Is there something I can do instead to get this outlets turned on after he does the "install?" Thanks in advance for any input, and I apologize if this has been addressed but I couldn't find another thread that dealt with this.</Content>
+	</Post>
+</Thread>

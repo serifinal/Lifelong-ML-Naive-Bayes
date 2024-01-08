@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>iPhone Share plan not soo bad..</Title>
+		<Username>scherzo</Username>
+		<Datetime>11-10-2009 10:42 PM</Datetime>
+		<Content>Am I missing anything? My wife and I are probably going to get iPhones. We are looking at the Shared $100 plan. 450 + 50 minutes (shared) Unlimited calling between both phones Unlimited text messaging (we're picking this option) 3GB shared They are throwing in the standard Caller ID/VM option for free over 3 years.. My wife and I don't talk very much on the cell phones.. so texting is more important.. She won't use that much Data.. I will.. but I don't think I'll burn through 1.5GBs per month.. I hope.. Am I missing anything? That is about $50 per phone.</Content>
+	</Post>
+</Thread>

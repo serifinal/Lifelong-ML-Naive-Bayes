@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>good low light cameras</Title>
+		<Username>voulasusan</Username>
+		<Datetime>06-21-2009, 04:08 PM</Datetime>
+		<Content>can anyone recommend a good camera for low-light situations, like concert settings. i was looking at the canon sx1 is but many of the reviews i read stated that this camera was no good for low-light situations.</Content>
+	</Post>
+</Thread>

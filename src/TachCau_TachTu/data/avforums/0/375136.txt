@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42VT20 Settings</Title>
+		<Username>chalkywhyte</Username>
+		<Datetime>15-10-2010, 4:49 PM</Datetime>
+		<Content>Hello everyone, Recently got myself one of these and was wondering if anyone had some calibrated settings i could put onto the set? I know THX mode is meant to look really good but for some reason when watching Sky (not tried blu ray) i got a thin blue bar on the right hand edge of the screen going top to bottom. Been using the cinema settings but i'm not sure if they are the best as i'm sure i'm seeing a little ghosting on movement. (not sure if thats because the screen is brand new or not. first plasma and i heard they need to be warmed in)</Content>
+	</Post>
+</Thread>

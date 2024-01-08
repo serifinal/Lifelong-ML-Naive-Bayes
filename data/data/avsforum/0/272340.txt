@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Music on the web</Title>
+		<Username>dollarman</Username>
+		<Datetime>03-17-08, 06:49 PM</Datetime>
+		<Content>Hello, Probably a basic question for all web gurus. Which site has the biggest range of music in lossless format. Is it still itunes or has someone else taken the number 1 spot? If its still itunes is much of their collection now available in ALAC/lossless? If I download songs in ALAC format do I need to worry about DRM when ripping CDs or copying these to a backup drive etc? Thanks for any help offered. Sincerely, -dollarman</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Verizon: Buy One Motorola Droid Get an HTC Droid Eris Free Question</Title>
+		<Username>phoney123</Username>
+		<Datetime>12-22-2009 12:08 PM</Datetime>
+		<Content>My wife doesn't really want the HTC Eris with the data plan so if I was to buy the Motorola Droid for myself and put the free HTC Eris on my wife's phone number temporarily for 1 day, would I then be able to switch my wife's phone number back to her old Env with no data plan and sell her "free" Eris on eBay (clear ESN?)? What a schemer I am. This would be too good to be true since both require a new 2 year activation with a data plan.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P50ST31B - Looking for some advice!</Title>
+		<Username>MarGera332</Username>
+		<Datetime>05-01-2012, 12:56 AM</Datetime>
+		<Content>Hi Everyone First post here, and I am after some advice about a Panasonic TX-P50ST31B Plasma that I purchased last week. I have an engineer coming to take a look at it on Friday, and I would like to know if the things I have noticed are normal or not as this is the first Panasonic TV that I have purchased. Ok the first things first, I have a green blob top centre on the screen, which searching the forum I can see isn't normal, and Panasonic won't do anything about it. Don't you just love when a company buries it's head in the sand! The second thing is that when I load up a trailer on Apple TV, you get the green screen to start with that has the "The following PREVIEW has been approved..." text and there are what can only be described as bars that are darker in colour from the end of the text to the edge of the screen, this happens on every line. I will attach a link to an image. I tested this out on a 40" Bravia & Toshiba set at the weekend and neither had these markings. I have also tried two different HDMI cables. So I wondered if anyone else had seen anything like this?</Content>
+	</Post>
+</Thread>

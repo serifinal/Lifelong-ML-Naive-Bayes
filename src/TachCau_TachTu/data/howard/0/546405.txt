@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung S8500 wave</Title>
+		<Username>welectronics.com</Username>
+		<Datetime>04-19-2010 06:02 PM</Datetime>
+		<Content>on sale in stock http://welectronics.com/gsm/Samsung/...8500-WAVE.HTML Thanks</Content>
+	</Post>
+</Thread>

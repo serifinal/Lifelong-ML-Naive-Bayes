@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How is Bell's CS for This?</Title>
+		<Username>PhoneModo</Username>
+		<Datetime>05-01-2010 02:03 AM</Datetime>
+		<Content>I changed my Fab5, but I think due to either their website, or my laptop, it didn't go thru. I did that last time I looked at my bill which was like..March 18th. I got my bill today, and HUUUUGE overage (like 600 mins over) from calling 1 number. Rogers reversed that no problem for my sister. Is Bell as forgiving to those issues? It made my bill which is usually $56 with taxes balloon up to $135 :S</Content>
+	</Post>
+</Thread>

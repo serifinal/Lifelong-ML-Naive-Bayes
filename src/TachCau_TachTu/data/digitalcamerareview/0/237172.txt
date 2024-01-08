@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>focus in and out</Title>
+		<Username>Shantanu</Username>
+		<Datetime>12-30-2011, 02:49 PM</Datetime>
+		<Content>Hi all, Bought new Canon powershot SX210 IS. But facing problem with video. While doing video recording, the focus goes in and out creating blur intermittently. Any support? regards, Shantanu</Content>
+	</Post>
+</Thread>

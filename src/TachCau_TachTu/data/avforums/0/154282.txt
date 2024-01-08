@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why is my 1080p plasma showing 720p?</Title>
+		<Username>budmonster</Username>
+		<Datetime>26-11-2011, 1:30 AM</Datetime>
+		<Content>I just bought a LG 50PV450 Television - 50" Class 1080P Plasma TV When I turn on my HD channels on, it says "720p" at the top of the screen? What does this mean? I thought my TV was 1080p as it says "FULL HD 1080p". I'm new to all this TV lingo so forgive me if I'm asking something that has already been answered. One more thing...What are the best setting for my TV? There are so many options that I have no clue what my TV settings should be on? Thanks for all the help! -Brett</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>shutter timrs</Title>
+		<Username>tblondon</Username>
+		<Datetime>04-19-2011, 03:46 PM</Datetime>
+		<Content>How can I have extended shutter times for example astro- photography on canon sx30</Content>
+	</Post>
+</Thread>

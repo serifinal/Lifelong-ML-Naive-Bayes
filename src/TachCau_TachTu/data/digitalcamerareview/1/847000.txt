@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>d300 printing problems</Title>
+		<Username>eurom</Username>
+		<Datetime>02-04-2010, 12:28 PM</Datetime>
+		<Content>Hi, I have a canon d300 and when printing the photos appear a lot darker than they appear on the laptop/camera screen. i have put my cf card into a sony camera and took the same picture which printed out fine i then put the sony cf card (same make) into my canon and this too printed out fine, so i assume my camera and the cf card are ok. it's just they do not seem to work together, is this possible and should i buy another card? Any tips would be most appreciated Thanking you in advance steve</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anyone put IPhone4 microsim into IPad yet?</Title>
+		<Username>dtle</Username>
+		<Datetime>06-28-2010 08:22 PM</Datetime>
+		<Content>Can you get 3G with your IPad when inserting the IPhone4 microsim?</Content>
+	</Post>
+</Thread>

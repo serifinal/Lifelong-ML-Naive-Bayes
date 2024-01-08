@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Price Drop?</Title>
+		<Username>clb</Username>
+		<Datetime>03-02-2008, 01:50 AM</Datetime>
+		<Content>I wonder when there'll be a price drop for the SD870IS Currently, best buy and future shop are still selling it at $399.99 CAD with an OCCASIONAL sale at $379.99 When is it ever going to drop thru the $300 point >_< I was hoping that newer models would be announced; therefore dropping the price...but doesn't seem like there're much new P&S models out from Canon</Content>
+	</Post>
+</Thread>

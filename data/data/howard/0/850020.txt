@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>MMS (Picture Messaging) on TMobile Samsung Galaxy S Vibrant</Title>
+		<Username>Masktchi</Username>
+		<Datetime>09-24-2010 10:52 AM</Datetime>
+		<Content>Hey guys, Set up my APN or Wind MMS and Data. Data works, MMS doesn't. Pictures are stuck, saying "Sending..." or "Downloading...". As I try resending, some eventually say Failed. Apparently this is a Vibrant-specific problem. Anyone know how to resolve this?</Content>
+	</Post>
+</Thread>

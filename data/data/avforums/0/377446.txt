@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TH42PE30-Alternative for the wireless</Title>
+		<Username>1969luis</Username>
+		<Datetime>09-01-2012, 9:04 PM</Datetime>
+		<Content>I bought a Panasonic txp42st30 and the wireless for this plasma is the dy-wl10e-k. I would like to know if there is other wireless alternative.</Content>
+	</Post>
+</Thread>

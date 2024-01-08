@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>max usable sdhc for SX20IS?</Title>
+		<Username>celchlepp</Username>
+		<Datetime>07-12-2011, 02:05 PM</Datetime>
+		<Content>Hi all, I suppose I summed up my question pretty well in my subject line, but to be a little more verbose here, I just recently bought and used, and consequently fell in love with a new Canon SX20IS. Wow. this is certainly the perfect camera for me. the only reason I did not go with the 30IS is because of the proprietary battery pack. I swear by my Sony Eneloop Batteries. Love them too. Okay, finally to my question: Just how big can I go with an SDHC card for this camera? My wife and I attend Music festivals all around in Wyoming here and would sometimes like to record a video of some performers, which often is about an hour +/- 15 minutes roughly. I see in the manual that Canon states "Max clip is approx. 29 minutes and 59 seconds. Recording also stops when file size reaches 4GB." So, if I have a 32GB card in it, will I be able to just begin a new recording time immediately upon the first one ending at 30 minutes? In depth math question here: Canon's manual states 2GB = 10 minutes, 33 seconds. 8GB = 42 minutes, 11 seconds. So what would a 32GB card hold? A very sincere thank you in advance to anyone willing to educate me here, even a little, or a lead to an information source elsewhere. Take care, Chuck</Content>
+	</Post>
+</Thread>

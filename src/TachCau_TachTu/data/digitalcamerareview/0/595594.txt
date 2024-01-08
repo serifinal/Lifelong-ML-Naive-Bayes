@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>No 4x6 option on Canon A570 IS?</Title>
+		<Username>blondieblue227</Username>
+		<Datetime>01-22-2008, 03:30 PM</Datetime>
+		<Content>Am I missing something here? 1800 x 1200 otherwise known as 6 x 4 is a standard picture size. I can?t find it on my settings. Here?s the page out of the manual: http://i5.photobucket.com/albums/y17...e227/canon.jpg</Content>
+	</Post>
+</Thread>

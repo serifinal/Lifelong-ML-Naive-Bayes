@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Is it possible to set up color temp without buying additional equipment?</Title>
+		<Username>Redskin</Username>
+		<Datetime>10-30-08, 08:58 AM</Datetime>
+		<Content>I just calibrated my new Marantz VP-8600 DLP front projector. It has 4 color temp settings 1. Warm; 2. Normal; 3. Cool; and 4. White. The default factory setting is 2. Normal. I have both DVE and Avia. Is there a way to properly set this up without buying more equipment.</Content>
+	</Post>
+</Thread>

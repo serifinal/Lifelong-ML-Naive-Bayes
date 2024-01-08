@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon XSi & lens choice</Title>
+		<Username>SoCalRich</Username>
+		<Datetime>02-03-2009, 06:18 AM</Datetime>
+		<Content>David wrote a review on the entry level DSLR Canon XSi back in May 2008 and was the 'Editors Choice for May '08. and He said there were better lens choices then the 'kit' lens. I am curious which lenses would anyone recommend for this camera to bring out it's 'true potential? David???</Content>
+	</Post>
+</Thread>

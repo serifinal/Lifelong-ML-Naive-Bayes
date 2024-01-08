@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PhoneScoop:T-Mobile HSPA+ vs Sprint WiMAX & HSPA+ Home Router</Title>
+		<Username>Kies</Username>
+		<Datetime>06-04-2010 05:57 PM</Datetime>
+		<Content>Comparison article: http://www.phonescoop.com/articles/article.php?a=376 HSPA+ Home Router video http://www.youtube.com/watch?v=p_1Ye...layer_embedded</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Birth of a DIY Curved Screen (AT Grey)</Title>
+		<Username>Talontsi96</Username>
+		<Datetime>04-16-08, 10:25 AM</Datetime>
+		<Content>Well after a bunch of research and deliberating I have decided to build a 2.37:1 curved screen. I researched and researched for grey acoustically transparent material to use but did not find anything that I could use but was set on a hi contrast grey screen with acoustically transparent properties. I went to the local fabric stores on a quest after a few tries and disappointments I have found something that would work perfectly so I went along with the build. I plotted out a CAD designed top and bottom piece with a 40' curve with our company plotter, cut out the shape and then traced it onto wood pieces. I carefully cut the curve out with a jig saw and then attached a 2-1/4" casing to the pieces of wood. Then built a frame around it making sure it was all square. After that I painted the whole frame flat black. Then came stretching of the fabric and of course at the end, the build and attachment of the frame, which was covered with black velvet material. The frame is attached with brackets in such a way that it can be taken off if the material needs to be stretched or replaced. The mounting method of the black frame does not put holes in the material at all. I have also utilized rare earth magnets fastened in the main frame at the 16:9 and 4:3 locations at the top and bottom so that easy and accurate masking is possible with a snap. I was not planning to go to motorized masking so this was a quick and simple solution. I did not take too many photos of the build process but here are some:</Content>
+	</Post>
+</Thread>

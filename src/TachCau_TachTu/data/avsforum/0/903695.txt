@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Sound quality vs sound proofing</Title>
+		<Username>scubaz28</Username>
+		<Datetime>03-28-08, 01:38 PM</Datetime>
+		<Content>Ok, so I'm new at constructing a HT in a basement. I've done several basements, but not a HT. I guess the homeowner has 2 choices? Sound quality with no soundproofing, or Sound quality with soundproofing. If I construct the interior walls (not facing concrete) via staggered, insul. and double drywall, including double drywall the ceiling- I would be towards having a good sound proofed room and have good sound quality, no? But if the homeowner doesn't really care too much about soundproofing, how would I construct the room for sound quality? Not sure If I'm missing something. Please help.</Content>
+	</Post>
+</Thread>

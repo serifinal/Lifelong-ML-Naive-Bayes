@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>I Have A Couple Questions For All Of You!!!</Title>
+		<Username>ousooner2</Username>
+		<Datetime>07-11-08, 10:25 PM</Datetime>
+		<Content>Hey guys, I've got a couple questions for you. I wasn't sure what to name the thread.. Anyways, i'm looking for a reciever on my $220 budget but im not sure about all the formats offered and their differences. I dont get all the DTS and DTS 6.1 or whatever. Im just a college student trying to learn a little something while I have some time off. My setup will be used for 40% Gaming, 40% Movies/Cable, 20% Music. Im just wanting to get the best reciever possible but im not sure what the current and best format is and what i would need to make it work. ....Now I know it may seem like I have a long way to go but i've done searches and i'll really appreciate it if we could just take this one step at a time so it helps anyone that would ever need to know this.....and so this post doesn't go to the bottom of the page in 2.4 seconds Thanks everyone!</Content>
+	</Post>
+</Thread>

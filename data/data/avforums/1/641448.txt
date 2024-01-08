@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New to plasmas</Title>
+		<Username>whitty</Username>
+		<Datetime>28-11-2011, 7:52 PM</Datetime>
+		<Content>Hi all Ive read most things about plasmas but have a couple of queries.. Im picking it up on saturday and really want to watch the polar express blue ray is this ok as its 2.35:1 and will have black bars? Or should i not worry and just watch tell as normal</Content>
+	</Post>
+</Thread>

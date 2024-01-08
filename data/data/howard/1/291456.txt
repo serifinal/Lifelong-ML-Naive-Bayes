@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Galaxy S</Title>
+		<Username>Failed Engineer</Username>
+		<Datetime>05-24-2010 11:50 AM</Datetime>
+		<Content>Thinking about importing one of these in the next week or so, noting that the spec sheet says it will have HSDPA 900/1900/2100. I've been trying to find on the internet ATT 3G coverage maps by 850 and 1900 to see if I'll get 1900 coverage in Houston, but can't seem to find that anywhere. It seems that ATT 3G coverage has migrated primarily to 850 though, so will it be useless for me to import the first release and instead wait for a release with 850?</Content>
+	</Post>
+</Thread>

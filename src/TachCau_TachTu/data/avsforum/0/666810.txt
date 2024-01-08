@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Hooking my Blu-Ray player to my network</Title>
+		<Username>NDHorse</Username>
+		<Datetime>12-23-08, 03:47 PM</Datetime>
+		<Content>What is the best way to hook up my Blu-Ray player to my network? I have a wireless network set up on the ground floor of my house, but my home theatre is in my basement. I see a lot of people using the Powerline Ethernet adapters through their electrical outlets. Can I use a USB wireless adapter in my player? I ask all of this because I want to use the Netflix streaming option through the Samsung 2550. Any help is appreciated.</Content>
+	</Post>
+</Thread>

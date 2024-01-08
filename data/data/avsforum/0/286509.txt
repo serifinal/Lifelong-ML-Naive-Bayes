@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Mario Kart Wii and Cheating?</Title>
+		<Username>dysfunction26</Username>
+		<Datetime>09-15-08, 09:33 AM</Datetime>
+		<Content>I am not one to cheat and never really look into how they do it, but I was curious about a few things. These are some things I have noticed while playing online: Some players seem to be invincible and you can't hit them with anything Some seem to have an endless supply of mushrooms I have seen a few players just appear out of nowhere, they weren't even in the race to start with, they just appear at the end of the race. Sometimes it seems they either have a banana, or shell permanently stuck behind them to block anything you throw at them. My wife and I are both pretty good players, but it's hard to contend with things like that. It sucks that people have to resort to cheating. We have unlocked pretty much everything and have received 2 stars on each level in the 50cc...100cc and 150cc. Has anyone else encountered these problems, sorry if it's posted somewhere else and I missed it, I guess I just need to vent...lol.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 50"VT30 - Setup my TV in Pro Mode, is THX mode better?</Title>
+		<Username>Mitchlw</Username>
+		<Datetime>21-02-2012, 11:10 AM</Datetime>
+		<Content>Hey Guys, I have setup my 50VT30 in pro mode 1.....for me i think the picture is gorgeous...but i have used it since the beginning, so i dont have experience with other modes...... Do you recommend me to change it to THX? And what will be the difference between the 2 modes? I got my vt30 for 6 months now and watched allot of movies, series and soccer games..... Cheers, Mitch.</Content>
+	</Post>
+</Thread>

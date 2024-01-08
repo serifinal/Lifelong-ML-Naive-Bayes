@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>File size of photos</Title>
+		<Username>HGarber</Username>
+		<Datetime>03-15-2009, 11:42 AM</Datetime>
+		<Content>I bought a Canon SX110 a couple of weeks ago and i noticed that the first bunch of pictures i took had a .jpg file size of between 1.8MB to 2.5MB ..... and then after i fiddles with things a bit the file sizes are much larger now, bgetting up over 5MB. Is this normal? The sizes seem kinda large to me. Taking a variety of color and B&W fotos with different zooms. Will that make a difference in file size? Any other settings that i may have misconfigured? Thanks in advance for the advice! Hugh</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What Panasonic plasma for £1500 budget?</Title>
+		<Username>cio74</Username>
+		<Datetime>07-06-2011, 6:18 PM</Datetime>
+		<Content>Hi, I am looking to buy a plasma TV from Panasonic's 2011 range. My viewing distance is about 13ft or 4m. I have a budget of max £1500 and I am mostly looking to watch HD content on it. Can't really decide between G30, ST30, GT30 or VT30 (VT quite expensive for my budget anyway). I'm not a big fan of 3D, I'm more interesed in getting a great picture quality from BD player (or media box) and SkyHD sources. I'm a bit concerned about the silver trim of the GT30 series, I saw it at different stores, in daylight it seems distracting. Please advise. Thank you. Cornel</Content>
+	</Post>
+</Thread>

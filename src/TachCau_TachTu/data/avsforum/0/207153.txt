@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't turn on/off Polaroid 4641-TLXB</Title>
+		<Username>bearspa</Username>
+		<Datetime>11-07-08, 12:16 AM</Datetime>
+		<Content>I was having problems with connecting my desktop to the Polaroid, using a VGA cable. The computer would boot up, but then, before the "Windows is starting up" screen came on, the picture would disappear, and I'd get the "No Signal" message on the screen. The TV would then turn off, and then turn back on again, and do so repeatedly. The only way to work it was to start the computer in safe mode, reset the display settings (it did not seem to matter to what), turn off the tv, and restart the computer, at which point the windows connetion would go through. I did this today, and I got a picture, but no sound. I tried to change the input to something else (cable), and I got a blank screen, and then was unable to change to any other inputs. Also, I could not turn the TV off, except by disconnecting the power. When I plug the TV back in, the red power light (standby) comes on, and I can turn it to the blue on light using the on/off switch either on the remote or the TV itself. However, there is no picture or sound, and the only way to turn the tv back off is by disconnecting the power cord. Any suggestions would be greatly appreciated.</Content>
+	</Post>
+</Thread>

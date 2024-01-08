@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>need help choosing sub to complete system</Title>
+		<Username>ovaldes</Username>
+		<Datetime>10-22-08, 01:29 PM</Datetime>
+		<Content>I have a 12X17 room that I am setting up a HT in. 60% movies/sports 20% games (ps3) 20% music complimenting the ps3 and plasma with a 5.1 system. The room was already wired with monster speaker cable and I will only be here 1 year. my budget was $600 otd for reciever, speakers and sub. So far I have the following: onkyo sr606 (factory reman) $284 otd polk rm10 sats and center (factory reman) $178 otd this leaves me with $140 for the sub Currently looking at the following subs: Dayton SUB100 for about $150 Velodyne-VX10 for about $170 BIC Venturi for about $150 Phoenix Gold PSW-10 for about $130 Please let me know your thoughts or any other suggestions. First system set up here so your help is much appreciated.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>how do i set this up?</Title>
+		<Username>crod1</Username>
+		<Datetime>04-13-08, 05:12 PM</Datetime>
+		<Content>ok, guys here goes. it should be simple but need a little help. sony kdl 46"xbr2 1080p lcd. (2 hdmi inputs) getting a yamaha ysp4000. (digital sound projector) svs sub. blu ray player digi/dvr cable box. ok, currently i have my dvr/cable box (same unit) hooked up via hdmi to my tv. how do i hook everything else up via hdmi? i think its ... hook sub, blu ray up to speaker via hdmi. then one output hdmi going to tv? thanks for the help.</Content>
+	</Post>
+</Thread>

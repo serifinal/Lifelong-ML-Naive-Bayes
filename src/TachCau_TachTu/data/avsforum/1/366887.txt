@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What are the best sounding DJ speakers??</Title>
+		<Username>Video</Username>
+		<Datetime>09-09-08, 01:41 PM</Datetime>
+		<Content>I know this is the DIY section, but there seems to be discussion from time to time about DJ sound systems and their gear. I am looking for some GREAT sounding powered Dj speakers. Majority of the music will be recorded, not live. They are for outdoor use (tailgating) but only need to cover a small area (15' - 20' in every direction). Budget is less than $1000 for the pair. Thanks</Content>
+	</Post>
+</Thread>

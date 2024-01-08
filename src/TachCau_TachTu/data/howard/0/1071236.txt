@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't connect to internet with Browser?</Title>
+		<Username>TheBaldEagle</Username>
+		<Datetime>09-19-2009 03:21 AM</Datetime>
+		<Content>Hello, My A1200 wont connect to the internet - my plan is with Rogers and i have inputed all the information from Rogers, that is also indicated in these forums, and still nothing... i have also done a Master Clear and a Master Reset and nothing. I see that i am connected to the APN (i think) because there is a green bar under the G on my main screen and in settings, it says i am connected, but still no browser opening... ideas?</Content>
+	</Post>
+</Thread>

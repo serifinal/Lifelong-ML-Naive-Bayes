@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 46"G20</Title>
+		<Username>Highgord</Username>
+		<Datetime>18-07-2011, 6:05 PM</Datetime>
+		<Content>Bought mine from Richer Sounds about 6 weeks ago. It was the display model. However, due to house decoration it has been kept in it's box. During the last two weeks, it's been unpacked and in use. No buzzing, no floating blacks and no posterization. In fact it's been a joy to watch, what a clarity of picture, it's almost 3D. Indeed today I watched Avatar on Bluray and it was magnificent. This is truly a great TV. I took out the five year warranty from RS, well you can't be too careful, can you?</Content>
+	</Post>
+</Thread>

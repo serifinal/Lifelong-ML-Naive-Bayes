@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Samsung HL67A750 PC problem...</Title>
+		<Username>jBubb</Username>
+		<Datetime>06-23-08, 10:41 PM</Datetime>
+		<Content>Yesterday, I had my PC setup perfectly... no "black" space around the top/bottom or left/right...a perfect fit. Now I go to wake up this morning and now there's at least 2-3 inches of black space around all sides. No amount of resizing or settings on my graphics card and TV has been able to fix this yet. I've tried every suggestion I've found on this forum, even setting the source name to PC and setting to Wide PC (which makes it worse) has helped. Why was it fine last night? (perfect down to the mm) And today it's completely screwed up? Any help would be greatly appreciated. Thanks!</Content>
+	</Post>
+</Thread>

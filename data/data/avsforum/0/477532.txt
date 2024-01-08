@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer 400 V vs. New 410V Differences?</Title>
+		<Username>kmil</Username>
+		<Datetime>03-08-08, 01:44 PM</Datetime>
+		<Content>What are the NEW DIFFERENCES between the current Pioneer 400V and the new Pioneer 410V which is due in June '08. I only plan to run regular DVDs and NOT use the many "D+++" etc., etc. formats than the players COULD run. Just your plain vanilla DVD player with the biggest bang for the buck. So, in my situation tell me what the new 410V will do that the 400V currently doesn't.</Content>
+	</Post>
+</Thread>

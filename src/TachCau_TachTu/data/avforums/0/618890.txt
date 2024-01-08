@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is it still advisable to "run in" a new plasma?</Title>
+		<Username>kermit1073</Username>
+		<Datetime>17-12-2011, 6:18 PM</Datetime>
+		<Content>I was in the Market for a budget 42" After good advice from this forum I took delivery of a TXP42S30B Very pleased with the set,I have read various threads regarding this but most seem to be a few years old,I prefer a brighter picture so should I wait a while before adjusting the settings to my preferred settings?</Content>
+	</Post>
+</Thread>

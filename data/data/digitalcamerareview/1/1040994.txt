@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Re: i want a slim canon digital camera?</Title>
+		<Username>juliank</Username>
+		<Datetime>08-26-2009, 10:15 AM</Datetime>
+		<Content>Hey there, I have a big problem. I destroyed my camera completely it was one of those slim digital cameras and now I am in desperate need of a new one, but I decided to buy a bigger, more professional one for my traveling to Paris. I found several Canon's on the internet but I just can't decide which one I should buy, above all, because I do not have the slightest clue which camera is good and which one simply is not. There are several single lens reflex canon eos cameras, but I do not know, because I am an absolute technical failure.</Content>
+	</Post>
+</Thread>

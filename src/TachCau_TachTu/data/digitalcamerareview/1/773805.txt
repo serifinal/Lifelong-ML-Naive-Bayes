@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>please help lenses</Title>
+		<Username>alrightchick</Username>
+		<Datetime>03-14-2011, 03:14 PM</Datetime>
+		<Content>im new to all this and i thought i would take up photography as a new hobbie, i recently bought a canon eos slr 1000d camera. and have taken some reasonable pictures with it, i took it to my daughters football match to take some pictures of it. the pictures are ok but not as close as i had hoped, unfortunatly all the match was played at the other side from which i was stood. what lens do i need to make sure i can get closer photos for next time, please help as im loving my new hobby but just want to get it right thanks</Content>
+	</Post>
+</Thread>

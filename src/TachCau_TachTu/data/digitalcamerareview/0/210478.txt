@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX30is close ups</Title>
+		<Username>sixgunn</Username>
+		<Datetime>03-10-2011, 12:07 PM</Datetime>
+		<Content>I am pretty new to photography & have a couple questions. I am using a Canon SX30is to take close up shots of rare coins. I have experimented with the camera's macro mode and manual focus but I keep getting grainy, washed out pics w/o much detail. The camera is on a tripod, approximately 6-8 inches from the subject & i am using a light tent for diffusion and two external white lights. I suspect the problem has to do with camera settings but I know very little about how to set up a camera for those conditions. Can someone suggest how to set up the SX30is for sharp, detailed close ups? Thanks.</Content>
+	</Post>
+</Thread>

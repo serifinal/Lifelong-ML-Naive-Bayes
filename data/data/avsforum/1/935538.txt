@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What is the difference between a cheap sub and an expensive one?</Title>
+		<Username>Caps18</Username>
+		<Datetime>12-27-08, 11:33 AM</Datetime>
+		<Content>http://cgi.ebay.com/New-MA-Audio-MA1...#ht_3619wt_909 I've been looking at getting this $150 dollar 18" sub and building my own box for it. But I'm wondering what difference I will notice between this one and a more expensive or even cheaper 18" sub would be? The box will be the same and the amp will be the same, but the specs on each of the subs are a little different. Cheap: http://cgi.ebay.com/ws/eBayISAPI.dll...#ht_3528wt_909 Expensive: http://cgi.ebay.com/MMATS-PRO-DREADN...#ht_1830wt_909</Content>
+	</Post>
+</Thread>

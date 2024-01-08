@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't get the natural colors</Title>
+		<Username>touqra</Username>
+		<Datetime>08-05-2007, 03:26 AM</Datetime>
+		<Content>I have a Canon SD1000. The thing is that the picture I see from the LCD is different from the snapped photo. It's like the camera has somehow an intelligence to change the colors of what is real and natural. How do I make my camera capture the naturalness of the scene? For example, tonight, I tried to take the evening scene, and I tried changed to night options, cloudy options, played with white balance etc, but it gave a brighter sky than what the LCD panel was showing.</Content>
+	</Post>
+</Thread>

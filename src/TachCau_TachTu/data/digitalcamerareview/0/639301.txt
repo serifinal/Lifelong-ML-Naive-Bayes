@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>First Rebel XSi pictures</Title>
+		<Username>arla</Username>
+		<Datetime>06-02-2009, 12:14 AM</Datetime>
+		<Content>Be gentle, only just gotten the camera, and haven't yet had a chance to play with it that much, just a little. Anyway, enjoy.</Content>
+	</Post>
+</Thread>

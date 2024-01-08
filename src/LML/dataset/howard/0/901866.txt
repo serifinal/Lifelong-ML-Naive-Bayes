@@ -1,0 +1,34 @@
+unable to connect to the internet , please try again later .
+i have a sprint blackberry 8830 we that i flashed over to cricket yesterday .
+i am able to make calls and send sms text messages .
+i am not able to access the internet or send mms messages .
+whenever i try to access the internet , i recieve an error message .
+`` unable to connect to the internet , please try again later .
+if the problem persists please contact your service provider '' .
+i 'm not sure where i 'm going wrong here .
+i have been reading tons of forums all day .
+i have made sure that the mdn , msi_s , and sip user id are correct .
+i have downloaded several different cricket service books and applied them .
+nothing seems to work .
+i called cricket twice today and asked them to refresh my account .
+here are the steps i took today .
+i used uni_cdma to figure out my spc # .
+i used qpst to reset my spc to 000000 .
+i used crackutil to remove net_rim_bb_prl_upgrade .
+cod i used qpst to transfer the cricket prl file .
+-lrb- ive tried several different prl 's -rrb- i took the phone to cricket and had them active it , with mobile web .
+i used crackutil to remove net_rim_bb_browser_daemon .
+cod .
+i used alt + -lcb- s -rcb- -lcb- b -rcb- -lcb- e -rcb- -lcb- b -rcb- to enable legacy service books .
+i used blackberry manager to transfer cricket.ipd service book .
+rebooted .
+i used crackutil to restore net_rim_bb_browser_daemon .
+cod .
+i selected register now in the hosting routing table .
+rebooted .
+nothing appears when i register now under routing table .
+i am still getting `` unable to connect to the internet , please try again later .
+if the problem persists please contact your service provider '' .
+i have searched these forums high and low for a fix .
+if anyone has any ideas i 'd be glad to try them .
+thanks

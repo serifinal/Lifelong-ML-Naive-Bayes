@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 50PC55 part numbers different</Title>
+		<Username>c4ddy</Username>
+		<Datetime>20-02-2012, 9:26 PM</Datetime>
+		<Content>Hi all, I have an LG 50PC55 50 inch plasma TV, had it for a few years until my 3 year old son decided to throw his toy car at it and cracked the screen, now no sound or picture but still turns on. The screen part is extremly hard to find but found one in america second hand very cheap but a very silly postage price. I dont have insurance on it and cant claim on it either, I have found another LG 50 inch tv and he is selling the screen, the part numbers however, are a little different, beginning of the numbers are the same but then changes, but its look exactly the same and so do all the parts on it. My main question is, would that screen still work on mines even if the part numbers are different?? Regards</Content>
+	</Post>
+</Thread>

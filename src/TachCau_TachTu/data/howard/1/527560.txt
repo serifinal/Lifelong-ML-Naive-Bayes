@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Switching to ATT</Title>
+		<Username>HailSatan</Username>
+		<Datetime>12-14-2009 12:11 AM</Datetime>
+		<Content>I'm switching from Verizon to ATT next month. I dont want to get a iphone cause I dont want to pay for the $30 data fee. The question is what phone should I get? Is there a new phone coming out soon I should wait for? Any help would be great. Thank you</Content>
+	</Post>
+</Thread>

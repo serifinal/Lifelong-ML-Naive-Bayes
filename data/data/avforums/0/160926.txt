@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-42S30B - frame rate issue/settings</Title>
+		<Username>craggs</Username>
+		<Datetime>17-01-2012, 5:37 PM</Datetime>
+		<Content>Hello,wondering if anyone can throw some light on this,,I have just bought the about tv,its lovely,really impressed by the picture on it.apart from one thing,I was watching a 720p film on my vbridge/hissense media player last night and noticed every now and then the framerate seemed to judder.,,the same film does not do this on my old asda lcd 720p tv. Have I got something set wrong,,the hisense is set to 1080p/60hz (could try 50hz) as appost to 720p/60hz on the old lcd. The intellegent frame creation - MAX viewing mode-CINEMA resolution enhancer-MAX pixel orbiter-AUTO All i can see to adjust on it really.thank very much for any help</Content>
+	</Post>
+</Thread>

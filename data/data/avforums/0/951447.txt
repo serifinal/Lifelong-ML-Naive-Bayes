@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How can I tell if my TV has "ARC" or "HDMI control"?</Title>
+		<Username>Tremolo Arm</Username>
+		<Datetime>05-01-2012, 2:49 PM</Datetime>
+		<Content>I just purchased a Yamaha 671 AV receiver. I have connected that to my TV but am struggling with the HDMI management. The instructions booklet of the Yamaha says that I should connect to the TV using different method depending on whether the TV is equipped with ARC (Audio Return Channel) or HDMI control... How can I tell if my TV is equipped with either of these? The TV is a Panasonic TH-46PZ80 Thanks</Content>
+	</Post>
+</Thread>

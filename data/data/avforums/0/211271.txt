@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Connecting to the Panasonic Viera Cast Server</Title>
+		<Username>Acegambler</Username>
+		<Datetime>14-08-2010, 1:15 PM</Datetime>
+		<Content>We have a Panasonic TX-P42G20B bought in June 2010. When we installed it we connected it to the Internet via an ethernet cable and to the televison signals via a terrestrial aerial as well as a Freesat satellite. Everything worked well for a little while including Viera Cast but suddenly the unit will not complete the network connection. When we check the network connection it goes through all checks except the final one, namely 'Check server connection for Viera Cast' and gives an error 'Connection to server failed (008)'. We know that the ethernet Internet 'supply' works because we use it (via a separate cable from an ethernet switch) for the separate Sony BluRay player.</Content>
+	</Post>
+</Thread>

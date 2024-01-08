@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Extra Battery Compartment in SD700 IS Question</Title>
+		<Username>kaidoy021</Username>
+		<Datetime>06-06-2006, 04:11 PM</Datetime>
+		<Content>Hello, I'm new to the world of Canon. Previous camera's have been Sony's. I just bought the SD700 IS and notice an extra compartment inside the camera. It looks like it could store another battery. But by looking at it, the only way I would be able to slide a battery in that compartment is if I take apart the camera, which I don't want to do. Is this common with all Canon SD camera's? My question is can I utilize that extra battery compartment with a second battery? Thanks in advance, Patrick (newbie)</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Quick question Re: John Lewis</Title>
+		<Username>vipergrm</Username>
+		<Datetime>04-01-2012, 5:08 PM</Datetime>
+		<Content>Hi guys, I'm just wondering if John Lewis price match Amazon? I've ordered the Panasonic 50ST30 for £699 and it is currently processing so I'm wondering if I could give them a quick call before they dispatch it and get it for even less</Content>
+	</Post>
+</Thread>

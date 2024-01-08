@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Damn.... this Youtube faker had it pretty damn close... (Facetime)</Title>
+		<Username>EliteABombAZ</Username>
+		<Datetime>06-07-2010 09:48 PM</Datetime>
+		<Content>http://www.youtube.com/watch?v=0nDd7A4BAYc</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>W4100 for $2250 OR XBR6 for $2600?</Title>
+		<Username>eastsidejumpman</Username>
+		<Datetime>11-30-08, 10:49 AM</Datetime>
+		<Content>We are looking for an upper-level 52" LCD, and we've settled on 2 TVs: 1) the WL140 (basically the W4100 + the internet video link) AND 2) the XBR6 for I know the general difference in specs between the XBR6 and the W-series, but I honestly don't know how much of a difference 10-bit, Deep Color, etc makes. What am I really gaining over the W if I go for the XBR6? Is the quality difference really worth the price?</Content>
+	</Post>
+</Thread>

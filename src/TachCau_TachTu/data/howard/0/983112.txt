@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nexus one just hit google with ATT/ROGERS bands</Title>
+		<Username>elite_is3</Username>
+		<Datetime>03-16-2010 12:50 PM</Datetime>
+		<Content>and i bought it, weeks after getting the milestone. i have a sickness. help me lol https://www.google.com/phone/choose?hl=en&gl=US&s7e=</Content>
+	</Post>
+</Thread>

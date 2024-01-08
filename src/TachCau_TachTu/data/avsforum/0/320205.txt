@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>*New* Western Digital - WD TV HD Media Player</Title>
+		<Username>Eminemdrdre00</Username>
+		<Datetime>11-01-08, 07:01 PM</Datetime>
+		<Content>Looks pretty cool no? http://www.engadget.com/2008/11/01/w...-media-player/ http://www.bestbuy.com/site/olspage....=1218008588808 Wonder what file formats it supports. This might be the perfect way to stream my 4gb+ files that wont stream via my Xbox 360. I have a spare HD/enclosure laying around that I could just stick in this thing.</Content>
+	</Post>
+</Thread>

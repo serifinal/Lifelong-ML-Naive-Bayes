@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I don't know if I've ever posted in here (Mods have systems too)</Title>
+		<Username>Mike Lang</Username>
+		<Datetime>07-21-08, 09:27 PM</Datetime>
+		<Content>Equipment list: Sanyo PLV-Z4 Projector Elite 106" Cinetension 2 electric screen Panasonic TH50PX80U 50" Plasma Olevia 32" LCD Onkyo TX-SR705 Receiver Tivo HD DVR (2) DTV HR20 HD DVRs Energy Connoisseur center channel Energy Connoisseur mains (4) Energy Take Surrounds (3) Energy ES-12 subs Sony 300 Disc CD changer LG BG370 Blu-ray Sony DVD recorder Buttkicker amplifier & LFE units Monoprice 5X1 HDMI switcher Monoprice HDMI splitter (2) Monoprice 4X1 component video switchers Sony dual tape deck Sony VCR Universal Remote Control MX-980 remote Microsmith X12 IR Distribution system Lutron Spacer System lighting Lutron Maestro IR fan control Here are the 50" plasma & 32" LCD. I can also swing the 32" around for the ultimate picture in picture! 106" Elite Cinetension screen. The 32" can also still be used either way. Swing arm mount for LCD and recessed box for cabling Sanyo Z4 HD projector View from poker table 106" screen only Dozer, the Olde English Bulldogge hanging out watching "The Dog Whisperer"</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Home Theater for my living room around $750</Title>
+		<Username>aa1981</Username>
+		<Datetime>11-20-08, 10:10 PM</Datetime>
+		<Content>Experts I need your help. My living room is around 12"X 14" but I am renting will move to a bigger place in 2 months. I want to setup a home theater system this thanksgiving. I have a 40" Sony Bravia. My budget is ~$1000. Here's is what I have thought of so far: 1. Sony Blu-Ray DVD player ($250) 2. Sub - Bic H 100 ($250) or HSU VTF-1 ($400) 3. Polk R15s, CSi25 or R150 and CSi25 (Is there anything better?) 4. Receiver - Onkyo 606 or 874 (~$500, whichever is cheaper) It is little bit out of my range but I may buy 1, 2 and 3 items right now and buy the receiver early next year. Please suggest other competitive equivalent products. Thanks, Anks.</Content>
+	</Post>
+</Thread>

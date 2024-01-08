@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon HG10 & HF100 are same price... Which one do I buy?</Title>
+		<Username>bushead11</Username>
+		<Datetime>07-17-08, 10:38 PM</Datetime>
+		<Content>A lot of people are looking but no one is commenting..... Both camcorders are the same price on Amazon as of today (7-17-08) and I have been reading myself to death over the past 2 weeks. I know that there are pros and cons to both models but looking for direction. The main reason we are looking to buy a new camera is that we have twin boys that are starting to get vocal and roll around. All the good stuff is about to start and I want to capture it in HD and put it up on my new Panasonic 50PZ80U the forum helped me pick out. I assume for now we will be mostly inside so that is the biggest concern as well as clear audio quality. From what I have read the HG-10 is: Hard drive but has moving parts and some potential noise Poor audio quality due to mic on top of cam somewhat clunky silver the HF100 is: slightly smaller better audio quality can capture video in 24P & 30P have to buy an additional SD card black Looking for help from owners or other potential buyers in the same situation. Any direction would be greatly appreciated...</Content>
+	</Post>
+</Thread>

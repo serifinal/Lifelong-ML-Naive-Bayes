@@ -1,0 +1,7 @@
+latest firmware for panny s10 ? .
+i 'm on my second panny s10 - first had lots of pixel defects - that was at software version 1209 .
+my replacement is at software version 1208 .
+not sure if this is the firmware version being reported .
+my current set has less colour banding than the `` later '' model -lrb- based on serial no -rrb- but still too much imho , especially on standard def from dvb-s -lrb- satellite -rrb- .
+what is the most current software/firmware version for this model ?
+has the colour banding problem -lrb- as reported by which -rrb- been resolved or not ?

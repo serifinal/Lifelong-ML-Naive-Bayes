@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>ZoomBrowser EX problem...</Title>
+		<Username>cooler2005</Username>
+		<Datetime>08-27-2008, 02:26 AM</Datetime>
+		<Content>Hi.. I installed ZoomBrowser EX version 6 from the CD that came with the camera. It installed perfectly, but when i run it, it gives me a "critical error". Am i supposed to open zoombrowser with the camera attached even if i've already transferred the pictures on my hdd or is this a version compatibility problem..?? Thanks</Content>
+	</Post>
+</Thread>

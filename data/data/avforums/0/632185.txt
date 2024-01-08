@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30B's Ethernet port.</Title>
+		<Username>AbzH</Username>
+		<Datetime>12-07-2011, 8:53 PM</Datetime>
+		<Content>Can someone tell me if it is a Fast Ethernet (100) or a Gigabit (1000) port thank you.</Content>
+	</Post>
+</Thread>

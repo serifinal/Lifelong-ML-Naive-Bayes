@@ -1,0 +1,6 @@
+samsung caliber sch r860 .
+i bought the new samsung caliber sch r860 from metro pcs and up to day i ca n't make it communicate with my computer , i have used btooth and pc studio ca n't find it .
+i have used usb and it says `` usb device not recognized '' .
+i downloaded the new version of pc studio , i downloaded the latest usb drivers , installed everything and still the same , it does n't work with pc studio .
+is there any help out there ?
+thanks in advance .

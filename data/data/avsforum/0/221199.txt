@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>What is the best center speaker that you have ever heard?</Title>
+		<Username>islandboy?</Username>
+		<Datetime>09-30-08, 07:59 PM</Datetime>
+		<Content>With a $10,000 price limit, which would you say is the best overall?</Content>
+	</Post>
+</Thread>

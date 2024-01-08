@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Long long time ago i bought a pw5</Title>
+		<Username>thedude</Username>
+		<Datetime>22-12-2011, 11:29 AM</Datetime>
+		<Content>S per the above I have a pw5 with only one components input, which I use for apple tv 1. Now I'm getting multi room installed and hd in my bedroom where this tv is, does anyone know how hdmi to VGA is I know it's not true hd but I think I should be able to get a better picture than scary to VGA. So does anyone have a converter?? Any experience where can I get a cheap one and finally would a standard hdmi to VGA work?? Not a powered one</Content>
+	</Post>
+</Thread>

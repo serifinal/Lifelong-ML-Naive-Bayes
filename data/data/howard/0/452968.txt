@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: BNIB Sony Ericsson X10 White and iphone 3gs 16gb white</Title>
+		<Username>matriz</Username>
+		<Datetime>05-10-2010 06:06 PM</Datetime>
+		<Content>For Sell one BNIB Sony Ericsson X10 White Seal in box Asking for $500 cad For Sell one iphone 3gs 16gb white, activated on April 12, 2010 but never use On Firmware 3.1.3 (can be jailbreak upon request) Asking for $520 cad, OBO Please feel free to PM if interest. Thank you.</Content>
+	</Post>
+</Thread>

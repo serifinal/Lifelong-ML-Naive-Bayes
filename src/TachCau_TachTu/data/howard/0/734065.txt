@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>N97 constantly dropping 3G connection</Title>
+		<Username>therealshocker</Username>
+		<Datetime>07-04-2009 09:33 AM</Datetime>
+		<Content>I've had this problem since day one and now it's really starting to annoy me. I have a NAM N97 and I'm using it with an unlimited data plan from AT&T. My default access point is WAP services (AT&T MediaNet). If I turn my phone on, the connection seems to work fine, and I have the active 3.5G connection symbol in the upper left of my screen. But then about once every day or so, it seems to lose the connection, because I can't connect to anything anymore, but that active 3.5G symbol is still there, and the connections manager still says I'm connected. The only way I've found to fix this is to reboot my phone, which after doing this daily is starting to become annoying. Anyone know what's going on? This is my first 3G phone so maybe I'm missing something fundamental here.</Content>
+	</Post>
+</Thread>

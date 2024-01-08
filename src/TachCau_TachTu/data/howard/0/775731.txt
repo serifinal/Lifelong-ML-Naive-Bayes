@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Unlocked Rooted Nexus One with Froyo Cyagenomod 6</Title>
+		<Username>CanEpia</Username>
+		<Datetime>07-16-2010 01:55 PM</Datetime>
+		<Content>LNIB Nexus One with AWS bands compatible with WIND mobile 3G as well as Rogers, Bell and Telus on 2G only. All original accessories most of which haven't been opened. Screen protector since day 1. Phone has been updated with the latest Cyanogen Mod 6 Rom which is includes all the new FroYo goodies like Flash 10.1, Wifi Tethering, etc... Tried it for a while but I can't go back to such a small screen after my HD2 $600 obo in the GTA</Content>
+	</Post>
+</Thread>

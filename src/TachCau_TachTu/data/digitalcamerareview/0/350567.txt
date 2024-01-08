@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon A720</Title>
+		<Username>ljc168</Username>
+		<Datetime>11-30-2010, 01:52 PM</Datetime>
+		<Content>having problems with battery light coming on after 5 shots on good batterys</Content>
+	</Post>
+</Thread>

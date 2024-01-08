@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking for 32-37" TV for bedroom.</Title>
+		<Username>Mike52</Username>
+		<Datetime>10-18-08, 09:50 AM</Datetime>
+		<Content>As the title suggests, I will be in the market for a 32-37" TV for my bedroom. The set will be primarily used for watching cable TV and DVDs. Would be nice if it had a ATSC? receiver included for getting some HD off of a regular digital cable signal. Viewing distance would be 14-18 feet, but the space for the set is limiting, thereby only looking for 32-37". LCD or plasma, I don't care. Under $1000.00 if possible. Would like to have before end of the year. Thanks. Mike Been out of the loop since I bought my 42" plasma three years ago, so your input would be much appreciated.</Content>
+	</Post>
+</Thread>

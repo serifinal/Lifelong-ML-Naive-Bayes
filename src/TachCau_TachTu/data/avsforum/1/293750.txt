@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung A550 A650 or Sony W4100</Title>
+		<Username>chongsen</Username>
+		<Datetime>08-30-08, 10:06 AM</Datetime>
+		<Content>I plan to buy a 46 inch lcd tv here is my three choices 1, a550 for 1599 2, a650 for 2599 3, w4100 for 2099 compare with the quatity and price, which one is the best choice? thx for ur guys</Content>
+	</Post>
+</Thread>

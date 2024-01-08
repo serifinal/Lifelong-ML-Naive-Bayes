@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Newbie w/questions about lenses???</Title>
+		<Username>soybean1</Username>
+		<Datetime>12-03-2010, 07:27 PM</Datetime>
+		<Content>Just bought a Canon 50d kit that had Sigma lenses that came with it. I was originally purchasing one kit and the company that I was ordering from called and, of course, talked me into ordering other items that I would need. What changed was the lenses (which I didn't understand anyway). The salesman asked what my intentions were with the camera and I told him that I wanted to get some good action shots of my kids who are very active in sports. Otherwise, just basic family stuff, nature, etc. He recommended the kit I got which had the Sigma pro 70/300 f/4-5.6DG Macro SLD Autofocus Lens and a 28/70 f/2.8-4 compact High Speed Aspherical Lens (both w/lens hoods). My questions are....are these as good as the Canon counterparts? A friend of ours said that we got taken but I looked at the prices and it seems that they are kind of the same. The salesman seemed to know what he was talking about and our friend is just getting into photography....soooo???? Any opinions appreciated</Content>
+	</Post>
+</Thread>

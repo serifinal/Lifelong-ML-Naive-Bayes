@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Add/Remove Mobile Broadband Connect (MBB) feature online?</Title>
+		<Username>poncho524</Username>
+		<Datetime>12-22-2009 07:56 AM</Datetime>
+		<Content>I can't seem to find a way to add/remove Mobile Broadband Connect from my Features when logging onto vzw.com. I talked to a rep today and he said i should be able to... but he couldn't tell me how exactly. anyone here been able to do that?</Content>
+	</Post>
+</Thread>

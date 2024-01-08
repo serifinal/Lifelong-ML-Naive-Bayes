@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>IN83 vs Marantz VP-15S1 and Sharp XV-Z20000</Title>
+		<Username>Shark7</Username>
+		<Datetime>11-23-08, 03:17 AM</Datetime>
+		<Content>Hi. I am wondering how the Infocus IN83 compares to the Marantz VP-15S1 and Sharp XV-Z20000, and even the Marantz VP-11S2. I know the 11S2 has a faster color wheel than the other three, but other than that, I'm curious to know why the Sharp and Marantz projectors are priced higher than the IN83. Projectorreview's review of the IN83 said the color accuracy was great, as was the sharpness, and shadow detail. Art said the only thing about the IN83 that wasn't amazing was that the blacks were only exceptional. So if that's true, what else is there? What do the Sharp XV-Z20000 and the Marantz VP-11S2 do better? And how does the IN83's video processing compare to the custom video processing of the Marantz' projectors, and to that of the Sharp XV-Z20000? Thank you</Content>
+	</Post>
+</Thread>

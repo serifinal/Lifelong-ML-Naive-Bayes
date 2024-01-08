@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Droid Drops Calls when Switches to 3G</Title>
+		<Username>GuamBomb</Username>
+		<Datetime>05-07-2010 03:13 PM</Datetime>
+		<Content>Moto Droid Cricket Flashed User here. I've had this phone for couple months now. The 1st month it was super smooth. Now it consitantly drops calls. Sometimes I can't even call out, the moment I hear the ring tone it drops. I have missed many important phone calls and important text. Yes I don't get all text too. It's so frustrating. I miss my BB storm so much right now Now, this is what I notice. When I dial out it's not in 3G, it just shows the bars. So when I am talking it's still has the bars and no 3G. BUT when the phone switches to 3G mode that's when it drops....It does that everytime, when it swtiches to 3G I get disconnected. The Firmware is still 2.0.1. It asked to update to 2.1 and I said yes. It went through the process of downloading and shutting down but it's still on 2.0.1. My Baseband Version is still C_01.3E.01P. I tried switching the mode network type to EvDo for 1x service but it switches back to 3G and it still drops my calls.... Any suggestion? Anyone encounter this? Thanks in advance for help.</Content>
+	</Post>
+</Thread>

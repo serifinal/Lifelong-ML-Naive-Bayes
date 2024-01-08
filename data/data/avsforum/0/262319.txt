@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>How do you get PS3 to turn off by itself after downloads?</Title>
+		<Username>tboy2000</Username>
+		<Datetime>10-24-08, 06:19 PM</Datetime>
+		<Content>I thought with the latest firmware the PS3 would turn off automatically after downloads have finished from the PSN store. Well I can't find anywhere to activate this. I have looked in the Energy Saving settings in the main Settings section but it only gives you option to turn off if unused for 1 hour or more. Any ideas? tboy</Content>
+	</Post>
+</Thread>

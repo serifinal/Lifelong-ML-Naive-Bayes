@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What is the difference between a Panasonic SDR-H18 and a SDR-H20?</Title>
+		<Username>paulguy100</Username>
+		<Datetime>11-10-08, 10:06 AM</Datetime>
+		<Content>This seems to be a tough one, I just can't find the answer. Please help! Thank you.</Content>
+	</Post>
+</Thread>

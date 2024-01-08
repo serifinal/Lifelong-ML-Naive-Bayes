@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SX100 IS Problem</Title>
+		<Username>farmgrl</Username>
+		<Datetime>06-01-2008, 11:46 PM</Datetime>
+		<Content>I have had an SX100 IS for about 6 months and I love it. It has been the best digital camera I have had. However, about 2 weeks ago I was at a parade taking pictures and knocked it against the ground Since then any pictures taken outside are too dark. I can lighten them up using photo enhancing software, but it REALLY screws with the quality of the pictures. I do have a service contract from where I bought it (best buy) where they will send it in for service, is it worth it? Just after I knocked it on the ground it my husband played with some of the settings, but I have NO idea what all he changed, might that be the problem? Please let me know if anyone has any suggestions?!?! Thank you!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pre-Order AND in-store purchase on launch Day?</Title>
+		<Username>spartanrob</Username>
+		<Datetime>06-11-2010 02:08 PM</Datetime>
+		<Content>What if I pre-order to avoid the lines and on my way to work I see no line at Best Buy (insert any retailer here). Can I buy it and when mine arrives just return it to the Apple store? Or once I pre-order, is my upgrade eligibility gone?</Content>
+	</Post>
+</Thread>

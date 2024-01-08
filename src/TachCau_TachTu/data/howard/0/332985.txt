@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>AMOLED clock</Title>
+		<Username>Dro</Username>
+		<Datetime>01-19-2010 06:25 AM</Datetime>
+		<Content>Does anyone know how to ask the screen to only display the clock when the screen goes off? Like in Nokia N85 and N86?</Content>
+	</Post>
+</Thread>

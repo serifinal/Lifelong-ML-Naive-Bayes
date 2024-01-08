@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Samsung Galaxy S i9000</Title>
+		<Username>Wezman</Username>
+		<Datetime>09-01-2010 07:14 AM</Datetime>
+		<Content>the phone is 3 weeks old nothing is wrong with it. everything is pretty much brand new asking 600. firm everything about the phone is located here http://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Sony Bravia kdl-46w4100 red line on right side?</Title>
+		<Username>jgunz</Username>
+		<Datetime>12-06-08, 09:20 AM</Datetime>
+		<Content>Hi I just purchased a Bravia kdl-46w4100 about 3 weeks ago. About a week ago I started to notice when I turn on my tv it will have this red line on the right side it's about 3 inches wide and runs from top to bottom. After a few minutes it will fade away. Can someone please tell me if I should contact Sony or is this something I can fix with a firmware update currently I have the latest update on Sony website. Thank you</Content>
+	</Post>
+</Thread>

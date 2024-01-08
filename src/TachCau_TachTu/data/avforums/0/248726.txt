@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung - PS51D550 Whining/Buzzing?</Title>
+		<Username>Danny133</Username>
+		<Datetime>22-01-2012, 9:53 AM</Datetime>
+		<Content>Please help .. TV is about 3 months old ish ... just connected my Mac Mini via HDMI and every time i go on an internet page .. google for example and the screen is all white i just get buzzing! Is this a fault or must i adjust the settings? Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My Samsung PS50C680G5KXXU has died after 6 months</Title>
+		<Username>cfphoenix</Username>
+		<Datetime>26-05-2011, 12:42 PM</Datetime>
+		<Content>Just sharing my experience. My samsung 3D PS50C680G5KXXU has died after 6 months - sound, no picture, responds to remote, meaning the Y-SUS or Z-sus boards have blown. Dixons has asked to talk to Samsung, and Samsung to Dixons - Would obviously get repaired until 1 year is over. £1,000 3D TV for 1 year, with no hope after- AVOID, and buy a Sony or Panasonic - Most importantly, buy with extended warranty!!!</Content>
+	</Post>
+</Thread>

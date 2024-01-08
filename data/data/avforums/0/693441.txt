@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30 - Calibration & Settings Thread</Title>
+		<Username>PuntNL</Username>
+		<Datetime>27-05-2011, 12:50 PM</Datetime>
+		<Content>I thought it would be a good idea to start a thread dedicated to sharing and discussing the settings of the Panasonic VT30. I will also try to post the settings of some of the top review sites when they come up with them. I think it is nice to share all of the settings around the web and the ones we come up with our selves. However it is important to keep in mind that settings, especially thosefor white balance and color management, are very specific for each individual set and probably for Plasma even more so than for LCD/LED. I am still kind of new to this calibration thing, so if the experts on this forum want something added in this opening post please let me know and I will add it. Quote:</Content>
+	</Post>
+</Thread>

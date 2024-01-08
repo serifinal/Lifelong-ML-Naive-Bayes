@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Aputure Wireless Remote</Title>
+		<Username>derr.jeff</Username>
+		<Datetime>10-05-2010, 09:27 PM</Datetime>
+		<Content>I have ordered a Canon G12 Powershot and the Canon 580EXII Flash. Is anyone familiar with the Aputure AP-WR1C Wireless Remote Trigger and is it compatible with this camera?</Content>
+	</Post>
+</Thread>

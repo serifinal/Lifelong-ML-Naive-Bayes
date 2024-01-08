@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Batteries run out in Minutes</Title>
+		<Username>KeoWell</Username>
+		<Datetime>01-01-2012, 02:03 PM</Datetime>
+		<Content>Hello all, My Canon Powershot Sx130 IS has a really poor battery life, I am using camera rechargeables but it only last for about 30 minutes, 5 when I go into video shooting, I've tried using long life batteries but the same thing happens, Even though all the batteries I used were fully charged and worked perfectly when but into my mouse, Is this a problem with my camera, or should I install something on my computer? Also, The batteries included with the camera are supposed to last 7 hours (According to the manual), But the lasted the same time as my other batteries.</Content>
+	</Post>
+</Thread>

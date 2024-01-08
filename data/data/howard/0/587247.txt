@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola Droid Screen Question</Title>
+		<Username>Yankees-in-5</Username>
+		<Datetime>12-09-2009 07:59 PM</Datetime>
+		<Content>I just got my droid and the screen seems to have a little "give" when you press down near the keyboard on the left side, kind of like it is a bit loose. Is this normal or is it just the spacing?</Content>
+	</Post>
+</Thread>

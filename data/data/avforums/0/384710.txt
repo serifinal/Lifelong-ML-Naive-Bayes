@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic PV500 buzz unacceptable</Title>
+		<Username>WSH</Username>
+		<Datetime>10-06-2005, 7:56 PM</Datetime>
+		<Content>I went to see the PV500CAB in Currys today with a view of getting one. I have been put off because it has a very loud buzz coming from the rear. The pioneer had less but the Philips was awful. The 50" Panasonic (had a 30 in the model) had less buzz than the PV500. Noise is a problem for me. I hate any noise that shouldn't be there. I don't think the PV500 is an option now</Content>
+	</Post>
+</Thread>

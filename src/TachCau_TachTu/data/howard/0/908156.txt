@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Htc hero reception issue</Title>
+		<Username>PETE2674</Username>
+		<Datetime>10-25-2009 08:55 PM</Datetime>
+		<Content>Does anybody know if there going to fix the reception issue with the hero. I have a blackberry i use for work and when comparing the phone doesnt hold on to the reception. cant make a call on 1 bar.</Content>
+	</Post>
+</Thread>

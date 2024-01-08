@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TV Query</Title>
+		<Username>CatManDo</Username>
+		<Datetime>30-12-2011, 6:58 PM</Datetime>
+		<Content>Hi all, I've currently got a year old : Panasonic TXP50S20B which I am very happy with, but after seeing my daughters : Panasonic TXL32DT30B I now fancy 3D!!! I've been looking at this on JL's website which is priced less than my current TV cost me: TX-P50ST30 Can anyone please tell me if this is a better set than my current one (exception of 3D and smart features of course!). My major concern in PQ through Sky primarily. Many thanks in advance</Content>
+	</Post>
+</Thread>

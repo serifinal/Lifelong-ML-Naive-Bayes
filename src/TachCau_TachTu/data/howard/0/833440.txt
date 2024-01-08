@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New 32GB Micro-SD Card?</Title>
+		<Username>bmstrong</Username>
+		<Datetime>03-22-2010 06:56 PM</Datetime>
+		<Content>http://www.wired.com/gadgetlab/2010/...-microsd-card/ Will this work in the Nexus?</Content>
+	</Post>
+</Thread>

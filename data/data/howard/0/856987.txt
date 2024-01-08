@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Group SMS= Group MMS (Group SMS not allowed!?)</Title>
+		<Username>Legaleye3000</Username>
+		<Datetime>07-30-2009 10:11 PM</Datetime>
+		<Content>I'm on T-Mobile USA, iPhone 3GS, using the MMS hack allowing me to send and receive MMS. For some reason, when I want to send a group sms, once I add a second person in the Messaging app, it automatically says "Group MMS" at the top. When I send them, the other people receive the message as a MMS. Is this a known bug with 3.0 or an issue if you are using the MMS hack? Anyone have this happen? Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Error Messages</Title>
+		<Username>mygirls25</Username>
+		<Datetime>05-21-2011, 11:11 PM</Datetime>
+		<Content>I get the error message "Error 5" when I try and take night shots. It won't let me take the shot. I have a Canon Rebel EOS I misplaced my manual....anyone know how to fix this.</Content>
+	</Post>
+</Thread>

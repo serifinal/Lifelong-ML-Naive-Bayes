@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: DSLR advice</Title>
+		<Username>kappachinoja</Username>
+		<Datetime>10-11-2007, 02:12 AM</Datetime>
+		<Content>Hi i'm new here... and i hav a question Is Mamiya M645 Reversing Ring for Auto Bellows N with 58mm filter thread compatible with a Canon EOS Digital Rebel? i'm not sure and i realy want this. Thanx in advance Edit: Thanx to whichever mod created this thread for me altho u put "Rebel XT" and i hav A digital rebel...the one b4 it ..thanx much</Content>
+	</Post>
+</Thread>

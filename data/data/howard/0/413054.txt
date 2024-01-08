@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Google Nexus One: 3G for WIND Only</Title>
+		<Username>Jonavin</Username>
+		<Datetime>12-18-2009 12:45 PM</Datetime>
+		<Content>For those interested in the highly anticipated "Google Phone". The specs were a bit fuzzy before, but it's been confirm that it only has 3G for AWS (T-Mobile US and WIND). So it won't work on Telus or Bell at all and only 2G on Rogers/Fido and AT&T. It's also missing multi-touch. http://androidcommunity.com/google-n...maps-20091218/ http://www.engadget.com/2009/12/18/g...ks-multitouch/</Content>
+	</Post>
+</Thread>

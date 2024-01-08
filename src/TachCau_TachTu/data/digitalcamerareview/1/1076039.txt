@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>sd 870 vs 850</Title>
+		<Username>ooops1</Username>
+		<Datetime>01-31-2008, 06:04 AM</Datetime>
+		<Content>Hi, I read the other forums but did not quite have the answers i was looking for.. so I wanted to ask.. I've did some research on both and the only differences mainly seem to be the wider lens and the optical viewfinder.. this would be my first digital camera, but i have used others.. is the optical viewfinder really necessary..? I dont think i really used the viewfinder.. but alot reviews seems to be disappointed by it.. I do like the feature of it having wide lens.. i know the 870 is newer.. but would you consider it a better camera overall? my main use is for just photos of trips, friends, daily stuff. thanks</Content>
+	</Post>
+</Thread>

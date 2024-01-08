@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Video Error Messages</Title>
+		<Username>ilesmark</Username>
+		<Datetime>11-01-2009, 06:45 PM</Datetime>
+		<Content>Hi All I have a Canon A650is. Up until recently, every time I used it to shoot a video it would transfer fine to my computer in AVI format. I could play the videos with Windows Media Player and I could edit them with Canon Zoom Browser. So far so good. One day recently I noticed that the icon of a video I had just shot and transferred to the PC had changed. Instead of the thumbnail consisting of a still from the video, it had an AVI logo and would not play in Windows Media Player. This is the same for all the videos I have shot since this point, although they can still be uploaded and played normally in YouTube. Obviously my first thought was a problem with Windows Media Player, so I reinstalled it to no avail. And neither can the videos be edited in either Zoom Browser or Movavi Video Converter, suggesting that the problem is with them and not what I am trying to play them with. I haven't altered any of the settings onthe camera. Any ideas what might have happened? Thanks Mark</Content>
+	</Post>
+</Thread>

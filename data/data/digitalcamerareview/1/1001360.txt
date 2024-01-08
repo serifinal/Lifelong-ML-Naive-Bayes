@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>cannon D50</Title>
+		<Username>electrictman</Username>
+		<Datetime>09-29-2009, 11:16 AM</Datetime>
+		<Content>My wife has an older cannon SLR and we are trying to decide if we are going to upgrade to a digital. I would like to know if the lenses that fit the older camera will fit the newer digital SLR.</Content>
+	</Post>
+</Thread>

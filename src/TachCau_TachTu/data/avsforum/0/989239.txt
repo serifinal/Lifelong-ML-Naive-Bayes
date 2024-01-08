@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Serious Bugs in Hauppauge HD PVR</Title>
+		<Username>Aeneas</Username>
+		<Datetime>10-29-08, 01:59 AM</Datetime>
+		<Content>This Hauppauge HD PVR has several serious Bugs in it. 1) Generates audio/video files which cannot be read by Windows Movie Maker 2 video editor which is free with Windows which is in 95% of the PC out there. Thus, these video files cannot be Convert-ed to a lower bit rate after the first few views for the purpose of sharing and long term storage, and cannot be clipped to extract the specific 1 minute segment in a 2 hour video. The recorded output of this product is useless. This failure kills the product. 2) Immediately that this program is invoked, it interferes with (Mutes) other audio running on the desktop, such as CD-IN used by other TV Tuners such as Dvico. 3) There is no way to control the Audio Volume output by this product, independently of other Wave inputs to the PC audio mixer. 4) Hauppauge drivers Crash when scaledown of video resolution is requested in its configuration menu. 5) IR Blaster flashes, but Fails to control 3250HD set top box when Sci Atl 3250 selected in its Blastcfg. 6) No way to control Closed Captions/Subtitles wih this product. Another sloppy Hauppauge failed engineering release. It is unfortunate that Hauppauge was the company which had the idea to take on this problem. Hopefully, more competent Tuner companies will implement this functionality competently.</Content>
+	</Post>
+</Thread>

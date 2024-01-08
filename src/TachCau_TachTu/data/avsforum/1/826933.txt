@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Recommendations for 150" power screen please</Title>
+		<Username>Panasonic77</Username>
+		<Datetime>11-24-08, 10:22 PM</Datetime>
+		<Content>I am moving my projector (Panasonic AE2000U) to a larger room, now looking for a large (150" diagonal or marginally smaller) power retractable screen (ceiling-mounted). This will be my first screen, as so far i was just projecting on a wall. Looking for suggestions on brand / model / fabric / etc. Thanks!</Content>
+	</Post>
+</Thread>

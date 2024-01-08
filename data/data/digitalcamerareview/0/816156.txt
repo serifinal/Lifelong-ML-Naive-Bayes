@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>For sale: Brand New Canon A620</Title>
+		<Username>gmoneyphatstyle</Username>
+		<Datetime>12-30-2005, 01:41 PM</Datetime>
+		<Content>Anyone interested in a brand new Canon A620. It was a christmas gift but I already own a Canon A610.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bobier Library Theater-Finished</Title>
+		<Username>Rookie Boy</Username>
+		<Datetime>07-12-08, 03:25 PM</Datetime>
+		<Content>Theater 98% Completed. Took many photos this morning. Discription to follow. Back of room:</Content>
+	</Post>
+</Thread>

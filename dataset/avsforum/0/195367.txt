@@ -1,0 +1,185 @@
+western digital - wd tv hd media player - bug list & feature request thread * 01-09-09 .
+the -lrb- inofficial -rrb- western digital `` wd tv '' bug list & feature request thread last update of this topic : jan 09th , 2009 -lrb- creation date of this topic : 12-26-08 -rrb- -lrb- thread updates so far : twice -lrb- 2x -rrb- -rrb- latest firmware : 1.02.10 beta -lrb- click here to download -rrb- -lrb- release date : june 16 2009 -rrb- what is this thread about ?
+it is a summary of the main `` wd tv '' thread regarding only bug reports and feature requests for a better overview please no discussions in here !
+new entries and updated entries are highlighted with a `` new '' icon .
+where can i find the other discussion threads ?
+1 -rrb- main wd tv discussion thread : http://www.avsforum.com/avs-vb/showthread.php?t=1080840 2 -rrb- wd tv firmware discussion and development thread : http://www.avsforum.com/avs-vb/showthread.php?t=1100062 before i continue , i want to thank the whole wd tv team at western digital and scottwd -lrb- in behalf of everyone who purchased the wd tv -rrb- for supporting their customers and releasing the first firmware update so quickly !!!
+it was a really nice pre-xmas gift alright , here comes the complete list ... a -rrb- bug list / issues * firmware 1.02.00 not included yet !
+* quote : external subtitles -lrb- srt , ass , ssa -rrb- are out of sync most of the time .
+-lrb- e.g. 720p dxva compliant x264 .
+mkv video files in conjunction with external .
+srt subtitles -rrb- the texts are displayed too late .
+-lrb- embedding the subtitle into the video file temporary solves the issue -rrb- if external subtitles have two or more lines inside them , the - last - line is not centered .
+embededd subtitles stop being displayed approx .
+10 seconds before the end of the video file is reached .
+embededd subtitles are rendered a lot uglier than external subtitles and words are cut right in the middle and continued in the second line when subtitle lines exceed the display width .
+embedded subtitles disappear , when the `` displace image '' function -lrb- repositioning of the picture -rrb- or the `` zoom '' feature is used during video playback with activated subtitles .
+in `` 1080p 24hz '' display resolution mode , 23.976 fps video files -lrb- e.g. .
+m2ts -rrb- suffer a short stuttering/juddering in an exactly 40-seconds cycle .
+this juddering usually occurs , if the device outputs fixed 24.000 fps whereas it should output 23.976 fps .
+in `` 1080p 24hz '' display resolution mode , 23.976 fps video files in .
+mkv containers stutter extremely hard every ~ 25 seconds for about 10 seconds .
+remuxing to the .
+m2ts container temporary solves the issue , but the 40-seconds-cycle juddering is still present then .
+-lrb- please take a look at the other bug report where the 40-seconds-cycle juddering is described in detail -rrb- several `` media library issues '' in the music file browser : in `` album '' view mode , audio tracks are displayed in alphabetical order whereas they should be displayed in track order .
+in `` folder '' view mode , the filename incl .
+extension of the audio track is displayed during playback whereas it should display the track title name which is noted inside the audio track 's tag .
+in `` artist '' view mode , all the available audio tracks by the same artist are displayed together in a huge single list whereas different albums by the same artist should be separately listed within the `` artist '' view mode .
+-lrb- `` hierarchical browsing '' : first the artist , then their albums -rrb- in `` genre '' view mode , `` hierarchical browsing '' , too .
+this means first the genre , then the artist and then their albums .
+usb power is not entirely cut off when usb storage drives are ejected or the wd tv is shut down via remote .
+note : when the wd tv is shut down via remote , it should automatically eject all connected usb storage drives first , so that the drives can go to sleep immediately .
+there is a weird `` black level '' issue that affects the hdmi video output in a different way depending on 1 -rrb- the selected resolution in the settings menu -lrb- auto or a fixed resolution -rrb- and 2 -rrb- the video file .
+sometimes , the wd tv produces a `` limited '' range -lrb- 16 to 235 -rrb- , but flags it as `` full rgb '' -lrb- 0 to 255 -rrb- and sometimes it produces a `` full rgb '' range -lrb- 0 to 255 -rrb- , but flags it as `` limited '' -lrb- 16 to 235 -rrb- .
+this issue results in a `` black crush '' and `` white crush '' on the tv .
+skipping/stuttering dts audio issue through digital optical out about every 10 seconds in many .
+mkv container video files .
+-lrb- remuxing to .
+m2ts container temporary solves the issue -rrb- ff and rev -lrb- +10 minute jumps -rrb- do not work properly during playback of many .
+mpg , .
+mpv , .
+m4v , .
+vob and .
+m2ts files .
+-lrb- when `` play '' is pressed , the player jumps to a completely different postion than displayed in the progress indicator . -rrb-
+the correct `` display aspect ratio '' should be read out off the provided .
+ifo file when a dvd-video .
+iso file or a dvd-video folder is played back .
+currently , the wd tv seems to read out the aspect ratio information off the individual .
+vob files , which sometimes causes a letterboxed playback with squeezed picture and wrong aspect ratio .
+the `` scanning the attached usb device ... '' notification does pop-up when `` media library '' is set to on , but not when `` media library '' is set to off .
+the `` disk volume name to folder navigation in list mode '' feature seems not to work properly .
+-lrb- or there is a misunderstanding in its real function -rrb- it still says `` usb1 '' and `` usb2 '' .
+system fonts sizes and subtitle font sizes are too small when composite output is used on a crt tv .
+-lrb- this is not really a bug , but all of the displayed text looks really tiny on a sdtv , so it could be included as an issue . -rrb-
+it seems that a fixed gain is applied to the audio tracks during playback .
+the test has been carried out using a test signal -lrb- .
+wav file -rrb- , of a sinusoidal waveform at f = 1khz recorded at 0db digital level .
+the top and bottom halfs of the waveform are thus heavily clipped .
+this issue can sometimes cause an audible distortion on some audio recordings that have been mastered at high recording levels .
+the applied gain affects both the digital and the analog outputs of the wd tv .
+24bit/96khz flac audio files get internally down-sampled to 48khz through digital optical out whereas they should be passed through untouched .
+the wd tv sometimes sounds ?
+jittery ?
+during playback of lenghty audio files -lrb- e.g. flac image files bigger than 100.000 kbytes or large wav files -rrb- .
+there are random audible `` clicks '' in the sound .
+the cursor buttons on the remote react inverted -lrb- left = right , up = down -rrb- when the `` displace image '' function -lrb- repositioning of the picture -rrb- is used during photo and video playback .
+b -rrb- feature requests * firmware 1.02.00 not included yet !
+* quote : subtitle requests -lsb- img -rsb- the ability to alter the vertical position of subtitles using short intervals , to move them higher or lower on screen directly during video playback .
+possible way : the up and down cursor buttons on the remote could be used when the `` subtitle '' icon in the `` option '' menu is highlighted by the user during video playback .
+the last chosen position should by stored into the wd tv .
+a new selectable option : `` subtitle outline thickness '' with ~ 5 different values to make subtitles better readable ... ... where 0 stands for `` no outline '' , 1 `` as it is in the current 1.01.02 firmware '' , 2 `` a little bit thicker than 1 '' , 3 `` a little bit thicker than 2 '' ... a new selectable option : `` subtitle color '' .
+requested colors : white , yellow , dark yellow , transparent white , grey and black .
+-lrb- more possible -rrb- a new selectable option : `` subtitle outline color '' : black , white and yellow .
+-lrb- more possbile -rrb- support for subtitle format options -lrb- tags -rrb- which are used inside subtitles .
+examples : <i> hello </i> , <b> scott </b> , <u> how do you do ?
+</u> ... currently , these tags are displayed as plain text by the wd tv , which is irritating .
+if it is too hard to code this feature , the wd tv should detect these tags and ignore them instead of displaying them .
+b. 2 - general system requests thumbnail support for video and audio files .
+possible way : a .
+jpg picture that has the same name and is located at the same place as the audio/video file could be used in `` thumbnail mode '' .
+thumbnail support for folders .
+possible way : a .
+jpg picture named `` cover.jpg '' located inside a folder could be used in `` thumbnail mode '' .
+note : `` folder.jpg '' could be used as an alternative , too , but `` cover.jpg '' is more compatible with present thumbnail standards used in pc software and other portable media players .
+thumbnail support for music albums .
+currently , the individual thumbnails in each track are displayed during music album playback whereas a single `` album.jpg '' cover would be more appreciate .
+dvd-video -lrb- .
+iso , .
+img -rrb- menu support .
+dvd-video `` video_ts '' folder playback support including dvd menu .
+the ability to activate/deactivate the `` file size in filename '' feature that was added in firmware 1.01.01 .
+the ability to activate/deactivate the `` fade in/fade out effect '' when browsing through files .
+`` page down '' and `` page up '' feature when browsing through files in list and thumbnail mode .
+-lrb- the prev and next buttons on the remote could be used for this -rrb- currently , only fast scrolling is supported by pressing and holding the cursor down or cursor up button .
+the ability to enable/disable the information bar that currently is automatically displayed when the playback of a video file is started .
+the ability to set a `` default media browser after start-up '' in the settings menu .
+selectable options : either photos or video or music .
+currently , the wd tv always jumps to the `` photos '' browser whenever the device is turned on .
+the abilitiy to select `` 1 second '' as an `` interval time '' in the photos settings menu .
+the ability to directly start playback of a music album in the music browser by pressing the `` play '' button on the remote while the album is highlighted without having to list the content of the album first .
+the ability to display the file information bar directly while browsing through files without having to play them first , e.g. by pressing the `` option '' button on the remote when a file is highlighted .
+the ability to use the `` back '' button on the remote when the `` do you want to resume playback or restart the video ? ''
+screen is displayed .
+the ability to mount/reinsert usb devices again when they have been ejected .
+the ability to set a `` default dvd-video audio language '' in the system settings menu .
+displaying the name of the selected audio track , e.g. `` french -lrb- 3/3 -rrb- '' , instead of `` audio channel 3 '' when the audio icon is pressed during dvd-video playback .
+displaying the subtitle language name , e.g. `` english -lrb- 1/3 -rrb- '' , instead of `` subtitle -lrb- 1/3 -rrb- '' when the subtitle icon is pressed during dvd-video playback .
+displaying comments stored in audio tracks during music playback -lrb- e.g. album description -rrb- .
+more smaller `` zoom '' values in the option menu during video playback in order to help to make black borders invisible .
+example : 1,05 x ; 1,1 x ; 1,15 x ; 1,2 x ; 1,25 x ; 1,3 x ; 1,35 x ; 1,4 x ; 1,5 x ; 2x and 4x .
+and maybe two negative -lrb- - -rrb- 1,05 x and -lrb- - -rrb- 1,1 x zoom values in order to compensate the `` overscan '' that ca n't be turned off on old tvs .
+the ability to set a `` password protection '' on folders in order to protect children from viewing adult content .
+new display resolution settings in the settings menu : `` 1080p auto hz '' , `` 720p auto hz '' , `` 1080i auto hz '' , `` 480p auto hz '' and `` 576p auto hz '' where the wd tv automatically outputs at the correct hz depending on the fps rate of the video file without having to change it manually all the time .
+new hdmi display resolution settings : 576i and 480i .
+more information about the video file -lrb- video resolution , video framerate , video codec , audio codec , audio channels , ... -rrb- when the `` i '' icon in the option menu is pressed during video playback .
+it would be more convenient if the default highlighted button is `` ok '' instead of `` cancel '' when trying to eject usb storage devices .
+new `` video sequence '' modes in the video settings menu : `` shuffle '' and `` repeat all and shuffle '' .
+a `` go to '' feature where you can jump to a specific time during video playback .
+bitstream and pcm output control options in the audio settings menu .
+-lrb- including the abilitiy to select which audio codecs should be passed through and which audio codec should be decoded by the wd tv .
+best example : some av receivers can not handle aac audio , but currently it is unfortunatelly not possible to tell the wd tv not to pass through aac audio through digital optical output -rrb- a fully functional `` sleep timer '' with various options .
+more supported subtitle charsets .
+requested : central-european -lrb- windows 1250 -rrb- / eastern-european and turkish .
+more supported system languages .
+requested : polish , turkish , russian , vietnamese and thai .
+ext2 and ext3 formatted storage support .
+b. 3 - file format and codec requests dts audio downsampling to stereo support .
+note : a lot of users are begging for this feature .
+wma3 5.1 / windows media audio pro 9-10 audio support .
+-lrb- commonly used in wmv-hd videos -rrb- support for .
+ogg audio inside video files .
+-lrb- currently , only standalone .
+ogg files are supported -rrb- .
+img file extension support . .
+cdg file format support .
+support for video playlists .
+-lrb- currently , only audio playlists are supported -rrb- support for .
+cue audio playlists .
+support for vc-1 coded video files in .
+mkv containers .
+currently , vc-1 video files only work within a .
+m2ts container or a .
+wmv file -lrb- with 2 channel audio -rrb- .
+subtitle support for .
+vob and .
+m2ts files -lrb- both , external and embedded -rrb- support for .
+txt subtitles including `` tmp '' , `` microdvd '' and `` mpl2 '' time/frame format .
+support for dv-avi video files .
+support for 1080p 30fps .
+mov video files that are taken using regular hd video cameras .
+support for 24bit/96khz .
+wav audio files .
+support for real media .
+rmvb files .
+support for mp43 video codec and mpga audio codec in .
+asf files .
+support for the dv/dvcpro codec .
+support for `` closed captions '' in quicktime .
+mov files .
+c -rrb- wish list * firmware 1.02.00 not included yet !
+* quote : the ability to set a `` subtitle delay '' value -lrb- in + / - 200 milliseconds steps -rrb- during video playback .
+enhanced photo playback : more choice -lrb- of length and style -rrb- for slideshow transitions , better fades and more timing options .
+file/folder management , e.g. delete/rename/make folder/move to/copy from usb1 <to> usb2 / ... the ability to use both , hdmi and cvbs output at the same time .
+the ability to set an `` audio delay '' value -lrb- in + / - 10 milliseconds steps -rrb- during video playback .
+the ability to alter audio volume during video playback using the left and right cursor buttons .
+-lrb- currently , these buttons are unused -rrb- improved response on the commands of the remote control .
+16:10 aspect ratio support .
+`` black level '' and `` hdmi color space '' options in the settings menu to adjust picture quality .
+the wd tv should not automatically turn itself on when the power cord is plugged in .
+-lrb- standy-by mode instead -rrb- it should power on itself only when the power button on the remote is pressed .
+support for `` exfat '' formatted storage .
+-lrb- used in windows vista -rrb- support for external dvd-rom drives which are connected via usb .
+faster loading times during photo playback .
+support for usb-sticks with wired network capability .
+-lrb- usb-lan sticks -rrb- selectable dvd-video `` camera angle '' support .
+d -rrb- already fixed issues and new added features * firmware 1.02.00 not included yet !
+* quote : `` 1.01.02 hot-bug-fix firmware '' resolved the issue surrounding updating the firmware from a large -lrb- 500gb or larger -rrb- drive , previously the wd tv would not recognize the updated firmware on a large drive resolved the occasionally happening `` black screen while only audio is playing '' issue during video playback of .
+mkv files .
+-lrb- not listed in the official release notes -rrb- added external subtitle support -lrb- .
+srt , .
+ass , + ?? -rrb-
+for .
+m2ts files .
+-lrb- not listed in the official release notes -rrb- that 's all , folks !
+just 1 or 2 firmware updates more and the wd tv will become the best available standalone hd media player in the market if it is not already anyway

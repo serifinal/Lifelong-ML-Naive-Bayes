@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Xbox 360 no HDMI - does it matter MUCH!</Title>
+		<Username>Fit2Run</Username>
+		<Datetime>03-18-08, 01:05 PM</Datetime>
+		<Content>I will be installing my Home Theater with 50" Pioneer Plasma - Pioneer Elite VSX92 Receiver, Mythos 8 Speakers (L,R, C) in ceiling rears, Supercube II Sub. I have the first version Xbox 360 with NO HDMI. Will the games still look great or will the HDMI version make it THAT MUCH BETTER. My options then would be to get rid of the 360 to get a new one. Or get PS3 as a game console as I do not like it for blue ray (audio wise). Any tips suggestions. Thanks,</Content>
+	</Post>
+</Thread>

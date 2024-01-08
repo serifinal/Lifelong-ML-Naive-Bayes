@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>January 2nd - 2009 Home Theater Predictions</Title>
+		<Username>Braden Russell</Username>
+		<Datetime>01-02-09, 07:59 AM</Datetime>
+		<Content>Today's Show: It's that time of year again. We try to predict the future, at least the future of HDTV and Home Theater. We'll try to stay away from the real obvious ones like TV prices will come down or Blu Ray players will be more affordable. more... Listen now - mp3</Content>
+	</Post>
+</Thread>

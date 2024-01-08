@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My Basement</Title>
+		<Username>JBUNGIE</Username>
+		<Datetime>10-11-08, 02:07 PM</Datetime>
+		<Content>After a year I am finally getting around to posting some pics of my finished basement. Had someone do the drywall work. I did the tile work, painting, mounting and my bro in law helped me with the bar. Dual tap kegerator =</Content>
+	</Post>
+</Thread>

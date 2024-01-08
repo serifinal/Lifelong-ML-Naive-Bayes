@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Bell Turbo Hub</Title>
+		<Username>Sparro</Username>
+		<Datetime>08-11-2010 08:07 PM</Datetime>
+		<Content>Does anybody have any information on the Bell Turbo Hub? From what I know its basically a Turbo Stick that runs off the 3G HSPA network but allows you to connect up to 15 computers. I need a hispeed internet solution for my business but the standard Cable or DSL service is not available in my area. It needs to be solid and reliable. Does anybody have any first hand information on this service... i can't afford to play guessing games... it needs to be fast and work all the time. Thanks.</Content>
+	</Post>
+</Thread>

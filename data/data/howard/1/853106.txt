@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Please suggest a solid/reliable phone that works with Telus HSPA network</Title>
+		<Username>HighTech</Username>
+		<Datetime>03-24-2010 08:18 AM</Datetime>
+		<Content>I would like to make the switch to HSPA and am looking for a phone that offers: - Exceptional reception and call quality - QWERTY keypad (makes txting easy) - Ability to transfer contacts from outlook to the phone I am not looking for data (i.e. email or web) and I know that HSPA is really geared to this market. I figure if I am to renew my contact, I might as well go on the new network then the existing one. So to that end, what phones (either sold by Telus or other vendors) would work on Telus HSPA network in Toronto area? Thanks,</Content>
+	</Post>
+</Thread>

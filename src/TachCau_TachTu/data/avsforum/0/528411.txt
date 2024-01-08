@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title></Title>
+		<Username>jasonalmand</Username>
+		<Datetime>09-20-08, 10:58 AM</Datetime>
+		<Content>I just replaced the color wheel on my Samsung DLP (HL-P5063W) because of the grinding noise. The TV comes on and the grinding has gone away but, the blue colors are now brown. The picture is very distorted and doesnt look right at all. Could this be a bad color wheel or did I do something wrong? I appreciate any advice you guys can share!</Content>
+	</Post>
+</Thread>

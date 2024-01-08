@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why I'm Getting a Droid 2 (After Returning My Droid X)</Title>
+		<Username>theryguy512</Username>
+		<Datetime>07-18-2010 08:18 PM</Datetime>
+		<Content>Originally Posted by karnovaran Finally some official photos http://www.engadget.com/2010/07/18/f...ser-site-code/ Now all we need is an offical release date...</Content>
+	</Post>
+</Thread>

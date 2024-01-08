@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Need advice on 37" bedroom TV</Title>
+		<Username>ausmusj</Username>
+		<Datetime>11-03-08, 01:46 PM</Datetime>
+		<Content>Hello All- I'm looking to upgrade my bedroom TV set from a 32" CRT to a 37" HDTV - and no, no 40" TVs - I had a hard time getting my wife to agree on 37" over 32". I haven't decided on LCD vs. plasma, but the won't be a significant glare/brightness problem, so I'm leaning plasma. Mostly, the TV will be used for watching (initially non-upscaled) DVDs, with later purchase of a Blu-Ray player. I certainly don't need 120Hz on this set, and won't quibble about 720p vs. 1080p - but I'd go with a 1080p set if the price wasn't significantly higher. I don't foresee needing > 2 HDMI ports, but I do want optical audio out on the TV (need it to hook into my existing 5.1 all-in-one 5-disc DVD theater in a box setup). So, anyone have any recent experience with 37" models? What recommendations do you have? I'm looking to pick up the set on Black Friday, so I want to be prepared with the top two or three models to look for in the ads (so that I have a backup plan). Also, as another minor factor, my main set is a 47" Philips 120Hz 1080P with Ambilight (47PFL9432), which I absolutely love (in no small part due to the Ambilight feature) - os, if anyone knows a good place that I could get an older Philips 37" model with Ambilight, I would probably put that as my first choice. Thanks! -James</Content>
+	</Post>
+</Thread>

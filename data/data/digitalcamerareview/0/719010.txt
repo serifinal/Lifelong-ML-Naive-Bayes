@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does the LCD screen of a Canon Powershot SX110 IS camera have a protective layer of plastic?</Title>
+		<Username>bigolo1960</Username>
+		<Datetime>04-13-2010, 05:23 PM</Datetime>
+		<Content>I broke the screen of my Powershot SX 110 IS camera and sent it for repair to a specialized lab. I received back the camera with a working screen but the surface is not as pristine as I expected (several scratches). Can anyone tell me if the screen has a protective plastic layer that may have not been changed, or whether the lab installed a used screen (while I paid for anew one?) Many thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SX10IS Video capture</Title>
+		<Username>SoCalRich</Username>
+		<Datetime>03-20-2009, 03:05 AM</Datetime>
+		<Content>If you are shooting video can you convert any of the frames into a still shot?</Content>
+	</Post>
+</Thread>

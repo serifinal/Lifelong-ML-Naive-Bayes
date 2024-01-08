@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Viera Clock Display</Title>
+		<Username>catalina0029</Username>
+		<Datetime>28-05-2011, 2:33 PM</Datetime>
+		<Content>I need the clock to be displayed at all times the unit is turned on. How can I get the clock to be displayed and only the clock? Thanks, Dan</Content>
+	</Post>
+</Thread>

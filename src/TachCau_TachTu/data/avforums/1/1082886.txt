@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Plasma vs led</Title>
+		<Username>techaq</Username>
+		<Datetime>28-11-2011, 1:06 AM</Datetime>
+		<Content>I'am looking into buying a new tv I have a 40in lcd samsung some people say the newer samsungs led picture looks like your there is this true with the panasonic st30 and seems leds or better picture? 42in plasmas? I was looking at bestbuy and theres tons of lcds and led and only a few plasma tvs so I couldn't get to view very many plasmas because they were all huge and I'am looking for something smaller or the bigger plasmas that much of a difference between say 60in and 42in I cant go bigger then 42in tv so should I lean more towards led? only way to test plasma is to bring it home thanks</Content>
+	</Post>
+</Thread>

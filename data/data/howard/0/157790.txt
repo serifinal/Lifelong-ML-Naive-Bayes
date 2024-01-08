@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Fascinate Galaxy S Release Thread - Keep all phone discussion here</Title>
+		<Username>FAUguy</Username>
+		<Datetime>09-07-2010 11:01 PM</Datetime>
+		<Content>The Samsung Fascinate is now listed for sale on the Verizon site: http://www.verizonwireless.com/b2c/s...edPhoneId=5528</Content>
+	</Post>
+</Thread>

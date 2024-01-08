@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Runco Projector display issue</Title>
+		<Username>than</Username>
+		<Datetime>09-09-08, 03:03 PM</Datetime>
+		<Content>I have a customer that we installed a Runco VX-5000 for and between the projector and the controller we ran a Canare cable with 5 mini coax. We had the projector running on the RGBHV input. We now need to use the DVI input and running new cables to the projector would be painful. We came up with a plan to order some DVI to RGBHY gender changers( break-out cables) so we could go DVI out of the controller via the break out cable RGBHV to the projector and another break out cable at the projector to switch it back to DVI. We have the proctor here at our shop and did what I just tried to explain there and it didn?t work. I?ve either been pointed down the wrong path or the break out cables I ordered are bad. I also heard that dvi-d to rgbhv might work does anyone have any suggestions.</Content>
+	</Post>
+</Thread>

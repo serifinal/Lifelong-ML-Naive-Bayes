@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cydia App Compatibility with 4.2.1 and Greenpois0n JB - List (Feel free to add to it)</Title>
+		<Username>Synergie1</Username>
+		<Datetime>02-08-2011 11:12 AM</Datetime>
+		<Content>I figured it would be good for people to know prior to upgrading to 4.2.1 and jailbreaking, if their current favorite Cydia Apps are working with the updated OS. Feel free to add to this list! PLEASE DON'T REPLY IN THIS THREAD ANYMORE! There is a Google Spreadsheet started that anyone can add to!! Please add your items to that list!! Link Below: Google Spreadsheet Link: https://spreadsheets0.google.com/ccc...Qg&hl=en#gid=0</Content>
+	</Post>
+</Thread>

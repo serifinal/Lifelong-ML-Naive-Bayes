@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SoftBank network settings? (SMS server, mobile internet AP, e-mail server)</Title>
+		<Username>Hale_ru</Username>
+		<Datetime>07-11-2010 11:54 AM</Datetime>
+		<Content>I want to populate my Nokia with SoftBank USIM. Now it can only voicecall. So I need original (and hidden in Sharp handset) settings: 1)SMS portal phone number 2)Mobile internet access point (the one that has upper limit of charge for "unlimited mobile internet PC site browsing"~$60) 3)Settings for e-mail/S!Mail (is S!Mail basically MMS? or not?) How to send/receive S!Mail via Nokia handset. I don't need immediate receive of incoming mail, but if this could be done in POP3/IMAP mode - that's ok. The problems are regional characters and T9 input on Sharp phone. On Nokia I can install complete set of japanese fonts/codepage/input for symbian (about ~$15 for s/w package). Of course Nokia is a piece of crap. But this crap is useful for SMS/mails in european-languages. At least it can process "joint SMS".</Content>
+	</Post>
+</Thread>

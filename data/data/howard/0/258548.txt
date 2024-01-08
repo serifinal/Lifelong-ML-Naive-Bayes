@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Getting unlimited data on a prepaid account with a smartphone.</Title>
+		<Username>CatW</Username>
+		<Datetime>03-17-2010 11:40 PM</Datetime>
+		<Content>Ive actually tried this and it seems to work. I recently bought a Blackberry Pearl Flip (Rogers) from Kajiji and stuck my pay as you go SIM card into it. On the SIM card, I have unlimited on device browsing and the 1 cent talk and text plan I was surprised to see that upon opening the icon labeled 'Rogers Mall', it allowed me to completely surf the internet on the Flip without occurring additional charges to my pre-paid account and even downloads seem to work. Has anyone else managed to do this? Maybe its a glitch in the system because I don't believe this is suppose to happen.</Content>
+	</Post>
+</Thread>

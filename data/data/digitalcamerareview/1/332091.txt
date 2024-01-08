@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Macro Lens</Title>
+		<Username>jamesthedrummer</Username>
+		<Datetime>01-23-2010, 12:10 AM</Datetime>
+		<Content>I'm looking at the Canon - 100mm f/2.8 Macro Lens from a big box store. Can anyone tell me a little something about this lens please. I know I want to take close up shots and from my little knowledge about photography I have so far any advice would help. Is it considered a "true" macro lens with a focus range of 1' - infinity? Also, what does the term "infinity" mean. I found out it is considered discontinued as well. So should I pick this one for the price of $599? I'm not ready or advanced enough to purchase the newwer $1000 model. Thanks.</Content>
+	</Post>
+</Thread>

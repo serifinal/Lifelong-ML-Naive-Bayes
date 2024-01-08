@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Tmobile Samsung Memoir and Tmobile Motorola Clique</Title>
+		<Username>Myclue</Username>
+		<Datetime>02-03-2010 11:46 PM</Datetime>
+		<Content>I have a very mint Samsung Memoir and comes with all original accessories. Works perfectly Looking for $200 shipped! Brand New Clique. Alittle scratch on bottom left when I accidently hit the table when taking pictures Looking for $300 shipped for the clique</Content>
+	</Post>
+</Thread>

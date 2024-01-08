@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TXP50ST30 Vs G20??</Title>
+		<Username>davidcrofter</Username>
+		<Datetime>29-12-2011, 4:29 PM</Datetime>
+		<Content>Hiya folks, I currently have a Panasonic TXP50G20 and my parents are now on the look out for a big format TV and are have always had eyes on my G20 ... and I am tempted to let them have it at a very nice price and move onto the Panasonic TXP50ST30 with a 5yr Warranty and some 3d loving ... Simple question is this: Is the 50ST30 comparable or even better than the G20 when it comes to 2d picture quality - not really bothered about feature lists lost or gained as I tend to solely use my TV for the purpose it was intended ... anybody done a similar up/downgrade this year?? Over to you ...</Content>
+	</Post>
+</Thread>

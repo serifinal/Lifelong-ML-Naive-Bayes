@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: please recommend camera for great tattoo photos/close-ups</Title>
+		<Username>kelwil</Username>
+		<Datetime>07-27-2009, 06:50 PM</Datetime>
+		<Content>I have a Canon Digital Rebel XTI, I know there is a newer model out. Don't buy the kit lenses, if you get this camera. Instead, check a macro lens or my favourite low light lens, 50mm f/1.8, in Canada, it's about $130, in the US it's around $100. No flash needed, if you have more money, get a 50mm f/1.4.</Content>
+	</Post>
+</Thread>

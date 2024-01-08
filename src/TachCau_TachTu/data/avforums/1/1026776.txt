@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>First post, quick question on the Panasonic ST30, GT30, VT30</Title>
+		<Username>peter450</Username>
+		<Datetime>12-01-2012, 12:04 AM</Datetime>
+		<Content>I have been looking at buying one of these plasma's but am uncertain on a couple of things I know the VT30 has the best picture of the 3, but have seen much less info about the GT30, is it a better picture than the ST30 or are they very similar? The other question i have is around blu ray playback i know the VT30 has a 96hz option, for blu ray playback Does the GT30 & ST30 have this aswell, i know the US versions dont and have only 48 and 60hz, but the euro/UK models sometimes have differant specs to US ones and i cant find any mention of this for the UK spec tellies</Content>
+	</Post>
+</Thread>

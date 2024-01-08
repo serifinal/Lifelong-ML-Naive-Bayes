@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Factory unlocked iPhone 4</Title>
+		<Username>jp314159</Username>
+		<Datetime>06-27-2010 12:31 AM</Datetime>
+		<Content>I am thinking of getting a facory unlocked iPhone 4 (e.g. from Canada). I am not very familiar with iPhone settings (I'm nore of a Nokia user) so I have a few Qs: I don't use ATT -- should I be able to use a T-Mobile data plan with it ? Is it just a case of cutting the SIM to 3FF size and putting it in ? As far as I can see, normal (locked) iPhones don't have easy access to the APN settings -- is it possible to edit those on a factory unlocked one ? I assume there is no difficulty in swapping SIMs (e.g. when travelling), and getting data working with the new SIM's plan ? Does the phone have any hiccups when doing this (assuming my APN Q above is solved) ? I asked twice in the US Apple Store about the international warranty -- they said that an unlocked foreign-bought iPhone warrenty would be honored in the US -- does anyone have any comments on that ? Is it really true ? Ultimately, I may jailbreak the iPhone 4, but I want some assurance that it will work out-of-the-box initially.</Content>
+	</Post>
+</Thread>

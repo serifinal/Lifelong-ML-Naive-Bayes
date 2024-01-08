@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung I9000 Galaxy S</Title>
+		<Username>welectronics.com</Username>
+		<Datetime>06-12-2010 01:57 PM</Datetime>
+		<Content>Now in stock http://www.welectronics.com/gsm/Sams...-GALAXY-S.HTML Thanks</Content>
+	</Post>
+</Thread>

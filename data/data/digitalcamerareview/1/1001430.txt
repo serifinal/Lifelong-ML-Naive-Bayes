@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon 234-70 2.8 L USM</Title>
+		<Username>Ronald Hanesworth</Username>
+		<Datetime>03-21-2011, 09:29 PM</Datetime>
+		<Content>I am thinking about buying a 24-70 canon lens. I have read a lot about this lens getting a bad copy. My question is most say simply return the lens and Canon will recalibrate it. Is this the same as using the micro focus adjustment in my camera (Canon 5D mark II). Please reply to my home e-mail at rhanesworth10@yahoo.com</Content>
+	</Post>
+</Thread>

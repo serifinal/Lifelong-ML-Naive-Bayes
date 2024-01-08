@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 50PS6000 firmware problem?</Title>
+		<Username>Psyderman</Username>
+		<Datetime>02-08-2011, 11:03 AM</Datetime>
+		<Content>Hi All, I have tried searching for this problem but cannot find anything so any help would be greatfully appreciated. I have a 50" LG plasma tv (50PS6000) which decided to have a funny turn by changing it's language and locking out the remote control. After changing the language back to english from the side of the tv I found that the message flashing up on the screen read "input blocked". Unfortunately I could not enter the passcode as the remote control was still locked out. I downloaded the latest firmware for the tv (v3.45), which strangely enough is no longer available!, installed it and the tv and remote control were now both working normally again, except that the colours are now hideous, Standard, Vivid, Cinema etc are bright green, purple or turquoise. I can play with the colour settings but they still look awful. And if I want to watch something through a USB stick, it is in bright green as well with no way to change the colour settings as it throws you out of the film I am trying to watch. The tv is 2 years old and out of its warranty. So the big question is, am I able to "rollback" the firmware to an earlier one and if so, where can I get a copy? Hopefully someone out there has had a similar problem or knows of a solution, please help! kindest regards David</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BNIB Blackberry 8820 SEALED locked to Rogers</Title>
+		<Username>zaidyboy</Username>
+		<Datetime>10-03-2009 03:14 PM</Datetime>
+		<Content>As title states. I am located in the Greater Toronto Area (Scarborough, Markham, North York) Price: $290 FIRM!!!!</Content>
+	</Post>
+</Thread>

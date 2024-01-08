@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>sloenvy</Username>
+		<Datetime>08-12-08, 01:20 PM</Datetime>
+		<Content>I am seting up an Onkyo 606 and I'm debating whether to utilize the HDMI connections on the receiver. I am currently directly attaching all of my components (DirectTV and HD DVD) using the HDMI connections to my TV (Pioneer 6020). I'm then using the digital optical audio from the TV to the Onkyo. The sales person suggested keeping this setup as it would provide the best picture (even through the Onkyo has a pass through feature). My question - was the sales person correct or should I utilize the Onkyo pass through to run my HDMI connections throught the receiver? I feel like I'm just missing out on something with the Onkyo by not using the HDMI connections. Thanks in advance.</Content>
+	</Post>
+</Thread>

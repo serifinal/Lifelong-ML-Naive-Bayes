@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>3D glasses for LG 50PZ570T</Title>
+		<Username>MattyP1990</Username>
+		<Datetime>19-06-2011, 9:07 PM</Datetime>
+		<Content>Well I just ordered an LG 50PZ570T 50 inch tv, need to buy some 3D glasses for it. Wondering what ones I can use and the best place to get them from?</Content>
+	</Post>
+</Thread>

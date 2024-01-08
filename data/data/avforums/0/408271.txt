@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Disable power button on Samsung?</Title>
+		<Username>declanmcc</Username>
+		<Datetime>02-08-2011, 1:01 PM</Datetime>
+		<Content>Hi There, I'm wondering is it possible to disable the power button at the front of my Samsung plasma? My 2 year old son is constantly pressing it off and on - and my thinking is that if he sees that pressing the button doesn't do anything, then he'll stop doing it! I've looked through the Settings menu but can't see anything of note. Any assistance would be great!! It's a 42" model, almost 4 years old, if you need the model number then I can provide that later, Thanks!</Content>
+	</Post>
+</Thread>

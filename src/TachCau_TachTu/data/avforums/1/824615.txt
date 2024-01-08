@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Why is Panasonic not calling back the 2011 Models?</Title>
+		<Username>ALIEN1X</Username>
+		<Datetime>03-01-2012, 10:34 AM</Datetime>
+		<Content>I'm looking to buy a Panasonic (my first HD TV), but decided to hold back due the problems of Green blob,50hz,fluctuating brightness,other issues etc. Do these problems occur with all models 10,15,20 and current 30 series? Why has Panasonic not called back the TV'S, I have noted on this forum many people returning the TV's back for replacement or going for Samsung Plasma 8000 series?</Content>
+	</Post>
+</Thread>

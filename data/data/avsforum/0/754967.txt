@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Camcorder direct to external hard drive?</Title>
+		<Username>syrist</Username>
+		<Datetime>10-15-08, 11:04 AM</Datetime>
+		<Content>I have a Canon HV20 camcorder and I want to be able to transfer the video from my MiniDV tapes directly to a firewire external hard drive... this bypassing my computer. Is this possible? Or what about recording directly to an external hard drive instead of the internal MiniDV tape?</Content>
+	</Post>
+</Thread>

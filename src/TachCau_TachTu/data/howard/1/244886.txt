@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: Samsung Galaxy S Vibrant (NOT AWS)</Title>
+		<Username>geokilla</Username>
+		<Datetime>08-21-2010 08:54 PM</Datetime>
+		<Content>Looking to purchase a Samsung Galaxy S Vibrant (NOT AWS). I'm located in the GTA. Please do not offer me something like "Vibrant for $600 because it's unlocked" as I can unlock it myself. Or I will learn to unlock it myself.</Content>
+	</Post>
+</Thread>

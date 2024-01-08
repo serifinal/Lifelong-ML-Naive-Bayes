@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer Media Receiver Cable</Title>
+		<Username>bchase</Username>
+		<Datetime>16-07-2011, 8:29 PM</Datetime>
+		<Content>Hi I have a pioneer PDP 434pe and recently bought a used replacement r04e media receiver cable. However the standard PDA-H01 cable works on the dvi side but as soon as you plug in the control cable the whole thing shuts down. The pioneer manual for my tv talks of a System cable (3 m) (ADF1021). Can anyone tell me if this is the same cable?</Content>
+	</Post>
+</Thread>

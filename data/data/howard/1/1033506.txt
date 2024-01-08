@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Xbox Live, Compass 597 U and Cradlepoint Router.</Title>
+		<Username>mobstar</Username>
+		<Datetime>08-06-2008 12:43 PM</Datetime>
+		<Content>I have the Compass 597 U and would like to pay Xboxlive using it. I was going to get a CradlePoint router. Either the CTR350 (if I wanna go wireless) http://www.cradlepoint.com/ctr350/ctr350.php Or the MBR1000 (if I wanna connect using an ethernet cable) http://www.cradlepoint.com/mbr1000/mbr1000.php Im in a Rev A area and get extremely fast internet speeds. So my question is, before I go out and get the router, will I be able to (with out lag) play xbox live? Please let me know. Thanks!!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SD1400 question??</Title>
+		<Username>cameranut8</Username>
+		<Datetime>10-28-2010, 08:19 PM</Datetime>
+		<Content>Just bought a Canon SD1400. When getting ready to take a photo, the camera is trying to focus and keeps making a 'ticking' noise. It seems like this is taking way too long. I am pressing down half way as instructed on all these p & s cameras. Is this normal for the SD1400...anyone have one and know this??</Content>
+	</Post>
+</Thread>

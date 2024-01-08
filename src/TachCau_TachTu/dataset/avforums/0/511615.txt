@@ -1,0 +1,18 @@
+software update for pal 2010 viera tv?s plasma and lcd models .
+okay guys and girls i hope this helps you out , seems panasonic likes to hide the latest updates from it 's customers .
+thanks goes to the guys on here for pointing this out .
+creating this one thread for it so makes it easier to find and for search engines to find it .
+go to www.panasonic.co.uk select support select ask a question in the search field put pal-10 and click ask the last of the 4 search results should be software update for 2010 vierras so go to that one and there you have the download .
+alternatively this next link might get you there directly , it 's ... http://panasonicuk.epticahosting.com...te.do?id=49298 so this method is for sd/usb update .
+software update for pal 2010 viera tv?s some customers may experience the following phenomenons with their 2010 viera tv .
+1 .
+iplayer cutting out during playback .
+2 .
+epg guide not populating correctly .
+3 .
+a freesat hd error message .
+4 .
+incorrect channels being displayed when setting a timer program .
+these problems have been identified and cured by way of a software update .
+please download the software for your model type .
+you will need to load the software onto an sd card to update the set instructions on how to do this can be found here -lrb- http://panasonic.jp/support/global/c.../step3_uk.html -rrb- the software update links are below -lrb- please note the different software for vt20b models , please ensure to select the correct screen size -rrb- plasma models : - version 1.020 - c2b / c2l / s20b / u20b / x20l / x20b version 2.509 - v20l / vt20l version 2.705 - g20b / g20ba / s20b / s20ba / s21b / s21ba / v20b / v20ba / 50/65vt20b version 2.805 - 42/46vt20b / vt20ba lcd models version 1.020 - c20b / c20ba / c20l / c20la / c2b / c2ba / d28bp / d28bw / lrg20b / s20l / u2b / u2l / x20l version 2.509 - d25l version 2.705 - d25b / d25ba / d26b / d26ba / d28bp / d28bs / d28bsa / d28bw / d28bwa / g20b / g20ba / s20b / s20ba / v20b / s21b

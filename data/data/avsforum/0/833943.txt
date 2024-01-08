@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official Geometry Wars 2 Discussion Thread</Title>
+		<Username>ileff</Username>
+		<Datetime>07-30-08, 07:20 AM</Datetime>
+		<Content>OMG!!!! Every mode is so fun and i haven't even got to try multiplayer yet. If you pickup this game send me a FR: leff4 800 points, trial version available. Pros: . six modes: deadline, king, evolved, pacifism, waves, sequence . local multiplayer/coop . 1080p . "co-pilot" mode (one player pilots the ship and the other player controls the gunner) Cons: . no xbox live multiplayer . only one gun type 1up review: A- eurogamer review: 9/10 ign review: 8.3 Impressive developer spotlight: http://loadingreadyrun.com/videos/vi...oper_spotlight trailer: http://www.youtube.com/watch?v=yxybY99nY38</Content>
+	</Post>
+</Thread>

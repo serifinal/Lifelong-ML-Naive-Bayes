@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Network problem or iPhone hardware issue: Idiocy in Customer Support</Title>
+		<Username>Amadaeus</Username>
+		<Datetime>12-22-2009 04:16 PM</Datetime>
+		<Content>I'm currently in Kingston, and my 3G connection stopped working around 2PM ET today. My iPhone has the "3G" icon on the status bar, and I have full 5 bars, but whenever I try to connect to the internet, it gives me a "Could not activate cellular data network". I've tried rebooting and resetting my network settings to no avail, so I call up fido tech support. In the past, they've always been stellar in troubleshooting network issues, but I've found them to be wanting recently. I spent 40 minutes with two support people and went through the same reboot, reset network connections. They "reset their network code" on their end several times, but nothing seems to work. I was asked to turn off 3G and go on the Edge network, and lo-and-behold my data connection works on Edge... just not on 3G. A cursory check on the interwebs show that error message is usually connected to network issues, and I tell them as such, but the rep comes back and says it's my hardware, and I have to restore my firmware. I... was flabbergasted. My network was working not just 3 hours ago... and the troubleshooting point to an error with the network rather than the device. I tell them as such, and she said "I have to refuse your request to investigate further or put in a ticket to investigate network problems" because I refuse to restore. I'm not at my home computer, so I can't restore.... Anyone on the Fido/Rogers network in Kingston, ON and can't access 3G? If so, give them a call maybe they'll get a clue.</Content>
+	</Post>
+</Thread>

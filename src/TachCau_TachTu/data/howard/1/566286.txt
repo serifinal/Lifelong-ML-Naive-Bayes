@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Galaxy S with AT&T 3g Bands</Title>
+		<Username>Daedalus0586</Username>
+		<Datetime>06-28-2010 03:57 PM</Datetime>
+		<Content>Does anyone know if a version of the Galaxy S is going to be released with the AT&T 3g bands? I've heard AT&T is supposed to be receiving the Captivate, however, I have no interest in picking up a branded (and most likely crippled) phone. I wanted to purchase an unbranded and unlocked Galaxy S that supports AT&T 3g, but I search google and the forums here and found no information about where to purchase one, or if one even exists. It shows on gsmarena.com that there is supposed to be a version of the Galaxy S with AT&T bands but I wanted to know if anyone has any information on where to purchase one or if one is actually going to be released and when. Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS50C450B 50" HD Ready Plasma TV</Title>
+		<Username>Casterina</Username>
+		<Datetime>27-04-2011, 6:40 PM</Datetime>
+		<Content>Is this TV good? Code:</Content>
+	</Post>
+</Thread>

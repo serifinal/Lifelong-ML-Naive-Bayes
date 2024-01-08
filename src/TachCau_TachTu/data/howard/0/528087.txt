@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell Samsung Galaxy S, Kies, sync Outlook</Title>
+		<Username>zane9</Username>
+		<Datetime>08-25-2010 01:19 PM</Datetime>
+		<Content>I use Outlook for corporate email (the email server is MDaemon, not Exchange: I use an app called Outlook Connector for MDaemon and Outlook is fully functional). I want to sync my contacts and calendar to the Galaxy. From another thread here, I know there is a way to get GMail and Outlook working together but I'm not pursuing that right away. So far I cannot find a reliable SyncML app for the Android-based smartphone, so an "over-the-air" sync is not in the picture. If you know of an app that works, please post! Meantime, I will try to use Kies as the intermediary between Outlook and the Galaxy. Wondering if any of you have installed and run Kies and successfully got a sync going with Outlook? If it hasn't worked, I would appreciate hearing about the issues you had. Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New unlimited plan for $60 that includes talk, messaging, email, data and web!</Title>
+		<Username>teyong</Username>
+		<Datetime>04-30-2010 07:45 PM</Datetime>
+		<Content>Later this month, Virgin Mobile will offer a new unlimited plan for $60 that includes talk, messaging, email, data and web! And, all monthly plans will include taxes and surcharges! Additionally, Virgin Mobile does not charge an activation or reconnection fee like Cricket, Metro PCS or other carriers. We will see ....</Content>
+	</Post>
+</Thread>

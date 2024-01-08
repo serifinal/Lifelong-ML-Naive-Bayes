@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>September 2nd - PlayOn Beta</Title>
+		<Username>Braden Russell</Username>
+		<Datetime>09-02-08, 01:36 AM</Datetime>
+		<Content>Today's Show: It was a hot topic in the inbox last week, and we promised to check it out. So keeping to our word, we spent some quality time with the PlayOn Beta from MediaMall Technologies. MediaMall is all about allowing set top boxes to access Internet video. PlayOn is the consumer software version of that technology. In short, it's really cool; well worth installing if you have a windows computer and a PS3, Xbox 360 or HP MediaSmart TV. more... Listen now - mp3</Content>
+	</Post>
+</Thread>

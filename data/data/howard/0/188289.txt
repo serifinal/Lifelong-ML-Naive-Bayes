@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anyone found a way to be granted an early upgrade towards the 3GS?</Title>
+		<Username>PlaysNice</Username>
+		<Datetime>06-26-2009 11:16 AM</Datetime>
+		<Content>I'm not due for an upgrade discount until DEC 09. Just wondering if anyone has found a way to get the discount early for a 3GS to avoid the full price?</Content>
+	</Post>
+</Thread>

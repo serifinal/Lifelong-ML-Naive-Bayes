@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GTA - Apple Black IPhone 3GS 32GB (Rogers) & 16GB (Fido) - BNIB Sealed</Title>
+		<Username>Happydudee</Username>
+		<Datetime>12-25-2009 12:23 PM</Datetime>
+		<Content>Item: Apple IPhone 3GS 32GB - BNIB Sealed (Locked to Rogers) Colour: Black Location: GTA / Markham Price: $700 Item: Apple IPhone 3GS 16GB - BNIB Sealed (Locked to Fido) Colour: Black Location: GTA / Markham Price: $600 Thanks.</Content>
+	</Post>
+</Thread>

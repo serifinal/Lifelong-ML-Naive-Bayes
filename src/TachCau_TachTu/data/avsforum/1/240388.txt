@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung A550 vs. Toshiba RV530</Title>
+		<Username>andi90and1</Username>
+		<Datetime>04-15-08, 10:18 AM</Datetime>
+		<Content>Hi you guys, I have a big decision to make. I?ve been searching for a new lcd-tv for some time now. The two remaining devices are 1. the Toshiba 37RV530 and 2. the Samsung 37A557. I just don?t know which series is the better one. Which tv should I go for? Hope you can help me</Content>
+	</Post>
+</Thread>

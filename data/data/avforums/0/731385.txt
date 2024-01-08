@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung c7000</Title>
+		<Username>sharaf</Username>
+		<Datetime>23-11-2011, 8:02 PM</Datetime>
+		<Content>Hi all, my Samsung C7000 tv's screen stopped coming on. I called Samsung and a repair centre called me and collected the TV they stated that the mother board was gone and required replacing! This was on the 12th October! No news of TV being fixed when I called early November was really peed off when the repair centre stated that mother board was out of stock. I called Samsung and after a number of calls stated they will replace my at TV for a D6900 which cost about £800 bought my C7000 when it was released for £1250 and even provided them with an invoice. They told me I had no other choice but to take that model TV! by then i was over a month without TV and read the spec for D6900 and was happy.. BUT it now the 23rd and I STILL have no TV! Samsung keep saying its with the delivery company CONCORD never heard of them and all the numbers provided my google either don't work or is being used by a residential place and Samsung state "we Connor provide you with Concordia number to track your TV" I am so fed with Samsung do you guys think I can get a refund on my TV because to be honest I don't want to own anything made by Samsung ever again!! sorry for the long post</Content>
+	</Post>
+</Thread>

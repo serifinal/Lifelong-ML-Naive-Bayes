@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HELP best Canon compact camera , what ?</Title>
+		<Username>miciotta62</Username>
+		<Datetime>12-24-2011, 10:06 AM</Datetime>
+		<Content>what is the best with a beautiful photos in dayliaght and night ...and best video HD ? with a nice prize ? IXUS 220 HS or powershot A3200 IS or is good the SX 130 or SX 150 ? help me ?</Content>
+	</Post>
+</Thread>

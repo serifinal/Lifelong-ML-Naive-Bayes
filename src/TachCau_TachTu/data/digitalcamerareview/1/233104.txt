@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon EOS 1000d with EF Lens</Title>
+		<Username>pw_newbie</Username>
+		<Datetime>06-08-2010, 11:57 AM</Datetime>
+		<Content>Hi all I have an old Canon EOS500N Film SLR Camera with EF 28-80mm USM lens. I am now interested in buying a DSLR and was looking at Canon EOS1000D or Canon EOS450D. I understand that both EOS1000D and EOS450D can take EF and EF-S lenses. However, what I wanted to know was that by using the EF 28-80mm USM lens, will I lose any functionality? Also, is it important / better to get an IS lens? Many thanks for your answers.</Content>
+	</Post>
+</Thread>

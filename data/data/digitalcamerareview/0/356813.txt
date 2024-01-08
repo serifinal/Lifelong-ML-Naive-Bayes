@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX10IS</Title>
+		<Username>Andy Stanton</Username>
+		<Datetime>10-12-2008, 08:13 PM</Datetime>
+		<Content>I spent some time with it at my camera store. It looks very similar to the S5IS, but it has a few more buttons and is definitely heavier. It operated like most Canons - smooth and sure.</Content>
+	</Post>
+</Thread>

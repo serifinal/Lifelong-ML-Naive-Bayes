@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PN50A550 turning 'pink' in middle of screen</Title>
+		<Username>Nick Catalano</Username>
+		<Datetime>08-19-08, 12:28 AM</Datetime>
+		<Content>I have my brand new, 2 month old, Samsung PN50A550 plasma sitting here. I have followed all the precautions, never setting it in dynamic or normal mode and running the break-in dvd on and off when not using the TV... while keeping the settings very low during the break-in period And now, when the room is entirely dark, and I set it to "all white" I am seeing a distinct 'pink' color in the middle of the screen. It is not image retention because it has no set lines, it is just diffused very slight pink that goes white to the outsides. It is not based on my settings because the rest of the screen is 'white' (or close enough to white) while this thin but diffused area seems 'pink.' I reset it to factory settings and I am still seeing a very diffused and hard to see, but very real, pink color. I attached a picture explaining what I am speaking about Is this something I should be paranoid about? I have a wonderful warranty from ABT and they will come out if I call, but I don't know that you could see it during the day.</Content>
+	</Post>
+</Thread>

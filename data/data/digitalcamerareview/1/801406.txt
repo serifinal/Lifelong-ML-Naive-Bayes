@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is this a good deal (EOS-30D) ?</Title>
+		<Username>vallaird</Username>
+		<Datetime>11-12-2007, 05:59 PM</Datetime>
+		<Content>Hi, I'm completely new to these forums and I did search a little before posting. Here is my question, here in Canada I can get this : EOS 30D body + case + Canon EF-S 18-55mm Lens + ProTama 58mm UV Filter + 512MB CF Card + card reader USB + extra batteries + 1 year Canon warranty for a grand total of 929$ with free shipping. So basically, is this a good deal or normal price or a rip-off ? I can get my hand on a EOS 40D but I'm not sure if the price difference (+ 600$) is worth it. Thanks for any inputs.</Content>
+	</Post>
+</Thread>

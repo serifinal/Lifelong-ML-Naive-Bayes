@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS50C7000 v PS51D6900</Title>
+		<Username>jallan</Username>
+		<Datetime>15-07-2011, 6:27 PM</Datetime>
+		<Content>hey guys... for those of you had both of these sets, how do they compare in terms of 3d, ghosting/crosstalk, sd quality, hd quality, blinking (if any!) and general all round performance? Also i know the d6900 lacks the real black filter of the c7000, does that make a difference in pic quality? My c7000 is being taken away next week for a refund and im looking to replace it with the d6900. Budget is 1k so cant afford a panasonic and the d6900 is the only model that fits the bill. Ive read through the 6900 owners thread but cant find any comparisons between the 2 models by those who have had both. Any info appreciated.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon PowerShot SX20 IS</Title>
+		<Username>Celeste</Username>
+		<Datetime>06-25-2010, 09:38 PM</Datetime>
+		<Content>Special Effects: I want to change my camera's special effects to black and white, sepia, neutral, etc.. I've yet to find where to do so. Could someone help me?:confused:</Content>
+	</Post>
+</Thread>

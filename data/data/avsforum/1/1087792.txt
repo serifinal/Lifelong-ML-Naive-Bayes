@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung A550 vs sony XBR4 series. Which better.</Title>
+		<Username>Jonnydanger</Username>
+		<Datetime>08-14-08, 01:17 AM</Datetime>
+		<Content>Hi. Does anyone know which is better between the Samsung A550 series and the Sony bravia XBR4 series LCD TV? Please let me know Thanks</Content>
+	</Post>
+</Thread>

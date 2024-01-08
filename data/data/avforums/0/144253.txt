@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Ps50c680 and mkv files</Title>
+		<Username>Smokie365</Username>
+		<Datetime>09-03-2011, 8:16 PM</Datetime>
+		<Content>Hey guys I have the above set and have no problems except this. I have all my films in my iomega storecenter network drive, And have some films that are mkv format. Has anyone any issues playing mkv films??</Content>
+	</Post>
+</Thread>

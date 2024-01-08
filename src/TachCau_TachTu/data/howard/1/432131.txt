@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WIND Mobile Samsung Galaxy I7500</Title>
+		<Username>Roufes</Username>
+		<Datetime>03-13-2010 06:19 PM</Datetime>
+		<Content>I'm buying a Samsung I7500 Galaxy; but from what I have read it seems that there are two versions of this phone, one works with bell frequency and the other uses the 1700/ 1900 / 2100 HSDPA Wind Frequency. Does anybody know how to tell the both apart?</Content>
+	</Post>
+</Thread>

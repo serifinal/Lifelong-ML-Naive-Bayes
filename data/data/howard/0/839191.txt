@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Dropping EV-DO mid internet connection</Title>
+		<Username>xmguy</Username>
+		<Datetime>06-30-2009 07:50 PM</Datetime>
+		<Content>Ok since I got the Dare last year from time to time. Mostly when I'm streaming Orb my EV-DO connection will drop to 1X. I have to stop the audio and wait for the phone to drop the data connection and EV-DO will reconnect. I KNOW it's not a signal issue. I live within 1/2 mile from a VZW tower. I rarely drop to 3 bars on EV-DO. Does anyone know a fix workaround? It's really annoying when this occurs. I know it's been an issue since the phone came out. I'm shocked VZW never fixed it.</Content>
+	</Post>
+</Thread>

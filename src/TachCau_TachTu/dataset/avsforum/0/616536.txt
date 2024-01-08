@@ -1,0 +1,99 @@
+blu - ray/hd-dvd to mkv ... the options are endless !!!! .
+so after alot of requests on the `` best blu ray ripper '' thread i have finally got round to sorting out a new updated guide for you guys with screens .
+so without further distraction hear it is : software http://www.bunkus.org/videotools/mkvtoolnix/ mkvtoolnix http://haali.cs.msu.ru/mkv/ haali media splitter http://x264.nl/ x264 encoder http://www.microsoft.com/windows/win...downloads.aspx wmp 11 http://www.doom9.org/index.html?/software2.htm graphedit -lrb- under filters -rrb- http://avisynth.org/mediawiki/main_page avisynth http://madshi.net/eac3to.zip eac3to http://sourceforge.net/project/showf...group_id=82303 media player classic & a number of other useful codecs etc http://madshi.net/madflac.rar madflac decoder guide 1 : command line conversion of blu - ray -lrb- hd-dvd -rrb- to mkv for directshow playback .
+exceptions : 1 .
+if the track you have has either dts master audio or dts high resolution audio then to make a conversion to lossless flac you must have arcsofts total media theatre -lrb- tmt -rrb- installed -lrb- on your system drive i.e. c -rrb- or the best you can hope for with ffmpeg supplied with eac3to is the `` core '' legacy dts track .
+tmt is no longer available for download -lrb- used to download a time limited full version of software -rrb- but since i 'm a nice guy you can down load it here -lrb- this is the trail version for 30 days , after this you will have to buy it or do a frewsh install of your os drive to use it again ... do not ask for cracked versions/keygens etc -rrb- : http://www.megaupload.com/?d=jhkjll7d 2 .
+if all you want is the audio tracks untouched , then you will require the following extentions for your output files : dolby truehd -lrb- .
+thd -rrb- , dts master audio -lrb- .
+dtshd -rrb- , dts high resolution -lrb- .
+dtshd -rrb- , dolby digital plus -lrb- .
+eac3 -rrb- etc. 3 .
+use a bit of common sense ... these are provided as a guide and can be modified to suite a users needs .
+just because you do n't see any arguement for audio in an example does n't meen you ca n't add one i.e. .
+if you have a container that has audio , video , chapters .
+subs etc you can use any and all of eac3to 's features .
+its quite a logical program .
+4 .
+this is imporatnt - if you choose to use this method over the more advanced guide that uses blu - ray as an example then eac3to will only convert lossless tracks -lrb- truehd , dts ma & lpcm only -rrb- automatically to flac format .
+all lossy tracks such as dd + will be output in the format they were origionally encoded in .
+theses can be run back through eac3to to be converted to what you like or not as the case may be .
+5 .
+if you want to create a dts -lrb- not core which libav can extract : ships with eac3to -rrb- but from say .
+eac3 track you must have the surecode dts encoder installed on your machine , this can be baught from here : http://www.minnetonkaaudio.com/products/surcode06.html the link for eac3to can be found at the top of this guide .
+in addition to this you will require anydvd hd and for dts master audio decoding arcsoft tmt -lrb- links provided above -rrb- .
+for this we will be using the command line interface but each of these commands can be writen into a .
+bat file and double clicked to engage .
+for today 's tutorial we will be using the region b -lrb- uk -rrb- oldboy blu ray disc -lrb- tartan distributor -rrb- .
+once you have loaded your disc and anydvd hd has done its magic then open a command prompt and navigate to where your eac3to folder is located on your hard drive .
+from here type the following command : eac3to.exe g : followed by enter .
+note that here g : represents my blu ray drive so amend accordingly ... this will give you a list of `` titles '' that are available on the disc like in the following example : for us we want the main movie , so the length , format etc tell us that this is title 1 -lrb- this is also a very good method to tell seamless branching titles apart ... each will be listed as a separate title and usually have a different duration -rrb- .
+to this end we now type : eac3to.exe g : 1 -rrb- this will now give us a detailed overview of what is contained in title 1 as shown in the following still : we can now see what numbers/tracks we need to extract , since this is a foreign language title we will need subtitles , the main video , main audio and the chapters .
+this can be achieved by using the numbering system employed by eac3to .
+for this title we want tracks 1 : , 2 : , 5 : , 11 : , 12 : , 13 : , & 14 : -lrb- written in the same manner -rrb- .
+so to extract these to a directory -lrb- alter to reflect your own structure -rrb- of my choosing we write : eac3to.exe g : 1 -rrb- 1 : `` d : \ oldboy \ chapters.txt '' 2 : `` d : \ oldboy \ oldboy.mkv '' 5 : `` d : \ oldboy \ oldboy.flac '' 11 : `` d : \ oldboy \ old.sup '' 12 : `` d : \ oldboy \ old1.sup '' 13 : `` d : \ oldboy \ old2.sup '' 14 : `` d : \ oldboy \ old3.sup '' if you make a mistake then do n't worry eac3to will tell you that `` this ********** conversion is not supported '' as in the figure below : if you get everything correct you will get the following : once you have finished you can then mux everything back together using the same technique as outlined in guide2 -lrb- below -rrb- .
+a couple of things to note : 1 .
+eac3to now auto-corrects for the delay in any audio file that it decodes so you do not need to add this value anymore when muxing using mkvmerge .
+for example if yoou convert a dts master audio track to lossless flac then you are decoding the track firsts -lrb- into pcm -rrb- & then re-encoding it back into flac .
+on the other hand if you rip out the core legacy dts track from the dts ma track , eac3to does n't have to decode it .
+hence if the track has a delay -lrb- see eac3to log -rrb- you must add it in the delay section of mkvmerge -lrb- see below -rrb- .
+2 .
+channel mapping for blu ray lpcm channels in now the default option so you no longer need the - bluray handle .
+3 .
+pulldown is now automatically removed by default when stripping the video and muxing into matroska so the - strippulldown flag is no longer required .
+if you want to keep pulldown flags you can add the handle - keeppulldown after the video portion of your command .
+guide 2 : ripping 1080p blu - ray/hd-dvd using hdbrstreamextractor gui for eac3to .
+i must stress before anybody assumes this is the `` best '' way to use eac3to , that it is not !
+the reason that this is included is for those of you who have command line phobias or do not have sufficient experience/time to learn .
+all the features that eac3to offers are only available in the command line , this gui uses the most common features and places them in a point & click interface .
+if you want to get the most from the power that eac3to has to offer i strongly suggest you master at least basic command line skills .
+that said , for those who ca n't or will not this will get you by .
+you can download the gui from here : http://code.google.com/p/hdbrstreame...downloads/list extract it & then place it in your eac3to folder -lrb- along with the config file too -rrb- .
+on opening of the executable you will be presented with this screen : just like using the command line option you will need anydvd hd running & decripting the disc , now the first thing to do is define either the folder -lrb- folder icon on far right of `` input '' -rrb- from which the movie files are stored -lrb- weather this be on your hd or direct from the br disc -rrb- or the m2ts file -lrb- s -rrb- -lrb- `` select input file -lrb- s -rrb- '' icon on immediate right of `` input '' box -rrb- we are interested in turning into a shiny new mkv -lrb- for this demo we are using folders -rrb- .
+we are doing this using the uk trainspotting blu-ray direct from the bd drive .
+in all cases you will have to show eac3to to the location of the '' \ bdmv \ stream \ '' folder .
+in my example -lrb- pic below -rrb- you can see `` f : \ bdmv \ stream \ '' this is because my bd drive is located at f : you will also need to specify a destination folder , my example is `` d : \ trainspotting '' , one this is done hit `` feature -lrb- s -rrb- '' link -lrb- in blue -rrb- and let eac3to analyse the disc .
+this will then give you a list of m2ts -lrb- along with playlist mpls files -rrb- files with corresponding durations .
+choose the one that is the most likely candidate for the movie i.e. usually the longest .
+in our case this is title 1 -lrb- equivalent in command to scripting eac3to.exe f : 1 -rrb- to do a more in depth analysis -rrb- .
+double click this one and let eac3to do a deep analysis , following this you will be presented with a screen like this one -lrb- complete with all the streams within the main movie i.e. audio , video , subtitle tracks -rrb- : now just like the command line we need to tell eac3to what we want to extract from the disc .
+we do this using check boxes under `` stream -lrb- s -rrb- '' to choose the orrect tracks & we decide how they are going to be processed by choosing what the extention of the output files are going to be from under the `` extract as '' column .
+when you are happy hit the `` extract '' button on the lower right hand pane and eac3to will do the magic .
+this like the command line should take approx 30mins - 1 hour depending on what you are ripping , your drive speed & how many conversions i.e. dts ma to flac conversions are taking place .
+see below : then you are done & need to now mux your new streams back together using mkvmerge -lrb- see guide 4 -rrb- or if you need subtitles sorting out then go to guides 5 & 6 .
+guide 3 : using `` another eac3to gui '' to rip blu - ray/hd-dvd files into lovely 1080p mkv 's .
+for this you will need to download a copy of mikeeby 's newest creation from here : http://www.acdnow.com/anothereac3tog...toguisetup.zip this is as the title suggests is another eac3to gui but this has a wee difference in as much as it will parse video/audio quite well to give you previews of what you are going to rip to mkv ... pretty good function .
+this software is very very new & needs a bit of work but it has lots of potential so without further distraction lets get on with taking a look at how it works .
+mike has posted on here & i 'm sure he would value your feedback on his software , suggestions etc -lrb- correct me if i 'm wrong mike ? -rrb-
+but please guys & gals do n't be too pushy .
+writing software is a labour of love but its still pretty time consuming -lrb- thanks -rrb- .
+you first need to install this software to your local drive , after you have done this you will get this screen asking you for the location of eac3to & a destination folder for your rips , as shown here : fill this out in a similar fashion to me above .
+then click ok & you will be greeted with this lovely screen , which i think looks very clean : now you have to give it both the path to the streams -lrb- bdmv/stream / for either on disc or on hdd -rrb- & to the destination , remember as with any eac3to usage anydvd hd must be running !
+once you have done this click `` analyze '' & in the lower left hand box the titles will appear with the appropriate file sizes , choose the largest and click on the arrow to move the selected m2ts file to the `` source stream files '' box .
+at this point you can use the video box to preview the video & audio .
+this feature is very handy for working out the episodes of tv series on bd : click either `` add batch '' followed by run all -lrb- add multiple jobs as you want , possibly all from hdd or if you have multiple bd drives , repeating the appropriate processes where needed -rrb- or click `` command line '' followed by `` run command '' .
+both will result in the following command line being employed : eac3to.exe `` f : \ bdmv \ stream \ 00004 .
+m2ts '' `` d : \ hd-movie-folder \ mymkvfile.mkv '' -lrb- obviously this is specific to my title : star trek - the voyage home -rrb- but the general command is : eac3to.exe `` f : \ bdmv \ stream \ xxxxx.m2ts '' `` d : \ yourfolder \ mymkvfile.mkv '' this type of command as some of you will be aware will cause eac3to to parse all streams in the container so what you end up with is a number of audio files -lrb- diff languages -rrb- , a number of subtitle files -lrb- all for diff languages again -rrb- , the video file -lrb- more than one with pic-in-pic -rrb- , the chapter & log .
+txt files .
+since eac3to by default converts lossless audio to flac these will be done automatically but with legecy/lossy files such as ac2 or standard core dts , these will remain as is .
+this means if they have a delay associated with them -lrb- check eac3to - log.txt for details -rrb- it will have to be applied during the muxing stage in guide 4 .
+lossless tracks -lrb- unless output in origional format i.e. .
+thd , .
+dtshd -rrb- that have been decoded & converted to anything else weather this be lossless flac or a legecy format such as dd -lrb- ac3 -rrb- , dts , aac etc do not need a delay applying .
+now all is taken care of , be aware that doing a mass conversion of everything does take a while longer than only converting the tracks you need ... so be prepared to take a time penalty .
+that said i 'm sure this program will evolve quickly & i will update regularly as to the improvements .
+guide 4 : using mkmerge to recombine the files we just created .
+start up mkvmerge and click on the add button to add the files that you want to mux into an mkv i.e. video , audio -lrb- as many as you want -rrb- , subs -lrb- must be converted to srt or idx first ... see guide 5 & 6 ! -rrb- .
+once you have done this to find out any delays that must be applied etc open up the eac3to log -lrb- open in previous screen -rrb- , any audio delays will be displayed next to the relavent track .
+to apply this click on your track in mkvmerge and go to the format specific options and write it in under delay .
+if their is no delay in the log leave it your good to go .
+note : with new versions of eac3to -lrb- v2 .2 onwards -rrb- their is no need to apply a delay in mkvmerge with tracks that are decoded by eac3to i.e. truehd to flac , but you still require the delay on tracks that are just demuxed i.e. ac3 to ac3 .
+if you want chapters then go to the global tab and enter your chapter file , this can also be edited by draging and dropping it in the window in the chapter editor : note that chapter files can be used with any title at your need ... they are essentially just text files and can be modded using a text editor i.e. notepad/wordpad etc to reflect any changes you want to make i.e. add chapter names etc. .
+set your output file and any other permiters that you want i.e. default track flags/names etc and press mux and you will get the following screen : this should n't take too long and then you can delete all the files you do not want and you can play this file back in any directshow capable player as long as you have the relervent codecs installed , no more crap comercial players that will not let you play the discs that you have bought , no more down sampling audio and an infinate amount of tweaking to get the best possible picture if you should so choose the shining in hd in mpc .
+mpc with working chapters .
+mpc-hc showing star trek - the voyage home with 7.1 24 bit sound & english subtitles .
+i would always make sure you use a good renderer i.e. haali/evr or vmr9 ... never use overlay or simular , this will make your new hd mkv look soft , flat and boaring .
+you can use this method for hd-dvd also you just have to reflect the change in disc structure when using eac3to as per the example given , all else is the same .
+happy encoding guys and girls ... hope this is helpful .
+any qs please post or pm me and i will do my best to help you out .
+cheers , jiff .

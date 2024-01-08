@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New Theatre Build in Buford, GA</Title>
+		<Username>kennyjacobs</Username>
+		<Datetime>04-15-08, 03:45 PM</Datetime>
+		<Content>I am in the process of finishing the basement in my home and I need all the help I can get. Deciding on a projector in mind boggling. I will be in the $ 2500to $ 3000 market for a projector. I need help on wiring also. Where do I need to place the outlet for the projector. Thanks, Kenny</Content>
+	</Post>
+</Thread>

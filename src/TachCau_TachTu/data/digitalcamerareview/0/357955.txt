@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is Canon Power Shot SX30 IS software compatible with Canon Power Shot A1100 IS?</Title>
+		<Username>MyTake</Username>
+		<Datetime>01-16-2011, 10:19 PM</Datetime>
+		<Content>Hello, I upgraded from a Canon Power Shot A1100IS to a Canon Power Shot SX30 IS. Will installing the new software for the SX30 IS overwrite the software for the A1100 IS and if so, can I still upload photos from the A1100 IS. I would like to continue using this camera also but am concerned the new software wouldn't be compatible. Thank you.</Content>
+	</Post>
+</Thread>

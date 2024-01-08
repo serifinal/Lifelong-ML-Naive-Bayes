@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Matching a center speaker to Epi 100s</Title>
+		<Username>zaqnewman</Username>
+		<Datetime>01-03-09, 11:07 PM</Datetime>
+		<Content>So I am attempting to build up a home theater system using Epi 100s I inherited from my dad as the mains. And reading up I should try and match a center channel speaker to them. Specs courtesy of HumanSpeakers.com Response: 45 to 18k Hz RMS Power: 12 to 50 watts (very conservative rating) Crossover: 1800 Hz Drivers: 8" woofer 1" air spring dome tweeter Impedance: 4 ohms DC, 8 ohms nominal I just bought an Onkyo 576 receiver (TX-SR576, 80W to 8ohm speakers). I mainly want it for movies, the room is 12X15 with me sitting 12 feet away from the speaker, I'm trying to stay below 6" to not have to wall mount it and ideally stay in the $100-200 range. I've been looking at a Klipsch SC-5 (maybe splurging for a RC-10), or trying to get a Boston Acoustic Micro 90c on eBay. Any suggestions or advice is welcome and appreciated. Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pentax and Hoya Management Integration (Merger)</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>12-22-2006, 09:00 PM</Datetime>
+		<Content>Pentax and Hoya have announced a merger where, effective on October 1, 2007, they will be known as the Hoya Pentax HD Corporation. By joining forces, they seek to use their strengths to establish better value for the shareholders. Fortunately, it doesn't look like this involving digital cameras will actually change that much. The merged digital imaging division will consist of the current Pentax imaging division. Here is how they foresee the divisions withing the merged company:Life care area (endoscopes, medical accessories, new ceramics, and intraocular lenses) - This strategic growth area will capitalize on projected demand in devices need for minimally invasive procedures. Hoya's medical division and Pentax' life care division will be combined.Optics area - The two companies will vertically integrate the design, materials, lenses, processing and module groups. The two companies will jointly use their existing manufacturing facilities and user bases. Hoya's optics division and Pentax' optical components division.Information technology area - will consist of the remainder of Hoya's electro-optics area after the optics are taken outEye care area -will consist of remainder after separating Hoya's medical division from their eye care divisionImaging systems division - Will consist of the current Pentax Imaging divisionR&D - Hoya and Pentax will combine their existing R&D divisionsRead more...&#160;</Content>
+	</Post>
+</Thread>

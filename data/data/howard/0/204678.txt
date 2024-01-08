@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Want to buy-(BELL) Samsung Galaxy s Vibrant i9000M</Title>
+		<Username>PENTELGO</Username>
+		<Datetime>08-17-2010 02:50 PM</Datetime>
+		<Content>Please PM or email me your price and the phone's overall condition. Thanks. interwalkk at gmail dot com</Content>
+	</Post>
+</Thread>

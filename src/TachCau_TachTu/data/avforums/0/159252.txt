@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic gt30 - is there a menu to see how long the screens been on for?</Title>
+		<Username>adamknox</Username>
+		<Datetime>30-07-2011, 1:46 PM</Datetime>
+		<Content>I have heard that some TV's have this feature in the maintanance section. Im currently burning in my tv and have kind of lost count of how long its been running for lol Ive looked around but cant see one. However my last TV had a 'hidden' section that you have to put in a special code to access. Is there one for the GT30?</Content>
+	</Post>
+</Thread>

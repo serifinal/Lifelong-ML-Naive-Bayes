@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What is the difference between the EX70 and Home Cinema 700???</Title>
+		<Username>hayneskr</Username>
+		<Datetime>12-11-08, 09:36 AM</Datetime>
+		<Content>Okay, I haven't been able to find any reviews for the Home Cinema 700 - but there are some for the EX70 and they aren't good. I know it isn't a home theatre mag, but PC Mag reviewed the EX70: http://www.pcmag.com/article2/0,2817...129TX1K0000530 One section that leapt out at me was this: "Video quality at 480p was good enough to consider bringing the projector home to watch movies on DVD at 480p, with acceptable skin tones and good detail in dark areas. On the other hand, results on the HQV Benchmark, a measure of video quality for standard-definition (SD) signals at 480i, were disappointing. The EX70 scored a meager 10 out of a possible 130, the lowest score I've yet seen for any projector." HD isn't mentioned, but should we expect similar performance from the Home Cinema 700? In the projectorreview test of the Infocus X9, the 700 is mentioned as a competitor: http://www.projectorreviews.com/info...petitors.php#6 If there aren't any real differences between the EX70 and Home Cinema 700 won't this new WXGA be simply awful and a poor choice for any home theatre application? It is trumpeted as a low cost alternative, but how would it stack up against a BenQ W500? And if there aren't any differences between it and the EX70, what is the point??? It's not on my shopping list, but I think I've been asked about the EX70/Home Cinema 700 10 times now and I don't have any answers. Which is why I am asking all of you.</Content>
+	</Post>
+</Thread>

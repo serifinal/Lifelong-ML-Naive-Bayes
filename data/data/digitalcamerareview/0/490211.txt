@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SX1 can now shoot RAW</Title>
+		<Username>SoCalRich</Username>
+		<Datetime>03-18-2009, 05:42 AM</Datetime>
+		<Content>Check it out... http://web.canon.jp/imaging/dcp/firm...1is/index.html</Content>
+	</Post>
+</Thread>

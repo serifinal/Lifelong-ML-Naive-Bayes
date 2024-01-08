@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Lg 50pz570t .... ???</Title>
+		<Username>valiant85</Username>
+		<Datetime>09-08-2011, 3:48 PM</Datetime>
+		<Content>I'm looking into getting a new TV for the bedroom, and really am liking the sound of plasma at the minute as the price and what you get for it compared to LED seem excellent in my opinion! This will be my first plasma and I am worried about IR a little but hopefully I will be worrying for nothing? Does anyone have anything to say about this TV? it seems top value for money and even includes a free pair of 3d glasses! but I cant find reviews anywhere or even anything on forums about the set? how are the black levels? does anyone own this tv? would you recommend it? alternatives with good black levels? is plasma a good idea? thank you in advance!!!!</Content>
+	</Post>
+</Thread>

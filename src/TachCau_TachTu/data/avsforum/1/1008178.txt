@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Klipsch Synergy sub-12</Title>
+		<Username>vzaggie04</Username>
+		<Datetime>03-16-08, 11:40 PM</Datetime>
+		<Content>I have the following setup: Onkyo 805 Front Speakers: Def Tech bp7006(2) Center: Def Tech C/L/R2002 Surround/Surround Rear L/R: Bose Cube Speakers(4) Subwoofer: Old Polk Audio Sub (bout 8 yrs. old, can't find model #, no manual) Blu-Ray: Panasonic dmp-bd30k (Dolby TrueHD & DTS-HD Master Audio via bitstream, Arriving Tomorrow!) Dimensions:Roughly 18x25 w/ vaulted cathedral ceiling that is very high. I don't have a large budget remaining (bout 500 max) as My 805 I got last week and my bd30k arrives tomorrow. However, I realize the importance of a sub to any HT system, and badly want to upgrade my sub as my current one is boomy, old, and simply doesn't provide good sound anymore. If I go over 500, I will be forced to wait 8 months til I pay off my new player and amp. I saw/heard the Klipsch synergy sub-12 at Best Buy. Is this a good buy or do I need to live w/o a decent sub for 10 months to get a HSU/Av123/etc.. Thanks</Content>
+	</Post>
+</Thread>

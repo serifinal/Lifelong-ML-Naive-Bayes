@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic 46" plasma</Title>
+		<Username>vickster</Username>
+		<Datetime>04-06-2011, 11:59 AM</Datetime>
+		<Content>Are Panasonic expected to release any 2D 46" plasmas in the UK this year? I have ZERO (nay negative) interest in 3D so certainly don't want to pay extra for something I shall never use! I can only see a 46GT30 Upgrading from a 37", don't think 42" will be enough and 50" will be too much - only around 7-8ft away (TV - SD/Sky HD, DVD, blu-ray, no gaming) Otherwise I may be forced to consider a Samsung LCD-LED Reckon I'll have a grand (with 5 year warranty) - plan to wait until next spring (get in time for the Olympics as don't think I have got any tickets ) I did toy with the idea of a 46G20 from RS, but think they have pretty much all gone now Cheers chaps</Content>
+	</Post>
+</Thread>

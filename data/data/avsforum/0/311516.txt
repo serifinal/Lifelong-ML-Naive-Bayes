@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Is There Any Way to Transfer my Time Warner DVR Movies</Title>
+		<Username>JohnnyRedStorm</Username>
+		<Datetime>12-05-08, 07:45 PM</Datetime>
+		<Content>I bought a new tv recently and I am looking to upgrade from DVR to HD DVR so I was wondering if there is any way I can transfer the movies on my current DVR to an external hardrive or something. Thanks</Content>
+	</Post>
+</Thread>

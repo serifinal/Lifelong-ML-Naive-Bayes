@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS50C680 Glasses</Title>
+		<Username>Smokie365</Username>
+		<Datetime>07-01-2012, 6:17 PM</Datetime>
+		<Content>Hey everyone Not sure if this is allowed in here...</Content>
+	</Post>
+</Thread>

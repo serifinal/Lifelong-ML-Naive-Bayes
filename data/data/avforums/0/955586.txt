@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Few questions on breaking in a Panasonic G30.</Title>
+		<Username>Steve1977</Username>
+		<Datetime>31-01-2012, 9:34 PM</Datetime>
+		<Content>I originally thought that you only broke in a new Plasma for the first 150 hours or so was to stop IR - and depending on what post you read - IR isnt much of an issue these days anyway. However my first month of having this TV has brought it's fair share of headaches such as Phosphor Flashes on High Contrast Images, rainbow style ghosting and something else I'v noticed when I look up close is a fair bit of noise. Firstly, is this noise due to the fact that the Phosphors havent matured (apologies if this is the wrong word) yet? Could the lively phosphors be the result of the flashing Im getting? Iv never had this problem with CRT's before - which I believe also use Phosphor's - and the problem seems too prominent to simply say only a small number of people are affected as you can clearly see it on a YouTube video which plays Sin City. So at the moment im using some slides to break it in. Unsure if this is now a pointless task to be honest but if anyone could answer the following it would be much appreciated: 1) I'v used the TV on average for 7 hours a day for 23 Days. Due to prominent Phosphor flashes Im now using Slides to break it in - is this now pointless? 2) I can see lots of noise when I look closely at the screen. Is this a sign of a defective TV? 3) Due to the fact I'm now uniformly ageing the Phosphors, will the prominent flashes im experiencing now disappear more quickly?</Content>
+	</Post>
+</Thread>

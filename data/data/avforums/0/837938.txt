@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>42GT30 Initial set up picture settings</Title>
+		<Username>Meyrick Man</Username>
+		<Datetime>19-11-2011, 8:08 PM</Datetime>
+		<Content>Just bought a 42GT30 and have turned down brightness and contrast from the default set up only. Can anyone let me know what picture settings they have used while running in the screen? Any help would be appreciated.</Content>
+	</Post>
+</Thread>

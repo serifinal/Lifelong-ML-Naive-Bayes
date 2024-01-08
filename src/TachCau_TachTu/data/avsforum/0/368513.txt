@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>can dvd recorder record in 1080p or is it still 480</Title>
+		<Username>captnemo</Username>
+		<Datetime>05-23-08, 07:09 PM</Datetime>
+		<Content>can the new digital dvd recorder record a tv show in 1080p or is it still 480p and if a broadcast is in high defenition can it record in high defenition. I know the new dvd recorders have a hdmi input/output, so does that mean it cn record in 1080p. Also can dvd recorders now record in 16.9 screen on dvd rw disks</Content>
+	</Post>
+</Thread>

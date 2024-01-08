@@ -1,0 +1,10 @@
+how to disable auto turn off when lg 42pj550 doesnt detect a signal .
+hey everyone , i have a lg 42pj550 tv .
+when i select the input option on the remote , the inputs that the tv is detecting a signal on are coloured and the ones that are not detecting a signal are grey .
+my antenna , av1 and the phono options on the side of the tv are in use for my wii and playstation .
+i have bought myself a mini jack to phono cable to connect from my headphone socket on my laptop into the tv .
+i have plugged this into the audio red/white component section on the tv and it works fine for about 20 mins or so but then the tv turns itself off because it is not detecting a signal .
+is there any way to turn this off so that if i want the tv off i have to do it manually ?
+failing this can i get some sort of phono splitter , so that it detects the video signal from my wii in standby mode but alows me to play my music from my laptop through my tv ?
+ideally i need an aux option but i cant find this .
+thanks

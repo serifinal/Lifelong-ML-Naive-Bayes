@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD870 Action Shots</Title>
+		<Username>simpilot43</Username>
+		<Datetime>05-21-2009, 04:04 PM</Datetime>
+		<Content>With my SD870 in auto mode, any time the camera or subject is in motion the results are blurred. The special scenes modes on the camera do not seem to fit action shots. My old canon had an action mode on it. Frustrating as I like the camera but need to figure this out, thanks for any help.</Content>
+	</Post>
+</Thread>

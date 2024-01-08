@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Yamaha RX-V663, Onkyo 606, HK 254, Sony 920 or Pioneer 1018</Title>
+		<Username>Demoic</Username>
+		<Datetime>12-31-08, 01:34 PM</Datetime>
+		<Content>Which of these are going to be the best overall, all can be had under 400 except the pioneer. I'd appreciate hte pro's and con's of each.</Content>
+	</Post>
+</Thread>

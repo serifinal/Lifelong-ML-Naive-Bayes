@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic aspect ratio problem TX-P42G15B</Title>
+		<Username>fnibble</Username>
+		<Datetime>26-07-2011, 10:55 PM</Datetime>
+		<Content>Help... Have a panasonic TX-P42G15B. the fixed aspect ratios are 16:9 14:9 4:3 However 14:9 is not a narrower version of 16:9, but seems to be a widened version of 4:3. When you go from 16:9 to 14:9 you expect the image height to remain the same, but the picture width to decrease. What actually happens is that although the width of the picture shrinks, the height increases, and if you check you find that switching afterward to 4:3 the overall image shrinks again, but the aspect ratio does no change moving from 14:9 to 4:3. ie there is no true 14:9, just a butchered version of 4:3. Is this a known problem with plasmas/panasonic/this model or is there a fault. Been like this since purchase, and very annoying, because you can never get a true ratio, people are always too fat or too thin. Thanks for any help.</Content>
+	</Post>
+</Thread>

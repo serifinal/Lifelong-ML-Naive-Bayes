@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>nVidia 177.66 with video level adjustment</Title>
+		<Username>sharangad</Username>
+		<Datetime>07-15-08, 03:08 PM</Datetime>
+		<Content>It looks like a new nVidia driver for all cards is out with video level adjustments in the control panel is available. Would anyone care to try it out? Direct link: http://www.tcmagazine.com/comments.p...=20802&catid=3 Thread: http://www.nvnews.net/vbulletin/showthread.php?t=116222</Content>
+	</Post>
+</Thread>

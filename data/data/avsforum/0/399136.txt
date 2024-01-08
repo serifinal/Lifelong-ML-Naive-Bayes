@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Model Confusion LNxxAxxx vs LNTxxxx</Title>
+		<Username>bobtodavid</Username>
+		<Datetime>12-25-08, 09:43 AM</Datetime>
+		<Content>Why the two product lines? What is the difference? I've tried reading about the models but can't sort out significant differences. Can anyone tell me why two same size Samsung LCDs would have two different series of models?</Content>
+	</Post>
+</Thread>

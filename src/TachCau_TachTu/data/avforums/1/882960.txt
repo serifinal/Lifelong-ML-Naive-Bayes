@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>FAO those who have had to return Panny Plasmas- how easy was it? Who did you use?</Title>
+		<Username>billyboy2012</Username>
+		<Datetime>26-01-2012, 9:23 PM</Datetime>
+		<Content>Hi guys Im in the market for a 50-55" TV and im looking at the GT/VT models. For me- i think the green blob risks are worth it. I will be buying with a extended 5 year warranty for sure! However- in the (reasonable) event that i will have to return the TV if it develops the dreaded green blobs- im wondering how easy this will be? The last thing i want is for the TV to become faulty and i have to mess around with engineers coming over, trying to replace components, weeks without a TV etc! So- assuming you have had to return a Panny Plasma: 1) How easy was it to replace? 2) Who provided the warranty? Panny 1 Yr, Panny/RS/Lewis extended etc etc That way- i will be buying the set from the company with the most generous returns policy</Content>
+	</Post>
+</Thread>

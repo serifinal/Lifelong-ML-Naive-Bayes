@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>How do I get a micro-SIM card from Telus? (for iPhone 4)</Title>
+		<Username>phillr</Username>
+		<Datetime>06-21-2010 03:34 PM</Datetime>
+		<Content>Hello. I've never owned a smartphone before and am looking at jumping straight to the iPhone 4 when it's released. I currently have a nice phone-only plan from Telus (no data), so I do intend with sticking with them into the future. If I buy my iPhone from Apple, i've read that it'll be 'unlocked', thus able to go on to the carrier of my choice (Telus!). How would I get a micro-SIM card from Telus? Would it be less complicated to purchase my iPhone 4 through Telus instead? Would delivery times from Apple vs. Telus be similar? Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>mchris65</Username>
+		<Datetime>12-15-08, 02:13 PM</Datetime>
+		<Content>Is there any hope of getting both outputs from the 4250hdc at once? The component feed to my Sony SXRD works great for HD and non-HD output. I'd also like to run HDMI to a second HDTV (in anther room), so I don't have to run 5 cables! Hooked up to TWC in San Diego. Mick</Content>
+	</Post>
+</Thread>

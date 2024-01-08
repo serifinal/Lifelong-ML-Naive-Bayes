@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Galaxy S Vibrant (Bell) Mac compatible?</Title>
+		<Username>Salinger</Username>
+		<Datetime>08-01-2010 10:05 AM</Datetime>
+		<Content>I guess the title says it all. The Galaxy S is at the top of my list right now as my next phone when it launches in a few days. Does anyone know if it plays nice with a Mac for loading media etc onto the internal memory?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Facetime</Title>
+		<Username>JRazman</Username>
+		<Datetime>07-30-2010 03:59 PM</Datetime>
+		<Content>Working for anyone yet? Under Settings -> Phone Facetime = On Waiting for Activation My phone is activated, sending receiving data and phone calls fine. Just facetime says waiting for activation.</Content>
+	</Post>
+</Thread>

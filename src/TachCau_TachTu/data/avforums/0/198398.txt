@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CES:Samsung 2012 plasma links</Title>
+		<Username>Scooby2000</Username>
+		<Datetime>10-01-2012, 1:18 AM</Datetime>
+		<Content>So lets get the ball rolllling Got to say I'm loving the sound of this. bloomin chicken feet still but like the black.Samsung PNE8000 plasma boasts best features, improved picture | CES 2012: Televisions - CNET Blogs I'll post the vids when we have them. New vids up VIDEO: CES 2012 - Samsung Series 8 3D Plasma HDTV Launched VIDEO: CES 2012 - Samsung Series 7 Plasma HDTV Launched VIDEO: CES 2012 - Samsung Series 6 Plasma HDTV launched</Content>
+	</Post>
+</Thread>

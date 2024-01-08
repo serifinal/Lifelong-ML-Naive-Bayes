@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS64D8000 for gaming</Title>
+		<Username>IanS 01</Username>
+		<Datetime>23-01-2012, 11:52 PM</Datetime>
+		<Content>Hey World, I am seriously considering this telly (unless anyone has any better ideas) and have read great reviews for it. Only negative I can see is apparently it has lag for gaming, different reviews suggest different lag rates between 30 and 60ms. Does anyone who has this TV find it an issue? Any comments? Thanks, Ian</Content>
+	</Post>
+</Thread>

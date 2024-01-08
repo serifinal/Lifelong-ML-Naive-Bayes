@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>is it worth getting a samsung 750 over a 650 for only $150 more?</Title>
+		<Username>doctorwolf</Username>
+		<Datetime>08-31-08, 12:26 PM</Datetime>
+		<Content>so I just ordered a samsung ln52a650, but i realized i could get the 750 version for about $150 more. in your opinion, should i just get the 750 over the 650? from some of the reviews i've seen, it appears that the 650 actually has slightly higer ratings than the 750, so i'm not sure what to do.</Content>
+	</Post>
+</Thread>

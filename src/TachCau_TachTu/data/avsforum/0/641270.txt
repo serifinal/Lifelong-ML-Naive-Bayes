@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Pemko Auto Door Seals</Title>
+		<Username>Java</Username>
+		<Datetime>07-20-08, 12:10 PM</Datetime>
+		<Content>Does anyone have experience/info on the Pemko auto door seals? I am interested in the 4301 for a bottom seal for the HT door. It seems comparable to the Zero International seal, but for much less $. They both are about 1 inch thick with very similar mechanics. Pemko Zero International My specific question is on the seal itself on the Pemko. They have a sponge neoprene or "PemkoPrene" options. I've searched all over Pemko's website to see if they have any info sound barrier differences, but can't find anything. My guess would be the sponge may be better since it is all on form vs rubber/air pocket. They do claim the PemkoPren makes a better seal on uneven surfaces (mine will be on tile), so that may offset the density issue. Thoughts? Thanks, much</Content>
+	</Post>
+</Thread>

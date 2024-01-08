@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Switching to the Pre</Title>
+		<Username>codyboring</Username>
+		<Datetime>01-09-2010 12:31 AM</Datetime>
+		<Content>Just got the Droid when it was released but I still have my eye on the Pre Plus! I know the hardware specs are not as good as the Droid but I still love it! Is anyone else in the same boat as me? I am really considering switching.. Touchstone..Multitouch..Portrait Keyboard...More pocket-able.. Looking at one major negative would be going back to: VZW Nav</Content>
+	</Post>
+</Thread>

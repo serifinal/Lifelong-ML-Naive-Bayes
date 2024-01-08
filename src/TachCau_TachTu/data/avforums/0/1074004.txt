@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung BD Wise</Title>
+		<Username>arenaman</Username>
+		<Datetime>20-11-2011, 9:51 PM</Datetime>
+		<Content>Does anyone know how to enable BD wise mode when viewing a Samsung TV on sources other than Samsung blu ray players? I managed to enable this mode on the Sky HD source somehow today and the PQ was amazing. I've now lost it and can't get it back It has only ever been available between the sammy telly and blu ray but today when I switched sources from blu ray to sky it didn't disconnect the blu ray as it usually does and somehow carried the settings across sources and added BD wise as another mode option along side dynamic, relax, standard and movie. The PQ was much better than the other modes but when I switched the TV to standby it lost the BD mode when I switched it back on. Any ideas</Content>
+	</Post>
+</Thread>

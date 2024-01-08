@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fix overscan on Toshiba 53H71</Title>
+		<Username>shassard</Username>
+		<Datetime>10-28-08, 10:06 AM</Datetime>
+		<Content>Hi there, I have a Toshiba 53H71 53" rear projection TV, and am getting way too much overscan. It's particularly noticable when playing games on my Xbox360; Often I'm unable to read any text that's near the top of the screen. I'm having difficulty finding any image adjustment settings in the TV menus, and figure that it's probably something that needs to be changed in the service menu. I'm also unsure what the code is to get into the service menu. Does anyone have any tips for reducing or eliminating this problem? Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>When is the Samsung Vibrant Coming Out?</Title>
+		<Username>omega3</Username>
+		<Datetime>07-11-2010 08:40 PM</Datetime>
+		<Content>My contract with Rogers is up in August and I want this phone. When is this phone coming out? Is Bell service really that bad?</Content>
+	</Post>
+</Thread>

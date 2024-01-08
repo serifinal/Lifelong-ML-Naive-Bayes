@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Reflections and Glare</Title>
+		<Username>john10001</Username>
+		<Datetime>28-01-2012, 1:17 PM</Datetime>
+		<Content>I just wondered why all modern TV's seem to suffer from quite bad reflections and glare? I was in a store the other day looking at different models. This is under the stores special lighting to highlight the product's they are selling in the best light. Even under these conditions every single television I looked at sufferent from bad reflections and glare. Even looking at some of the higher quality plasmas from Panasonic e.g. the GT and VT versions with the better quality coating I didn't notice much of a difference from the basic models and there was still pretty bad refelections and glare. What gives? No TV's without reflections and glare? Will we have to wait for SED and FED TV's before seeing an improvement on that front? If I am spending a lot of money on a TV I don't want any reflections or glare, especially in subdued lighting in a darker room, but in bright conditions as well would be nice. John</Content>
+	</Post>
+</Thread>

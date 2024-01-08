@@ -1,0 +1,6 @@
+connecting to the panasonic viera cast server .
+we have a panasonic tx-p42g20b bought in june 2010 .
+when we installed it we connected it to the internet via an ethernet cable and to the televison signals via a terrestrial aerial as well as a freesat satellite .
+everything worked well for a little while including viera cast but suddenly the unit will not complete the network connection .
+when we check the network connection it goes through all checks except the final one , namely ` check server connection for viera cast ' and gives an error ` connection to server failed -lrb- 008 -rrb- ' .
+we know that the ethernet internet ` supply ' works because we use it -lrb- via a separate cable from an ethernet switch -rrb- for the separate sony bluray player .

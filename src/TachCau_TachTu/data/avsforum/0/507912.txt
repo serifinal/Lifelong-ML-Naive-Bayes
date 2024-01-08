@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to get spider off of CRT!</Title>
+		<Username>Napoleon D</Username>
+		<Datetime>05-12-08, 08:19 PM</Datetime>
+		<Content>At least I think it's the CRT. It started crawling across the entire screen, and decided to settle RIGHT in the middle. I'm pretty sure it's the CRT, and not the screen. I pushed the screen back and it looked as if it was being projected, despite looking like it was right on the screen. Any suggestions?? I'm hoping not to have to take the stupid screen off. Is there an easy way to get to the CRT's, or perhaps a shortcut way of getting this stupid thing off of my screen? I tried strategies like turning the contrast up - not working so far.</Content>
+	</Post>
+</Thread>

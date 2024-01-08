@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Unlocked Telus Milestone NAM (good for AT&T/Telus/Rogers/Bell)</Title>
+		<Username>hammondhui</Username>
+		<Datetime>06-07-2010 01:24 PM</Datetime>
+		<Content>For sale is a Mint Unlocked Motorola Milestone/Droid with NAM 3G that will work with AT&T, Rogers, Fido, Bell and Telus 3G. Perfect working condition 9/10. The package will come with: - Original Box - charger - data cable - headphones - 16GB Card - Comes with gold Seido case $480 shipped. Sorry no trades.</Content>
+	</Post>
+</Thread>

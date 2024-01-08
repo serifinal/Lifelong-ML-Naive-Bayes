@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Cable advice needed please - 42" Plasma</Title>
+		<Username>TheDevil2004</Username>
+		<Datetime>20-06-2011, 9:52 AM</Datetime>
+		<Content>Just purchased a 42" Panasonic Viera Plasma screen but need to replace the power cord with something around 5m in length. The current cable just looks like a lead for a kettle I think but about 2 inches from the end that connects to the tv there is a barrel like part that the cable passes through...can someone point me in the right direction please and maybe somewhere to buy it from. Also need 2 HDMI cables of the same length and want to spend no more than £10 on each, any ideas? Is the quality on these the same as with scart cables or can't I go wrong really? Many thanks for any advice.</Content>
+	</Post>
+</Thread>

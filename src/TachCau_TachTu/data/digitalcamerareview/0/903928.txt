@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot A590 eating batteries</Title>
+		<Username>dentanoeman1</Username>
+		<Datetime>05-20-2011, 10:19 PM</Datetime>
+		<Content>My Canon PowerShot A590 only lets me take a few pictures before the low battery light comes on. Any body know what going on?</Content>
+	</Post>
+</Thread>

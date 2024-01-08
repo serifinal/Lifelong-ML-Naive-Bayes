@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Trying to limit moving pieces</Title>
+		<Username>tillig</Username>
+		<Datetime>09-23-08, 05:43 PM</Datetime>
+		<Content>I have a Vista Media Center running with the DVD Library enabled playing discs ripped in VIDEO_TS format. Playback works, it's decent, but not awesome. I'd like to continue using the built-in functionality like DVD Library rather than installing additional plugins and services like My Movies (though I realize there are some benefits to them). I'm really trying to keep it simple - fewer "moving pieces" for me is better. Launching external programs with a bunch of add-ins and things that aren't terribly well integrated with Media Center... too many moving pieces. My question: Are there improvements I can make to the built-in DVD Library playback? For example, I see some folks like to install different codecs like PureVideo. Does that make all the difference? I've gathered that FFDShow can do some nice things for by adding post-processing, but from my research it doesn't look like you can get it running during DVD playback. (Maybe I'm wrong?) Registry tweaks or configuration settings I'm unaware of?</Content>
+	</Post>
+</Thread>

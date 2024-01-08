@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Has anyone seen this problem before - Panasonic PZ80</Title>
+		<Username>chrisworton</Username>
+		<Datetime>31-03-2010, 10:59 AM</Datetime>
+		<Content>Hi. My Plasma is just over a year old and it's suddenly encountered a drastic colour change problem where the black colour has changed to red. I've rang up the warranty company, Curry's WhateverHappens (Before you ask, i bought it from there because it was a very good price at the time!) who said theyre going to take the TV away for 2-3 weeks! So i was just wondering if anyone knows a fix before it gets sent away.</Content>
+	</Post>
+</Thread>

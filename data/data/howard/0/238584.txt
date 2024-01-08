@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>internet data settings input help</Title>
+		<Username>bananA_</Username>
+		<Datetime>09-19-2009 09:13 PM</Datetime>
+		<Content>im with fido but using a rogers samsung jack. i need to input internet data settings. how do i do this?</Content>
+	</Post>
+</Thread>

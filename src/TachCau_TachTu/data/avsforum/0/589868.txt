@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with overscan on LG LCD</Title>
+		<Username>igald</Username>
+		<Datetime>04-18-08, 11:00 AM</Datetime>
+		<Content>Hi, I have a PS3 connected via HDMI to an LG 32LC2D LCD. The problem is the LCD has significant overscan that crops the displayed picture. I tried adjusting the overscan option in the hidden menu (pressing the 'menu' button on the remote and on the tv for few seconds will pop up the hidden settings menu). The image flickers for a second when adjusting the overscan but nothing is changed after that. Does anyone else have this problem or knows how to disable the overscan on this LCD?</Content>
+	</Post>
+</Thread>

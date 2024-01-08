@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What you use to close the bottom of the stage?</Title>
+		<Username>softtouch_ph</Username>
+		<Datetime>11-13-08, 06:26 PM</Datetime>
+		<Content>Are you using ordinary plywood to close the bottom of the stage, or MDF or something else?</Content>
+	</Post>
+</Thread>

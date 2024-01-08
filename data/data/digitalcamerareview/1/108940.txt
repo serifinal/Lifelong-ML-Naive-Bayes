@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SX 100 Lens Error</Title>
+		<Username>edesignway</Username>
+		<Datetime>07-29-2008, 01:47 PM</Datetime>
+		<Content>My girlfriend dropped her camera, it hit on the top right of the camera case above the lens. I am assuming the lens is locked up as it is stuck in the same position, i can hear the motor trying to move it when we power on the camera. Other than sending it in to Canon for out of warranty repair, does anyone know what the lens might cost or should I just buy her a new camera? Thanks, Tim</Content>
+	</Post>
+</Thread>

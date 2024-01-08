@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>video game Artifact/effect on plasma.</Title>
+		<Username>saiyaniam</Username>
+		<Datetime>01-01-2012, 12:25 AM</Datetime>
+		<Content>What is this effect called? The effect is while turning, the images "shake" or "vibrate" The tv is VIERA TX-P42S30B plasma. This happens in all the games I play on my plasma.</Content>
+	</Post>
+</Thread>

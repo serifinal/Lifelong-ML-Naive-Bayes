@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot Gets Hot, Won't Turn On...</Title>
+		<Username>galaga6846</Username>
+		<Datetime>02-14-2010, 04:12 PM</Datetime>
+		<Content>Yesterday, a friend put some Energizer lithium batteries in my Powershot 570 A IS camera. I took a picture, turned off the power, and set it aside. Later, I went to pick it up, and it felt like was baking in an oven! Extremely hot to the touch. I took the batteries out of the camera, and they were blistered and melting. Today, I put some regular Duracells into the camera. I turned it on, but it went dead immediately. Two minutes later, it's burning hot and won't turn on at all. I took out those Duracells, replaced them with another pair of Duracells, same thing, instead it won't turn on at all, and it's still heating up. The heat seems to be coming from the side of the camera opposite to the battery terminal. It won't turn on, and unless I remove the batteries, it's extremely hot. I hope I won't have to buy a new one, anyone else have this problem, and can it be fixed?</Content>
+	</Post>
+</Thread>

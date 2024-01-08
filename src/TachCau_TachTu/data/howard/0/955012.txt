@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile will launch HSPA+ smartphone in H2 2010, 3x faster than Sprint HTC EVO 4G</Title>
+		<Username>mZimm</Username>
+		<Datetime>03-24-2010 05:28 PM</Datetime>
+		<Content>Source I know we all heard that T-Mobile is going to be launching HSPA+ this year, but what really caught my eye about this article was that it said there will definitely be a high end phone coming from T-Mobile before the end of the year. No word on maker, specs, or OS, but it gives me a glimmer of hope that there will be an Android phone that is better than the G1 that has been the leader of T-Mobile's Android pack since its release a year and a half ago.</Content>
+	</Post>
+</Thread>

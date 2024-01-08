@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PowerShot SD1200 IS Image Quality</Title>
+		<Username>mikegormley1972</Username>
+		<Datetime>02-28-2010, 12:01 AM</Datetime>
+		<Content>I just bought an SD1200 IS (my wife wanted an ultra compact), and I find the image quality to be horrendous. Printing out 4x6s with minimal cropping produces extreme pixelation. I previously used the Canon A620 (7.1MP) and loved the quality of the images, so I trusted moving to the SD1200. Anyone have any ideas why the images are so poor? The reviews all throughout the web rate this a a great camera and one that produces top images. I am not seeing it. I do have the camera set to auto, and the file format to large (full 10MP file). Please help!</Content>
+	</Post>
+</Thread>

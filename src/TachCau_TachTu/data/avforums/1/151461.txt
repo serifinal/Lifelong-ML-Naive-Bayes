@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best Tv under £400 40/42/43 inches required</Title>
+		<Username>soulsurvivor</Username>
+		<Datetime>29-12-2011, 3:15 PM</Datetime>
+		<Content>Hello, I am looking a new set for my mother and would appreciate your opinions and recommendations. The TV will be used mostly to watch poor quality SD broadcasts on sky. There is a large west facing bay window adjacent to the TV. I had recommended the Panasonic st30 for PQ but the budget can't stretch to it if 5 year guarantee and new TV stand are accounted for. In the evening the room is brightly lit by a flourescent tube so am not sure if plasma is the way to go since the screen may appear too dark for her? What do you think... If you need any other information, please ask I will do my best to answer accurately. Many Thanks SS</Content>
+	</Post>
+</Thread>

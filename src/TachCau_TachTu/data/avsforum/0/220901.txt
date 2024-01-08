@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>frame a wall</Title>
+		<Username>tnewguy</Username>
+		<Datetime>07-01-08, 12:41 AM</Datetime>
+		<Content>Is it possible to frame a wall in the basement underneath the center support beam? floating perhaps?</Content>
+	</Post>
+</Thread>

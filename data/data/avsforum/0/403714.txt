@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 42LG50 Power on issues</Title>
+		<Username>Kubensis</Username>
+		<Datetime>11-18-08, 09:58 AM</Datetime>
+		<Content>I have a 42" LG 42LG50 that I just purchased used. When I first turn the power on the light flashes then changes from red to green, as is normal, but sometimes the screen itself will stay dark. I have let it sit for quite a while and nothing will happen. If i let it sit for about a minute then turn it off and back on the TV screen lights up normally and works just fine with no problems after that. It only does this when the TV is cold and hasn't been used for hours. Sometimes after a 10 hour shift I will come home and it will work just fine. I can't seem to figure out any kind of regularity or consistency to it. Is this normal for the TV to act like this when cold. I could understand that it might need a warm up period but it doesn't seem like a normal operation to have to turn it on, then off, then back on. Am I possibly doing something wrong, and if so what would be the proper way to turn it on. If anyone has any experience with these symptoms or knows the cause and remedy for this, your advice would be greatly appreciated. Thanks in advance.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Upgrade another line for iPhone without activation on the spot?</Title>
+		<Username>newtype</Username>
+		<Datetime>04-21-2010 01:17 PM</Datetime>
+		<Content>Here's the deal: Went to the Apple store to upgrade my brother's line to an iPhone. I was planning on popping my SIM into the phone after I got it for the contract price, but the employee told me I wasn't able to do that because he had to activate the SIM within the phone. Here's the problem: My brother doesn't live next to me, so if it does activate his number within the iPhone, I assume his phone will be cut off until we can get that straightened out. Is there anyway around this? The employee told me no, and ATT told me the only way around this to buy the phone for full price. Surely I can just use the upgrade and pop my SIM into it!? Thanks in advance -</Content>
+	</Post>
+</Thread>

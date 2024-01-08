@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Old Lenses usage on Canon Rebel EOS T1i?</Title>
+		<Username>sports_equal</Username>
+		<Datetime>07-23-2010, 02:13 PM</Datetime>
+		<Content>Hi there, I recently bought the Canon Rebel EOS T1i DSLR. I have recently been given some old lens that are compatible with the Canon AE1 which is a manual film camera. The lens obviously don't fit the Rebel but is there any kind of adapter on the market that I can buy so that these old lens will work with my new camera? Thanks</Content>
+	</Post>
+</Thread>

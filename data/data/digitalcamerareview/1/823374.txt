@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Warranty for accidental damage?</Title>
+		<Username>thebajz</Username>
+		<Datetime>03-15-2008, 11:09 AM</Datetime>
+		<Content>Does anyone know of an online store that sells Canons with warranties that cover more than basic parts and labor? At Best Buy, they have a warranty that also includes drops and spills and basic accidents. However, I'm looking for the Canon PowerShot SD850 IS and they aren't selling it anymore. (At least that's what some worker at one location told me.) Any thoughts?</Content>
+	</Post>
+</Thread>

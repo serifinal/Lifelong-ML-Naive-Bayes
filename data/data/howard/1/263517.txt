@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Getting a micro-sim for my unlocked iPhone 4?</Title>
+		<Username>lmoreau</Username>
+		<Datetime>08-18-2010 07:55 AM</Datetime>
+		<Content>Hey everyone, Been searching the net but can't seem to find an answer. I have a 3GS so the large sim. Bought iPhone 4 from Apple.ca unlocked full price on launch day and it says it will be delivered tomorrow. When you check out, it doesn't let you pick a sim. My question is how does it work to get a Telus micro-sim? I'm in Toronto, I understand going to an Apple Store they'll give you one for free but Telus stores are closer and I don't care if I have to pay $10 for it. My issue though is can I go today for example and buy one so that I have it when I get the phone then just call in to switch it? Or would they deactivate my current sim and then activate the new one in the store? My issue is that I need my 3GS to work until I get the iPhone 4 as I need that phone for work and my condo concierge to tell me FedEx is here! I know I can always just get the phone then go into Telus but would be nicer to have the sim ready and waiting already</Content>
+	</Post>
+</Thread>

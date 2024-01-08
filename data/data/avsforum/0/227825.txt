@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>An online retailer for Phifer Sheerweave that sells by the yard!</Title>
+		<Username>roar</Username>
+		<Datetime>09-26-08, 06:10 PM</Datetime>
+		<Content>Over in the Dedicated Theater Design & Construction sub forum user MohaimenK stumbled upon the following site which sells the Phifer Sheerweave for a great price by the yard. I thought this should get a new thread over here in the DIY section because a lot of people come here looking for info on Sheerweave. http://www.interiormall.com/cat/nsam...=113044&t=2182 I have never purchased from them, so I can't vouge(vogue? how about vouch!) for them, but the price looks great. I know when I was trying to buy my material last year it was a lot of work to find a local vendor to sell just the material, this was before Seymour really took off and just after Rueben stopped selling his SMX material alone. Hopefully this site will work out for people looking to save some money going down the DIY path.</Content>
+	</Post>
+</Thread>

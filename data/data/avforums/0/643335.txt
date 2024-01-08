@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>set up issues</Title>
+		<Username>dlemon</Username>
+		<Datetime>14-01-2012, 10:29 AM</Datetime>
+		<Content>Hi guys, could someone give me some advice here, I have a panny st 30, I set it up with the hdmi coming from port 1 on the tv, to the input/output on my onkyo 609, and everything seemed to work, blueray ps3, sky etc, but then I was not getting the ARC of the tv for the smart tv functions, I looked on here and found out that the ARC is on hdmi 2 port on the pannys, so off the wall came the tv and plugged ithe hdmi in to port 2, well done tv back on wall, now I have to use the tv remote to manually switch it to hdmi 2, then I get sky, but no ps3, no blueray, just big blue screens. So my question is do you have to run 2 hdmi cables from the tv, one from port 1 on the telly to the amp to get my other functions, and then another one from port 2 on the telly to the amp to gain the arc, or have I wired it up wrong, can you please advise. Thanks Guys ps, this is doing my head in so any advise is welcome, as my wife thinks Im daft, of the wal,l on the wall, and so on, cheers</Content>
+	</Post>
+</Thread>

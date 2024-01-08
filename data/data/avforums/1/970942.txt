@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung ps51d6900 or ps59d6900</Title>
+		<Username>Darksider</Username>
+		<Datetime>23-06-2011, 5:28 PM</Datetime>
+		<Content>Hi, I am trying to decide if the extra 8'' are worth or not the £450 price difference. Are there any differences between the two in terms of picture quality besides the size? I have seen the 59'' model which was just stunning, is the 51'' basically the same but in a smaller package? Thanks in advance</Content>
+	</Post>
+</Thread>

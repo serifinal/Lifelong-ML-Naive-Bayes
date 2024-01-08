@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon T1i AF Video on fast moving targets?</Title>
+		<Username>Chonk</Username>
+		<Datetime>06-12-2010, 01:50 AM</Datetime>
+		<Content>Has anyone here used the T1i video with AF on fast moving targets? If so how does it perform?</Content>
+	</Post>
+</Thread>

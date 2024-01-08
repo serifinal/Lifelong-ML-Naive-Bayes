@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPad Multitasking & iPADphone videos :)</Title>
+		<Username>cadsii</Username>
+		<Datetime>05-03-2010 09:37 AM</Datetime>
+		<Content>Ok my videos just went up just wanted to share YouTube - Apple iPad Multitasking Demo run 10 apps at once YouTube - iPad VOIP Test Calls, use your iPad as a phone Enjoy....</Content>
+	</Post>
+</Thread>

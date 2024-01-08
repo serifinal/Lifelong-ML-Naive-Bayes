@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Samsung LN40A630 PC problems</Title>
+		<Username>MaxGeek</Username>
+		<Datetime>10-25-08, 11:57 PM</Datetime>
+		<Content>I bought a Samsung LN40A630 primarily as a pc monitor and for use with X360 & PS3. Its replacing my Westinghouse 37W3 which worked as a PC monitor perfectly. The problem though is that my new Samsung looks horrible over HDMI connected to my PC. Its set to 1920x1080 at 60HZ, I've turned off all of the image enhancements available (dynamic contrast, black levels,edge enhancement, sharpness reduced, etc), but it still looks bad. The color doesn't looks washed out and the text doesn't look crisp. The text also looks like it glows. It almost feels like its not doing a 1:1 pixel map, but instead trying to adjust the image. Its in Just Scan mode, because in 16:9 mode there is overscan. Any idea what I can try to fix this before I have to return it?</Content>
+	</Post>
+</Thread>

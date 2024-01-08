@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon EOS 1Ds Mark III 21.1 Megapixel</Title>
+		<Username>Canman2007</Username>
+		<Datetime>07-25-2010, 07:21 PM</Datetime>
+		<Content>Canon EOS 1Ds Mark III 21.1 Megapixel quite pricey at 7 grand, but worth every last penny...plus, you can get it for $1,000 less on craigslist and ebay, now that the downgraded Mark IV came out :-p by far, the best digital camera i've ever worked with.</Content>
+	</Post>
+</Thread>

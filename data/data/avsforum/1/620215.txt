@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help to buy new Intel CPU?</Title>
+		<Username>Bjur</Username>
+		<Datetime>09-10-08, 07:53 AM</Datetime>
+		<Content>I'm about to buy a new CPU instead of my E6600, because I want more CPU power, so I don't have to upgrade the next couple of months and I would like it to be a powersaving one too. Which CPU is recommendable of the new Wolfdales? Have been looking at E7200, E7300 or E8400, but don't know how big the difference are between the performance and power use? Right now I'm using approx 75-80 W (DG45ID, FloppyDTV, 1 TB HDD, BDC-202) and would like to keep it at that area +- a few W. I know you can use the DG45ID and an old CPU and still pull off Blu-Ray, but would also like to use it with FFDShow and Seesaw, and perhaps even Seesaw 2, if it doesn't require quad core to run smooth. What should I choose?</Content>
+	</Post>
+</Thread>

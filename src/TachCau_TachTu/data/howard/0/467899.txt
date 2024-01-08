@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile Rumoured to Launch Samsung Galaxy S on July 21!</Title>
+		<Username>darylscool</Username>
+		<Datetime>06-10-2010 01:10 PM</Datetime>
+		<Content>http://www.gsmarena.com/samsung_gala...-news-1723.php Looks like the iPhone, AND it works on AWS! Closest thing to the iphone! review: http://www.gsmarena.com/samsung_i900...review-478.php</Content>
+	</Post>
+</Thread>

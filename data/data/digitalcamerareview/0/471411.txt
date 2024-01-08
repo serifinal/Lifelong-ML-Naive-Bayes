@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Needs Regeneration in Optics</Title>
+		<Username>vijayshimla</Username>
+		<Datetime>03-15-2008, 05:23 AM</Datetime>
+		<Content>Most of Canon top models are long in tooth and need to have better specs. S5IS- i think should have a 12X Zoom starting from 28mm eq. A series Powershots need to start from 28 or 30mm eq. and i think canon must move all compact digital ELPH,s to 28-140mm a la W-150, W-170 from Sony. 35mm is just not wide enough wide and 28mm is almost a must. Lots of Canon clients will migrate to Panasonic and Sony- who have proven themselves more fleet footed!</Content>
+	</Post>
+</Thread>

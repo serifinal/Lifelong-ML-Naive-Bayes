@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Other rooms...</Title>
+		<Username>Mike_WI</Username>
+		<Datetime>10-23-08, 11:41 AM</Datetime>
+		<Content>Last updated: 9/23/11 on 8/29/10 @ JVC RS20 937 hours - bumped up lamp to "high" mode and turned apeture from 0 to -3. * LINK to HT thread Pics overview of basement and HT (10/17/09) * Index (Indexing idea from oman321's thread) (...a work in progress...) (av123 forum thread - 1080p projector and Screen Questions &#8211; How to Choose? - link - starting from 2-20-08) - "My HT system(s)" - "The expert&#8217;s mind thinks it knows everything and therefore sets up extra standards that are not really necessary.&#8221;</Content>
+	</Post>
+</Thread>

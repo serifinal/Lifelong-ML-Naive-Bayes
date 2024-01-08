@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon new D-SLR coming!</Title>
+		<Username>alan328</Username>
+		<Datetime>09-05-2008, 08:06 AM</Datetime>
+		<Content>I saw a new banner and mini site on DCUser today ~ seems that is Canon's next D-SLR release ~ http://dcuser.net/canon/canon-destined-evolution.html</Content>
+	</Post>
+</Thread>

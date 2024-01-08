@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung smarthub help</Title>
+		<Username>wbilling</Username>
+		<Datetime>26-12-2011, 11:48 AM</Datetime>
+		<Content>Hi, I have just bought a PS51D6900. The picture etc is superb but I have a few problems. 1 No web browser even though the reviews I have read says there is one. 2 Cannot get the tv to link with my DELL laptop on Wi fi. The smarthub is showing the laptop but not letting me to link up.I have a bt homehub. Not sure if the issue is with the tv, homehub or laptop. Any help really appreciated.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon leads in digital camera sales</Title>
+		<Username>Eliwood</Username>
+		<Datetime>04-15-2005, 12:39 AM</Datetime>
+		<Content>Go Canon! Canon - 17.1% (12.63 mill) Sony - 16.7% (12.32 mill) Kodak - 11.8% (8.71 mill) http://news.com.com/Canon+leads+in+d...html?tag=st_lh</Content>
+	</Post>
+</Thread>

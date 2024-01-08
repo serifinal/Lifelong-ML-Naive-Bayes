@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pay & Talk: Question about Unlimited Calling Feature</Title>
+		<Username>joeforshow</Username>
+		<Datetime>12-09-2009 11:45 AM</Datetime>
+		<Content>I just activated my TELUS prepaid account yesterday (CDMA) for one reason, to use the $7 Unlimited Caling to One Number. My set up is quite simple: I have a vBuzzer VOIP Number that people will call me through it is forwarded to my TELUS prepaid account therefore, i have unlimited incoming calling. Sounds simple right? I test out the call and it charges me. I turned the Caller ID pass-through off and it still charges me. I tried 4 different configurations, all of them charged me! Does TELUS have a system in place that KNOWS i am forwarding a call via that number? Is there any way around this?</Content>
+	</Post>
+</Thread>

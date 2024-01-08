@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Gaming on the Panny VT30</Title>
+		<Username>martpu</Username>
+		<Datetime>07-07-2011, 8:08 PM</Datetime>
+		<Content>Guys, Most of the VT30 reviews I've read state that input lag on this TV is just as fast in any picture mode (providing IFC is turned off) as it is Game mode. Therefore, given that Game modes apparently affect how good a game looks due to the removal of all the video processing, now that it seems using Game mode isn't a necessity, do you still use Game mode when gaming or do you have another picture preference and if so which one and why?!</Content>
+	</Post>
+</Thread>

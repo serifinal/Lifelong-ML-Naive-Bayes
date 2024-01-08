@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>plasma burn in</Title>
+		<Username>michael454rs</Username>
+		<Datetime>15-07-2011, 4:02 AM</Datetime>
+		<Content>hey everyone first post here. i have a problem with a 50 in plasma that i bought. it seems that its burning every image thats stays still for even a couple of second, even dvd menus get burnt in. having a tech come take a look at it. geek squa called me back and said that i had to contact samsiung because they where having trouble with two models of tv sets and mine was one of them. hopefully i can get ir replaced they told me that i pay the difference on a new tv set. verry dissapointed on my current set. anyone else has experiance this problem?</Content>
+	</Post>
+</Thread>

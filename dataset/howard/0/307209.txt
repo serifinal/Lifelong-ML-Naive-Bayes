@@ -1,0 +1,7 @@
+samsung vibrant from tmobile internet problem .
+so i have a samsung vibrant from tmobile unlocked .
+i can browse the web but i cant connect to any email servers nor can i download anything from the internet .
+phone and txt is working fine .
+i used these settings rogers-core-appl1 .
+apn wapuser1 wap mms http://mms.gprs.rogers.com 10.128.1.59 80 mmc 302 702 any ideas what 's wrong ?
+cheers

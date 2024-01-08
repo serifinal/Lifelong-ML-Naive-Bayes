@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Powershot SD 700 IS vs SD 800 IS</Title>
+		<Username>Jairus Z</Username>
+		<Datetime>10-23-2006, 05:26 PM</Datetime>
+		<Content>I have already purchased the 700 IS and just now saw the 20% off deal on the 800 IS which makes the price difference a mere $50. From what I read the 800 IS has the following upgrades: Wideangle lens Higher LCD resolution Longer battery life Faster processor Is there anything else I'm missing and if so does these upgrades warrant an extra $50 for the upgrade? I heard about the quality being worse than the SD 700 IS but with this being my first ever camera purchase and not knowing anything about digital photos, would I notice the difference?</Content>
+	</Post>
+</Thread>

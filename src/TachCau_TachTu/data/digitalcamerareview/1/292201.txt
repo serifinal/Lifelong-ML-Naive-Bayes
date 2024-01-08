@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Should I cancel my order?</Title>
+		<Username>talin</Username>
+		<Datetime>01-02-2009, 04:09 PM</Datetime>
+		<Content>Hi, After researching for the last several days, I finally decided to get the Canon Powershot A590 IS. I think it's a good camera from what I've been reading, but I'm starting to wonder if I made a mistake. I'd really prefer an ultra compact, and Newegg has a good price right now on the Canon Powershot SD1100. I'm going on a trip overseas soon and I'd really prefer something I can just fit in my pocket, but I will only be taking snapshots of my trip and friends. I could really use some advice please. What do you think?</Content>
+	</Post>
+</Thread>

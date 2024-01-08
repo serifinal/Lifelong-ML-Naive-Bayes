@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma questions.. (me again)</Title>
+		<Username>adamknox</Username>
+		<Datetime>19-07-2011, 11:41 PM</Datetime>
+		<Content>I received my 46" gt30 yesterday and I don't know if I'm being fussy, or having problems.. I have a few questions, could anyone help? Q1. When watching blu rays (from 6-7-8 feet away) I can actually see.. dots. For e.g. in Dark Knight (blu ray on ps3) When the joker storms Wayne party and batman shows up. When the light shines onto his cowl you can see the black is made up of tiny multiple coloured squares rather than a blended in colour. Am I sitting too close/Bought a TV too big? The brighter I make the screen the worse it gets. Another e.g. is in kickass. When Big daddy is sat painting the camera hovers over a drawn face which is made up of browns. In the brown you can actually see pixels moving about. When you pause the blu ray the pixels pause too. This isnt a pictyure from my tv its one i found on the net. While my tv isnt as bad these are the 'dots' im talking about.</Content>
+	</Post>
+</Thread>

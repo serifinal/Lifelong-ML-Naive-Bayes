@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 3D glasses really bad for kids under 3yrs?</Title>
+		<Username>dspit1664</Username>
+		<Datetime>18-01-2012, 5:35 AM</Datetime>
+		<Content>Hi all, Got a ST30 and 2 pairs of 3D glasses and read the destructions that it's not advisable that children under 6 use them. Wondering if anyone who has kids younger than the instruction recommendations and let them use them and what their experience was? I fully understand that this is their own experiences and can't be held in anyway liable etc etc... Just wondering if it's really as bad as it makes out as one of the main reasons I thought of 3D was for kids films.</Content>
+	</Post>
+</Thread>

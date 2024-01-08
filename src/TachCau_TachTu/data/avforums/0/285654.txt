@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panny plasma dithering ruining the experience</Title>
+		<Username>Jarofeyes</Username>
+		<Datetime>11-03-2011, 3:52 PM</Datetime>
+		<Content>Hey, I recently bought the Panny plasma TX-P42S20B after returning an LED (37LE7900) which had terrible black levels and poor viewing angle. I certainly haven?t been dissapointed in that regard but there is something that is bothering me, ?dithering?. up close (less than a foot) it looks like analogue snow. The problem is from 5 foot (normal viewing distance for 42&#8243;) I can still notice it pretty heavily making even the ps3 menu and TV menu look really grainy. This inherent grain definitely exacerbates the natural grain of blu ray movies, making a double layer of grain. For example ? When I pause a blu ray the blurays natural grain freezes then I can see the tvs natural dither underneath. I know this because i?ve watched all my blu rays on both tvs and although the black levels really enhance viewing pleasure on the plasma the extra grain certainly does not ? it has become very distracting. Is it normal to see dithering at 5 feet, with 20/20 vision? sitting even further back helps a bit but then I lose the HD detail. I didn?t buy a 1080p to sit at the other end of the room. Your advice is much appreciated.</Content>
+	</Post>
+</Thread>

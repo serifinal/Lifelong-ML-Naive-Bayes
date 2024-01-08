@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>External HDD to use with a Wii & TV.</Title>
+		<Username>gilesy</Username>
+		<Datetime>06-06-2011, 11:31 AM</Datetime>
+		<Content>Hi could someone tell me if it's possible to partition a 2TB external HDD for a wii to use one half and a Panny TX-P50G20 to use the other, Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>After Jailbreak, camera is not saving pictures</Title>
+		<Username>iptaylm</Username>
+		<Datetime>10-05-2009 07:19 AM</Datetime>
+		<Content>and my video recorder is not working. Any ideas on how to fix? I can take pictures but they do not save to the phone. I can also switch to the video record but when I press the red record button it just freezes.</Content>
+	</Post>
+</Thread>

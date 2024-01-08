@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Things to consider between Marantz VP-15S1 and Sony VW-60</Title>
+		<Username>Minge</Username>
+		<Datetime>10-30-08, 08:24 AM</Datetime>
+		<Content>Please let me tell you where I am and where I think I am going. I have a totally light controlled cave that is 14 X 28 and I sit about 14 feet away from a 92 inch Stewart Firehawk screen. I have a Sony HS-51 projector and it is time to step up to a 1080p projector. I have my search narrowed between the Sony VW-60 and the Marantz VP-15S1. I know, I know different technologies and different price points that is why I seek some guidance, so humor me. I read a thread awhile back were Jason of AVS said once you have been a DLP guy or a LCOS guy it is hard to switch technologies. While in its day the Sony HS-51 was a good entry level projector it is clearly yester-year technology. I do like a smooth film like picture but find myself wanted more of pretty much everything with my current set-up. Better black, better contrast, well lets just face it, a better overall HT experience. So lets put the dollars aside for a moment and please give me your take on the pro's and con's of each technology and if you have first hand experience with these two projectors that would be even better. I know fan noise on the Marantz may play a small factor as I sit directly under my projector. I do not think it is marketly more noisy than my current HS-51. I seriously doubt I will find anyplace that I can see these units side by side. I have seen good DLP set-ups before and like Jason said the DLP would take some getting used to as the picture to me seems find of unnatural to me. As always, I thank everyone for the input.</Content>
+	</Post>
+</Thread>

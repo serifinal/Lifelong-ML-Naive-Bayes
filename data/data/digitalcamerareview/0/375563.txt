@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Replacing the LCD screen in my SD790IS help?</Title>
+		<Username>atek3</Username>
+		<Datetime>02-24-2009, 10:42 AM</Datetime>
+		<Content>About 2 years ago I replaced the LCD screen in my canon SD400, no big whoop. Due to some circumstances beyond my control, my canon SD790IS got ran over by a car. The camera amazingly survived with only a cracked LCD. I disassembled the exterior of the camera and removed the old LCD screen, but the ribbon cable on the 790IS is in a substantially different place than on the SD400... I have no idea how to connect a new one. Do I need to remove the shutter button to access the ribbon connector? thanks, atek3</Content>
+	</Post>
+</Thread>

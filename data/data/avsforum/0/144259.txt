@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My midi tower HTPC build thread (not my first build but my first thread about one :)</Title>
+		<Username>nero041001</Username>
+		<Datetime>11-28-08, 04:49 PM</Datetime>
+		<Content>Thread updated with full system build photos (quite a few of them so 56k, if that still exsiste, beware ) I have been a member here for quite some time now, and have learned all I know about FFDSHOW from 8:13 in that great guide. I have not yet done a build thread including pics, comments and reviews of any of my systems that I have had, upgraded and built since I bacame a member, so I have decided since I needed a new case due to a new power supply I had advice on, and thought I'd share my progress with you lot. (and hopefully it will help some of the new members and those of you wanting to build a HTPC out a bit, and give you some ideas) Heres my kit list: Internal 5.25" iMon remorte and VFD display corsair tx 650w power supply 250gb seagate hdd IDE 500gb samsung hd502ij sata II 1tb samsung spinpoint F1 sata II 512mb sapphire radeon hd 4850 GDDR3 4gb (2x2gb) corsair ddr2 800mhz memory amd athlon 64 x2 duel core processor 6000+ socket am2 (3ghz) Creative Soundblaster Surround 5.1 External USB Soundcard CLE EGS Leadtek Winfast pvr 3000 Logitech Mx 5500 cordless bluetooth desktop 16x duel layer dvd writer/re-writer nec asrock am2nf6g-vsta motherboard Watch this space.... tris</Content>
+	</Post>
+</Thread>

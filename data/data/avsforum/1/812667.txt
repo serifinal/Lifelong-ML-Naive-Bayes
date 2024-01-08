@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Official Pioneer 5020 vs Panny 800U thread</Title>
+		<Username>stepyourgameup</Username>
+		<Datetime>07-07-08, 10:56 AM</Datetime>
+		<Content>I believe this is a good thread for many of us who are trying to decide between the two. I know the blacks are better on the Pio but it costs about $500-$700 more. Panny might have an advantage in color accuracy especially with the THX cert. I am not concerned with connectivity or how well they look in a lighted room, just PQ black levels, processing, etc. I have not seen any reviews on the 5020 but the 5080 received very good reviews from sites such as Cnet. I cannot do a direct compare as I am not very close to a BB or CC and nobody in my hometown even has a 800U or 5020. Please limit your posts to these two models only.</Content>
+	</Post>
+</Thread>

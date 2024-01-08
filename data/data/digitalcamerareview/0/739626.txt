@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LCD Problem A570 IS</Title>
+		<Username>crimmelcp</Username>
+		<Datetime>12-23-2007, 10:41 AM</Datetime>
+		<Content>New Camera A570 IS Just got the camera and learning how to use it. If I do not use the flash the LCD refreshes within a second or two of taking a picture and allows me to take another picture. If I use the flash, it shows the preview of the image that was just taken. But the LCD goes black and never refreshes so that you can take another picture, You have to press the display 5 times to get the LCD to refresh. Any Idea what could be causing this. Thanks Charlie Crimmel</Content>
+	</Post>
+</Thread>

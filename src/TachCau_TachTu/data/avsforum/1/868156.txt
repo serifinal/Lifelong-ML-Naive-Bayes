@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help - Receiver Died - where to start?</Title>
+		<Username>caribbeansun</Username>
+		<Datetime>09-13-08, 06:27 PM</Datetime>
+		<Content>My old Denon gave up the ghost tonight and now I don't have sound for my main TV not to mention the HT. I'm out of touch with the new tech so I'm hoping some of you might point me in the right direction as the DW will want her Sunday night TV which means I'm buying tomorrow (less than ideal). I have a 5.1 system (no chance of changing that) with Paradigm Studios across the front and as surrounds with an HSU sub. I was also looping a Russound through the Denon so that it would play through the HT system as well as in 6 other zones. Would prefer to stay under $1,000 if possible. It's also time to step up to a Blu-ray so that'll be on the shopping list as well but not urgent at all. I guess I'm predisposed to Denon but I've read a number of threads, stickies and the information is overwhelming. Is there such a thing as say a top 5 list to help narrow it down? Thanks in advance.</Content>
+	</Post>
+</Thread>

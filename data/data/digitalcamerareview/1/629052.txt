@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best Canon camera from 300 to 350 USD</Title>
+		<Username>anhhung81</Username>
+		<Datetime>05-18-2007, 02:24 AM</Datetime>
+		<Content>I want to buy new digital camera from Canon, please give me to choice new one from 300-350 USD. Thanks.</Content>
+	</Post>
+</Thread>

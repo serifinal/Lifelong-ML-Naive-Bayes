@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung LN52A750 Series 7's are out.</Title>
+		<Username>E-A-G-L-E-S</Username>
+		<Datetime>03-04-08, 11:57 AM</Datetime>
+		<Content>4ms is new, correct? Quite a price tag at CC though</Content>
+	</Post>
+</Thread>

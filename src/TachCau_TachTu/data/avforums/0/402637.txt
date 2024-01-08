@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Have you suffered from screen burn and/or image retention?</Title>
+		<Username>chedmaster</Username>
+		<Datetime>19-09-2005, 2:57 PM</Datetime>
+		<Content>A very confusing and off-putting subject for potential buyers, have you ever been affected by screen burn? Precautions: Below 50% contrast/brightness and Dynamic or similar OFF No precautions: Dynamic or similar ON and High Contrast/Brightness edit: post your plasma make/model as well if you want</Content>
+	</Post>
+</Thread>

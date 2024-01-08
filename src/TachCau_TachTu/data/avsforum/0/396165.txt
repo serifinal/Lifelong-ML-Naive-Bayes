@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>what is the difference between the Sony SR10 and the SR12?</Title>
+		<Username>marwan</Username>
+		<Datetime>06-10-08, 06:01 PM</Datetime>
+		<Content>All i know is that the S10 is slightly smaller, has only 40GB HDD and a 4megapixel still shots in comparison to the SR12 which is slightly larger, comes with 120GB HDD and a 10megapixel still shots. is there any other difference? anything in terms of picture quality? is the SR10 full 1920x1080? or is it 1440x1080? if they're the same, i wish i went for the SR10 since it's smaller, and 40GB is more than enough for me, but none the less, my SR12 produced jaw dropping picture quality and sound on my 52" Bravia, which runs at 1080p since i run my videos using my PS3. thought on the differences? thanks! edit: are there any Sony cams that record in 1080p native? i remember somewhere on some tech blog that sony has one in the works(if not released yet), thanks again! marwan,</Content>
+	</Post>
+</Thread>

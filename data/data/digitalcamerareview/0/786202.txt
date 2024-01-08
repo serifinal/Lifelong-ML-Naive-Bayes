@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My SD will not format correctly in my S5</Title>
+		<Username>aceofharps</Username>
+		<Datetime>12-27-2007, 09:20 PM</Datetime>
+		<Content>New guy here. Hoping for some help. Received a new S5 Is for Christmas. Bought a 2gb PNY SD card. Did the slow format thing with the card in the camera. It took only about 1 second to complete. The card works find in the camera, but, the card cannot be read with a card reader. The card also worked fine in my friends Palm Pilot and could be read on his computer's card reader, which contains "Palm" software. Not sure what's going on here. The small SD card, supplied with the camera, reads find. I think my new 2gb card is not being formatted correctly by my camera. Does that make sense? Any other ideas? Thanks, Aceofharps</Content>
+	</Post>
+</Thread>

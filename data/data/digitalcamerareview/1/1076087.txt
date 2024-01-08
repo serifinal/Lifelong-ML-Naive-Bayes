@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>How prominant is this E18 lense error issue now?</Title>
+		<Username>artfreak</Username>
+		<Datetime>11-06-2008, 11:00 PM</Datetime>
+		<Content>Hello I have an old digital we rc'vd as a incentive gift from work its a kodak easy share 4mp! I need to upgrade but cant get what I want which would be a DSLR since I used to amatuer photography with my old nikon 6006 slr 35mm. Anyway...Im using a gift card to put toward a digital camera and decided on either the canon powershot SD 790IS or the 1100is. BUT...I found so many things googling about the e18 error thing Im thinking maybe not? Im disapointed as a canon is what Id wanted because my scanner and printer are awesome I just thought hey why not the canon cameras. How prevalent is this issue now? Thanks for info... PS: any comparable cameras in that price range (200 or less) of other makes then? I want macro and optical zoom, and stablization. video camera feature would be nice too not to fancy tho'. Thanks</Content>
+	</Post>
+</Thread>

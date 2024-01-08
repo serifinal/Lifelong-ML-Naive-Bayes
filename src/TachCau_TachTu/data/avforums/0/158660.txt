@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer 427 settings thread</Title>
+		<Username>avfr3ak</Username>
+		<Datetime>17-11-2006, 7:28 PM</Datetime>
+		<Content>I thought it might be useful for owners of a 7-series Pioneer plasma screen to start a dedicated thread for the settings of Pioneer 427 / 507. Preferably no run-in period settings. Here´s mine for freeview (input 1) and DVD (input 3) Contrast 23 Brightn 0 Colour -5 Tint 5 Sharpness 0 Colour temp Mid High Colour Space 2 Colour management: Y -10, others 0 DNR and MPEG mid BNR on Dynamic contrast off Black level on ACL off Gamma 1 100 hz</Content>
+	</Post>
+</Thread>

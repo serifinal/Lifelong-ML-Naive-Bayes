@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New plasma TV owner - Questions</Title>
+		<Username>zaza143</Username>
+		<Datetime>31-12-2011, 9:22 AM</Datetime>
+		<Content>I am now a new owner of a Panasonic GT30 (uk model) and have read alot of information about the TV from various forums worldwide. Some questions to ask.... 1. Is it necessary to do the panel break in slides for 100+ hours? 2. There's a thread relating to picture settings for the US model of this TV, anyone know of any settings for the UK model? 3. US firmware 2.1 Luminance patch?, 2.2 update? Im using UK firmware, does this apply to my TV? If anyone can answer these questions, I (and hopefully other members) will be very greatful for this information.</Content>
+	</Post>
+</Thread>

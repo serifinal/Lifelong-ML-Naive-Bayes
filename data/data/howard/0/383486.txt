@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Google adds ETF to Nexus One above that of T-Mobile.</Title>
+		<Username>Baldilocks</Username>
+		<Datetime>01-12-2010 09:18 AM</Datetime>
+		<Content>http://www.engadget.com/2010/01/12/g...us-o/#comments What are your thoughts on this little tidbit of news?</Content>
+	</Post>
+</Thread>

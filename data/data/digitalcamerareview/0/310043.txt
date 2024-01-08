@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot SX200 iS</Title>
+		<Username>steverjohn</Username>
+		<Datetime>01-20-2010, 11:07 AM</Datetime>
+		<Content>Help! I've recently bought a new Canon Powershot SX200 IS. And whilst well pleased with it I cannot for the life off me turn off the stitch assist feature! I've obviously tried the manual and it doesn't seem to work. Any ideas? Many thanks</Content>
+	</Post>
+</Thread>

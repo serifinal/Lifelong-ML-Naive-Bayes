@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42ST30 Specific settings</Title>
+		<Username>silkyandy x</Username>
+		<Datetime>14-02-2012, 12:40 PM</Datetime>
+		<Content>When setting my st30 up I find any brightness level above 50% lowers the black level but from calibration shots I need to move two clicks right to get the final box a lighter shade. Any tips on this and can any service menu adjustments help with this? I'm only at about 50 hours will the extra run in time help? Any advice from a seasoned owner would be massively appreciated so thanks in advance. Regards, Andy</Content>
+	</Post>
+</Thread>

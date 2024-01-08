@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't Connect to PagePlus after factory reset</Title>
+		<Username>foolonthehill</Username>
+		<Datetime>11-04-2009 08:52 AM</Datetime>
+		<Content>Hi...I recently reset my Samsung Smooth to its factory settings and now I can't get connected to PagePlus. After the reset I dialed *22890 and received a successful activation message. However when I try to make a call it connects to Verizon instead of PagePlus and says they cannot identify my phone. The home SID is correct and so is the PRL. I don't know if the MIN is correct since I never paid any attention in the past. However, my directory number is correct so I assume the MIN is also. Any ideas??</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>IPhone 3gs vs ATT 3g Nexus One</Title>
+		<Username>wacktool</Username>
+		<Datetime>03-22-2010 08:27 PM</Datetime>
+		<Content>Im curious to hear from someone that has been using the Iphone 3gs on Att and now is using the att 3g version of the Nexus one. What is the difference between the call quality, dropped calls, and web browsing?</Content>
+	</Post>
+</Thread>

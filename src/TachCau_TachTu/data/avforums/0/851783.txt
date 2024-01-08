@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PV500 Fault/Problem Thread</Title>
+		<Username>greyhorse</Username>
+		<Datetime>21-06-2005, 10:13 AM</Datetime>
+		<Content>First of all if you aint got a PV500 then dont post here.............................. Spoken with Panasonic engineer regarding the contrast change, although I cant see it on my screen now, no matter what I watch. Panny have also emailed me..... I would also stress that there is not an inherent defect with this model and there is therefore no reason why the problem that you are experiencing cannot be remedied by a qualified engineer. I would recommend that you refer back to your retailer, who will be able to organise an inspection. Otherwise I can arange for a Panasonic field engineer to inspect your screen within the next 4 working business days. Only problem is cant see the contrast change anymore, I have put the set into cinema mode, contrast and brightness set 25% and put colour managment ON. Hey presto its not doing it. Also when I tun the set on I get several flashes from the red LED maybee 4-5 is this normal ???</Content>
+	</Post>
+</Thread>

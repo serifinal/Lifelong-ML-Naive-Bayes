@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Minutes purchase question</Title>
+		<Username>t-4-2</Username>
+		<Datetime>12-03-2009 06:32 PM</Datetime>
+		<Content>Can I purchase minutes online and have them automatically credited to my mom's tracfone ? My dad is in ICU and she's running low on minutes with updating everyone with his progress. I figure if I can do this for her, it would be one less thing to worry about. If I can, where is the best place to purchase from? I'm pretty sure she has dmfl. Thanks.</Content>
+	</Post>
+</Thread>

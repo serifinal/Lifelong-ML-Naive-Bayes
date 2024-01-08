@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>I need help; first time buyer</Title>
+		<Username>arcticmonkesy29</Username>
+		<Datetime>06-05-2010, 09:07 PM</Datetime>
+		<Content>All right so im stuck between buying a Canon Rebel XSI or a Nikon D3000. The Canon comes with a bag, 4 gb memory card, and all the other stuff in the kit along with a 18-55mm lens and a 55-250mm lens all together for $759.00 + tax. The Nikon, on the other hand, is only $500 but it just comes with the kit and an 18-55 mm lens. This is my first DSLR camera, and im torn between these two. Any advice is appreciated. Thanks!</Content>
+	</Post>
+</Thread>

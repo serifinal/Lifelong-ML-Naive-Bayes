@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Wall Mount advice for 50 inch Plasma Panasonic 50PZ80</Title>
+		<Username>opencube</Username>
+		<Datetime>03-06-2011, 3:26 PM</Datetime>
+		<Content>Firstly apologies if this is placed in the incorect forum. I felt this place is slightly busier than the av furniture thread so thought i may get some rapid help! Looking to wall mount my 50inch plasma to a solid brick wall. I have seen this: Duronic PLB123M EXTRA SLIM Adjustable Black Wall: Amazon.co.uk: Electronics despite mostly rave reviews there are some comments on there say that the buyers are dubious of it being able to hold 50" screen despite it being ... this concerns me as Im looking to put the screen on the wall to put it out of harms way for my 10 month daughter. I have found this which offers a spec of holding upto 55inch Duronic PLB103M-K Black Universal 32"-55" LCD/Plasma: Amazon.co.uk: Electronics perhaps this may be more secure...however I like the thought of the first one as it is slim and fits up against the wall. Is there a huge difference in wall mounts quality wise or is it a marketing gimmick to pay loads of money for them? Would appreciate any feedback.</Content>
+	</Post>
+</Thread>

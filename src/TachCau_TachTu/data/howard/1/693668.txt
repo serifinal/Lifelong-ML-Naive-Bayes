@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Motorola droid, enV touch, or Motorola devour</Title>
+		<Username>yosnowman</Username>
+		<Datetime>05-26-2010 05:19 PM</Datetime>
+		<Content>Motorola droid, enV touch, or Motorola devour of these three phones i just wanted to know a couple questions 1. Can these phones be fully flashed to ntelos (mms and internet)? 2. Will i need a data/smartphone plan for any of these phones? 3. Which of the three phones are better? help is much appreciated!</Content>
+	</Post>
+</Thread>

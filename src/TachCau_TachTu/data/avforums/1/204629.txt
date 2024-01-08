@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Large Plasma TV, distance and playing Wii</Title>
+		<Username>d00mo</Username>
+		<Datetime>01-01-2012, 2:27 AM</Datetime>
+		<Content>Hi, I am gonna buy a new TV and the viewing distance is about 5 m (= 17 feet). I am considering a 64" Plasma, Samsung PS64D8005. I have two questions. 1. Is a 64" TV suitable for this distance? 2. The TV will be used a lot for playing Wii. Will the picture be totally unviewable with a TV at this size? The Wii doesn't support HD. Thanks! And a happy new year!</Content>
+	</Post>
+</Thread>

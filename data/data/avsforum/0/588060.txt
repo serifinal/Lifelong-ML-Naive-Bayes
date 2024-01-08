@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>What Codecs do I need and how do I set it up?</Title>
+		<Username>blimes</Username>
+		<Datetime>06-20-08, 03:48 PM</Datetime>
+		<Content>I just got my HTPC all set up and working fine now I have some mkv files that I would like to watch in Vista Media Center what codecs do I need to accomploish this. I would like my DTS sound to work I have a optical cable hooked up directly from the computer to the reciever how can I get DTS sound out of that. Thank you for your help.</Content>
+	</Post>
+</Thread>

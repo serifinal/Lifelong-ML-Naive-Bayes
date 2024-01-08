@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon powershot SD900 lens won't retract</Title>
+		<Username>indianalee</Username>
+		<Datetime>07-05-2008, 03:24 PM</Datetime>
+		<Content>Hello, I have a canon powershot SD900 and the lens won't retract. I push the power button and it just clicks and the screen says: lens error restart camera. does anybody know how i can fix this myself.</Content>
+	</Post>
+</Thread>

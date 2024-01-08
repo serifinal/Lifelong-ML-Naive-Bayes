@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help! Help! My Camera jumped into hot curry!</Title>
+		<Username>indianadoc</Username>
+		<Datetime>07-06-2007, 10:41 AM</Datetime>
+		<Content>It is no joke.I dropped my camera into hot curry... I am an ardent food blogger and while taking snaps of one of my recipes, my Canon Powershot G7 fell into the hot curry and ever since is not functioning.It switches on,but no picture comes into focus,(I cannot see anything on the display screen)the lens comes out but doesnt go back when I try to switch off, nor does the camera switch off unless I remove the battery.Every control seems to be a mess, nothing is working...Please help...if you have any valid advice, I shall be very grateful...</Content>
+	</Post>
+</Thread>

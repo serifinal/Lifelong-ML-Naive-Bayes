@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot SD1300 video quality</Title>
+		<Username>vitaluna</Username>
+		<Datetime>05-19-2010, 11:30 AM</Datetime>
+		<Content>I purchased a Canon Powershot SD1300 digital camera a couple of days ago. I've taken some lovely pictures with it, and I'm enjoying it very much. A strange thing happens with the video though. The picture is nice and clear (though a wee bit jerky) and the sound is very good, but the two things don't match up: the picture lags a little behind the sound. Is this something I can fix, or is it just the way this particular camera shoots video? Please advise. Thanks, vitaluna</Content>
+	</Post>
+</Thread>

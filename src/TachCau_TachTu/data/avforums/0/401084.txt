@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma - Is It Dead?</Title>
+		<Username>Decadence</Username>
+		<Datetime>25-07-2011, 8:30 AM</Datetime>
+		<Content>We're having some building work done at the house and the builder needed to turn the power off while he cut the connection from the house to the garage so it can be demolished. The wife said it was not a problem so he flipped the switch at the fuse box. Problem is that she had left the TV on in the living room and when he turned the electricity back on again the TV has stopped working and won't turn on. It's a 42" Panasonic plasma if that helps? Is it broken? I think so but I am at work so can't check. Is there a reset button or something, I don't really want to have to buy a new TV if I can help it. Thanks in advance.</Content>
+	</Post>
+</Thread>

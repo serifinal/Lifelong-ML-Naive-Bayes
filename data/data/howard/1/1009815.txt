@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Where to buy sealed, factory unlocked phones with warranty?</Title>
+		<Username>Liminal</Username>
+		<Datetime>11-11-2009 04:50 PM</Datetime>
+		<Content>I'm in need of a new unlocked phone, but I'm not having much luck finding "just a phone". I want an unlocked phone in the sealed, original factory packing, that has never had anything whatsoever to do with any carrier, and has a full manufacturer warranty. In other words, I want to buy a phone like I buy anything else. Is this even possible? I see I can buy that way directly from Nokia on their website (and one aging Motorola on theirs), but I was hoping to find a retailer with a variety to choose from (and hopefully some competitive pricing). Does anyone know if such a retailer exists? Or am I stuck with Nokia (which I'm not too fond of)? Thanks!</Content>
+	</Post>
+</Thread>

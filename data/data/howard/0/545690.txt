@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Remove Locked Apps From At&t E71x (not demos but main menu icons)</Title>
+		<Username>mindfrost82</Username>
+		<Datetime>12-16-2009 12:44 PM</Datetime>
+		<Content>I just got the E71x the other day and so far I'm really happy with it. I got a developer's certificate so I can sign apps, I installed X-Plore and removed all the demo apps just fine. There are a few At&t icons in the Main Menu that seem to be stuck with no option to move them or delete them. I would like to know if there's a back way into this so I can just delete them. -Shop Games -Shop Apps -Shop Music -Music Apps I also kept WikiMobile on there and can't seem to be able to move it either.</Content>
+	</Post>
+</Thread>

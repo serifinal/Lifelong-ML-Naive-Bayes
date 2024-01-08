@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>looking to buy a 50" plasma.. have an old Panasonic 42"</Title>
+		<Username>marjrie</Username>
+		<Datetime>29-07-2011, 5:18 PM</Datetime>
+		<Content>We have a 42" Panasonic PE50, about 6yrs old, we want to get a 50" with HD. We watch with a V+ box, but so far not able to watch any HD as TV is too old. I am looking at either the Panasonic TX-P50C3B which is HD ready or the TX-50u30b which is full HD. We need to be able to connect the V+ bos and our old dvd recorder which is the Panasonic DMR-ES20. WE have been very pleased with the tv we have, would just like a bit bigger now. Any suggestions very welcome. many Thanks</Content>
+	</Post>
+</Thread>

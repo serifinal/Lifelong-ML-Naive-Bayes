@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung ps59d550 questions</Title>
+		<Username>paul-home</Username>
+		<Datetime>09-06-2011, 5:27 PM</Datetime>
+		<Content>I'm considering getting the ps59d550, but I cant find an answer to this. I want to use the network port for streaming video from a UPNP server, and playing MKVs from a network share. Does anyone know if it can do this? Sorry if this is the wrong place to post this.</Content>
+	</Post>
+</Thread>

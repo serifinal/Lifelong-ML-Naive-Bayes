@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Brightness fluctuation on my samsung plasma tv - please help!</Title>
+		<Username>MrKennedy</Username>
+		<Datetime>27-11-2011, 11:11 AM</Datetime>
+		<Content>Hi, Last night i discovered a really bizzare occurance and im concerned about my tv. Basically i had on my plasma tv, bluray player and hd dvd player... I put in happy feet hd dvd to play and noticed 4mins in on a very dark scene that the black bars at the top and bottom of the screen were fluctuating in brightness! I havent ever noticed this before however i have had a nasty time of setting my settings as i would like them for awhile now and i wonder if this has been the problem as too why?!.. It appeared when the screen went brighter the black bars settled down (although it could just be my eyes) but on a darkscene it definatly was almost like a black level dip up and down all over the bars. Is there anything that could likely be a cause for this?!... Is it a voltage or cable issue?!.. I tried resetting settings all back to default and that made no difference... For the record, i am Not using cinema smooth either! its turned off, so it must be something else causing this?! Please help anyone, as im quite confused and concerned over this. Thankyou.</Content>
+	</Post>
+</Thread>

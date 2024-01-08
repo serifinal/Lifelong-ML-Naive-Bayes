@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 50PZ570T Anygood? after a 3d smart tv</Title>
+		<Username>MxN</Username>
+		<Datetime>04-01-2012, 4:11 PM</Datetime>
+		<Content>Hello there im new so go easy on me, Im new and after a 3D tv with the Smart internet (internet) fetures around the 47" - 50" dont want no smaller or bigger, Ive got around £650 to spend and pushing up to £700 Ive came across the 50PZ570T with is a 50" smart 3d tv was wondering if anyone has one or any known bad points as im very near ordering one, anotherone i came across was the panasonic 50st30, it has a good spec but ive seen one in the shop and the "bezel"? the outer edge design puts me off as its really thick. Can anyone help me with the lg or recommend some tvs in my price range Thank you</Content>
+	</Post>
+</Thread>

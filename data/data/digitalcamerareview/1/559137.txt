@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Card Recomendation for Canon A570</Title>
+		<Username>Hoganflagle</Username>
+		<Datetime>09-16-2007, 03:09 PM</Datetime>
+		<Content>I'm looking at picking up a Canon A570, and was trying to figure out whether to get it bundled with a 2Gig card, or buy it bare bones and pay less for a card else where. What brands or speeds should I be looking at? Thanks.</Content>
+	</Post>
+</Thread>

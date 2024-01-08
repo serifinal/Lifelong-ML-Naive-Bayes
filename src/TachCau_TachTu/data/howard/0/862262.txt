@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Getting tired</Title>
+		<Username>episodic</Username>
+		<Datetime>05-25-2010 05:33 PM</Datetime>
+		<Content>Ok, so I exchanged the blackberry for the rumor touch thinking at least I'd have a twitter app. So I downloaded the twitter app and opera mini 5. Opera mini works fine. The twitter app just loads and says " A network error has occured. Please try again later could not connect. Anyone else have the twitter app working on the rumor touch?</Content>
+	</Post>
+</Thread>

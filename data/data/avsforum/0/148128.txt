@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official Saint's Row 2 Discussion Thread</Title>
+		<Username>deedubbadoo</Username>
+		<Datetime>06-30-08, 12:29 PM</Datetime>
+		<Content>Well I figured that since there seemed to be an "Official..." thread for everything else, that this game was just as deserving. That and also here is the latest trailer for the game: Second Coming: http://www.gametrailers.com/player/35606.html Activities Trailer: http://www.gametrailers.com/player/34873.html ULTOR: http://www.gametrailers.com/player/33600.html For some reason the embedding is not working, however on Game Trailers site, you can watch the videos in either SD or HD. Release Date: October 14, 2008</Content>
+	</Post>
+</Thread>

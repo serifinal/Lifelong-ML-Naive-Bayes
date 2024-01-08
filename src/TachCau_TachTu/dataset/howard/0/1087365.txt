@@ -1,0 +1,4 @@
+can you connect to the internet with bluetooth .
+i 'm new to the bluetooth technology and i have a question about internet connectivity .
+can you use a bluetooth usb dongle to connect to a wifi network ?
+if so , how do you do this ?

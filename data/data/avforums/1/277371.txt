@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Can I Go Too Big?</Title>
+		<Username>Charlts</Username>
+		<Datetime>06-07-2011, 10:17 PM</Datetime>
+		<Content>I'm currently running a 42" Hitachi plasma which has served me well for the past 5 years. However I'm upgrading to set which'll do 1080p but the size thing is stumping me, it's a toss up between a screen size of 50" or 60". I can accommodate upto 60" in both budget and space, but as my viewing distance is around 3m I'm concerned it'd be too big. Does anyone have any experience of this sort of scenario? If so I'd love to hear it. I've got auditions booked for tomorrow and Friday which'll give me a better idea of things. Thanks in advance for any input. Ryan</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Replacements coming for SX100is and A720is?</Title>
+		<Username>leaftye</Username>
+		<Datetime>08-22-2008, 10:06 PM</Datetime>
+		<Content>I noticed that Newegg doesn't sell either camera anymore, and they were scarce on the Buydig/Beachcamera website a week ago. This tells me that they're coming out with new cameras.</Content>
+	</Post>
+</Thread>

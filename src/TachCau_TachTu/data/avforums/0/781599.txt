@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic GT30 - Getting Professional mode to look as good as THX mode?</Title>
+		<Username>NeilF</Username>
+		<Datetime>08-02-2012, 1:23 PM</Datetime>
+		<Content>I think THX mode produces the nicest image for me. The contrast and quality of the image is just to my liking, EXCEPT some skin tones, especially in fast moving scenes, seem to produce a slight green hue which I find distracting. I've been trying to get my Professional mode set to result in a THX like image, but I just can't get there. That said, I've not delved into the deeper 'Advanced Settings' as I don't really know what they do. Is there anyone (preferably with a 46"GT30) who's got a Professional setting that they think matches THX who can share their settings? At least for me to try and/or use as a starting point? I've played around with gamma and the brightness, colour and contrast and got fairly close, but the contrast just doesn't seem as good as THX, and that's with contrast set to max too! ps: Why would anyone have sharpness set to anything except max?</Content>
+	</Post>
+</Thread>

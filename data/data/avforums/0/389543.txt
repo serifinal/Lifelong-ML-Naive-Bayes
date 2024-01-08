@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS42Q7HD and dnie</Title>
+		<Username>mre15</Username>
+		<Datetime>09-01-2007, 5:41 AM</Datetime>
+		<Content>I have this display and thought I would give the turning off dnie ago, to see if it would make any difference. However, the dnie bypass option just isnt there, went to the correct menu, second column no dnie bypass anywhere. Anyone have any ideas, or have samsung removed it to stop us playing. Cheers.</Content>
+	</Post>
+</Thread>

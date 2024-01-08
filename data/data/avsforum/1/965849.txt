@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony KDL40S4100 or Samsung LN40A530?</Title>
+		<Username>CMale05</Username>
+		<Datetime>05-31-08, 08:11 AM</Datetime>
+		<Content>I am going to purchase one of these sets today, and need some advice. Both of them are at my local Circuit City and are exactly the same price. I just can't decide between the two. Which one is the better TV? Thanks</Content>
+	</Post>
+</Thread>

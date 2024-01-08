@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Framing False Wall & Firestopping</Title>
+		<Username>interfx</Username>
+		<Datetime>05-27-08, 09:40 PM</Datetime>
+		<Content>I have a wall in my basement in which I have plumbing (water & sewer pipes) than run about 8" off of the concrete wall. I want to frame a wall in front of these, which will make the wall approx. 12" offset forward of the basement concrete wall. My question is how do I create firestopping (10' ceilings) in that false wall, when it is 12" offset? How do I do this? Any ideas out there?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Xbox 360 display "reference levels" (Question for Amir)</Title>
+		<Username>cybersoga</Username>
+		<Datetime>10-27-08, 03:06 AM</Datetime>
+		<Content>I want to make sure i'm getting the best display for computer graphics from my xbox360, as I use it mostly for gaming rather than video playback. As far as I can tell, the xbox 360 only outputs RGB over HDMI, even when playing DVD (unlike a DVD player that will output YPbPr). The problem is there is two standards for RGB - PC levels where 0 is black and 255 is white, and video levels where 16 is black and 235 is white (0-16 is below black, 235-255 is above white). DVD uses YCbCr video levels, computer graphics are generally RGB at PC levels. The xbox 360 has 3 options under "reference levels" in display, that seem to have the following effect: Standard - produces video levels (16-235) Intermediate - something in between (?) Expanded - produces PC levels (0-255) Now what i'm asking is does the xbox 360 natively produce computer graphics at video levels, complete with below black and above white like DVDs, or is it converting computer graphics to video levels by default? Which option should I use if I want to avoid conversion / least banding in video games? My Samsung TV has two options for RGB over HDMI - normal and low so it can cope with either.</Content>
+	</Post>
+</Thread>

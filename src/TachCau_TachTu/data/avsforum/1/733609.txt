@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>samsung PN50A550 vs samsung LN52A550</Title>
+		<Username>The Bruiser</Username>
+		<Datetime>07-07-08, 12:41 AM</Datetime>
+		<Content>this is where im at (due to employee discounts and whatnot, that is why a pioneer plasma... or lg plasma are not on this list)... ok so anyways i have a 42 inch sharp lcd ... its a love hate relationship mostly because its too small and im sick of reading bad things about it anyways i want to buy a 50 or 52 inch lcd... dear god please dont let me impulse-buy a 46 inch because i know i wont be happy with that either ( saving money is a pain) so i want a big tv for a good price that is dominant to the others i have pretty much narrowed it down to these samsungs HOWEVER i do think 24p would be a nice feature to have i heard the lcd a550 has it but im not sure about the plasma i game like 2 hours a week and barely watch tv anymore but i still want a great tv for the times i do decide to use it... and i dont want to have buyers remorse because ive had that one too many times as well however im also thinking the 52 a650 is not in my price range ( i sell tvs for crying out loud, u do the math ) ummm 15000 a year + rent + no 2k is like my ultimate max point or its just too much patience i dont have</Content>
+	</Post>
+</Thread>

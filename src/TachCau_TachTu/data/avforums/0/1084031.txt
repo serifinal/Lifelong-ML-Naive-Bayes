@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic GT30 sound problem</Title>
+		<Username>Aloysius16</Username>
+		<Datetime>23-06-2011, 11:18 AM</Datetime>
+		<Content>I have purchased a new Panasonic 42GT30 and am very happy with the picture. However, the sound is a different matter. After my previous Toshiba PF2 CRT with built-in sub etc, I understood that the sound would be weaker. However, I am hearing a particular problem in broadcasts where speech is together with ambient noise - e.g. outside broadcasts. In these instances, the ambient noise (wind, traffic, echo, etc) seems to get very loud in the breaks in speech and then suppressed when the speech begins again. It creates a rather unpleasant inconsisent 'oscillating' effect in the sound as if the TV is having trouble mixing the different audio channels somehow (with the ambient background being often far too loud in the mix). Is there a particular reason for this, or is it some kind of fault? If its not a fault, should I assume that it would be resolved by using external amp/speakers or would the problem replicate itself? Any advice would be appreciated.</Content>
+	</Post>
+</Thread>

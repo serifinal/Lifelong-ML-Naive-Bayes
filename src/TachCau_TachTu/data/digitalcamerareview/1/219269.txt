@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Memory Card for 870IS?</Title>
+		<Username>soup007</Username>
+		<Datetime>11-19-2007, 11:42 PM</Datetime>
+		<Content>hi, i just got myself a PowerShot 870IS, but didn't get additional memory card as i would be ordering one from newegg Could someone suggest me which card should i go for - sd or sdhc. And any specific brands that go well with canons. thanks</Content>
+	</Post>
+</Thread>

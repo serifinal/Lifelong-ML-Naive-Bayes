@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Here - Now My Build Thread</Title>
+		<Username>JonyHouse</Username>
+		<Datetime>12-17-08, 10:07 PM</Datetime>
+		<Content>Thread Index - Final 3D plan 1-8-09 - Framing done 1-25-09 - Electric done 5-11-09 - Insulation done 5-25-09 - Plumbing done September 2009 - Drywall done September 2010 Hey Guy, I have been reading this site for a while. I am now ready to build my mancave with all the good stuff like home theater, bar, and office. The problem: I have no idea how to do the 3D animations or renderings everyone posts on here. Can someone help me? I measured out the basement. The rectangle area by the stairs is to be used for the entertainment/bar The rectangle area bulging out in the middle is the be the office. I'll take pics of the basement asap</Content>
+	</Post>
+</Thread>

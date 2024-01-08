@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is Samsung ever going to release Android 2.x for Samsung Galaxy i7500?</Title>
+		<Username>KM626</Username>
+		<Datetime>03-28-2010 04:26 PM</Datetime>
+		<Content>Hi guys, So, I recently acquired a Samsung Galaxy. Fell in love with it, until I found out it was running Android 1.5. I'm stuck with Android 1.5 on my phone, and I'm wondering if Samsung is going to release Android 2.x to Samsung Galaxy users? I've been hearing they're going to leave those people with 1.5 behind to fend for themselves and move on to other things. I think if this is the case, this phone will be my last product I buy from them. they've already released 2.x for Samsung Galaxy spica, so why haven't Samsung done anything for the i7500? Oh, and if it's going to be released, does anybody know a date? I know lots of others with the Galaxy i7500 that are pissed about this also, so any info would be appreciated</Content>
+	</Post>
+</Thread>

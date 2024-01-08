@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Hmm Panasonic TXP50ST30 or TXP50G30B?</Title>
+		<Username>2shoes</Username>
+		<Datetime>13-02-2012, 9:11 PM</Datetime>
+		<Content>After a year indecisiveness and moving my sofa nearer my old CRT to get the big screen experience I'm finally going to buy a new TV. After exhaustive review reading and umming and awwing I've decided upon either of these 2 panasonics. The TXP50-ST30 from richer sounds for £700. I was going to buy it for £700 with 2 pairs of glasses flog those on ebay for £50 each and thus pay about £600. or the TXP50-G30B from currys for £550. I don't really have any interest in 3D and was just wondering on anyones opinion on which set has the best picture for 2d? Ill be using it for normal TV, dvds, Virgin HD and I finally get to use the xbox 360 I bought a year ago.</Content>
+	</Post>
+</Thread>

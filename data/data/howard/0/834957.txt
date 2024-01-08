@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Using Cradlepoint with Samsung Vibrant</Title>
+		<Username>sikkboy626</Username>
+		<Datetime>08-03-2010 02:01 AM</Datetime>
+		<Content>Not exactly sure where to post this, so mods feel free to move. Anyway, does anyone know of there is a way to use a Cradlepoint router with an Android phone? Specifically, I'm using a Samsung Vibrant. I know that with the HTC Incredible, it asks what type of connection you want when you plug it into the router's USB. One of the options is "mobile broadband " which allows the router to dial a connection and connect. But, on the Vibrant that option is not available. Only "mass storage", "music player", and "samsung kies" show up as options. None of these connect obviously. Any help would be appreciated. Thanks.</Content>
+	</Post>
+</Thread>

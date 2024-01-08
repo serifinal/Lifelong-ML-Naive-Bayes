@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS3 + Panasonic TX-P50G20B what are best settings?</Title>
+		<Username>lukeledbrook</Username>
+		<Datetime>19-11-2011, 2:57 PM</Datetime>
+		<Content>Hi guys, I've been some searching in this forum and some infomration on the web, I'm trying to get the best settings for my TV to get the best playback for Blu Rays from my PS3. Currently I have pretty much every 'advanced' feature on my TV disabled...including: P-NR - Off CATS - Off Vivid Colour - Off 24p Smooth Film - Off (if this is on, it produces artifacts on the screen) 16:9 Overscan - Off(only turn this on for various dodgy DVD's with weird stuff round the edge of the picture) Resolution Enhancer - Max it just seems that in some Blu rays I can see the 'refresh' of the screen, like jagged tears appearing. I must say it is more noticible on other Blu Rays same some... Also, if I try a software update I get 'communication with the server failed' Any ideas or suggestions, happy to test what i can! Thanks</Content>
+	</Post>
+</Thread>

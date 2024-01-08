@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>37" or 40"(LED), 100hz, £500</Title>
+		<Username>SPDAV</Username>
+		<Datetime>30-12-2011, 11:09 AM</Datetime>
+		<Content>I currently have Toshiba WLT68 Toshiba Regza 37WLT68 Review | TVs | CNET UK and have been very happy with it until now because it has 3 horizontal lines across the screen, getting darker all the time, so I need to replace. My space is limited so I can only fit a 37" or 40" if it is LED (width 95cm). I am also on a budget of around £500. Lastly my eyes are very sensitive to flickering , i.e. I notice it, which is why I bought the Toshiba with 100hz Any and all suggestions greatly appreciated Thanks Steve</Content>
+	</Post>
+</Thread>

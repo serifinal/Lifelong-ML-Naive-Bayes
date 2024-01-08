@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G20 plasma pixelation problem</Title>
+		<Username>Greenie78</Username>
+		<Datetime>24-05-2011, 7:34 PM</Datetime>
+		<Content>I've had by G20 about a year now, but in the last couple of days I've noticed that when football's on and the camera is panning the picture has pixelated. Never noticed this before. Any ideas?</Content>
+	</Post>
+</Thread>

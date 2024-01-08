@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Switching to ATT/iphone4</Title>
+		<Username>M00seKnuckle</Username>
+		<Datetime>06-08-2010 01:35 PM</Datetime>
+		<Content>I am with verizon now, and my contract is up...just wondering if on June 15th will i be able to pre order on the ATT site, and get the 2yr contract pricing?? also, can i transfer my mobile number to att while ordering online?...</Content>
+	</Post>
+</Thread>

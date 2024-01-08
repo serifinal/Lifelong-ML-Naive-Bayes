@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>New Sub From Danley Sound Labs</Title>
+		<Username>RMK!</Username>
+		<Datetime>10-18-08, 07:09 PM</Datetime>
+		<Content>I am re-doing my HT and was looking for a new uber sub that would give the same or greater output as I had with quad subs (JL Audio Fathoms), but in a single sub solution. After a demo receintly at another forum members house (Fugueness) the Danley DTS-20 was one of the subs I was considering. In speaking with them, they mentioned a new HT sub that was about to be introduced. I asked for and received more details and now have the Danley Couch Sub on its way. It is another Tapped Horn design (the dual 8" drivers) in the same price range as the DTS-20 but is smaller with even more output. The dimensions are 48"X45"X11" (HWD) hence the Couch Sub . Not sure there are any/many couches that could conceal this large box but it's dimensions work beautifully for me. I will be placing it vertically along a wall in my HT and pairing it with my new JTR T12LF LCR's. This was a blind purchase so I am hoping the sub lives up to the praise given it by the Danley folks. They are known for their engineering prowess so hopes are high. Here is a CAD drawing of the sub.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nexus One Users on WIND - Need Help Getting Data</Title>
+		<Username>N1_Wind_Calgary</Username>
+		<Datetime>01-13-2010 02:20 PM</Datetime>
+		<Content>Okay, so I went through the trouble of getting a Nexus One to Calgary, switched over to Wind, and now my data won't work. I've entered internet.windmobile.ca as the APN. I've even tried accessing the "special" menu typing *#*#4363#*#* and changing the preferred network type to WCDMA only but what I get in each case is a few seconds of 3G connectivity through the browser then lose it almost right away (lose all data connectivity). I was at the Wind Mobile store and they said their techs wouldn't even look at the issue because: 1. They have bigger issues to deal with 2. The Nexus One is not a "support" phone Any suggestions? Being a guinea pig sucks.</Content>
+	</Post>
+</Thread>

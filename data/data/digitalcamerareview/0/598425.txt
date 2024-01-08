@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Power Shot G12 at low light</Title>
+		<Username>Steven Domonkos Sr.</Username>
+		<Datetime>02-26-2011, 10:58 PM</Datetime>
+		<Content>I had a Canon G10 and now I have a G12 Power Shot. With both cameras I have the same problem, using the internal flash, in low light conditions peoples faces are washed out, definitions are flat even at 8ft. I ma using Auto settings and 4:3x10M size pictures. Am I asking for too much, or having the wrong settings? External SPEEDLITE 270EX or-so solved the problem.</Content>
+	</Post>
+</Thread>

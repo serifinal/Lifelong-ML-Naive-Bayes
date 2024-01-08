@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can the Samsung r451 sync with Outlook?</Title>
+		<Username>GoDoAndB</Username>
+		<Datetime>11-19-2009 08:09 AM</Datetime>
+		<Content>I am looking to dump Verizon mid-contract to save with Straight Talk's Unltd plan. I am in the 14519 area code and the r451 looks like my best option but when I ask ST if I can sync it I get the feeling they don't know what I am talking about. Since I get the tech run-around with Verizon this isn't any different, but I do need to sync to Outlook with ease. Thanks for the help.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD800is or SD900</Title>
+		<Username>dannieboiz</Username>
+		<Datetime>02-17-2007, 05:55 AM</Datetime>
+		<Content>Just bought an SD800is and we really like the IS feature. Picture is really clear, I now have the opportunity to purchase an SD900 at the same price or maybe even $20 bucks cheaper brand new from a friend. Return the 800 for the 900 or keep it?</Content>
+	</Post>
+</Thread>

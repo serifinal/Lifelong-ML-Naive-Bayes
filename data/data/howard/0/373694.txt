@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Switching from voice only plan to iPhone voice/data plan, then back to voice only.</Title>
+		<Username>88prelude</Username>
+		<Datetime>06-24-2010 06:11 PM</Datetime>
+		<Content>I tried asking this question a few days ago, but I didn't explain my question very clearly, so I will try again now. I am currently with VZW, not AT&T, and have no plans of switching to AT&T, since I just left them. But, I miss having an iPhone. Hated the voice service, but loved the usability of the phone when connected to wifi. My soon-to-be wife's family are all on the same family plan, and I believe 3 of the lines are available for upgrade. My soon-to-be father-in-law is a complete technotard, and has absolutely no interest in upgrading from his simple Samsung flip phone. So, here is my question: Can he upgrade his line from a voice only plan to a voice/data plan and get the new iPhone 4, then switch back to his voice only plan with his Samsung flip without penalty? I would take the iPhone 4 and use it as a wifi only device. I realize that the micro-sim could be an issue, would AT&T reactivate his old sim card to use with his Samsung?</Content>
+	</Post>
+</Thread>

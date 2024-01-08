@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>50"GT30 Or 42" VT30? Very Quick Decision.</Title>
+		<Username>tele1962</Username>
+		<Datetime>30-06-2011, 7:06 PM</Datetime>
+		<Content>OK lads i really need some very quick advice my insurance company are offering the 42"VT30 1 year warranty or cash equivalent and i can get the 50"GT30 with 5 year warranty i am leaning towards the GT. This advice needs to be very quick either by PM or whatever, come on lads i am in a dilemma.</Content>
+	</Post>
+</Thread>

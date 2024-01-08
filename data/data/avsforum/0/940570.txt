@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>ForceWare 180.42 beta driver</Title>
+		<Username>Tinker</Username>
+		<Datetime>10-22-08, 10:11 AM</Datetime>
+		<Content>I am having probms installing this beta driver. When I launch the install progm it installs FRAPS (?????) but it doesnt seem to install the ForceWare 180.42 beta driver drivers. Tried two diff DL (NVidia and Guru3d) and both were the same results. Anybody install this beta for XP 32 yet . Just prepping for Far Cry 2...</Content>
+	</Post>
+</Thread>

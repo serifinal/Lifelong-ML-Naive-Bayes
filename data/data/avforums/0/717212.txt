@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G10B Plasma</Title>
+		<Username>daz_f</Username>
+		<Datetime>20-01-2012, 6:16 PM</Datetime>
+		<Content>Anyone help me got the above tv and my son tried using headphones before in jack in left side panel. When you put the headphones in the sound comes through but is also coming through the tv speakers has well Is this right surely can't be</Content>
+	</Post>
+</Thread>

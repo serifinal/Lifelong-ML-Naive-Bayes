@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sd880</Title>
+		<Username>marcinz</Username>
+		<Datetime>01-21-2009, 11:00 PM</Datetime>
+		<Content>I`m looking at the SD880 due to good reviews. I just want to know what you guys think about this camera or should I looked at something else . I could go another $50 more if it gets something better. This camera is for my wife.. Thanks..</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Buying a JVC DLA-RS1X -- What kind of screen?</Title>
+		<Username>jmass03</Username>
+		<Datetime>09-30-08, 05:48 AM</Datetime>
+		<Content>We previously had Da-Lite with our Fujitsu projector, however this time around we have been given the option between Stewart and Draper. The home theater installer we are working with recommends Draper in the 16:9 HDTV ratio -- 106 Inches diagonally, fixed screen. He mentioned the Onyx, but I'm not sure we like the 4 inch band around the screen. Regardless, they seem to have several different models as far as color, gray, white, etc. Not sure which one to go with. Any ideas? What is CinemaScope ratio?</Content>
+	</Post>
+</Thread>

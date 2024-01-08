@@ -1,0 +1,12 @@
+samsung dlp whole screen red .
+color wheel ??? .
+i 've got a hln5065w that just recently the screen went entirely red .
+for instance when the tv is on and there is no source , the screen use to be bright blue .
+now it is dark red .
+when watching television all the colors appear to be working but everything is drenched in red tint .
+i replaced the color wheel on this tv about a year ago because a loud bearing and it has worked fine until a week ago while watching tv everything went red .
+is it possible this is a color wheel problem ?
+not aligned correctly ?
+not spinning fast enough ?
+dmd board ?
+thanks

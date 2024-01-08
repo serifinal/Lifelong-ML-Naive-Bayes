@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic P42UT30B strange dots</Title>
+		<Username>rosko123</Username>
+		<Datetime>02-02-2012, 12:28 AM</Datetime>
+		<Content>I just purchased this TV today and I was happy with it until you go to a black screen (PS3,TV,XboX,anything) you can see what i'd almost call snow from a regular old set however it is grey,red and sometimes green dots. Is this a new plasma problem that resolves itself over time or what? I'm pretty worried so any help will be very much appreciated!!!!!</Content>
+	</Post>
+</Thread>

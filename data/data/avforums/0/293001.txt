@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How many hours has your Panasonic plasma run?</Title>
+		<Username>Davidgilmour</Username>
+		<Datetime>18-10-2006, 7:44 PM</Datetime>
+		<Content>Alright, Panny PW7. Run 3800 hours in 20 months. 190 hours a month. No a single complaint from my side. Hasn't disappointed me or let me down once! How many hours did your Panny run? How old is it? How many hours each month? check Accessing service menus how to access your service menu which shows the # of hours run. Davidgilmour: 3800 hours total / 20 months / 190 hours each month</Content>
+	</Post>
+</Thread>

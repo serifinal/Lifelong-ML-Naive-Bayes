@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon 60D</Title>
+		<Username>waves01</Username>
+		<Datetime>01-15-2011, 06:35 AM</Datetime>
+		<Content>Canon EOS 60D Digital SLR Camera with Canon EF-S 18-135mm IS lens Canon announces D60 Hello forum mate i have this advert that want to market out so fast and it going in an affordable price negotiable you can send mail for more enquiries price, and pictures of the specific camera you will be interested in buying price all canon Camera include warranty BRAND NEW. 1 Canon 60D DSLR Camera 1 Battery Pack 1 Battery Charger 1 Data Cable (USB) 1 AV Cable 1 Strap 1 CD-ROM 1 User's Guide Canon EOS 40D with EF-S 17-85mm f/4-5.6 Canon EOS 50D - SLR - 15.1 Megapixel with 18- 200mm lens Canon EOS 1Ds Mark III 21.1 Megapixel with Canon EF 70-300mm lens Canon EOS 5D Mark II 21.1 Megapixel with 24-105mm IS lens Canon EOS 7D Digital SLR Camera with Canon EF 28-135mm IS lens Canon EOS 1D Mark IV 16.1 MP CMOS Digital SLR Camera + 32GB Deluxe Accessory Kit For more inquiries on PRice , pictures do contact. easysales001@live.com</Content>
+	</Post>
+</Thread>

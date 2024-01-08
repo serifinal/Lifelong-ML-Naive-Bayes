@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problems w/ 3G Unrestrictor and OTB 3.1 3GS</Title>
+		<Username>ochatesme</Username>
+		<Datetime>10-14-2009 04:04 PM</Datetime>
+		<Content>I, like many other people who got stuck with an OTB 3.1 3GS, rushed to install blackra1n as soon as it became available because it offered a solution to those of us that wanted to install third-party apps. Well, one of the things that I enjoyed about my old 3G was that I had voipover3G installed and enjoyed making Skype calls over my 3G connection. One of the first things I did on my 3.1 3GS as soon as I install blackra1n was to download Skype along with 3G unrestrictor (a paid app on Cydia). I can't seem to be able to get this thing to work, I have it installed and provisioned it for both Skype and Fring and neither of them seem to want to make a phone call. Skype gives me a warning prompt saying that I need to be on WiFi in order to make calls and Fring just hangs there and does nothing. Has anyone here had any luck using Skype in conjunction with 3G unrestrictor on an OTB 3.1 3GS that was jailbroken using blackra1n?</Content>
+	</Post>
+</Thread>

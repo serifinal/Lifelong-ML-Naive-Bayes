@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New home, new tv, no idea what to get...</Title>
+		<Username>FranFrancis</Username>
+		<Datetime>27-12-2011, 10:40 PM</Datetime>
+		<Content>Hi and thanks for looking at this thread I need a new tv having recently moved and I'm overwhelmed by choice. I'm on a budget but want to 'futureproof' my decision so will stretch it if it's a good investement. Here's what's important to me and my pre-teen children: + Full hd / 1080 + Up to 40" (frankly, anything will be an improvement on my knee-jerk purchase of a 26" tv) + Access to freeview / freesat hd + pause and record live tv (plus a good amount of storage to record all the films and tv programmes I'll never find time to watch) + rich sound + dvd player (nice to have blu-ray for the future but not essential) + ability to plug in games console I've been to Comet and Currys today and given this brief to two sales guys and the more sensible of the two suggested this package combination: TV Sony kdl40ex723 40"1080p Smart 3D led tv £549 Recorder Samsung bd-d8500/xu Smart 3d blu-ray player with hard disk drive recorder £299 Suround sound Panasonic sc-xh150eb-k dvd home cinema system £129 Total = £977 This is quite a bit more than I was hoping to pay but, as I said, I'd rather spend the extra cash now then have to start upgrading and swapping out in the near future. Also, I can't help feeling there's a less 'clunky' solution at a better price. Any useful feedback would be most gratefully received. Thanks Fran</Content>
+	</Post>
+</Thread>

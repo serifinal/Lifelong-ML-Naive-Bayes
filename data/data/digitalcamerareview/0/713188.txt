@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot S5 IS Problem</Title>
+		<Username>greenyoda1975</Username>
+		<Datetime>07-31-2011, 10:19 PM</Datetime>
+		<Content>Hi, I'm a newbie on this forum but have a problem with my Powershot S5 IS. Yesterday, I was surprised when my camera suddenly started overexposing photos on the "Auto" setting. Although indoor shots are of course less severe, images in direct sunlight are really washed out. Contrast still seems okay, but it just looks like the camera let too much light in. I first tried a reset using the menus in the camera with no success. I then tried Canon customer support, but since I've had my camera for just under three years, they only referred me to Factory Service. Mainly, I'm wondering if any of you know what the problem is, and if it is repairable (I'm handy, but want to troubleshoot first). Any ideas what is wrong? Thanks in advance for your advice! Tim</Content>
+	</Post>
+</Thread>

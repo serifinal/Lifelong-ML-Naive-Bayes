@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LX3 flash question ?</Title>
+		<Username>jone01</Username>
+		<Datetime>10-22-2009, 08:11 AM</Datetime>
+		<Content>Hi. I'm using the LX3 that arrived today with some radio triggers to trigger external flashes. Is there a way to set the inbuilt flash so that it fires only ONE flash (instead of the two it currently does) so I can use optical triggers? well.</Content>
+	</Post>
+</Thread>

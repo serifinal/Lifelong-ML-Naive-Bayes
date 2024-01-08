@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which is the better lcd the Samsung LN46A530 or the LG 47LG50</Title>
+		<Username>kirtis_mcleskey</Username>
+		<Datetime>07-13-08, 07:59 PM</Datetime>
+		<Content>I know that one is a 46 inch and the other is a 47 inch and that one has a 20,000:1 Contrast Ratio, and the lg has a 15,000:1 contrast ratio I havent seen the samsung in person , but I have heard its an excellent tv, \butI have seen the LG in Person and it looks like a good tv , really sharp ect</Content>
+	</Post>
+</Thread>

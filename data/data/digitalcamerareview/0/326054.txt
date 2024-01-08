@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What's the problem with my S2 IS?</Title>
+		<Username>cameraman-2011</Username>
+		<Datetime>08-22-2011, 03:33 AM</Datetime>
+		<Content>Hi, after one year I decided to use my Canon S2 IS, but I noticed every time I took picture, it was completely black, so I thought maybe it's a stuck shutter problem.I took many pictures (and also hit the camera several times with my hand) and suddenly the problem went away. But this time when I take pictures it acts in a strange way.I don't know if there's a problem with it's lens or sensor or it's dirty or something else?! I put some pictures here, so you may be able to help me with this. Can I repair it myself? I'm in a hurry and should get it fixed in 2 or 3 days and no camera repair shop or anything else is around here. Thank you for your help note:all pictures are directly from camera and they are cropped to reduce size indoor-fluorescent lamp-automatic: you see horizental lines http://forum.digitalcamerareview.com...1&d=1313997777 indoor-fluorescent lamp-Aperture Priority(same as above but with aperture more than 5.0):green tint and those lines http://forum.digitalcamerareview.com...1&d=1313997842 outdoor-sunny day-automatic:it's like camera can't recognize the amount of light: overexposure and maybe the lines http://forum.digitalcamerareview.com...1&d=1313997816 but sometimes in ideal conditions (light) it can take good pictures!?</Content>
+	</Post>
+</Thread>

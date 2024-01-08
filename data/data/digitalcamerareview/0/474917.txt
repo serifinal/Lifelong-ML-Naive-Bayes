@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Camera Window on Powershot model</Title>
+		<Username>Jun85</Username>
+		<Datetime>10-10-2010, 11:43 AM</Datetime>
+		<Content>Hi there I just bought a Powershot 4500 and I use the Camera Window programm to download pictures onto my hard drive. The problem is, when I connect by USB, it doesnt give me the option to start up Camera Window. I need to manually open the program (through start --> program) in order to download. Is there a way to have the computer connect via usb to the camera and have the pop-up show the Camera Window program? Thanks!</Content>
+	</Post>
+</Thread>

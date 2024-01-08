@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Upgrading and Activation Questions</Title>
+		<Username>***Big Daddy***</Username>
+		<Datetime>06-18-2010 06:47 PM</Datetime>
+		<Content>Today I called about my Tour's trackball problems and CS is sending me a brand new Bold as they are out of Tour's. You can imagine how disappointed I am...of course I am kidding. Another family member is about to use their NE2 and get a Bold. I was wondering if it would be possible for me to give them my new phone and for me to use their upgrade on a Droid. How would this work for things such as insurance or warranties? Would it make a difference if I did not activate it when I receive it? I don't think it would be right if their new phone didn't have the warranty or insurance. I would just keep mine. Thanks for any replies I receive, I figure this is a good place to ask since I know there are a lot of knowledgeable employees/customers who would know these answers.</Content>
+	</Post>
+</Thread>

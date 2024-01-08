@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which 42 inch plasma</Title>
+		<Username>shadey</Username>
+		<Datetime>12-07-2011, 5:59 PM</Datetime>
+		<Content>Hi All. I wanted to see what people might recommend on what plasma to go for. I have an LG 32 plasma at the moment that is going to the bedroom, and am going to replace it with a 42 inch plasma. I like the LG, but the thing that really annoys me is the brightness fluctuation. I thought reviews of the Panasonic VIERA TXP42G30 looked really good until I stumbled on some posts relating to the same brightness fluctuation. I really want to avoid this. So can anyone give opinions on what is my best option for a budget of around £600? Mainly used for watching sport & movies from my TV/DVR, movies from WDTV, Sky Sports from Sky Player thru a mini mac, movies on a Blue Ray player. All over HDMI cable. I am also investing in an AV Receiver, probably the Yamaha RX-V371, and some sort of surround sound arrangement. Any thoughts welcome, I was thinking the G30 was top of the list (and the budget), but if I could get something comparable & cheaper (watching the telly from 12 feet away) that would free up budget for better speakers or AV receiver etc I am all ears. Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Two green vertical lines on my TH-58PZ800u</Title>
+		<Username>manny509</Username>
+		<Datetime>21-02-2012, 4:14 AM</Datetime>
+		<Content>Sorry if this post is already out there but does anyone know if this is a panel issue for sure. I think it's the buffers which thankfully only cost about $20.</Content>
+	</Post>
+</Thread>

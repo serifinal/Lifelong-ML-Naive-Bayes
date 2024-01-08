@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: New condition Bell's Samsung Galaxy S Vibrant *Froyo, unlocked, rooted* GTA</Title>
+		<Username>alexlee</Username>
+		<Datetime>08-25-2010 05:23 PM</Datetime>
+		<Content>Hi people i have the vibrant purchased from futureshop on August 6, 2010 it has been rooted, unlocked, and upgraded to Android 2.2 Froyo comes with everything in the box including brand new Bell simcard $570 CAD, will be in GTA on Friday till Sunday, and in London in weekdays</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>pioneer pdp lx5090 red tint to blacks</Title>
+		<Username>mickru</Username>
+		<Datetime>30-03-2011, 12:02 PM</Datetime>
+		<Content>Hello, I've had my 5090 since may 2009, when I got it the screen would look dark grey in a totally dark room, and black with backlighting on. Over the last year this has now changed from grey to red, and is now becoming noticable even with backlighting on. Called pioneer who say this is normal for the screen (due to the improvements in contrast ratio), but they are sending an engineer out anyway to look at it for me. My set hasn't been calibrated, will be asking piers from H.C.E to do that sometime soon. I have seen one post on this forum about this problem, and quite a few on american and german forums, all of them seem to have had no resolution. What I don't want is to be told that this is normal for the screen and left with red looking blacks, so I suppose what I'd like to know is does anyone else have a screen of this age and does it look red or still grey like mine used to? Thanks in advance, mick.</Content>
+	</Post>
+</Thread>

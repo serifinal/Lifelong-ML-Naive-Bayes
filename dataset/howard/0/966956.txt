@@ -1,0 +1,7 @@
+gravity 2 t469 at&t mms settings .
+i 've been looking around and finally found the mms settings for the gravity 2 from t-mobile to work on at&t .
+here they are : ========== mms ============== * set name : at&t mms * access name : wap.cingular * auth type : none * user id : <leave blank> * password : <leave blank> * protocol : http * home url : http://mmsc.cingular.com * proxy address : 66.209.11.32 * port : 80 * linger time : 300 * advanced settings : o static ip : leave blank o static dns : leave blank o traffic class : subscribed i just decided to post this since there were several people asking for it .
+once you have saved this profile .
+make sure you select it .
+once it 's selected it works for both mms and internet .
+this works as of : 06/03/2010 3r14nd

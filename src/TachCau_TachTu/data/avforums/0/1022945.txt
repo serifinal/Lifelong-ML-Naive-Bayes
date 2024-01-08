@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Damaged screen on Panny 50" G20 - help!</Title>
+		<Username>PanMan</Username>
+		<Datetime>06-08-2011, 4:16 PM</Datetime>
+		<Content>Dear All My darling daughter has damaged the screen on my father-in-laws 50" Panasonic G20. She has managed to put a few deep scratches across the length of the screen. He is not keen to claim on his house insurance, as it will affect his premium. Does anyone know the cost of a new screen, or are you best getting a new TV? I feel really awful, and must get it fixed or replaced with a like-for-like. Still feeling numb from the whole event - kids, eh?</Content>
+	</Post>
+</Thread>

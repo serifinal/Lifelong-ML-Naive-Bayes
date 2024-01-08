@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>help with my canon sd870Is</Title>
+		<Username>moniloveshake</Username>
+		<Datetime>01-22-2008, 06:14 PM</Datetime>
+		<Content>i need help with color swap and color accent on my canon sd870!!!!! Im not sure on how it works! Please Help Me</Content>
+	</Post>
+</Thread>

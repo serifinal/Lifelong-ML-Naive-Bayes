@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot A540 as webcam?</Title>
+		<Username>dancebabe9008</Username>
+		<Datetime>07-12-2006, 11:12 PM</Datetime>
+		<Content>Can the Canon Powershot A540 be used as a web camera? If not, what are some digital cameras that can be used as one.</Content>
+	</Post>
+</Thread>

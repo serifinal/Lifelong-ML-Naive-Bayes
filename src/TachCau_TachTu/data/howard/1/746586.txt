@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Micro SIM upgrade logistics</Title>
+		<Username>tech4fun</Username>
+		<Datetime>05-20-2010 07:04 AM</Datetime>
+		<Content>I wonder when the next iPhone is released if the fact they require a Micro SIM going to cause a logistics nightmare. When I go and upgrade I am going to want to keep my phone number, so any micro SIM bundled with the new phone will be no good for me. In the past people reused their existing SIMs this time everybody will be forced to replace them. I do know you can cut down your original SIM to fit but really how many people are going to that?</Content>
+	</Post>
+</Thread>

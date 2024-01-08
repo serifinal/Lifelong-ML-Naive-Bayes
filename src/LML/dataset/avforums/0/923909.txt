@@ -1,0 +1,8 @@
+artifacts/screen noise on samsung plasma ? .
+i have a samsung hpr5012x/xaa 50 '' plasma tv .
+i got this tv from a friend , it had no picture but it did have sound so i figured it was worth trying to fix .
+so , here i am now .
+i replaced the y-sustain board , which my friend bought but never put in , as well as the lower buffer board which had a short in one of the chips and you could see where it had blown out .
+i now have a picture but it has horizontal lines of artifacts as you can see in the picture .
+my question is whether i should first try replacing the x-sustain board or the logic board next ?
+the picture is below

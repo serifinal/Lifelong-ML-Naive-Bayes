@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Weird problem with T2i</Title>
+		<Username>Nman</Username>
+		<Datetime>11-16-2010, 12:33 AM</Datetime>
+		<Content>I'm able to upload videos onto youtube that I took a couple months ago but not the ones I took yesterday.Yes they're on the same camera and card.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic advice to prevent screen burn.</Title>
+		<Username>Lin3ar</Username>
+		<Datetime>25-05-2006, 2:11 PM</Datetime>
+		<Content>Apologies if this is old hat but I am sure that there are many people who are new to Plasma TVs (like myself) and are worried about screen burn. This is the best advice I have found on how to correctly run a plasma in, helping to pevent the threat of the dreaded screen burn problem. http://www.cyberselect.co.uk/product..._and_myths.pdf</Content>
+	</Post>
+</Thread>

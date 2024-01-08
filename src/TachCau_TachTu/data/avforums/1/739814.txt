@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic vt30 or vt50</Title>
+		<Username>rgerwal</Username>
+		<Datetime>09-02-2012, 7:30 PM</Datetime>
+		<Content>Hi all; This is a pretty straight forward thread. I just returned my Samsung LED TV and now have my money to buy a brand new TV. it has to be a plasma and from what I've read, the best plasma on the market is the Panasonic VT30. Should I buy this at its sale price now or wait and buy the VT50 at full price when it is released and don't forget to let me know why. Also when is the VT50 due to be released in the UK. Oh and I will be buying the 55" model. THANKS TO ALL THAT READ AND REPLY!!!</Content>
+	</Post>
+</Thread>

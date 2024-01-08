@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic plasmas: black level problems after 1000 hours? - part 1</Title>
+		<Username>NewfieDrool</Username>
+		<Datetime>29-01-2010, 11:55 AM</Datetime>
+		<Content>Just been reading this article from Cnet Are Panasonic plasma TVs losing their dark black levels? | Crave - CNET It suggests that Panasonic plasmas are losing their black levels after a set period due to some type of software timer operation which cuts in to try to extend the panel life time. It seems Panasoinc is the US are aware of the problem according to the posts. Are the UK models also going to suffer from this and has anyone noticed a drop in their black level performance after a 1000 hours? If this is true it might be a blow for us with Panasonic plasmas and even worse if the new line of plasmas also suffer this.</Content>
+	</Post>
+</Thread>

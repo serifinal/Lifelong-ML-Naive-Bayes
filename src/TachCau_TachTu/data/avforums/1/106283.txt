@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Ideas for a new 60 inch tv (anybody know where to find a Pioneer 6090?!)</Title>
+		<Username>asifakhtar</Username>
+		<Datetime>03-06-2011, 11:52 AM</Datetime>
+		<Content>Hi everyone. I'm looking for a tv for the bedroom and would be grateful for any suggestions for a 60 inch screen. I'm a plasma fan but open to any suggestions. I have a Pioneer 6090 downstairs and i would love to find another 6090 if anyone knows where to get hold of one or an equivalent (i know nothing touches the Pioneer but the next best will have to do). A friend of mine has the new Sony 60 inch but i hate the picture quality on the HD movie channels as it looks unrealistic. Budget is less important than picture quality. Any advice?</Content>
+	</Post>
+</Thread>

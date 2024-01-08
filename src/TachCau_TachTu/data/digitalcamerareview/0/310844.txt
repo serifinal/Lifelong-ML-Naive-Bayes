@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Settings for Canano Powershot SD870</Title>
+		<Username>hueylew</Username>
+		<Datetime>01-07-2009, 11:45 AM</Datetime>
+		<Content>what are best manual settings for good sharp color pictures on the Powershot SD870</Content>
+	</Post>
+</Thread>

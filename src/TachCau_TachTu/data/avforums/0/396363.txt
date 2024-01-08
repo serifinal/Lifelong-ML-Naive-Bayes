@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma & Ambient Lighting ?</Title>
+		<Username>tele1962</Username>
+		<Datetime>01-06-2010, 3:54 PM</Datetime>
+		<Content>I know you should have the correct colour temperature lighting behind your plasma when using ambient lighting, but i am using these on the lowest setting. Will these lights crush the blacks as has been suggested? DOUBLE 12" STRIP NEONS HOME THEATRE TV AMBILIGHT EFFECT on eBay (end time 22-Jun-10 18:00:56 BST)</Content>
+	</Post>
+</Thread>

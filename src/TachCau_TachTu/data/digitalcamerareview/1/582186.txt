@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon PowerShot SD870 IS</Title>
+		<Username>blinkdagger</Username>
+		<Datetime>04-02-2008, 11:01 PM</Datetime>
+		<Content>Hey guys, new to the forums, but a senior member on notebookreviews.com I just have a few questions on this camera, although I did do some research on this camera (reviews mostly) and I'm very likely to purchase this camera. I'm not a professional photographer, but I do want something that is solid, excellent quality pictures, small, compact and user-friendly. So I believe this camera is perfect for all my needs since I will mainly use it to take photos of trips, family and friend events, etc. etc. Now I did check out the samples of pictures taken with this camera, and it seems like pictures taken in the dark seem to be very grainy?? I'm not too sure if its the setting of the camera or it just really sucks at taking photos in the dark? My other question is if there will be another updated model gonna be released anytime soon? If so, is it worth the wait? I don't need it asap, but if it's not gonna be updated for a long while, I will take my chances and purchase the 870 IS. And lastly, any suggestions on other cameras/models I should consider? Thanks</Content>
+	</Post>
+</Thread>

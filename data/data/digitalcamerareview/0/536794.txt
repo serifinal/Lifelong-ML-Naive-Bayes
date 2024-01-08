@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Kodak EasyShare V570 Digital Camera Announced</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>01-02-2006, 06:00 PM</Datetime>
+		<Content>One of the most unique looking cameras to be seen in a while, the Kodak EasyShare V570 sports two lenses that don't protrude at all from the camera. With one lens to provide an ultra-wide angle (22 mm focal length - 35 mm equivalent) and another to provide an optical zoom from 39-117 mm (35mm equivalent) the V570 provides a total of a 5x optical zoom. The V570 will be available at the end of January for an MSRP of $399. In a very nice looking compact body, the V570 can capture images up to 5 megapixels. A line up of great features makes this camera very attractive. A panorama stitch mode allows the camera to automatically stitch together up to 3 images. If you use the wide angle lens, you can cover 180 degrees of the world around you with a panorama. While shooting videos at 30 frames per second, the photographer can use the optical zoom and auto focus remains enabled. A built-in stabilization technology reduces the shakes. The camera also features: 2.5 inch LCD Kodak Color Science Chip Automatic red-eye reduction In-camera distortion reduction (to reduce fish-eye effect at wide angle) 22 scene modes and 3 color modes Photo Frame Dock 2 SD slot (32 MB internal memory) lithium ion battery</Content>
+	</Post>
+</Thread>

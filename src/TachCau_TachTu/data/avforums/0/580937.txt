@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Color problems in my Panasonic PV60/PX60</Title>
+		<Username>xdim</Username>
+		<Datetime>10-09-2006, 4:20 PM</Datetime>
+		<Content>Hi all, I have a weird color problem in my Panasonic TH-42PV(X)60 plasma tv. Sometimes in dark scenes lilac/purple lines/shadows occur in the picture. See the enclosed picture. You can se the shadows in the phone. They are not supposed to be there. The problem if always in dark scenes. I have tried all the settings - cinema, auto, normal and dynamic. Have also turned off all image enhancers. The weird part is when i pause the image, the lilac/purple shadows dance and seems alive even when the pictures is frozen. Is it supposed to be this way? Some scenes are really full of this shadows and are a pain in the ass to watch... Hope anyone can tell me what this is? Please. mod note Anyone looking for latest (as of 16 Jan) info on a possible fix, start reading at page 163, post 2438 Color problems in my Panasonic PV60/PX60</Content>
+	</Post>
+</Thread>

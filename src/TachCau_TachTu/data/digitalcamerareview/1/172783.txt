@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is the Canon SD1200 WORTH IT????</Title>
+		<Username>PRCDIG56</Username>
+		<Datetime>09-26-2009, 03:00 PM</Datetime>
+		<Content>Hi, just need a brief overall comment on this camera if it is worth the money or if there are better ones out there for the same price? Need to buy one this week. Thanks for the quick help. paul</Content>
+	</Post>
+</Thread>

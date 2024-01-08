@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer 5090 stuck pixel</Title>
+		<Username>Getinthehole!</Username>
+		<Datetime>16-06-2011, 4:30 PM</Datetime>
+		<Content>Afternoon all I have been watching the US open this afternoon on Sky and noticed a bright green pixel. After changing chanels it appears to change colour with the pic but always be slightly different to whats on display. Any suggestions?</Content>
+	</Post>
+</Thread>

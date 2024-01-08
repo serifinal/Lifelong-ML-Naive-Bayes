@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Time to choose between these two sets</Title>
+		<Username>kermit1073</Username>
+		<Datetime>08-12-2011, 8:21 PM</Datetime>
+		<Content>After ploughing through many threads and review,it has came down to a straight choice for me between Pansonic TX-P42S30B And Samsung PS-43D450 Both have good review despite being at the bottom end of the range,especially the samsung despite only being 780,I'm not a gamer and not a big film fan,so it would just be everyday virgin hd use What would the buffs opt for,I'm upgrading from an old CRT lump btw</Content>
+	</Post>
+</Thread>

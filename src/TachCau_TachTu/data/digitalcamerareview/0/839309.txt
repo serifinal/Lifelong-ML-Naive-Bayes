@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>S2IS Sports Settings</Title>
+		<Username>Nellie</Username>
+		<Datetime>12-17-2005, 11:22 PM</Datetime>
+		<Content>I purchased the Canon S2IS in 08/05 and think it takes great pictures. I am having a problem finding a good setting for indoor sports pictures though (the pictures are always blurry). I don't believe there's a "sports" setting. Can anyone tell me what settings would take the best indoor sports photos?</Content>
+	</Post>
+</Thread>

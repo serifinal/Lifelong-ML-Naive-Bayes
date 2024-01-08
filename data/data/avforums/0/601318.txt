@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P50U30 best settings</Title>
+		<Username>Topini</Username>
+		<Datetime>10-02-2012, 12:54 AM</Datetime>
+		<Content>I was wondering if someone here has this set. I would like to know what settings have you guys find are best for this set: Viewing mode Contrast Brightness Colour Sharpness Vivid colour, eco-mode and P-NR are off. Panel has been on for about 150-200 hours. Thanks Anyone</Content>
+	</Post>
+</Thread>

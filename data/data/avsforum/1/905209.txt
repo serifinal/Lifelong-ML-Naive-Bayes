@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>fatefodder</Username>
+		<Datetime>12-14-08, 06:10 PM</Datetime>
+		<Content>I am looking for a 40"-46" display. I currently have an offer on a Panasonc 46" PZ850U, but it's just a little more expensive than I'd like, and its dimensions are just a little larger than I'd want. So, I've decided to look into an LCD alternative, and am looking at the Samsung A650/A750 series and the Sony XBR6 series. General preference opinions would be nice, but in particular, I'd like to know: (1) What exactly is this clouding I've heard about, particularly on the XBR series? Is it a feature, or a bug? (2) Possible bugs aside, has there ever been an objective comparison made between the two?</Content>
+	</Post>
+</Thread>

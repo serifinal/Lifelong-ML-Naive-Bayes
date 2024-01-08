@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Phillips CRT component output progressive or interlaced???</Title>
+		<Username>jacbri</Username>
+		<Datetime>10-27-08, 11:27 PM</Datetime>
+		<Content>Sorry if this is the wrong forum I have a Phillips 27PT6441 seen here: http://www.amazon.com/Philips-27PT64...183880-8542133 it has the following under the specs: Scan velocity modulation: Yes I have no idea if the component output on this TV is interlaced or progressive Any help appreciated</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>How do you see this lens: EF-S 17-85MM f4-5.6 IS USM??help me</Title>
+		<Username>sharif_al</Username>
+		<Datetime>08-20-2009, 03:40 AM</Datetime>
+		<Content>HI to all hope all are ok how do you see this wide angle lens that also have some telephoto properties EF-S 17-85MM f4-5.6 IS USM is there any other widw angle lenses with excellent color , stability, focus, ..... better than this even though from different camera manufacturers within 500-700$</Content>
+	</Post>
+</Thread>

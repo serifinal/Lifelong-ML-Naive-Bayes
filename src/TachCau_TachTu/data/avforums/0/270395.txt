@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42C3 3 vs 0 ME</Title>
+		<Username>Maverisk</Username>
+		<Datetime>21-11-2011, 9:42 AM</Datetime>
+		<Content>Good day, I heard about this forum from a friend and hopefully you guys will be able to provide me some help, because I almost went mental this weekend. I just bought a Panasonic 42C3 Plasma TV and when I tried to connect it to my PC it did not work. I bought a miniHDMI - HDMI adapter, HDMI cable. Basically everything I need to get the job done. When I try to connect to it with my pc it will not find it. I should specify that the Video Card I am trying to connect the plasma is an Asus NVIDIA GTX470, and the Operating System is Windows 7 on 64 bit. Hopefully you can help me out of this jam. Thank you for your time.</Content>
+	</Post>
+</Thread>

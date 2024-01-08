@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Retailers offer in store cheaper?</Title>
+		<Username>ALIEN1X</Username>
+		<Datetime>30-12-2011, 9:21 PM</Datetime>
+		<Content>Im looking to buy a Panasonic TXP42VT30. I noted that the cheapest offers was instore purchase and the online price was more .ie 'RGB Direct' and 'HiwayHifi'. They said the TV's was in stock, but would not sell me the TV over the phone using credit card, they insisted that I need to come to the store for the offer? 'HiwayHifi' has the Panasonic TXP42VT30 onsale at store for 1045.00GDP including 5 year panasonic warrenty RGB Direct as ir for (1289.00GDP online) and instore 1189.00 instore including 2 extra 3d glasses, 5 year panasonic warrenty and HDMI cable. Is this some sort of scam as I'm condused why the online purchase is more and why I need go to the store for a cheaper price?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Difference between Auto and P mode??</Title>
+		<Username>Jul</Username>
+		<Datetime>11-26-2007, 03:32 PM</Datetime>
+		<Content>I am using a Cannon PowerShot S2 IS. Can someone expalain the difference between the Auto and P mode? My old fall back is that I use Auto indoors and P outdoors but I'm sure there's more to it than that. Thanks!</Content>
+	</Post>
+</Thread>

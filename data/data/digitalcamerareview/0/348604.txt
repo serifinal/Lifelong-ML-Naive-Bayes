@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>S90</Title>
+		<Username>tech1a</Username>
+		<Datetime>11-04-2010, 10:07 AM</Datetime>
+		<Content>Great forum here. I have the Canon S90. Can anyone tell me how to change from military time to 12hr. time? Thanks for any help.</Content>
+	</Post>
+</Thread>

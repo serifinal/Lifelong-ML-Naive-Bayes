@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD1200 real world battery life?</Title>
+		<Username>halfbuck</Username>
+		<Datetime>08-09-2009, 02:57 AM</Datetime>
+		<Content>I've been searching for a quality, pocketable camera with great battery life. I like the size (and reviews) of the SD1200. Its battery life is rated at 260 shots. How does this compare to your real world experiences? Most of the ultra-compact Canon models that I've looked at have battery life specs that lag compared to some of the other brands (like Sony), but I'm having a difficult time leaving Canon. I currently have an A710. The ability to use rechargeable AA's is great, and they provide juice for a lot of pics, but again, I'd like to go pocketable and ditch the belt bag. I've considered the new A2100, but it's still a bit big (especially compared to the SD1200), and I'd still have to carry spare AA's. Even though I'd probably carry a spare for the SD1200, the size and weight would be negligable (and I still wouldn't need a bag). Comments appreciated. Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can Sony BDP-S350 support HDMI and component outputs at same time like the S300?</Title>
+		<Username>xyzzy_nc</Username>
+		<Datetime>07-22-08, 10:42 AM</Datetime>
+		<Content>I upgraded from the BDP-S300 (loaner from dealer) to BDP-S350 and seem to have lost the ability to get component video and HDMI at the same time. I'm using this to feed two different TVs in different zones of an Integra receiver. Anyone know if this is something I need to configure or if it's a function that went away in the new player?</Content>
+	</Post>
+</Thread>

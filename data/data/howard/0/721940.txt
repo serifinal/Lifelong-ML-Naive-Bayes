@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Just Got My Nexus One! How Do I Get FroYo Installed?</Title>
+		<Username>asianraver</Username>
+		<Datetime>06-03-2010 05:01 AM</Datetime>
+		<Content>Hey guys, I just got my N1, it's awesome so far. The surfing experience is amazing! But how do i get Froyo on it? do I have to wait for a Message from Google to choose me before i can install it?</Content>
+	</Post>
+</Thread>

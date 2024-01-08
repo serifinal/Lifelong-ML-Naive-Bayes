@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help! ps3 has bars on top+bottom of Blu-Ray movies</Title>
+		<Username>Agni</Username>
+		<Datetime>06-23-08, 04:36 PM</Datetime>
+		<Content>If i watch the downloaded HD trailers they are full screen but for some reasons the blu-ray movies have the bars anyone know how to fix it? Thanks</Content>
+	</Post>
+</Thread>

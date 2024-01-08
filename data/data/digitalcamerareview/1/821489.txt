@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Where can I buy a "Made In Japan" Canon Powershot G7?</Title>
+		<Username>Balisong</Username>
+		<Datetime>05-06-2007, 12:04 AM</Datetime>
+		<Content>I've asked a dozen websites that carry the camera, but they all say they are not sure where the camera was made. I also called Canon USA asking them if they know the G7 cameras sold in the US are made in Japan, they said they couldn't keep track of them. So can anyone tell me where I can buy a G7 that's made in Japan? Thanks!</Content>
+	</Post>
+</Thread>

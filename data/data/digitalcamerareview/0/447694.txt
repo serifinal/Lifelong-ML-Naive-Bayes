@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with Canon PowerShot S60</Title>
+		<Username>Thauer</Username>
+		<Datetime>01-19-2009, 06:00 PM</Datetime>
+		<Content>When I put the S60 camera is "Auto" mode it displays the movie icon and when I press the shoot button it takes a video clip movie rather than a picture. I've tried re-setting everything to factory/default settings (by holding down the menu button) but it still won't take pictures (only video) in "Auto" mode. Does anyone know how to fix this? Thanks very much.</Content>
+	</Post>
+</Thread>

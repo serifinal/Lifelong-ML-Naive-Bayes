@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Rebel XSi Starter Kit</Title>
+		<Username>MoAl</Username>
+		<Datetime>04-05-2010, 09:53 PM</Datetime>
+		<Content>So I don't know if anyone will actually know the answer to this, but what comes in the office depot starter kit for the Canon Rebel XSi starter kit?</Content>
+	</Post>
+</Thread>

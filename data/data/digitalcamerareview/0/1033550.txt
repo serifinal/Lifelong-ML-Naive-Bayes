@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help w/ Cannon SD850IS</Title>
+		<Username>phototraveler</Username>
+		<Datetime>01-25-2008, 01:27 AM</Datetime>
+		<Content>I got my camera today. I find it to be very time consuming to take a photo with flash. And then it takes forever to take another picture. This causes me to have to make family wait many seconds to take a photo. I like the quality of the photos this camera takes but for some reason this camera has the slowest speed. I have a 5 year old Olympus that I consider slow and this camera is just as slow. If I focus in halfway on the shutter and then press it, it still take a long time to take a photo.</Content>
+	</Post>
+</Thread>

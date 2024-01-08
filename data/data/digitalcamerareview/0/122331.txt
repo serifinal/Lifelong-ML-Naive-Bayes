@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Any A720 IS Users?</Title>
+		<Username>dondford</Username>
+		<Datetime>10-08-2008, 10:46 PM</Datetime>
+		<Content>I just got my A720 and are learning to use it. When I am taking a shot in Auto mode nothing is displayed in the LCD screen either before or after I depress the button half way and the green light does not come on, only the orange light. According to the users manuel the scene should be displayed on the LCD screen with the AF frames displayed in green. It appears that the Auto Focus is not working. Again, nothing is shown on the screen, until I fully depress the button and the picture is taken. It will take the picture fine and display the picture after the picture is taken. Am I missing something. Any help appreciated Thanks, Don</Content>
+	</Post>
+</Thread>

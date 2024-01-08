@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Looking for testing help</Title>
+		<Username>ggaudrea</Username>
+		<Datetime>10-31-2006, 10:08 PM</Datetime>
+		<Content>Hi all, I own a Powershot SD450, and I love it. I use it all the time for both photos and videos. I'm working on some software that'll make it easy to create photo and video galleries from my Powershot. Check it out: http://www.picklish.com Thanks, I appreciate you trying it. It works with JPGs and the AVIs that the powershot creates, converting them to Flash FLV format (the same format YouTube and others use). Here's some example galleries: http://www.picklish.com/gallery http://www.picklish.com/videogallery Thank you for your time! Best, Geoff</Content>
+	</Post>
+</Thread>

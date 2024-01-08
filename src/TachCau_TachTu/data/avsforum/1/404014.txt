@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Need help with a setup for mutiple regions</Title>
+		<Username>marineonastick</Username>
+		<Datetime>07-29-08, 12:31 AM</Datetime>
+		<Content>In a few months I plan on buying my first HDTV and I'm obviously going to get a blu-ray player to go along with it. My problem is that I buy foreign language films from Europe as well, and unfortunately blu-ray still supports region encoding. I am looking to keep this setup 100% legal, so I'd much prefer to not have to resort to downloading torrents and streaming them from a PS3. Other than simply buying two players, one for each region, what other options are there?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>JL 5yr Warranty with second hand TV</Title>
+		<Username>-Ad-</Username>
+		<Datetime>05-06-2008, 1:55 PM</Datetime>
+		<Content>A number of us used the John Lewis pricematch to get out tvs and the 5yr warranty, which is very very nice. BUT, what if we were sell our tv to someone else when upgrading (size of course ). Will the warranty be able to be transfered over to the new owner, or will it be void with the new owner ? Not intending to go 50inch YET, as I have no money, but I really don't know if I can hold off the upgraditis for 5 more years</Content>
+	</Post>
+</Thread>

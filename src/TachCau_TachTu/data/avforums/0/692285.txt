@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Faults with Panasonic G10 ordered from Marks & Spencer in late 2009</Title>
+		<Username>bery_451</Username>
+		<Datetime>01-08-2011, 2:52 PM</Datetime>
+		<Content>Hi, I bought a Panasonic G10 plasma from marks and spencers with a 5 year guarantee. The faults are mll black level rises and image retention for still images left on for short periods of time like 30 seconds. I understand from reading the threads that the problem still happens after a engineer fix. So because of this i would like a refund or exchange. Is it easier to get a refund/exhange through panasonic or the retailer? Is there a template letter i can use in my email or post? whats the correct procedure to get this situation resolved? thanks,</Content>
+	</Post>
+</Thread>

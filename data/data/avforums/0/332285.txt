@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Dead Pixel - What Should I Do</Title>
+		<Username>tubbs</Username>
+		<Datetime>19-11-2011, 3:50 PM</Datetime>
+		<Content>Hi Bought a new 51" Samsung just last night and noticed it has 1 redish dead pixel 12" in from the side, noticed it as I was playing the run in disk on the white background! Just come off the phone from Comet who said take it back they will replace it which is good, but is this the right thing to do or could the next one have more on? From normal viewing distance it is only visible on white or very light backgrounds, so in normal use you'd probably not even know it was there, but now you do you look for it. Thoughts please? Thought about using this http://udpix.free.fr/index.php?p=about, dont know if that works on plasma or is meant for LCD, but the thought of running that on the screen for a couple of hours with static laptop images on screen is frightening for screen burn.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>***2GB Transflash/MicroSD Compatibility List***</Title>
+		<Username>thefellone</Username>
+		<Datetime>09-16-2006 11:59 AM</Datetime>
+		<Content>Does anyone know if Samsung D600 is compatible w/ a 2GB transflash/micro SD memory card? Thx lotz!!</Content>
+	</Post>
+</Thread>

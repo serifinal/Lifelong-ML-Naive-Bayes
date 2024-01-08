@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Powershot S90IS</Title>
+		<Username>bliss</Username>
+		<Datetime>12-10-2009, 10:50 PM</Datetime>
+		<Content>Anyone have experience w. this camera? I am looking for something w/ fast shutter speed to capture pics of my kids, that takes good quality pics and is not big/bulky like a DSLR. Thanks!</Content>
+	</Post>
+</Thread>

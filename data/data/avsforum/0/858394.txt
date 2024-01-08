@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Poll: Touch of Color Red, LNA650</Title>
+		<Username>davez82</Username>
+		<Datetime>04-09-08, 03:14 PM</Datetime>
+		<Content>*topic, do you like the red touch of color, is it deterring you from purchasing the set?</Content>
+	</Post>
+</Thread>

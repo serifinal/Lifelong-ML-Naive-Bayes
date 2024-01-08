@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer Plasma KRP 500A Hours indicator</Title>
+		<Username>sdm197</Username>
+		<Datetime>12-03-2010, 10:20 AM</Datetime>
+		<Content>Hi Everyone, I see that some of you refer to how many hours you have on your TV's, how can I find this info, I have a Pioneer KRP500A. Thanks in advance, SDM197.</Content>
+	</Post>
+</Thread>

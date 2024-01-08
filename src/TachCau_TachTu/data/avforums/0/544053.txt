@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer pdp-433pe broken or needs media box</Title>
+		<Username>kadoosh</Username>
+		<Datetime>20-11-2011, 7:00 PM</Datetime>
+		<Content>I found a Pioneer pdp-433pe 42` plasma screen at the garbage hoping to see if I could fix it. When I try to turn it on the red standby light flashes and when I try to press the button to get out of standby the green light flashes a few times and I hear the clicking sound but the tv doesnt turn on and goes back to that red light. I connected it to my computer, it has a port that looks like a normal dvi port but it says "system cable" white and gray and the dvi fits the white one. The computer does recognize the screen type but still the same problem. Theres no media box or remote. So I heard I might need a media box but then I read this: Quote:</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Tv diy</Title>
+		<Username>robinhood007</Username>
+		<Datetime>07-07-2011, 5:49 PM</Datetime>
+		<Content>My 50 inch Lg Plasma has a red haze over whole screen, the picture is viewable but makes the tv unwatchable, its like the picture is dull/deadish there is also a constant buzzing sound when the tv is on. I showed my tv to a repair guy and he said x and y boards need replacing.is this easy to do myself? i have made computers from components before, but no soldering</Content>
+	</Post>
+</Thread>

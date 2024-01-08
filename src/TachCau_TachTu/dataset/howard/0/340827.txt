@@ -1,0 +1,7 @@
+help .
+i need the mms settings -lrb- server , ip , etc -rrb- .
+okay , i got a ux830 -lrb- lg glimmer -rrb- from us cellular to work on the alltel network .
+all i need now is to get mms working .
+i need .
+primary mmsc server : secondary mmsc server : -lrb- i ca n't change this one for some reason -rrb- user agent profile : mmsc post url : upload address : mmsc post cgi : authorization : model id : thanks for the help if you guys know .
+previous threads have n't been of much use .

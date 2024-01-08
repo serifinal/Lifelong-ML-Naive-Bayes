@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Buying a stand alone region 2 DVD player or hacking current DVD players?</Title>
+		<Username>wtfer</Username>
+		<Datetime>06-01-08, 02:06 AM</Datetime>
+		<Content>Well looks like I will need to buy a region 2 DVD player to view some PAL DVDs, thing is I heard that current DVD players can be legally hacked to view region 2 DVDs, Is that true? I have a PS2, PS3, Xbox & a Xbox 360, any chance any of them can be easily modified to play PAL DVDs? I been looking around & the cheapest region free players are going for around $100 & only upconvert to 1080i (I'm looking specifically for 1080p support).</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Do you own a Toshiba 52HM84?</Title>
+		<Username>SmogMan</Username>
+		<Datetime>04-22-08, 10:11 AM</Datetime>
+		<Content>Does anyone o nthis forum own the Toshiba 52HM84? If so do you conenct devices ot it via HDMI? I am having MAJOR issues with my unti and conencting devices via the HDMI in. All this is giving me a really nasty taste for HDMI.</Content>
+	</Post>
+</Thread>

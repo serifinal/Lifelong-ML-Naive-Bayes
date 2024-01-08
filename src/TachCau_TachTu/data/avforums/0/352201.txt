@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer KRP500P</Title>
+		<Username>KURO16</Username>
+		<Datetime>30-07-2011, 3:02 PM</Datetime>
+		<Content>I've bought a new KRP500P panel without the mediabox KRP M01. Is there a possibility to use the panel without the mediabox? It has only one displayport and I want to use a setupbox with HDMI.</Content>
+	</Post>
+</Thread>

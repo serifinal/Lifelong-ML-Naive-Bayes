@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung 3d Plasma's "blinking"</Title>
+		<Username>colonelblighty</Username>
+		<Datetime>28-07-2010, 12:28 PM</Datetime>
+		<Content>As this issues seems to affect both Samsung Plasma's I thought a separate thread may be in order. I've noticed now a couple of others commenting on their sets be it 7000 or 6900's doing what I call "blinking" when the screen goes black for split second without loss of sound. the issue only manifested it after upgrading the brand new set to the available firmware at the end of May. I've also had instances of loss of sound. which only came about after the new firmware a couple of weeks ago I had comet come out a week or so ago to inspect the TV and they have agreed to come out this Friday to replace the main board. Reading some of the comments recently it appear the new firmware may help this issue. I'm wondering if I should put off comet and try the firmware or let them come and change the main board.</Content>
+	</Post>
+</Thread>

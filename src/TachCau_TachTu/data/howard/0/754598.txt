@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't make phone calls but can receive</Title>
+		<Username>karboo123</Username>
+		<Datetime>02-27-2010 03:13 PM</Datetime>
+		<Content>Hi recently I purchased an unlocked GSM a Sunno S880 running windows mobile 6.5. My service provider is FIDO, my issue currently is that I can receive calls, surf the net, send and receive sms but I cant make outgoing calls it just does not connect. I don't know what to do, I went to Fido and they said maybe it needs to be unlocked again and I went to two places and they both said maybe I got to manually enter the network code but I dont even know how to do that. Any help would be great I really want to get this phone up and running.</Content>
+	</Post>
+</Thread>

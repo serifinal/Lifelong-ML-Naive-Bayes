@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>I need help deciding between these 2 Panasonics!</Title>
+		<Username>FatalShot808</Username>
+		<Datetime>12-01-08, 03:20 AM</Datetime>
+		<Content>Hello, I've been looking for a TV for Nearly 2 months now and I'm pretty sure I do want a Plasma and I was interested in the Panasonic TH42PZ80U or the TH42PZ85U. I would like to know the differences between the two and which would be a better purchase for the money. I know Plasma's do use more Power than LCD's and I heard the 80u was more energy efficient, would this make a really big difference??</Content>
+	</Post>
+</Thread>

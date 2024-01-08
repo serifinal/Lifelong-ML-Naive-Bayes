@@ -1,0 +1,5 @@
+canon sd500 has a white line on lcd . .
+there is a white line covering the top of the lcd screen .
+at one point it was gone but then recently came back again for the second time .
+anyone know why ?
+is it a dead pixel problem ?

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>pioneer 428 warranty to end offerd insurance</Title>
+		<Username>thunder367</Username>
+		<Datetime>21-01-2012, 7:29 PM</Datetime>
+		<Content>just had a letter today off the company who deals with the warranty for pioneer tvs.my current 5 year warranty runs out in 2 months they are offering to cover it ever year for £207 a year is it worth as i have home insurance and the tv is coverd on that like the rest of my hifi and tv stuff including the ps3.all list by model number and make. has anyone else had this offer and how good are they at dealing with claims.insurance company is called domestic & general</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>42" options TX-P42GT30 or VT20</Title>
+		<Username>IWC Dopplel</Username>
+		<Datetime>13-07-2011, 12:48 PM</Datetime>
+		<Content>Richer sounds are selling the VT20 at £800.The GT30 can be found for £850 so nothing in it. which is the best option for 2D TV and DVD. I have a projector in a different room for BR. So mostly for terretrial and DVD's when I want to watch an old films and not be reminded of low resolution on a 134" screen. This will be stand alone in terms of sound. Any thoughts on the extra £500 on the VT30</Content>
+	</Post>
+</Thread>

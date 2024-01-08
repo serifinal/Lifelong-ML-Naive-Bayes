@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone 4 32GB Factory Unlocked BNIB - $1250 OBO</Title>
+		<Username>choch</Username>
+		<Datetime>07-31-2010 03:36 PM</Datetime>
+		<Content>Brand new sealed factory unlocked iphone 4, 32gb storage capacity. With a micro sim card for rogers and eligible for free bumper when you activate it. $1200 OBO, pickup in toronto. email ricktodd44@hotmail.com</Content>
+	</Post>
+</Thread>

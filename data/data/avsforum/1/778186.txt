@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Similar Situation</Title>
+		<Username>sithjedi333</Username>
+		<Datetime>04-29-08, 10:14 PM</Datetime>
+		<Content>To anyone who has seen both the Samsung PN**A550 and Panasonic **PZ800U, how do they compare? I'm planning to get a 58 inch and am deciding whether to pull the trigger on the Samsung now or wait 6 months or so for the Panasonic. Sounds like only the smaller sizes of the Panny are available now, but any comments would be greatly appreciated. Thanks!</Content>
+	</Post>
+</Thread>

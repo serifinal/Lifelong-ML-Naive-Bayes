@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Berryannoying saves photos at JPEG.REM</Title>
+		<Username>ports</Username>
+		<Datetime>09-28-2009 11:25 AM</Datetime>
+		<Content>Has anyone else had trouble with this? through the normal camera app the Bold saves the photos at jpg's.. so i can just hook up my phone to the desktop in disk mode and grab the photos from it. but ive been using BerryAnnoying lately and it saves photos at JPEG.REM... so when i copy them to the desktop and just change the file extension.. they wont work. but i converts them or something just fine when i email the JPEG.REM photos because they show up as JPG's in email. How do I fix this? ports</Content>
+	</Post>
+</Thread>

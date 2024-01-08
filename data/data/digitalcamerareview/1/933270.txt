@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Powershot G11 filter</Title>
+		<Username>csicker</Username>
+		<Datetime>12-12-2009, 05:16 PM</Datetime>
+		<Content>My daughter has a Powershot G11 and we were thinking of getting her a protective cover for it, perhaps a filter or two. It bothers my husband that the lens is so exposed. (Our daughter isn't the most conscientious, even with expensive items. Sigh.) I was looking at an Opteka on Amazon (3 for $25) . Would this work as indicated or would I need extra equipment. (I am not sure I would need to get an adapter tube, for instance.) Feedback anyone. Thanks</Content>
+	</Post>
+</Thread>

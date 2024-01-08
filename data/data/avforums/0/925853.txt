@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does mll (black levels), floating blacks problems etc still exist in plasmas today?</Title>
+		<Username>bery_451</Username>
+		<Datetime>30-07-2011, 3:00 PM</Datetime>
+		<Content>after the bad stuff i been hearing within the last 3 years regarding these problems with plasma sets. Are the problems still there with plasmas now or have they gone? did every plasma tv suffered these problems within the last few years? If not which models were problem free? thanks,</Content>
+	</Post>
+</Thread>

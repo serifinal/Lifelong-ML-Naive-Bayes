@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HD STB calibration - HDMI and component outputs</Title>
+		<Username>Rhack1</Username>
+		<Datetime>09-12-08, 05:04 PM</Datetime>
+		<Content>I had my HDTV professionally calibrated a year ago...the calibration was done thru the "normal" menus on the tv (not the service menus)...video input 7 was calibrated -- it was the connection from my Pace HD DC-550 cable box's HDMI to the tv's HDMI...i have since purchased a Hauppauge HD-PVR that connects to the cable box and tv via component inputs... I set the component input up with the same calibration "specs" as the professionally calibrated hdmi tv input...it "looks" good to me...very similar -- but you can't do a side-by-side... so here's my question...i have to assume the right way to do the new component input's setting is thru another calibration...but i don't want to do that now...i'm just wondering how the cable boxes firmware/etc does the conversion of the signal differently between the component and hdmi inputs...i'm not sure if the answer is hugely technical or not... any help/insight would be appreciated... thx...</Content>
+	</Post>
+</Thread>

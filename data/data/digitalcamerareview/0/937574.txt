@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Tiny white dot, please help</Title>
+		<Username>digibrush</Username>
+		<Datetime>05-23-2011, 12:38 AM</Datetime>
+		<Content>A tiny white dot appear on my sx130is images. The dot is fixed in a particular place. It comes with still images(with flash or without flash) and also with videos. How can I get rid of it? please helps.</Content>
+	</Post>
+</Thread>

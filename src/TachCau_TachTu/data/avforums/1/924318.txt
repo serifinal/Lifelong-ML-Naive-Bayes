@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS51D6900 vs Samsung PS51D550</Title>
+		<Username>mentos</Username>
+		<Datetime>26-04-2011, 6:16 PM</Datetime>
+		<Content>Hi all i keep thinking of both these tv`s but im totally undecided which one to go for. i would like to know the main differences,im thinking it is only really the internet features of the d6900?. im not really bothered also that the d6900 has in-built wireless. in my local currys i have seen the d550 and it has black plasic surround,does the d6900 have the same or is it different? also do both tv`s make use of the iphone/ipad app to control the tv via network? i think that would be cool if the d6900 does get the browser. prices i have seen are around £780 for the d550 and £1080 for the d6900. if it is just mainly the app features etc... most of us have laptops,pc`s smartphones for internet stuff. does the extra £300 cost justify just to have a few internet features on a tv? i may have missed the point and it is a totally different screen etc.... help me decide</Content>
+	</Post>
+</Thread>

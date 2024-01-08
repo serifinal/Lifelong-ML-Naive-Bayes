@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>apple iphone 3gs white 16 GB LOOK $525 shipped!</Title>
+		<Username>Myclue</Username>
+		<Datetime>02-21-2010 11:45 PM</Datetime>
+		<Content>I have a used but in excellent condition iphone 3gs in white. Comes with all accessories. Also including Zagg invisishield! Asking $525 shipped. Thanks</Content>
+	</Post>
+</Thread>

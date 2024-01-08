@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nexus One Froyo Update</Title>
+		<Username>beer_wisdom</Username>
+		<Datetime>06-18-2010 03:13 AM</Datetime>
+		<Content>Let's discuss here what is your experience are with new Froyo update for Nexus One. Is anyone got the over the air update from Google? I don't want to do it manually and brick the phone. Thanks!</Content>
+	</Post>
+</Thread>

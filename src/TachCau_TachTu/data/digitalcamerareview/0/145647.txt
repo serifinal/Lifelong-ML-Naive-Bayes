@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>lens for canon a540</Title>
+		<Username>wibz</Username>
+		<Datetime>07-18-2008, 12:27 AM</Datetime>
+		<Content>hi to all, it's been a while since i post here hope i still can get get a reply on my question ok, here's the situation i got a pocket camera canon a540 and i kinna want something more from the camera, i thought of adding a tele lens, so here comes the question after searching on ebay i come uo with 2 prime candidate Code: http://cgi.ebay.com/2.5X-TELE-LENS-for-CANON-POWERSHOT-A510-A520-A530-A540_W0QQitemZ160253248304QQcmdZViewItem?IMSfp=TL080621168r10220 cost = U$73 with delivery http://cgi.ebay.com/2-5X-Tele-Photo-Lens-For-Canon-Powershot-A510-A520-A540_W0QQitemZ190235370083QQihZ009QQcategoryZ15215QQrdZ1QQssPageNameZWD2VQQcmdZViewItem cost = GBP 20 so is it worth it to buy this lens or any other lens anyone can recomended ?? or just leave my a540 as it is since it would only be a waste of money to buy this lens ???? need some enlightment thx</Content>
+	</Post>
+</Thread>

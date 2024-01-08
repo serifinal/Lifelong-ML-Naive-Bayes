@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Zoom Doesn't Work</Title>
+		<Username>Myron</Username>
+		<Datetime>06-29-2009, 09:15 AM</Datetime>
+		<Content>After 2 years' of use and over 80,000 photos, my Canon PowerShot SD 600 developed a problem with the zoom ring. It no longer works. It still can take photos but only at the fixed 5.8mm. It refuses to go into telephoto or digital zoom. To have it repaired would cost more than a new camera. My question is how long is the average life for a digital camera that is often used? I expected the motor that retracts the lens to break first. Which part usually breaks first in a digital camera?</Content>
+	</Post>
+</Thread>

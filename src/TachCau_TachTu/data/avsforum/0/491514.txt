@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Need help with pj selection with restrictions!</Title>
+		<Username>Just me_2004</Username>
+		<Datetime>03-10-08, 08:13 PM</Datetime>
+		<Content>Currently designing a new home and will have a theater room in basement. Design is complete and about to break ground. Meet with a local home theater design company to get a bid and suddenly realized I had a restriction that I never counted on. We have heating and A/C ducting that is going to limit my maximum pj throw to 12.5 feet in a room that is 19' long. I planned to have one row of seating at 14' and another back as far as possible on a raise platform. The local company says the maximum screen size I can get is 103" for a 16:9 ratio and only a couple of PJ will work. One being the JVC RS1x. As much as I would love to have the JVC, it think it is going to break the bank, if you will. Are there other options that will work with these restrictions? Hoping to stay in the $3K to $3.5K range. Thanks in advance for any guidance!</Content>
+	</Post>
+</Thread>

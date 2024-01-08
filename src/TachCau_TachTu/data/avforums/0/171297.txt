@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>new owner of a Panasonic 50" G30 - Help needed.</Title>
+		<Username>holbrook99</Username>
+		<Datetime>15-12-2011, 9:01 PM</Datetime>
+		<Content>I have just bought a Panasonic 50 inch G30 and i need some help with the settings and set up etc. I have a ps3 and a boxee box and use freeview for day to day viewing. At present out of the box im not to happy with the picture etc. Can somebody give me ideal settings for both? i use the boxee to watch movies and ps3 just for games. Thanks in advance.</Content>
+	</Post>
+</Thread>

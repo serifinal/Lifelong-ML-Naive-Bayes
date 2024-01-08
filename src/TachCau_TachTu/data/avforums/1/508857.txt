@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic txp50vt30, offered a price...</Title>
+		<Username>tombac99</Username>
+		<Datetime>17-05-2011, 10:55 AM</Datetime>
+		<Content>I have the opportunity to buy the 55vt30 at £2300 from a friend in the business, is that a good price? It's totally legit and the telly I want. No blu-ray but 2 glasses and obviously no 6 year guarantee. Any opinions? **Thread title should read 55VT, not 50VT**</Content>
+	</Post>
+</Thread>

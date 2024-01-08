@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Coverage in S.W. Calgary Improved Yet? Light Red Vs. Dark Red on the Coverage Maps?</Title>
+		<Username>markhsa</Username>
+		<Datetime>03-15-2010 11:27 AM</Datetime>
+		<Content>I am wondering if the coverage has improved in the far S.W. ( end of Bow trail/Wentworth ) yet? It was very spotty a couple of months ago. I see on the Wind coverage maps now that there is a red/covered area in two tones of Red in Calgary? Is the darker red supposed to mean something?</Content>
+	</Post>
+</Thread>

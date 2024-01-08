@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42VT20B brightness and other possible issues?</Title>
+		<Username>TheBay</Username>
+		<Datetime>21-06-2011, 8:26 PM</Datetime>
+		<Content>Hi all, Just picked up an ex demo 42VT20B, Having a couple of possible issues and wondered if anyone can help or have any opinions. Firstly, when the picture setting is set to "normal" it seems quite dim and lacking brightness, especially with "CATS" switched off, the only way I can get an acceptable picture is to have it on dynamic or turn the contrast up. Also thx, cinema etc are brighter. Another thing I have noticed is there is a lot of "Plasma dot noise" when looking at the menus when on "standard" setting, this is sometimes noticeable in dark scenes, however its almost eliminated when using other picture modes (maybe someone can look at this on their's to see if this also happens if not too much hassle) I have checked the panel hours and it's "330" hours and 51 power cycles, so it's probably been on display +/- a month. Also I have owned a few plasma's previously, my last tv was a px70 so am familiar with the brightness differences with plasma compared to other forms of tv display technologies. Thanks</Content>
+	</Post>
+</Thread>

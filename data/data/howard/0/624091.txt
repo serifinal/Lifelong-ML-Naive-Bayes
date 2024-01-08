@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Unlocked Sony Ericsson TM506 - WIND Mobile - Calgary</Title>
+		<Username>MalluMan</Username>
+		<Datetime>04-18-2010 05:37 PM</Datetime>
+		<Content>Unlocked Sony Ericsson TM506 (Red) Cell Phone for $170. New, Tested. AWS. Works with WIND Mobile 3G, Rogers, Fido Comes with Charger. Features: * Quad Band World GSM Phone * 2 MP Camera * Bluetooth * Memory slot * A-GPS support CALGARY PM if interested</Content>
+	</Post>
+</Thread>

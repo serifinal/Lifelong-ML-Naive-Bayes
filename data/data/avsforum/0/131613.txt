@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PN42A450 vs LG 42PG20 ???????</Title>
+		<Username>CO1</Username>
+		<Datetime>11-11-08, 11:50 PM</Datetime>
+		<Content>I am unable to view these TV's in person so I'm looking for opinions from people that have seen these displays. The only thing I really care about is which of these has the best PQ? The LG appears to have a better contrast ratio and more input & display resolutions but I assume the specs on plasmas are exaggerated like other displays. The LG has a 30 Bit XD Engine video processor and an optical input where as the Samsung has a DNiE+ video processor and a headphone jack. Which one people...please and thanks. LG 42" 42PG20 Display Capabilities 480i/480p/720p/960p/1080i Input Capabilities 480i/480p/720p/960p/1080i/1080p Dynamic Contrast Ratio 1,000,000:1 True Contrast Ratio 30,000:1 Samsung 42" PN42A450 Display Capabilities 480p / 720p Input Capabilities 480i/480p/720p/960p/1080i Dynamic Contrast Ratio 30,000:1 True Contrast Ratio 20,000:1</Content>
+	</Post>
+</Thread>

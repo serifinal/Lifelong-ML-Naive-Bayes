@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A620 help</Title>
+		<Username>allochthonous</Username>
+		<Datetime>08-07-2006, 10:04 AM</Datetime>
+		<Content>Hi. I have had my A620 for just a couple of months and have been primarily using it in Auto mode. I have recently started messing with the other modes (primarily "P", as it is the only one that i understand right now and I just wanted to be able to control the focus target). When i take pictures in lowish light in "P" mode, I notice that the shutter is very slow and all pictures come out blurry, even if i use a tripod. If i use the timer on the tripod, they are OK. So I guess even my pressing of the button is enough to shake? What is odd though is that all of the options (ISO, etc) are still set on AUTO. When I switch back to "Auto" mode, the pics are OK. Same subject, same light conditions. Does this make any sense? Am I misunderstanding "P" mode? Is there a better manual mode to use when I want everything to be auto except the focus target? Also, I noticed that the battery level indicator no longer appears on screen. Any idea why? Lastly, can anyone recommend a "third party" book that explains the options on this camera a little better for beginners than the Canon manuals? Thanks PK</Content>
+	</Post>
+</Thread>

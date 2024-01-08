@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canceling one line in family plan that includes add a line for $7.99</Title>
+		<Username>Reizer</Username>
+		<Datetime>01-19-2010 03:24 PM</Datetime>
+		<Content>Currently I have 4 lines in my family plan. Line 1 + 2 are from the start Line 3 - added for $7.99 Line 4 - added for $9.99 If I were to cancel line #2, then I would have 3 lines. Would line #3 be $7.99 or $9.99? I would like it to be $7.99.</Content>
+	</Post>
+</Thread>

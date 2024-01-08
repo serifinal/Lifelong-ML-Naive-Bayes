@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS - Nexus One for AT&T, Rogers, etc. - BNIB with Froyo!</Title>
+		<Username>sparky12</Username>
+		<Datetime>06-01-2010 12:07 PM</Datetime>
+		<Content>I have for sale a brand new, unlocked Google Nexus One for AT&T, Rogers, etc. This device was opened, rooted and flashed and then put for sale. Not a single scratch, ding, dent or anything else wrong with it. It comes with all original accessories (a/c adapter, data cable, pouch, battery) as well as original box and documentation. Original sales receipt available upon request. I will sell for $599 USD shipped in the US or Canada. Link to the photo gallery Here. PM me with any questions. You can view my feedback HERE. Thanks!</Content>
+	</Post>
+</Thread>

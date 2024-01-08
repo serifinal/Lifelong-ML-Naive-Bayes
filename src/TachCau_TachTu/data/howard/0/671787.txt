@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Got Nokia 5800 and have a few questions</Title>
+		<Username>prot287</Username>
+		<Datetime>06-09-2010 08:14 PM</Datetime>
+		<Content>Hi, I just renewed a 3 yr plan and got a Nokia 5800. It's a very nice phone, but have a few questions. 1. I don't have a data plan, and I want to be careful not to accidentally use it. I connected to Wifi and did some updates. Logs show that it did indeed use wifi and not 3G. Is there a way to completely block off 3G and only allow wifi? 2. How do I know whether the connection is using wifi or "Rogers Internet"? 3. Can I browse via wifi? It seems when I try to browse using wifi, I'm directed to a Rogers page saying I don't have browsing option on my plan and doesn't let me use wifi to browse. 4. Can I flash the phone with a Korean language firmware? I took a look at Navifirm, but I don't know if there's any appropriate Korean firmware available. Is it reasonably safe to do if possible? Thanks.</Content>
+	</Post>
+</Thread>

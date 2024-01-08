@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Plasma PS-42S5H problem: black screen</Title>
+		<Username>MTT</Username>
+		<Datetime>02-01-2009, 4:03 PM</Datetime>
+		<Content>Hi all, I am new to this forum and this is my first post. I finally late last year got my home theater system ready. I got the loudspeakers I want. However now I have encountered problem with my 3 year old TV. I have Samsung plasma TV (42"). Occasionally but several times every day, the screen has started to go black except one horizontal colour line (maybe 4 millileter high) somewhere in the screen. Does anyone happen to know and help me with this i.e. what could cause this ? br, MTT</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New GSM Unlimited plan $49.99 talk and Text (including intl text)</Title>
+		<Username>jibril_s</Username>
+		<Datetime>09-21-2009 04:02 PM</Datetime>
+		<Content>I just recieved this email today... I called and they definately do not have their act together... Seemed like a couple of guys running a business out of an apartment.... Introducing 1st GSM Unlimited Plan !!! $49.99 Monthly Unlimited GSM Talk and Text (Including international text) We are launching September 21, 2009 Largest GSM Network Pay- as-you-go (month to month), No Contract Purchase SIM only or Phone package SIM works with any AT&T phones or Unlocked GSM phones Simple activation ? online or over the phone Port in your old number No roaming or long distance charges POS materials available (Brochures, Posters, etc..) Please call our friendly sales team for SIM and phone pricing You can also e-mail us at sales@solitel.xxx Solitel Inc</Content>
+	</Post>
+</Thread>

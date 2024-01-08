@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>amazon returns panasonic g20</Title>
+		<Username>Solar Archangel</Username>
+		<Datetime>23-07-2011, 10:47 AM</Datetime>
+		<Content>Hello everybody. Has anyone on these forums had a problem getting a refund from amazon on faulty plasma tv's. I recently returned a panasonic 42g20, the problem is they no longer have that model in stock, and that they would have to refund the money to the card I paid with. The thing is when I bought the TV it was with a maestro card, but as of January this year the royal bank of Scotland updated everyone's accounts to a visa debit. Amazon can only pay my refund to my old card but when they go to process it, it will always be rejected by my bank. I am incredibly frustrated as the other option of me getting a refund is by check, which takes 5 to 6 weeks to process. How exactly do amazon think you can go without a TV for 6 weeks is just stupid.</Content>
+	</Post>
+</Thread>

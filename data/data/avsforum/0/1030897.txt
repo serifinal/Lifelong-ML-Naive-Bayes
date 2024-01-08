@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>And the Berkline Home Theater Seating Power Buy Prize winners are ...</Title>
+		<Username>rsh</Username>
+		<Datetime>03-11-08, 03:53 PM</Datetime>
+		<Content>Folks, We are glad to announce the Berkline Home Theater Seating Power Buy Prize winners: 1.Set of 5 plush theatrical pillows (retail price $115.00) ? Roger Griggs Gardnerville, NV; AVSForum name: bobodude 2.The Metropolitan Popcorn 4 OZ machine (retail price $480.00) - Bob Sutton from Harwood, MD; AVSForum name: 4lablover 3. LUTRON RadioRA Car Visor lighting control package (retail price $1800.00) - Ken Arbaugh from Sykesville, MD; AVSForum name: cidsou Congratulations to all winners !!! We would like to thank all Power Buy participants for your support.</Content>
+	</Post>
+</Thread>

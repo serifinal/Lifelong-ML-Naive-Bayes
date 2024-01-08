@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>need advice</Title>
+		<Username>ccmarnaj</Username>
+		<Datetime>09-17-2007, 11:44 PM</Datetime>
+		<Content>hi, I bought the canon rebel XTI, but I want to buy a lens to take pictures of my son playing football. any recomendations?. I don't want to spend a lot of money buying an expensive lens right now, but something to familiarize to the use of the lenses and camera. Thanks</Content>
+	</Post>
+</Thread>

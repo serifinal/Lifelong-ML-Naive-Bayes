@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TX-P42V20 query</Title>
+		<Username>soupdragon</Username>
+		<Datetime>15-02-2012, 4:09 PM</Datetime>
+		<Content>Hi folks I'm posting in a section of the forum I rarely visit as I'm mostly a projector nut and only have a couple of basic entry level tv's but I've decided to upgrade from my Samsung 32" LCD TV to the Panasonic TX-P42V20. The reason I chose this is because I wanted a plasma due to its quick refresh rate and improved black levels compared to the LCD's - and also due to the very favourable review by AVForums team. I'll be watching a lot of skyHD and blu-ray so I'm sure this set will be perfect for that. So I looked at a few models and seen this one on e-bay and got my offer of £500 accepted (described as new other). I'm thinking this is pretty good value due to being over £1k new but then that was a couple of years ago and I've there has never been one sold on here used or completed listings on ebay don't show anything so I'm not sure if I've paid over the odds or not? When the tv arrives, I want to ensure its as described - ie, new other and it says that it was a customer return as an unwanted gift. Therefore, there should be zero or minimal hours on the tv. I know some tv's track hours usage, does this tv have this feature? I have 14 days to return the tv if I'm unhappy so I'll put it through its paces during that time. I would also like to ask if there is anything specific I should be looking out for that might tell me its got a fault (seem like a silly question, faults should be obvious but I don't want to miss something minor and then it develops into something worse!) Any input at all would be much appreciated, thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung LN40A650 40-inch 1080p 120Hz LCD HDTV with RED Touch of Color</Title>
+		<Username>Kelch420</Username>
+		<Datetime>05-30-08, 05:52 PM</Datetime>
+		<Content>Hey guys I was just looking at this tv on amazon and I am just wondering if this would be a good set for gaming? The 40" model i believe is $1500 on amazon and the specs are 1080p, 120hz, 4ms response, 50,000:1 contrast. If anyone who owns this or knows anything about it please let me know, and my main purpose will be for gaming, thanks.</Content>
+	</Post>
+</Thread>

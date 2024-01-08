@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Theater/Game room build. Any comments/advice?</Title>
+		<Username>mpr86</Username>
+		<Datetime>08-13-08, 09:41 PM</Datetime>
+		<Content>Building a Theater/Game and wanted some advice etc. The room is approximately 23' wide x 28' long. What do you guys think of these specs: Screen: 119" Fixed Da-Lite Cinema Countour DA-Mat 16:9 1.3 Gain Projector: Epson Powerlite Pro Cinema 1080p UB 1600 Lumens Receiver: Denon 3808 Speakers: B&W in wall (forgot the model numbers) / 7.1 Subwoofer: JL Fathom 112 12" All equipment will be on shelves in the back right (facing the screen) closet. I am fairly new to this so I don't know much. Am I in the right direction here in terms of the equipment compared to the size of the room? I was told the projector needs to be around 15.11' from the screen. Below are some plans. There are no windows and the room is dedicated for game/theater. Any advice / comments would be appreciated. Thanks!</Content>
+	</Post>
+</Thread>

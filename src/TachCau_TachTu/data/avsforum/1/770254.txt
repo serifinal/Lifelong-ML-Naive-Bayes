@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Amazon selling Sony 920 for amazing price</Title>
+		<Username>techmine</Username>
+		<Datetime>11-21-08, 08:51 PM</Datetime>
+		<Content>Well its been 2 months for me researching on receivers. Still undecided about my choice between Onkyo 606, Yamaha 663, Pioneer 1018 and Sony 920. This evening I saw Amazon selling 920 for only 357 bucks. Only Onkyo is close to this price range. But since Onkyo has few minor issues like over heating, 1080i vs 1080p upscaling and bad interface, I am leaning more towards the Sony. I have rest of the stuff ready to be hooked up to the receiver. Polk Audio 6750 5.1 speaker system, Sony BD 350 and my Vizio LCD. I am looking for a receiver for this combo. I am planning to use HDMI interface mainly. So what you guys suggest. Wait for some more time and look for thanksgiving deal on Yamaha and Pioneer or go with Sony and end my agonizingly long wait for first ever Home Theater system. Thanks, well ahead of all the responses.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Seems T-Mobile Samsung Vibrant Can Work on the Big 3's 3G Network</Title>
+		<Username>ano50</Username>
+		<Datetime>07-28-2010 03:32 PM</Datetime>
+		<Content>I found an interesting thread in XDA developer site. Someone there with an unlocked Vibrant got 3G on AT&T. I think AT&T is using the same 3G bands as Big3s. I have no intention to leave WIND but it's nice to have a choice. It seems this phone is more capable than the official spec. tells us.</Content>
+	</Post>
+</Thread>

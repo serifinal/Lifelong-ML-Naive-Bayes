@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>P50vt30 better than 50vt20?</Title>
+		<Username>JamesP1701</Username>
+		<Datetime>03-06-2011, 10:25 PM</Datetime>
+		<Content>As I've mentioned elsewhere, Panasonic have offered to exhanhe my p50vt20 (due to the floating black issue) for a vt30. I would have to pay £100 difference. Floating black issue aside, is there any particular difference between the two sets? I'm also concerned about this fluctuating blacks issue I've heard about. Very undecided! Many thanks, James</Content>
+	</Post>
+</Thread>

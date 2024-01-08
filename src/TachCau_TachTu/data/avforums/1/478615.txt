@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Plasma - To be or not to be?</Title>
+		<Username>Jimbob89</Username>
+		<Datetime>26-12-2011, 3:18 PM</Datetime>
+		<Content>Hi all, thinking of getting a Plasma and have a few questions, they may be answered with a quick search but there is no such thing as a quick search on here as this forum is massive I have settled on this Plasma, the Samsung PS43D450 as i have read its pretty much unbeatable for the price. My questions are. I still have SD Sky via scart, i know this tech is dinosaur now but is the picture likely to be as degraded as when connecting to some LCD's via scart? Any recommendations for a sub £100 Blu Ray player to compliment the TV? Is burn in a thing of the past or is it something to be worried about? A lot of tv channels now especially on sky use a stupid image in the corner to tell you what channel you are on so i don't want it burnt in, it used to ruin the thought of a plasma for me. Do they need calibration or can you work with peoples stock settings on here? The thought of paying £200+ to calibrate a £300 TV would make me feel a bit ill. Lastly, is the Sammy a good buy? Personally i love them, i own two LE32C530's and they are awesome but Plasma is very different tech. Thanks all</Content>
+	</Post>
+</Thread>

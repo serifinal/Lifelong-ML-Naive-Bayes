@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Customer(DON"T)Care</Title>
+		<Username>gr8throba</Username>
+		<Datetime>25-10-2010, 11:19 PM</Datetime>
+		<Content>This Is a copy of a letter I sent to Panasonic After a recent telephone call to Customer Care , I think you should call yourselves "Customer DON'T Care". The representative I spoke to had an attitude which bordered on rudeness. As a result of this conversation , I will never purchase another Panasonic product again and I will make my opinion heard to any others who may be contemplating a Panasonic purchase. I don't care what anybody says , a $3,000 TV (VIErA TH-50PZ80A 50" (127cm) Full-HD Digital Plasma TV )shouldn't need $500 spent on it after 18 months to keep it going. That is a BAD PRODUCT , I agree that the normal warranty period has expired but to be told " you should have purchased the extended warranty" has only added insult to injury. I will post copies of this letter all over the internet to serve as a warning to others as to what PANASONIC thinks is a fair life span of a top end product. I don't think anyone else will agree with Panasonic "Customer(DON'T)Care". I am 48 years old, and this is the worst purchase I have ever made to date.I would have expected my product replaced with a new one that is not defected OR to be offered new parts(main board)from Panasonic OR at least sympathy.</Content>
+	</Post>
+</Thread>

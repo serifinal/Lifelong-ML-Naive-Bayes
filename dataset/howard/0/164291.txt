@@ -1,0 +1,9 @@
+new dsapa .
+effective june 20th or 30th .
+-lrb- i ca n't remember which . -rrb-
+old length : 12 months data term penalty : flat $ 200 if removed before 12 months new length : same as voice term penalty : full data subsidy , prorated based on months remaining monthly reduction : -lrb- data subsidy / term length -rrb- example iphone - $ 300 data subsidy , 36 month term .
+-lrb- 300 / 36 -rrb- = dsapa reduces by $ 8.33 each month .
+bb curve - $ 175 data subsidy , 36 month term .
+-lrb- 175 / 36 -rrb- = dsapa reduces by $ 4.86 each month .
+some random dates and their dsapa -lrb- iphone example -rrb- month 0 : $ 300 month 6 : $ 250 month 12 : $ 200 month 18 : $ 150 month 24 : $ 100 month 30 : $ 50 month 36 : $ 0 some random dates and their dsapa -lrb- blackberry example -rrb- month 0 : $ 175 month 6 : $ 146 month 12 : $ 116 month 18 : $ 88 month 24 : $ 58 month 30 : $ 29 month 36 : $ 0 welcome to 36mo data contracts !
+i expect rogers/telus to be aligned if not identical .

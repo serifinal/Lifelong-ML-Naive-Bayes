@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic woes, I think I should make a complaint, any advice appreciated</Title>
+		<Username>deadlock</Username>
+		<Datetime>01-08-2011, 6:25 PM</Datetime>
+		<Content>Hi all, n00b here after some advice please Bit of a saga this but I'm considering calling panasonic customer service tomorrow as I'm extremely disappointed with Pana at the moment. july 2009 I purchased a refurbed 42inch plasma viera, got it home and found out there was a fault with the tv not powering back up if you set it in stand by then turned the main switch off, retailer sent engineer, took it away changed software sent it back same day, this time with no sound. I wasn't impressed and retailer soured a replacement direct from pana and gave me 3yr warranty for free (PHEW!) 3 june 2011 the 42 inch viera failed, 10 blinks, warranty wrote it off completely after 3 weeks. I added some money to the insurance credit and Retailer sourced me a Viera TXP50G20 direct from pana last monday, It was delivered thursday, I watched a couple of movies screens amazing!, next night bit of TV then 45 mins of Gran Turismo, tv made a kinda pop/crack noise shut down (smell of melting wires) 7 Blinks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HP Introduces Two New Digital Cameras: HP Photosmart R817 and HP Photosmart R818</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>06-01-2005, 10:00 PM</Datetime>
+		<Content>HP announced the introduction of two new cameras, the Photosmart R818 and the Photosmart R817. Both cameras features a 5.1 megapixel sensor, 5x optical zoom, 8x digital zoom and a 2 inch LCD. At this point you may be asking yourself why there are actually two cameras? First, the R817 comes in a standard silver finish, while the R818 comes in a black matte finish. Also, when you order the R817 you can get it with or without the docking station, while the R818 comes with the R-series docking station. The R817 will ship in July and is available with (349 pounds) or without a docking station (299 pounds). The R818 comes bundled with the HP Photosmart R-series docking station for 399 pounds and will ship in August. Other features of both cameras: 15 unique shooting modes including action, landscape, beach and theatre mode HP Real Life Technologies - featuring a panorama stitch feature to stitch up to 5 images together HP Adaptive Lighting Technology - automatically brightens selected areas of high contrast photos to give brighter, more true-to-life shots HP In-Camera Red Eye Removal - removes red eye from shots while still in the camera Available waterproof housing - allows the camera to be submerged up to 40 meters</Content>
+	</Post>
+</Thread>

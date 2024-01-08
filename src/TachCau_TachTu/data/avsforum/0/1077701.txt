@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>xbox 360 drive on a vista 64</Title>
+		<Username>maryskatejuana</Username>
+		<Datetime>11-20-08, 06:02 PM</Datetime>
+		<Content>hi, i got everything hooked up right, on the cyberlink hd avioser i get everything but hd drive so it says im not ready for hd yet, even though my xbox hd drive is hooked up and windows auto found some drivers, but yet it never comes up in the my computer place so i can't even see the drive though vista knows that its hooked up any ideas on how i caan fix this</Content>
+	</Post>
+</Thread>

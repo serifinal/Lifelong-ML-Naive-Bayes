@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GoodBye</Title>
+		<Username>Photobug4741</Username>
+		<Datetime>01-31-2009, 02:53 PM</Datetime>
+		<Content>it was nice visiting with a few of you, but due to lack of input I am saying goodbye. There is more input over at the Depreview forum.</Content>
+	</Post>
+</Thread>

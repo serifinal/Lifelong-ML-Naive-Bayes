@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Hitachi CMPAS14S</Title>
+		<Username>n_jarv</Username>
+		<Datetime>09-02-2012, 11:52 AM</Datetime>
+		<Content>Hi My 8 year old Hitachi CMPAS14S, which has never given me any problems up until now, will not turn on. Yesterday I turned the TV onto standby, came back to it 10 mins later and it was totally dead. No standby lights, no nothing!! I've changed the power cable to one that I know is working, so that isn't the problem, but I've no idea where to start in finding out how to get it working again. Any help would be much appreciated! Thanks No one can give me any clues?</Content>
+	</Post>
+</Thread>

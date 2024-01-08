@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>Theramuk2</Username>
+		<Datetime>11-09-08, 03:33 PM</Datetime>
+		<Content>I am having trouble updating my new Samsung BDP-1500 player? Can someone talk me through what i do to get the latest fimware and then install it onto the player?? PLEASE HELP!!!</Content>
+	</Post>
+</Thread>

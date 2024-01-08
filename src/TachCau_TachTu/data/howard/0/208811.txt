@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iOS Tips and Tricks</Title>
+		<Username>ianternet</Username>
+		<Datetime>07-16-2008 11:06 AM</Datetime>
+		<Content>So I am trying to find some good tips and tricks that you are all using? maybe some app hacks. or better usability? Also can somethings in the iphone 1st gen work with 3g? I want to test the tethering and some cool tricks just do not want jump ahead of the gun and mess everything up. So this thread shoul dbe all post about tips and tricks users find and tested etc. thanks all for your contribution</Content>
+	</Post>
+</Thread>

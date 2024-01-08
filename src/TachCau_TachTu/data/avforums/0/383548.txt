@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HELP green & pink pixel fault on Samsung ps50c7hd</Title>
+		<Username>podgey3874</Username>
+		<Datetime>19-02-2012, 7:03 PM</Datetime>
+		<Content>HELP green & pink pixel fault on Samsung ps50c7hd More noticeable on menu screen and when screen goes black Seems fine from distance Tried to replace hdmi no joy there Any one suggest anything else be my guest</Content>
+	</Post>
+</Thread>

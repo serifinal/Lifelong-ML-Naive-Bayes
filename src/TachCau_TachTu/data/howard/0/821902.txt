@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Omnia 2 AMOLED backlight off?</Title>
+		<Username>WRS2K</Username>
+		<Datetime>12-11-2009 11:29 AM</Datetime>
+		<Content>I figured the whole point of AMOLED is low power usage meaning because it's got such great contrast/brightness, you don't need a backlight. If I don't turn on backlight, it's just way too dim for daylight use even in the brightest setting. Is this what you guys are experiencing as well? So you end up using backlight anyways?</Content>
+	</Post>
+</Thread>

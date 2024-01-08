@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Faulty!</Title>
+		<Username>SAMBO</Username>
+		<Datetime>11-03-2011, 07:42 AM</Datetime>
+		<Content>I am using my conon camera powershot sx 120 is. The camera was place on the table and it fell down. Now it doest power-on. Please what can I do, as it has no warranty and the service centre close to me is in Saudi Arabia or Dubai. The saudi repair centre does nt pick my calls...what Do I do?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official "Sprint Moto Q" Thread</Title>
+		<Username>stevestarr</Username>
+		<Datetime>09-28-2006 09:12 AM</Datetime>
+		<Content>From what I have heard, the Motorola Q will not launch for Sprint until January..........and its going to be black............. Has anyone heard or know any other information on a release date???</Content>
+	</Post>
+</Thread>

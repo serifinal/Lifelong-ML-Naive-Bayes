@@ -1,0 +1,4 @@
+date disply on canon sx20is .
+can anyone tell me how to change the date -lrb- year -rrb- display on a canon sx20is so that the year display reads only the last two digits of the year ?
+so that instead of reading 10/10/2010 , it would read 10/10/10 .
+thank you in advance !

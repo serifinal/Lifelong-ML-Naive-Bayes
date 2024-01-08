@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon sx10 - blurry photos - help!</Title>
+		<Username>lauraherota</Username>
+		<Datetime>02-25-2009, 10:51 AM</Datetime>
+		<Content>i am a hobbyist and just bought the canon sx10 after a lot of researcr. i wanted something with low shutter lag so i could take photos of my son, who is very active. a lot of the pictures come out blurry, even if i use the sports mode. the manual is very intimidatig and i don't know where to start to look for the answer. can anyone give me some pointers? also, how do i take b/w photos? thanks!</Content>
+	</Post>
+</Thread>

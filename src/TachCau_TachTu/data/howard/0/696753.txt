@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Issues With Long Text Messages</Title>
+		<Username>to_style</Username>
+		<Datetime>09-19-2009 02:20 PM</Datetime>
+		<Content>Just asking a question for a friend, who's on Virgin but doesn't use the forum here. Whenever he gets longer text messages (the ones that get split into two parts, for instance, because the max. characters have been exceeded) from me, or from whoever else, he only gets part 2/2 and doesn't get part 1/2. Another person I know on Virgin has the exact same problem. Is this a common issue with all Virgin mobile customers?</Content>
+	</Post>
+</Thread>

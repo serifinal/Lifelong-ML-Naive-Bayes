@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Email issue on Motorola Droid</Title>
+		<Username>NFDfiremedic</Username>
+		<Datetime>02-13-2010 10:11 AM</Datetime>
+		<Content>When I first got my Droid (not long ago) it would notify throughout the day that a new email had arrived. Similar to the way an SMS text arrives, the phone beeped, an entry for the new email showed up along the top, etc. For the past week or so this no longer occurs. If I go to my email and click refresh, all the new messages appear that were received since last time I manually refreshed. I can't seem to figure out why the phone is no longer checking for new messages throughout the day and notifying me of them. I haven't changed anything. One of the email accounts is through aim.com, the other is through a private ISP. Like I said, they were working perfectly until they spontaneously stopped. Any suggestions?</Content>
+	</Post>
+</Thread>

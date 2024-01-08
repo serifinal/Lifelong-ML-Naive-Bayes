@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>More Power.. new reciever or amp</Title>
+		<Username>cheapskateocer</Username>
+		<Datetime>11-14-08, 07:21 PM</Datetime>
+		<Content>I currently have a onkyo 705, and i just got my new onix rocket setup ,but i want more power so my question is. Do I buy a onkyo 805 for 600 bucks and sell the 705 for $400, or keep the 705 and spend $400 plus shipping on a used emotiva lpa-1? Its obviously way cheaper to buy the 805 and sell the 705 but will the emotiva have that much more power? Im kinda broke after buying the rockets so id like to save some money if theres not much of a difference Thanks</Content>
+	</Post>
+</Thread>

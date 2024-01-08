@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>E71 Video Chat</Title>
+		<Username>Vault Overseer</Username>
+		<Datetime>08-26-2008 10:46 PM</Datetime>
+		<Content>I know there's a camera on the front for video chat, but how does it work? Is it Nokia client? Is there a way to use MSN, Yahoo, or Skype video chat? Finally does anyone here use it? If so, how do you like it?</Content>
+	</Post>
+</Thread>

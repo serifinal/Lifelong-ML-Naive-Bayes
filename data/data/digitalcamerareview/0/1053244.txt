@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New to cameras.</Title>
+		<Username>mechrock</Username>
+		<Datetime>04-16-2009, 07:18 PM</Datetime>
+		<Content>I'm an electronic junky. I like to know a lot about every type of electronic and never got to cameras. Is there a quick sum up guide some where to explain what parts of a camera make them better then others and that sort of thing and what other camera terms mean? Two quick questions... 1. When looking at cameras, what does the image sensor ex(1/2.3-inch) mean to me? 2.When it says on the lens, 38-114mm what does this mean? What numbers are better?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Group Connect feature on Boost Mobile</Title>
+		<Username>JAD622</Username>
+		<Datetime>08-10-2010 08:06 PM</Datetime>
+		<Content>I know in the past that Group Connect was not offered on Boost Mobile phones. However, I was told recently that if you switch from a Sprint/Nextel post paid account to a Boost account you can now bring your existing DC number over as well. If so, would that enable me to use Group Connect as a Boost customer? Any help is greatly appreciated.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>TV Help needed with connections</Title>
+		<Username>gobbledagook</Username>
+		<Datetime>27-06-2011, 7:37 AM</Datetime>
+		<Content>Hi all Not sure if this is the correct forum for this question so will apologise now if not. I am going to buy a new TV and I want it to be a 50" plasma with 3D (I chose the LG 50PW450 model as it fits my budget(barely)). If I were to buy the panasonic viera in my price range I can get the TV with an ethernet socket in the back of it but no 3D. The LG has 3D but no ethernet socket. I want to be able to stream movies off my computer in another room the same as I am doing now with the PS3 on a CRT TV. My setup is computer to PS3 with a very long ethernet/lan cable then PS3 to my CRT TV. If the replacement TV doesnt have ethernet/lan socket but does have HDMI and USB is there any way around this problem to allow me to use the TV to play the files off my computer as if it were just a USB stick. I no longer want the PS3 to be the player as the TV can play 720p files and PS3 can't without lots of messing about. Maybe the ethernet cable can plug into a jack that converts it to a USB or something wonderful like this or maybe I've overlooked something obvious? Not sure if what I wrote makes sense to you guys but I hope so Bottom line I don't want to buy the MUCH more expensive model TV with the ethernet connection in the back. Thanks</Content>
+	</Post>
+</Thread>

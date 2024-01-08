@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nikon Coolpix S51c Review Discussion</Title>
+		<Username>Adam Gabbard</Username>
+		<Datetime>12-13-2007, 12:43 PM</Datetime>
+		<Content>Nikons latest addition to their line of WiFi-enabled cameras comes in a familiar package: the Nikon Coolpix S51c is nearly identical to its predecessor, the S50c, offering the same 3-inch LCD display, an 8.1 megapixel sensor, and some minor changes to the control layout. But continuing changes to Nikon's on-board WiFi system have yet to unleash the full potential of S51c's most distinguishing feature: its wireless transfer capability.Read the full content of this Article: Nikon Coolpix S51c Review</Content>
+	</Post>
+</Thread>

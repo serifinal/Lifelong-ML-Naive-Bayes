@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official "I got the Samsung Vibrant," Thread.</Title>
+		<Username>danny.boi</Username>
+		<Datetime>07-15-2010 08:31 PM</Datetime>
+		<Content>How is the reception compared to other phones in its class? Call quality? Build? Screen responsiveness? Call and Speakerphone volume? Camera quality in low light areas? Touchwiz 3.0?</Content>
+	</Post>
+</Thread>

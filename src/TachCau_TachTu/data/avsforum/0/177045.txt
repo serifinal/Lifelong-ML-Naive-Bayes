@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to determine throw for CIH setups</Title>
+		<Username>Marc Rumsey</Username>
+		<Datetime>05-16-08, 01:40 PM</Datetime>
+		<Content>If (like a lot of folks) you're wondering how to figure out your throw, this should help. Please note: The info below assumes you have a projector with a 16:9 panel, as most do at this point, and a Horizontal Expansion (HE) lens such as the Panamorph UH480, Prismasonic HD5000, ISCO III, etc. For a 2.35:1 Constant Image Height setup using an HE lens, the throw is based on the 16:9 screen width, NOT the 2.35:1 screen width. This is simply because the projector doesn't know that there's an extra lens in front of it stretching the width. For example: Say you want to get a 51" x 120" 2.35:1 screen and you want to know where your JVC DLA-RS2 will work throw-wise. First, figure out what the 16:9 screen width would be, based on your 2.35:1 screen height. You do this by multiplying your screen height by 1.78. In this case: 51" x 1.78 = 90.78" The projector thinks you have a 51" x 90.78" screen. The throw range of the RS2 is 1.4x to 2.8x, so the lens to screen distance has to be between: 1.4 x 90.78" = 10'-7" and 2.8 x 90.78" = 20'-14" From a practical standpoint, I'd give yourself a few inches of wiggle room - Don't go quite as far away or quite as close as mathematically possible. This is because you don't want to run out of focus travel when using the anamorphic lens. A few inches should be good enough insurance. For your own setup, just plug in your throw ratio and screen height to get the resulting throw distances.</Content>
+	</Post>
+</Thread>

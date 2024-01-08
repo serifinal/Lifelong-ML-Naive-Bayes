@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>a430/batteries</Title>
+		<Username>dkweston</Username>
+		<Datetime>01-17-2007, 12:33 AM</Datetime>
+		<Content>i just bought this camera yesterday and it must of killed my batteries in less than 20 minutes...any suggestions..what kind of batteries should i get?</Content>
+	</Post>
+</Thread>

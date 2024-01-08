@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Member & need Help</Title>
+		<Username>casper_zip</Username>
+		<Datetime>02-23-2011, 09:22 AM</Datetime>
+		<Content>Hello to all: I just got a new Canon Powershot SX20 IS, and I am having a focus problem with it. Using the eye viewfinder, everything looks "bleached" out or snowny. Upon opening the swing out screen viewfinder, all looks o.k. Many times, I would much prefer the eye viewfinder. Also in the screen in the wiewfinder, it has about 6 vertical and 6 horizontal lines. I don't want or need this. Anyone who can, please help. I've read, reread my instructions, and have been on the internet trying to solve this problem. Thanks to all of you, Best, casper_zip</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot A520 Digital Camera Review Discussion</Title>
+		<Username>Howard Creech</Username>
+		<Datetime>04-27-2005, 12:00 AM</Datetime>
+		<Content>Canon's "A" series digital cameras have always provided consumers with impressive ease of use, exceptional performance, excellent image quality, and "best in class" bang for the buck, the Canon Powershot A520 doesn't deviate from this family tradition. The A520 is a super choice for advanced amateur photographers just making the jump to digital, but it will also do a great job for casual shooters and as a primary family camera. The A520 is an excellent imaging option for travelers who want a digital camera that will allow them to record their adventures and student photographers who want a digital camera that they can "grow into" as their photographic capabilities evolve. Read the full content of this Article: Canon Powershot A520 Digital Camera Review</Content>
+	</Post>
+</Thread>

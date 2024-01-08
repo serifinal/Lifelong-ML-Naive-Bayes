@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Display model Pio 110Fd vs new 111fd</Title>
+		<Username>Chorzz</Username>
+		<Datetime>09-28-08, 12:46 PM</Datetime>
+		<Content>I know you are not supposed to discuss picing at all but maybe someone could point me in the right direction as to where to post this or someone to talk to. I was in a BB the other day where they had a Pioneer 110FD display model that they were selling for significantly less ($1k+) than a new 111FD. Would any of you consider purchasing the display model at that much of a discount. It seems like a pretty good price, but I was wondering how people's experiences have been with display models in the past, anything to worry about or ask upfront? is there a way to see how many hours it has been on? Thanks</Content>
+	</Post>
+</Thread>

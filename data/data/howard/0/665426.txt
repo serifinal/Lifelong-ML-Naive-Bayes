@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone 4 Micro-SIM for Bell</Title>
+		<Username>clewis4u91</Username>
+		<Datetime>04-20-2010 06:54 AM</Datetime>
+		<Content>So, everyone should be up to date regarding the iPhone 4 news. Apparently it will have a micro SIM card slot. What does this mean for Bell, and basically every other carrier out there? EVERYONE has to adapt to Apple's requirements (typical BS). What should Bell do about this? Make it easier to swap between different SIM cards? How would they go about doing that? Thoughts? The only good thing out of this, would be the ability to pop your iPhone 4 micro SIM out and put it in a 3G iPad (if it won't be locked to Rogers). But yeah, Apple is just basically removing the ability to remove your SIM card to try another phone out....</Content>
+	</Post>
+</Thread>

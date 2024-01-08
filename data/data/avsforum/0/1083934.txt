@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>JBLsound4645</Username>
+		<Datetime>08-20-08, 01:45 PM</Datetime>
+		<Content>Brought Hellboy for ?3.00 pounds at ASDA store today and that is an unbeatable price that bluray can?t match since its got all the same extras galore!!! I?ll be giving this spin ether tonight or tomorrow as I?m not in the mood for busting JBL THX shattering sound right now. Hellboy 2 the golden army (2008) opens this week at Empire cinemas on Friday August 22nd 2008, thou not sure if the Empire Leicester Square screen 1 is playing this via the 56KW JBL THX sound system in digital? High Wycombe is getting Hellboy in digital thou they don?t have THX at the site no more which is major shame because the THX sound system at High Wycombe would put most expensive high end home theatres in the dust, it was that POWERFULL!!! Now then!</Content>
+	</Post>
+</Thread>

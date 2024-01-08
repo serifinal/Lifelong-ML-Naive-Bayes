@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Light right in the path of my projector</Title>
+		<Username>smakovits</Username>
+		<Datetime>07-05-08, 03:15 PM</Datetime>
+		<Content>I was looking at where my projector might sit, and it seems like I will have ceiling lights that sit right in line with the path of the projected image. While I will have a light controlled room, would ambient light emitted from that light have any more effect on the image than ambient light from the sides of the room. meaning if the image is shooting right through a light, would it get any more washed out that it would from lights to the side?</Content>
+	</Post>
+</Thread>

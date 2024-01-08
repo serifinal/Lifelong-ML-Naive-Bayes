@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>health & feeding canon sd950 is</Title>
+		<Username>sd950 IS mine</Username>
+		<Datetime>05-13-2008, 10:02 PM</Datetime>
+		<Content>Picked up a new Canon SD950 IS. Probably an overkill for my point-and-shoot needs, but it's neat. Want to keep it protected. Bought a snug belt carrier - Non-Canon. Looking for the best screen protection I can get. See that Zagg has a body glove (or so it looks), but I didn't see anything for sd950 specifically. I've used screen protectors for my PDA phones, but rarely work well, especially for jelly (flex) screens. What are your experiences with protecting this Canon model. What screen or full camera protectors would you suggest. Experiences appreciated. Thanks in advance.</Content>
+	</Post>
+</Thread>

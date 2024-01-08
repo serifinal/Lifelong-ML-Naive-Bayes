@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Treo 700p drops calls</Title>
+		<Username>gatordragon</Username>
+		<Datetime>09-21-2009 02:44 PM</Datetime>
+		<Content>Hello all, I have a flashed 700p and it's been working great. But for the last 2 months it drops calls after about 1 minute or so. Is there anyway to fix this. Is there an update or something I'm missing. I have no cable but with help from you guys I'm sure I can do whats needed. thanks</Content>
+	</Post>
+</Thread>

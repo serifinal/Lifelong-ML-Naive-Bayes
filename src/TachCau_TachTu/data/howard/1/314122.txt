@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Plantronics Voyager PRO $39.99 TODAY ONLY on Verizon Wireless! Promo Code Inside!!</Title>
+		<Username>M5Rahul</Username>
+		<Datetime>12-30-2009 11:00 AM</Datetime>
+		<Content>HURRY, this won't last long at all!! Free Overnight Shipping! Read this post here -- > PRO $39.99 + Free Overnight Shipping Goodluck!!! I bought one!! MODERATOR: this appears to be over. Thread closed.</Content>
+	</Post>
+</Thread>

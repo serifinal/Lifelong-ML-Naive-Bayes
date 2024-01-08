@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is the Canon powershot sd630 able to be a webcam?</Title>
+		<Username>courtcourt29</Username>
+		<Datetime>07-06-2007, 02:03 PM</Datetime>
+		<Content>I need to know how to do it!!!!</Content>
+	</Post>
+</Thread>

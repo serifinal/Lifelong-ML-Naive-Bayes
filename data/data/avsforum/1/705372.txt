@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Bose Acoustimass 10 Series III Home Entertainment Speaker System</Title>
+		<Username>jeev155</Username>
+		<Datetime>12-26-08, 05:00 PM</Datetime>
+		<Content>Anyone have opinions on this system. I am considering it for my Pioneer VSX 1018. Should i buy it?</Content>
+	</Post>
+</Thread>

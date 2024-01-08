@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>RAW file size</Title>
+		<Username>roadkill401</Username>
+		<Datetime>01-01-2009, 08:44 PM</Datetime>
+		<Content>I am a bit confused about a camera upgrade that I just did. I bought a Canon 40D just before christmas, and have shot a few photo's with the unit all in RAW file format. Each of the files vary from 9-12mb in size. Then in one of the boxing day sales, I found a 50D camera for about the same price that I paid for my 40D, so I used the return policy from the camera store I bought from, and got the newer camera. As you probably know, the 40D is a 10megapixle camera where the 50D is a 15megapixle. That makes it have 50% more pixles. What doesn't make sense is the RAW files from the 50D are between 19-22mb in size. That is about 100% more than the 40D. But as you are only getting 50% more pixels, shouldn't the file size only increase by 50% too? What am I missing here? It is like I am now getting half the number of photo's on my 8gb card than I was before. Is this just me, or is that about right for this camera? Matt.</Content>
+	</Post>
+</Thread>

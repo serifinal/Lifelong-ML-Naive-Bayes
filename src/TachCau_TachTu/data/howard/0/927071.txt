@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rogers 21MBPS HSPA+ Stick is Fido Unlocked</Title>
+		<Username>WorldIRC</Username>
+		<Datetime>10-07-2009 09:07 PM</Datetime>
+		<Content>Upon entering Fido sim , no error message (it was a dead sim). Upon entering a Tmobile sim, invalid sim enter unlock code (it was a dead sim)</Content>
+	</Post>
+</Thread>

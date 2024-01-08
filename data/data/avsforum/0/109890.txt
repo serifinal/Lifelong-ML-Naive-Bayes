@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>December 2nd - Post Black Friday HTiB Round-up</Title>
+		<Username>Braden Russell</Username>
+		<Datetime>12-02-08, 12:38 AM</Datetime>
+		<Content>Today's Show: We did this a couple years ago, and it's probably just as good an idea now as it was then. Being that many of you may have recently purchased your first HDTV at a great price on "Black Friday," we wanted to do a show that will help you decide on a Home Theater in a Box (HTIB) system that will bring the other half of the HD experience into your HD Theater. We list and briefly discuss 5 systems; all of which support Blu-ray - some even include it. more... Listen now - mp3</Content>
+	</Post>
+</Thread>

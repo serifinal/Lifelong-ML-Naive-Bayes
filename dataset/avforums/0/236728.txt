@@ -1,0 +1,6 @@
+sony bravia kdl-26s2030 9 blinks .
+hey everyone !
+yesterday my dad came home with a sony bravia he picked up from a flat he lets out which had been left by the previous person staying there , i tried it today and although it works it turns off randomly and the you have to press the power button to get it on again , after 2-3 times of doing this the tv 's power/standby light flashes red 9 times and pauses for 2/3 seconds and doesnt stop until you unplug the power cable , i 've looked all over the web and have heard it can be 2 diodes -lrb- d 6116 and d 6301 -rrb- but i cant find them on the tv 's power board so i think thats a fix for a defferent model , other threads on this forum have said it could be a tuner card but im completely stumped : / can anyone help me please ?
+many thanks , curtis .
+i forgot the link to the other thread : sony bravia standby light flashes 9 times and have i got this thread in the right place lol ?
+: /

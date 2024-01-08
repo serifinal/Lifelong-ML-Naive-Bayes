@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to break my Philips 6 year old Plasma?</Title>
+		<Username>baldnut</Username>
+		<Datetime>05-01-2012, 2:18 PM</Datetime>
+		<Content>Ok this is probably a wierd request but here is the deal: I used to have an 60" LG which was fantastic (plasma) but around 14 Months of age it broke, I contacted comet who sent out the repair guy who obviously knew nothing because he said it was the panel and would cost £1500 to fix. I sold it on ebay and the guy fixed it with a £70 buffer board I could not afford to buy another 60" so ended up with a 46" Samsung LED whilst offering perfect picture its not the cinema experience I crave! In my other room I have my old faithfull (6 year old) 42" Philips. So.... My wife wont allow me to go an indulge in a new TV as she says the ones we have are fine, but I want to go back to a 59" or 60" Plasma for the main room. So my idea is take down the 42, open it up do something to the inside to give it a nasty looking screen fault or similar, then move the 46" to the back room and buy a new 59/60 for the front room devious I know but its only way I would get a new TV! Then I could probably fix the 42" and throw it in the bedroom or one of the kids rooms Any guidelines as the best way to stop the philips working without irreversably killing it would be great. Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Used rebel XT + lenses, or wait for deal on rebel XS?</Title>
+		<Username>talz13</Username>
+		<Datetime>02-20-2009, 12:55 PM</Datetime>
+		<Content>I am debating my digital SLR purchase right now... I have a friend at work who has a fairly immaculate rebel XT (350D) who may be willing to part with that, a UV filter, 4 and 6 point star filter, and polarizing filter for $350. That would leave me quite a chunk of change to pick up a telephoto and 50mm fixed if I go that route. My other choice is to wait on a rebel XS to go on special for a great price / included telephoto / rebates like I have just missed the last few months. I guess my question is, if I'm not doing anything with continuous shooting mode, would there be much difference between the two. So the choices for me (right now) are: Canon Rebel XT (350D) w/ kit lens Canon Normal EF 50mm f/1.8 II Autofocus Lens Tamron Zoom Telephoto AF 75-300mm f/4.0-5.6 LD Macro Autofocus Lens for Canon EOS Circular polarizer 4 point star filter 6 point star filter ==================== $555 Or: Canon Rebel XS w/ kit lens ==================== $499 or wait for a special on the XS, if they'll have one, to make it more comparable to the XT deal from my friend.</Content>
+	</Post>
+</Thread>

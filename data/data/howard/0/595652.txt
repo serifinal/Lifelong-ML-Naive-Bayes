@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Will the Bell Palm Pre or iPhone (Unlocked) Work With Rogers Network?</Title>
+		<Username>geminihc</Username>
+		<Datetime>11-07-2009 10:54 PM</Datetime>
+		<Content>i'm abit confused, a few years ago, NONE of the phones you get at telus/bell wwould work with rogers since they are on totally diff networks and do not use SIM cards. i'm abit out of date, but it seems it works different now these days (altho still different network CDMA vs GSM) so my question is, if i get a Palm Pre or iPhone, and get them unlocked, will they work on Rogers SIM card? is this phone specific? what about Telus phones, does it work the same?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>qdubb</Username>
+		<Datetime>12-31-08, 11:25 PM</Datetime>
+		<Content>I just replaced the color wheel on my Samsung 46" DLP. I appear to be having the famous color shadowing issue that has become synonymous with this replacement. I updated the CCA values (x,y) based on the sticker that came with the new wheel, but there were also Lv values that I was unable to locate in the service menu. As a result the color and shadowing still looks bad. Attached is the sticker that I received.</Content>
+	</Post>
+</Thread>

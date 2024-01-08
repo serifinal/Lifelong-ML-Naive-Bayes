@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>stop child from changing picture &sound setti gs on 37px80</Title>
+		<Username>charles_b</Username>
+		<Datetime>03-07-2011, 3:06 PM</Datetime>
+		<Content>How can I stop my autistic son changing all the TV settings. He is currently quite obsessed with it and no matter how often we change it back and tell him to stop, he continues to keep on doing it. If there is a lock on the settings that would probably work. Any ideas?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Harmony 880 deal on the web</Title>
+		<Username>sandun</Username>
+		<Datetime>06-02-08, 05:09 PM</Datetime>
+		<Content>FYI, Hopefully, I am not violating any rules in this specific group. Just to let you know, a friend pointed me to this Harmony 880 deal on the web (approx less that $100 AR. Expires June 8.) : http://www.buy.com/retail/coupon.asp?prid=80605356 Too bad I already have the 720 and 659.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon camera phone hoax</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>01-23-2006, 12:47 PM</Datetime>
+		<Content>As I keep a pretty close eye on camera news, I keep seeing the "coverage" of a Canon digital SLR / phone rumor on other camera sites. The best part about it is that, as far as I can tell, the "news" started at BBspot - a known satire site. In fact, their HTML title includes: "Satire for Smart People; the Truth for You". The irony is amazing. For the original humor from BBSpot: http://www.bbspot.com/News/2006/01/c...ne-camera.html</Content>
+	</Post>
+</Thread>

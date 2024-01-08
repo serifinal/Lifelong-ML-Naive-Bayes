@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which LCD has the least problems?</Title>
+		<Username>bnewt</Username>
+		<Datetime>08-13-08, 11:22 AM</Datetime>
+		<Content>I am looking for a 32" set but can not decide which brand to purchase. It seem like every one has some problems. The panasonics have the buzzing sound, Samsung's have the purple haze problem, Sharp the banding problem, etc. I would prefer 1080p, 120hz. I want to upgrade to satellite HD soon. Would any owners care to recommend anything?</Content>
+	</Post>
+</Thread>

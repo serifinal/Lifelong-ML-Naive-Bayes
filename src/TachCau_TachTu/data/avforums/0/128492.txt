@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS51D550 Faults?</Title>
+		<Username>ReValveiT</Username>
+		<Datetime>26-01-2012, 11:11 AM</Datetime>
+		<Content>Hey all, Just bought a Samsung PS51D550 51" Plasma from Currys on Sunday. After living with it for a few days there are a few annoying things I've noticed. 1) A fairly loud buzzing noise coming from the back. The brighter the screen the louder the buzz gets. 2) Some pretty awfull flickering at 60hz, ok at 50hz. Again, the brighter the image, the worse the flickering. This is particularly bad when playing the Wii as it cannot be changed to 50hz progressive through component. This stings my eyes after a while. 3) Ghosting of scrolling text. For example, black credits scrolling on a white background creates a ghosting in the white; like some CRT's used to. 4) What I can only describe as bad power regulation. Say for example I have my PC on (through HDMI/DVI) with a white backgroung. If I open a smaller black window, the rest of the image gets brighter. Kinda like the black portion of the image is allowing more power to the rest of the image (best I can describe). This happens on all sources, but is most easily demonstrated with the PC. Apart from that it's great! X0. I bought this as an upgrade from a 1YR old 3D 40" Samsung LCD and find myself wanting to switch back. Any thoughts? Cheers. Craig.</Content>
+	</Post>
+</Thread>

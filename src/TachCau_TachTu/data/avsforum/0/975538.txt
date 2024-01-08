@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is it possible to convert 3.5mm stereo (male) with speaker wire (female)?</Title>
+		<Username>joba2mo</Username>
+		<Datetime>12-13-08, 07:32 PM</Datetime>
+		<Content>I'm trying to hook up my computer speakers to my Kenwood VR-605 Receiver which only has speaker-wire inputs. Even if it were physically possible, would it sound right?</Content>
+	</Post>
+</Thread>

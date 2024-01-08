@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>weapon xxx</Title>
+		<Username>4mynikka</Username>
+		<Datetime>06-08-2010 09:46 PM</Datetime>
+		<Content>A++++++++++++++++++++++++++++ Dealt with Bob for the Second time, absolutely a great buyer, easy to deal with and very accommodating. Will not hesitate in dealing with him again. Many Thanks and all the Best.</Content>
+	</Post>
+</Thread>

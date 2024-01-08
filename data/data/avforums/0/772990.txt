@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma Posterisation and Colour Banding 2010/2011</Title>
+		<Username>semitone</Username>
+		<Datetime>09-04-2011, 10:05 PM</Datetime>
+		<Content>Its been pointed out that there is confusion about these issues and the 50Hz bug. As there is a good thread going on regarding 50Hz on 2010/2011 models why not one dedicated to this stuff? There's been plenty of posts about it spread over many threads but not a focussed discussion or opportunity to get informed opinion. So whats it all about? Well I have a 46G20, 6 months old now. I LOVE IT on Blu-Rays and my HDDVDs. can happily lose myself in the film, great picture ! (see, there's the balance ) Watching TV programs I often see the weird picture processing problems of posterisation and colour banding on faces. Its been described already by me and others in some detail and I find it maddeningly annoying ! Some have sold up rather than put up with it. Its been seen on the new models too ! Now in the recent reviews both on here and elsewhere I kind of get a feeling of having my wrist being slapped for being so petty as to not just put up with it ! It is apparently a minor issue, generic plasma stuff going on, nothing to worry about ! What causes it? Is there something wrong with my TV ? Am I being over critical ?</Content>
+	</Post>
+</Thread>

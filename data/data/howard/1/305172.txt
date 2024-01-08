@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>iPhone 4 vs. Nexus One</Title>
+		<Username>htcfan</Username>
+		<Datetime>06-22-2010 03:57 PM</Datetime>
+		<Content>I have iphone 3GS and I have to shell out $500 for iphone4 and a long wait now. I am really interested if people who have tried both iphone 3GS and google Nexus (also $529 and unlocked) one to compare the phones please. On usability, features, accessibility. I have used many HTC fans in past, WM phones, symbian etc and fairly conversant with Unix/Linux. So on geekiness side I know android are great, more interested in direct comparisons from howard forum members who had handled both.. I may take android road and ditch iphone4 altogether for a year Thanks</Content>
+	</Post>
+</Thread>

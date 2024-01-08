@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>hurrah!</Title>
+		<Username>BOKOBOY</Username>
+		<Datetime>21-06-2011, 8:08 PM</Datetime>
+		<Content>thats the new gt30 on the wall im trying not to look for problems just now yust switched it on ill let it play for a couple o weeks before i start tweaking</Content>
+	</Post>
+</Thread>

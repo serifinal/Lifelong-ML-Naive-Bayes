@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic GT30 recording question..</Title>
+		<Username>adamknox</Username>
+		<Datetime>06-02-2012, 8:14 PM</Datetime>
+		<Content>First of all for some reason i cant post in the official thread keeps saying "I dont have the rights to edit thread.. :/ " I own a GT30 46" panasonic tv. However i have a question about recording using the USB feature. After a little research ive foun out you cant record to a USB pen drive So ive been doing a little window shopping for a HARD drive enclosure. Before i pay out the money, can any one confirm you can record off of an HDMI source like the ps3? I wish to record some gameplay footage from the Ps3 with the aim then being to transfer the video over to the PC for uploading to youtube. However i get the feeling there may be a block on doing this (as some could record blu ray/dvd movies through this feature) and will only allow recording from an aerial. Is it possible??</Content>
+	</Post>
+</Thread>

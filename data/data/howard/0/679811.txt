@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New 'Extended Coverage' on Coverage Maps</Title>
+		<Username>SS_VS_BB</Username>
+		<Datetime>03-09-2010 07:08 PM</Datetime>
+		<Content>All of a sudden Bell has added a sub-category to it's New HSPA network map. A so-called Extended Coverage has section which covers a large majority of the Prairies and some parts on Ontario. Quoted beneath the new refurbished coverage map is a disclaimer "roaming partners' HSPA and GSM/Edge coverage in certain parts of Manitoba and Saskatchewan. Speed may vary due to topography, environmental conditions, device type and other factors." So basically as I understand it this new "Extended Coverage" isn't HSPA at all, it's old 2G GSM/EDGE network, haha. So what I'm concerned about is Bell advertising it as HSPA, and the future HSPA coverage zones (specifically in northern Ontario) to be filled with sub-par old technology which isn't fast at all. Sure it's great they have coverage all over the Prairies now, but it's the wrong kind of coverage. I think it's unethical to label this Extended Coverage HSPA when it's really GSM... Come on Bell, pull your heads out of your, well you know Your thoughts...?</Content>
+	</Post>
+</Thread>

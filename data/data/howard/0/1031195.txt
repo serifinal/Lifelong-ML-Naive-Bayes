@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Video recording on the Pre via hack ...</Title>
+		<Username>pandora</Username>
+		<Datetime>10-04-2009 06:34 PM</Datetime>
+		<Content>It appears an application is under development to provide video recording on the Palm Pre. A video supposedly taken by the Pre is available at the following link - http://www.precentral.net/video-reco...eing-believing Will Palm release video before a hacked version is publicly available?</Content>
+	</Post>
+</Thread>

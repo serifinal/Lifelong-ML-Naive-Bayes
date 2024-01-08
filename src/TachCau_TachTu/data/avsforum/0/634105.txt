@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>South Texas Home Theater</Title>
+		<Username>golferadam</Username>
+		<Datetime>01-03-09, 02:16 PM</Datetime>
+		<Content>I am starting my bonus room-to-home theater conversion project. I have taken some initial measurements and developed a plan. The project will include the following steps: 1) Remove existing ceiling fan/light 2) Install 8 can/recessed lighting fixtures (on three independent dimmer switches) 3) Wire the room for surround sound speakers 4) Install electrical outlet for ceiling mounted projector 5) Ceiling mount the projector 6) Install 100" high gain screen 7) Install roman blackout shades for light control Equipment List Existing Projector - Optoma HD65 Receiver - Kenwood VR-407 DVR - Comcast Cisco RNG200 Center speaker - Yamaha cheapo Front speakers - Sharper image cheapos To be purchased HDMI cable - 23AWG (25 ft) Speaker wire - 14AWG - 4 conductor (for bi-wire capability) (200 ft) AV wall plates (8) Electrical outlet and wall plate (1) 87" high gain screen - TBD Attached is a preliminary dimensional sketch of the bonus room I will be converting. It is upstairs, above the master bedroom. The room is approximately 14ftx16ft. The room has an 8ft ceiling but on the east side of the room there is a sloped ceiling that runs to 4ft knee wall. The available wall space for the screen is 93in. (see top of attached plan), so I will get an 100in. screen (measured diagonally) with 2in. frame. I will outline the proposed screen size on the wall with painter's tape and post some pics of the room in my next post.</Content>
+	</Post>
+</Thread>

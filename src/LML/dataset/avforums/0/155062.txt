@@ -1,0 +1,2 @@
+calibration new panasonic tx-p65vt30b .
+hello anybody got any info on how to calibrate this beast ???

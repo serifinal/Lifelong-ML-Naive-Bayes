@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>22-24" Smart TV's</Title>
+		<Username>barnabybc</Username>
+		<Datetime>29-12-2011, 6:13 PM</Datetime>
+		<Content>Hi, I am looking to get a small (22-24") TV with the following functions - does anyone know which models support them -Support for Smart TV functions (i.e. iPlayer) -USB connectivity which supports DIVX/XVID etc -Network connectivity for DLNA devices -Freeview I know there is the sony 22/24ex320 series, which is quite expensive. Any other options? Barney</Content>
+	</Post>
+</Thread>

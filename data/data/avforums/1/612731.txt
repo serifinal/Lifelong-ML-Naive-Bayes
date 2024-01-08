@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Up to £550 for gaming LED - suggestions?</Title>
+		<Username>warbie</Username>
+		<Datetime>30-12-2011, 8:23 PM</Datetime>
+		<Content>Hey all - can anyone suggest and LED for 100% gaming. It doesn't have to be anything fancy, just something that handles motion well enough and doesn't suffer from high input lag. Around 40" if possible.</Content>
+	</Post>
+</Thread>

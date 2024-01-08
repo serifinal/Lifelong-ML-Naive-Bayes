@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>A590IS or SX100IS</Title>
+		<Username>walie</Username>
+		<Datetime>04-11-2008, 01:29 AM</Datetime>
+		<Content>I'm in need of a good general purpose camera and these two caught my eye. The 10x zoom on the SX100 is very interesting to me, however the lack of automatic redeye reduction after taking a picture and multi-point autofocus (AiAf) is a concern, is the lack of the multi-point autofocus that big a deal? the A590 is cheaper of course and has the multi-point autofocus as well as automatic red-eye reduction, but the movie mode has been reduced compared to previous models. Which camera would be more satisfactory to me? Does picture quality differ greatly betweek the two? Bear in mind, I do intend to use all the features that either of these camera have (movies, zoom, etc.) I've read numerous reviews on both and am still undecided. Which is the better overall camera? Thanks for your help!</Content>
+	</Post>
+</Thread>

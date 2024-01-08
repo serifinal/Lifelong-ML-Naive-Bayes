@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Distant selling regulations act</Title>
+		<Username>joeac</Username>
+		<Datetime>26-01-2012, 11:38 AM</Datetime>
+		<Content>I managed to get a 50&quot; ST30 during the pricing glitch on M & S, however im finding the TV to be way to big It was delivered to me on saturday. If I understand correctly I have until saturday to get a refund on it and they collect it from me free of charge? can anyone confirm?</Content>
+	</Post>
+</Thread>

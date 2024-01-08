@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>samsung ps50 6900 low image on screen</Title>
+		<Username>chubbs358</Username>
+		<Datetime>29-01-2012, 2:27 PM</Datetime>
+		<Content>hi i have a Samsung PS50C6900 tv and the picture is very good but there is a strip across the top of the screen about 1.5 cm that is black all the time no matter what aspect is chosen it is as if the picture needs to be moved up on the screen there is no image missing it just looks to low and i think there is approximately the same amount of image missing at the bottom but the picture extends all the way to the edge at the bottom do you know if it is possible to shift the image up the screen. i must stress that it is not an aspect issue as the bottom of the picture extends fully to the bottom of the screen and beyond i.e. below the frame of the tv. do you know if i can set the image hight via an engineer menu of somthing like that thank you for any help it is much appreciated</Content>
+	</Post>
+</Thread>

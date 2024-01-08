@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Cheapest OC705 on the web.</Title>
+		<Username>stepyourgameup</Username>
+		<Datetime>09-01-08, 12:16 AM</Datetime>
+		<Content>Who is selling OC703/705 for the cheapest on the web? The cheapest I have seen is 6 24x48x2 for $100. Anyone know of a cheaper place? I have given up on finding it local.</Content>
+	</Post>
+</Thread>

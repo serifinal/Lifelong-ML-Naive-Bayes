@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung D6900 VS D550</Title>
+		<Username>Nicholars</Username>
+		<Datetime>31-01-2012, 7:55 PM</Datetime>
+		<Content>I have read a few reviews etc. with varying results... One says the D550 black levels are quite a bit worse then the 6900 and another 2 say they are quite close... It seems the image quality of these 2 is quite similar except the D6900 has a nicer bezel, less reflective coating, internet features and more calibration options.... I am not sure if this is worth the extra £220 over the D550... I am not THAT bothered about internet as it is not that great anyway... I could live with the reflection but the main things that interest me are : Better black levels, Is the SD scaling any different? Hmmm has anyone tried both of these and can tell me how close they are in terms of image quality?</Content>
+	</Post>
+</Thread>

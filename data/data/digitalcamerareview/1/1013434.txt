@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>G9 Memory Card</Title>
+		<Username>roncall9</Username>
+		<Datetime>06-30-2008, 08:43 PM</Datetime>
+		<Content>Hi. Today I bought a Canon Powershot G9 without memory card. I would like to buy a 4Gb memory card, but I am no sure which is the fastest one. Anybody can suggest me one? Thanks</Content>
+	</Post>
+</Thread>

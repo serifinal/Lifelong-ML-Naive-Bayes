@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which canon should i get??</Title>
+		<Username>Gu1tar_guy1010</Username>
+		<Datetime>12-20-2009, 11:07 AM</Datetime>
+		<Content>So i'm looking at buying an easy to use point and shoot camera for the family. I'm looking at the Canon sd960is and the Canon sd980is. From what i understand the 980 is the same as the 960 execpt for a touch screen. Has anyone had experience with these cameras and which one do you think i should get? Thanks in advance!</Content>
+	</Post>
+</Thread>

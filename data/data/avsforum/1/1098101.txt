@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What January 2009 BDs Releases Are You Planning to Purchase</Title>
+		<Username>OldCodger73</Username>
+		<Datetime>12-22-08, 02:57 PM</Datetime>
+		<Content>What January 2009 BD titles are you planning on purchasing? I bought more than I planned in November and December so I'm really cutting back in January, plus there aren't that many titles that appeal to me. Buy on release: The Pink Panther (Original 1964 Peter Sellers release) Buy at a later date: The Last Emperor Rental: French Connection Zodiac</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why Canons' Powershot SD 600 Unlisted ?</Title>
+		<Username>Myron</Username>
+		<Datetime>07-03-2007, 08:17 AM</Datetime>
+		<Content>I am surprised that my camera model, Canon SD 600, is not listed on Digital Camera Review. Is there a reason? Other 2006 models are listed. I also need to know how I can get a faster shutter speed when I try to capture fast-moving objects. These shots blur. There is no shutter control. When trying to capture an image off a CRT TV screen, the result is a half-darkened image. Any advice?</Content>
+	</Post>
+</Thread>

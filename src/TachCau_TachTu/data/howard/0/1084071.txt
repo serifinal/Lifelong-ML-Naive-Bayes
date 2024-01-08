@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HOWTO/Tutorial: Setup Alltel Blackberry on Page Plus</Title>
+		<Username>cyrusuncc</Username>
+		<Datetime>11-06-2009 10:22 AM</Datetime>
+		<Content>This article is written for those using Alltel branded blackberries. It was written using an 8330 (Curve), but should work for others. 1) Activate the phone on page plus This is fairly simple, and I won't go into this on for this tutorial. You basically need to have the phone working, and do OTA Programming beforehand. 2) Download "hacked" service books. Download the service books in this thread. http://howardforums.com/showthread.php?t=1572974 3) Put phone in Legacy Mode On the phone, go to Options, Advanced Options, Service Books. Press and hold ALT and then press SBEB 4) Load the service books on blackberry Using Device Manager software, Go to Backup, then Advanced. Choose the file you downloaded in step 2. 5) Configure CDMA Setup Screen Dial ##000000 Settings to change: SIP User Id: PHONENUMBER@vzw3g.com SIP Password: vzw MIP User Id: PHONENUMBER@vzw3g.com *Primary HA Address: 255.255.255.255 *Secondary HA Address: 68.28.89.76 *The HA Address might not need to change on your phone, but it did on mine... Credit must be given to pc-tech101, who's tutorials and help made this possible Thanks! Useful Links: http://howardforums.com/showthread.php?t=1583979 http://howardforums.com/showthread.php?t=1572974 http://howardforums.com/showthread.php?t=1574594</Content>
+	</Post>
+</Thread>

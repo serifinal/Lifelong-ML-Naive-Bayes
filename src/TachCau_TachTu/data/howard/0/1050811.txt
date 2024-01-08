@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>US Treasury: "When can we have a public review of your structure?" Fed: "Never."</Title>
+		<Username>FL1134</Username>
+		<Datetime>09-22-2009 12:23 AM</Datetime>
+		<Content>http://www.bloomberg.com/apps/news?p...d=adjvXg1zP.zY The Federal Reserve Board has rejected a request by U.S. Treasury Secretary Timothy Geithner for a public review of the central bank?s structure and governance, three people familiar with the matter said. The Obama administration proposed on June 17 a financial- regulatory overhaul including a ?comprehensive review? of the Fed?s ?ability to accomplish its existing and proposed functions? and the role of its regional banks. The Fed was to lead the study and enlist the Treasury and ?a wide range of external experts.? ?It is not obvious at all why that is a Treasury responsibility or even appropriate why the Treasury would undertake that kind of study,? said Robert Eisenbeis, chief monetary economist at Cumberland Advisors Inc. in Vineland, New Jersey, and a former Atlanta Fed research director. ?The Fed was created by Congress and it is not part of the executive branch.? So Congress can audit the Fed then?</Content>
+	</Post>
+</Thread>

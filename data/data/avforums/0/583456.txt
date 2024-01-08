@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Possible issue with Samsung D8000 Cell Light in Game Mode?</Title>
+		<Username>martpu</Username>
+		<Datetime>13-06-2011, 9:50 PM</Datetime>
+		<Content>Hi Guys, I have a Samsung PS51D8000 and was just tinkering with my picture settings whilst I was on the Xbox dashboard. I turned on 'Game' mode and whilst I can't remember what the default Cell Light is for this mode, I noticed that no matter what number I chose from 9 onwards, the light did not get any brighter??? This isn't necessarily an issue as 9 in 'Game' mode seems more than enough so I can only assume that this mode possibly maxes it to this number behind the scenes but I was wondering whether any of you people had also noticed this? I'm not a TV whizz so please forgive me if I've missed something!!! Cheers.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Viera high pitch buzzing/squeal</Title>
+		<Username>downtownjb80</Username>
+		<Datetime>05-02-2012, 10:57 PM</Datetime>
+		<Content>I have a Panasonic Viera TX-P42U30B and ever since I turned it on there has been a high pitch buzzing almost a squeal. The only time you don't hear it is when the volume is loud enough to drown it out. It is becoming the only thing I hear because it is annoying me so much. What is it?</Content>
+	</Post>
+</Thread>

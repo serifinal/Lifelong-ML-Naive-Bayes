@@ -1,0 +1,12 @@
+how to connect panasonic th-42pw3 plasma to thomson dv3 digital terrestrial recorder ? .
+how do i connect my panasonic th-42pw3 plasma television directly to my thomson dv3 digital terrestrial recorder ?
+i have an old th-42pw3 plasma but the tuner/receiver that comes with it is not working very well .
+is there a way to plug my thomson dv3 digital terrestrial recorder directly into the th-42pw3 without going through the tuner/receiver box ?
+the dv3 only has scart out and s-video .
+the th-42pw3 has the following : av in : i tried going in through this using a scart to rca -lrb- yellow , red , white -rrb- adapter but it did not work .
+i tried s-video but quality was very poor .
+component/rgb in : i have not tried this yet pc in : i bought a cheap -lrb- # 2 from ebay -rrb- scart to pc lead as a cheap punt but it did not work .
+did i have the wrong lead or is this not possible as the quality of my xbox 360 through the pc in is great .
+tuner in : i guess this is just for the tuner only serial : i 'm not sure what this is for here is a link to the user manual for the tv : http://www.canong3.co.uk/tv/42pw3.pdf what would be the best quality connection ?
+if you have a link to the exact lead i need that would really help .
+thanks , daryl

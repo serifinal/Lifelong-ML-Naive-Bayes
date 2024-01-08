@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Problem with sewer cleanout - AKA The Devil Pipe!</Title>
+		<Username>Staffy</Username>
+		<Datetime>04-19-08, 10:35 PM</Datetime>
+		<Content>So I have have a problem I have been avoiding for a year or so.. I have a sewer cleanout pipe in the middle of my concrete floor that is raised over .5"+ and it is driving me nuts. I call it a sewer cleanout, but I also have a normal looking one that Y's off the main pipe coming down the basement wall, so I am not 100% sure what the correct term is for this POS pipe. The cap is in there so tight, I cannot get it off, and as you can see the cross in the top makes it hard to get anything in there to turn it. I have spent hours scraping out hardened plumbers putty with a dental pick tool, but now all of it is gone, and it still will not budge! I want some advice before I just start breaking concrete or trying to cut the lid out with a dremel because I imagine the stench that can result will probably give my wifes morning breath a run for her money... Top View: Side View: The options I am thinking of so far are: -Get a cross shaped key/tool made out of steel that will fit in there. -Cut the top off and try to find a rubber sealed cap I can slide in, then tighten to push out the rubber seal (If this exists) -Get a hammer and a punch and break out the concrete enough to cut the pipe and try to glue on another that is slightly below grade (caps always stick up higher). -Double layer of padding during the carpet phase and trim around the cap? Anything else I am missing?</Content>
+	</Post>
+</Thread>

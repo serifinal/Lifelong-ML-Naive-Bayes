@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Port Blocking</Title>
+		<Username>salv0</Username>
+		<Datetime>04-09-2010 05:59 PM</Datetime>
+		<Content>So I've been hearing that Wind is getting some criticism for "port blocking". I don't really know what the heck that is. From what I gather, certain web servers won't be accessible? I'm mainly just curious. I'm not technologically inept and I know a bit about wireless technology but I've never heard of these ports until Wind started blocking them...</Content>
+	</Post>
+</Thread>

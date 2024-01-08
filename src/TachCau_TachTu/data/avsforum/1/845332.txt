@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which is better: Samsung LNT4665F or Samsung LN40A550 ?</Title>
+		<Username>jsheldon86</Username>
+		<Datetime>12-12-08, 11:56 AM</Datetime>
+		<Content>I am looking to get a nice LCD, but am thinking about buying a refurbished unit to keep it in my budget. What are your thoughts on the Samsung 46" LNT4665F LCD vs. the Samsung 40" LN40A550 LCD? Here are the links: http://www.secondact.com/product/LN4...furbished.html http://www.secondact.com/product/LNT..._LNT4665F.html The 46" is about $100 more than the 40". I am trying to decide if the extra size is worth it, or if I should go with the 550 which is smaller but is a newer model. Your help is appreciated. Thanks!</Content>
+	</Post>
+</Thread>

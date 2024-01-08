@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HELP - NON Techie just bought new TV</Title>
+		<Username>CAVEMAN</Username>
+		<Datetime>28-12-2011, 4:27 PM</Datetime>
+		<Content>Hi, two kids finally wore me down and I relented to getting a replacement for 10 year old CRT TV. Based on internet reviews I bought a panasonic 42" ST30 which should be delivered in a couple of days. Now I need advice as to what cabling I need, kids have wii which has 3 coloured wires, youngest has just got a ps3. We've a sky box which will now probably be replaced with a sky digital. We're wifi connected so will probably buy one of those dongle things. Don't have a blue ray player but ps3 plays blue rays. So what all cabling do I need to order and what sort of price should I be paying for it, is cabling at £50 a go worth it. Have to get the cabling in advance of TV. Any help appreciated.</Content>
+	</Post>
+</Thread>

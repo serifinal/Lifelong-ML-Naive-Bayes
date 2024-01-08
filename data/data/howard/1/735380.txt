@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB Bell Samsung Galaxy S Vibrant</Title>
+		<Username>thefunkie1</Username>
+		<Datetime>09-05-2010 01:53 AM</Datetime>
+		<Content>Looking to buy a Bell Samsung Galaxy S Vibrant. Don't need it rooted or unlocked. I would like to buy one that has download and recovery modes verified to work. I would get one myself but I live in an area where we don't have Bell Mobility. PM me. Thanks for the help.</Content>
+	</Post>
+</Thread>

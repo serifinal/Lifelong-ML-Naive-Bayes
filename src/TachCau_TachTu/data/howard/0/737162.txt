@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Looking for low minutes, reasonable data plan, with BB service, per second billing</Title>
+		<Username>lorax1284</Username>
+		<Datetime>03-11-2010 02:52 PM</Datetime>
+		<Content>I've read the Fido BB FAQ and some of the general Fido FAQ, as well as reviewing the Fido website, but as my requirements stray into the realm of "retentions" I thought I'd post. I'm currently a BB9000 (unlocked) user on a voice-only plan on another carrier. Fido and Solo Mobile are the only 2 carriers I know of in Canada that offer per-second billing, but Solo is still CDMA only and Bell is slightly more evil than Rogers (perhaps equally evil, but I digress). I usually use less than or around 100 minutes per month of talk time. I would like to have BlackBerry service and a small amount of general Internet data to my plan. I want voice mail, but I'm not too fussy on call display. I am keen on avoiding signing a contract: month-to-month, whether the talk time is billed by the minute or I pay for a bulk number of minutes. Some of the Fido prepaid plans seem to offer VM&CID included, but not quite enough minutes to satisfy me. If any Fido insiders could suggest if the features that I have described are available without going on a multi-year contract, please let me know. If it's less than $40 per month all in (excluding taxes), I'm very interested... if it's $50 or over, I'm wary... if it's $60 even if it has "free evenings / weekends" and other stuff I don't need, it's really a non-starter for me. Thanks in advance.</Content>
+	</Post>
+</Thread>

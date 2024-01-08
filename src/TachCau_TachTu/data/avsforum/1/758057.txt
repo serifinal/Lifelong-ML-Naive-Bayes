@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Exchange 40" 1080p LCD for 42" 720p Plasma?</Title>
+		<Username>arice727</Username>
+		<Datetime>01-02-09, 01:59 PM</Datetime>
+		<Content>I recently purchased the Samsung LN40A550, but after seeing a friend's Panasonic plasma, I'm wondering if I should return the LCD and save a few bucks by going with the slightly larger (2") Panasonic TH-42PX80U. I sit about 9-10' away from the TV, so the difference between 720p and 1080p isn't a big deal. The room has little to no direct sunlight and low ambient light, so glare isn't a big issue. My only concern is the potential for burn in because I do some gaming, although not a lot. So, should I return the LCD and go with the Plasma?</Content>
+	</Post>
+</Thread>

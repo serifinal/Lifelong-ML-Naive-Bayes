@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>hdmi and component xbox 360 at same time?</Title>
+		<Username>xhonzi</Username>
+		<Datetime>11-29-08, 09:26 PM</Datetime>
+		<Content>So, I've tried this and it didn't immediately work. Has anyone here figured out a way to get the 360 to output component and HDMI at the same time? I pried the casing off of the the comp cable so that both cables would fit at the same time. I get optical audio out of the component dongle and "hdmi->dvi" video out of the hdmi port. I set both output with either cable to 1280x720 thinking that might make a difference. No dice. So, I'm thinking this is a fool's errand and I just need to spend some more cash on an HDMI splitter to get the signal to the downstairs and upstairs TV's. I was just looking for a "free" solution.</Content>
+	</Post>
+</Thread>

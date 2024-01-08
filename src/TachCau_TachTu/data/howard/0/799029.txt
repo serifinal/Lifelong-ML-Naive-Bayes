@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Adding the UL BBM/IM/Email plan to my voice plan</Title>
+		<Username>JF</Username>
+		<Datetime>08-28-2009 10:58 PM</Datetime>
+		<Content>Hey guys Im thinking of adding the $15 Unlimited Blackberry Messaging (Pin to PIN) Email plan to my existing voice plan. I just have a few questions and wondering if anyone can help me with this.. 1) Do I need to Call in to get this done? 2) At present my internet on the phone is blocked.. will I need to unblock this service? (Though I dont need to browse just check my emails and BBM only) so I dont need any overages. 3) With Instant messaging.. Does that mean I can have my msn/yahoo whatever it may be On 24/7 without being charged a sent extra? Also I can PIN to PIN till my fingers hurt? with anyone around the world? 4) Also what about attachments in an email? does it cost more on the size of the attachment? Can I use my existing email address? 5) If I do call in do get this.. will I have to have it on for 1 year Minimum or be bound on a contract? 6) Finally.. is there any type of credits I can ask for? Sorry for the list of questions guys, Since I get most of my information from this site I figured Id ask the knowledgeable folk here.. Thanks in advance.. JF</Content>
+	</Post>
+</Thread>

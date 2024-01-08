@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>extra lens for canon SX20 IS?</Title>
+		<Username>nshivaa</Username>
+		<Datetime>08-20-2011, 04:40 PM</Datetime>
+		<Content>Is it advisable to buy & use extra/additional lenses,filters,etc.for canon SX20 IS? will it cause any prob to the camera or ...................?</Content>
+	</Post>
+</Thread>

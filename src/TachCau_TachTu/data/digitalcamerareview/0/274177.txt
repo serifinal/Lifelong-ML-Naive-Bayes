@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>White spot on picture with IXUS115HS</Title>
+		<Username>question99</Username>
+		<Datetime>12-05-2011, 11:06 AM</Datetime>
+		<Content>Hi ,i am new here.I just bought IXUS115 2 months ago and found white spot on many picture . It never in same place and moved around.Most of the photo taken with flash mode and nite time .Anyone ecountered same problem.please help!</Content>
+	</Post>
+</Thread>

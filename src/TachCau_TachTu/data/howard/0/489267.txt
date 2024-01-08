@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: iPhone 3G White, Fido 16GB, Shipped</Title>
+		<Username>electricpenguin</Username>
+		<Datetime>04-20-2010 09:39 PM</Datetime>
+		<Content>Hey All, I have a white iPhone 3G (Fido) for sale. I purchased the original one back in December of 2008. Around September 2009 the hold switch stopped working, and for sale here is the replacement I was given under warranty. The phone is no longer under warranty. The phone is in pristine condition. Works perfectly. I applied an Invisible Shield the minute the phone came out of the box. The one on the back is starting to yellow and should probably be replaced, the one on the front is perfect. Photos available on request. Comes with the box from the original, a power adapter and a dock connector cable. PRICE: $280 SHIPPED to anywhere in Canada, or $265 Local Pickup. Willing to accept offers. EP</Content>
+	</Post>
+</Thread>

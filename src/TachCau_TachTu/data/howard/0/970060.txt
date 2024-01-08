@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>If You Swap Your iPhone, Make Sure It's NEW!</Title>
+		<Username>From_Bim</Username>
+		<Datetime>12-30-2009 05:36 PM</Datetime>
+		<Content>When I got my iphone back in November, the battery life was average - however lately I noticed I was not getting the standby time I should be getting so I booked an appointment at the Apple store (Square one) to have a battery test performed. Turns out my iphone battery was not up-to-par and the tech swapped it for (what I thought) was a new device. I slipped the new iphone in my roots tuff case and went home. when I got there, I was about to place a screen protector on it and noticed the is a chip in the top-left corner of the replacement unit (screen). I called the Apple Store back and they booked another appointment for me to come in and swap it again. keep in mind I have the extended Apple Care Coverage. So my question is, when replacing a unit that is still under manufacturers warranty along with having the extended warranty - should I not get a BRAND NEW unit instead of what is obviously a refurbished one? I have an appointment tomorrow to sway again - I wont settle for a refurbished unit this time. Am I wrong for wanting a new replacement? I mean I bought the device last month.</Content>
+	</Post>
+</Thread>

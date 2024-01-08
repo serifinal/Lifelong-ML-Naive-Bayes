@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>3Gs Tips & Tricks</Title>
+		<Username>jhruth</Username>
+		<Datetime>06-20-2009 03:10 AM</Datetime>
+		<Content>For voice control via the headset, hold down the headset button and you'll hear a little beep. Then speak your command. "Play songs by Led Zeppelin" or "Call Robert Plant" and it'll do it.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Software</Title>
+		<Username>glenn</Username>
+		<Datetime>08-16-2009, 06:30 PM</Datetime>
+		<Content>HI folks, can some tell me if there is a better software to use than the one that comes with the camera Cannon SD1200 IS</Content>
+	</Post>
+</Thread>

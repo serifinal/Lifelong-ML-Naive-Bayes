@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>***Official Samsung Code Release Thread***</Title>
+		<Username>L0GiC4L 3ViL</Username>
+		<Datetime>10-17-2009 06:53 AM</Datetime>
+		<Content>Your hands-on reviews, impressions, feedback, and questions about the new Samsung Code start here.......</Content>
+	</Post>
+</Thread>

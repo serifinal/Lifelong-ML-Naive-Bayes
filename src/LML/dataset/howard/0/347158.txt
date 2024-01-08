@@ -1,0 +1,2 @@
+phonescoop : t-mobile hspa + vs sprint wimax & hspa + home router .
+comparison article : http://www.phonescoop.com/articles/article.php?a=376 hspa + home router video http://www.youtube.com/watch?v=p_1ye...layer_embedded

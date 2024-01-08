@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Family Unlimited Texting excludes account from iPhone data?</Title>
+		<Username>firemandan9</Username>
+		<Datetime>04-28-2010 11:12 PM</Datetime>
+		<Content>One of my friends had an out of contract first gen iPhone without data which made some sense because they were out of contract. Now my friend just renewed the contract on her line and got an iPhone 3G (yes despite the 4G around the corner so we think). When they were activating it with customer service they expected to have to start paying for data again but the rep told them that since that had family unlimited texting that they were not required to add data to any of their phones including the iPhone 3G so they never added the data feature. Works fine as a phone and text device without the internet always on and the user is usually in an area she can get WIFI any how. I did not think this was standard policy for AT&T, it it? Yes the data is off without WIFI the phone complains about the feature not being activated and they are not being billed for it. From what I have heard the rep they worked with acted like they do this all the time.</Content>
+	</Post>
+</Thread>

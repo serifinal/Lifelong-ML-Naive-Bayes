@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Taking Photos</Title>
+		<Username>zazonz</Username>
+		<Datetime>06-04-2006, 12:45 PM</Datetime>
+		<Content>I am trying to taking a shot with my a510, but am having trouble. The shot I want is of an object, but I want the background to be clear as well. Anyone got any tips on how to do this? Yeah I suppose I could look in the manual, but that seems like a lot of work. Any help appreciated. Thanks.</Content>
+	</Post>
+</Thread>

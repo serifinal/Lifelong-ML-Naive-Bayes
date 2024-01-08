@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Did WIND Unblock Any Ports?</Title>
+		<Username>alxlabs</Username>
+		<Datetime>07-28-2010 01:38 PM</Datetime>
+		<Content>Did wind unblock any ports after recent CRTC decision on port blocking (CRTC 2010-445 ) ? I did not notice any change... Should we complain to CRTC?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon PowerShot A650 IS</Title>
+		<Username>Caramel</Username>
+		<Datetime>05-06-2008, 12:24 PM</Datetime>
+		<Content>Anyone have this camera? Is it any good? I was looking around on the canon website, it looks like a good buy.</Content>
+	</Post>
+</Thread>

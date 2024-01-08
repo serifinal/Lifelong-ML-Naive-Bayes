@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Bell iPad Micro-SIM / Plan in a USB Stick on Mac</Title>
+		<Username>trueimage</Username>
+		<Datetime>06-11-2010 02:38 PM</Datetime>
+		<Content>is it possible for me to buy a usd modem and plug in my microsim from my iPad and use it on my macbook? Want to watch the live streaming of the world cup at work, and CBC uses flash video Got a slingbox but that isn't working over 3G</Content>
+	</Post>
+</Thread>

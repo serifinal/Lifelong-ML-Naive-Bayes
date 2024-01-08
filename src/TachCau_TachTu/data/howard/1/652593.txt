@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Adding new line to Family Plan from Apple Store</Title>
+		<Username>funbox</Username>
+		<Datetime>06-09-2010 04:18 AM</Datetime>
+		<Content>In preparation for preordering the iPhone 4 from Apple I was wondering if anyone knew if it was possible to add a line to a family plan from Apple's website?</Content>
+	</Post>
+</Thread>

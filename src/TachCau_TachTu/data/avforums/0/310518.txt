@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Firmware PSXXD6900 T-MST5DEUC 1009.1</Title>
+		<Username>Flash3d</Username>
+		<Datetime>18-05-2011, 10:02 AM</Datetime>
+		<Content>Just checked Samsung website (Dutch) and there's a new FW out for the D6900 series. No change log off course.</Content>
+	</Post>
+</Thread>

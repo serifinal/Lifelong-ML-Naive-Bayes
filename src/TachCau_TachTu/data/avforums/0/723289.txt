@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Moving Picture Resolution</Title>
+		<Username>NoisyNeighbour</Username>
+		<Datetime>05-12-2009, 1:53 PM</Datetime>
+		<Content>I only really found out about this because Panasonic Publish this information. Does anyone else ? Would be interesting to see what the values for this really are on new Plasma/LCD sets. Surely this is much more important than Static. Does anyone not watch a moving picture on their TV ? How do TV companies get away with this ? How many consumers are buying a Full HD set with a low 'Moving Picture Resolution'(MPR) Or Perhaps newer LCD/Plasma have quite a high MPR and the consumer is ok. Well who knows as its impossible to find any information on this</Content>
+	</Post>
+</Thread>

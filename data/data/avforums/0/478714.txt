@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TH50PF20 fault - flashing lines</Title>
+		<Username>wyerd</Username>
+		<Datetime>26-11-2011, 5:51 PM</Datetime>
+		<Content>It looks like my 18 month old PF20 has developed a fault. I noticed it a couple of weeks ago when my Onkyo TX-NR807 was returned after having a new HDMI board as the ethernet board was playing up. On first inspection I thought it was the new board was at fault, but after more diagnostics, it appears that its the PDP I've uploaded a video of the problem, namely flashing horizontal lines appearing vertically on the right hand side of the screen. Any ideas on what the cause is before I call AV Sales on Monday? Onkyo HDMI fault - YouTube</Content>
+	</Post>
+</Thread>

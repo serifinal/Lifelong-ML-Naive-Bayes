@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD DVD PQ: Panny 55 vs. Sony 550</Title>
+		<Username>smg002</Username>
+		<Datetime>10-15-08, 07:34 PM</Datetime>
+		<Content>I have no doubt that the blu-ray PQ is great on both units. The deciding factor for me is the sd dvd PQ. Which one is better? Or are there other major differences that I should be considering? Thanks in advance. Phil</Content>
+	</Post>
+</Thread>

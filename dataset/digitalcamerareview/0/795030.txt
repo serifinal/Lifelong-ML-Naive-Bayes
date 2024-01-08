@@ -1,0 +1,20 @@
+why is my t2i video choppy ? .
+i had a canon t1i camera , and it shot 1080 and 720 video fine .
+when i use the new t2i , the video is very choppy .
+the 720/60fps , 1080/30fps and 1080/24fps all come out choppy when i play them back on my computer -lrb- they look great on the camera -rrb- .
+i have a gateway dx4710-05 desktop with a core-2 quad 2.4 ghz system with 6 gb of ram and added an nvidia geforce 9400 gt 1gb ddr2 video card .
+i am recording everything on a san disk extreme sdhc class 10 card -lrb- 8 gb -rrb- .
+when i used the t1i i was using an sdhc 4 gb class 2 memory card , and the 1080 and 720 video still worked fine .
+when i played back my t1i movie clips they were smooth when i opened them -lrb- they were .
+mov movies in quicktime -rrb- , but the t2i files are very choppy .
+is it that my computer ca n't handle the higher frames per second of the movies ?
+i did n't think it was that big of a difference between the two cameras to make the files run so laggy .
+is it the new memory card ?
+is it a setting on the t2i itself ?
+someone told me to go from pal to ntsc -lrb- i 'm in the u.s. -rrb- , but it was already set to ntsc so that was n't it .
+and here is one interesting thing that i do not understand .
+when i import the t2i movie files into sony vegas 9 and render them as a .
+wmv files , the file size of the new movies is way lower , the quality is n't diminished hardly at all , and the videos run perfectly smooth .
+so they are choppy when running straight from quicktime after dragging them to my desktop , but are smooth after being run through sony vegas .
+why are the original videos so laggy and choppy when i try to run them ?
+any thoughts ?

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>I need 25 TV's</Title>
+		<Username>billatlakegeorge</Username>
+		<Datetime>04-29-08, 08:08 AM</Datetime>
+		<Content>I manage a small resort with 25 condos. We are looking to upgrade to HDTV. I was thinking 37" - 42" LCD. I want to keep it at $900 - $1,200 including a mount. What is the best bang for the buck? If any dealers read this feel free to pm me. Thanks</Content>
+	</Post>
+</Thread>

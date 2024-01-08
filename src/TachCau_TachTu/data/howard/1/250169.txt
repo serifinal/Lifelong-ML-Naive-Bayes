@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Galaxy S, Samsung Beam, or SE Xperia X10</Title>
+		<Username>PzykoSkillz</Username>
+		<Datetime>05-17-2010 07:22 PM</Datetime>
+		<Content>I can't make up my mind between these three phones. I love the way that the X10 looks, but i don't really use facebook or any of those so the whole Timescape thing would be a waste. The Beam would be nice b/c I like Samsung and the projector would be useful for my kids if they get bored while we're waiting around somewhere. Plus, the power tends to go out a lot here during storms. The Galaxy S just seems like it will be nice all around. It looks like a fingerprint magnet, but I love the nice video recording that it does. I've never had an Android phone before so I don't think I'll really know what I'm missing if I just get 1.6 on the SE. I'm on AT&T, but I don't care about it not having 3G.</Content>
+	</Post>
+</Thread>

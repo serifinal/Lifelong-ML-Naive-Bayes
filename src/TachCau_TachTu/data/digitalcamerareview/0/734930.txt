@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SD1100 IS video playback problem</Title>
+		<Username>maxmillan</Username>
+		<Datetime>06-15-2009, 02:57 PM</Datetime>
+		<Content>I've taken videos but when I play them back on my camera it plays at fast speed. I had it working properly before and must have resetted it to fast playback. I'm new to this digital technology so please explain how I can playback my video so that I can view them at real time speed? Thanks.</Content>
+	</Post>
+</Thread>

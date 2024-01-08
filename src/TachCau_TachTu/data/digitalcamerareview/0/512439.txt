@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problem with printed pictures vs picture display on camera</Title>
+		<Username>shamilton</Username>
+		<Datetime>11-17-2010, 01:13 AM</Datetime>
+		<Content>Hi all! I recently got a new Canon PowerShot SD780 IS as a gift and so far I love it. The only problem I am having is that sometimes it seems as though the images that are printed out are a bit off centered (either side to side or up and down) from what is displayed on the screen. Any idea what could be causing this or how to fix it? I don't know much about the customized settings and always use my camera on the auto options. Any help would be much appreciated! Thanks!</Content>
+	</Post>
+</Thread>

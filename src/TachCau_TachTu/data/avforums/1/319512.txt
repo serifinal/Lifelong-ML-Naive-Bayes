@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help please - 50/51inch non-reflective screen</Title>
+		<Username>MrHiggy</Username>
+		<Datetime>28-11-2011, 10:48 PM</Datetime>
+		<Content>I'm trying to source a plasma set with a non-reflective screen for partial outdoor use (partial, as in it won't be completely outside but likely to suffer in bright conditions). Most reviews don't reference whether the screen is reflective or not so finding it difficult to find. Budget is around the £500 mark. Any recommendations?</Content>
+	</Post>
+</Thread>

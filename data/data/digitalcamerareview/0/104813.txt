@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What Size Memory Card Do You Use?</Title>
+		<Username>Gautam</Username>
+		<Datetime>05-19-2007, 10:04 PM</Datetime>
+		<Content>What size memory card do you use most often? Post a response if you have more than one, but don't combine MB values. (ie, if you have two 512MB sd cards, don't post 1GB - report 512MB). I have 2x512MB SD cards (most used) & I have 3x64MB, 2x16MB CF cards</Content>
+	</Post>
+</Thread>

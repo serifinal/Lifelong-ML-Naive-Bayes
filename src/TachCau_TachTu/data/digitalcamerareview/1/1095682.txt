@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Australian Cameras</Title>
+		<Username>tag86</Username>
+		<Datetime>05-16-2009, 11:52 PM</Datetime>
+		<Content>I'm looking at getting a new camera and came across these two, the Canon Ixus 860 (Powershot SD870) and the Ixus 870 (Powershot SD880) (why can't they keep the same numbering system?). When I googled them the following links to the Canon Australia website came up. http://www.canon.com.au/products/cam...ixus860is.aspx http://www.canon.com.au/products/cam...ixus870is.aspx The main camera menu on the Canon website doesn't show these cameras, however, and I can't find many places that sell them (only online stores). Are these discontinued models in Australia as it appears that they are still being sold overseas. Thanks</Content>
+	</Post>
+</Thread>

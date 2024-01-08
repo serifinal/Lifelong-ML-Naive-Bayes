@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Upgrade Powershot A510 for SDHC ?</Title>
+		<Username>stainsor</Username>
+		<Datetime>10-26-2008, 05:07 PM</Datetime>
+		<Content>Can I download some sort of firmware upgrade for my Canon Powershot A510 that will allow it to read SDHC cards? (I bought it well before the SDHC standard came out so I'm quite sure that it wouldn't read an SDHC card now.) Thanks in advance.</Content>
+	</Post>
+</Thread>

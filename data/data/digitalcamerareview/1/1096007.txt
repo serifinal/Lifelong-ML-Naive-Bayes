@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>970 vs 990</Title>
+		<Username>Zydan</Username>
+		<Datetime>06-07-2009, 09:28 PM</Datetime>
+		<Content>Which would you purchase, and why? Thanks!</Content>
+	</Post>
+</Thread>

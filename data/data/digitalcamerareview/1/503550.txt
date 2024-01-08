@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>40D is over my budget$$$ options?</Title>
+		<Username>kerouacknew</Username>
+		<Datetime>05-17-2008, 10:20 AM</Datetime>
+		<Content>Am planning on buying my first digital SLR soon. i have been shooting film slr's for years but my only digital experience is with a point and shoot. I was looking at the Xt/Xti/ D40's but when i went to the store to try them did not like the small size of them and the way they felt in my hands. The camera shop guy let me try a canon 40D and that felt much more comfortable. Problem is the 40D is a little out of my price range. I'm wondering about a 30D. Are they similar in size? And are they a decent camera? I know this is a canon forum but also what about the nikon d80 is it equal to the 30D? Thanks shawn</Content>
+	</Post>
+</Thread>

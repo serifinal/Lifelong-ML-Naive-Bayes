@@ -1,0 +1,99 @@
+official samsung lnxxa650 owner 's thread .
+i got a couple requests for an owners thread , so thats why im starting this one .
+most of you who have been follwing the other thread on these know that i have had mine since tuesday and love it .
+i would recommend anyone interested in one to go to a big bix store and try it out for the 30 days .
+i really like the color , but its a personal preference .
+i think the amp has been toned down a bit but it seems to be working nicely .
+i mentioned last night i was able to watch lost last night without any stutter or judder -lrb- i still dont really know the difference -rrb- where as i could never watch that show with any amp with my 69 .
+give it a shot and you will enjoy !
+--------------------------------------------------- may 14 2008 update : a new firmware has been put out for this set .
+ver 2001.3 click on the link to see what it does http://www.samsung.com/us/support/do...sp_nm=ln46a650 may 3 2008 update : firmware upgrades the lnxxa650 lcd series had a flaw in the first run production units that caused the tv to turn off & on sporadically .
+samsung released firmware 1003 .
+g after a few weeks of the tv 's release to fix this .
+the firmware not only fixed the reset problem , but also increased the strength of the auto motion plus feature , but it had a bug that caused the amp to be stuck & not be turned off when set to off .
+the current firmware , 1003 .
+m , was released 3 or so days afterthe 1003 .
+g firmware .
+the new firmware fixed the reset problem & the stuck amp bug , but also toned down the amp strength to previous levels .
+the current 1003 .
+m firmware can be found at : http://www.mediafire.com/?jexhkgj2uhl the previous firmware 1003 .
+g. can be found at : http://www.mediafire.com/?4d5lz449etu ____________________________________________________________ __________________________ bugs & known problems there are currently two know bugs still present with the tv .
+a audio bug where if you mute the sound & have it being run through a receiver or headphones , the sound will un-mute itself .
+more posts talking about the audio bug can be found here : http://www.avsforum.com/avs-vb/showp...postcount=5016 http://www.avsforum.com/avs-vb/showp...postcount=2743 http://www.avsforum.com/avs-vb/showp...postcount=6267 http://www.avsforum.com/avs-vb/showp...postcount=6727 there is also a bug where selecting a 1080p resolution over component will cause frequent dropouts , selecting any resolution other than 1080p will fix this .
+the component dropout have also been confirmed to be on the samsung lnxxa650 dlp series as well .
+there have also been some reports of the stand of the tv being loose & wobbly .
+____________________________________________________________ __________________________ purple haze there have been reports that some models of this tv have a purple haze to them .
+there has been no correlation on which models have this .
+there have been rumors that the haze may be from anti-reflective coating , but nothing has been proven .
+the haze seems to be a isolated incident with few owners reporting it in .
+the haze some have reported might also be from off-axis vertical viewing & not off axis horizontal viewing , as the vertical viewing angles seem to not be as good as samsungs previous 71f lcd .
+pictures of the purple haze : http://www.avsforum.com/avs-vb/showp...postcount=6957 http://img134.imageshack.us/img134/5...0135160za9.jpg http://img134.imageshack.us/img134/5...0135160za9.jpg http://img134.imageshack.us/img134/5...0135160za9.jpg here is a picture of the german model with the purple haze : http://i28.tinypic.com/hrwom1.png here is a off axis vertical picture showing the purple haze : here is some information on dialing down the purple haze : http://www.avsforum.com/avs-vb/showp...postcount=7265 the majority of owners have claimed to not have this haze at all .
+here are some picture of off angle viewing with no purple haze : http://www.avsforum.com/avs-vb/showp...postcount=7134 http://www.avsforum.com/avs-vb/showp...postcount=7135 ____________________________________________________________ __________________________ auto motion plus the strength of the amp by default is toned down from than the previous version in the samsung xx71f series lcd , but it can be upped to the same levels by going into the service menu : http://www.avsforum.com/avs-vb/showp...postcount=5192 quote : originally posted by rivolt for those that need to juice up amp - fyi - i take no responsibility this is easy but it is at your own risk .
+do not mess with settings that you are unsure of .
+to increase amp in the sm what you need to do is : 1 .
+turn off the tv 2 .
+press ` mute ' ' 1 ' ' 8 ' ' 2 ' ` power ' 3 .
+the tv will start and you will be in the sm -lrb- give it a few extra seconds -rrb- .
+notice : on this screen you will see an ` frcm_option ' that is greyed out .
+also take note of the ` view log ' option - you will need this in the end .
+4 .
+the first item is ` optionbyte ' go into that menu .
+5 .
+there will be an ` frcm option ' 6 .
+click and set it to on 7 .
+hit return -lrb- maybe hit it 2x -rrb- to go back to the main menu 8 .
+now you will notice that the frcm_option is not greyed out .
+9 .
+go into the ` frcm_option ' menu 10 .
+you will see film_low - film_medi - film_high listed 4 times each .
+-lrb- sd or hd and 22 and 32 -rrb- 11 .
+to change say amp ` high ' setting change all four film_high options 12 .
+remember that ' 32 ' is off and ' 0 ' is full blast .
+i assume you are looking to make all four film_high _ ?
+d _ # 2 options to ' 0 ' instead of 10 -lrb- default in 1003 .
+m -rrb- 13 .
+once the changes are made hit return to go back to main menu .
+14 .
+go back to optionbyte and turn off the ` frcm option ' 15 .
+go back to the main sm menu and you will see frcm_option greyed out again .
+16 .
+go to the ` view log ' option and choose ` delete log ' 17 .
+press the ` right ' corner of the ` wheel ' on the remote or just right direction on another universal remote .
+the word ` ok ' should appear to confirm that its deleted .
+18 .
+go back and select ` view log ' instead of ` delete log ' and it should say ` log does not exist !! '
+19 .
+now that you 've ` covered your tracks ' .
+you can hit ` power ' to turn off the tv and then turn it back on and magically your ` amp ' will be ` juiced up ' .
+20 .
+enjoy ! .
+increasing the strength can cause more motion artifacts & samsung states that going into the service menu will void your warranty .
+____________________________________________________________ __________________________ service menu in case you need to know what the original values of the service menu were , rivolt took pictures of the service menus in all three firmwares available : http://www.avsforum.com/avs-vb/showp...postcount=4816 sm screens for 1002.3 -lrb- ~ 35mb -rrb- sm screens for 1003 .
+g -lrb- ~ 35mb -rrb- sm screens for 1003 .
+m -lrb- ~ 35mb -rrb- his observations of the differences between the three firmware changes : http://www.avsforum.com/avs-vb/showp...postcount=4828 it is also possible to reset all the settings back to what they were when you bought the tv if for whatever reason you need to .
+znutz had posted how to perform a factory reset : http://www.avsforum.com/avs-vb/showp...postcount=7134 quote : originally posted by znutz a. factory reset -lsb- / b -rsb- 1 .
+turn off the tv 2 .
+press ` mute ' ' 1 ' ' 8 ' ' 2 ' ` power ' 3 .
+the tv will start and you will be in the sm -lrb- give it a few extra seconds -rrb- .
+4 .
+select optionbyte 5 .
+select factory reset twice ____________________________________________________________ __________________________ touch of red & glossy screen the lnxxa650 has a dark crimson colored bezel , that can be seen in extreme lighting conditions , here are some pictures that show the crimson : http://www.fuelslut.net/ihost/files/17006/tvblack2.jpg samsung also announced that there would be multi colors of the bezels for the a650 series during ces , but there has been absolutely no information of any new colors being available anytime soon : the lnxxa650 also has a glossy screen , which is said to have slightly better anti-reflective coating over the previous samsung 71f lcd series .
+here are some comparison pictures of the matted samsung lnxxa550 lcd vs. the glossy lnxxa650 lcd -lrb- thanks to the a550 thread -rrb- : http://www.avsforum.com/avs-vb/attac...3&d=1206562261 ____________________________________________________________ __________________________ upscaler the a650 has a very good upscaler , vastly superior to the previous ones samsung & most other lcd makers has used : some pics of shadow hearts running at 480i : http://www.avsforum.com/avs-vb/showp...postcount=6592 ____________________________________________________________ __________________________ backlight clouding/mura/flashlights some owners have complained that their sets have flashlight on the corners of the tv : http://i26.tinypic.com/2ccmipd.jpg or some backlight clouding/bleed/mura -lrb- example -rrb- : http://i29.tinypic.com/2zi7oqp.jpg here is the official lnxxa650 thread for clouding & flashlights : http://www.avsforum.com/avs-vb/showthread.php?t=1018338 here is a tip to try and remove or lessen the problems : http://www.avsforum.com/avs-vb/showp...78&postcount=6 the official sony backlight thread can be viewed here : http://www.avsforum.com/avs-vb/showthread.php?t=748779 the thread has nearly 9,000 posts about backlight bleeding about the sony xbr2/3 series , but the discussion can be applied to any lcd .
+____________________________________________________________ __________________________ contrast & response time numbers the samsung lnxxa650 series has a quoted dynamic contrast of 50,000:1 , but podol , a korean isf calibrator that did a review of this set came up with different numbers : http://www.avsforum.com/avs-vb/showp...9&postcount=61 quote : originally posted by podol regarding contrast ratio , 71f 's dynamic cr 's are better in my measurement .
+but a650 is better in panel 's static cr with turning off any dynamic backlight control .
+71f -lrb- korean model # f81bd -rrb- 's max cr measured 27525:1 -lrb- even better than samsung 's own 25000:1 spec -rrb- and then blacks read 0.012 nits that time .
+that 's close to pioneer kuro 's blacks -lrb- 0.013 cd/m ?
+initially , 0.006 cd/m ?
+after few seconds -rrb- on the other hands , a650 's max dynamic cr is limited to around 10k to 1 , still better static cr than 71f .
+most new tv 's from any major brand , imo , have enough blacks and cr 's unless you 're watching it in a darkened room a650 has around 2000 to 1 non-dynamic , static cr .
+-lrb- 2291 : 1 for my measurement -rrb- and that 's pretty good enough and better than 71f , i think .
+i assume samsung changed their dynamic backlight control algorithm less aggressively this time and that 's why 71f has more cr .
+but a650 's panels static cr 's higher than 71f .
+the tv is quoted to have a response time of 4ms .
+how that figures into real numbers has not been tested yet , but as a indication hometheatermag.com tested samsung 's previous 120hz model with 8ms .
+response time & they came up with 600 lines motion resolution .
+http://hometheatermag.com/images/arc...8hdtest.5b.jpg ____________________________________________________________ __________________________ calibration the offical samsung lnxxa650 calibration thread is here : http://www.avsforum.com/avs-vb/showt...9#post13515899 cnet calibration for this tv is here : http://help.cnet.com/9602-12576_39-0...sageid=2510694 ____________________________________________________________ __________________________ reviews cnet review of the ln 52a650 is here : http://reviews.cnet.com/flat-panel-t...7.html?tag=tpr podol 's korean review is here -lrb- translated by google -rrb- : http://www.google.com/translate?u=ht...&hl=en&ie=utf8 a youtube video review can be found here : http://www.youtube.com/watch?v=hbaxh9lvx74 ____________________________________________________________ __________________________ input lag & amp motion artifacts borf posted numbers on input lag on his samsung 's xx69f 120hz lcd series here : http://www.avsforum.com/avs-vb/showthread.php?t=960548 all that information can be applied to the xxa650 series as well .
+the only difference is that game mode on these sets seem to really reduce input lag .
+information & pictures of motion interpolation artifacts http://www.avsforum.com/avs-vb/showp...&postcount=342 all these can be applied to the a650 , except the stutter which seems to have been reduced greatly .
+____________________________________________________________ __________________________ inside the panel mikl1984 has posted info & picturs on the actual panel inside the frame : http://www.avsforum.com/avs-vb/showp...&postcount=142 http://www.avsforum.com/avs-vb/showp...&postcount=173 http://www.avsforum.com/avs-vb/showp...&postcount=590 the gamers input lag thread samsung lnxxa650 gamer 's -lrb- input lag -rrb- thread http://www.avsforum.com/avs-vb/showthread.php?t=1110472 fyi big river is a codename for amazon.com people invented here , so quit asking .
+-lsb- / quote -rsb- -lsb- / quote -rsb- -lsb- / quote -rsb-

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HTC Desire Viewing Text messages</Title>
+		<Username>Mach</Username>
+		<Datetime>08-15-2010 01:43 PM</Datetime>
+		<Content>Hi all I'm new to the HTC/Android family. Just moved from the iPhone (good riddance) and I'm in love with my Desire. However, I find that the Desire organizes text messages in a weird way where the recipient and sender messages don't follow one after another ... rather it puts all the recipient responses on the top half of the screen and the sender at the bottom. Does anyone know how to change this?</Content>
+	</Post>
+</Thread>

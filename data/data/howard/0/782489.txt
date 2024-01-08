@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help With Bell Plan With a Samsung Galaxy S Vibrant</Title>
+		<Username>trueimage</Username>
+		<Datetime>08-11-2010 11:07 PM</Datetime>
+		<Content>I'm wondering if someone can help me out - Bell's site doesn't seem to have all the options and I want to know what I'm talking about before I go into the store. I'd like to have the following: Unlimited Five, calling and text to/from 5 #s nationwide text: unlimited or 500 out/unlimited in mms? $30 6GB plan + $10 ipad sharing Voicemail and caller id The "regular" or evening/weekend mins don't matter much because it will be almost al covered with the Unlimited Five package. Any help would be great, I am a new customer and have no plan with any carrier.</Content>
+	</Post>
+</Thread>

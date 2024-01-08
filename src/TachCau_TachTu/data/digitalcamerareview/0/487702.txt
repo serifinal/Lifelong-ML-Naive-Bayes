@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A570 Is for horse pictures. How is it?</Title>
+		<Username>Xannava</Username>
+		<Datetime>08-09-2007, 11:17 AM</Datetime>
+		<Content>Hi there. Hows the A570 IS for taking horse pictures. Not professional ones. Just good enough for my personal use. Thanks.</Content>
+	</Post>
+</Thread>

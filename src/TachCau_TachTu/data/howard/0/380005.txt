@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Using VPN Total Internet on USB Web Connect</Title>
+		<Username>coloradoshane</Username>
+		<Datetime>03-04-2010 05:18 PM</Datetime>
+		<Content>Hi all, I bought a used T-Mobile USB web connect stick off of craigs list and would like to just take the sim out of my unlocked iphone and put into the usb data stick. I am using the VPN Total Internet (generic smart phone package) on my iphone. I tried to use the stick with my sim card and i get a message in my web browser that says "to connect to the internet with the device you are using, you'll need a webconnect data plan." My question is there anyway to get around this? I really do not want to pay $60 a month for their internet plan. Please help me.</Content>
+	</Post>
+</Thread>

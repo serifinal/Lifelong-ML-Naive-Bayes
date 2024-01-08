@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G10 Optimal Settings</Title>
+		<Username>Spikester84</Username>
+		<Datetime>06-08-2009, 4:51 PM</Datetime>
+		<Content>Ok guys, here is a new update as from 14th Feb 2010 The settings below are for an un-hacked Panasonic G10 plasma. If anyone does want any settings added, please send me a private message and I will put them up for you. ------------------------------------------------------------------------------------------ PS3/HD + normal viewing Viewing Mode -- Cinema Contrast -- 33 Brightness -- 27 Colour -- 30 Sharpness -- 4 (mainly because I use these settings for standard def freesat viewing also) Colour Balance -- Warm Colour Management -- OFF Eco Mode -- OFF P-NR -- OFF ------------------------------------------------------------------------------------------ Xbox 360 Viewing Mode -- Game Contrast -- 32 Brightness -- 29 Colour -- 30 Sharpness -- 2 Colour Balance -- Warm Colour Management -- OFF Eco Mode -- OFF P-NR -- OFF ------------------------------------------------------------------------------------------ One thing to remember is that the above settings are what I use for all my G10 viewing, but they may not be perfect for everyone. Steve</Content>
+	</Post>
+</Thread>

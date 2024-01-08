@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Wave coming to Bell!</Title>
+		<Username>TheImpulse</Username>
+		<Datetime>06-28-2010 11:28 AM</Datetime>
+		<Content>Hey guys, Looks like it's been leaked - the Samsung Wave (s8500) is coming to Bell on July 8th!! (Google Samsung Wave Bell for a whole bunch of info!) The price looks like it's going to be $300, regardless of contract length. Right now it's retailing at independent stores for about $400... do you guys think the retail price is going to drop after the Bell release?</Content>
+	</Post>
+</Thread>

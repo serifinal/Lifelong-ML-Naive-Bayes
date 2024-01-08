@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Replacement for Canon Powershot A520</Title>
+		<Username>windracer</Username>
+		<Datetime>09-02-2011, 02:27 PM</Datetime>
+		<Content>New to group. Thanks for some interesting posts. I have a Powershot A520, and have taken some great shots with it over the years. But can only use 2 SD memory card. What is a good replacement for this camera which allows SDHC cards? Also zoom lens. Thanks,</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>undeclared</Username>
+		<Datetime>11-20-08, 08:41 PM</Datetime>
+		<Content>Hi all. I'm strongly decided on a CRT projector. After doing my research, I know that my room can properly hold a 120" screen, and I know that light can be completely removed from said room. I am strongly set on 1080p. Mostly because it is the strongest standard right now, and if not 1080p, and the ridiculous life of these CRT projectors, I might as well get a digital projector (lighter, smaller, and 720p/1080i).. These are my basic reasons for it. I also consider it a big deal how these are more along the lines of industrial quality and modular, and this STRONGLY puts me towards CRT projectors. I was looking at the Marque 8500, and the NEC XG 1351 LCs for sale on Curtpalmes site, but according to his guide, they can handle 1080p alright, just not AMAZINGLY, and possibly even softly. I do not want to plan to get something like this, and then have complaints afterwards after I spent a good deal of money on one. So I come here, to ask your opinions, thoughts, and other details... What projector should I get? Would I be good with a NEC XG 1351 LC... is there a similar alternative that will do this better? I must also mention that a while back (few months ago) I was asking questions about the Marque 8500, but now that I have the money to spend, I have doubts in my mind that need quelling so to speak. I appreaciate all input, and thank you ahead of time for putting in the time to respond to my questions.. - undeclared</Content>
+	</Post>
+</Thread>

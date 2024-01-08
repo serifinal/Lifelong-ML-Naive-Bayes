@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Downey Jr. "The Dark Knight Is Too Smart For Me"</Title>
+		<Username>DaveFi</Username>
+		<Datetime>08-11-08, 11:23 PM</Datetime>
+		<Content>http://www.imdb.com/news/ni0549397/ In possibly the oddest way possible of promoting the upcoming home release of Iron Man, Downey disses the Dark Knight plot as being too complicated for him (and probably many others) and needing a college education to understand. Weird, weird stuff. Well, he'll never work for Nolan that's for sure.</Content>
+	</Post>
+</Thread>

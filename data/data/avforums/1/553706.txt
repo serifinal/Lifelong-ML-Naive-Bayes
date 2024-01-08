@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>50" LG or Panasonic Plasma in 2011?</Title>
+		<Username>F27</Username>
+		<Datetime>04-07-2011, 3:19 PM</Datetime>
+		<Content>I'm thinking of getting a Plasma, I've already done quite a lot of research but I'm still curious about some things. Burn in seems to not be such a big problem as it used to be but is it really a pain to use games consoles or PC input with them, also what about channel logos, sports tickers etc? Do you really have to always be 'on your toes'? Where are the LG and Panasonic TV's made for Europe? Also where are the actual panels made? Why does there seem to be an overwhelming bias towards Panasonic? Most info I have found seems to suggest people think its better purely because its a Japanese brand and its seems its mostly to do with brand loyalty. Its like everyone says your mad to buy anything else! I ask because the LG's I have looked at have better specs, better looking designs and are cheaper. I have never even looked into anything Panasonic till now and for the price I don't see whats so special. LG in my mind is a tier one brand and has been doings Plasma's in a big way for just as long so whats so bad about them?</Content>
+	</Post>
+</Thread>

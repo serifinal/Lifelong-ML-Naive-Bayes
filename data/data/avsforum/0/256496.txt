@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title></Title>
+		<Username>legmaker72</Username>
+		<Datetime>05-25-08, 09:36 PM</Datetime>
+		<Content>Hey gang, This is my problem. I have a Yamaha RX-V661 Receiver and it has two HDMI in ports in the back (one marked DVD and the other DTV/Cable). I have my Toshiba HDXA2 connected to the DVD port on the receiver. I have been switching the cord back and forth between my PS3 to the HD player when watching movies because I cannot get the PS3 to play when hooked into the DTV/Cable port. How can I set the receiver up to recognize the PS3 when connected to the DTV/CBL port? Is it something on the TV I have to do? When I watch the HD player (in the DVD port on receiver) I have to press the SOURCE button on my TV remote to HDMI 1 to watch the DVD. HDMI2 source is the cable/tv. The third option when pressing the SOURCE button on my TV comes up as DTV/AIR. I'm not sure what I'm missing here. My TV is a Samsung 56" HD DLP T5676S if that helps. I'm just trying to avoid having to keep from moving the HDMI cord back and forth between the two players. Thanks guys! I appreciate any assistance you can give. Christopher</Content>
+	</Post>
+</Thread>

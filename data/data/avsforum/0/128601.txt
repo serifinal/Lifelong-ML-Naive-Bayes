@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Speaker placement for my home theater/bedroom</Title>
+		<Username>mpcamill</Username>
+		<Datetime>11-11-08, 03:33 PM</Datetime>
+		<Content>Hello everyone! Since I'm in college and still live with my parents my bedroom doubles as my home theater room. I absolutely love everything about home theaters, but the rest of the fam doesn't really care. So this is what I have to work with... My Room http://www.gliffy.com/pubdoc/1536870/L.jpg Ok I have 5.1ch and I'm looking for some input on where I should put the front left and right speakers and the two surround speakers. The center channel sits ontop of my tv stand. Moving the stuff in my room around isn't an option because of windows and other stuff I didn't include in the diagram. Just incase anyone is wondering the black square next to the sub is a pilar that goes all the way up my wall. Look forward to your suggestions! -Mike</Content>
+	</Post>
+</Thread>

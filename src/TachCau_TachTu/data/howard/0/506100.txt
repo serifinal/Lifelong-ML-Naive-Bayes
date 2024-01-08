@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Upgrading two phones.. two questions..</Title>
+		<Username>SSpiro</Username>
+		<Datetime>03-09-2010 09:58 PM</Datetime>
+		<Content>Hopefully the right forum or subforum.. We have a family plan from Alltel. Three phones. Phone #1 is up for renewal now. Phone #2 is up 4/1. Phone #3 (primary phone/every 2) is up 12/18/10. #1. Phone #1 belongs to mother in law, who doesn't need a new phone. Phone #2 and phone #3 belong to myself and my wife, and we both need the new phone. Alltel would allow us to renew whatever lines we wanted when it was time, and could transfer the contract to a different phone (in this case, contract up for renewal on 12/18 could go to phone #1, phone #2 and #3 are replaced). I hope this makes sense. The question is: VZW willing to do this too? Or was this an Alltel thing? #2. Anyone know when BOGO is up? I'm worried about doing all this on 4/1 and BOGO being gone, as my wife and I want to get the droid. I called customer service and of course they couldn't tell me, and they couldn't forgive this last pending month of renewal, which is BS.</Content>
+	</Post>
+</Thread>

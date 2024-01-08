@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official unlock thread for NAM Motorola Milestone (Telus)</Title>
+		<Username>cmstlist</Username>
+		<Datetime>02-16-2010 09:58 AM</Datetime>
+		<Content>Don't know if this is more appropriate for the Telus HSPA forum or Motorola. I'm going with Motorola because it's about unlocking the Milestone to use elsewhere. Please post in here if you obtained an unlock code for a Telus Milestone and it worked. Even better would be a screenshot or photo/video of the screen, showing your Milestone is running on a non-Telus operator (double bonus if it shows 3G/HSPA reception). Let us know if there were any specific options you had to choose when buying the unlock code to make sure it's for the correct Milestone. Please *also* post in here if the unlock code *didn't* work and let us know who sold you the lemon.</Content>
+	</Post>
+</Thread>

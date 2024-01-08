@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>ditching my blackberry for nexus</Title>
+		<Username>ultra99</Username>
+		<Datetime>02-19-2010 06:07 AM</Datetime>
+		<Content>I have the new BB Bold 2 but was thinking of returning it and getting the Google Nexus, how's the android concerning email and sms? other than google maps, what free map navigation app is there for the android? I need navigation maps for the middle east, specially kuwait. I also don't want to go for the iPhone route.</Content>
+	</Post>
+</Thread>

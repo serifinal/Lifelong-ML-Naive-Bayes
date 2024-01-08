@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant (T-Mobile) - Will It Work on Rogers or Bell Once Unlocked?</Title>
+		<Username>theproman23</Username>
+		<Datetime>09-20-2010 11:53 AM</Datetime>
+		<Content>I am just trying to find out if the Tmobile version of the Samsung Vibrant will work on Rogers or Bell once unlocked? I've been trying to get my hands on the Bell version but it's literally sold out everywhere in Vancouver.</Content>
+	</Post>
+</Thread>

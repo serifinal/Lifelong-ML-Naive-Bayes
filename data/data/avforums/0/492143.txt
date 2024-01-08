@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G10</Title>
+		<Username>bryangiggsy</Username>
+		<Datetime>25-07-2011, 8:15 PM</Datetime>
+		<Content>Hi guys. I just got the sky hd box today and subscription today and have a few questions for ideal picture settings on the Pansonic 42 inch G10 1. For the HD channels what are the recommended picture settings? 2. The regular sd channel picture dont seem to be as good under the hdmi port. so does one normally just switch back to av 1 when watching regular channels. sounds like a dumb question i know however when i switch back to regular the picture is better but i have a broken white line at the top of the screen at the mo? Any suggestions? Thanks Bryan</Content>
+	</Post>
+</Thread>

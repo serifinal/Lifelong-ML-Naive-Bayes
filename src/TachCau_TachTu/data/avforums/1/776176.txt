@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Minimum viewing distance for plasma?</Title>
+		<Username>satwar</Username>
+		<Datetime>25-06-2005, 11:31 AM</Datetime>
+		<Content>This is obviously a newbie question. I am trying to figure out whether plasma or LCD is the correct format for my situation. My viewing distance is only about 6 to 8 feet. With a 27 inch SD TV, if I look, I can see the interlacing line structure of the picture. I am thinking that a 42 " widesrceen would be a nice size because it keeps the same approximate height of screen image. What concerns me, though, is that the pixel size of a plasma is visible at this short viewing distance. I was wondering what people consider as a minimum viewing distance for a plasma.</Content>
+	</Post>
+</Thread>

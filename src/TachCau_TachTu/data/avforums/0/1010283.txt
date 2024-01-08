@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasmas above radiators of fireplaces</Title>
+		<Username>Dunwa</Username>
+		<Datetime>14-04-2005, 8:41 AM</Datetime>
+		<Content>Okay i'll throw this question out there. Should plasmas be mounted above radiators or above fireplaces. In a lot of the promotional material you see the happy couple sitting by a roaring fire with a plasma (usually switched off) mounted on the chimney flu. I'm currently working out the best place to mount my plasma and there are two options. 1 is above a 1M double rad and the other other is on a bare wall. My gut feal tell me mounting it above the Rad is a bad idea ?</Content>
+	</Post>
+</Thread>

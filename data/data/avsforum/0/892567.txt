@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>3 foot HDMI cables long enough?</Title>
+		<Username>roper512</Username>
+		<Datetime>07-13-08, 11:20 PM</Datetime>
+		<Content>Hey I'm trying to visualize the length of 3 foot cables and whether or not they will reach from Pioneer FD-PRO151 to PS3 and receiver.. I have a stand/storage system that is almost identical to this: http://www.salamanderdesigns.com/syn..._img_quads.jpg Is 3 feet enough to get from TV (which will be on the stand) to the ps3/receiver which will be directly underneath? If the cables were straight it's a no brainer but considering they have to be bent or whatnot I'm not sure.. Hard to picture as I do not have the TV or stand yet (they are on order) I'd just like as little cable slack/clutter as possible in my new setup.. Thanks..</Content>
+	</Post>
+</Thread>

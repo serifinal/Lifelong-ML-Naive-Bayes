@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>32" Samsung A550 vs Sony Xbr6</Title>
+		<Username>zgumby85</Username>
+		<Datetime>05-02-08, 12:44 AM</Datetime>
+		<Content>Hey guys I am purchasing a new tv tommorow and need some opinions on which one you would choose. There is only an 80 dollar difference after my discount that i recieve, so if you were me which would you chose: the xbr6 or the a550 (both are 32"). The 24p interests me but i was wondering if it is worth it or if it is just hyped. Also here is what im going to be doing with it : i have a 360 and hdtv but i do still play many ps2 games on my ps2 with component cables. I noticed on my other similarly sized lcds that i get a black bar on the sides of my tv (imagine what 4:3 looks like on a 16:9 tv but shrink the bars on each side until they are about 1-2 inches thick) in which i have tried every setting imaginable on my ps2 and tv. I was wondering if that was a video processing problem or just a problem on that sized screen. Thanks for the input!</Content>
+	</Post>
+</Thread>

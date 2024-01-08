@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>DigitalCameraReview.com off to CES 2008</Title>
+		<Username>David Rasnake</Username>
+		<Datetime>01-05-2008, 10:10 AM</Datetime>
+		<Content>It's that time of year again: the 2008 Consumer Electronics Show (CES), held in Las Vegas, officially kicks off on Monday morning. The DCR staff, along with our colleagues from NotebookReview.com, TabletPCReview.com, Brighthand.com, and SpotStop.com, will be flying out to Vegas on Sunday morning to check out the latest buzz from the world of electronics. We'll be visiting with all of the major camera manufacturers to preview new models and learn about what's coming down the road in the near future. Expect a barrage of new camera announcements between now and the photo-specific PMA show at the end of the month. Hopefully we'll get a chance to sample some of the new imaging-related technology and accessories at the show as well. Check back in the coming days for updates, announcements, and hands-on product shots and info from inside the show.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How do I transfer a ringtone from Samsung A707 to Samsung Impression?</Title>
+		<Username>rhon</Username>
+		<Datetime>01-15-2010 07:39 PM</Datetime>
+		<Content>Can anyone tell me how to transfer the ringtone "right here.mmf" from the Samsung A707 to my Samsung Impression phone? Will a .mmf file work as a ringtone on the Impression? Thanks for your help!!!!</Content>
+	</Post>
+</Thread>

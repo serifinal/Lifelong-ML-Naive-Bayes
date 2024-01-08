@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A590 short battery life??</Title>
+		<Username>klxdrt</Username>
+		<Datetime>12-15-2010, 09:05 AM</Datetime>
+		<Content>Recently I have encountered short battery life with my Canon A590 Powershot. By short life I mean 20 or less pix with newly charged NiMH batteries: Duracell 2650 mAh & Harbor Freight 2000 & 2200 mAh batt. Actually the HF batt give me a little more pix. All batt have been charged less than 100 times. All batt work fine in other applications, BUT NOT THE A590. However if I use Energizer Ultimate Lithium I get a lot more pix. They don't drain as the NiMH batt seem to do. I have 2 chargers & have eliminated them as a source of trouble. Any I ideas on what is causing this premature drain? Thanks,</Content>
+	</Post>
+</Thread>

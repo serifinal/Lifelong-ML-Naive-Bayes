@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>I need info on how big a screen I need.</Title>
+		<Username>theshadow1234</Username>
+		<Datetime>07-01-08, 07:14 AM</Datetime>
+		<Content>Hello, I'm not sure where to look but I just need to find out how big of a screen I need to fit in my gameroom which is 15X15. I want to be able to go the max as far as size of the screen. I don't have a projector at this time but soon i will plan on looking for a 1080P Projector to mount on the cieling. The only thing I have is seating which is about 10-12 feet away from the wall I want to mount the screen on. Is there a thread out there or formulas that I need to use to see what size of screen I need? Thanks Greg</Content>
+	</Post>
+</Thread>

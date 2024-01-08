@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How can i play custom videos on my lcd screen</Title>
+		<Username>king123</Username>
+		<Datetime>12-09-2006, 03:25 PM</Datetime>
+		<Content>hello i am wondering how to transfer videos from my computer to my camera and to play on the lcd screen, which in turn the camera will be connected to the tv and i can see those videos on my tv thanks i am asking how i can make my digital camera into a portable video player..</Content>
+	</Post>
+</Thread>

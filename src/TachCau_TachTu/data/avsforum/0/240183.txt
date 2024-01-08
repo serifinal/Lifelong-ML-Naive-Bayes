@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>What's the best way to put fabric up on to the ceiling?</Title>
+		<Username>xradman</Username>
+		<Datetime>03-29-08, 10:29 PM</Datetime>
+		<Content>I'm finding that light reflection from the white ceiling is becoming more detracting. Although I would love to paint my ceiling black, that is not an option due to WAF. I've thought about putting up black ceiling tiles or foam, but then someone on the forum wrote that they had good results by putting up black fabric. That sounds like a great idea, since it should be very light absorbing and reversible. Now, what is the best way to put some light to medium weight fabric up on to simple dry wall ceiling? I've thought about using black thumb tacks, but it may not be strong enough. Small brads or nails into ceiling studs at regular intervals would likely do the job. Anyone have any other ideas on what might work and look good?</Content>
+	</Post>
+</Thread>

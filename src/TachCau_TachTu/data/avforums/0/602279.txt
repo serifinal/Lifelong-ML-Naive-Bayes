@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Just bought a PDP 4207XD</Title>
+		<Username>LJD</Username>
+		<Datetime>08-01-2012, 10:35 PM</Datetime>
+		<Content>Ans am I happy ! Its the best TV i have watched for years. I know they are good, but even the basic version like this seems to offer a picture my old LCD could only dream of ! set up in mins. Just watched "sherlock" on BBC using the freeview. BIL has just bought one of these all singing dancing LG's that cannot compare for pure image quality ! less than £200 Now, here are a few questions. What would be the best basic settings for this model? I have searched, but it looks like most paid out for the really top models . I am using a Denon DVD cinema system. Its ok...does what i need etc . Connected via a good (INOX) scart. should i be using a Component type cable and digital for the sound ? And how better picture will it give me ? will keep the HDMI slot for a Humax HD tuner PVR etc have only really ever used scarts, also on the back of thE DENON (s101) it has a switch for the following Interlaced , progressive and scart. Again, what do these mean and which should i be using ! And what does "optical digital out mean ? Thanks LJD</Content>
+	</Post>
+</Thread>

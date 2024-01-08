@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>BuckoNZ</Username>
+		<Datetime>08-11-08, 08:15 PM</Datetime>
+		<Content>I found the following article recently: http://www.geeksaresexy.net/2008/04/...heater-system/ I was wondering what Blu-Ray titles that AVS members feel are fantasic for showing off their investment!</Content>
+	</Post>
+</Thread>

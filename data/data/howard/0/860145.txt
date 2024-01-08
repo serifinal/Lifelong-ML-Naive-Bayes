@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LNIB Sony Xperia X10i - Wind Mobile/T-mobile US</Title>
+		<Username>Muns</Username>
+		<Datetime>04-23-2010 05:32 PM</Datetime>
+		<Content>Selling an Xperia X10i (used only 2 days) which includes: - All accesories and manuals - Car Charger - Leather carrying case - 1 year warranty at PMall cell phone shop This phone works with Fido and Rogers too but only on 2G. This phone is fully compatible with Wind Mobile's 3G AWS network. Price: $550 OBO Will do a straight trade with rogers X10a. I have perfect feedback on RFD.</Content>
+	</Post>
+</Thread>

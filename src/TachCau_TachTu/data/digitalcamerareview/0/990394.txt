@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Folders</Title>
+		<Username>phonevoice</Username>
+		<Datetime>05-08-2007, 06:55 AM</Datetime>
+		<Content>I added some folders on my Desktop for the SD card from my SD800is. I see them on the desktop card reader, but I cannot find them in the camera. No folders or pictures. When I put the SD card back in the card reader, they are all there. What am I doing wrong? Thanks.</Content>
+	</Post>
+</Thread>

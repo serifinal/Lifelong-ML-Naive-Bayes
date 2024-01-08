@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Confused about one thing (Audio related)</Title>
+		<Username>RevToTheRedline</Username>
+		<Datetime>12-26-08, 08:23 PM</Datetime>
+		<Content>I use my PS3 for a Bluray player, pretty common stuff, I have a Samsung A750 120hz 1080p TV with no other audio system other than the one in the TV. When watching movies I can perfectly hear TrueHD and DTS-HD material. And I've confirmed I'm playing those specific audio tracks on the PS3. I was told that only certain receivers can even use those formats, does the PS3 decode those internally? If I got a 5.1 receiver that doesn't specifically say it decodes TrueHD and DTS-HD MA, will I still be able to hear them because the PS3?</Content>
+	</Post>
+</Thread>

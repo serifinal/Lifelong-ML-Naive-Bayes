@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 50PZ570T or SAMSUNG PS51D6900</Title>
+		<Username>kasimthegreen</Username>
+		<Datetime>19-06-2011, 5:54 PM</Datetime>
+		<Content>Hi can anyone help me with these two tvs.. i cant find any decent reviews on them both but they are similarly priced and specced. i will have sky , ps3 and home cinema hooked up to it . looking to buy end of the month. cheers also 5yr warrenty would be nice</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S5 IS exposure problem</Title>
+		<Username>PhilipR</Username>
+		<Datetime>09-21-2009, 08:26 PM</Datetime>
+		<Content>My Canon S5 is experiencing an exposure problem. When taking pictures bright light, the LCD turns much darker when gently pushing the Shutter Button, which results in underexposed photos. At the same time, a soft whirring/clicking noise can be hard from the camera. Pictures taken indoors or in very low light seem to be unaffected by this problem. Has anybody experienced a similar problem? Any ideas what to do (apart from smashing the bloody things against the wall - this started when I was visiting the Panda Zoo in China).</Content>
+	</Post>
+</Thread>

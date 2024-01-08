@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung 2012 Plasma sizes?</Title>
+		<Username>barryd</Username>
+		<Datetime>21-01-2012, 11:17 PM</Datetime>
+		<Content>Hi all Does anybody know the sizes of the 2012 Samsung plasmas?</Content>
+	</Post>
+</Thread>

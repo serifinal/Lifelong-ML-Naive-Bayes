@@ -1,0 +1,3 @@
+accessing service menus .
+pioneer 435xde / 505xde plasma service menu make sure the plasma and the media box is in standby .
+press display on the remote -lrb- just press , do not hold -rrb- wait 3 seconds press left , up , left , right and power -lrb- on the remote -rrb- if done correctly , the plasma turns on and the information page is displayed -lrb- the display button is normally the one below the 4 on the remote -rrb-

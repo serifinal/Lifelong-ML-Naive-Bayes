@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>c905a work with a 16gb memorystick micro??</Title>
+		<Username>sup3rvillain</Username>
+		<Datetime>07-03-2009 08:20 AM</Datetime>
+		<Content>the title says it all, on the SE site it says its compatible with 8gb, but i think Sony just came out with a 16GB card, will this work with the c905a??</Content>
+	</Post>
+</Thread>

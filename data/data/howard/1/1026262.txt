@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Anyone ditching WM for the Nexus One?</Title>
+		<Username>Sir Topas</Username>
+		<Datetime>01-07-2010 02:37 PM</Datetime>
+		<Content>Wow, it's been dead around here lately. I know, I know, WM 6.5. So now that the N1 is out and is supposedly going to displace the iPhone as the ultimate "Superphone," who is jumping off the WM bandwagon to get one at a measly $530? (Well, measly compared to the $700-$1000 we've been paying for our old HTC devices) I've been using all of my self control not to order one. I want one pretty badly, especially for the Navigation. The whole device just looks so delicious that I can't resist. Almost. The only things that are stopping me are: 1. I just got my TP2 in July, and while that is ages ago for most people on this board who get a new device every 3 months (I'm jealous of you all), I can't justify dropping almost $600 after taxes on the N1 when my TP2 is still so new (not to mention I love it). 2. No hardware keyboard on the N1 makes me nervous. Just when I think I can get by with no keyboard because I am fine with using the software keyboard on my TP2 and I don't feel like sliding out the real keyboard, I get an email or a text and I need to slide out the keyboard to reply or I'll go crazy. Not sure I'm ready to do without a bonafide keyboard. 3. I just had to hard reset my TP2 and Microsoft MyPhone was an awesome experience (along with Sashimi). I don't know if Google has anything similar to make reinstalling after a hard reset so easy. In spite of this, though, I keep Googling "Nexus One" and staring at the photos. I'm not sure if I can hold out much longer. What say you all?</Content>
+	</Post>
+</Thread>

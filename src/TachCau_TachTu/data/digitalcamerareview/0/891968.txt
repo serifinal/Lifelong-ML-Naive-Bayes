@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SD500 has a white line on LCD.</Title>
+		<Username>ataranea</Username>
+		<Datetime>08-01-2007, 02:03 AM</Datetime>
+		<Content>There is a white line covering the top of the LCD screen. At one point it was gone but then recently came back again for the second time. Anyone know why? Is it a dead pixel problem?</Content>
+	</Post>
+</Thread>

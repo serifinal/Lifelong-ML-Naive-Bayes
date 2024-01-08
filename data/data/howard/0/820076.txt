@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Text Issues on iPhone 4? Do all of your Text messages go through to the recepients,</Title>
+		<Username>eagle1</Username>
+		<Datetime>07-12-2010 06:43 PM</Datetime>
+		<Content>Do you have any Text/SMS Issues on iPhone 4? Do all of your Text messages go through to the recepients, or do some not to arrive ?</Content>
+	</Post>
+</Thread>

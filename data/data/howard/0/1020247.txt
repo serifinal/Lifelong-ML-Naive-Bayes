@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile Upgrades to HSPA 7.2Mbps, First to Deploy HSPA+ (Phonescoop.com)</Title>
+		<Username>bolthead</Username>
+		<Datetime>01-05-2010 08:36 AM</Datetime>
+		<Content>According to Phonescoop T-Mobile says they are done upgrading to 7.2, anyone feeling different? PHONESCOOP posted Today, 9:03 AM by Eric M. Zeman Today T-Mobile announced that it has upgraded its entire 3G network to HSPA 7.2Mbps (peak speeds). That's an improvement from 3.6Mbps, and should allow for faster wireless downloads. T-Mobile also pointed out that its 3G footprint now covers some 200 million Americans. T-Mobile also said that it plans to be the first U.S. carrier to deploy HSPA+ across its network by mid 2010. T-Mobile currently has an HSPA+ trial under way in Philadelphia. Once fully enabled, HSPA+ will offer up to 21Mbps downloads. from T-Mobile</Content>
+	</Post>
+</Thread>

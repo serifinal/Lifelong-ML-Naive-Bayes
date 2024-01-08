@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot sd1100is auto brightness issue</Title>
+		<Username>ISX</Username>
+		<Datetime>06-25-2011, 06:44 AM</Datetime>
+		<Content>I just figured out this thing had a time lapse function on it, so what thing better to do than capture the sunset. Well it seems it constantly auto brightens for the condition, which would be good in most circumstances but in this instance, it is just as bright before the sun comes up as when it is high in the sky. I want it to "set" itself at the setting it uses when the sun is as bright as possible so that when the sun is down, it is black, and it will capture the orange and everything of the initial sunrise as it is actually seen to the naked eye, rather than this auto brightening effect crap. So is there something I can do about this? I couldn't seem to find any setting to prevent this. Maybe there is a sensor I can put an LED in front of to make it think the sun is in full bloom or is that sensor built into the camera lens? I am pretty sure I will have to rig it up to make it work which is fine with me, just don't know what I need to do.</Content>
+	</Post>
+</Thread>

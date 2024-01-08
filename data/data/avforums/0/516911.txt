@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung D8000 bad IR of channel logo</Title>
+		<Username>Boldhead</Username>
+		<Datetime>26-07-2011, 2:09 PM</Datetime>
+		<Content>Hi Guys, I have a Samsung D8000 and 2 days ago I noticed the shadow of one (actually 2) channel logo's in the top left of my screen. The TV is some 8 weeks old now. The contrast wasnt very high (like 60). Scared that I ruined my tv I ran the screen wash 1 night and some repair dvd with colour snow I downloaded the other night. It has now faded alot, though I can still see the shadow in a light background. Offcourse the contrast now is even more down (the 2 channels have very bright logo's) and atm I am watching some full screen series without statics with contrast and colour put to full to see if that helps. It seems that although it has faded a lot, that what remains is very persistant. I'm pretty sure it isn't burned in, but bad retention aka premature cell aging. So if I understand it correctly the rest of the panel will catch up with it eventually? Hope someone has had this before and can put me at ease cause some voice in my head keeps saying that I ruined my new TV... Thanks in Advance!</Content>
+	</Post>
+</Thread>

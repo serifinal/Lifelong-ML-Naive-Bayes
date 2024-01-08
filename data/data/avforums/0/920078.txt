@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Possible problem with new Samsung PS59D6900 some advice plz</Title>
+		<Username>PeterPoose</Username>
+		<Datetime>24-06-2011, 10:55 PM</Datetime>
+		<Content>Hi folks, well I have had the new 59 D6900 here in the UK for 1 Month now with a 5 year warranty. I have noticed that at the top of the screen is a faint line going horizontally al the way along the top. Now it doesn't move or anything when a movie is in full screen. When the film is wide screen the faint line is just below the top black edge of the widescreenblack strip. So basically the line is always on show depending where the picture ends. Its not a bad dark line, just faint strip. Should I send the TV back? Should I ignore it? Is it a known common problem? What could it be? Also on some blue ray movies and iplayer (both used from my ps3 connected by hdmi cable) the sound seems to go quieter and then louder. What could this be? I havent setup my onkyo surround system yet as im moving soon so its currently just running with the TV stock speakers. Many thanks on any help you can give me n whether I should return the Tv for aanother one. Thank you Peter</Content>
+	</Post>
+</Thread>

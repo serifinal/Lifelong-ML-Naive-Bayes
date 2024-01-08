@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>CONS OF CANON REBEL T2i</Title>
+		<Username>phoenix86</Username>
+		<Datetime>11-03-2010, 03:53 PM</Datetime>
+		<Content>Can anyone discuss about the cons that you felt while using the canon rebel t2i?? i planning to buy this model.your advice will be useful..</Content>
+	</Post>
+</Thread>

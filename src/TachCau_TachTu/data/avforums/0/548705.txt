@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G20 - can't play some .avi files</Title>
+		<Username>Treekodar</Username>
+		<Datetime>16-05-2010, 5:13 PM</Datetime>
+		<Content>So, I seem to have a returning problem. Some of my films can easily be played (.avi files), but some other (also .avi files) won't play at all. It'll tell me that it can't read the file, why? I'm using DLNA, but it does the same thing with my SDHC card.</Content>
+	</Post>
+</Thread>

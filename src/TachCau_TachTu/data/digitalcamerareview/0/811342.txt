@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>continuous shooting on the sx10is</Title>
+		<Username>joebloggs13</Username>
+		<Datetime>02-04-2009, 12:16 PM</Datetime>
+		<Content>Hi, new on this forum. Just purchased one of these. Trying to figure out all the functions and I am having a hard time getting the fastest setting for continuous shooting ie 1.4fps. I know p108 in the manual describes the continuous shooting mode but it doesn't say what setting your camera has to be in in order to get 1.4 fps. I have tried different ones but am unsuccessful. I am new to this camera, as we owned a kodakz812is before this...which had a burst mode. Any help is much appreciated. Thanks, JoeB.</Content>
+	</Post>
+</Thread>

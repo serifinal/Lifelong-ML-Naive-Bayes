@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pansonic Pro Panels, Where to buy, demo and whats the best one?</Title>
+		<Username>hdiam</Username>
+		<Datetime>30-06-2011, 7:15 PM</Datetime>
+		<Content>Where is the best place to buy and demo the Panasonic Pro Panels and what is the best one 60" to 65"?</Content>
+	</Post>
+</Thread>

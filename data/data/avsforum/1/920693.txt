@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What is best for watching HOCKEY?</Title>
+		<Username>sportFreak</Username>
+		<Datetime>08-16-08, 10:40 PM</Datetime>
+		<Content>The main use of whatever television I buy will be for BluRay/DVD, videogames, Sports (in particular Hockey and Football...emphasis on the hockey). My greatest concern is for watching Hockey in both HD and SD. I am looking to upgrade from my 720p/1080i 51" projection to either an LCD or Plasma. I am aware of some of the various pitfalls of both technologies....blurring (which seems subjective), contrast, "white" tends to look better on LCD's where as "black" in regards to detail tends to look better on Plasma.....both facts explainable by the inherent nature of each respective tech. If I get an LCD it will be one with 120hz tech, 5:5 pull down (as opposed to 3:2), a response time of 8ms or better...etc...etc If I get a Plasma....not sure...I would like to say Kuro, but it's out of the price range at the moment and I will NOT buy a Panasonic. So if there is anyone out there who has watched a good amount of hockey on their Lcd/Plasma over the last year (in HD and or SD), I would appreciate your input. Also if I do get any responses could you let me know what tv you have (ie: make and model). Thanks in advance</Content>
+	</Post>
+</Thread>

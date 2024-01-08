@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which Canon Cameras Have No Built-In Memory ?</Title>
+		<Username>Myron</Username>
+		<Datetime>03-05-2007, 11:35 AM</Datetime>
+		<Content>I just bought my first digital camera, a Canon Power Shot SD 600. I needed a model with an optical viewfinder as I am unable to see the LCD screen, especially in bright sunshine. I think thatthe Canon has no internal memory as when no SD Card is inserted, no photos are stored. Is it common for digital cameras to have no internal memory or is this unique to Canon? I notice that Sony digital cameras have some built-in memory. I avoided purchasing a Sony as it appears that their Memory Stick is unique to Sony and more costly than an SD Card. Do any other manufacturers, beside Sony, use a Memory Stick?</Content>
+	</Post>
+</Thread>

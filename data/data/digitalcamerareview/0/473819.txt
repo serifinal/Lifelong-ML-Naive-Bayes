@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Date/Time Stamp for Powershot</Title>
+		<Username>Cooper30</Username>
+		<Datetime>11-28-2007, 06:26 PM</Datetime>
+		<Content>Has anyone been successful in adding the Date/Time stamp to your digital immage on the Cannnon Powershot series? I was only able to add one on a postcard size immage.</Content>
+	</Post>
+</Thread>

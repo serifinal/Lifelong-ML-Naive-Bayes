@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Hitachi plasma dead?</Title>
+		<Username>itzdave</Username>
+		<Datetime>01-06-2011, 5:19 PM</Datetime>
+		<Content>Hi I just found this great site whilst trying to find a solution to revive my Hitach 55PD5200. Was wondering if someone could give me some advise. The Tv appears to be dead. I had someone look at it and ive been told that the fuse has gone on the power board. Is this an easy fix? Would it be possible to do myself. Im getting quopted silly prices and I really cant afford it at the moment Any advice would be greatly appreciated Cheers Dave</Content>
+	</Post>
+</Thread>

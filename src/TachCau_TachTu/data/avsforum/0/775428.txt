@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Can't use HDMI and Coax digital out at same time??</Title>
+		<Username>economyte</Username>
+		<Datetime>07-17-08, 09:37 PM</Datetime>
+		<Content>Hi, I need some help trouble shooting why my cable box isn't sending any audio to my stereo receiver via a digital output. The way I currently have it setup is the the dvd player and cable boxes HDMI inputs go to a HDMI switcher that goes into the TV. I'm sending an optical digital out from the dvd player to the receiver, and coax digital out from the cable box to the receiver. Everything works except I'm unable to get audio from the cable box to my receiver. I've also tried just using the coax output on the tv to the receiver and thats not working either. But the coax output connection works when I connect the dvd player to the receiver. Not quite sure what the issue is, but anyone that knows, I'd really appreciate it. Also, any more efficient ideas on setup would be great. Thanks! Oppo 970 hd (1 HDMI out, 1 optical digital out, 1 coax digitial out) Philips LCD (1 HDMI input, 1 coax digitial out) Motorola DCH3416 cable (1 HDMI out, 1 optical digital out, 1 coax digitial out) HK 3490 stereo receiver (1 optical dig input, 1 coax dig input) Terk HDMI switcher</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>30% off ebay AGAIN!! Buy your amps if you need them now :)</Title>
+		<Username>penngray</Username>
+		<Datetime>10-16-08, 11:18 AM</Datetime>
+		<Content>Yep, Im trolling this one!!!! live.com still is allowing 30% off almost all ebay buy it now items!!! This is an automatic rebate (60 days) through microsoft and paypal.com Buy a Crown XTI4000 amp for $800 and get $240 in cash back 60 days later!!! Thats $560 for a great amp. Buy a EP2500 for $309 (free shipping) and get $100 back in cash....EP2500 for $209???? NICE! I will put my FACE amp up on the site for $770 (shipping included) buy it now if someone wants it!!! Thats $500 for a 1200w/ch amp!!! www.live.com type "EP2500 cheap" click on the ebay "banner" link that talks about 30% then buy an item using buy it now and you have to USE paypal!!! You also have to setup a live.com account (windows live account that most people probably have if they use messenger) I feel like such a troll with this but I know money is tight out there and this is a great way to get great DIY amps for great prices!!</Content>
+	</Post>
+</Thread>

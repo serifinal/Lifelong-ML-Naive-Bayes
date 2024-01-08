@@ -1,0 +1,3 @@
+video chat app ? .
+while the htc hero only has a camera on the back i 've been thinking about a video chat application -lrb- maybe compatible with google talk -rrb- that uses the back camera and a mirror to view the other side of the conversation .
+anyway , does anyone know of a two-way video chat application for android ?

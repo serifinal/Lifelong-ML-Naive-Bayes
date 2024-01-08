@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>STAR WARS Vaders Throne Room THEATER-</Title>
+		<Username>kampswas</Username>
+		<Datetime>06-15-08, 09:14 PM</Datetime>
+		<Content>OK I have started my Vader's Throne Room to house my collection of Star Wars Items Here are the old color drawings These are the Updated Colors ***********updated the color scheme and changed the name to Vaders Throne Room</Content>
+	</Post>
+</Thread>

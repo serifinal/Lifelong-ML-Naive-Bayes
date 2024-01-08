@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>could not find proxy server error message</Title>
+		<Username>terryh</Username>
+		<Datetime>11-24-2009 07:24 PM</Datetime>
+		<Content>why am i getting this message on my moto q9h ... sometimes i cant get emails either thanks</Content>
+	</Post>
+</Thread>

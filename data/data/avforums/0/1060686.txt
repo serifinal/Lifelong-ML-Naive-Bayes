@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PANASONIC TH-42PWD4 with PS3 Component Cable - Best Resolution?</Title>
+		<Username>pawan98</Username>
+		<Datetime>10-07-2011, 9:38 AM</Datetime>
+		<Content>Hi, I have a PANASONIC TH-42PWD4 and I'm gonna hook that up with a component cable (the RGB cables going to the plasma). The TV's quite old, whats the maximum or best resolution I can run on this thing using component cable and a ps3, i wanted at least 720P!</Content>
+	</Post>
+</Thread>

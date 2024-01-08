@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A620 can't zoom and auto focus?</Title>
+		<Username>kmf72</Username>
+		<Datetime>11-26-2006, 09:05 PM</Datetime>
+		<Content>I just bought an A620 and I find that when I try to use the zoom (just regular optical) I get the flashing red camera icon that the manual says is a camera shake warning. It happens if I zoom in on anything. I got this camera to replace a SONY I had but am disappointed so far in that I can't seem to zoom without changing some kind of setting and I am not savvy at all in manual controls. Am I missing something? Also, with my SONY I could resize images, change color, etc. on the camera before downloading, a feature I used all the time (and the reason I got rid of the camera since I could no longer access my pictures). It doesn't look like I can do any of that with my Canon. Is that the case?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best rechargable batteries for S5 IS???</Title>
+		<Username>wygavma</Username>
+		<Datetime>08-08-2008, 02:55 PM</Datetime>
+		<Content>I just bought a Canon S5 IS and then bought DigiPower 2700 mAH NiMH rechargables and they lasted like 40 shots while I was playing with my new camera (charger gave me a green light that they were done). VERY DISAPPOINTED! What's the best brand of batteries in your opinions for this camera. What is the best charger to use?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 50PS3000 Headphone Issue</Title>
+		<Username>Dentaku</Username>
+		<Datetime>14-08-2011, 7:52 PM</Datetime>
+		<Content>Hi all My LG 50PS3000 has no headphone jacks or even analogue audio out, it only has optical out. I want to connect my Xbox 360 slim to it using my old Turtle Beach headphones but the Xbox only has optical out too. Anyone have a solution? Would a digital audio converter be the answer and if so what would i need? Or, I'm open to the idea of buying an AV Receiver but not sure where to start, the options seem limitless. Thanks in advance</Content>
+	</Post>
+</Thread>

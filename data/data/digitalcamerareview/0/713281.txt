@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S5IS video help?</Title>
+		<Username>kmcdonald85</Username>
+		<Datetime>08-04-2008, 12:11 AM</Datetime>
+		<Content>I just bought this camera for $299 at Best Buy. I have a couple of issues. First, I took some video and transferred it to my computer. How do I view it? How do I save it? Can I put it on a DVD? Secondly, a lot of my general photos under auto are coming out blurry? Any ideas on the best setting for motion shots? Thanks I am a camera dummy</Content>
+	</Post>
+</Thread>

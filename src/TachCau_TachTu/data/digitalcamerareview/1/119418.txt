@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>CanonSD****IS Differences?</Title>
+		<Username>blucube</Username>
+		<Datetime>05-12-2010, 12:56 PM</Datetime>
+		<Content>I tried searching for a thread as I'm sure this may come up. I've been taking a liking to the CanonSD-IS series cameras, but there are several that all look really similar at relative prices. I looked up reviews as well and it's still hard to find a huge difference. I'm trying to pick up a nice point and shoot before I go on a vacation in June, and when I'm presented with several options I have a hard time making a decision my self. Out of all the CanonSD versions what are the major differences? I noticed in a thread comparing two of them that one had a wider angle lens. I guess I'm just curious what the smarter purchase is out of them. Not a huge enthusiast but better quality photos with less blur will definitely make me happy. Thanks! Edit: In addition it looks like the SD1200IS is on sale for around 150, and the example pictures from it look like it h as some pretty decent potential</Content>
+	</Post>
+</Thread>

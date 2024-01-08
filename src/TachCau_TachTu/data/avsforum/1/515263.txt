@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Official Pioneer SC-09TX/SC-LX90 Owner's Thread</Title>
+		<Username>ss9001</Username>
+		<Datetime>05-08-08, 08:02 AM</Datetime>
+		<Content>OK, I'll be the one to start this since I seem to be the 1st one to get the new SC-09TX here on the forum I've been eagerly waiting for the Susano since the Sept 07 CEDIA announcement, read everything I could on it and Icepower Class D amps. I had preordered it in March it arrived yesterday. All I've done so far is check out the unit to make sure it wasn't DOA and get used to the display. I haven't hooked up anything to yet and won't be until this weekend. For those that have & liked the touchscreen remote that came with the previous Elite flagship AVR, the 59TXi, I may have some good news: it found out it works with the SC-09. Pioneer must be using the same IR codes. So far, I've used to to change inputs, surround formats, and change signal sources. I'm willing to bet it can also access MCACC & other settings. So, if you really hate the new remote and are not using a programmable universal remote, there's an another option. That's all for now. I'm hoping we see other new owners here this week..... FYI - here are links to the previous speculation pre-announcement & speculation threads: http://www.avsforum.com/avs-vb/showthread.php?t=904245 http://www.avsforum.com/avs-vb/showthread.php?t=846136 ss9001</Content>
+	</Post>
+</Thread>

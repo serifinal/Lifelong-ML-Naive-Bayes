@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>really need help with the focus on my canon powershot SD400</Title>
+		<Username>whiterabbit</Username>
+		<Datetime>06-03-2008, 10:41 PM</Datetime>
+		<Content>hey everyone! i sincerely hope this is the right forum for this, and if not please let me know as i don't want to be any trouble. about two years ago, i bought myself a canon powershot SD400 (my first digital camera ever), and i love it. its easy to use and takes great pictures for what i'm using it for, but recently i've had a problem with it and i'm stumped. now i know there's nothing wrong with the camera itself, i'm just incredibly camera-stupid. this IS my first digital camera, and i really need some assistance because i'm going to be going out to an airfield and i love to take pictures of the aircraft (stationary or not). for a year i was using the camera's straight-from-the-factory settings with no problems, though sometime last year i think i hit the wrong buttons and now it'll take the picture, but its not the crystal clear picture it used to be as everything is slightly blurred. for example, when taking pictures of in-motion aircraft it would freeze the plane automatically and take a perfectly clear picture. now it freezes the frame, i snap the picture thinking i'm all good to go, but the end result comes out all jittery. any suggestions would be greatly appreciated because i'm very confused and want to have a fully functioning camera by the time i go on vacation. i've tried playing around with the settings but i still can't get it back to the way it was. thanks for your time in advance!</Content>
+	</Post>
+</Thread>

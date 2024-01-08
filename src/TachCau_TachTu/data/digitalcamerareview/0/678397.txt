@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Low level format</Title>
+		<Username>kmf72</Username>
+		<Datetime>11-26-2006, 09:16 PM</Datetime>
+		<Content>Forgot to ask in my last post, what is a low level format and should I be selecting it? I bought an SD512 MB memory card so I could take better quality pictures and fit more and I'm not sure which choice I am supposed to pick for formatting it. The card is not from Canon, it's PNY technologies - don't know if this matters or not. Thanks! This forum has been very helpful to me!</Content>
+	</Post>
+</Thread>

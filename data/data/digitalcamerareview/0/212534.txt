@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Lens cover for SX130?</Title>
+		<Username>henrypaz</Username>
+		<Datetime>11-25-2010, 11:15 AM</Datetime>
+		<Content>Hello- I'm new here, and I hope this won't seem like an irrelevant question. I just bought another Canon camera-the SX130IS. I think I like it pretty well. My other Canon , my point and shoot is a Power Shot A720IS. I have used it steadily for at least 2 years, and I think I have worn it out. Probably made 20-25,000 shots with it. I carry it in my pocket constantly. The main fault is that the LCD screen window is loaded with trash. Dust, pieces of grass, etc. Once I actually saw a small living spider walking around inside there. Don't know what happened to him! So I want to take better care of my new toy, and thought a press-on/non-click type of lens cap might be available to fit it. I looked at Canon site and did not see anything applicable unless some lens caps might just coincidentally fit. The actual measurement seems to be between 2 5/16 and 2 11/32 inches. Something near 59-60 mm? If anyone can help out with this, I will be greatful. Thanks, Henry</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>will my lenses work?</Title>
+		<Username>hj3!</Username>
+		<Datetime>08-10-2006, 05:57 PM</Datetime>
+		<Content>i have a canon 35mm slr with a few lenses and am wondering will they work on the rebel xt digital cam. i want to get a new digital camera but would like to make sure it will work with my old lenses first. thanks-</Content>
+	</Post>
+</Thread>

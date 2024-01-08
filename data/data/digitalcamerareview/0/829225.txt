@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>ISO Lamp and Exposure Compensation Lamp, G12</Title>
+		<Username>Tomasino</Username>
+		<Datetime>04-09-2011, 11:06 PM</Datetime>
+		<Content>Does anyone know of a way to turn off the ISO lamp and the exposure compensation lamp on a G12, other than a little piece of black tape? Tomasino</Content>
+	</Post>
+</Thread>

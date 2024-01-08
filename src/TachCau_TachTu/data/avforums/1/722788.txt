@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PANASONIC TX-L32DT30B or Samsung UE32D6530</Title>
+		<Username>takes2long</Username>
+		<Datetime>29-12-2011, 9:33 AM</Datetime>
+		<Content>Hi Guys Down to these two for my back room. We do use this room a fair bit, watching mainly Freeview, DVD's and my WD medid player. Room size suits a 32" set so larger is no good. Read reviews for both sets and the only prob with the Panasonic seemed to be the price but now it's down to £499.00 at comets does that mean it now gets the nod. Samsung seemed to get much praise, built in wifi being clapped very loudly, but again only seemed to get top marks because of the Panasonics original £700.00 price tag. The Samsung also was slated for it's poor 3D quality. Even though 3D is not my main concern at the mo. any advice much appreciated cheers Matthew</Content>
+	</Post>
+</Thread>

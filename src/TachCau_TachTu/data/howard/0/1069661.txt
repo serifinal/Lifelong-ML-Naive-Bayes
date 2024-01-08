@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola DROID X MB810 (Xtreme/Shadow) Pre-Release Thread Part 3 - Information Only</Title>
+		<Username>FAUguy</Username>
+		<Datetime>06-17-2010 06:23 PM</Datetime>
+		<Content>Edit by FAUguy. This is the Motorola DROID X Part 3 - Information Thread. Please review the original thread first before asking any questions. http://www.howardforums.com/showthread.php?t=1607765 and the 2nd thread http://www.howardforums.com/showthre...formation-Only Post that do not have to do with the DROID Xwill be removed. ------------------------------- Tablet form-factor 4.3" TFT FWVGA screen Texas Instruments OMAP 3630 Processor 8GB built in memory Android 2.1 (or 2.2), with update BLUR and Flash 10.1 8 MP camera 720p recording 720p output (50Hz and 60Hz) via HDMI port ~9mm thick Releasing in July ------------------------- http://phones.verizonwireless.com/droid/x/ http://www.engadget.com/2010/06/15/e...oid-x-preview/ Originally Posted by wnrussell Let's get started! Originally Posted by StDevious here's the video link of droid CPU vs Shadow CPU http://alienbabeltech.com/main/?p=18384 Can somebody put this link in OP, so everyone can see the difference -------------------------------------- Originally Posted by matrix2004 http://gadgetuniversity.wordpress.co...reme-hands-on/ ---------------------------- Originally Posted by sdotmiles from maddigital on android forums. i didnt think ANY phone would make the evo look small. wow. http://androidforums.com/motorola-sh...-thread-5.html</Content>
+	</Post>
+</Thread>

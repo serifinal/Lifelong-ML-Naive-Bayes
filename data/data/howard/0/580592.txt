@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Neat Israeli weapon system!</Title>
+		<Username>Lightninrod</Username>
+		<Datetime>01-03-2010 02:37 PM</Datetime>
+		<Content>VIDEO 10 characters</Content>
+	</Post>
+</Thread>

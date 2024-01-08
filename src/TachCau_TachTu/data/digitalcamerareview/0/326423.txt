@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Canon Rebel XS</Title>
+		<Username>easnyder@hotmail.com</Username>
+		<Datetime>01-16-2011, 03:39 PM</Datetime>
+		<Content>Canon EOS xs error 02 I am not able to take pictures on my camera due to an error 02 problem. I have tried different cards and it doesn ot seem to change anything. Any suggestions?</Content>
+	</Post>
+</Thread>

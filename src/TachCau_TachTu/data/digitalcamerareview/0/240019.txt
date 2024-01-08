@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD700 IS - Black screen</Title>
+		<Username>yoda69</Username>
+		<Datetime>08-08-2008, 06:55 AM</Datetime>
+		<Content>Hello people, My SD700 IS - is giving me some hard time lately. The screen goes black when I turn it on, menu and all button appear to be there, but its as if the shutter is closed. Sometimes it help when I turn it off and on again. But lately I haven't been able to take any shots or videos at all.... I'm thinking maybe its some kind of a computer problem, maybe a new firmware or a hard reset will help. Any suggestions? any ideas where I can get the firmware? I tried canon website but with no luck. Thanks ahead,</Content>
+	</Post>
+</Thread>

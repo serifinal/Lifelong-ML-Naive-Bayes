@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Painted Screen for mitsubishi hc5500</Title>
+		<Username>pmac3522</Username>
+		<Datetime>11-24-08, 12:57 PM</Datetime>
+		<Content>Hi, I just bought a Mitsubishi HC5500 projector and want to project it onto a screen painted on my wall. The screen wall will be black, but the other walls will be light colored. The ceiling will be a drop ceiling and the first row of tiles along the screen wall will be black, but the rest will be white. I have total light control in my room, so ambient light won't be a big deal. Now for my question, what color should I paint the screen? I have read that using a gray paint will increase the perceived contrast, but it also requires a very bright projector. Is there a way to increase the gain in gray paint to accommodate this? Should I just use a white paint? Thanks for any help you can give me! Pmac</Content>
+	</Post>
+</Thread>

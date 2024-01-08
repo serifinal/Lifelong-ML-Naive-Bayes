@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>720P Video Recording FPS?</Title>
+		<Username>fldash</Username>
+		<Datetime>05-13-2010 09:28 AM</Datetime>
+		<Content>Anyone know? I'm hoping it's at least 30, but I can't find the specs anywhere... Also, will it come with a cable to output to HDMI, or will that be extra?</Content>
+	</Post>
+</Thread>

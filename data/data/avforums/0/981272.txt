@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TVs 'Red Light Of Death'!</Title>
+		<Username>boozercruiser</Username>
+		<Datetime>14-07-2011, 8:28 PM</Datetime>
+		<Content>I have a Panasonic Plasma TV TX-P42G10B which I purchased from Currys on 29th August 2009 which makes it under 2 years old. Recently the TV started to switch itself off. On trying to turn it back on again either from the power button or the remote sometimes it will turn on for a while and then turn off. Other times it is trying to turn on with the red light flashing but not turning to green and the TV on. I now have Currys coming out to look at it next Thursday 21st July 2011. I have told them that I have Googled this particular fault and it is a well known one in most Panasonic Plasma TVs (TX Range particularly) both here in the UK plus America. This fault is apparantly know as "THE RED LIGHT OF DEATH" and seems to be a fault in the Power Supply to the inner workings of the TV.</Content>
+	</Post>
+</Thread>

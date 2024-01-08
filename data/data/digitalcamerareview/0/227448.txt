@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>sx210is video problems</Title>
+		<Username>duckfood12345</Username>
+		<Datetime>01-15-2011, 01:24 PM</Datetime>
+		<Content>Hi I hope somebody could perhaps give me a little advice. I recently purchased a sx210is camera, I'm really pleased with the photos it takes but the video quality is awful. When I play back any video the resolution is really low even though I've got my settings at 1080. I've connected the camera to my computer via the usb cable that came with the camera and I'm connected to the TV through a hdmi cable and both give me the same results. I've tried filming in all three quality settings and there is no difference in quality. I'm a complete novice when it comes to photography so I realise I may be doing something very basic wrong, but I'm at a complete loss as to what I'm doing wrong. Any advice would be really welcomed. Thank you</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is there a 50" Panasonic Plasma TV that doesnt suffer from screen BUZZ available yet?</Title>
+		<Username>shippo_uk</Username>
+		<Datetime>15-02-2012, 4:50 PM</Datetime>
+		<Content>Hey all I'm on the look out for a new 50" Panasonic Plasma TV (As I'm always blown away by the quality of images on the the screens). About a year ago I had a 50" Panasonic Plasma TX-P50G20Bbut the buzz (when there were bright white images on the screen) was just unbearable, so it had to go back to Amazon. I was wondering whats around today that might suit me that doesnt have this awful problem? Thanks</Content>
+	</Post>
+</Thread>

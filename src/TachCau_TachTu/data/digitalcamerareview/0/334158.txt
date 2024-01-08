@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SD 600</Title>
+		<Username>Myron</Username>
+		<Datetime>04-07-2009, 10:01 AM</Datetime>
+		<Content>I have been using my Canon SD 600 camera for over 2 years. Something strange happened yesterday. I placed a partially-used 2 GB SD Memory Card into the camera. I took several hundred photos but when attempting to playback, all the controls "froze". No Menu, no scroll, no anything. Only the last photo taken was revealed. When switching into camera mode, the menu was dead but photos could be taken. What caused this? The partially-used SD Card was also used in my Panasonic LUMIX camera before. I had to use it because the LUMIX has 10X zoom while the Canon only has 3X. I needed a better zoom. Could switching the cards have disabled the camera? After 2 hours, all functions returned but now I am nervous.</Content>
+	</Post>
+</Thread>

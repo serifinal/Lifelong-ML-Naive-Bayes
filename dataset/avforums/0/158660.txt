@@ -1,0 +1,4 @@
+pioneer 427 settings thread .
+i thought it might be useful for owners of a 7-series pioneer plasma screen to start a dedicated thread for the settings of pioneer 427 / 507 .
+preferably no run-in period settings .
+here ´ s mine for freeview -lrb- input 1 -rrb- and dvd -lrb- input 3 -rrb- contrast 23 brightn 0 colour -5 tint 5 sharpness 0 colour temp mid high colour space 2 colour management : y -10 , others 0 dnr and mpeg mid bnr on dynamic contrast off black level on acl off gamma 1 100 hz

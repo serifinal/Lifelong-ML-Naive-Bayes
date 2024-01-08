@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>So what's up with the stage, anyway?</Title>
+		<Username>scissorfighter</Username>
+		<Datetime>08-12-08, 10:50 AM</Datetime>
+		<Content>Ok, prepare your eyeballs for the ultimate stupid question! Drum roll please.............. What is the purpose of a stage, other than decorative? I'm trying to figure out why I would want one in my 15x22 HT. I can see it would be nice to place some floor standing front speakers on, but other than that, what does it get me? And while we're on it, same question re: false wall for screen. Why would I need space behind my screen, other than for speakers? Hooray for beginners! Thanks gang.</Content>
+	</Post>
+</Thread>

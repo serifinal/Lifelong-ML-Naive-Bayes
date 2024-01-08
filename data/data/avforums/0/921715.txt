@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42" GT30B Fan Noise</Title>
+		<Username>Mr. T</Username>
+		<Datetime>21-07-2011, 12:02 PM</Datetime>
+		<Content>Hi all, I recently bought a new 42" GT30 and I'm finding the fan noise from the back of the tv a bit distracting. It's easily audible over 2 metres. Is this normal? I've never owned a plasma before so not sure if it goes with the territory. Thanks T</Content>
+	</Post>
+</Thread>

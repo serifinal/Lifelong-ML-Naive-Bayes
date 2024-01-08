@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to change GRPS/WAP settings and un-brand Samsung Gravity I</Title>
+		<Username>rybshikrybshik</Username>
+		<Datetime>05-29-2010 07:42 PM</Datetime>
+		<Content>I have an unlocked T-mobile Samsung Gravity I (T-459). How to find a way of changing its GRPS/WAP/data settings? Is there some hidden menu or something? More generally, how to (completely) un-brand the phone, remove T-zones, T-mobile Mobile Backup, etc? If it matters, my Gravity was unlocked using an unlock code provided by T-mobile Customer Service.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Blackjack 2 3.5 mm male adapter</Title>
+		<Username>inam81</Username>
+		<Datetime>10-07-2009 04:22 PM</Datetime>
+		<Content>I'm not sure if they make this since I've searched high and low for it but with no luck. I'm trying to find an adapter that plugs into the Blackjack 2 on one end, and into a 3.5mm auxilary input on the other. The idea is to plug it into my car's stereo which has an auxiliary input and be able to play music directly off the phone. I have only been able to find BJ2 adapters that have inputs only, rather than the male output. Even the BJ1 has something like it: http://www.amazon.com/Samsung-Blackj.../dp/B000XW5POQ Or are there any other ideas of how to get my BJ2 and car stereo to talk to each other? The car stereo is not bluetooth capable but do they make a 3.5mm bluetooth adapter/receiver of some type? Thanks</Content>
+	</Post>
+</Thread>

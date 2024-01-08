@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy Spica coming to Rogers</Title>
+		<Username>montclair130</Username>
+		<Datetime>02-10-2010 05:40 PM</Datetime>
+		<Content>does anybody know when this phone is gonna be released?</Content>
+	</Post>
+</Thread>

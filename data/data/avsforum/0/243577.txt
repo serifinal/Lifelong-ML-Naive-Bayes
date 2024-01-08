@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>noob needs suggestions for first surround sound set up to go with non-elite kuro</Title>
+		<Username>motamedn</Username>
+		<Datetime>12-24-08, 10:20 PM</Datetime>
+		<Content>Hi guys, I know there are a lot of threads about this but I had trouble finding one that matched up and was recent..I just picked up a PDP-5020FD and I LOVE IT. I like the speakers on it too and I was wondering if I could incorporate those into a surround sound system? Like I said, I'm completely new to this. I play games and watch movies mostly..the system would be used occasionally for playing background music for a party, but I don't need anything that would blow you away because I'm living in an apartment for the next 2-3 yrs. The (living) room with the TV has a 10ft viewing distance & has 1 semi-open wall (the right side). The width is like ~16-20 ft. I definitely want to be able to tell if ppl are sneaking up from behind in games, but I'm completely flexible with the set up (5.1, 7.1, surround bar) as long as it can do that..I'm thinking about spending up to $1500. I know there are a lot of these posted all the time, but I'd really appreciate any useful input you have! Could I implement my TVs speakers in a system? Is there a huge difference between surround bars and actual surround systems? How about the 5020FD speakers vs a surround bar? Thanks!!</Content>
+	</Post>
+</Thread>

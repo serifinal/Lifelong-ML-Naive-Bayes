@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>WTT: DSLR Camera for Moto Droid</Title>
+		<Username>brdl04</Username>
+		<Datetime>02-10-2010 08:54 PM</Datetime>
+		<Content>See Link for Post http://forums.crackberry.com/f14/wtt...-droid-420208/</Content>
+	</Post>
+</Thread>

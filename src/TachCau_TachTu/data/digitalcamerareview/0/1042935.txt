@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SX130 Blur</Title>
+		<Username>Hemant.Chandurkar</Username>
+		<Datetime>03-30-2011, 12:16 AM</Datetime>
+		<Content>I have purchased SX130 recently. While shooting in video mode, it blurs when we move camera or even the object (kid) moves. Can someone help me to know how to avoid this?</Content>
+	</Post>
+</Thread>

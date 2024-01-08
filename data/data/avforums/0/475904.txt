@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is this right ?</Title>
+		<Username>X5Les</Username>
+		<Datetime>16-12-2011, 1:42 PM</Datetime>
+		<Content>After a recent accident, my daughters LG 50PS3000 plasma TV was returned from her insurance company with a letter saying she did not have a claim? Her husband tried to move the TV without help, slipped and dropped it. They say that the TV had a pre exsisting fault, apparently the ZSUS circuit board had a fault ? If this fault had exsisted it would have been repaired because the TV is only just over a year old and was a wedding present plus showed no sign of this fault prior to the accident ! Could this fault have occurd as a result of the accident ??? Do you think as I, that this is a get out by the insurance company ??? Many thanks, X5Les</Content>
+	</Post>
+</Thread>

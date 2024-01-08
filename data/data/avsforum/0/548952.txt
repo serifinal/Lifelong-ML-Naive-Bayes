@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Ideas to consider (or steal)</Title>
+		<Username>dc_pilgrim</Username>
+		<Datetime>10-21-08, 12:38 PM</Datetime>
+		<Content>Dear new readers - this thread is a mess. The first hundred posts or so reflect my thought process after selling my old house w/HT and planning a HT in the new one. I eventually scrapped these plans. A bunch of ideas were kicked around, and an off topic landscaping project is being documented starting around post #78 (plans), then picking up again around post #93. Eventually, there will be a multipurpose room set up, but life has a few other cards that are first. When the multi-purpose room starts I will re-write this post, and several others. In the meantime, you can read my thought process and experiments, but not too much will be realized. Sorry for the mess. Regards, the management.</Content>
+	</Post>
+</Thread>

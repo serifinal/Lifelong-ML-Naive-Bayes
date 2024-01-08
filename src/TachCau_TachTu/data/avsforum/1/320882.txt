@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Will Panasonic ever release a Receiver for Blu-Ray and new HD Audio formats</Title>
+		<Username>rob316</Username>
+		<Datetime>07-15-08, 05:00 PM</Datetime>
+		<Content>Is there anything in the works by Panny to release new AV receiver that supports the new Hi-Def Audio Formats? I have an XR55 which I will be replacing soon. I love the Xr55 and hoping Panny will release a new HDMI 1.3 receiver.</Content>
+	</Post>
+</Thread>

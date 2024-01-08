@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung i7500 Galaxy on WIND Mobile</Title>
+		<Username>Jonavin</Username>
+		<Datetime>09-19-2009 11:42 PM</Datetime>
+		<Content>Specs: http://www.gsmarena.com/samsung_i7500-2791.php It looks like this phone will be on WIND. In this other thread there's a video of Samsung Canada demoing the Omni 2 and Galaxy. They said it's going to be released by the end of the year. The only version of Galaxy that currenlty exists only has 900/2100/1700 bands. Which means it's not compatible with Rogers/Bell/Telus 3G (Rogers in 2G only). The only company with a compatible network in Canada by the end of the year is WIND. DAVE will also be compatible but they won't launch until early 2010. Interestingly, WIND Greece and Italy also sell this phone on their websites. I'm looking forward to Android and AMOLED capacitive touchscreen.</Content>
+	</Post>
+</Thread>

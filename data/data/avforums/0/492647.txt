@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>samsung ps50 c7000 plasma tv</Title>
+		<Username>ken mcaleer</Username>
+		<Datetime>01-06-2011, 6:13 PM</Datetime>
+		<Content>I purchased this model tv in early February 2011 from Amazon. The tv is just what I wanted and has lots of good points but has suffered from momentarily flicking off during transmission. I am on my THIRD tv and used the 3d over the bank holiday and the transmission flicked off once again.This also occurs on 2d but not as often. This is particularly annoying in 3d as you have to go through the menu again to log back on. I don't think its anything to do with connections, as if you playback on 'sky' the transmission is uninterrupted.I am now at my wits end and about to return the tv for a full refund by Amazon.Has any body had similar experiences with this model? Any suggestions as to the possible cause, or am I just unlucky?KM.</Content>
+	</Post>
+</Thread>

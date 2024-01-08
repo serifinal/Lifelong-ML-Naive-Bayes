@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic 42vt30 Purchase?</Title>
+		<Username>kornnutcase</Username>
+		<Datetime>10-01-2012, 1:54 PM</Datetime>
+		<Content>Good Afternoon, Please can I have your opinions. I have been waiting a while to purchase a new TV, I am currently using a 32" Sony CRT. I have been waiting for a top glass tv but the rate I am going I will never purchase one. Last year I was all set on purchasing the 42VT30 but was then put of by all the negativity regarding green tinges etc but despite this most users said it was an amazing set. I decided to wait to see what this years CES brought, I would love an OLED TV as they sound amazing but looks like there are going to be too expensive at first and its not advised to buy first generation. It also appears that Panasonic will not be bringing out a 42vt50 which I was interested in. The 42vt30 can now be brought for around £1099 which seams a good deal. I am now thinking should I buy this or wait until April when the reviews of the new sets come out, although the majority of these sets in my size range now appear to be LED/LCD which I have generally read do not give as good a picture as plasmas. I do not want to wait and lose out on being able to buy a 42" Plasma. Any thoughts that can help me decide? Thanks again</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Discrete input hex codes for Insignia ns-42PDP</Title>
+		<Username>flux690</Username>
+		<Datetime>09-29-08, 02:43 PM</Datetime>
+		<Content>Hi Everyone, I'm looking for the discrete input hex codes for my Insignia 42" plasma tv. I am using a Harmony 880 remote and Logitech informed me that if I can get the hex codes they will update their database. If anyone one has them or knows where they can be found it would be appreciated. Thanks Craig</Content>
+	</Post>
+</Thread>

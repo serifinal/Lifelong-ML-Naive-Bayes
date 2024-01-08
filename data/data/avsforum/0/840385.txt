@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>WelshChief</Username>
+		<Datetime>12-03-08, 12:29 PM</Datetime>
+		<Content>I have just built a new HTPC and connected it to my ONKYO SR674 amp via a DVI-HDMI cable which is subsequently connected to my SD plasma via a component to VGA cable. Even after setting the input for HDMI1 (which is the port the cable is plugged into), the amp still says ?no signal?. However, if I put an HDMI-DVI adapter on the end of the same cable and plug it into a 17? TFT computer monitor I get a display fine, so I don?t know what to set on the amp to get it to read the signal that the HTPC is sending to it. To further frustrate, I have also bought a DVI-Component cable, plugging the DVI into the Video out on the HTPC and the same result (even though DVI-DVI from the HTPC to monitor also works perfectly). So I then go and buy a VGA->Component video cable and set the amp to component input on the DVD input section. When I turn the HTPC on, the BIOS slash screen shows (albeit with a red tint) then when it disappears, I get nothing on the screen. Removing the VGA cable from the HTPC and plugging in a normal monitor and the display is fine, so the VGA is definitely outputting a valid signal. Again, if I plug the VGA into both the HTPC and directly to the Plasma, it works PERFECTLY, but obviously I want it going through the amp Can anyone suggest what could be wrong as I'm pulling my hair out with the time and money wasted on this!!!</Content>
+	</Post>
+</Thread>

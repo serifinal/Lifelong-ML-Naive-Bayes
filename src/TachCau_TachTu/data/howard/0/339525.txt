@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rogers Nokia 5800 Questions</Title>
+		<Username>OneHytKyll</Username>
+		<Datetime>12-12-2009 01:00 AM</Datetime>
+		<Content>ok I am gonna try and be quick and direct with these questions. 1: Does being in Canada limit the apps I can get from the ovistore? ovistore.ca is really sad compared to .com. 2: if I connect to a wireless hotspot will rogers still charge me for surfing and downloading? 3: Can I dl apps to my PC right now and transfer them to my 5800 when I pick it up tommorow? (I get the feeling thats a really really dumb question....) 4. This is a VERY general question: Has the 5800 become a better device since its release. Be it through firmware or through new apps? Ok well thanks to everyone who reads this and I hope I don't come across as to much of an idiot....</Content>
+	</Post>
+</Thread>

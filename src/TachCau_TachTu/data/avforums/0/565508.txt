@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Merry Christmas</Title>
+		<Username>sapper</Username>
+		<Datetime>24-12-2002, 12:15 PM</Datetime>
+		<Content>Good morning all. Just a brief note to wish you all a MERRY CHRISTMAS Thanks to those who have all helped myself (and overs over the last few months). Inparticular those who, despite their business take time to help those who are entering this market. Adrian</Content>
+	</Post>
+</Thread>

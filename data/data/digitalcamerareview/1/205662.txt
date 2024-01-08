@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>[suggestions?] accessories for sd500</Title>
+		<Username>gwen61</Username>
+		<Datetime>03-21-2006, 03:52 PM</Datetime>
+		<Content>Hi all, my new sd500 is on the way and I am looking for suggestions about accessories. I bought a 2G sd card already. Anything else? ps: I want to buy a high capacity battery, because the review on canon battery life is not good. Could you recommend some for me? Shall I buy the an extra one that is exactly the same as the original one? Is there any better choice? (I already spent too much on this camera, so really need something with good price value). Thanks.</Content>
+	</Post>
+</Thread>

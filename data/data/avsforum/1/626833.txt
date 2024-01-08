@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony vs. Samsung LCD Flat Panel</Title>
+		<Username>Unknown Agent</Username>
+		<Datetime>12-18-08, 11:30 AM</Datetime>
+		<Content>I want to purchase the Samsung LN52A630 or LN52A550, but my friend wants me to get a Sony because it's "better" and I will be sorry for getting a Samsung. The reason why I opted for a Samsung was because of word of mouth, internet reviews, etc. What Sony model is comparable to the Samsung for around the same price? I will switch if it's a better value.</Content>
+	</Post>
+</Thread>

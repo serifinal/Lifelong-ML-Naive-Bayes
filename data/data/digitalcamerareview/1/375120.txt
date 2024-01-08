@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Powershot SX20IS UV Filter</Title>
+		<Username>Vicki</Username>
+		<Datetime>10-16-2009, 02:59 PM</Datetime>
+		<Content>Couldn't find the UV filter size anywhere in the manual on CD or on the specs on the Canon site. Took the camera to camera store to test the size (looked like it was 58mm). However, there aren't any threads to attach. What gives? Anyone else experience this? When did not buying and attaching UV filters to new camera lenses fall by the wayside. This is my first Canon digital SLR camera; I've always had Nikons before but liked the reviews on the SX20IS and was looking for something more portable and versatile than my full-blown Nikon D70 SLR.</Content>
+	</Post>
+</Thread>

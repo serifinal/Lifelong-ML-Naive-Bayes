@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>TVersity not playing 5.1, any help?</Title>
+		<Username>micromatikal</Username>
+		<Datetime>11-01-08, 10:32 AM</Datetime>
+		<Content>I have been searching through the forums forever now and can't find any help regarding this issue. I am streaming to my PS3 with TVersity, I know my MKV files have 5.1 (I have ones with both AC3 and DTS 5.1) but no matter what it plays in regular 2.0 stereo to my receiver. I have the k-lite codec pack installed, and I have now installed AC3 filter to see if I can mess with that to get it to work... no luck so far. The video looks amazing, transcodes like a dream, but not 5.1 is killing me! I have read that it is possible to stream the 5.1 over the network, just can't figure out how! Any help would be greatly appreciated!</Content>
+	</Post>
+</Thread>

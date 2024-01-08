@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Backup SMS & Restore To New Phone?</Title>
+		<Username>phatsingh</Username>
+		<Datetime>09-22-2009 02:34 PM</Datetime>
+		<Content>Hi, I have a TP and i am going to get a new one to replace it, so i wanted to keep my text messages and i was wondering if anyone could reccomend a good program that will make it easy to copy my sms and back them up, as well as import them back into my new touch pro... thanks.</Content>
+	</Post>
+</Thread>

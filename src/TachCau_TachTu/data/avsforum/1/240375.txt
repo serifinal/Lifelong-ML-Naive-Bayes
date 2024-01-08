@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>btlsfan</Username>
+		<Datetime>11-30-08, 11:33 PM</Datetime>
+		<Content>I am looking to buy a 42' plasma and I have narrowed it down to the Samsung PN42A450 and the LG 42PG20. I plan on watching SD and HD content on the tv through satellite or over my wired network on the xbox 360. I also plan on using the tv for gaming. So I am curious which TV should I get, Samsung PN42A450 or LG 42PG20? Thanks for your help.</Content>
+	</Post>
+</Thread>

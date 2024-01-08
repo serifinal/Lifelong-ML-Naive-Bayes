@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer PDP-435-XDE freeview / memory issue</Title>
+		<Username>Gramuk</Username>
+		<Datetime>03-05-2010, 6:33 PM</Datetime>
+		<Content>Hi guys - and gals... I have a pioneer PDP-435XDE since it first came out and overall been pleased with it. However a few weeks ago I turned on the plasma and a message on screen invited me to set the time / date. I selected cancel to get rid of that message and then there was no DTV at all available. I could not get even to tune the digital tv (menu item greyed out) - I did however have analogue available. Pressing between DTV and analogue etc. I switched the whole system off and powered up again. This time I still given the option to enter time / date and did so. I could then get into the DTV set up and succesfully tuned freeview etc. This happened two times two days apart and am worried it is going to get worse. Like I say it's been about two weeks since it last did this. The TV is turned OFF completely in the evening. Could this just be an internal memory battery losing power ?? Any advice would be gratefully received before I take the media receiver apart. Regards, Graeme.</Content>
+	</Post>
+</Thread>

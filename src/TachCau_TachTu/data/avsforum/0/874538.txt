@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A Nightmare On Elm Street Coming To Blu-ray September 2nd</Title>
+		<Username>Blu-News</Username>
+		<Datetime>07-16-08, 08:44 PM</Datetime>
+		<Content>Warner Bros. will release the New Line title A Nightmare On Elm Street September 2nd. No specs or details just yet, but we are very excited!</Content>
+	</Post>
+</Thread>

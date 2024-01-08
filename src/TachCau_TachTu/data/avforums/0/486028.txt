@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic tx-p42v20 dvd quality</Title>
+		<Username>Morganwg</Username>
+		<Datetime>14-06-2011, 12:54 PM</Datetime>
+		<Content>To all you 42v20 owners out there who use their PS3 to upscale to 1080p, what is the quality of the picture like from DVD??? I am far from impressed with the picture it displays. I am using the thx setting that I use for blu ray, and it just seems blurry, I can honestly say my 4yr old 37px70 is far better with dvd's than this. Even the titles/words when you load the dvd's seem that bit blurry. Has anyone tried the Star Wars films, the first 3 films??? I saw quite a few jagged line here and there throughout ep.2, and again overall not blown away by the pic. Surely it should be excellent with upscaled dvd's. Helpp!!!!!!!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>surf_fun85</Username>
+		<Datetime>08-20-08, 06:32 AM</Datetime>
+		<Content>For Immediate Release Comcast Networks is proud to announce the launch of E! HD, VERSUS HD, GOLF CHANNEL HD, STYLE HD and G4 HD on December 8, 2008! With the excitement surrounding HD programming, these must have networks are sure to enhance your current lineup! Call your Comcast Networks rep today to get some of your favorite networks in the clarity of high definition. http://www.comcastnetworks.com</Content>
+	</Post>
+</Thread>

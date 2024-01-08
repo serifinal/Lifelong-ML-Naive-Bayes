@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Witter Users. Does your N900 make any noise when you receive a new Tweet?</Title>
+		<Username>Snotick</Username>
+		<Datetime>06-03-2010 01:53 PM</Datetime>
+		<Content>I have been through every setting I can find. For some reason, I am only getting the quick banner notification (about 3 seconds) on the screen when I get a new Tweet via Witter. Can any Witter users verify that they are getting an audible tone when they receive a new Tweet. I am getting tone, popup, and notification light when I get a new email.</Content>
+	</Post>
+</Thread>

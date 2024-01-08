@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Nvidia 177.79 Beta drivers released</Title>
+		<Username>HDGT</Username>
+		<Datetime>07-29-08, 09:46 AM</Datetime>
+		<Content>Nvidia released some new official beta drivers, only supports Geforce 8/9/200 series in the inf. http://www.nvidia.com/object/winxp_177.79_beta.html http://www.nvidia.com/object/winxp64_177.79_beta.html http://www.nvidia.com/object/winvist...7.79_beta.html http://www.nvidia.com/object/winvist...7.79_beta.html</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Optimum Throw Distance</Title>
+		<Username>Bob Kelly</Username>
+		<Datetime>05-02-08, 06:09 AM</Datetime>
+		<Content>I'm considering a phased approach to CIH, starting with zoom now and adding a lens later. I'd like to mount the projector just once if possible. The room is 14' x 22'. I'm currently planning for a 1:2.35 screen width of 125" (about 10'), and I'm strongly considering the Panasonic AE-2000. The screen would be a fixed screen on the front wall. I can mount the projector on the 10' ceiling at any distance in the room out to about 21'. Before I started thinking CIH, I planned to mount the projector at about 14' (throw ratio of about 1.8) to optimize brightness. Now I'm considering pushing that back to a throw ratio of 2.0 at about 16' to consider other apects of picture geometry through a lens. Questions: 1. Will zooming to 2.35 (before adding a lens) also involve/require lens shift adjustments? 2. How do I choose an optimum throw distance for my phased approach to CIH? 3. Do I measure throw distance to the front of the lens or to the panel in the projector (or something else)? 4. With the AE-2000 at these distances (14' - 16'), what screen gain is optimum? Thanks for your help. Bob</Content>
+	</Post>
+</Thread>

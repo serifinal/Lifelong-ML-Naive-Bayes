@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Advice on 5.1 or 7.1 for corner TV</Title>
+		<Username>mattbro</Username>
+		<Datetime>11-26-08, 10:59 PM</Datetime>
+		<Content>Ok, I finally bought a house and figured it was time to get my fun room setup. I've been reading over the speaker placement forums and the '101 Guide' and have found conflicting answers on how to handle a room like mine. I don't really have an option other than putting the TV in the corner and the couches opposite of it because of where the wall openings are. I was all gung-ho to get 7.1 implemented but I see a fair number of people posting that it would be better to just have a 5.1 system than a 7.1 system that has bad speaker placement. Also, I have vaulted ceilings that go from 8-15 feet in height. Here is what I was originally thinking (speakers are in red). Will I be able to get good sound out of a speaker placement like this? I tentatively plan to get a Polk LSi/C for the center (on a shelf above the TV) and a pair of LSi/7 or 9's for the fronts. Not sure on the surrounds or sub at this point. If it matters, I have a Pioneer VSX-03TXH for my receiver and a 73" Mitsubishi DLP. Thanks in advance! Matt</Content>
+	</Post>
+</Thread>

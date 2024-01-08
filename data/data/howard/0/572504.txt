@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Globalive Launch July 2009?</Title>
+		<Username>SIMCITY</Username>
+		<Datetime>12-08-2008 07:20 PM</Datetime>
+		<Content>Go to GSM world and interestingly you will see GLOBALIVE listed as having a planned network for July 2009. This is new on the website and hasn't been listed that long. http://gsmworld.com/roaming/gsminfo/cou_ca.shtml</Content>
+	</Post>
+</Thread>

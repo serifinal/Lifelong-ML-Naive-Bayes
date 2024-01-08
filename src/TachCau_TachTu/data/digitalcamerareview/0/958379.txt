@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot SX20 Rotation Display Problem</Title>
+		<Username>capnelgin</Username>
+		<Datetime>07-18-2010, 09:07 PM</Datetime>
+		<Content>When I take a picture in landscape mode (horizontal), I can see through the display screen. When I turn it to take a picture vertically, I can no longer see the display screen. I have hit the display button several times and am unable to view through it. Thanks for your help!</Content>
+	</Post>
+</Thread>

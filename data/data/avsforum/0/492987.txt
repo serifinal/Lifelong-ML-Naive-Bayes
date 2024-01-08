@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Escient Video Chipset? Anyone know what it is??!</Title>
+		<Username>markswift2003</Username>
+		<Datetime>11-02-08, 06:54 AM</Datetime>
+		<Content>Hi, Does anyone know what upscaling/Deinterlacing chipset the Escient VC-1 client or VS-100/200 servers use? Mark</Content>
+	</Post>
+</Thread>

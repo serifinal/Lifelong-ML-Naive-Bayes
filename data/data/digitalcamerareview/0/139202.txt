@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with cropping on my camera?...sd870</Title>
+		<Username>courtneyclv</Username>
+		<Datetime>01-21-2008, 08:22 PM</Datetime>
+		<Content>I am snowboarding and have my camera with me, my notebook pc, my portable little printer. I want to crop a photo I just took and print it out. The hp printer takes my memory card. I can connect my camera to my pc with the usb cable but can't hook up my pc to the printer because I do not have the right cable. I am trying to figure this out..can I somehow crop my photo and leave it on the sd memory card to edit it..and then put the memory card into the printer. Or..I tried to edit the photo on my pc, copy and paste it back on the memory card..but I wasn't able to do that. Sorry so confusing! Darn...if I only had a double sided usb cable this wouldn't be a problem. (and no, the printer will not let me crop, only does red-eye) Courtney</Content>
+	</Post>
+</Thread>

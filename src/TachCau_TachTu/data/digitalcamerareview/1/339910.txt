@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>? about Canon Powershot SX10 IS power adapter</Title>
+		<Username>bethc</Username>
+		<Datetime>01-15-2009, 01:20 PM</Datetime>
+		<Content>Recently got this great camera but was told it didn't have another power source other than batteries. Just read in the manual that there is a power adapter CA-PS700. Since I take many of my wildlife pics from inside through a window, a plug in would be great - if it's long enough or can handle an extension cord. I read reviews and it seems like this is what I need, although some reviewers (and one description referred to it as a charger.) Anyone have one and/or know about how long it is? Thanks!! Beth</Content>
+	</Post>
+</Thread>

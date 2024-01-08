@@ -1,0 +1,42 @@
+which canon high definition consumer camcorder ? .
+i would like to start a ` which canon high definition consumer camcorder ? '
+thread .
+i 'm doing this because information about hd consumer camcorders is widely spread across avs .
+first of all please do not compare camcorders discussed below with any of the high end ones such as sony hdr-fx1 , canon xh a1s , etc , etc. .
+please do not discuss them here .
+no sd camcorders either .
+my knowledge and personal opinion is based on what i managed to read out from many reviews and opinions written at avs forums and other .
+i am starting this thread because i am in need of buying a new camcorder .
+for the past few years i 've been filming actions sports with my 1 chip sd camcorder and a century optics mkii baby death -lrb- 37mm thread -rrb- .
+recently i bought a full hd tv and i have decided to shoot in hd either .
+from the information i gathered canon 's products seem to be the best decision .
+unfortunatelly i have a couple issues to consider .
+canon has 3 types of hd consumer camcorders right now .
+hf series - with flash memory hg series - with a hard disk hv series - minidv to make things more understandable .
+picture quality : hf11 = hg20 = hg21 -lrb- max 24mbps -rrb- hf100 and hf10 end up @ 17 mbps 24 mbps allows higher detail to be retained in any panning or moving shots .
+with only 17 mbps , detail is dropped during any motion .
+however i also read that the detail that 's ` dropped ' , tends to be very fine detail , most people would n't notice the difference .
+both hg and hf record in avchd .
+which format to choose is just not a simple answer at this stage of development .
+avchd uses mpeg4 which has a much better compression algorithm than mpeg2 .
+avchd uses h. 264 , which is an mpeg4 variant .
+hdv right now is easier to edit -lrb- seems that avchd is superior in pq , and so do many others , when comparing avchd 24mbps to hdv tape based footage -rrb- the hf11/10/100 all have a better processor than the hv30/20 line ... also a better cmos chip for the hf11 -lrb- hv30 1/2 .7 '' vs hf11 1/3 .2 '' -rrb- on the other hand the crispness and lack of noise of the hv30 is very impressing and serves as a reminder that the avchd codec still has a ways to go before it can match hdv for unwanted compression artifacting .
+artifacting increases as data rate decreases .
+it is a function of the compression algorithm .
+in actuality avchd specs out at 1920x1080 and hdv at 1440x1080 .
+both have the same vertical pixel resolution , the difference is in the theoretical horizontal pixel resolution .
+now a slight comparison between three of canon 's top consumer models hg21 - viewfinder , hdd , price , avchd -lrb- 37mm thread -rrb- hf11 - no viewfinder smaller , cheaper than hg21 , flash , avchd -lrb- 37 mm thread -rrb- hv30 - viewfinder , minidv -lrb- ` tapes are going to die soon . ' ?! -rrb-
+-lrb- 43 mm thread-need step dwon ring to use bdeath -rrb- canon hg21 is nearly identical to the canon hg20 , but includes a viewfinder , upgraded lcd , and larger 120gb hard drive .
+i must say that the viewfinder is a good solution in some circumstances .
+- you seem to be able to hear the hum of the hard drive on the recording -lrb- hg20/21 -rrb- but i doubt whether it 's louder than the minidv motor noise .
+i might get myself an external microphone if needed in both cases .
+the last thing i need to add here are my computer specs .
+i 'm not new to video editing .
+currently trying out premiere cs4 .
+hp pavilion dv9700 notebook pc intel core 2 duo t9300 @ 2.50 ghz 2 gb of ram -lrb- can expand to 4 gb -rrb- geforce 8600m gs 512mb vista 64 bit when buying this computer this summer i was thinking about editing footage on it , thought it was a good idea ?
+any comments . .
+looking through topics i found this statement . .
+` you 'll feel better about avchd by the end of next year , the computer hardware will be much cheaper than it is now ... we went through this exact same scenario when minidv first hit the scene , the computers were way too slow to handle it , and now nobody remembers how bad it was . '
+please help , tell me your opinions .
+i will aprreciate , everybody interested in buying an hd consumer camcorder will appreciate .
+which one to choose ?

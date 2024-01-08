@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How do I detune Freeview and Freesat on Panny G20</Title>
+		<Username>Dick Emery</Username>
+		<Datetime>25-11-2011, 4:56 PM</Datetime>
+		<Content>Does anyone know how to detune the digital channels? Both Freesat and Freeview. I don't watch live broadcast TV anymore and would like to save myself the license fee (yeah I know they are a pain in the backside once you do that but I will deal with that when it comes). I don't think it's enough cutting the aerial cable at the wall as if you get any signal whatsoever they will nab you for it. EDIT: Nevermind. I figured it out. You have to auto tune with the aerial disconnected whereupon it will find no channels and you can leave it like that. For analog I had to keep the aerial connected and make sure all the channels were de-tuned before disconnecting it.</Content>
+	</Post>
+</Thread>

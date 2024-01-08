@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma's and Gaming</Title>
+		<Username>Cake</Username>
+		<Datetime>18-12-2011, 7:11 PM</Datetime>
+		<Content>If you are cautious with your gaming and dont play for more than a few hours is there any risk factor with the latest plasma's?. Trying to broaden my choices and gaming is major factor but input lag seems to be a major crutch for this years higher rated mid level 3dtv's. Starting to consider plasma in their stead. Thanks</Content>
+	</Post>
+</Thread>

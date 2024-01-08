@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Will Either of These Phones Work on the WIND Mobile Network?</Title>
+		<Username>YMS_1975</Username>
+		<Datetime>05-05-2010 04:48 PM</Datetime>
+		<Content>I've got 2 phones & was wondering if either of them would work on the WIND Mobile Network. 1) Nokia E71-1 2) Blackberry Tour 9630 (from Telus Mobility) Lil' help?</Content>
+	</Post>
+</Thread>

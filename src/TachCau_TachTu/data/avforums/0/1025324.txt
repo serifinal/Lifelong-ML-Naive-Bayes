@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic ST30 PS3 Ghosting</Title>
+		<Username>adeleander</Username>
+		<Datetime>01-01-2012, 10:39 AM</Datetime>
+		<Content>Hi, have just bought a new Panasonic Smart VIERA TX-P46ST30B, which is great for watching TV and films so far. But Im having problems with ghosting when I turned horizontally in Skyrim on the PS3, this wasn't noticeable on my old Samsung 46" LCD set. Ive read somewhere this is something to do with 30FPS used in the game, but its come as a bit of a shock as all the reviews I read on the set mentioned how good the refresh rate is. Has anyone else experience this problem and have any work arounds?</Content>
+	</Post>
+</Thread>

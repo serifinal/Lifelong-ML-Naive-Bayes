@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Telephoto Zoom lens question</Title>
+		<Username>jamesthedrummer</Username>
+		<Datetime>06-02-2010, 11:31 PM</Datetime>
+		<Content>Ok, I'm new to the photography world so bare with my lack of knowledge please. Canon - 70-200mm f/4L USM Telephoto Zoom Lens Canon - 70-300mm f/4-5.6 IS USM Telephoto Zoom Lens Canon - 75-300mm f/4-5.6 III Zoom Lens Which lens would be better for a amateur photographer with out going for the high priced "L" series lens.</Content>
+	</Post>
+</Thread>

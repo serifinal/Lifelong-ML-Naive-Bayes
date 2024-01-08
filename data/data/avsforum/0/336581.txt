@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Terminator 2: Judgment Day (UK release)</Title>
+		<Username>MattGuyOR</Username>
+		<Datetime>06-18-08, 10:05 PM</Datetime>
+		<Content>I just received this and "The Fog" and noticed the running times were shorter than they should be. There are no reported sync or film speed issues on either of these, are there? Just wanted to be sure before I opened them. I also searched the forums and couldn't find any mention of them, either. Thanks in advance.</Content>
+	</Post>
+</Thread>

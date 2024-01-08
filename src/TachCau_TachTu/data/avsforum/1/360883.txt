@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic 32LZ800 vs Sharp 32GP3U - Which to choose?</Title>
+		<Username>tbessie</Username>
+		<Datetime>05-24-08, 08:08 PM</Datetime>
+		<Content>Hello all... So I'm finally going to bump up my (still relatively new) 26" Sony 720p (not XBR) set to a 1080p set. I have very limited space, so the max I can go to is 32". The two sets that look the best to me are the Panasonic 32LZ800 and the Sharp 32GP3U. From what I have read here, people rave about the Panasonic, but the Sharp is also nice (I like the swivel stand, tho' getting a TV just for that would be silly). Has anyone here seriously investigated both, and found one head and shoulders above the other? - Tim</Content>
+	</Post>
+</Thread>

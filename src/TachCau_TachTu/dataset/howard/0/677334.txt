@@ -1,0 +1,10 @@
+nokia 6263 prepaid as usb wireless modem .
+t-mobile prepaid nokia 6263 phone net-zero free dial-up nokia pc suite v. 7.1.40.1 -lrb- latest -rrb- nokia data cable -lrb- dke-2 -rrb- i am trying to use my phone as a usb connected wireless dial-up modem for a computer .
+i always get the same error , 678 , the remote computer did not respond .
+is there a way that this will work ?
+is it because i am a prepaid customer ?
+t-mobile says the phone is not even able to be tethered as a modem , he even checked with nokia .
+why is there so much write-up about this ability without support from either t-mobile or nokia ?
+while i do not have much faith in the technical support department 's response , i have been unable to get it to work , either .
+am i beating a dead horse ?
+rick

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TX-P50U30B or SAMSUNG PS51D550</Title>
+		<Username>Paul97</Username>
+		<Datetime>23-04-2011, 5:20 PM</Datetime>
+		<Content>Hi Can't decide between the above TV's, I haven't actually seen them in any store to compare yet. I'm not really bothered about 3D on the Samsung but both TV's have the other features I'm looking for. Having read about the 50hz Panasonic problem I unsure weather to consider it. Any input greatly appreciated. Cheers Paul</Content>
+	</Post>
+</Thread>

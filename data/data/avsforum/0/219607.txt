@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>[UK] Thunderbirds-Complete Series (1964) Coming to Blu-Ray on September 15th</Title>
+		<Username>Spizz</Username>
+		<Datetime>07-09-08, 02:54 AM</Datetime>
+		<Content>Releaselists have just added this and they are usually pretty spot on. Will have to retire my DVD Boxset and grab this from the UK in September. An expensive year for Blu-Ray this will be</Content>
+	</Post>
+</Thread>

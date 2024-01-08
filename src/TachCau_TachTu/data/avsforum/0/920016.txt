@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>?The Dark Knight? coming to region 2 DVD this December</Title>
+		<Username>JBLsound4645</Username>
+		<Datetime>11-09-08, 08:13 PM</Datetime>
+		<Content>Out on Monday 8th December is the second instalment of summertime blockbuster arrives in 2 disc form. ?Why so serious?.</Content>
+	</Post>
+</Thread>

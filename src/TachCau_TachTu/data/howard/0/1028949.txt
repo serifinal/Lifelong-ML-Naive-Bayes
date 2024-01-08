@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BNIB IPhone4 16gb - locked to rogers</Title>
+		<Username>ChouMein</Username>
+		<Datetime>07-30-2010 09:46 AM</Datetime>
+		<Content>Just grabbed an iphone4. Don't need it so I'm selling. Looking for 800 OBO. Feel free to make other offers but I will try to hold out for this.</Content>
+	</Post>
+</Thread>

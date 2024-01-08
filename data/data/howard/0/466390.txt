@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>But I didn't make or receive a call</Title>
+		<Username>blilb</Username>
+		<Datetime>12-15-2009 02:21 AM</Datetime>
+		<Content>I was looking though my call records on the PP website. On Dec 9, there is a 1 min call to my phone that I got charged for. At that particular time, my phone was off and in my pocket. I didn't have any "missed calls" and it's highly unlikely anyone called me since only two people had my number at that particular point in time. Can anyone tell me why I got charged for a call I didn't make or receive?</Content>
+	</Post>
+</Thread>

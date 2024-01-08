@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can anyone help me with my tuner for the Thomson Wysius??</Title>
+		<Username>stuck</Username>
+		<Datetime>05-02-2006, 7:27 PM</Datetime>
+		<Content>HELP!!!!! Im so dumb when it comes to my TV I dont even know the right terminology to use to describe what is happening! Bear with me - I think its an easy one. I bought a Thomson 42WB02/3S about two years ago and it worked great until the other week. Now the PLasma screen itself seems fine but the tuner box thing that plugs into it just constantly has a red light on the front. If I press the remote control it just seems to randomly flash the red light on the front of the tuner box but nothing happens. Normally when it works this red light is a steady green. If I turn it all off then on again I get a steady red light until I use the remote then it randomly flashes again. Any ideas? Anyone that can help will get a huge from me!!</Content>
+	</Post>
+</Thread>

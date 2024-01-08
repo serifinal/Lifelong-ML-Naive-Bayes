@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Hitachi P50XR01U turning on problem</Title>
+		<Username>smuklis</Username>
+		<Datetime>14-05-2011, 8:58 PM</Datetime>
+		<Content>Hello, I have this tv, and the problem is: tv is turning on, but display not working (black), where I can get srvs manual, want to check the voltages in power supply.</Content>
+	</Post>
+</Thread>

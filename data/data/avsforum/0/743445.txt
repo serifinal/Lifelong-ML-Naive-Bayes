@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Master thread for Panasonic plasma not turning on</Title>
+		<Username>Ericthemidget</Username>
+		<Datetime>02-28-08, 12:33 PM</Datetime>
+		<Content>Everyday we see a new thread about Panasonic Plasma's not turning on. If your set fails to turn on and you have a blinking light, post here. Hopefully this will keep all of the info in one place and everybody can stop asking the same question. If it blinks 7 times, your power supply is shot If it blinks 10 times, a video board went bad. Please also post the size of your set, city it was purchased in, and build on date (back of your set). Check out this link for more info: http://www.bruzziforum.com/vbf/showthread.php?t=79</Content>
+	</Post>
+</Thread>

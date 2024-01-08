@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: Rogers iPhone4 16G / 32G</Title>
+		<Username>johnmoon</Username>
+		<Datetime>08-07-2010 02:00 PM</Datetime>
+		<Content>As title stated, looking for one sealed / lnib will pay 600CAD for 16G 700CAD for 32G (not looking for unlocked nor paying more than what I stated) can meet up in GTA or London area</Content>
+	</Post>
+</Thread>

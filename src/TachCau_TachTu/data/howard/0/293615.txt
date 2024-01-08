@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy Spica BRICK!</Title>
+		<Username>picopapero</Username>
+		<Datetime>05-22-2010 02:40 AM</Datetime>
+		<Content>Hello... first of all sorry for my bad english but i'm writing from Italy! So... i'll try to explain my situation, i have got a samsung Galaxy Lite (aka Spica)... i was tryng to upgrade it but it died and now doesnt start up! I can't acces to recovery/download mode it just stays off! i'f i plug in USB it starts charging but nothing more... Could someone Help me?? thanks</Content>
+	</Post>
+</Thread>

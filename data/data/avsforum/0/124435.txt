@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Penteo/Sontrio will be at the San Francisco AES</Title>
+		<Username>PenteoSurround</Username>
+		<Datetime>07-21-08, 10:24 PM</Datetime>
+		<Content>Hey guys, Penteo is finally coming together as my full time job. Just this week I filed the paperwork for LLC incorporation and got the space at the October Audio Engineering Society show in San Francisco. I'll be showing both Penteo and Sontrio, the 3-point surround subset of Penteo. I'm also working on pulling together an event for the Saturday night at a well-known San Francisco disco, to demonstrate 1970s and 80s classic dance music in 3-point surround. As always, thanks to all of you who have downloaded demos and given feedback. -John</Content>
+	</Post>
+</Thread>

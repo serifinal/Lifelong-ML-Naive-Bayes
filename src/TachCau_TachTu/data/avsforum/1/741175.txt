@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Denon AVR-4308CI, Onkyo TX-NR905 or Pioneer VSX-94TXH - Please Help Me Decide</Title>
+		<Username>optivity</Username>
+		<Datetime>07-15-08, 09:06 AM</Datetime>
+		<Content>Hi guys. I have an Onkyo TX-SR600 receiver paired with a PRO-150FD PDP display. I am in the market for a new, sub-$2000, receiver and so far these three units the: Denon AVR-4308CI, Onkyo TX-NR905 and Pioneer VSX-94TXH seem to be likely candidates. Please weigh in regarding your opinion of these AVRs and recommendations regarding which model you would choose. If there are additional AVRs equivalent to the receivers I have listed that should be considered, I would appreciate those recommendations too.</Content>
+	</Post>
+</Thread>

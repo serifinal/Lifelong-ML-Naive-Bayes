@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New AT&T plan, 29.99 unlimited data, iPad only</Title>
+		<Username>_Arthur</Username>
+		<Datetime>01-28-2010 11:29 AM</Datetime>
+		<Content>http://static.arstechnica.com/ipad_event/IMG_0048.JPG $14.99 for 250 Mb $29.99 for unlimited data No voice. iPad owners only. No contract -- can cancel anytime. iPads [GS] only.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Klipsch Synergy Sub-12 any good?</Title>
+		<Username>1990dtgl98</Username>
+		<Datetime>09-05-08, 04:51 PM</Datetime>
+		<Content>Here's the dilemna...I work part time and in college (read as I'M BROKE!). I just rounded out my 5 channel system. I am running: Onkyo 605 receiver Infinity Beta 50 L/R Infiinity C250 center Infinity Beta 20 L/R back. I heard the Beta's are some of the best for the price. So it seems, they sound awesome! However, my room is shaped like a backward "L" and I need a sub for the low notes. A background. The room is hardwood floors and including the side office room (completely open), it runs about 2500 cubic feet. (310sq/ft floorspace with 8 foot ceilings). I can get, through work, a Klipsch synergy sub-12 for about 180 shipped. I was wondering if anyone thinks this would be a good or bad investment? I don't want to spend more than I have to, but I also don't want to cheap out and not have it work as planned. I was thinking eD for a sub (I use all their car products and had them well before they even got into home audio), but for half the price, would this suffice for my room specs for a 1.5 to 2 years until I move out and make a enough to buy a more expensive sub? Should I wait another 3 months and buy an eD? I just want to know if I should just save the 200 and put it toward a eD or if this will satisfy me for two years and thus be a good investment. Will it work with a room with that airspace, etc? I don't know what size/wattage/tuning/etc. is recommended based or airspace or whatever...I know nothing about doing that.</Content>
+	</Post>
+</Thread>

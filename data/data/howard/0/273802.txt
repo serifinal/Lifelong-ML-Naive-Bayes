@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant with Cradlepoint router, did anybody try?</Title>
+		<Username>Scottish Skyedance</Username>
+		<Datetime>08-03-2010 02:42 PM</Datetime>
+		<Content>I did it on my Behold II and it works 100%. I set USB mode to Samsung studio, USB debug mode doesn't matter. I checked Vibrant has Samsung Kies on USB mode and I am sure you can tether over USB with Cradlepoint router this way. Now here is a question: did anybody try that?</Content>
+	</Post>
+</Thread>

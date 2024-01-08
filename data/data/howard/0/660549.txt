@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Manual update of froyo 2.2 for nexus one</Title>
+		<Username>brucele</Username>
+		<Datetime>05-22-2010 03:17 PM</Datetime>
+		<Content>MANUAL update of 2.2 available. Just follow the instructions below. Please report how much faster the browser is compared to Ipad, Iphone 3gs.. Thanks Want to upgrade manually yourself? Download the Android 2.2 firmware for the Nexus One ? here is the link to download http://bit.ly/aCDBwh Rename the file update.zip and copy it to your microSD card via USB. [Note: make sure the file is named update.zip and not update.zip.zip.] Power down your Nexus One Hold down the ?Volume Down? button as you power the phone back on. A screen should appear showing your phone?s system searching for various files. Scroll down to ?recovery? and press the ?Power? button. When you see the triangle with an exclamation point symbol, press the ?Power? and ?Home? buttons at the same time. From the menu that appears, select ?Apply sdcard:update.zip.? When the screen displays ?Install from sdcard complete? select ?reboot system now? and wait for the phone to power back up.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>CTR-500 (cradlepoint router) and UMA?</Title>
+		<Username>DreamCatcher68</Username>
+		<Datetime>07-01-2010 12:22 AM</Datetime>
+		<Content>I need to know for a international trip I'll be taking. I plan to get a USB modem with unlimited data in the country I'm going to (UK) so I can plug it into my CTR-500 and then use that Wi-Fi signal to get UMA on my T-Mo BB to call back home (US) for free. Does anyone know if it's possible to use UMA off of a CTR-500 router? I would try it myself but I do not have a USB modem of my own, nor any other phone to try.</Content>
+	</Post>
+</Thread>

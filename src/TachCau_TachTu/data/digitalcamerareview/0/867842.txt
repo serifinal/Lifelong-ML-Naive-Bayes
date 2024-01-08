@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD 850 IS focus problem</Title>
+		<Username>skifrog</Username>
+		<Datetime>02-03-2011, 03:39 AM</Datetime>
+		<Content>my 850 is having problems focussing at mid to long range shots, when on the full auto mode - - fotos are all fuzzy and not at all useable - - any idea what the problem might be - or how to go about getting it diagnosed ? ? ?</Content>
+	</Post>
+</Thread>

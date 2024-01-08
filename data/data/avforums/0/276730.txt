@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PC EDID Issues Samsung PS51D550</Title>
+		<Username>junpit</Username>
+		<Datetime>22-12-2011, 10:12 PM</Datetime>
+		<Content>Hi I've got an issue I can't seem to get around. On connecting my XBMC shuttle to my TV, I only get 2 channel sound. This looks like its down to the EDID the TV is sending to the PC and its refusing to let me send anything but 2.0 to the TV. This would normally be OK but I want to capture the 5.1 output from the TV (optical out) with my amp. Does anyone have an inf file I could use to trick the PC into sending 5.1 or 7.1. I have tried playing content on the samsung TV using the PC (by running mezzmo) but its nowhere near as good as my shuttle. For some reason the mkvs seems a little choppy over the network which is gigabit lan. Any help with any of these issues would be appreciated. Thanks Darren</Content>
+	</Post>
+</Thread>

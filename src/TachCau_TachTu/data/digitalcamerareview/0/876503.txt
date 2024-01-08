@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Basic Questions About Settings.</Title>
+		<Username>Suresh Rajadurai</Username>
+		<Datetime>03-06-2009, 01:16 AM</Datetime>
+		<Content>Hi Folks, I am new to photography and I bought a digital camera(SX 110 IS) few weeks ago and I started shooting things without changing settings a lot. And also I used to browse a particular website where a lot of pictures have been posted and they have mentioned certain settings that they made before shooting such picture/s. But I dont understand much about those settings much. Could anyone PLEASE explain me the following stuff which they have mentioned under 4 photgraphs: 1st picture: http://www.pbase.com/craigsyd/image/109695254 1/320s f/4.0 at 25.2mm iso80 2nd Picture: http://www.pbase.com/craigsyd/image/109695259 1/1000s f/4.0 at 6.7mm iso80 3rd Picture: http://www.pbase.com/craigsyd/image/109695271 1/640s f/4.0 at 9.1mm iso80 4th Picture: http://www.pbase.com/craigsyd/image/109695275 ISO 200 My question is , if they had changed the ISO what would happen to the picture, how would the picture look like. Same with "f" value. And the first attribute metioned here (1/320 & 1/1000). I doubt whether I am asking a stupid question. much appreciated and thanks a lot. Suresh.</Content>
+	</Post>
+</Thread>

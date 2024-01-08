@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Iphone4 - 16GB SEALED</Title>
+		<Username>PuxxyCat</Username>
+		<Datetime>07-30-2010 09:25 PM</Datetime>
+		<Content>Price $850.00 Can be use on Rogers or Fido~~!! No Shipping and No Trade!! Send me your contact info for immediate call back.</Content>
+	</Post>
+</Thread>

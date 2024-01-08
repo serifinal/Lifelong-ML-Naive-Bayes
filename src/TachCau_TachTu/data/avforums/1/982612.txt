@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Just about to buy lg 50pk590</Title>
+		<Username>cardinalbaz</Username>
+		<Datetime>15-07-2011, 9:00 AM</Datetime>
+		<Content>Done a bit of research and this TV seems to have all (and a few more inches than I was expecting) for my budget of £600. Due to it being larger than my samsung le46c750 it'll probably become my main TV which will be used for movies and ps3 gaming. Are there any owners of this TV out there or people with experiences I should know about before handing over my cash to Richer sounds? Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>how to turn off the flash in half manual mode</Title>
+		<Username>roy shooshy</Username>
+		<Datetime>02-11-2009, 05:27 PM</Datetime>
+		<Content>hello everybody, I have a D50 canon camera. I dont know how to turn off the flash in half auto mode like portrait for example. when Im in manual mode I can just not use the flash evan if its a low light environment. but in portrait mode the flash is always popping. thanks for the answer roy</Content>
+	</Post>
+</Thread>

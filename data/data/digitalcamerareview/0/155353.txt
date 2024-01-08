@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A720IS - green tinge</Title>
+		<Username>YossiD</Username>
+		<Datetime>11-03-2010, 01:44 PM</Datetime>
+		<Content>I am getting a green tinge in my pictures under the following conditions: Aperture: f8 - f5.6 Exposure: -1/3 EV White balance: Fluorescent This happens in both manual (M) mode when the combination of shutter speed and aperture results in -1/3 EV exposure, and in aperture priority (Av) mode when I set the camera to -1/3 EV exposure compensation, regardless of shudder speed. I don't know if this happens for any other white balance setting as I haven't tried that yet. Has anyone else noticed this behavior? Is it normal for this camera? At apertures of f5.0 and wider the green tinge goes away, and it only happens at -1/3 EV. I'm curious to hear if anyone else has noticed this effect. Maybe some of you can try and see if you get the same result. TIA</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>[Help] Panasonic G30 Self-Check Fail - SUM 9029</Title>
+		<Username>ridetherhythm</Username>
+		<Datetime>18-02-2012, 1:29 PM</Datetime>
+		<Content>Has anyone tried the Panasonic self-check on their plasma? I tried the Panasonic self-check on my new G30 (by holding down V- on TV while pressing the menu button on remote). Almost immediately, the screen showed that the self check had failed with "9029" in red. The 9029 appeared on the right hand side of the screen next to "SUM" (see attachment). I then had to then press the on/off switch on the TV, to exit the self-check screen. The self-check also reset my G30 settings to factory default, so had to re-input personal data into TV. If anyone knows what "SUM" or "9029" refers to in the self-check, i'd appreciate their help with this. The TV is new and am happy with it, except that the self-check should be coming back with a pass surely? Should i contact the shop i bought the TV from, or contact Panasonic?</Content>
+	</Post>
+</Thread>

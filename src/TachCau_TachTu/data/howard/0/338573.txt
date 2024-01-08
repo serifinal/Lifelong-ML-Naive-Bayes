@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is anyoine going to sell their iPhone4?</Title>
+		<Username>dylanursula</Username>
+		<Datetime>06-21-2010 01:09 PM</Datetime>
+		<Content>Hey all I have noted that a few folks have said they ordered iPhone 4's for extra lines... is anyone selling extras they ordered and if so, do you just take out the SIM and sell it? Thanks Dylan</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS59D6900, increasing audio output to amp?</Title>
+		<Username>Mandingo</Username>
+		<Datetime>23-11-2011, 6:40 PM</Datetime>
+		<Content>Basically just setting up my TV to an Onkyo 609 and find the volume is lacking compared for instance to when listening to music via my ipod through the same amp. On the TV the is in the sound menu "MPEG Audio Output" which is set to 0, i can change this to a minus figure which obviously decreases the sound even more, is there anyway of increasing this to increase the sound through the amp? It should be much louder</Content>
+	</Post>
+</Thread>

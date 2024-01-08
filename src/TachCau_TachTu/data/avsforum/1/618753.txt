@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic 42" 720p Plasma or Samsung 40" 1080p LCD?</Title>
+		<Username>silvergga</Username>
+		<Datetime>10-29-08, 03:26 PM</Datetime>
+		<Content>I can get the 42" 720p Panasonic TH-C42HD18 plasma (Costco's version of the 42px80u) for $640 out-the-door, or the 40" 1080p Samsung LCD (Sears specific model ln40a500 which is similar to the a530) for $860 out-the-door. Which one will perform better for my situation? My viewing distance is about 8 feet, and I will watch blu-ray with a PS3, a little bit of PS3 gaming, and some channels I frequently watch are still SD only. I tend to think the Panasonic fits my needs better because of price and my viewing distance, am I right? I am willing to pay the extra $220 if a Samsung 1080p will make a huge difference over the Pansonic in performance though... thanks!</Content>
+	</Post>
+</Thread>

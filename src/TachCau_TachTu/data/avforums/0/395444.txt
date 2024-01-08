@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 50PS3000 usb hack? help!!!</Title>
+		<Username>tkay</Username>
+		<Datetime>11-01-2012, 1:24 AM</Datetime>
+		<Content>Hi everyone. I have... LG TV FIRMWARE 50PS3000 v3.37.0 I want to enable my LG tv to play movies Via usb. I searched online through the forums google / etc. I believe no one got access to the firmware file to downgrade their tv. Did anyone manage to do it yet??? please help. From my knowledge..... 1} Downgrade your tv with a old firmware (so only than you can access the SERVICE MENU) 2} After downgrade, follow the links to activate avi playback from other forums online, there is few method a} hold ok on both tv panel and remote control together for 10 sec b} or / hold menu button on both tv panel and remote together for 10 sec 3} Then you be untill then . I hope someone has solve this issue.... Give me the old firmware atleast lol. Thanks in advance</Content>
+	</Post>
+</Thread>

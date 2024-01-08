@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official Pioneer 9G non-Elite KURO Owner's Discussion Thread</Title>
+		<Username>D-Nice</Username>
+		<Datetime>05-29-08, 02:17 PM</Datetime>
+		<Content>Settings: http://www.avsforum.com/avs-vb/showthread.php?t=1053444</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant or Google Nexus 1?</Title>
+		<Username>danny.enrique</Username>
+		<Datetime>06-27-2010 10:55 PM</Datetime>
+		<Content>Which handset would you choose if you were to get a new phone and a new line?</Content>
+	</Post>
+</Thread>

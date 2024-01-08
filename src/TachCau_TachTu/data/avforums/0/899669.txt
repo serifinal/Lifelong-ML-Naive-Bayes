@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Viera TH-42PZ800b Problems</Title>
+		<Username>kyza1manc</Username>
+		<Datetime>06-06-2011, 5:59 PM</Datetime>
+		<Content>I really hope somebody has some insight on this, basically i had my laptop connected through HD cable to my Viera, as i pressed the volume up button on the remote the TV switched to a SELF CHECK screen all black with white text, it says everything is ok. I then turned the tv of and unplugged for 5 minutes plugged this back in and it came up to auto tune sort of screen and then asked me to enter a new pin to help police and security??? no matter what button i press on the remote it goes back to this "SELF CHECK" screen with the black backround and white text. Please someone if you know anything i would be so grateful. THANKS IN ADVANCE Karl.</Content>
+	</Post>
+</Thread>

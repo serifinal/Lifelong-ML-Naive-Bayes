@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Phones that work on Boost Mobile?</Title>
+		<Username>Silver Spoons</Username>
+		<Datetime>01-05-2010 03:04 PM</Datetime>
+		<Content>Hi, I'm new here. I would like a new phone. Is there a list where I can find all the phones that can work on Boost Mobile (flashed). I have been thinking of the Blackberry Curve 8350i. Are there any new ones coming out or there any one's on Sprint I can use? Thanks for the help. I would like to have one of those HTC phones with Android if possible.</Content>
+	</Post>
+</Thread>

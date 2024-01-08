@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Other jailbreak options besides blackra1n for Windows?</Title>
+		<Username>jmy2469</Username>
+		<Datetime>10-26-2009 10:01 AM</Datetime>
+		<Content>I can't get blackra1n to install on my phone at all. Tried like a million times and phone just hangs in recovery mode. Is there any other jailbreak options for Windows right now for people who are on 3.1.2?</Content>
+	</Post>
+</Thread>

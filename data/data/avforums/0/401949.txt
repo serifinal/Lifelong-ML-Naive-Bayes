@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LX5090 Kurolink</Title>
+		<Username>clodola</Username>
+		<Datetime>27-11-2011, 3:10 PM</Datetime>
+		<Content>Hey Where is the Kuro link connection on the LX5090 , searched but found nothing and cannot see anything on the reat of the TV (maybe I am blind) thanks</Content>
+	</Post>
+</Thread>

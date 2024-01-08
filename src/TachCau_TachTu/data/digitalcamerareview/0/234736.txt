@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>IXUS 950 IS - In built Red Eye Correction Issue</Title>
+		<Username>Viper</Username>
+		<Datetime>11-11-2007, 02:47 AM</Datetime>
+		<Content>Hi Folks, I've got the IXUS 950 IS (aka SD850 IS) & whenever I use the in built red eye correction function I'm unable to copy the photos from the camera. Has anyone also encountered this or better yet have a solution for this? Alternatively, as a work around can anyone suggest some software for reducing/removing red eye from photos? PS. I'm using a genuine 4gb SanDisk SDHC card. Thanks.</Content>
+	</Post>
+</Thread>

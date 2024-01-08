@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Just sold my TH-42PX80 and bought a TX-P50C3B</Title>
+		<Username>Andysav</Username>
+		<Datetime>05-02-2012, 8:36 PM</Datetime>
+		<Content>Hi I have just bought a TX-P50C3B to replace my 4yo TH-42PX80. I ordered the TV for £399 which seemed like a bargain, it will be connected to a NAS running WHS2011 via HDMI. I have not found a lot of info on the new TV other than a few reviews which are not really that encouraging. The old TV was great but when I was offered £350 it seemed like a no brainer to change it for a new bigger set for only £49. I sit about 10 feet from the tv in a fairly dark room & it will be connected to the NAS, SkyHD, XBOX360 & Sony s380BR (both barely used) via an HDMI switch. I did like the look of the TX-P50G30B at £549 in Currys but it is now out of stock & I would have had difficulty convincing the wife on the extra £150. Has anyone any idea how the picture quality will compare with my old set, have I made a mistake? Thanks Andrew</Content>
+	</Post>
+</Thread>

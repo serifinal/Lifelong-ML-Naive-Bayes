@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Please help Panasonic th-50phd6 not turning on, no blinking lights</Title>
+		<Username>jcarranco</Username>
+		<Datetime>05-12-08, 07:49 AM</Datetime>
+		<Content>Ok, i have a Panasonic th-50phd6 and it is not turning on. I push the power button and the LED turns green, and i hear about 4 clicks and the fan starts to spin up, but shuts off, and the picture never comes up, the LED stays green. I don't getting any blinking lights like other problems i've read about here in the forum. Somebody please help.</Content>
+	</Post>
+</Thread>

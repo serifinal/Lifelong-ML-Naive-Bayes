@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Final cost of plasma project.</Title>
+		<Username>Jazz Monkey Jr</Username>
+		<Datetime>23-06-2005, 9:27 AM</Datetime>
+		<Content>I though I would let you all know my the final cost of my plasma project, as I have got all my cables now. Plasma - £2233.95 (just got the credit card bill ) from RGB Direct M8 Rawl bolts - £15 12mm Masonry bit - £8 Mains cable (3m) - £35 from Mark Grant Component cables (3m) - Belden - £60 and 1/2m (£40) from Mark Grant HDMI cable - Molex - £25 from Mark Grant VGA cable (5m) - £80 from Mark Grant SCART (3m) - THOR - £23.50 from TV Cables 2 pairs phono leads - £23 from TV Cables Xbox hi-def kit - £22 from Lik Sang Component switcher - £60 from JS tech HK DVD 25 - £105 - from classifieds (old one hasn't got component) New Hi-fi stand - £110 (secondhand) Sold ES-10 - £150 Total cost - £2703 I think that's about it...for now. On top of that, I am redecorating (about £1000) Plus there's the house I bought as the old one wouldn't fit a plasma in I know it's a dit daft but I thought it would be interesting to add it up, I haven't gone silly on leads and stuff, I have put in what I would consider decent quality without going over the top. I will also get it ISF'd at some point - £275</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Contrast in the blacks - Plasma VT30</Title>
+		<Username>MultiRoom</Username>
+		<Datetime>20-11-2011, 7:37 PM</Datetime>
+		<Content>In general, what settings should I use to increase the contrast in the black range on a VT30? I see, only on some programmes, black jackets look like one solid lump of black, some people's black hair looks like one block of black. I'm using THX, with the contrast cranked to about 45. All other settings standard with image res enhancer switched off. I don't want to increase the brightness because most programmes look good. Any advice on how to improve the black contrast? Love the level of black, just know there must be some way of unlocking the detail. TV has done about 200 hours.</Content>
+	</Post>
+</Thread>

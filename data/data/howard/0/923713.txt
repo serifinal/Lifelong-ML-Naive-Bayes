@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Assistance required inregards to wireless mobile internet</Title>
+		<Username>umhuman09</Username>
+		<Datetime>06-01-2010 01:47 PM</Datetime>
+		<Content>Hello, i've been using datajack in January when they were $40 monthly with advertised unlimited download. I only used it for 2 months, just recently i'm in need of wireless mobile internet again. I just found out that datajack has JACKed up there prices to $50 monthly and 5gb limit. Basically i need internet on the go for my laptop, i know about the i425 boostmobile motorola tethering which i believe get's you dial up speed nether the less its unlimited. The reason i'm posting here though is i would like to know is there something out there like say tethering 3g speed or something better then dial up but cost efficient, my sole purpose is cost efficiency and i was wondering if there are better alternatives as opposed to paying $50 dollars for datajack 5gb limit. I heard millenicom is unlimited for $70 but the problem is i would have to shell out 100's just for new modem. So basically my main concerns is unlimited downloads with decent speeds say 1 mbps or something but off course with lowest cost. So i was thinking tethering or something, anyways if anybody know's what i'm getting at would appreciate the input. I live in NYC and thats where i will be using the service</Content>
+	</Post>
+</Thread>

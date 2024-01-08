@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>How would you frame this wall?</Title>
+		<Username>easterner</Username>
+		<Datetime>10-21-08, 02:35 PM</Datetime>
+		<Content>I have been lurking here for a couple of years and I am finally ready to start on my dedicated theater room in my unfinished basement. My raw space measures about 23' by 18' 2" with 9' (concrete) floor to joist height. One of the walls is a concrete half-wall (about 26" high) with conventional 2x4 framing atop that half-wall. I would appreciate some feedback from the group on how you would frame this wall (it will be one of the side walls of the theater). The framing is set back about 4" from the inside edge of the half-wall. I will be applying for a building permit so framing must be to code. I am not that concerned with losing a little room width (up to a foot) as I plan two rows of four seats and I think 16' - 17' will accomodate that arrangement. Any help will be greatly appreciated. Ed</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 50PZ250T or Panasonic TX-P42ST30B</Title>
+		<Username>Deicist</Username>
+		<Datetime>03-01-2012, 11:04 PM</Datetime>
+		<Content>So, I'm looking to splash some cash on my first HD Telly. I've been swayed towards plasma's due to their better gaming performance generally better picture quality. I also might as well invest a little more and get a 3D ready set, even if I don't buy any glasses just yet. The two I'm looking at are: The 50" LG: LG 50PZ250T 50-inch Widescreen Full HD 1080p 3D 600Hz: Amazon.co.uk: Electronics and the 42" Panasonic: Buy Panasonic Viera TX-P42ST30B Plasma HD 1080p 3D TV, 42 Inch with Built-in Freeview HD online at JohnLewis.com The panasonic is smaller, but comes with a 5 year guarantee. I sit about 10ft back from where the screen is going, so not sure if 50" will be 'too' big or if the 42" is going to be big enough. Anyone got either of these sets? Any comments about their relative merits?</Content>
+	</Post>
+</Thread>

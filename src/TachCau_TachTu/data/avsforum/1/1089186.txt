@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>Drexler</Username>
+		<Datetime>09-16-08, 04:03 PM</Datetime>
+		<Content>I'm considering a HP since I want to get a big screen, i.e. 2.7m wide scope screen, using zoom to fill the image, and still maintain high brightness. I will have a dedicated theather so it should be possible to place the projector and viewers to take advantage of the gain. However, I'm worried about the quality of the image. As far as I have learned, there are no sparklies and no hotspotting. How about color reproduction and resolution? Is it possible to calibrate to get perfect colors on the HP or is there some kind of push or unusual behaviour of the material? Can a HP be comparable to a Studiotek in these two areas? In other words, is there any incitament to get the Studiotek instead? Are there any other unusual quirks about the image from the HP? If there are major drawbacks, I might have to consider going smaller and swapping to a Studiotek or similar screen, but I rather stay big...</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How do we transfer current iPhone back ups to new iPhone 4?</Title>
+		<Username>Khalidz</Username>
+		<Datetime>06-07-2010 08:16 PM</Datetime>
+		<Content>I am knew to all this as I still have not connected my iPhone to my new iMac from my PC and I am not sure how I put the old back up from my PC to the new iMac? Any ideas, is it just a simple copy backup file from PC to the itunes folder on my iMac? Any for the new iPhone 4, Anyone know how we can get back up from my 3G on to the iPhone 4? Contacts, Apps, etc etc. Thanks in advance. K.</Content>
+	</Post>
+</Thread>

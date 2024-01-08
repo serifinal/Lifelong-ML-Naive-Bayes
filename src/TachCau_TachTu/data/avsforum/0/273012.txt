@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>DerekinMerrick</Username>
+		<Datetime>12-10-08, 12:43 PM</Datetime>
+		<Content>Hello, I dont really understand the diffrence between these two players but the price? Can someone explain it to me please.</Content>
+	</Post>
+</Thread>

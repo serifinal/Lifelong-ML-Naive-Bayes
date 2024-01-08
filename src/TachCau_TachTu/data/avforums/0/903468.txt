@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Advice needed & much obliged</Title>
+		<Username>djtv</Username>
+		<Datetime>12-07-2011, 10:53 PM</Datetime>
+		<Content>Hi I have an LG50PS3000, which was bought last year in jan10. In may a line appeared on the panel like a screen burn. I took it to a tv repair guy who took it away. He said he's not seen anything like it and was consulting with LG. after 2 wks he brought it back and said the panel is bust, however, as it's fairly new I should contact LG. I did and they in-turn contacted the tv repair guy and it now turns out that he never opened the tv, which must be done and a proper engineers report completed. How much do these usually cost and should I do this considering what the tv repair guy told me he allegedly spoke to LG to dissect what was wrong with it, as he couldn't be sure for sure it was the panel? Thx</Content>
+	</Post>
+</Thread>

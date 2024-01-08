@@ -1,0 +1,4 @@
+multitasking the android way tutorial . .
+here is a great tutorial on multitasking on android from the man !
+it might shed some light on why not to use task-killers !
+http://android-developers.blogspot.c...evelopers+blog -rrb-

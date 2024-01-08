@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Am Looking for a bargain</Title>
+		<Username>leedswillprevai</Username>
+		<Datetime>27-05-2011, 5:13 PM</Datetime>
+		<Content>Hi guys am looking for a bargain tv at the moment (Full HD). Budget is up to 600.00, ideally a 50 inch tv, but a 46 inch tv also. Am I expecting too much? Oh yes and also it will mainly be used for games and films, so it must have a high response time.</Content>
+	</Post>
+</Thread>

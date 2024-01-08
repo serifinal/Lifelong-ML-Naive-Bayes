@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>pz85 vs pio 5080</Title>
+		<Username>natemu06</Username>
+		<Datetime>03-10-08, 11:11 AM</Datetime>
+		<Content>I have the pio 5080 but a friend of mine is looking at a new panny or maybe a pioneer. How does the 5080 compare to the pz85u and how does the pz85 compare the the pz750's. Has anyone actually seen them in person side by side</Content>
+	</Post>
+</Thread>

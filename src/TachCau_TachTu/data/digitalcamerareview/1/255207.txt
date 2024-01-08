@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>S90 skin/thin case</Title>
+		<Username>Vogelbung</Username>
+		<Datetime>05-07-2010, 11:29 AM</Datetime>
+		<Content>Anyone have recommendations for a very close-fitting, super-thin slipcase for the S90? Something that provides purely nick resistance while living in a bag pocket - i.e. doesn't have to actually offer any padded protection. Ideally basically an invisibleshield-in-a-bag.</Content>
+	</Post>
+</Thread>

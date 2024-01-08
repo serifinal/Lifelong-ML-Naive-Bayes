@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Rebel XS</Title>
+		<Username>hopin4somefaith</Username>
+		<Datetime>01-16-2011, 02:29 AM</Datetime>
+		<Content>Hello, I have a Canon Rebel XS and I'm currently looking into getting a tripod and eventually looking into buying a lens. I wanted someone's opinion on what would be the best. Lens- I do a lot of outdoor and a little indoor. I read the Lens Buyers Guide and wasn't sure which one exactly I should lean towards more. Tripod- I read about a brand called Velbon. I seen on another forum that they had highly recommended it. I would like other's opinion on what they think that would be best.</Content>
+	</Post>
+</Thread>

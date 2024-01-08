@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title></Title>
+		<Username>Eakius</Username>
+		<Datetime>11-09-08, 09:38 AM</Datetime>
+		<Content>I have a nice 7.1 setup in my apt, but some of the speakers are a bit too big. I have a set of logitech's from the z5500 package that I loved when I had a desktop. I now have a laptop for my portable internets, so I was thinking, what's the potential issues or downsides to using some of those logitech satelites as my rear or side speakers? Right now I have some classic 3 way Yamaha's in the back. My receiver is set to treat them as small speakers anyway (no bass). I guess aside from possible performance loss, is there any technical problems with just switching the speakers straight up? Same wires, no further configuration; I was always curious about the technical differences between home theater speakers within the context of using pc speakers for home theater receivers. Thanks in advance!</Content>
+	</Post>
+</Thread>

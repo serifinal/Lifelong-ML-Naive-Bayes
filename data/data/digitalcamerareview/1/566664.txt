@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Digital Rebel XSi 12.2 MP Digital SLR Camera with EF-S 18-55mm f/3.5-5.6 IS Lens</Title>
+		<Username>Abel1337</Username>
+		<Datetime>11-25-2008, 10:36 AM</Datetime>
+		<Content>I was thinking about getting this camera.. I have heard some pretty good reviews from others and on magazines and such but I was wondering what you guys thought. This camera is really attractive to me and I hope it is the right one for me. Have any of you guys purchased this camera? Thanks</Content>
+	</Post>
+</Thread>

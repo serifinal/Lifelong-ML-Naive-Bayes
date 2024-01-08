@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic 50" plasma transport and storage</Title>
+		<Username>pannywarrior06</Username>
+		<Datetime>19-06-2011, 7:30 PM</Datetime>
+		<Content>I'm getting my new 3d LED tv tomorrow and have sold my 50" panasonic plasma to a colleague. I have offered to transport the tv as shes paid a reasonable price but I havent transported one this big before. Am I best to lay it screen down or screen up on a thick duvet and same question for storage till I transport it. Other option is try and fit it in new tv box for transport?? Any ideas??</Content>
+	</Post>
+</Thread>

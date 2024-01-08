@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Recording Video With Good Audio</Title>
+		<Username>Elite49</Username>
+		<Datetime>10-04-2009 07:20 PM</Datetime>
+		<Content>Does Anyone Have Any Good Tips On How To Hold The EnV Touch To Record Video Without Messing Up The Audio? I Recorded A Couple Videos Yesterday And Some Where With Shell Open And Closed. I Noticed All The Videos Sounded Different And The Audio Would Go From Good To Bad Every Couple Every so often. I Don't Know If I Was Covering The Speaker But That Might Have Been It.</Content>
+	</Post>
+</Thread>

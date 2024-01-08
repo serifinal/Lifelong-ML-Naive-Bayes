@@ -1,0 +1,6 @@
+panasonic flicker .
+do all panasonics flicker ?
+even the vt models at 96hz ?
+i guess the reason they flicker is because they run pal50 @ 50hz and 24p @ 48hz ?
+except for the vt models which can run 24p @ 96hz ... am i correct about this or do all panasonics have the flicker ?
+also am i correct in thinking that only the vt models can do 24p/96hz and pal50/100hz ?

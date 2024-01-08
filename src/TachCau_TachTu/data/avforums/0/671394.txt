@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS-42P2S - Speakers making static noise?</Title>
+		<Username>KerrieG</Username>
+		<Datetime>19-05-2011, 6:07 PM</Datetime>
+		<Content>I have just set up this tv and at first no sound was coming out of the tv. Now it is making static noises. Sometimes you can just work out the noise coming from the telly otherwise its an awful sound!!! I don't think I have set it up properly as the telly has detachable speakers. Could I have wired it up wrong. Any help, advice or guidance gratefully received!!! Kerrie.</Content>
+	</Post>
+</Thread>

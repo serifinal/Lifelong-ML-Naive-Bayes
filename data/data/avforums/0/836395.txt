@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Styling on the '30' Panasonic range</Title>
+		<Username>k21000</Username>
+		<Datetime>05-08-2011, 6:40 PM</Datetime>
+		<Content>Although they do make great plamsa TV's, I think the styling on most of their sets is still poor compared to the competition, even on the current range. The VT30 is the nicest though, but too expensive! I am getting the GT50 on Monday, but I don't like the white fading effect on the front where the Panasonic logo is, or the thin silver border around the panel. I will compromise on looks though, as I have always preferred the Panasonic plasmas overall quality. I do think that the styling of the GT30 is a massive improvement from any previous models though and WAY better than the ugly ST30 with its wide frame and cheap looking bevel effect. It looks like a throwback from the 90's.</Content>
+	</Post>
+</Thread>

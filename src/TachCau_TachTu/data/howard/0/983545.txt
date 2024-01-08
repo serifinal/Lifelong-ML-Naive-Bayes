@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Text Messaging slipping back to old ways. Sad Boost Users Support Group needed?</Title>
+		<Username>ahab</Username>
+		<Datetime>09-15-2009 08:14 PM</Datetime>
+		<Content>Over the past 3 days I've experienced delays, messages coming in in groups, some messages not coming at all (even when I text myself). What gives.. I had 5 months of flawless service! I'm paraniod that this a repeat of what was going on earlier in the year.</Content>
+	</Post>
+</Thread>

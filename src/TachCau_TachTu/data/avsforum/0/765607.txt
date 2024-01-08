@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>How should I set this up?</Title>
+		<Username>disb</Username>
+		<Datetime>03-18-08, 12:12 PM</Datetime>
+		<Content>I need advice.. I have a 20x14 foot room, 10 foot ceiling that has a wedding cake design that slopes up to 13 feet. TXSr605, 3 front speakers, 1 sub, and 4 surround Anyways.. I have a couch at the back of the room.. how should i set my back surround speakers (the 2 speakers that are behind you)? Should I put them on the back edge of the ceiling and have them point straight down? Advice would be great! Also, is it ok if I install non-rated inwall speaker cables in an attic full of insulation? I have MonsterXP 50 feet speaker cables for my surround. Thanks!</Content>
+	</Post>
+</Thread>

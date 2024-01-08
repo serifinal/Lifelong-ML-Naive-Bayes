@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>S410 replacement</Title>
+		<Username>fanism</Username>
+		<Datetime>11-06-2007, 02:14 PM</Datetime>
+		<Content>Hi, I have owned a S410 ELPH for N* years. I have up to 4G compact flash cards, 3 batteries, and a pouch for it. I could feel it is getting to its end of life. (I hate to replace it because it could still take great pictures, but buttons are not really working!!) I do not want to invest any more on the accessories or gadgets, but I think I need a new camera. Do you know which other newer model (Canon preferred) takes CF card? Thanks a lot. - vanessa</Content>
+	</Post>
+</Thread>

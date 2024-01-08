@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Digital Rebel XT / 350D</Title>
+		<Username>Eliwood</Username>
+		<Datetime>03-02-2005, 03:31 PM</Datetime>
+		<Content>Has anybody had a chance to try out one of these yet? It's not officially in stores until the 20th, but several people ran into Canon reps by luck and got to see one of these hot cameras in action.</Content>
+	</Post>
+</Thread>

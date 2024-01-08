@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon - SD series strongest flash and/or best coverage.</Title>
+		<Username>andresx</Username>
+		<Datetime>06-21-2007, 09:58 PM</Datetime>
+		<Content>Hi, I want to buy one of the SD series cameras. I owned the SD700 and like the camera except the flash coverage at wide angle - with close objects and flash I'd get a dark corner that was bothersome. If interested see link below. Anyway, of the remaining SD series cameras which one has the strongest flash power and/or best (even) coverage at wide angle and telephoto? I want to avoid the issue with dark corners. Issue with SD700 link: http://www.dcresource.com/forums/sho...t=SD700+vig%2A Regarding flash coverage I found links below. It seems that overall flash coverage ("even-ness"): - in 700 and 800 are the worst (wide angle) - in 750 and 900 have the best balance between coverage and wide angle and telephoto (a little dim though). Note:I thought the 750 and 1000 where the same cameras. Why the clear diff in flash coverage? SD900: http://www.imaging-resource.com/PRODS/SD900/SD900A5.HTM SD800: http://www.imaging-resource.com/PROD.../SD800ISA5.HTM SD700: http://www.imaging-resource.com/PRODS/SD700/SD700A5.HTM SD750: http://www.imaging-resource.com/PRODS/SD750/SD750A5.HTM SD1000: http://www.imaging-resource.com/PROD...0/SD1000A5.HTM Anyway, after all this. If I were to try to avoid the dark corners I had seen while I owned the 700, which camera would you pick among the other SD series? Thx!</Content>
+	</Post>
+</Thread>

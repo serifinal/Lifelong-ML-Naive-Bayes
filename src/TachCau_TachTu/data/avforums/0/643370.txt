@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 60PZ950T - anyone got one?</Title>
+		<Username>leamspaceman</Username>
+		<Datetime>17-12-2011, 4:19 PM</Datetime>
+		<Content>Just wondering if there are any owners of this TV around?: LG 60PZ950T Televisions - 60" Full HD 3D Plasma Smart TV with freeview HD and 600Hz - LG Electronics UK If so...what are your experiences? Looks like a good spec...and THX certification.</Content>
+	</Post>
+</Thread>

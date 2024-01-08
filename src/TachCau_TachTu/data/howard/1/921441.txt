@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Wanted !! Samsung Galaxy i9000</Title>
+		<Username>lamplighter</Username>
+		<Datetime>08-15-2010 02:59 AM</Datetime>
+		<Content>Hello all- I am looking for a Samsung Galaxy i9000 unlocked. It can be new or used but lightly used and in near new condition. The seller must be willing to ship internationally as I am in New Zealand, the seller must also accept payment via Paypal. Thank you for any help ! Cheers, LL-</Content>
+	</Post>
+</Thread>

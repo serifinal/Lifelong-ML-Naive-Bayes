@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon mirrorless camera - what do you want?</Title>
+		<Username>Allison Johnson</Username>
+		<Datetime>09-26-2011, 03:01 PM</Datetime>
+		<Content>Hey all, Now that we know all about Nikon's new compact system camera I'm wondering what you'd all like to see - in theory - from a Canon mirrorless system. Sensor size? Accessories? Rainbows and unicorns? Speculation is half of the fun, right? -Allison</Content>
+	</Post>
+</Thread>

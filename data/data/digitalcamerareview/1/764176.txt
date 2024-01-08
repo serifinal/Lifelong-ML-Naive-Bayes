@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon 1000/450 stock lens(es)</Title>
+		<Username>planetf1</Username>
+		<Datetime>02-22-2009, 01:08 PM</Datetime>
+		<Content>Hi, I'm an SLR newbie and am a debating which camera to get. So far I've probably narrowed it down to the Olympus E520 or Canon 1000d/450d. I'm unlikely to purchase many lenses beyond the range that usually come in the "twin packs" with the possible exception of an ultrawide angle, or a prime 50mm for low light. Olympus's offering is very attractive as the kit lenses appear to be consistently praised. Not as good as pro lenses, but better than other manufacturers in terms of vignetting, resolution etc. The story for Canon seems mixed. Some get good results, but generally the quality doesn't seem as good (but better than Sony which seems to get totally slated for the kit lenses on the Axxx range?). HOWEVER the "ecosystem" around Canon is much greater making for a far broader range of affordable after-market options. So my question is whether it's worth just going for a body, or body+1 lens and filling out the telephoto option with a standalone purchase. Thing is there's a bewildering array of options. I'd really be looking for something in the 70-200 range, and feel I would benefit from IS. I can see EF-S 55-250mm f4-5.6 IS - ~ 200 UKP Canon EF-S 18-55mm f3.5-5.6 IS ~120 UKP but I'm really looking to spend around the 450-600 mark all-in. With the 1000D around 300 this barely squeezes in -- but are these lenses any better than the kit lenses (are they the same). If so is there a letter lens option? Am I overly concerned about the stock lens?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Motorola DROID A855 Release Thread - Keep all phone discussion here</Title>
+		<Username>FAUguy</Username>
+		<Datetime>11-05-2009 10:43 PM</Datetime>
+		<Content>Use this thread to talk about the Motorola DROID A855. Keep all major discussion about the phone here. Verizon link for purchase: http://www.verizonwireless.com/b2c/s...edPhoneId=5069 http://cache.vzw.com/multimedia/360_demos/mot_droid/ Motorola's Droid page: http://www.motorola.com/Consumers/US...la-DROID-US-EN User Manual (PDF) http://home.comcast.net/~fauguy/droi...ser_Manual.pdf Before asking a question, please look in the Pre-Release thread, as it may have already been answered. http://www.howardforums.com/showthre...9&page=1&pp=15 -------------------------------------------------- Other useful threads: Motorola Droid Accessories Discussion http://www.howardforums.com/showthread.php?t=1582867 Motorola Droid FAQ & Tips-and-Tricks http://www.howardforums.com/showthread.php?t=1586942 Motorola Droid Picture-of-the-Day, Camera Reviews & Issues http://www.howardforums.com/showthread.php?t=1585750 Motorola Droid Hardware and Software versions tracking thread http://www.howardforums.com/showthread.php?t=1587028</Content>
+	</Post>
+</Thread>

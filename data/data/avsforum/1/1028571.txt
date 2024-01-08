@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung LCD vs. Panasonic Plasma</Title>
+		<Username>whysohightech</Username>
+		<Datetime>12-21-08, 12:49 AM</Datetime>
+		<Content>Hey everyone I'd appreciate it if you could help avoid a midlife crisis here. I'm looking to get a big-screen flat panel for the main living room, and have done extensive research on cnet and am now coming here. Basically I want the next best thing after Pioneer I will be sitting around 15 ft away for the tv, so the screen size will be between 50"-60" 1. If I were to get a 50" plasma, it'd have to be the Panasonic 50-PZ800U I understand that this is the best 50" non-pioneer plasma 2. If I were to get a 52" LCD, it'd have to be the Samsung LN52A650 I would rather have this than the LN52A750 or 850, because honestly, there really isn't any difference in the newer series but the price difference. 3. If I were to get anything bigger, it'd have to be the Panasonic 58-PZ800U Hopefully I can just settle for a 50-52" Please help me decide between the Panny 50-PZ800U plasma or the Sammy LN52A650 LCD. They are about the same price, $2000. I won't be watching too many DVDs on them, as I have a separate home theater for that. This TV will be mostly for cable television and some gaming. Recommendations?</Content>
+	</Post>
+</Thread>

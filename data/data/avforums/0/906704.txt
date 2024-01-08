@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>"buzzing" sound from the tv</Title>
+		<Username>jscalow</Username>
+		<Datetime>28-12-2011, 1:36 PM</Datetime>
+		<Content>I have just got a -SAMSUNG PS43D490 (further info-Samsung PS43D490 | 43 inch 3D Plasma TV HD Ready Freeview | Richer Sounds ) I am hearing a "buzzing" sound from the tv. I hear this even when the sound is muted so I am confident that it is not from the speakers. My friend can barely hear it but I detect it at all times unless there is music playing or the volume is loud, if I do this, as soon as there is a gap in the noise I can hear the buzzing. Sometimes I just want the tv on with low volume in the background but this noise is making it very iritating- surely this is not right. Before I call Richer Sounds is there anything I need to do or check in the settings? Any help advice appreciated. Jim.</Content>
+	</Post>
+</Thread>

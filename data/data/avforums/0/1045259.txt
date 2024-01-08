@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P42ST30B Buzzing Noise??</Title>
+		<Username>Lankz</Username>
+		<Datetime>01-01-2012, 5:13 PM</Datetime>
+		<Content>Ok, ive already sent the Samsung PS43D450 back because of this! ive had the ST30 2 days and its driving me crazy.. does anyone know if its supposed to do this? therefore something ill have to get used too.. or is it faulty?? i bought it off Amazon for £450: http://www.amazon.co.uk/Panasonic-TX...3981026&sr=8-1 my old Samsung LE37R87BDX didnt make a decibal of noise at all!! why do companies make tvs that buzz if you can make one that doesnt!??? its a shame because the tv is great.. minus the noise it makes!! i have no idea how anyone finds this tolerant.. any comments or help would be appreciated..</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX110 (HELP?)</Title>
+		<Username>XxAn63laxX</Username>
+		<Datetime>05-03-2009, 11:04 PM</Datetime>
+		<Content>I just purchased the Canon SX110 today. My old camera (FujiFilm AE345 -- Yeah THAT old) would have a number on the LCD screen that indicated how many photos were left on my card, a feature that IMO is quite handy. I like to know if I'm going to have room left for whatever I'm taking shots of. However, I cannot figure out how to do this with the SX110, or if it's even possible. I've been looking through the manual with NO luck. Anyone able to help me out?</Content>
+	</Post>
+</Thread>

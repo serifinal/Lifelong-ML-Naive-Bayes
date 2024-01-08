@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic th42pw6 pc max resolution</Title>
+		<Username>DivXDemon</Username>
+		<Datetime>11-06-2011, 4:49 AM</Datetime>
+		<Content>Hi all, I have had a TH-42pw6 for a while now but its a great set and still looks upto date and has a super picture so i am happy with it but I have a problem that I cant figure out that hopefully someone here will be able to answer for me. I have it connected to my htpc and xbox360 by VGA cable (not at the same time as there is only one VGA input). I can use my xbox at 1920x1080 through the vga cable and it gives me a perfect picture but my HTPC will only let me set the resolution to a max of 1600x1200. Windows is detecting the monitor and correctly labling it as a TH-42P**6 and The geforce 8800gts graphics card in my HTPC is capable of much higher resolutions but when I connect it to the panasonic th42pw6 the resolution is limited to 1600x1200. I have tried using the intergrated graphics on my motherboard but that also sets the max resolution at 1600x1200. What is going on? as far as I know the screen should accept a 1920x1080 signal from my HTPC, it does from my xbox! I am using the HTPC as a media centre and have a hd tv card so I would like to use it at 1080 if I can. Thanks in advance Richard</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Adding a Line to an ACII Family Plan</Title>
+		<Username>JoshMU</Username>
+		<Datetime>07-05-2008 02:27 PM</Datetime>
+		<Content>I have been with verizon for many years, I currently have an old Americas Choice II family plan (which I don't really want to change at this time) with 3 lines of service. I am considering adding another line for my father, he is older and probably won't be calling anyone outside of the other three family members already on the family plan, so i feel that he will be using little or no minutes. I had a few questions about this scenario, and wondering what people would recommend. Just wondering what the cheapest and easiest route is to do this... 1) Can I still add a new line for 9.99 to my old ACII family plan? 2) I have an old Verizon Motorola E815 laying around that I am not using, it's in good condition but I think I will need to get a new battery for it. Do you think it's better to get one of the new free phones (or almost free $20 phones) and activate that phone on the new line? or should I just activate my old E815 for him, with a new battery? What are the pros and cons of this? (I realize that if i get a new phone for him, it will create a new 2 year contract for his line of service, this isn't a big issue.) 3) If I do decide to get him a new phone, which inexpensive or free model would be the best (one with the best reception and battery life would be ideal.) 4) It is better to go to a verzion store and do this or can i do this though my online account? Are they going to charge me an activation fee to add this new line?</Content>
+	</Post>
+</Thread>

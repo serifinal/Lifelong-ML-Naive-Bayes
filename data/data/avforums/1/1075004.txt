@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help me spend my money! Pls.</Title>
+		<Username>martyn21</Username>
+		<Datetime>17-01-2006, 10:03 AM</Datetime>
+		<Content>Guys, I have some cash that is burning a hole in my pocket. I could afford the 436XDE but I'm not happy spending all that on a TV as I want a bit of spare cash for a rainy day blah blah blah. In the main it will be used by the kids to watch Boomerang most days and the misses Eastenders. After all that I get my gaming time on the 360. I know that the PWD7 and PWD8's are great plasma's and I can get one around &#163;1200. However do I spend the extra &#163;300-&#163;400 and go for the Samsung PS42S5HX HD plasma? Or any other models you recommend? I know ideally you need to spend as much as you can to get the best possable screen but I'm not comfortable spending that extra &#163;1k on the screen. Thanks,</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD600 Flash not working</Title>
+		<Username>7carisfast</Username>
+		<Datetime>12-05-2006, 11:29 PM</Datetime>
+		<Content>Any advice guys would be appreciated. Camera is 1.2 years old. Flash error occurs when in flash mode (lighting bolt flashes). When flash is not used, camera works. I called Canon and the A$$ said I could trade it in for a refurbished unit for $195. Any ideas on fix or flash replacement?</Content>
+	</Post>
+</Thread>

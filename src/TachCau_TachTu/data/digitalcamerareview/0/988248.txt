@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SX 100 IS...date settings</Title>
+		<Username>cooler2005</Username>
+		<Datetime>07-31-2008, 01:05 AM</Datetime>
+		<Content>Hi... i accidently dropped my camera on a hard surface....nothing has happened to the body but every time i turn on the camera, it asks me to set the date and time...and this happens everytime.!! earlier before dropping it the date was already set on it...and it was working normally... can someone help...??</Content>
+	</Post>
+</Thread>

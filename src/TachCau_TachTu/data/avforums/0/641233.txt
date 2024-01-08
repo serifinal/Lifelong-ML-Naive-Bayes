@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problem with samsung ps50c7000!?!</Title>
+		<Username>GhostRider17</Username>
+		<Datetime>11-01-2012, 8:08 PM</Datetime>
+		<Content>Hey guys,ive just bought a new samsung ps50c7000. Im not sure what i think to it yet as the black levels are pretty grey compared to my 4 year old le40f86 lcd which i thought was pretty odd seeings i allways thought plasma had better blacks? Just wonder if the black levels will get better after the 200 hour running in period? This is my first plasma so not sure whether its a fault or if the blacks should look grey? Ive played around with the brightness/contrast/cell light etc but to no avail really. Id be really grateful for any input,thanks in advance.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS51D530 service menu</Title>
+		<Username>Martinoslav</Username>
+		<Datetime>30-12-2011, 2:17 PM</Datetime>
+		<Content>Hi to all! I´m sorry for asking maybe a dump question but I´m out of any ideas now. PLease, help me how to activate service menu in my Samsung PS51D530 plasma TV. Pressing INFO-MENU-MUTE-POWER on remote when TV is in standby is not working for me. Maybe I´m doing something wrong but I have no idea what that could be. Thank you very much!</Content>
+	</Post>
+</Thread>

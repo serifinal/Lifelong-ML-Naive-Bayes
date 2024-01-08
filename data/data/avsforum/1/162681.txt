@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Noob needs some help - sub building</Title>
+		<Username>redpen</Username>
+		<Datetime>12-26-08, 05:51 PM</Datetime>
+		<Content>I'm very sad that my PB12 died... Instead of buying another sub, I was told I should consider building my own.. Can someone link me to a FAQ or something along those lines? I'm hoping to learn the basics so I can decide if I want to build one myself. Also, if you can link to some vendors for amps/subs or recommend some brands I should be considering. Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>G9 or SX130</Title>
+		<Username>BoogieTrain</Username>
+		<Datetime>02-12-2011, 10:48 AM</Datetime>
+		<Content>Hi all. I was using a Powershot G9 until recently I lost it/it got stolen. I'm looking to replace it. Im currently in Japan and I found a used G9 at sofmap for ~19800Yen, but the SX130 is on sale everywhere for 16800Yen. I know the G9 is fairly dated at this point, and that maybe the SX130 would be a better replacement for it. Please post your comments/thoughts/concerns. Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nokia N97: Reviews, Issues, Tips, Tricks & Support Thread!!</Title>
+		<Username>Dr Tran</Username>
+		<Datetime>06-02-2009 02:17 AM</Datetime>
+		<Content>Creating the support thread as the N97 has finally started shipping! As the title says, please post any reviews, tips, issues here</Content>
+	</Post>
+</Thread>

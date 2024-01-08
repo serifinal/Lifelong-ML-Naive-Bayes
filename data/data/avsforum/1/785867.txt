@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>50PNA550 or PDP5080HD - Which one should I choose?</Title>
+		<Username>kes98</Username>
+		<Datetime>09-26-08, 12:46 PM</Datetime>
+		<Content>Please help me decide whether to keep my PDP5080HD or get the Samsung 50PNA550. Both units cost about the same, I currently have the 5080 and could return it and get the 50PNA550 for $50 less.</Content>
+	</Post>
+</Thread>

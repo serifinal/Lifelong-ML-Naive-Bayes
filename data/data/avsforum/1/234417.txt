@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Philips 42PFL7432D or Sharp LC42D64U?!? I'm losing sleep!!</Title>
+		<Username>cornfed1</Username>
+		<Datetime>03-09-08, 12:31 AM</Datetime>
+		<Content>This will be my first HDTV purchase from my current RCA 27" TUBE. I have narrowed down to these 2! I will be watching mainly sports, movies, and some SD tv. And of course HDTV. Which one of these would you guys purchase? Right now my local BB has the Philips on clearance for $1300 and i can get $30/month off my directv bill for 12 months. The Sharp it seems i can get delivered for about $1400 if i buy today(online). Here are my main issues. Philips - Ambilight seems like a neat thing to me i guess. The price is right + the directv deal. Seems a bit bulky to me and the stats are slightly inferior to the Sharp. Like 130 lbs. with stand i read somewhere?! That right?! Eek. Sharp - I'm in love with the looks/bezel. The depth and weight are amazing. The picture is virtually identical with the similar things i've seen displayed on them in store. I honestly don't know which one to purchase, and if i want the Philips, they have 7 left, so i need to jump on it quickly. Just not sure if i want to spend less but get more directv than i will if i get the sharp or get more tv with the sharp but less programming. BTW, this will be hooked up to an upscaling dvd player and the hd receiver from directv. Somebody help me decide! I have been reading and reading through threads on both of these! Can't make up my mind!</Content>
+	</Post>
+</Thread>

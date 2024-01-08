@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SAMSUNG PS50B850 & PS58B850 Owners Thread</Title>
+		<Username>Blu-rayx</Username>
+		<Datetime>03-05-2009, 3:58 PM</Datetime>
+		<Content>I'm hoping to buy this screen when it comes out within the next 2 to 3 weeks The 8 series are getting great personal reviews in the US Here is the US version http://www.samsung.com/us/system/con...032009_R13.pdf 58â?? widescreen plasma HDTV PN58B850 - plasma TV - televisions | SAMSUNG Blu-rayx</Content>
+	</Post>
+</Thread>

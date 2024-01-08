@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S3 IS problem with zoom lever</Title>
+		<Username>ogomogo</Username>
+		<Datetime>03-21-2008, 07:26 AM</Datetime>
+		<Content>Hi, My Canon Powershot S3 IS started to shut down whenever I use the zoom lever. (For instance when I zoom in, the camera shuts down without any alert...) This happens not only in the photo taking mode but also in the photo play mode. The same issue: as I am previewing a photo if I use the zoom lever to get closer, the camera goes off. When I start the camera on the play mode while the lens is totally off this goes on happening. I tried this with different sets of batteries, different SD Cards and the scenario is the same. Did anyone had a similar problem? Do you have any suggestions? This problem yields the camera nearly disfunctional and I was not planning to buy a new camera until next year. Thanks in advance and best regards,</Content>
+	</Post>
+</Thread>

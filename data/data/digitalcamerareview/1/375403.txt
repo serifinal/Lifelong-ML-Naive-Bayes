@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>canon a590is vs a1000 is</Title>
+		<Username>mommyjnny</Username>
+		<Datetime>11-30-2008, 03:46 PM</Datetime>
+		<Content>I am trying to decide between an A590IS and an A1000IS... which would you get? I am upgrading from an old sony cybershot. Thanks!</Content>
+	</Post>
+</Thread>

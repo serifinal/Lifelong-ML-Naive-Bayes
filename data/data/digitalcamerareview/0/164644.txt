@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Super Macro Feature?</Title>
+		<Username>BillyBrimm</Username>
+		<Datetime>01-03-2012, 11:07 PM</Datetime>
+		<Content>A friend of mine has an older Powershot S3 is and was telling it has a "Super Macro" feature. Do any of the newer point & shoots have this. Thanks, Billy</Content>
+	</Post>
+</Thread>

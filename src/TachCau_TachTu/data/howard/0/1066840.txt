@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nexus One AMOLED too bright in low light</Title>
+		<Username>cmstlist</Username>
+		<Datetime>02-15-2010 12:28 AM</Datetime>
+		<Content>I have very sensitive eyes and when I see bright light against a very dark background I get a "halo effect" that makes it hard for me to focus. This wasn't a problem so much on my iPod Touch. But I'm finding that in a dark room (e.g. lights off at night or a dark nightclub), even at the lowest brightness, it's very tiring to look at this screen. The dots around the edges of letters start to drift in and out of focus. Especially if I'm in a site or app that uses white text on black. Any ideas on what I can do? One thing I know for sure, I will stay away from any of the new "Super AMOLED" phones coming out... I'm only 27 and I want my eyes to survive well into old age</Content>
+	</Post>
+</Thread>

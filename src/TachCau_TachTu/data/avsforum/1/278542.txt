@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Benq MP512ST Test - Your opinion?</Title>
+		<Username>uglyjack</Username>
+		<Datetime>08-14-08, 07:45 AM</Datetime>
+		<Content>I was looking for tests or reviews about the Benq MP512ST. There seems to be none on this site and also on other sites and forum I didn't find too much information. So I would like to ask your opinion about this projector. The reason is that I got my hands on this device as my friend's father bought one for his office and we got the chance to test it a little during the weekend. It has a resolution of 800x600, 2200 ANSI lumen and offers short-throw technology. That's cool as we placed the projector right in front of the wall (1 meter) and had still a large enough picture. We played a DVD on it, watched pictures from the digital camera and attached the Wii to play tennis. Our impression was that it is quite useful for playing games and home entertainment. And as the price is quite affordable (if forgot the exact price but was something like 600 USD??) it might be a good choice for newbies who freshly step into the projector topic. And it looked quite nice as it is not the standard black but has a silver-white surface which gives it a modern and stylish looking. What I am not able to evaluate is weather a 1024x768 resolution would be better and if yes, what would be the difference. So if anybody could answer this question and give me some advice on the Benq MP512ST, that would be great. Thanks!</Content>
+	</Post>
+</Thread>

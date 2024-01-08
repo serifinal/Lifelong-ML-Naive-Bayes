@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to Shrink the size of the Picture?</Title>
+		<Username>zer0pulse</Username>
+		<Datetime>05-12-2007, 09:37 PM</Datetime>
+		<Content>Greetings to all...Just a basic question (I guess) I have a Canon IXUS 850IS and I'm loving it. My question is this, is the canon utilities software comes with the feature in which we can shrink the size of the picture? I tried to mess around with it, but to no avail any advice is much appreciated..Thanks in advance...</Content>
+	</Post>
+</Thread>

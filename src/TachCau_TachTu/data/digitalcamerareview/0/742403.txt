@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>50d Viewfinder ?</Title>
+		<Username>Jdel</Username>
+		<Datetime>02-27-2010, 11:49 PM</Datetime>
+		<Content>I just picked up a EOS 50d and noticed when I remove the lens and look thru the viewfinder with the front cap off it looks kinda grainy looking thru it? This is without taking pics just looking thru the viewer without a lens? Is this normal? When I do take pics with the lens on and look thru the viewfinder its grainy till it take a picture. But the pics dont seem to be turning out grainy? Any advice would help</Content>
+	</Post>
+</Thread>

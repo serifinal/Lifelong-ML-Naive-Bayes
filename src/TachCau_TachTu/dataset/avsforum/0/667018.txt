@@ -1,0 +1,13 @@
+improve quality of standard def on vista media center ? .
+i 'm sure this has been brought up before , but i could n't find it in half an hour of search , so i thought i 'd start a thread with a to the point name .
+my standard def quality in media center is awful .
+it comes out most when watching sports .
+there is awful ghosting and gross deinterlacing aftifacts -lrb- looks like heat distortion like you see on roads in the summer , plus objects do n't move together when there 's camera shake . -rrb-
+my tv is n't great for time response , but i know it 's not this bad -lrb- sometimes i 'll see 4 + frames of ghost . -rrb-
+dvd , hi def and gaming output look fine .
+my tuner card is an old hauppauge wintv pvr-150 .
+might that be the problem ?
+i 'm perfectly willing to spend the few bucks to get a modern tuner card if that 's the problem .
+other pertinent specs are vist home premium 32 , radeon hd4850 -lrb- i 've seen the same performance on x700 and 7600gt as well , -rrb- and a 768p -lrb- 1366x768 -rrb- lcd .
+i have the problem using both dvi and vga -lrb- at 720p , the tv does n't support 768p over vga . -rrb-
+are there any simple fixes for this , or is it something inherent to low-res interlaced tv that is causing the problem ?

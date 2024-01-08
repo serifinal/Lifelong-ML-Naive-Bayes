@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma too reflective for this room?</Title>
+		<Username>MClif</Username>
+		<Datetime>05-06-2011, 10:04 PM</Datetime>
+		<Content>Hi, I'm looking to see if a plasma would be too reflective for this room?</Content>
+	</Post>
+</Thread>

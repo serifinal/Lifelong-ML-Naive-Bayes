@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>foobar1969</Username>
+		<Datetime>10-23-08, 09:11 AM</Datetime>
+		<Content>Our 10 year old 29" Magnavox is about to die (it's entered the whacking stage), so we're finally going HD this year. Our plan is a 40+" TV for under $800, bought from a physical local store (really don't want to risk the hassle of shipping back a defective unit). So far we've found a couple candidates, 1080p with HDMI & VGA for $700. We're not really in a hurry, since we're not big TV users (less than basic cable, a couple hours of DVD & Wii per week). So we're wondering if better deals are likely as Xmas approaches. Advice, reviews, other bargains, etc would be appreciated.</Content>
+	</Post>
+</Thread>

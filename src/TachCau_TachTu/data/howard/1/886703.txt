@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: Samsung Wave NA 3G</Title>
+		<Username>myrelle</Username>
+		<Datetime>07-08-2010 11:41 AM</Datetime>
+		<Content>Hello, Looking to buy a BNIB Samsung Wave NA 3G (Bell or Rogers locked or unlocked). pm or txt 416-831-0818</Content>
+	</Post>
+</Thread>

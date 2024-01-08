@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>usb to work on samsung ps50b550t2fxxy</Title>
+		<Username>JETURBO</Username>
+		<Datetime>28-05-2011, 8:01 AM</Datetime>
+		<Content>hey guys ive had a read through how to acvtivate the wiselink feature on the tv but i dont have the wiselink feature highlighted so i can click it on can someone please help me make my usb port work with movies on a usb stick thanks for ya help</Content>
+	</Post>
+</Thread>

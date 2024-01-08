@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>anyone have the Sony BR disk Changer in their HT??</Title>
+		<Username>penngray</Username>
+		<Datetime>04-07-08, 09:53 PM</Datetime>
+		<Content>Its pretty big, I wanted to see if anyone was "fitting" it somewhere.</Content>
+	</Post>
+</Thread>

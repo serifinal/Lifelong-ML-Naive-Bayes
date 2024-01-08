@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>17 Mbps vs 24 Mbps</Title>
+		<Username>Ifandbut</Username>
+		<Datetime>10-14-08, 07:45 PM</Datetime>
+		<Content>Hi all, I'm looking at getting a camcorder soon. I am debating between the Sony SR10/11/12 and the Canon HF11. I was wondering what the difference in picture quality is at the higher bit rate on the HF11. The only reason I am considering the HF11 is because it's the only camera out with the 24Mbps ability (however I do prefer the large storage space on the SR10/11/12). Thanks for any information, -Ifandbut</Content>
+	</Post>
+</Thread>

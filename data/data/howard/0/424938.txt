@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile Customers in MD: Anyone else not able to connect to the internet?</Title>
+		<Username>-=Hot|Ice=-</Username>
+		<Datetime>06-22-2010 09:39 AM</Datetime>
+		<Content>I am on 3.5G and I am not able to connect to T-Mobile's internet connection. I am currently at school(Montgomery College Germantown) and can not connect but my phone is telling me I am on 3.5G. What's going on? Can anyone help? Anyone else having this problem? It was working fine last night.</Content>
+	</Post>
+</Thread>

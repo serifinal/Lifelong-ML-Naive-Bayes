@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PRACTICAL effect of watching 9/16 on wide screen Plasma</Title>
+		<Username>MikeyIdea</Username>
+		<Datetime>25-01-2012, 4:12 AM</Datetime>
+		<Content>Watching 'non-full screens - old format' on Plasma There's always going to be an effect as different parts of the screen will "age" at different speed but let's forget about the theoretical aspects now and just concentrate on the practical effects Here's the background Live in Thailand, have just ordered a PS59 (as the 60' LED is 60% more expensive), have 30 useful cable TV channels of which 6 are 3/4 and the rest 9/16. Will sit approx 2.5 meters from the TV. Room is pretty dark, no sun I expect that less than 50% would be spent on watching wide format and the rest leaves me with black areas above and below the picture causing different parts of the TV screen to age at different speed. I don't care about the black areas as such, only about the effects of them when watching wide format If I assume 50 / 50 watching; Will I ever be able to spot degradation (with my naked eye) and what's an approximate percentage when we can assume no practical effect is ever going to be noticed? How will it affect my viewing? Will blacks turn less black? Apologies for the stupid question but I simply don't know When will the practical effects become noticeable at 50/50? One year - 5 years? How can I do to reduce the effects? Leave the TV on during the night having the sofa watching wide format? Reduce brightness? Another question that I don't really want to hear the answer for; Should I really consider spending 60% more on the LED considering the 50/50 viewing? Thanks for advice Michael</Content>
+	</Post>
+</Thread>

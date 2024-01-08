@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell Turbo Hub (W35) Speed Issue</Title>
+		<Username>zeg</Username>
+		<Datetime>08-11-2010 02:30 PM</Datetime>
+		<Content>Any one have data speed issues? I use to get 4- 5 mb down and 1.2-2.3 mb up. Now i have a hard time to pass 2mb down and .5 up!!! Same signal strenth checked my external antenna all seem well. I think they are testing hspa+4x MB i wonder if it can be that.</Content>
+	</Post>
+</Thread>

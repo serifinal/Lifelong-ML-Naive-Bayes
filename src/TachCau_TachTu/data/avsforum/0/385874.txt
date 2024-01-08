@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Dave's "finally getting around to posting some photos" thread</Title>
+		<Username>David F</Username>
+		<Datetime>12-09-08, 08:51 PM</Datetime>
+		<Content>My theater is (mostly) done! This was not exactly a DIY project. I'm not handy at all with tools, but even more importantly, I simply don't have the time to devote to this size of a project. I work a full-time job, I'm a divorced single dad (who has a fiance), I'm a published writer with another novel to deliver on a tight deadline, and...well, that leaves no time for building out a theater. So.... I was a CRT front projection guy from 1999 (bought my NEC 9PG from Alan here at AVS) until 2006, when I moved out of my old house and bought a new townhouse nearby. I got rid of the CRT but kept most of the other equipment, though it went into storage since I had no place to set it up. I designed a theater/bar area for my townhouse's basement about a year ago, but wasn't really ready to do anything about it at the time (mostly because of cost). Fast forward a year, and I need some additional space downstairs for my fiance's son (he's five) and my son (he's nine) to play so I don't strangle them when they're running around upstairs. While I'm doing that, I'm also going to build my theater. Here's the original layout I made: It was modified during construction, but not by much. And I lost the bar, which because the boys' playroom. There was never enough room for a riser in the back, or really enough headroom, so from the start I was planning to make do with a large sofa of some kind.</Content>
+	</Post>
+</Thread>

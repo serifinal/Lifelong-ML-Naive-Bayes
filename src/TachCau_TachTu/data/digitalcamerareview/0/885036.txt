@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LCD screen black-out .... when used underwater</Title>
+		<Username>sunshine</Username>
+		<Datetime>01-11-2011, 02:13 PM</Datetime>
+		<Content>I took my CAnon SD1200 IS on a snorkel trip (in an underwater case) and when the glare was bright, the LCD screen did not display the scene below. Since I was holding the camera pointing mostly down, the screen would have been receiving the sun's light directly. If I tilted the camera a bit, the scene would appear. Other times, nothing would work. And at sunset, this was not a problem. I want to know why this happens and if I can set any controls to avoid losing the picture I'm about to take. This is very frustrating when I have only seconds to 'shoot' an eagle ray or octopus and don't know where to aim the camera.</Content>
+	</Post>
+</Thread>

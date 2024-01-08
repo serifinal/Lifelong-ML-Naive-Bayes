@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>fayyazpoonawala</Username>
+		<Datetime>11-03-08, 11:31 AM</Datetime>
+		<Content>Hello, I'm looking to add a new LCD tv as my primary Gaming and Movie TV. 1080p is a requirement and 50" or greater is what i'm looking for. I've read many posts here on the forums about each of the individual brands but between the 3 and a budget of approximately $2,000 are there any particular models that stand head and shoulders above the competition ? model recommendations would be awesome. thanks</Content>
+	</Post>
+</Thread>

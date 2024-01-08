@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PANASONIC TX-P50U30B problem</Title>
+		<Username>psalliss</Username>
+		<Datetime>26-07-2011, 10:09 PM</Datetime>
+		<Content>hi i recently bought a PANASONIC TX-P50U30B plasma to replace my aged samsung hd45 dlp which stopped working when the bun went. initially i was fairly happy with the panasonic not blown away but for the money felt it was reasonable for the money. but a week one i just cant get the settings work for a picture that im happy with. sometimes the picture is good and other times the colours seem either too full on and the picture dim or the other way round. this may well just be source and not the tvs fault but im getting fed up with constantly fiddling with the settings to get a picture i happy with. also ive started to notice changes in the brightness whilst watching a program where it quite noticably changes brightness. has anyone got any experience of this tv or suggest the best settings or can advise whether the brightness change may be a proccesing fault. thanks.</Content>
+	</Post>
+</Thread>

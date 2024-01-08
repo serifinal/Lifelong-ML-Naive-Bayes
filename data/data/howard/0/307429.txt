@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Wave Supposedly Hitting Bell in June!</Title>
+		<Username>stent00</Username>
+		<Datetime>05-17-2010 12:29 PM</Datetime>
+		<Content>see link. http://mobilesyrup.com/2010/05/16/sa...l-this-summer/ has BADA os. would any one get one? and at waht price? any idea's</Content>
+	</Post>
+</Thread>

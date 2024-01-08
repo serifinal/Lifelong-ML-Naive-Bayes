@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>NEED HELP! LCD or PLASMA for PC file playback best PQ?</Title>
+		<Username>iopener</Username>
+		<Datetime>11-29-08, 11:26 AM</Datetime>
+		<Content>Hi All, I have built a sweet home theater setup (integra dtr9.9, 7.1 speaker setup (infiniti, focal, martin logan mix) and have a good htpc that can run i)via hdmi thru integra or ii)direct to tv (via dvi, vga or hdmi; with dvi to hdmi adapter) and iii) thru PS3. HERE'S WHERE I NEED ADVICE: I am fortunate (and slaved long hours) to be able to choose almost any monitor for this dream system. I'm currently deciding between the Sony and Sammy 52" or larger LCDs or a Pioneer pro 151fd plasma. I would prefer NOT to spend the 2x price of the Pio (especially with neoPDP coming out next summer), but want the best now. 90% of my playback is coming through my htpc. Please help me decide if i should go lcd or plasma for this application. Other notes is that i sit a perfect 8.1 feet from the screen (can accomodate a 60 inch) and come move the couch forward for a slightly smaller screen :-) Please help me out - advice, particular model numbers etc.... Many, many thanks in advance!!!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>EnV 3 outlook sync questions</Title>
+		<Username>dkreifus</Username>
+		<Datetime>01-15-2010 01:47 PM</Datetime>
+		<Content>I need a phone which can sync calendars and contacts with outlook. I don't need email on my phone. I have an xv 6800 now, and despise the thing. I'm due for a new contract, so I was looking at the enV 3. (I realize I'm a rare bread that wants to sync cal/contacts but no data/email) According to LG's site, LGs Sync Program, they have a program that can sync with Outlook. Has anyone had any experience with this?</Content>
+	</Post>
+</Thread>

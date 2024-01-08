@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Next lens for the 40d?</Title>
+		<Username>AaronM</Username>
+		<Datetime>10-26-2008, 02:24 PM</Datetime>
+		<Content>So some background, I've a Canon 40d, and one of the things I frequently photograph is city scenes. Not street photography of people, but architecture(inside and outside) and such in cities. For daytime work I've been happy with my Sigma 18-50 f2.8 for wide, and my canon 70-200 for long, but neither is quite good for night work or dark interiors. So that leaves me asking this question, what would you recommend for a night lens for buildings and such? In my mind the default answer is the Canon 50mm f1.8. It's not a perfect lens, it feels like a toy, and has a really loud autofocus motor, but optical quality is very good and it's cheaper than my current camera bag. So what out there is better, if more money(say under $400ish)? I have had the following ideas: 1. Canon 50mm f1.4 2. Sigma 50 mm f1.4 3. Sigma 30mm 1.4 4. Canon 28mm 1.8 So I leave it to the assembled masses, thoughts, suggestions, ideas? A</Content>
+	</Post>
+</Thread>

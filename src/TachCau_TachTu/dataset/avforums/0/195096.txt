@@ -1,0 +1,11 @@
+ca n't connect netbook to panasonic tv - help ! .
+hi all , i have an acer aspire one 533 netbook running windows 7 starter that i 'm trying to connect to my panasonic tx-p42s21b vierra plasma tv .
+i am running a cable from the vga out socket of the netbook , and another from the headphone socket cable , both going to a mains powered vga to hdmi converter box .
+from that box i am then running an hdmi cable to the hdmi 3 input on the tv .
+i can get audio coming from the acer to the tv , but no picture .
+the converter box signal light indicates that there is a signal , and the netbook registers that there is a second monitor , but i ca n't get a picture on the tv .
+i 've tried different settings on the netbook , changing the output type to dual display , display on monitor 1 , display on monitor 2 , and tried different resolutions , but do n't really know if i should be doing something else ?
+or something on the tv ?
+can anyone advise ?
+thanks .
+steve

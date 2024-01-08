@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB/WTT: My 16GB White iPhone 3GS (unlocked) for your white (or black) Telus Hero</Title>
+		<Username>nordr</Username>
+		<Datetime>11-12-2009 11:56 PM</Datetime>
+		<Content>Pretty simple. I have a mint 3GS as described in the post title that's been sitting in a box for three months. It's been unlocked (and updated to the latest firmware). I'm looking to either trade for a Telus Hero, or buy a Hero outright from some enterprising Canadian. I can provide pics and anything else one might require if and when interest is expressed.</Content>
+	</Post>
+</Thread>

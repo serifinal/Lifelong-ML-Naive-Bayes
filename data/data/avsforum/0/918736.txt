@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Any Ex-Sony owners converting/converted to Canon High Def camcorders?</Title>
+		<Username>kam1996</Username>
+		<Datetime>11-20-08, 04:05 PM</Datetime>
+		<Content>Four years ago, after my daughter was bron, I purchased a canon MiniDV camcorder afetr what I thought was due research. Although there WERE cautionary posts/reviews out there about the Canon's lack of low light performance, I bought the canon due to a considerable price difference between it and the comparable Sony. Long story short, i sold teh Canon after 2 months and purchased a Sony TRV. This time around, after using the Sony TRV MiniDV for 4 years and being overall happy with the performance, I did not even give Canon a chance and have been researching/reading posts/reviews only regarding the Sony SR-11/12 series. I have lately decided to wait till past thanksgiving to see if there are more price drops due to economy/low consumer spending etc and I now have more time to research. Professional website reviews aside, i am looking for feedback from Ex Sony camcorder users who have had a chance to try the new Canon series. I am mostly interested in low light performance differences, ease of use, editing software differences between the sony and Canon etc. Thank you all for your feedback.</Content>
+	</Post>
+</Thread>

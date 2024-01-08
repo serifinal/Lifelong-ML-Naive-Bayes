@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Running the break-in DVD on the computer instead of DVD player - is this oK?</Title>
+		<Username>wasserkool</Username>
+		<Datetime>12-03-08, 08:58 AM</Datetime>
+		<Content>I am still worried about letting the Sony Blu-ray player to run the break in DVD over night or while I am at work uninterrupted on my pioneer elite 101. I am wondering if it is okay to run the Break in DVD ISO image on a computer hooked up to the panel via HDMI and connected to a Uninteruptible Power Supply? Has anyone done it before and is it ok to go that route?</Content>
+	</Post>
+</Thread>

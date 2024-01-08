@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sharp LC42D64U or LG 42LG50</Title>
+		<Username>afx21</Username>
+		<Datetime>05-09-08, 04:37 PM</Datetime>
+		<Content>I've been looking a lot at the 42LG50 which I could get for CDN$1379 and now at Futureshop the Sharp is at 1299$. What are the main advantages and disadvantages of both?</Content>
+	</Post>
+</Thread>

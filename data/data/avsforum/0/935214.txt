@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>rcktpwrd</Username>
+		<Datetime>11-21-08, 04:20 PM</Datetime>
+		<Content>I currently have a 42" Sharp lcd (d62u) that for the past 2 years has had a great picture and I really like it overall. I haven't had any of the banding issues that have been discussed in the forums. We got it from Sears and have the extended warranty on it. A couple months ago it developed a thin vertical line in the middle of the screen. The line isn't always visible, it depends on the color that is on the screen and is quite annoying. The repair people have been out several times to look at it and the last time they replaced some sort of control board in the set, that didn't fix the problem but did help... They came back out and looked at it again and decided that the screen was bad or something and they are allowing us to get a new set. Since the warranty is through Sears we have to get a set there. They are giving us an allowance of about $1800 and said to go to the store and get what ever you want... So my dilemma is what to get?!? I want to stick with a 42" screen, as that fits the room well. Thanks for any help...</Content>
+	</Post>
+</Thread>

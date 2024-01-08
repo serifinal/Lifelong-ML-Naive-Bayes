@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>looking for a Hitachi AV3000E tuner box for my plasma</Title>
+		<Username>Martin68</Username>
+		<Datetime>18-03-2011, 10:54 PM</Datetime>
+		<Content>Hi guys, this is probably a long shot, but has anyone got a spare tuner/media box for a Hitachi 42PD3000 plasma tv? it dates back to 2002 so i'm sure there should be a few knocking around by now. it is quite urgent, as i sold the tv and it bounced back a month later with the tuner box gone faulty beyond repair as far as i can tell. so i need to buy another box before having to hand back £200 to my customer as a refund.</Content>
+	</Post>
+</Thread>

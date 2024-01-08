@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon sd960is vs sd880is</Title>
+		<Username>zer0noble</Username>
+		<Datetime>04-29-2009, 10:07 AM</Datetime>
+		<Content>Hi Everyone ^^, I have been lurking in these forums for quite sometime ^^. But now I have a question. I want to get a canon p&s camera, and I am unsure on which one to get. I looked at the digitalcamerareview's for both the sd880 and sd960, and they are pretty comprehensive. But I want an opinion from someone who has test or used both camera's please ^^. The reviews at amazon.com are also mixed on the sd960is as some like, while other abhor it due to over saturation of the colors.</Content>
+	</Post>
+</Thread>

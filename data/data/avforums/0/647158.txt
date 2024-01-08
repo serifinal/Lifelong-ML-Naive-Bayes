@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>plasma tv security</Title>
+		<Username>itcosthowmuch</Username>
+		<Datetime>18-01-2012, 9:14 PM</Datetime>
+		<Content>For the second time in 8 months scumbags have stolen a 42" Panasonic from a community hall I'm responsible for First time they wrecked the place by kicking doors in etc and other than the tv the took very little else. This time they were more considerate and made very little mess.......but still took the tv and mount (in fact so little mess the insurance company are quibbing about whether they'll pay out!). So my question is how would you go about securing a replacement to the wall? Bearing in mind that the previous two were bolted at a height of 7' and they literally ripped the whole thing off in one go (made a hell of a mess of the wall/plaster). It has to be fixed on a cantilever type bracket as it sits in the corner and we swing it out when in action so to speak. I did consider ceiling mount but this is quite high at about 15' and is only a suspended ceiling, so no real strength (though it could be possible to put some trusses in to provide support if needed). So annoyed at this as it affects elderly people who only use it now and again, and it's got to the point of whether to renew or not, which really gets me as it's like giving in to the ****s that do this sort of thing. Don't help that the police couldn't give a t*** and haven't even bothered to take details of the equipment taken which is security coded and pin numbered, plus we found a jar that was taken at the same time which clearly has evidence on it (all they ensure is that I'm given a sodding crime ref). Sorry for the rant but any advice would be greatly appreciated</Content>
+	</Post>
+</Thread>

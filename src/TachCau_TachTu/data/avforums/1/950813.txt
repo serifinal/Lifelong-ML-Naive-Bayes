@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS50B530</Title>
+		<Username>telboy1</Username>
+		<Datetime>24-09-2009, 1:40 PM</Datetime>
+		<Content>This is full HD TV is available for £599 at Bennetts with 10% off if first order. It seems really cheap for full HD. I can't find any reviews or comments from owners anywhere on the net. Does anyone here own one or has seen one and can give some idea of what it's like? Thanks</Content>
+	</Post>
+</Thread>

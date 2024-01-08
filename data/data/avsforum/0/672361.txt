@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>September 26th - Black Friday predictions and Neuros OSD review</Title>
+		<Username>Braden Russell</Username>
+		<Datetime>09-26-08, 01:47 AM</Datetime>
+		<Content>Today's Show: Dennis from Medina OH sent us a link to an article that ran down a list of Black Friday Predictions at BlackFriday @ GottaDeal.com. We want to do the same thing. The only rules we had were not to read the article prior to making our predictions. The article has predictions about computers, computer peripherals, GPS, and all things electronic. Our predictions will stay in the realm of HDTV and Home Theater. We also recently received an email asking us for a good solution to archive old family videos that are locked away on VHS tapes. Many options require you to use the hard drive of your computer for the recording process. Today we take a look at a devices that easily connects to your analog sources and records to multiple destinations. The Neuros OSD lets you convert your treasured videos to digital so they can be enjoyed for years to come. more... Listen now - mp3</Content>
+	</Post>
+</Thread>

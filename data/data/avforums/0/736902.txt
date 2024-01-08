@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic GT30 - Amazon customer service</Title>
+		<Username>joeac</Username>
+		<Datetime>11-01-2012, 2:58 PM</Datetime>
+		<Content>I have ordered this set however I know there is risk of green blobs, if this issue was to develop after 30 days has anyone had experience with amazon after this time period? Tried LED and its not as good as plasma imo</Content>
+	</Post>
+</Thread>

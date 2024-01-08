@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is your Home Theatre system protected against surges?</Title>
+		<Username>saturation</Username>
+		<Datetime>12-09-08, 09:48 AM</Datetime>
+		<Content>This thread and poll complement another poll I left about protection provided by plug-in surge suppressors. Please add your response to it too. The following questions are basic issues regarding getting protection from a surge suppressor. Answer the question only if you AGREE. Leave the selection unanswered if you DISAGREE. Thank you!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>need some help with lenses</Title>
+		<Username>lesa69</Username>
+		<Datetime>07-08-2009, 11:47 PM</Datetime>
+		<Content>Hi. I have an S2 IS Canon Powershot. I love this camera but I am wanting to get some different lenses and filters for it. However, I am not really certain as to what I should get. Do I HAVE to look for one that says specifically for the S2 IS or can I just look for one that is a Canon? I am lost on this. I dont know what to look for or what all I need. Please help? I am wanting to get a wide angle, a telephoto and also some filters. I look forward to some advice.</Content>
+	</Post>
+</Thread>

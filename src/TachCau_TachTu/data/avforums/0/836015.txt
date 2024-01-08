@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30 image retention help</Title>
+		<Username>HammerOfJustice</Username>
+		<Datetime>17-11-2011, 8:49 PM</Datetime>
+		<Content>So I returned the Sony XBR55HX929 that I bought to get a VT30 and so far I've been pretty happy with it. Only real complaints I have is that when I play 30fps games, the judder is really noticeable. Also, when I get closer to the screen, when I move the camera it seems as if certain parts of the screen get grainy until I stop moving it. That aside, my real question is about some IR I'm having trouble with. This is my first plasma so maybe it still needs more time to break in and I'm being impatient. When I first got it I ran break in slides for 100 hours non stop. From there, I started gaming on it. Haven't really had too much IR problems (most goes away in a few minutes), but today when I turned on my TV I saw images from my game I played last night. I ran the anti-image retention scrolling white bar three times (15 minutes a time) and it's still there. Is it possible I already have burn in?</Content>
+	</Post>
+</Thread>

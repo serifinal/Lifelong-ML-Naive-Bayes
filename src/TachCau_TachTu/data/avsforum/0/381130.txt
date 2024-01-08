@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Panasonic DMP-BD35 coming, New Receiver needed?</Title>
+		<Username>Tomberg</Username>
+		<Datetime>11-30-08, 05:18 PM</Datetime>
+		<Content>I'm awaiting delivery of a new Epson Home Cinema 1080 UB projector and a Panasonic DMP-BD35 Blu-Ray player. This PM the thought occurred to me that I could just go direct from the Blu-Ray player to the Epson and run the audio from the Panasonic into my 8 year old 5.1 NAD T770), and save the $$$ I'd spend on a new A/V Receiver. From the Panasonic manual, it appears I won't get true 1080p...but it will output 1080i. Whadayathink guys? Will this work? Won't cost me anything to try of course, except perhaps some extra really long component cables to get from the Blu-Ray player to the Epson (like 20'), but if I'm wasting my time...</Content>
+	</Post>
+</Thread>

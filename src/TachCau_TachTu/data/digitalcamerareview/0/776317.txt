@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon powershot A640</Title>
+		<Username>jacq</Username>
+		<Datetime>08-09-2009, 05:11 PM</Datetime>
+		<Content>Pls i need urgent help. I have a wedding to attend on saturday. my camera is not taking pictures in auto mode, a flashing sign keeps appearing on screen top but on snapping the shutter will not go down. what can i do? it will take pics on some of the other modes? any answers will be greatly appreciated. thanks</Content>
+	</Post>
+</Thread>

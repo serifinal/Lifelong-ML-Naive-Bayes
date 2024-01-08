@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Force MPC HC AVC (DXVA) internal codec to not render L5.1</Title>
+		<Username>Dephcon</Username>
+		<Datetime>12-03-08, 12:48 PM</Datetime>
+		<Content>Hello, I'm having an issue regarding playback of some older L5.1 encoded 1080p mkv files. Apparently MPC HC now forces its AVC codec to render L5.1 encoded content since nvidia hardware can now decode it. My system is 780g based and this is no good. The video gets a lil sluggish and the audio goes out of sync. To get around this I need to set CoreAVC as the preferred external filter, and then set it back after viewing. Ideally I'd like to have the internal codec render all L4.1 compliant material and ignore L5.1, leaving the next codec in priority to take over (CoreAVC). Is this possible? Does anyone know any other way around this issue? Thanks</Content>
+	</Post>
+</Thread>

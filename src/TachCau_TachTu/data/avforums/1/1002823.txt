@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>distance from 55 vt 30</Title>
+		<Username>chunkstar</Username>
+		<Datetime>01-07-2011, 10:05 PM</Datetime>
+		<Content>Hi all Have moved to new house long narrow lounge will be 5m away from tv will a 55"be big enough or should i save and get the 65",have 42" at the moment sit 3m away from that</Content>
+	</Post>
+</Thread>

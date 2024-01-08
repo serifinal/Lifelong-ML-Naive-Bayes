@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon G10-Red Dot of light on dark photos?</Title>
+		<Username>freesurfer</Username>
+		<Datetime>01-28-2009, 01:03 AM</Datetime>
+		<Content>...amplified and clearly visible on close-ups. I took a close-up photo of a star in a dark night sky and on the mid-left hand side of the shot there was a red dot. What is this and why is it there? see here: http://freesurfer.tumblr.com/post/73...left-hand-side</Content>
+	</Post>
+</Thread>

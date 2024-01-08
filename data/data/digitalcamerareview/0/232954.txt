@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot S5 IS Print/Share light staying on</Title>
+		<Username>mdavis</Username>
+		<Datetime>05-06-2010, 04:09 PM</Datetime>
+		<Content>My mom bought a Canon Powershot S5 IS, and shortly after she bought it, the Print/Share button blue light started staying lit constantly, unless the batteries are taken out. Unfortunately, this tends to drain the batteries a lot faster, obviously. Is there a setting to turn that light off when it's not plugged into a printer, or does it need to be serviced? I've searched a lot of places online and can't find any mention of this problem. I even tried plugging the camera into her HP Photosmart printer and printed a photo, but that didn't fix anything. Any help is appreciated. Thanks</Content>
+	</Post>
+</Thread>

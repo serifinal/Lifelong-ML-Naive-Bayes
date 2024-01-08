@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CRTC Blocked WIND, Now They Are Blocking Gloabalive Broadband. Show Your Support</Title>
+		<Username>T3rry</Username>
+		<Datetime>12-16-2009 01:05 PM</Datetime>
+		<Content>I know this isn't "cell phone" related, but it is important, i am sure this thread will be moved or deleted, but if a few people see it, it's worth it. http://www.consumersforinternetcompe...s/default.aspx</Content>
+	</Post>
+</Thread>

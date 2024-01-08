@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Buy now or wait for Black Friday?</Title>
+		<Username>Audixium</Username>
+		<Datetime>11-13-08, 12:09 PM</Datetime>
+		<Content>I'm thinking about spending around $1500 for a 5.1 setup and have an itchy trigger finger. I'm considering some ID brands, but really like the Klipsch horns. What are the odds that there will be some good deals later this month based on Black Friday?</Content>
+	</Post>
+</Thread>

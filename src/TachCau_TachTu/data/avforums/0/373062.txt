@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>2012 Panasonic HDTV Prices and Availability Leaked</Title>
+		<Username>natsume</Username>
+		<Datetime>07-02-2012, 9:34 PM</Datetime>
+		<Content>VT50 series TC-P55VT50 55-inch: $2,499 Available 5/7/12 TC-P65VT50 65-inch: $3,999 Available 5/14/12 GT50 series TC-P50GT50 50-inch: $1,799 Available 3/12/12 TC-P55GT50 55-inch: $2,099 Available 3/19/12 TC-P60GT50 60-inch: $2,599 Available 4/14/12 TC-P65GT50 65-inch: $3,499 Available 4/23/12 ST50 series TC-P50ST50 50-inch: $1,399 Available 2/20/12 TC-P55ST50 55-inch: $1,699 Available 2/27/12 TC-P60ST50 60-inch: $2,099 Available 4/14/12 TC-P65ST50 65-inch: $2,999 Available 4/23/12 UT50 series TC-P42UT50 42-inch: $799 Available 2/24/12 TC-P50UT50 50-inch: $1,099 Available 2/24/12 TC-P55UT50 55-inch: $1,399 Available 3/17/12 TC-P60UT50 60-inch: $1,799 Available 4/14/12 2012 Panasonic HDTV Prices Leaked | HD Guru</Content>
+	</Post>
+</Thread>

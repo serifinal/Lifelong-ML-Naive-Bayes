@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>what is the standard expouse for white object??</Title>
+		<Username>sharif_al</Username>
+		<Datetime>08-16-2009, 09:48 AM</Datetime>
+		<Content>help me when i trued to adjust the custom white balance for my canon 450D in the manual it is written that i have first *** Focus manually and set the standard exposure for white object what is the standard exposure for white object???????????</Content>
+	</Post>
+</Thread>

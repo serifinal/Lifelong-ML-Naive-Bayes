@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why do people mount FPs so high?</Title>
+		<Username>17seconds</Username>
+		<Datetime>07-31-08, 06:18 PM</Datetime>
+		<Content>I swear this drives me insane... Why do you always see FP TVs mounted 5-7ft in the air? I can't tell you how many people put them above fireplaces or just high on the wall.. What is it, 50% or more of LCD and Plasma owners? Who wants to stare up at a TV like a security monitor?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Zoom B EX</Title>
+		<Username>Hudson</Username>
+		<Datetime>12-21-2010, 07:44 AM</Datetime>
+		<Content>Hi again....Is there a way to load photos on CD from different dates. At the moment on Zoombrowser EX I can only load one set of photos (from a download) but cant figure out how to add a previous set downloaded on a different date. I tried holding the Ctrl button to pick up a previous shoot but it doesn't work. Any thoughts? Thanks in advance.</Content>
+	</Post>
+</Thread>

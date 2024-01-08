@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Material used for SD870IS</Title>
+		<Username>clb</Username>
+		<Datetime>12-24-2007, 05:59 AM</Datetime>
+		<Content>just wonder what material is used for the SD870 IS body? It feels like plastic.....................</Content>
+	</Post>
+</Thread>

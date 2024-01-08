@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony W3000 vs. Samsung LN-T71F, someone please break the tie!</Title>
+		<Username>8IronBob</Username>
+		<Datetime>03-29-08, 09:46 PM</Datetime>
+		<Content>I'm trying to decide between two rather equal models between the two best LCD brands, since I hardly find any difference in quality. What are the pros and cons between both the Sammy LN-T4671F or Sony 46W3000? Those are both equally spec'd and priced by every sense of the word, and I don't know which direction would be better.</Content>
+	</Post>
+</Thread>

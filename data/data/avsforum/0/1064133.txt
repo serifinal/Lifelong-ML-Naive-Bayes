@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official Grand Theft Auto discussion thread</Title>
+		<Username>DaverJ</Username>
+		<Datetime>04-17-08, 03:10 PM</Datetime>
+		<Content>This is the place to discuss Grand Theft Auto 4, one of the biggest releases this year. Edit: Please post ALL GTA IV gameplay discussion here. Use the GTA IV Review thread sticky for reviews only. Kyser tags: GTA4 GTA 4 GTAIV GTA IV</Content>
+	</Post>
+</Thread>

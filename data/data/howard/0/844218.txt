@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I need a simple guide on how to set up tethering on an S60v5 phone</Title>
+		<Username>liknsmak</Username>
+		<Datetime>11-16-2009 07:11 PM</Datetime>
+		<Content>I'm in need of a site which lays out the steps or someone who's willing to write down the steps as my parents need to use this feature right now. I would just tell them how to do it, but I don't have an S60 phone in front of me nor is google giving me anything that doesn't have to do with isync (they're using a PC) or lays it out in simple steps. I want to say they just have to download PC suite and it should be in there...what am I missing? Can anyone help?</Content>
+	</Post>
+</Thread>

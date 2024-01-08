@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX 30 IS constantly changes zoom range</Title>
+		<Username>pbutin</Username>
+		<Datetime>07-09-2011, 12:52 AM</Datetime>
+		<Content>Hi, I have a new Canon SX 30 IS and I love it--especially the photo quality. I am just learning the technicalities of it, but I'm having a problem. When I use the zoom to frame pictures (especially using the zoom to take a close up from a distance), the camera often (but not always) moves out from the zoom level I have chosen and selects a much broader zoom length (i.e. zooms out). I don't know whether this is something I am doing wrong, a setting I can change, or something wrong with the camera. I would much prefer to be able to tell the camera how closely I want to take the picture, rather than having the camera "tell me." Any thoughts from someone experienced with this camera? Thanks.</Content>
+	</Post>
+</Thread>

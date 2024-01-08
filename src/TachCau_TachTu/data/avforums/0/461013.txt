@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic fault after only nine months.</Title>
+		<Username>the whistler</Username>
+		<Datetime>18-12-2011, 11:21 AM</Datetime>
+		<Content>Earlier this year my four year old TV failed and under the John Lewis 5 year warranty was taken away for repair. What happened next turned out to be rather an unpleasant experience and after lots of arguments with JL, they eventually agreed to replace with a new TV. The replacement TV a Panasonic plasma has now developed a fault which probably requires a new panel. The prospect of the set being taken away by the same repair company fills me with horror and I'm wondering if as the set is only 9 months old whether I should be entitled to a replacement rather than a repair?</Content>
+	</Post>
+</Thread>

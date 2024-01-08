@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help red sparkles pn samsung Ps-50c7hd tv</Title>
+		<Username>podgey3874</Username>
+		<Datetime>14-02-2012, 3:32 PM</Datetime>
+		<Content>Help red sparkles pn samsung Ps-50c7hd tv Anybody no what this is and how to solve it from happening or no anybody who can repair in wf3 area Need to know ASAP please guys</Content>
+	</Post>
+</Thread>

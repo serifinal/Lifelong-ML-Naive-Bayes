@@ -1,0 +1,264 @@
+newbie dsp update request for help . .
+important : please note , that i no longer have access to the firmware files of the older onkyo avrs .
+those download links have expired also , because most of them were not used for more than a month and thus their contents have been deleted .
+sorry !
+... for the onkyo xx5 / xx6 and / integra x. 8 / x. 9 model series .
+ok , here they are ... ... expanded and updated once in a while remember : i found those links on the internet just by doing some -lrb- intelligent -rrb- searching and pure luck -lrb- as always -rrb- .
+i am not in any way responsible for the contents those publicly available links point to .
+i am just a scout i do not have or host those files myself , so please do n't pm me about it .
+unfortunately i wo n't be able to help , if they are no longer available .
+note : there is always a risk to be considered and evaluated , that something might -lrb- and eventually will -rrb- go wrong during a software / firmware update .
+think twice , if you will take the risk off doing it on your own instead of taking it to an onkyo / integra service point .
+by downloading any files listed here you accept and declare explicitly , that you accept the responsibility for your action .
+if you have any questions regarding the functionality of your onkyo avr -lrb- xx5 -rrb- there is a very complete listing in the 1st post of this thread ============= > 705 thread faq 1st post although it was originally directed towards the 705 it has a lot more to present now , providing answers in terms of general advice , like help for lip sync issues , audyssey setup and common user mistakes to be avoided .
+do n't miss it !
+>> hardware modification onkyo 605 - 905 plus integras : see your service point if your unit is affected -lrb- removal of a capacitor -rrb- .
+= > description hardware mod if fw below -lrb- p -rrb- - tx-sr605 / tx-sa605 / tx-sa8560 : main1 .03 / 07x01a - dtr-5 .8 : main1 .03 / 07x01a - tx-sr705 / tx-sa705 / dtr-6 .8 : main1 .04 / 07x02a - tx-sr805 / tx-sa805 / dtr-7 .8 : 8 1.06 / 07925a - tx-sr875 / dtc-9 .8 / pr-sc885 : 87 1.04 / 07927a - tx-nr905 / tx-na905 / dtr-8 .8 : 9 1.05 / 07927a affected serial numbers listed inside document .
+hardware : for those curious , what 's hidden inside ... info 906 info 905 info 875 info 705 dsp firmware : dsp update onkyo 605 only one dsp .
+dsp update onkyo & integra 705 / 805 / 875 / 905 / 6.8 / 7.8 / 8.8 / 9.8 / 885 up to 3 dsps .
+------ dsp update onkyo / integra 876 / 906 / 886 / 9.9 dsp1 .
+will probably work for other onkyo / integra 3x dsp models too .
+------ main firmware : main update onkyo & integra 905 / 8.8 only -lrb- 1.05 -rrb- main update onkyo & integra 905 / 8.8 only -lrb- 1.08 -rrb- main update onkyo & integra 905 / 8.8 only -lrb- 1.09 -rrb- new main firmware 1.09 is in app_updater_xxx.zip , not setup !
+------ main update onkyo & integra 875 / 9.8 / 885 only -lrb- 1.04 -rrb- main update onkyo & integra 875 / 9.8 / 885 only -lrb- 1.05 -rrb- main update onkyo & integra 875 / 9.8 / 885 only -lrb- 1.07 -rrb- main update onkyo & integra 875 / 9.8 / 885 only -lrb- 1.08 -rrb- preserves audyssey pro installer setup -lrb- instructions inside -rrb- ------ tx-sr876 : main update onkyo 876 only -lrb- 1.04 -rrb- new firmware in app_updater !
+tx-nr906 : main update onkyo 906 only -lrb- 1.04 -rrb- new firmware in app_updater !
+pr-sc886 : main update onkyo 886 only -lrb- 1.04 -rrb- new firmware in app_updater !
+dtr-9 .9 : main update integra dtr-9 .9 only -lrb- 1.04 -rrb- new firmware in app-updater !
+dhc-9 .9 : main update integra dhc-9 .9 only -lrb- 1.04 -rrb- new firmware in app-updater !
+876 / dhc-9 .9 -lrb- 1.05 -rrb- : main firmware 1.05 876 / dhc 9.9 main 1.05 a very comprehensive post by rickardl can be found in post 1 of this 876er thread the `` official '' onkyo tx-sr876 owners thread ------ !!!
+beware !!!
+only apply those d-i-y `` main '' firmware updates , if your * loader * -lrb- not * main * !!! -rrb-
+version is at least 1.01 or higher !!!
+note : onkyo xx6 and integra x. 9 units do n't have a loader version displayed anymore -lrb- '08 generation -rrb- !
+main update onkyo & integra 805 / 7.8 only -lrb- 1.04 -rrb- firmware files only , no updater .
+check the firmware / 805 threads for further information main update onkyo & integra 805 / 7.8 only -lrb- 1.08 -rrb- see above .
+------ unsupported versions -lrb- non d-i-y -rrb- : integra - integra dtr 5.8 firmware - integra dtr 6.8 firmware - integra dtr 7.8 firmware onkyo - onkyo tx-sr605 firmware - onkyo tx-sr705 firmware - onkyo tx-sr805 firmware = > do not employ those files yourself if you do n't have the necessary equipment -lrb- flash writer `` jig '' interface or `` dongle '' etc. -rrb- and the expert knowledge -lrb- ! -rrb-
+to handle this task responsibly .
+again !
+you wo n't be able to use them in any way if you do n't have a -rrb- the needed programming -lrb- flash writer interface `` jig '' or `` dongle '' , serial connection available -rrb- equipment b -rrb- the expert knowledge to use it unless so , do n't even * think * of using them in any way . !!!
+do not use them !!!
+do not even try !!!
+you will be left with an non-functional unit afterwords and any repairs and additional cost have to be paid by you , because they are not covered by the manufacturers warranty in any way !
+they will void your warranty !
+be warned .
+links to a post from user `` vxs3tu '' describing a generic flash writer interface for the tx-sr805 which might be used as a template for other models flash writer interface for tx-sr805 some further information referring to the flash writer hardware and those different adapters needed for main / hdmi / video is contained in those firmware files listed above too .
+all-in package xx5 : thanks to a user a complete all-in package with all the tools and instructions needed for the onkyo xx5 models has been created and can be downloaded here : = > onkyo xx5 all-in update package updated 12th nov 08 !
+= > new onkyo xx5 all-in update package updated 27th july 09 !
+= > 128 mb !
+enjoy !
+update yourself using a flash writer -lrb- jig -rrb- or dongle : if you are one of the unlucky `` early adopters '' or a member of the so-calles `` sol '' club , who have the infamous loader version 1.00 , do n't despair , you will now be able to update yourself using on of those privately made flash writers or dongles for the onkyo 805/705/605 and integras .
+check the other onkyo / integra firmware thread and add yourself to one of those -lrb- regional -rrb- lists -lrb- even europe and other continents / countries -rrb- .
+note about dongle usage : >> `` thus , i am reemphasizing about dongle usage in this upgrade .
+make sure the marking &#8220; -- > up &#8221; or pin &#8220; 1 &#8221; is in up direction with a magnifier visual inspect the connection between dongle contact and onkyo connector , i realize this is somehow awkward to try , but it makes it more robust .
+as i explained this many times , dongle pcb is cut by a scissor and me ; not by a machine , so there are chances that dongle &#8217; s front tip might be smaller or bigger than the actual onkyo connector width .
+if bigger it won &#8217; t go in -lrb- do not force it , you may bend the onkyo connector , bad news -rrb- .
+just shave it with a nail filer .
+if it &#8217; s smaller then try to shift it up or down to make the contact . ''
+<< ------ supposed to fix dts hd-ma `` bomb '' / digital garbage issue -lrb- dsp -rrb- .
+supposed to improve / fix audio switching delay and lipsync issues -lrb- main 1.08 -rrb- .
+supposed to improve net radio and preserve audyssey pro setup -lrb- main 1.09 -rrb- .
+some users reported , that after a clear , hard reset and new adyssey installation the sound of the 905 improved even further -lrb- 1.09 -rrb- .
+some users reported improvement iq -lrb- resolution/details -rrb- whilst up scaling using the reon -lrb- 1.09 -rrb- .
+see enclosed attachments -lrb- pdf -rrb- below for installation instructions -lrb- same as in archives -rrb- .
+download links : the download pages feature a premium option , you have to pay for , but this is just an option and not needed for the downloads .
+if you do n't have a premium account already do n't worry , just choose the free download , which has some -lrb- minor -rrb- limitations : - do not use download managers or accelerators , as these wo n't work on free downloads , just plain ie , opera , firefox etc. - the downloads are somewhat slower on the free option than on the premium option .
+- if you download more than once per day -lrb- free acount -rrb- from the same ip , then a time `` penalty '' waiting period might be enforced .
+- please read the instructions for the free download at the site carefully .
+note : i do * not * profit in any way from these downloads .
+if any of those files listed have not been downloaded for the last 30 days , the corresponding link might have been automatically deleted from the server to save space , thus making the file unavailable .
+note : they are `` official '' release version files .
+these files are been employed by onkyo service points and handed out elsewhere by onkyo to customers -lrb- usually free of charge -rrb- .
+they are identical to those versions preinstalled on factory fresh units -lrb- look here and here -rrb- .
+version numbers are model specific .
+these updates will upgrade `` main '' and `` dsp1 '' -lrb- and dsp2 / dsp3 , if not current already -rrb- .
+905 version ids after 1.05 : main 9 ... 1.05 / 07927a sr8051 ... 07602a sr8052 ... 07518a sr8053 ... 07820b hdmi ... 1.01 / 07706a video ... 07607e0924 net ... 1.01 070731z net usr 07031 / 095118 net rfs 07031 / 095118 net krn 07023 / 145423 net ipl 07023 / 123459 905 version ids after 1.08 : main 9 ... 1.08 / 08223a sr8051 ... 08214a sr8052 ... 07518a sr8053 ... 07820b hdmi ... 1.01 / 07706a video ... 07607e0924 net ... 1.01 070731z net usr 07031 / 095118 net rfs 07031 / 095118 net krn 07023 / 145423 net ipl 07023 / 123459 905 version id after 1.09 : main 9 ... 1.09 / 08414a 876 version ids after 1.01 : main 87 ... 1.01 / 08801a 876 version ids after 1.04 + dsp1 : main 87 ... 1.04 / 08z22a sr9061 ... 08919a sr9062 ... 08605c sr9063 ... 08506a hdmi ... 1.00 / 08627a video ... 08703e01293 876 version ids after 1.05 : main 87 ... 1.05 / 09116a some interesting features of the 876 / 906 : = > originally posted by `` rickardl '' your mileage will vary , depending on your input signal and the output device 's capabilities .
+i think it does a better job with 480i input than 480p sources .
+the edge enhancement does a really good job , it does not introduce much ringing but if there is ringing present in the input source , it will of course worsen it .
+i have found that `` picture mode : auto '' works best for my sources .
+i am including the doc for the video adjustments .
+1-1 .
+monitor out monitor out : use to choose which type of monitor output is being used -lrb- analog / hdmi main/hdmi sub -rrb- .
+the following parameters are memorized for each monitor out : resolution : * through output resolution is the same resolution of input signal .
+* auto output resolution is the highest resolution that tv corresponds that it can handle .
+-lrb- `` auto '' only available for hdmi monitor out . -rrb-
+* 480p/720p/1080i / 1080p output resolution is the specified resolution .
+-lrb- 1080p is only available for hdmi monitor out . -rrb-
+* source output resolution is the specified resolution in picture adjust .
+-lrb- you can specify an individual resolution of each source . -rrb-
+-lrb- the following parameters are added to or subtracted from adjustments made for each input in `` 4-4 picture adjust '' menu . -rrb-
+example : `` 1-1 monitor out '' brightness is set to -lrb- +5 -rrb- , `` 4-4 picture adjust '' brightness is set to -lrb- -5 -rrb- , monitor output brightness will be -lrb- 0 -rrb- .
+brightness : -50 to +50 -lrb- changes by about 1 -lsb- rgb 0-255 -rsb- in 1 step increments . -rrb-
+contrast : -50 to +50 -lrb- changes by 0.8 % in 1 step increments . -rrb-
+hue : -50 to +50 -lrb- changes by 1 degree in 1 step increments . -rrb-
+saturation : -50 to +50 r brightness : -50 to +50 -lrb- changes by about 1 -lsb- rgb 0-255 -rsb- in 2 step increments . -rrb-
+r contrast : -50 to +50 -lrb- changes by 0.4 % in 1 step increments . -rrb-
+g brightness : -50 to +50 -lrb- changes by about 1 -lsb- rgb 0-255 -rsb- in 2 step increments . -rrb-
+g contrast : -50 to +50 -lrb- changes by 0.4 % in 1 step increments . -rrb-
+b brightness : -50 to +50 -lrb- changes by about 1 -lsb- rgb 0-255 -rsb- in 2 step increments . -rrb-
+b contrast : -50 to +50 -lrb- changes by 0.4 % in 1 step increments . -rrb-
+4-4 .
+picture adjust these parameters are memorized for each source : game mode : on , off -lrb- if set to `` on '' , video processor latency is lowered .
+however , some parameters such as edge enhancement , mosquito nr are not available . -rrb-
+zoom mode : normal , full , zoom , or wide zoom .
+isf mode : custom , day or night .
+-lrb- default gamma for `` day mode '' is between 1.8 and 1.9 , default gamma for `` night mode '' is between 2.2 and 2.4 -rrb- the following parameters are memorized for each isf mode : -lrb- to make changes to the following parameters : push and hold the `` display '' button on the remote control for 8 seconds .
+if you exit the setup menu or return to `` 4 .
+source setup '' the parameters of isf mode `` day '' or `` night '' are locked again . -rrb-
+resolution : through/auto/480p / 720p/1080i/1080p -lrb- when you choose `` source '' in 1-1 .
+monitor out - > resolution , this parameter is effective . -rrb-
+brightness : -50 to +50 -lrb- changes by about 1 -lsb- rgb 0-255 -rsb- in 1 step increments . -rrb-
+contrast : -50 to +50 -lrb- changes by 0.8 % in 1 step increments . -rrb-
+hue : -50 to +50 -lrb- changes by 1 degree in 1 step increments . -rrb-
+saturation : -50 to +50 picture mode : auto/video/film -lrb- auto - automatically detect and process accordingly , video - 20 fps , film - 24 fps .
+picture mode function will not work if the source component -lrb- dvd player , etc. -rrb- is outputting progressive scan video . -rrb-
+edge enhancement : off/low/mid / high -lrb- use to make the picture appear sharper .
+edge enhancement function has no affect when the video resolution is down-converted , for example from 1080p to 720p . -rrb-
+mosquito nr : off/low/mid / high -lrb- use to remove shimmering or hazziness that sometimes appears around objects in the picture .
+can be issue w/overly compressed mpeg content . -rrb-
+random nr : off/low/mid / high -lrb- use to remove indescriminate picture noise such as film grain . -rrb-
+block nr : off/on -lrb- use to remove block distortion that can sometimes appear in the picture .
+can be an issue w/overly compressed mpeg content . -rrb-
+-lrb- the nr -lrb- noise reduction -rrb- functions support all video input signals up to 480p/576p . -rrb-
+gamma : -3 to +3 example : if gamma of your monitor is 2.2 , -3 : total gamma is 1.6 .
+0 : total gamma is 2.2 .
++3 : total gamma is 2.8 .
+r brightness : -50 to +50 -lrb- changes by about 1 -lsb- rgb 0-255 -rsb- in 2 step increments . -rrb-
+r contrast : -50 to +50 -lrb- changes by 0.4 % in 1 step increments . -rrb-
+g brightness : -50 to +50 -lrb- changes by about 1 -lsb- rgb 0-255 -rsb- in 2 step increments . -rrb-
+g contrast : -50 to +50 -lrb- changes by 0.4 % in 1 step increments . -rrb-
+b brightness : -50 to +50 -lrb- changes by about 1 -lsb- rgb 0-255 -rsb- in 2 step increments . -rrb-
+b contrast : -50 to +50 -lrb- changes by 0.4 % in 1 step increments . -rrb-
+other blue mode -lrb- blue only filter -rrb- : if blue mode is on , r and g of output signal become 0 .
+-lrb- to turn blue mode on/off : from the front panel - push and hold `` hdmi out '' then push `` memory '' . -rrb-
+itu conversion -lrb- sd - > hd -rrb- press down `` hdmi out '' and `` rt/pty/tp '' button -lrb- dimmer for us model -rrb- to bring up itu conversion -lrb- sd - > hd -rrb- on press `` rt/pty/tp '' to toggle on/off .
+some cautious notes -lrb- and legal stuff -rrb- : do not contact me , if those links do n't work -lrb- anymore -rrb- .
+i do n't take responsibility for them or their contents , i am just a scout as always : read the instructions first .
+update path : onkyo / integra instructions state , that the 1.08 / 1.07 / 1.09 upgrade / update should only be done , if you got min .
+1.05 / 1.04 on your unit preinstalled .
+but as has been mentioned by several users , the update worked fine from 1.01 upwards -lrb- beware of 1.00 so -rrb- .
+the prerequisite is , that the displayed loader version `` main update '' must be at least ver .1.01 / 07615l -lrb- xx6 do n't have this anymore , so do n't worry -rrb- just to be on the safe side , check your loader version beforehand by entering main update mode -lrb- leave it without doing anything by switching the unit off , if you want to -rrb- .
+905/8 .8 : if below 1.05 goto 1.05 first , then 1.08 / 1.09 .
+875/9 .8 / 885 : if below 1.04 goto 1.04 first , then 1.07 / 1.08 .
+805/7 .8 : if below 1.04 goto 1.04 first , then 1.08 .
+note : the stated versions refer to the * main '' firmware version not the `` loader '' version , which always must be at least 1.01 / 07615l .
+do n't mix up those important differences .
+there are reports , that direct updates from older versions did work , others reported some problems and reverted back to the recommended procedure .
+there is a lot of evidence -lrb- verified by now -rrb- , that older 905/875/805 units with firmware/loader < 1.01 ca n't be updated this way .
+so beware , or you might `` brick '' -lrb- make it non-functional -rrb- your unit !
+if in doubt , check with your nearest onkyo / integra service point .
+check your existing main firmware version : = > turn on your unit , push & hold `` display '' , press `` standby '' , release buttons = > to see additional firmware infos -lrb- dsps etc -rrb- press button underneath `` tone '' repeatedly -lrb- do n't wait to long -rrb- onkyo / integra have told us , that these updates should not be installed if your current firmware to start with for 905 / 8.8 is below 1.05 or 875 / 9.8 / 885 is below 1.04 -lrb- same seems to hold true for the 805/7 .8 -rrb- .
+many users have used these updates on older firmware versions too without any problems .
+if you got an earlier version to start with , there might be additional steps to be taken -lrb- dsp : hardware modification + hdmi+net : additional firmware -rrb- !
+if this is the case , and you need them , contact your nearest onkyo / integra service point for the complete update procedure .
+i told you so ... check your existing loader version : note : onkyo xx6 and integra x. 9 units do n't have a visible loader version anymore .
+updating the main firmware can be done by anyone by going through the rs232 port provided as long as the installed loader version is 1.01 / 07615l or above .
+to check , what loader version your unit has installed please follow this procedure : - disconnect / unplug your unit .
+- whilst holding down the enter key re-insert mains plug .
+- your unit should switch to main update mode , displaying the current loader version installed .
+- release enter key .
+or - disconnect / unplug your unit .
+- whilst holding down the tuning up key re-insert mains plug .
+- your unit should switch to main update mode , displaying the current loader version installed .
+- release tuning up key .
+only for xx5 and x. 8 units : if your loader version is 1.01 / 07615l or above you may continue with the update procedure .
+if not , please exit update mode by pressing standby .
+note : if your loader version shows 1.00 please exit without doing anything by pressing standby .
+if you do n't you will be sorry if you continue with the update procedure , because your unit will become non-functional while doing this .
+so ... beware !
+it is suggested , that those updates are universal for the western hemisphere .
+i ca n't verify this ... anyway , version ids are identical .
+if in doubt , check with your nearest onkyo / integra service point .
+note : to verify the installations numerous users have installed and tested them and those updates worked just fine -lrb- to my knowledge -rrb- .
+installation procedures : the updates consists of ... a -rrb- dsp firmware update ... b -rrb- main firmware update there are two update paths for these updates : - dsp firmware update : the firmware resides inside a .
+wav file -lrb- ! -rrb-
+, which needs to be burned onto an audio cd and played back through a cd/dvd-player connected by an optical link -lrb- toslink -rrb- to opt1 .
+there must be a one-to-one copy of the file and it must be transfered unmodified .
+most older cd/dvd player will work just fine .
+read the corresponding threads .
+- main firmware update : the update routine uses a rs232 connection to the rear of the unit .
+the rs232 cable must be of type straight through -lrb- no crossover -rrb- with a male and female connector at the end .
+you need a pc with a com1 port -lrb- default -rrb- or a usb = > rs232 converter for this , as described elsewhere .
+the update procedure is been initiated through a supplied setup software , which handles everything .
+integra : the update instructions differ somewhat for the integras -lrb- excerpt -rrb- ii -rrb- procedure for upgrading main fw on the unit : connect the rs232 port of your pc to the receiver -lrb- unplugged -rrb- rs232 port by using a rs232 straight cable .
+keep unit unplugged .
+press tuning up button and in this condition you should plug the receiver in the ac outlet .
+you will see on the display &#8220; main update mode &#8221; .
+after this follow these steps .
+a -rrb- open &#8220; app_updater_xxx &#8221; folder and double click on &#8220; update.exe &#8221; .
+you will see following gui .
+b -rrb- check the com port .
+it should be same as the rs232 port of your pc connected to your receiver -lrb- usually com1 -rrb- .
+c -rrb- click on &#8220; main update &#8221; button beware : anyone with an `` audyssey pro '' installation : the original update routine by onkyo/integra of the `` dsp '' firmware is at fault , not the update firmware itself , deleting all your -lrb- costly -rrb- `` audyssey pro '' settings .
+be prepared therefore , to call in the audyssey installer again afterwards !
+i told you so ... this holds true for the `` normal '' audyssey parameters too .
+your personal settings will be erradicated running the update routine of the `` dsp '' .
+... and you will not have the opportunity to save anything .
+a hardware reset is recommended strongly in any case to get the new firmware properly initialized .
+audyssey should also be rerun after the update , because some things might have changed .
+note : audyssey has stated in the meantime , that nothing has changed in this firmware release with respect to the audyssey implementation -lrb- but one never knows ... onkyo might have done something -rrb- hardware reset : the av receiver contains a microcomputer for signal processing and control functions .
+in very rare situations , software `` bugs '' , severe interference , noise from an external source or static electricity may cause it to lockup .
+in the unlikely event that this happens , unplug the power cord from the wall outlet , wait at least 5 seconds , and then plug it back in again .
+note : this might take care of some strange behavior of your unit , like malfunctioning of the muting .
+initialisation -lrb- `` clear '' -rrb- : to reset the av receiver to its factory defaults , turn it on and , while holding down the -lsb- vcr/dvr -rsb- button , press the -lsb- standby/on -rsb- button .
+&#8220; clear &#8221; will appear on the display and the av receiver will enter standby mode .
+all personal / individual setting will be cleared and replaced by factory default setting .
+note : this will make you lose all your individual settings .
+onkyo / integra has indicated , that the following method saves settings `` permanently '' -lrb- not on the `` dsp '' update -rrb- .
+note : it has been reported , that saving your settings , will not survive the dsp firmware update procedure !
+be prepared to redo everything .
+so write down your setting before updating the unit !
+note : update 1.09 contains a form -lrb- pdf -rrb- just for this .
+1 -rrb- to store settings -lrb- must be done first , otherwise the recall will not have anything to recall -rrb- : turn the unit on .
+from the front panel - push and hold `` setup '' , then push `` enter '' .
+the unit will display `` setup store ? ''
+, still holding `` setup '' push `` enter '' again and the unit will display `` setup storing '' , then it will display `` complete '' and thus the procedure is complete .
+i would advice anyone to do this after a successfull setup / audysseys calibration , to preserve this for a later recall .
+2 -rrb- to recall settings : turn the unit on .
+from the front panel - push and hold `` setup '' , then push `` return '' .
+the unit will display `` setup recall ? ''
+, still holding `` setup '' push `` return '' again and the unit will display `` setup recalling '' , then it will display `` complete '' and thus the procedure is complete .
+color space switching : note : originally posted by rickardl .
+discovered on a 876 .
+not sure if this has been mentioned here ... on the front panel , press down `` hdmi out '' and `` rt/pty/tp '' button -lrb- dimmer for us model -rrb- to bring up itu conversion -lrb- sd - > hd -rrb- on press `` rt/pty/tp '' to toggle on/off .
+the `` infamous '' eeprom error : several users , who did n't follow the recommended update path = > 1.05 / 1.04 -lrb- depending on model -rrb- then to the newest , got that infamous eeprom / e2prom error -lrb- others might have , too -rrb- .
+different solutions where suggested from user experience for this issue : a -rrb- go back to main firmware 1.05 / 1.04 and then go to the latest 1.09 / 1.08 -lrb- onkyo / integra recommended update sequence -rrb- .
+b -rrb- reflash / rewrite -lrb- retry -rrb- with the same firmware version up to three times , before giving up .
+c -rrb- do a hardware reset , then a software reset -lrb- `` clear '' -rrb- as described in the manula , afterwords a -lrb- not in the manual -rrb- `` store settings '' as described in this post .
+if all this did n't help , you probably should see your regional onkyo / integra service point for a cure .
+i found an interesting post in another thread here , which might get rid of this problem , which many have experienced : note : others having the same problem had to get one of the chips exchanged due to hardware failure / defective chip .
+quote : michael carey how i cured my e2prom error problem hi everybody , i posted this in the integra dtr-8 .8 thread , but i thought i would add it here as well .
+i 've spend the last 24 hours testing various firmware update procedures and i think i found a cure for the power failure e2prom error message on my dtr-8 .8 .
+i 'm not sure if this will work with other integra/onkyo models , i hope others out there can try this out and report back .
+after the main unit firmware update , you get a complete message on the display , then clear appears and then the unit goes into standby .
+i found that this does n't completely clear the receiver , i found that network settings & internet radio stations remain intact after a firmware update ... so the next thing to do is a full factory reset by pressing and holding the `` vcr/dvr '' button on the front panel down and then pressing the `` standby/on '' button .
+this clears everything !
+now , before you get too carried away with getting all your settings back to how you like them ... do this .
+on the front panel , press and hold the `` setup '' button and press the `` enter '' button .
+`` setup store ? ''
+will appear on the display .
+while still holding down the `` setup '' button , press the `` enter '' button again .
+you will then see `` setup storing '' on the display .
+i found this was the magical step that made the dreaded e2prom error go away .
+until i completed the setup store , virtually every time i pulled the plug on the receiver , i would get an e2prom error message upon restoration of power and my settings would vanish .
+i found this only needed to be done once , right after the full factory reset .
+even after changing settings on the receiver , it would still remember what i had changed , even if i did n't do the `` setup store ? ''
+procedure afterwards .
+my theory is that the `` setup store '' somehow formats the e2prom memory to the requirements of the newly flashed firmware .
+i would be very interested to see if others plagued with the e2prom error message has any luck with the above procedure .
+color space bug it has been mentioned -lrb- and measured -rrb- by several users , that there is an issue with the way onlyo / integra have implemented the reon vx hqv - used in the 875 / 905 models - leading in some situations to mapping errors in the color values displayed .
+here are two links to the resulting mapping errors to be expected in these cases : color space bug examples 1 color space bug examples 2 remember : if you are unsure , what all those infos or technical details mean or what you are doing ... do n't do it !
+get professional advice , before you brick -lrb- damage -rrb- your unit .
+but ... i have n't heard of any problems looking through hundreds of posts on different threads -lrb- up to now -rrb- as long as you follow the instructions and advice supplied .
+the update routines are reasonable `` fault tolerant '' .
+you may revert to an older firmware anytime , if needed , in any case .
+no guarantees whatsoever !
+i do not suggest or advice anyone , to install anything or make use of it .
+i am not connected or affiliated with onkyo/integra in any way .
+do n't hold me -lrb- or onkyo/integra or anyone else -rrb- responsible for anything you are doing .
+you are on your own , as always ... take care ... and have fun .
+<< bump this one up , if you use the downloads or profit from this thread , so others may find it without searching ps. : just added some pictures about a cooling solution for the 905 , which should work on other units as well -lrb- dscfxxxx_800 .
+jpg -rrb- .
+this one allows placement of other units on top of the 905 and hides underneath those units -lrb- fans : http://www.buy.com/retail/product.as...48527&ref=lmcd -rrb- !
+my favorite fans -lrb- 120 mm -rrb- are the noiseblocker m12-s1 units .
+8dba @ 750 rpm @ 12 vdc .
+inaudible even listening closely .
+noise level is certified by the german t?v institute . .

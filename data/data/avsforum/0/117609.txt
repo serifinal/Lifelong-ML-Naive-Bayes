@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>How do I set this up?</Title>
+		<Username>newtothis2</Username>
+		<Datetime>07-15-08, 11:43 AM</Datetime>
+		<Content>I want to hook up two small bookshelf speakers to my receiver. The speakers in the garage and the receiver in the living room. I want the garage speakers to be able to be on without having the living room surround sound on, and vice versa. Can this be done easily? What are my options? The receiver is a sony model# STR-DE445.</Content>
+	</Post>
+</Thread>

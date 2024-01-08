@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>continuous shooting help!</Title>
+		<Username>pito</Username>
+		<Datetime>04-09-2010, 07:49 PM</Datetime>
+		<Content>I just bought a canon eos rebel T1i. I cannot set up the continuous shooting mode. The menu on the lcd screen only gives me the options of single shooting or timer... What am I doing wrong?</Content>
+	</Post>
+</Thread>

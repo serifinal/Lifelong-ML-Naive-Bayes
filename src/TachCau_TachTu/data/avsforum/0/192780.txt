@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Newbie needs some help - opinions Polks and what sub?</Title>
+		<Username>haeffnkr</Username>
+		<Datetime>05-06-08, 10:13 PM</Datetime>
+		<Content>Hello, I have my basement walls up with my wires run for the projector and speakers. I am putting speakers in the wall for front and center speakers, about head high when sitting. I am putting speaker in the ceiling for the rears and sides. I plan on buying an Onkyo 605 receiver but am not sure about speakers. I have stumbled on the Polk RCI series - there are some, what I see as, good deals on Amazon for some rc85i rectangle speakers - for front left, center and center, they have some rc80i, round speakers for side and rears. The rounds are 123 with free shipping and fronts rectangle ones are 224 shipped, both prices per pair. I am not an audiophile - I just want something that sounds decent and does not cost a lot. I have no idea on what sub to get. So please give me some opinions on these speakers and what sub to get that sounds decent but does not cost a bunch. Folks on Amazon seem to like them, has anyone here used them? thanks Kevin</Content>
+	</Post>
+</Thread>

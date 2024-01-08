@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Lip sync issue on LG 50PK950</Title>
+		<Username>niemion</Username>
+		<Datetime>13-05-2011, 6:06 PM</Datetime>
+		<Content>I've just received a LG 50PK950 and have discovered lip sync problems. I'm using the TV's own built-in speakers, and I have observed the problem with cable tv, both with the analog and digital tuner. I have the same issue with cabled network playback trying with a wide variety of file types. The audio is ~0,5 seconds early. Is there any menu option where I can delay the audio? If not, what can I do?</Content>
+	</Post>
+</Thread>

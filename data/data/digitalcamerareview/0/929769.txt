@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>S3 IS Problems</Title>
+		<Username>jtom</Username>
+		<Datetime>01-27-2007, 04:26 AM</Datetime>
+		<Content>I am having a few potential issues with my camera. -When I move the camera when its off, I hear a sound as if there is a loose screw rolling around inside. Could it be something else? -When the camera is on and I am zooming I hear this flickering sound. I think it might be the auto focus adjusting. Any ideas? Bear in mind this is my first digital camera so I am not familiar with the usual sounds of a digital camera. Thanks alot</Content>
+	</Post>
+</Thread>

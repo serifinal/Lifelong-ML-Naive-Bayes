@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot S2 can't format card</Title>
+		<Username>glasslass2</Username>
+		<Datetime>07-17-2011, 04:22 PM</Datetime>
+		<Content>Just bought a used Canon Powershot S2 off E-bay. I'm trying to format the memory card. When I scroll through to select the "format" mode, it is blacked out and I can't select it. I've tried two different cards, one a universal and one a Canon (from previous camera) and neither will work. Did I just get screwed or am I missing something?</Content>
+	</Post>
+</Thread>

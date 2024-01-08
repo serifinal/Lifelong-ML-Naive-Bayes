@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 46GT30 Streaking?</Title>
+		<Username>stanleyfox69</Username>
+		<Datetime>16-12-2011, 11:26 AM</Datetime>
+		<Content>Hi Guys, Just bought a 46" GT30 and when turning this on I can see some horizontal streaking across the screen. I attach a couple of photo's trying to indicate this streaking. It only appears for a couple of minutes when i first turn this on. However, last night, it did not appear?! Which was a welcome relief! https://picasaweb.google.com/1068328...85626002932834 https://picasaweb.google.com/1068328...85619586733570 I bought this set from Richer Sounds in Watford, and have the 5yr guarantee, should i return this? Or is this just a teething problem with a new set? Please advise!!!! Cheers</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>About to start construction - need input - New Build Thread :)</Title>
+		<Username>Fiddler</Username>
+		<Datetime>12-22-08, 12:58 PM</Datetime>
+		<Content>OK so I've posted a little about my proposed HT in the past but now it's looking like reality with demolition to start within the next month or so (i hope). in any case. the room is 23' x 11' x 6'8" (yeah). I would like to put in 2 rows of seating and make the screen as big as comfortably possible. I have a few concerns. 1 - 11' isn't that much to stick a 3 seat berkeline and still have room to walk around it. 2 - a riser for a second row would have to be tiny so people don't hit their heads on the ceiling but I still want it to be tall enough so they can view the screen comfortably - suggestions?? 3 - Again, due to ceiling height (and also due to a sewer pipe rinning in the back of the room), I plan on mounting all equipment/PJ behind the rear row. sacrificing about 2' of length from the room. 4 - there's a bunch of HVAC stuff running just outside the room - I do plan on making the room as quiet as possible (rsic clips, green glue, double sheetrock, solid door) but am stil concerned - especially with vents / registers - can any of you point me to a good source of registers/vents/workarounds to quiet these down? Do any of you see any potential issues/problems with equipment being right behind your head? (noise, heat, remote sensitivity, length of speaker runs to the fronts) Thank you all - will update this thread as more news happens and as layouts / pictures surface. thanks again!</Content>
+	</Post>
+</Thread>

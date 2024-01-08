@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon S5IS</Title>
+		<Username>CBNJ</Username>
+		<Datetime>06-21-2008, 08:24 PM</Datetime>
+		<Content>Anyone have one? If so, how much did you buy it for and do you like it? Thanks.</Content>
+	</Post>
+</Thread>

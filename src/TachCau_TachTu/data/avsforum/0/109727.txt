@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Center speaker advice</Title>
+		<Username>elj</Username>
+		<Datetime>01-03-09, 03:40 PM</Datetime>
+		<Content>Quick question regarding center speakers. I have an offer of accepting either a BIC America DV-62CLRS 6-Inch 2-Way Center Channel, or a RBH AC52 center channel speaker, at the same price (namely the same price as the BIC). Which should I take?</Content>
+	</Post>
+</Thread>

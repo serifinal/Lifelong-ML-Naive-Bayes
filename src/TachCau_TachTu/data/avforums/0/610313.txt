@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bought a Samsung PS43D490....</Title>
+		<Username>AngryDog1981</Username>
+		<Datetime>26-01-2012, 6:35 PM</Datetime>
+		<Content>Looks very nice, got it for £485 with 5 years warranty, 4 pairs of glasses and megamind 3d on blueray, just need a 3d blueray player lol. Oddly though, my router has sat next to the tv for months with no problems, but when I turn on the tv it makes it disconnect from the Internet lol</Content>
+	</Post>
+</Thread>

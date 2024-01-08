@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone 4 Pre Order. Will you have it shipped or pick it up at the Apple Store</Title>
+		<Username>lelety</Username>
+		<Datetime>06-08-2010 02:24 AM</Datetime>
+		<Content>I was wondering what will you do? Ship or pick up? I know if they ship you should get it by the 24th anyway.</Content>
+	</Post>
+</Thread>

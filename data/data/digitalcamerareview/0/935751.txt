@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Best Camera for Concert Photos</Title>
+		<Username>yesdadusa</Username>
+		<Datetime>09-14-2010, 08:51 AM</Datetime>
+		<Content>Hi, my name is Paul (nickname yesdadusa), I am new here and have a question for all you experts: I own a Canon Powershot SX10 -ls- and would like to know (in detail) what the best settings are for taking concert pictures? Can anyone 'enlighten me on this? Thanks and 'See Ye'</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Fido Unlimited Canada Data Plan (available June 16th)</Title>
+		<Username>kekko</Username>
+		<Datetime>05-30-2010 02:23 PM</Datetime>
+		<Content>If you're looking for Truly Unlimited Canadian 2G/3G Data, this is what you want. Plan details: - Retention voice plan with no minutes and no SAF @ $10 per month - Grandfathered GPUNL (Unlimited GPRS) @ $50 per month Plan has an associated contract until the end of February, 2013 If you want to get a voice plan to go along with it, you could change the $10 voice to something more appropriate. As it sits, it's ideal for an air card or air card/router combo with no overage charges. In the past I have used well over 40 GB in a given month without issue, so this is a great plan for anyone serious about wireless data. Note: Any offers made should be above $300. Yes, this plan is transferable as of May 10, 2010. See http://www.howardforums.com/showthread.php?t=1643487 for more information.</Content>
+	</Post>
+</Thread>

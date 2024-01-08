@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>0defaced</Username>
+		<Datetime>03-01-2011 07:35 PM</Datetime>
+		<Content>"I understand you don't like Wind but don't start making statistics like wind has a 40% drop rate." I didn't "make" anything. WIND launched with those stats within their company walls. 60-40, good enough. Mobi launched with 98.5%.....good things happen to those who wait windy</Content>
+	</Post>
+</Thread>

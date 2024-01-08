@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Boost Mobile Adds More Cities to International Connect Add-On</Title>
+		<Username>Mackdad</Username>
+		<Datetime>07-14-2010 07:24 PM</Datetime>
+		<Content>http://www.phonenews.com/boost-mobil...-add-on-11743/ Things are heating up on the international calling.</Content>
+	</Post>
+</Thread>

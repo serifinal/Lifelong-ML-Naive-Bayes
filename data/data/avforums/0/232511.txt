@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Gt30 or bdt110 and 3d mkv sbs? - anyone these to work from usb</Title>
+		<Username>jaspain</Username>
+		<Datetime>28-01-2012, 9:43 PM</Datetime>
+		<Content>Hi I have a gt30 and also a bdt110 3d blu ray player however I can't get my USB hdd formatted to exfat to be recognised in either device to play a 3d sbs mkv file? Am I doing something wrong? Thanks Jason</Content>
+	</Post>
+</Thread>

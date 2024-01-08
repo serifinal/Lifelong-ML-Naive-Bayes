@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>DaLite "JKP Affinity" HD Progressive and Enhanced Matte White screens</Title>
+		<Username>Josh Z</Username>
+		<Datetime>09-12-08, 09:44 AM</Datetime>
+		<Content>Just wondering if anyone had any information about these Joe Kane-endorsed screens that DaLite was showing off at CEDIA. What is the benefit of these in comparison to some of DaLite's similar products? Thanks!</Content>
+	</Post>
+</Thread>

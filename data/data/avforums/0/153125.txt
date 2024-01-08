@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Tv's and BBC HD flashing problem</Title>
+		<Username>Nibbo68</Username>
+		<Datetime>06-04-2011, 10:27 AM</Datetime>
+		<Content>After having just bought a PS51D6900 I'm experiencing a blink on BBC HD due to the fact that the BBC have just started using variable encoders to transmit programs with on BBC HD only. This means that programs are flicking between 1080i and 1080p during the course of a program. This should not cause a problem, however, on my set and I believe it will be on many Samsung sets, it's causing a black screen for a second or so everytime it changes. If anyone else with a Samsung set has started experiencing this problem in the last 2 weeks, please say what set you have so we can see if this is a common problem or just affects the newer 2011 sets. This only affects BBC HD on Freeview, no other channels and not on Freesat, Sky or Virgin</Content>
+	</Post>
+</Thread>

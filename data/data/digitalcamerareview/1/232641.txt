@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>macro camera suggestion</Title>
+		<Username>dcerulli</Username>
+		<Datetime>04-14-2010, 09:36 AM</Datetime>
+		<Content>I have the Canon 5dMII but want a new compact camera with macro capability to photograph small minerals in my collection. I am inclined toward the G11 but wondered if there is a better camera for close up work</Content>
+	</Post>
+</Thread>

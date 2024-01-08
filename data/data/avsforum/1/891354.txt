@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samy A650 or Sony W4100</Title>
+		<Username>mwang168</Username>
+		<Datetime>12-12-08, 09:28 PM</Datetime>
+		<Content>Time to get a 52" LCD for Xmas for myself. Which one should I get? I went to store and I like them both. Any comments? Thanks.</Content>
+	</Post>
+</Thread>

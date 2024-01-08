@@ -1,0 +1,7 @@
+fixing overscan on lg 32lc7d .
+my set seems to have a bit of overscan , more noticeable on some channels -lrb- hd cable -rrb- than others .
+noticed during the election , that some of the outermost numbers shown on nbc-hd were cut off , and i 've noticed text that is close to the edges of the screen may be truncated , although most everything else looks okay and not too obvious .
+i know how to get in the service menu , but did n't see anything that looked like an adjustment for overscan .
+is that even adjustable on this set ?
+i can live with it , but i 'm a geek and like to get the best from my `` toys . ''
+many thanks .

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 50Hz Bug On 2010/11 Range Of Plasmas.</Title>
+		<Username>tele1962</Username>
+		<Datetime>03-04-2011, 7:38 PM</Datetime>
+		<Content>As there is so much discussion about this problem i think it maybe deserves it's own thread. So fire away.</Content>
+	</Post>
+</Thread>

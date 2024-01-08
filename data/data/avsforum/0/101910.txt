@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>kenny_dope</Username>
+		<Datetime>09-19-08, 12:03 AM</Datetime>
+		<Content>I have a SONY HDR-V1 and have been using it with no problems on my 17" Macbook Pro 2.4Ghz (10.5.4) for almost two years now. Just recently, in the last few weeks I've noticed everything I've recorded (and transferred to my MBP) has shown severe pixelation and artifacts whenever there is sudden or fast movement or panning with the camera. Artifacts also show up when there is a bright flash of light. These issues do not show up while recording and it only appears to be in playback. I've updated OSX to all latest updates and am using Final Cut Pro & OS X Leopard 10.5.4. What I'm getting at here is; is the camera ****ed? Its a year out of warranty and I know Sony are gonna hit me where it hurts to fix this... Below is a screenshot I took of the issue:</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>need information on Canon PowerSD870</Title>
+		<Username>arunbijapur</Username>
+		<Datetime>08-23-2008, 09:08 AM</Datetime>
+		<Content>Hi All, I have canon powershotSD750 which is perfect in use and images. Additionally I am thinking to buy canon powershotSD870IS model. Can any of you help me in understanding whether the SD750 model battery fits into SD870IS model. Waiting for your reply. Thanks a lot. Arun, India</Content>
+	</Post>
+</Thread>

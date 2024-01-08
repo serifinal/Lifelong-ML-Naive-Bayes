@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Has anyone designed a masking system with 'Flaps' that rotate 180 degrees?</Title>
+		<Username>gnolivos</Username>
+		<Datetime>09-02-08, 08:22 AM</Datetime>
+		<Content>Searched and seems no one has done this... Has anyone designed a masking system with 'Flaps' that rotate 180 degrees? I think this would simplify the solutionn a lot compared to other ideas I have seen. It will be a fixed masking though if you consider that the flap is either on or off (with no 'in between') althugh this may work with only incremental rotations of the flaps as well... I imagine a flap on top and below the screen. For masking, the flaps would rotate 180 degrees and mask the screen... here is the idea illustrated:</Content>
+	</Post>
+</Thread>

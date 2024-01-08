@@ -1,0 +1,13 @@
+120hz tvs can only do 5:5 pulldown to 24p , right ? .
+some people say that samsung 120hz lcd tvs take 24p signals from new blu-ray players , and apply 3:2 pulldown to make it into a 60hz signal , then multiply by 2 to get 120hz .
+as opposed to performing 5:5 pulldown on the 24p signal -lrb- just repeating each frame 5 times , at 1/120th of a second each ... which for lcds means that each frame lasts for 5/120th of a second -rrb- .
+now , i just do n't understand how a 120hz tv could do anything but 5:5 pulldown on 24p input ! '
+3:2 pulldown detection ' is different from ' 3:2 pulldown ' ... the latter is the telecine process used to convert 24fps film to 60i dvds .
+progressive scan dvd players took the 60i on dvds and , with ' 3:2 pulldown detection ' , locked onto the 3:2 cadence and reconstructed the progressive scan images , feeding those to an hdtv -lrb- but still at 60hz -rrb- .
+for those of you that think that a 120hz tv would take 24p content and then apply 3:2 pulldown to it to get to 60hz , then multiply by 2 , what on earth makes you think that a tv even has a chip in there to do 3:2 pulldown ?
+no tv should ever have to perform 3:2 pulldown -lrb- telecine -rrb- b/c that 's what dvd manufacturers do when they take the film and convert it to video .
+why would any tv ever need to convert film to video , when only recently do we even have sources -lrb- the latest blu-ray players -rrb- that can actually output 24p ?
+i ca n't understand why any tv would even have a chip in there to convert 24hz to 60hz ... given that no source even existed to feed tvs 24p , up till now with the newest blu-ray players !
+which would then indicate that any 120hz tv should , by default , do 5:5 pulldown .
+which would also indicate that no 60hz tv out there exists that can accept 24p input ... i may be wrong on that one , in which case my entire argument falls apart .
+rishi

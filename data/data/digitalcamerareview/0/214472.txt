@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PowerShot S2 does not turn on</Title>
+		<Username>Tony987</Username>
+		<Datetime>01-23-2009, 07:45 PM</Datetime>
+		<Content>Well, my Canon PowerShot S2 suddenly doesn't turn on. Batteries are re-charged and when turn on it remains without electricity. What could be the problem? Note: It worked last night and there was no accident of any sort... Thank you, Tony</Content>
+	</Post>
+</Thread>

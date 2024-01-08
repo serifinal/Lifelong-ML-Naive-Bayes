@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TH42PZ82B Plasma - is my set faulty?</Title>
+		<Username>B1nty</Username>
+		<Datetime>13-08-2008, 7:01 PM</Datetime>
+		<Content>Hi all, This is my first post so be nice! I have recently bought this TV after doing some research on this forum. However, I have found that during DVD and blu-ray playback the blacks can be very patchy and at times look alomost very dark red which seems to be the opposite of what other people have said about this screen (or the PZ80B). Also, if the film happens to have bright flashing lights then my screen makes a popping/crackling sound during the flashes. I am assuming that this is not normal! If anyone has any advice or knows anything about this it would be appreciated. Oh, and FYI I am using my PS3 for both blu-ray and DVD using HDMI. The display has the same issues for games too. Thanks in advance!</Content>
+	</Post>
+</Thread>

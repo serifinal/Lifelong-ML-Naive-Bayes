@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best center speaker to go with Klipsch Hersey III's?</Title>
+		<Username>juicyj</Username>
+		<Datetime>07-16-08, 02:32 PM</Datetime>
+		<Content>Ok so i have decided to purchase the klipsch hersey III's and sell my existing systme. My question is what would be the best center to use with the Hersey III's? I cant go with another Hersey III for lack of space.</Content>
+	</Post>
+</Thread>

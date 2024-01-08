@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon a100IS making noises</Title>
+		<Username>jm7691</Username>
+		<Datetime>12-10-2009, 11:00 AM</Datetime>
+		<Content>Hello, I just purchased an CANNON A1100IS and I am noticing it making noises when I move the camera around. It sounds like a whirring sound one after another almost like a focus motor or something and it also makes clicking noises alot. I notice this most when camera is set on IS continuous. and in Auto mode Is it normal in IS cameras to hear all these noises, I mean you can almost hear everything this camera is doing. I have an A560 and it makes no noises except when zooming. Just trying to figure out if this is normal for canons with image stabilization or if something is wrong with it Any help would be greatly appreciated! THANK YOU</Content>
+	</Post>
+</Thread>

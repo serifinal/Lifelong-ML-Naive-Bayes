@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>TX-P42GT30B DLNA playback stops while fast forwarding</Title>
+		<Username>feno</Username>
+		<Datetime>12-12-2011, 8:51 AM</Datetime>
+		<Content>Very happy with my new Gt30 but I have noticed this issue. While watching a some films through My NAS (readynas NV+) and fast forwarding the TV will jump back to the menu explorer, the films are 1080p Mkv converted to mpeg using mkvtompeg. This issue doesn?t occur when streaming through my ps3 to my projector so I am assuming it is the TV not being able to keep up with fast forwarding an HD file?? The file size is 8GB and over. I haven?t tried a normal MKV as I convert to mpeg for the playstation. Has anyone else had an issue like this or know how to resolve it. Let me know if you need more info. cheers</Content>
+	</Post>
+</Thread>

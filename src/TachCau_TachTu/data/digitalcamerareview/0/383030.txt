@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Am i using my camera right? Canon Powershot 410</Title>
+		<Username>Bubble</Username>
+		<Datetime>06-21-2008, 09:21 AM</Datetime>
+		<Content>I have a Canon Powershot 410 digital zoom 11X and I don't; think I am using it to its full potential. I take a lot of photos of my nieces and nephews and because they cant stay still for longer than a minute I find it hard to get good photos of them? I also take pictures at weddings and find that when in the Church my pictures come out dark and blurry. I also go to a lot of concerts and like to take shots but my close up shots are dark and blurry. the camera is a 4 mega pixel and it will take out door photos very well but indoors I am struggling. I normally have it set at auto? should I change that? should I turn of the digital zoom? I have it set at superfine - is that correct? I have the AF- Assist Beam turned on - should it be turned off? what should the ISO speed be at? I would be very gratefully if someone that understands Digital cameras could help me please</Content>
+	</Post>
+</Thread>

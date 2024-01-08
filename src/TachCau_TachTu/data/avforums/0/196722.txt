@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pana TXP42S30B for gaming</Title>
+		<Username>marshalled</Username>
+		<Datetime>23-07-2011, 8:21 AM</Datetime>
+		<Content>Got the above on order, due for delivery next week. Bought this on the back of my brothers TXP50S10B excellent motion rate on games via PS3. Any one have any comments on this model for gaming?</Content>
+	</Post>
+</Thread>

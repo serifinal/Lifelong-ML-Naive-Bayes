@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS50A457</Title>
+		<Username>rich5wolves</Username>
+		<Datetime>14-04-2008, 12:18 PM</Datetime>
+		<Content>Hi all, Just a question if anyone knows anything about Samsungs PS50A457. I know it comes out this month and I have been told its 100htz. Thats all I know. I had ordered the PS50Q97 but the shop I bought it from said they could not order in any more as its discontinued. I was then offered a PS50C96. I called Samsung and they told me the C range is lower spec than the Q. I then asked about the A range and sales staff didnt have any specs at all for the A457, just it was coming out this month. The shop say it is higher spec and costs more but if I dont cancel they will do it at the same price as the Q97. Anyone got any info on the new machine??</Content>
+	</Post>
+</Thread>

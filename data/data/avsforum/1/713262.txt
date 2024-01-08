@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Arcsoft Totalmedia Theatre - MCE Decoder Problem</Title>
+		<Username>stricko</Username>
+		<Datetime>09-08-08, 03:51 AM</Datetime>
+		<Content>Hi, I've just rebuilt my HTPC from scratch, and as I'm looking at a blu-ray upgrade in the near future, I'd thought I'd give Totalmedia Theatre a try instead of PowerDVD, as it has an MCE plug-in for blu-ray. It's an old box, with a P4, not enough memory etc, but it's been working fine. I had some sort of corruption, so I thought I'd do a complete Windows MCE re-install. Everything went OK (apart from the fact that you can't install WMP11 after you've installed SP3. Backing SP3 out seemed to be causing more problems, so I started again and installed WMP11 before SP3...). So I installed TotalMedia, including a sizeable update, and then fired up MCE expecting it to use the Totalmedia codec. But nothing, even the speaker set up failed, due to there being no decoder. Same problem in WMP11 (although it said that there may be a problem with display colour/resolution!). Tried TMT in standalone mode, and no problem, played fine. I thought it might be a sequence problem so I uninstalled, re-installed, rebooted etc etc. but still no joy. Finally I installed PowerDVD6., and it all worked fine. ANybody had any similar experiences with TMT?</Content>
+	</Post>
+</Thread>

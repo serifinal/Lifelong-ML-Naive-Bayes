@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS51D6900</Title>
+		<Username>Nibbo68</Username>
+		<Datetime>29-03-2011, 3:59 PM</Datetime>
+		<Content>Just picked up my PS51D6900 from Simply Electricals today. Very good service from James in the retail shop. I phoned up Sunday enquiring about stock and he told me that 2 were due in on Monday and he'd phone me on Monday morning to confirm. I thought that he wouldn't phone me but he did and put one to one side for me to collect today. So far really pleased with the set. Have only put it in movie mode to begin with but picture is a lot cleaner and has more natural colours than my faulty LG PK990. Have not seen any IR which was bad on the LG and no line bleed or dirty screen effect which the LG suffered from. Blacks are very respectable but not stunning, maybe it will improve when I get round to calibrating it properly, but I'm overall happy with black level, shadow details are very good. No 3d glasses in box and shop not getting any until later in week so cannot test that yet. PVR function works a treat and the Smart Hub looks good although I haven't really looked into it yet. No BBC iPlayer on it yet though, i think that's coming online very soon though. Just keeping my fingers crossed that there's no blinking. Nick</Content>
+	</Post>
+</Thread>

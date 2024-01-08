@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon battery charger in Europe</Title>
+		<Username>jakalapa</Username>
+		<Datetime>06-06-2008, 09:21 AM</Datetime>
+		<Content>Will the charger that came with my new SD1100 IS (CB-2LV G) work in Europe with a plug adapter?</Content>
+	</Post>
+</Thread>

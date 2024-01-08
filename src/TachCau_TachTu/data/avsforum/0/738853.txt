@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>6 or 8 seats - what do you think?</Title>
+		<Username>Andy238</Username>
+		<Datetime>08-18-08, 05:18 PM</Datetime>
+		<Content>Hey all, I'm at the riser construction point and I don't know which way to go. I originally was hoping to get 8 seats (Berk 088s) in the theater but now I'm wondering if I'm trying to squeeze too many seats in. I'm wondering if 6 seats would be better. The theater is 141 inches wide column-to-column and 156 inches wide wal-to-wall. The attached layout shows the two seating configurations and the aisle widths I'd be left with. Although I'd love to get 8 seats in there, would it be better with only six? What do you guys think? Thanks, Andy</Content>
+	</Post>
+</Thread>

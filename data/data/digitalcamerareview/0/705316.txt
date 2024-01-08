@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T2i question - AF won't engage in Movie until pressing shutter</Title>
+		<Username>hsc121</Username>
+		<Datetime>01-12-2011, 01:43 PM</Datetime>
+		<Content>I just got T2i. I thought once enabled AF in the movie mode, the AF function should automatically adjust when object distance changes just like a normal camcorder does. But it's not. AF won't engage unless you press the shutter button half way. If you change object and need to refocus, you have to press the shutter button half way again to auto refocus. I called Canon tech support and he said that's normal. He said it's better to adjust focus manually. How's your T2i or other Canon camera's AF work in movie mode? Thnak you for your feedback.</Content>
+	</Post>
+</Thread>

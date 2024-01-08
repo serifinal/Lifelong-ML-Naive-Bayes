@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How fast is the radio on the 9800 torch?</Title>
+		<Username>nk7777</Username>
+		<Datetime>08-03-2010 01:05 PM</Datetime>
+		<Content>Is this a 3.6 or 7.2 HSDPA device?</Content>
+	</Post>
+</Thread>

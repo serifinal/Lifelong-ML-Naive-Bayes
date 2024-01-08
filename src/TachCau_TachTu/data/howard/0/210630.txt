@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>MT3G Tips & Tricks</Title>
+		<Username>Kolyan</Username>
+		<Datetime>08-06-2009 06:49 PM</Datetime>
+		<Content>Shouldnt we have this by now ? 1st tip: Reboot: "End key + Call key + Menu" 2nd: Android Power Saver Mode ------------------------- 1. Screen Brightness 10%-15% 2. WiFi = OFF 3. GPS = OFF 4. Auto-sync = OFF 5. Background Data Usage = OFF 6. Use only 2G Networks = YES</Content>
+	</Post>
+</Thread>

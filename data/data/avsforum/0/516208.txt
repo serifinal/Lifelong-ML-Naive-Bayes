@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Best way to create lossless DVD copy for PS3</Title>
+		<Username>mjfink</Username>
+		<Datetime>09-01-08, 02:59 PM</Datetime>
+		<Content>Sorry for the cross posting (I orginally put this in Video Download services, my mistake). I figure this is probably the right place to ask: I have a friend with a PS3 that would like to rip DVDs losslessly to a UPNP server for streaming to the PS3. I have tried a few things, and every time I get an "unsupported format" when playing the video on the PS3. If I re-encode to MP4 I can play the movies, but that takes hours and degrades the quality. HDD space is not a concern. Right now, what I know does not work is ripping into an AVI container with the AC3 audio and full res video. This works fine on my computer, and on my HTPC for lossless ripping, but the PS3 doesn't seem to be able to handle this kind of file. I am going to try AnyDVD to rip the movie (fully) to the HDD to see if that will stream to the PS3 correctly, however, I don't think it supports VOB files? I want to keep the movie in MPEG2 format; the supported MPEG2's for the PS3 are listed as .TS and .PS files (of which only one of them can contain AC3 audio). What is the best way to get from a DVD (or VOBs) to .TS or .PS? Again, I have everything working; if I encode to MP4 I have no problems. However, it takes about 10 mins to losslessly rip a DVD, and about 2 hrs to re-encode it to a format that looks much worse then what I started with. I really want to stay in the full res/full audio format of the DVD. Thanks for any help you can provide, I really appreciate it!!</Content>
+	</Post>
+</Thread>

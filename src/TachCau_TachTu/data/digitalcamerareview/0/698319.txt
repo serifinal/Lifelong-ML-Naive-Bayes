@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>View finder blurry</Title>
+		<Username>Logansdad</Username>
+		<Datetime>04-28-2010, 06:37 PM</Datetime>
+		<Content>I have a Canon SX 10. I was having someone shoot a picture for me, they said the view finder was blurry or out of focus. I thought it was just me, as I wear reading glasses, but sometimes not when I'm shooting pictures. I went through the settings, and couldn't find anything about the view finder. I reset the camera to the default settings, but it seems the view finder is still out of focus. Pictures come out fine and the LCD monitor is crisp and clear. Any suggestions, or has anyone had this issue?</Content>
+	</Post>
+</Thread>

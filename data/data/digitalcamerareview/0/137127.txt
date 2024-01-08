@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S3IS Flash not automatic?</Title>
+		<Username>Tanya Toohey</Username>
+		<Datetime>07-11-2007, 09:10 AM</Datetime>
+		<Content>I have updated to the Canon S3 from an S2. With the S2 the flash automatically popped up, but doesn't for the S3. Is there a setting I've missed? I have the camera set on Auto. Thanks</Content>
+	</Post>
+</Thread>

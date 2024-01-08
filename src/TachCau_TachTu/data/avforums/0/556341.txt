@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>TX-P42V20b - I'm not panicing yet</Title>
+		<Username>gwladok5</Username>
+		<Datetime>13-07-2011, 10:58 AM</Datetime>
+		<Content>Just taken delivery of the Panny TX-P42V20B to replace my Sammy LE40M87BD First impressions out of the box - disappointing. I know there's lots of messing about to come but the Sammy Sky HD pictures were better & there seems to be huge variation in picture quality across HD, SD & freeview Anybody have the link to a TX-P42V20B set up suggestions? Will keep you informed</Content>
+	</Post>
+</Thread>

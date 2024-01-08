@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>midwaymonster054</Username>
+		<Datetime>12-12-08, 08:16 PM</Datetime>
+		<Content>This might sound dumb but can anyone tell me how to move my direct tv DVR files to my PC</Content>
+	</Post>
+</Thread>

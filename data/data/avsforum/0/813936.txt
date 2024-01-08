@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does ANYONE have TMT working with Intel G35 ??</Title>
+		<Username>rdjam</Username>
+		<Datetime>05-13-08, 02:49 PM</Datetime>
+		<Content>As title asks, does ANYONE have Total Media Theater working properly with their Intel G35-based motherboard? By properly, I mean [without] "hacks" like replacing the Videorenderers with the Japanese versions... Arcsoft sems to feel that TMT works with the G35, and that they have improved compatibility in v 2.1.6.113 - YET I still can't get a picture on my P5E-VM HDMI motherboard, without resorting to hacks. At this point, I'm wondering if it's something about my configuration. If any of you are working fine with this, PLEASE post your configuration here.</Content>
+	</Post>
+</Thread>

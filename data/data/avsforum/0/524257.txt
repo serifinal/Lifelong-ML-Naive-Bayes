@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>"Ghostbusters" 1 & 2 Coming to Blu-ray.</Title>
+		<Username>King_David</Username>
+		<Datetime>07-23-08, 12:07 PM</Datetime>
+		<Content>Ghostbusters I and 2 are coming to BD October 21. I saw GB 2 on Universal HD last week and it looked pretty good considering the age.http://www.highdefdigest.com/news/sh...Comic-Con/1931</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>hdp203</Username>
+		<Datetime>05-10-08, 01:41 PM</Datetime>
+		<Content>Hi all, I currently have a pair of bose 701s(front and sub) and a pair of 301s(rear). I am going to replace my TV with a flat pannel. So I am looking to replace my speakers with a different set (small sizes). What are the best sets from $500 to $1000? Thanks, hdp.</Content>
+	</Post>
+</Thread>

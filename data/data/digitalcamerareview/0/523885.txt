@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot A95 pink pictures</Title>
+		<Username>jellicle</Username>
+		<Datetime>03-09-2010, 08:21 PM</Datetime>
+		<Content>Can anyone offer any insight into a problem with the Powershot A95 where anything white in the photo is coming out pink? This happens regardless of whether the picture is previewed on the camera or on a computer. I'm baffled! Thanks!</Content>
+	</Post>
+</Thread>

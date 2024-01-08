@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: 16gig Iphone 3Gs</Title>
+		<Username>kokothebear</Username>
+		<Datetime>11-08-2009 08:00 PM</Datetime>
+		<Content>looking for a 16 gig Iphone 3GS prefer unlocked. Must be in MINT 10/10 condition + all accessories included msg me lowest possible price. GTA deals only</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Dark City?</Title>
+		<Username>Chad Ferguson</Username>
+		<Datetime>04-01-08, 12:11 AM</Datetime>
+		<Content>Just curious when is this going to be released? It sucks that even IMDB has a run time for it for the past 3 months and no release! Thank you</Content>
+	</Post>
+</Thread>

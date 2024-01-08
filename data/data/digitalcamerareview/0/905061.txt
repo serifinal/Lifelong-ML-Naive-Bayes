@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S2 IS short battery life</Title>
+		<Username>kjb</Username>
+		<Datetime>08-02-2006, 11:18 PM</Datetime>
+		<Content>I've been trying out the Canon S2 IS. Being new to using more than a point and shoot camera I've been playing around with it and trying different things but have gone through batteries (4 AA at a time) rather quickly. I've changed them twice already in about two weeks. I have only been using the trial SD card which only holds about 10 or so pics so have been doing a lot of deleting. The book says I should average 130 shots per set of regular batteries (more if I would use rechargable) but I don't think I"ve taken near that many. Does anyone else go through batteries quickly? Does it eat more juice to delete than take pictures? Any suggestions or advice? THANKS!!!!</Content>
+	</Post>
+</Thread>

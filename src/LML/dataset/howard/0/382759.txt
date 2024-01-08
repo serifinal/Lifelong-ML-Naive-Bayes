@@ -1,0 +1,40 @@
+official unlock thread : bell canada - samsung galaxy s `` vibrant '' nam 3g .
+edit # 6 : i 'm no longer subscribed to this thread as it has fulfilled its purpose .
+this top post will not be kept up to date anymore .
+edit # 5 : do it yourself !
+bell 's gon na love this .
+there is an overall guide posted at xda : http://forum.xda-developers.com/show...55#post7776555 it requires you to root your phone -lrb- at your own risk ! -rrb-
+, copy a file to your computer and then either launch a windows .
+exe or examine it with a hex editor .
+this will produce an unlock code which you then bring back to the phone .
+several posters have confirmed this works for the bell vibrant .
+edit # 4 : success !
+http://forum.xda-developers.com/show...&postcount=588 the user rhcp0112345 on xda-developers -lrb- also the guy behind mrcellphoneunlocker.com -rrb- has developed an experimental method .
+it requires you to root your phone -lrb- at your own risk ! -rrb-
+, copy a file and send it to him .
+for a $ 35 fee he will use the information in the file to generate you an unlock code which will permanently sim-unlock your phone -lrb- even if you later lose root access -rrb- .
+several posters have confirmed that this method works .
+he is also planning to release an on-device app to hasten the process but it is n't ready yet .
+more to come ... edit # 3 : do not give money to unlockgenie for an unlock code to the i9000m .
+they have promised -lrb- and accepted money for -rrb- unlock codes , but nobody has actually received a code for the bell vibrant .
+it is reported that some customers are getting refunds .
+edit # 1 : i must emphasize that i do n't actually own a galaxy s and probably wo n't be buying one for reasons of the almighty dollar , but i started this thread to help everyone keep all the sim-unlocking facts together .
+if you send me a private message about this phone i probably wo n't have any answers for you .
+happy unlocking !
+edit # 2 : if you purchased an unlocked version from a source other than bell canada , please look at the box or the seller 's web site for the 3g/umts/hspa bands .
+if it says 850/1900/2100 then your phone will work fully on bell/telus/rogers / fido 3g and it 's applicable to this thread .
+if it says 900/1900/2100 then your phone is the international edition which does n't have both 3g frequencies you need for full coverage in canada - and it 's not applicable to this thread .
+there seems to be some concern over in an xda-developers thread that the bell galaxy s vibrant -lrb- which is actually a nam 3g version of the international edition with front-facing camera -rrb- will be very difficult to find sim unlock codes for .
+so let 's start this thread as a place to report : 1 -rrb- whether you were able to successfully obtain an unlock code - or not - and from which dealer .
+2 -rrb- which non-bell sim you tried in the phone after unlocking , and how well the phone worked on that network .
+i hope it 's not out of line for people to name the vendors here , but it would be useful knowledge for lots of forum users .
+if it reaches the point that bell vibrant codes are easy to obtain , then clearly this thread wo n't be needed anymore .
+update august 10th : no successful unlocks reported , but you can use a virgin mobile canada sim successfully .
+originally posted by davidhoeg you can use it with a virgin sim card .
+no unlocking required , i am currently using my virgin sim with this phone no problems at all .
+also croak over at xda reports : http://forum.xda-developers.com/show...2&postcount=21 i 'm a bell customer now , i own the 9000m , and was told when i called 611 that it was 30 days from my date of purchase , if , and only if i had service with bell for that entire 30 days , prepaid or postpaid .
+my `` unlock sim '' from unlockitnow.com came in today .
+it works , telus and at&t -lrb- prepaid -rrb- and vodaphone australia -lrb- prepaid -rrb- sim work in in my 9000m , and both my telus and bell sims work in my captivate .
+incoming , outgoing , call forwarding , 3g/hspa data all work on the bell and telus networks , obviously ca n't test the vodaphone , and the at&t only lets me use voice since it 's a prepaid .
+i got this sim card after sending them my imei unlock request for my captivate a few weeks ago -lrb- on july 22nd -rrb- and paying $ 14.00 .
+they did n't have codes , sent me this instead .

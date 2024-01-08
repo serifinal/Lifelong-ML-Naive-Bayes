@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: 16/32GB Black iPhone 3GS - For Telus or Unlocked</Title>
+		<Username>Jaeca</Username>
+		<Datetime>11-23-2009 09:48 PM</Datetime>
+		<Content>I'm still in a contract for Telus for another 2 years, but I really like to switch to the iPhone. I don't really care if its black iphone 3gs 16gb or 32gb, as long as it is compatible to Telus. I'm in Toronto. You can either call me 416 720 7677 or PM me. Jeremy</Content>
+	</Post>
+</Thread>

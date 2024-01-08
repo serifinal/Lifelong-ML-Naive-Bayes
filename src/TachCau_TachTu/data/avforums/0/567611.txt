@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma mount help desperately needed</Title>
+		<Username>bigwilli</Username>
+		<Datetime>17-06-2011, 8:50 AM</Datetime>
+		<Content>Hi all. I have a problem. I have spent loads on my pioneer tv kit and 5.1 system in the past and now a recent sofa purchase is causing me a lot of grief as it dominates the room in its current position and the wife is going nuts. My only option is to move the huge corner sofa into the corner of the room but this means there is no visibility of the TV. The wall directly opposite the TV has a radiator with pipes coming down through the wall and it would look crap on. This leaves me with only 2 options that I can see: Get a new wall mount for the TV and put it half way down the room against the right hand side. The mount would then need to be on some sort of very very powerful swivel that can take the weight of the 50" KRP and bring it about 2 foot out from the wall and at a 90 degree angle so that is faces the sofa unit. Or.... Mount it about 13 foot in the air behind an overhang half way down the room and have some sort of remote device that brings it down from the ceiling in front of the sofa. I have a hunch the second option is going to be huge money which I havent got but would have thought the first has potential. Any ideas on where such brackets exist that are good quality and who I can get to install it all at decent rates?</Content>
+	</Post>
+</Thread>

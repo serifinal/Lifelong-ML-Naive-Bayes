@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BNIB sealed Iphone 4 16GB - Rogers *quick sale</Title>
+		<Username>LanG</Username>
+		<Datetime>08-12-2010 10:56 AM</Datetime>
+		<Content>as the title implies price 780cad obo quick sale meet in scarborough</Content>
+	</Post>
+</Thread>

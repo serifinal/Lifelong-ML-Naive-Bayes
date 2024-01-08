@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Flashed Strom?</Title>
+		<Username>Kems518</Username>
+		<Datetime>10-12-2009 01:54 PM</Datetime>
+		<Content>So is it possiable to flash storms now? I knw last time i was on here there was talk about metro deleteing the esn numbers?</Content>
+	</Post>
+</Thread>

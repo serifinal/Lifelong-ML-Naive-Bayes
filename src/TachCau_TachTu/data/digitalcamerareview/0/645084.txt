@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon PowerShot A590</Title>
+		<Username>doctordubs</Username>
+		<Datetime>05-18-2011, 12:00 PM</Datetime>
+		<Content>Hey there everyone! Im new to the forums. I'm looking for some help with my Canon. If I could get some help, that would be awesome. I'm beyond frustrated. I document grows of medical marijuana. I take pictures every few days and update growth, resin production, color, etc.... I used to have a Kodak 5.0 It was MONEY!! It took great pictures every time. With this Canon, I am having a MUCH harder time. Pictures come out VERY dark, even with the flash on. When I take a "macro" shot, it's EXTREMELY blurry even when I'm motionless. The blur seems to be the main problem. I can not correct it no matter what. Can someone please help me out. I really want to like this camera, butI cant get good clear vibrant pics! Any help is greatly appreciated. Thanks! Doctordubs</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,25 @@
+choice of wood in interior door : ranking by density .
+i 've done quite a bit of google searching and these forums , and the general consensus is : `` buy solid wood door , no paneling if possible , and have it mounted on an exterior frame '' .
+that 's pretty easy .
+and then the next part makes it a bit more complicated : the greater the mass -lrb- i.e. density -rrb- the better the acoustical barrier .
+ok , cool .
+so of the 9 common woods interior hardwood doors are made of , which is the heaviest and thus best ?
+i believe `` white oak '' may be the heaviest , but here are the other common types .
+i 'm going to try and rank them based on the density ratings i found , but if someone has experience here with regard to mass and density of various wood types -lrb- does n't have to be with doors , persay , i 'd appreciate it -rrb- .
+to get technical , i perused this pdf : http://www.woodweb.com/resources/woo...dbook/ch04.pdf quote : the speed of sound in a structural material is a function of the modulus of elasticity and density .
+in wood , the speed of sound also varies with grain direction because the transverse modulus of elasticity is much less than the longitudinal value -lrb- as little as 1/20 -rrb- ; the speed of sound across the grain is about one-fifth to one-third of the longitudinal value .
+for example , a piece of wood with a longitudinal modulus of elasticity of 12.4 gpa -lrb- 1.8 ?
+106 lbf/in2 -rrb- and density of 480 kg/m3 -lrb- 30 lb/ft3 -rrb- would have a speed of sound in the longitudinal direction of about 3,800 m/s -lrb- 12,500 ft/s -rrb- .
+in the transverse direction , modulus of elasticity would be about 690 mpa -lrb- 100 ?
+103 lbf/in2 -rrb- and the speed of sound approximately 890 m/s -lrb- 2,900 ft/s -rrb- .
+the speed of sound decreases with increasing temperature moisture content in proportion to the influence of these variables on modulus of elasticity and density .
+the speed sound decreases slightly with increasing frequency and amplitude of vibration , although for most common applications this effect is too small to be significant .
+there is no recognized independent effect of species on the speed of sound .
+variability in the speed of sound in wood is directly related to the variability of modulus of elasticity and density .
+after a half-bottle of wine my eyes crossed trying to come up with a formula to plug those numbers in -lrb- i 'm fairly certain we 'd want transverse , as doors are n't mounted on their side -rrb- .
+so , with apologies to math majors , i looked up the modules of elasticity and specific gravity at 12 % moisture content , and plugged it into excel .
+here 's how the speed of sound worked out .
+wood `` modulus of elasticity at 12 % moisture content '' specific gravityspeed of soundwhite oak12 ,3000.688364 red oak12 ,5000.637875 walnut11 ,6000.556380 maple10 ,0000.575700 ash mahogany11 ,0000.495390 cherry10 ,3000.55150 alder9 ,5000.413895 white pine10 ,1000.383838 spanish cedar6 ,1000.321952 that 's pretty much in line with my experience working with amish furniture .
+the oak stuff is crazy heavy , maple is mid-weight , and cherry is beautiful and wonderfully light .
+ok , so i hope this is helpful to people .
+it pretty much confirms my instinct that an solid oak door is best for theaters , and a pine door -lrb- like you get at home depot -rrb- is least effective .

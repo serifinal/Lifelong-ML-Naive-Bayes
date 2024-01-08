@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Image retention</Title>
+		<Username>Lizzybif</Username>
+		<Datetime>20-05-2011, 5:17 PM</Datetime>
+		<Content>I have had my Panasonic 37X10 for a couple of years now and am having problems with image retention from those flipping channels with static logos and QVC! Thankfully, it does disappear after a while but is annoying watching programmes whilst it is still showing! Is there anything I can do to resolve this? I have had a look at Pixelprotector and wondered whether this is any good? It does seem to be a lot of hassle though? Any advice would be ever so much appreciated.</Content>
+	</Post>
+</Thread>

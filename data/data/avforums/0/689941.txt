@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Kuro 5090 pop up</Title>
+		<Username>rgvsean</Username>
+		<Datetime>09-12-2009, 12:08 PM</Datetime>
+		<Content>Anyone know how to run off the software update pop-up? It's only started recently and the TV is not connected to the arial anymore. Have searched and found a thread but no answers. Thanks in advance.</Content>
+	</Post>
+</Thread>

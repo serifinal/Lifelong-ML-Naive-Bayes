@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>The Chroming Rose Theater</Title>
+		<Username>68sting</Username>
+		<Datetime>11-25-08, 03:04 AM</Datetime>
+		<Content>Well I've been around here for a while now and finally feel like I can start a small build thread. This is full basement finish that I knew would take a while so I put my projector up and started watching movies a long time back. Drywalled dimensions are 14'4" x '17'6". Ceiling height sucks. Here's what I started with. Replace the window with french doors (lead to main patio) and removed the slider all together. Did some vent relocating. Still didn't like how the soffits for the venting would have turned out so I had a custom vent made to the same volume but wider and angled. I had to frame down a little for the gas pipe so designed the vent to maintain as much ceiling height as possible. I put the equipment rack right out side the theater doors. Had to move the hot water heater to the other side of the furnace. It sat like this for lets say awhile. Picked up some solid Mahogany exterior doors. Thought these would be decent for sound isolation. Haven't been impressed after doing one little test after drywall went up. Here's right before drywall went up. You can see my sump pit in the right front. I'm putting in a small stage to get over that. Not sure how I want that yet. DD 5/8 and GG, caulked around everything, used 4-4" airtight can lights and two sconces for lights. Well that's where I'm at now. I need texture so I can start to paint.</Content>
+	</Post>
+</Thread>

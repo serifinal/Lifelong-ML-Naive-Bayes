@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 42PJ650 Cracked glass</Title>
+		<Username>jbk</Username>
+		<Datetime>26-12-2011, 5:26 PM</Datetime>
+		<Content>Hi everyone, I'm not sure if this is the right place to post this but basically i need some help. I bought a LG 42PJ650 tv off ebay about a month a go, It was going cheap because it had a small crack in the front glass panel. However the crack grew bigger and it turns out there were more as well that grew bigger. Does anyone know of anywhere that I can find a replacement outer shell - including glass front, it doesnt matter about price really, and i am happy to fit it myself so i just need the case. Any advice on this would be appreciated, Thanks, James</Content>
+	</Post>
+</Thread>

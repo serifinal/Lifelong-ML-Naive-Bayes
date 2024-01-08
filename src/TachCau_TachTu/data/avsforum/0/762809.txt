@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Xbox 360 HDMI Cable with Optical Output</Title>
+		<Username>benjanomi</Username>
+		<Datetime>11-16-08, 03:28 PM</Datetime>
+		<Content>I bought an elite and i have a problem with the optical out. I can't fit my component cord and my hdmi cord in at the same time. I was wondering if i could use the cord that came with it that is thinner than my component cord then plug in my hdmi at the same time. Will this mess up my xbox. I think the cord that i am talking about is this cord ... http://www.xbox.com/en-US/hardware/x...60hdmiavcable/ Does this cable come with the Elite? Also which cable do i plug in first, the hdmi cable or the audio cable. Could this possible mess up my video coming out of my hdmi cable... like a green or red hue? Thanks for the help...</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Unable to insert SD Card into SD700IS</Title>
+		<Username>mockingbird</Username>
+		<Datetime>03-02-2009, 11:34 AM</Datetime>
+		<Content>I have a 2006 Canon Powershot SD700IS. The camera was functioning normally until a month back. I tired to take the SD card out of the camera to transfer the images, but it wouldn't come out. I could push the memory card and it would pop out slightly, but I could not remove it from the camera. On the LCD screen the camera said it could not write to the SD card since the card was locked. So I had to take out the card. I used a lot of force, I broke the SD card and finally took the card out. Now I can't insert another card into the memory. I would like to try all means to repair the camera before I give up and buy another camera. I would appreciate any comments or suggestions to help me fix my camera.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Insignia NS-PDP32-09 32" PLASMA at Best Buy: Pretty Darn Nice Lookin!!!!</Title>
+		<Username>STEELERSRULE</Username>
+		<Datetime>07-14-08, 03:32 PM</Datetime>
+		<Content>Just saw this on display at my local Best Buy, and I got too tell you: I WAS IMPRESSED BY THE PICTURE AND SOUND!! I just returned a Vizio 37XL LCD a couple of weeks ago because of a bad HD/SD Tuner(sounds popped and skipped on HD/SD channels) so I am a little gunshy about getting a LOW NAME(not no name) Brand. But the price was LESS than the Vizio being sold at WalMart(about $40 less). It has 3 HDMI inputs(1 on the side) 2 component inputs 1 S-video and 1 composite(the composite is shared on the side with the 2nd HDMI) It has the PICTURE CHANGING SIZE OPTION in HD which the Vizio appears to lack. The remote is MUCH MORE user friendly than the Vizio(direct input buttons/picture size changing button/freeze button/color and sound buttons plus color temp. button for some plus others) No IR image reducer/cleanup in menu though(MENU is EERILY similiar to the VIZIO menu's in their TV's) And it "MAY" only have ATSC/NTSC Tuners in it. I am not sure if it has QAM or not. BB says NO to QAM on Website, but the, like other sites, are NORTORIOUSLY WRONG on their INFO. The lack of a QAM tuner would be a KILLER for me, but others will feel different. IT HAD A DAMN NICE PICTURE PEOPLE!!!!! On BOTH HD and ANALOG. Of course it is because the colors just look alot better, and the blacks are deeper. I have to admit it was tempting for the bedroom at the price!! But am still STRONGLY CONSIDERING the Samsung 32A330, 32A450, or a 37A330 LCD for the bedroom. But damn. Go check one out if you can and fiddle with it.</Content>
+	</Post>
+</Thread>

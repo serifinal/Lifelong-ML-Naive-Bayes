@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Grainy viewfinder(and LCD) image.</Title>
+		<Username>mrobart</Username>
+		<Datetime>02-02-2010, 09:20 PM</Datetime>
+		<Content>Hello, I recently bought a Canon XS20IS as an upgrade to an old and inexpensive Kodak EasyShare camera. I am still learning my way around it and noticed that both the viewfinder and lcd monitor image is very grainy on the Canon. Not out of focus, just grainy. This wasn't the case with the old Kodak. Is this normal? I adjusted the diopter adjustment dial, but this didn't improve the "grainyness." Any comments would be appreciated, Thanks, Mark</Content>
+	</Post>
+</Thread>

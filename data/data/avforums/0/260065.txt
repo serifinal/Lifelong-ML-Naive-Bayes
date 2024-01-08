@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>how do I get to the cooling fans in my plasma to get the dust out?</Title>
+		<Username>nigpd</Username>
+		<Datetime>04-02-2012, 4:21 PM</Datetime>
+		<Content>The cooling fans in my Panny plasma are thick with dust. Although I regularly vacuum the grills, I can't get to the fans themselves. Can I safely get to them and give them a vacuum by taking the screws off at the back, or is this not advisable? Is there another way to do it? Thanks in advance for your help</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is the P42GT30B worth the extra money over P42ST30b? Plus a question about warranty</Title>
+		<Username>greenarmy20</Username>
+		<Datetime>27-12-2011, 8:50 PM</Datetime>
+		<Content>Narrowed down my search to either the Panasonic tx-p42gt30b or Panasonic tx-p42st30b. I was in Curry's today and they all waffle on about this price match in their adverts. Yet when I posed the question about John Lewis and Richer Sounds offering better warranty packages the saleman said they were limited warranty's they offered. Is this true for even a the 5 year warranty's they now offer? Was this basically BS? Also my other question is that basically I am wondering if the Panasonic tx-p42gt30b is worth the extra money over the tx-p42st30b? Any help would be appreciated. Thanks in advance!</Content>
+	</Post>
+</Thread>

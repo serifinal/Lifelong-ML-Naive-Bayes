@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>So when AT&T does allow FaceTime over there 3G network...</Title>
+		<Username>Junkhead</Username>
+		<Datetime>06-20-2010 08:26 AM</Datetime>
+		<Content>Supposedly early next year...will it be part of the data package or would it Be a separate feature for $10-$20 extra a month? I was thinking of this earlier and just wondered how others think it will go Down when the time comes.</Content>
+	</Post>
+</Thread>

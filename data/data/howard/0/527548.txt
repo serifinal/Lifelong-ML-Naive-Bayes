@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Having problem connecting to wireless router</Title>
+		<Username>kswannabe</Username>
+		<Datetime>02-22-2010 09:53 PM</Datetime>
+		<Content>I tried connecting to my friends and my own wireless router. N1 recognizes it but doesn't connect. Any help here? Thanks.</Content>
+	</Post>
+</Thread>

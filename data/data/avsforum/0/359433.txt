@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Best HTiB, have a few hours to decide...</Title>
+		<Username>spitz10</Username>
+		<Datetime>06-30-08, 07:37 PM</Datetime>
+		<Content>Ok, I really hate doing this guys, and I am sure I will get alot of crap for it, but oh well. Basically, I am trying to get in on the ebay/paypal/microsoft live deal and I am trying to decide on a HTiB/receiver and speakers combination within the next few hours, seeing as though the deal expires at midnight. I have searched through the threads for about 20 minutes and I realize it will be hard for me to make a decision in time without some feedback. If you guys arent too pissed at me for doing this (I would probably be pissed at me too), I would greatly appreciate a few recommendations on a setup in the $500-$700 range. I will try to look through some more and post what I think might be some decent options. What I currently have: Panasonic TH-50PH10UKA XBOX 360 PS3 (as blu-ray also) HD Cable Box I guess I need a receiver that has at least 3 HDMI inputs then. Thanks so much guys, I greatly appreciate it.</Content>
+	</Post>
+</Thread>

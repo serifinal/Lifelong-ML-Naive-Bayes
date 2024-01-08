@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile removes contract info from MyT-Mobile!</Title>
+		<Username>MagicKnight</Username>
+		<Datetime>10-15-2009 03:11 PM</Datetime>
+		<Content>Important news, T-Mobile has recently removed the contract end date info from being available via MyT-Mobile. Anyone know why? It seems T-Mobile wants to make this info very hard to access whereas every carrier prominently displays it online.</Content>
+	</Post>
+</Thread>

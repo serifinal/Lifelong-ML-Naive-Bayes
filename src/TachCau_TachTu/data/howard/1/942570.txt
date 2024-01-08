@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Gravity 2 - T469 sync contacts with outlook?</Title>
+		<Username>2000impreza</Username>
+		<Datetime>06-27-2010 10:15 AM</Datetime>
+		<Content>I'm thinking about picking up a Gravity 2 (T469) but the only issue holding me back is contacts being able to sync with outlook. Can anyone confirm if the Gravity 2 is able to sync the contacts with Microsoft outlook?</Content>
+	</Post>
+</Thread>

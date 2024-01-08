@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD850 IS (EU: Ixus 950 IS) Blurry Corners</Title>
+		<Username>E.B.E.</Username>
+		<Datetime>09-01-2007, 09:12 AM</Datetime>
+		<Content>Hi, I've bought this camera for a present. It arrived yesterday, and as soon as I started downloading pictures, I noticed something was wrong in the corners of the image when the zoom is at 0x (max zoom out) (I think it's called "wide angle"). Here are some examples: --- ( links removed for privacy reasons) --- I know that, quoting from the review, Quote: The Canon 4x optical zoom was pretty uniformly sharp across the frame at the telephoto end, but the corners seemed just a bit soft with perhaps just a faint hint of vignetting (darkening) at wide angle. but in my case the effect seems stronger and much more visible. What do you advise? Should I ask for a replacement? Or is this a fault that I can expect with all these cameras? If I can expect a fault with high probability, I'd rather just send the camera to my friend without wasting any more time on this... He's not likely to be very much affected by the fault. If this fault is common with these cameras, I am extremely disappointed. My 2.5 year old Powershot A95 does not have any noticeable blurring in the corners, and also handles the ISO noise (much) better in night conditions...</Content>
+	</Post>
+</Thread>

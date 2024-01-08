@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help. I need the MMS settings (Server, IP, etc)</Title>
+		<Username>Corbow6</Username>
+		<Datetime>09-08-2009 08:09 AM</Datetime>
+		<Content>Okay, I got a UX830 (LG Glimmer) from US Cellular to work on the Alltel network. All I need now is to get MMS working. I need. Primary MMSC Server: Secondary MMSC Server: (I can't change this one for some reason) User Agent Profile: MMSC Post URL: Upload Address: MMSC Post CGI: Authorization: Model ID: Thanks for the help if you guys know. Previous threads haven't been of much use.</Content>
+	</Post>
+</Thread>

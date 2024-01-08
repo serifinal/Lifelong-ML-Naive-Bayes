@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking for a Canon Zoom lens</Title>
+		<Username>Robert Krogle</Username>
+		<Datetime>08-20-2010, 08:40 PM</Datetime>
+		<Content>I am looking for a reasonably priced (under $300) zoom lens for a Canon Rebel XT EOS 350D. I need something in the range of 70-300MM that can shoot clear actions shots at distance. An example would be rodeo action in daylight. I want to shoot in continuous shot mode without a tripod. Please advise. Robert Krogle aprilanbbob@verizon.net</Content>
+	</Post>
+</Thread>

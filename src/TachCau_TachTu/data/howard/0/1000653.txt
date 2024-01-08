@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Rogue spotted in Dallas</Title>
+		<Username>BikerRick</Username>
+		<Datetime>08-29-2009 12:18 PM</Datetime>
+		<Content>I was waiting for a flight out of Dallas yesterday and stopped by the Samsung kiosk they had in the termnial and they had a Verizon branded Samsung Rogue in the front case. It wasn't turned on, but if they are displaying it at the airport, hopefully they will be releasing it soon. I have the Omnia right now and I can't type well at all with the virtual keyboard. I'm hoping the Rogue is released before my 30 day window is up.</Content>
+	</Post>
+</Thread>

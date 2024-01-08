@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Tv interfering with router!</Title>
+		<Username>AngryDog1981</Username>
+		<Datetime>27-01-2012, 3:47 PM</Datetime>
+		<Content>Has anyone ever had an issue with their tv interfering with their wireless Internet router? I bought a Samsung PS43D490 yesterday, and since then it's been interfering with my internet. It basically makes my router think there is no phone line and no internet. If I turn the tv off then it's fine. It doesn't matter where in the house I have the router, or which router I use (ive tried two different routers). I've call Samsung who haven't been much help. Im at a loss and its really annoying me! If this cannot he resolved then they can have the tv back!</Content>
+	</Post>
+</Thread>

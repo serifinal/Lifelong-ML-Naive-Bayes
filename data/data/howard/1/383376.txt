@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Upgrading Questions</Title>
+		<Username>Sharky2006</Username>
+		<Datetime>06-29-2010 03:55 PM</Datetime>
+		<Content>My fianc? has an iPhone 3G from bell and now has an upgrade... my question is should we wait for the iPhone 4 or should she get the 3GS? and why?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Akai Plasma tv 1080i picture shaking - help</Title>
+		<Username>shawn5969</Username>
+		<Datetime>02-01-2012, 7:14 AM</Datetime>
+		<Content>I have an Akai 42" plasma tv and whenever I'm on my xbox and change the resolution to 1080i the picture shakes a little and its annoying, it just displays a black screen when i put it in 1080p as well, and works fine in 720p but with any of the display outputs theres little moving black dots in some spots and their in groups so since their moving theyre not dead pixels. I also tried different cables and component ports but nothing worked and its not the xbox either because i tried it on another tv. the tv is also old.. it was made in 2004 :/ but someone pleeaaase help me!!</Content>
+	</Post>
+</Thread>

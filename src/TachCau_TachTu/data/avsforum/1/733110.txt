@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony KDL-42V4100 or Samsung LN40A530</Title>
+		<Username>Shonos</Username>
+		<Datetime>12-17-08, 10:10 AM</Datetime>
+		<Content>Hello, I'm having trouble deciding on a TV to get. It's my first time purchasing an HDTV, and I'm a little lost as to what is best. I want something 40 inches or more, but I can't really break 1k$. I am able to get both of these TVs for about the same price, which would be the better buy? People tell me Sony's are the best, but when I read around online I see that Samsung is a good brand as well. Since it's my first time I don't want to make a mistake, especially with so much money..</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS50B451 - No Red Color, Turns On By Itself</Title>
+		<Username>dbmix</Username>
+		<Datetime>20-03-2011, 8:02 PM</Datetime>
+		<Content>hi.. i have a Samsung PS50B451 plasma tv and last month my tv was makin a clicking noise( like electric spark noise). after a week my tv had no reds.. and it also turns on & off by itself some times (but with no image).. i would like to know wats wrong with it and if a card isn't good which 1 should i replace (xsus or ysus or somthing else)?? or if i can repair it by myself or for cheap.. i would really appreciate it if anyone could please help me with that issue. thx</Content>
+	</Post>
+</Thread>

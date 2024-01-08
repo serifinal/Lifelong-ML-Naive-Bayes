@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Broken canon powershot sd 1000</Title>
+		<Username>Philip</Username>
+		<Datetime>11-30-2010, 12:49 PM</Datetime>
+		<Content>Hey guys i was wondering if you could help me out. I'm okay at fixing things so nothing you give me should be too hard. I have a canon powershot sd 1000 that will not take pictures. Whenever i go to take one i put it to picture mode and it shuts off. It will take videos and i can look at pictures on it. Also when i have the battery in it it heats up like alot and the battery dies not sure if they are connected. please help thanks in advance</Content>
+	</Post>
+</Thread>

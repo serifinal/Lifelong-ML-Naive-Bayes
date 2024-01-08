@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>MY Panasonic G20 Optimal Settings.</Title>
+		<Username>tele1962</Username>
+		<Datetime>29-05-2010, 6:44 PM</Datetime>
+		<Content>Please remember lads and lasses that these are the settings for my G20. You can give them a go and see what you think. Pro 1 Contrast 33 (clicks from the left). Brightness 31. Colour 30. Sharpness 0. WB. R-Gain +15. B-gain +2. R-Cut -9. B-Cut +1. All enhancements OFF. Gamma 2.4. These measurments were taken using the Eye One LT and may not be suitable for your G20.</Content>
+	</Post>
+</Thread>

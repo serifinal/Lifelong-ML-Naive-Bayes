@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-valdeuc-3009.2</Title>
+		<Username>lelle81</Username>
+		<Datetime>11-05-2011, 10:28 AM</Datetime>
+		<Content>New samsung firmware is released: T-VALDEUC-3009.2 1. Title 2010 PDP C65** & 7*** Firmware for sefl-upgrade 2. Applicable Model PS**C6000 7000 series 3. Description T-VALDEUC-3009.2 - Optimization to find the Service Channel for SkyD (Germany, Austria , Swiss Region) - Improve ''11 Skype(MoIP) Camera screen is not showed - When turning off and on after recording Guide plus (Only Italy) - Improve Samsung Digital Camera''s specific MJPEG movie clip is not playbacked Anyone brave enough to test if this gives a better 3D experience :-)</Content>
+	</Post>
+</Thread>

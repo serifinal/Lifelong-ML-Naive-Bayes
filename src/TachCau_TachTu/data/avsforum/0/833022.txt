@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Is it best to hook up a Rogers HD Box via HDMI?</Title>
+		<Username>__Matt__</Username>
+		<Datetime>05-28-08, 06:24 PM</Datetime>
+		<Content>Yes'm or No'm?</Content>
+	</Post>
+</Thread>

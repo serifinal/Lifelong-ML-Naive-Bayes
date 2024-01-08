@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Coloured vertical bars on LG 50PG3000</Title>
+		<Username>lauriesu</Username>
+		<Datetime>06-06-2010, 7:38 PM</Datetime>
+		<Content>Hello. I have a problem with my brothers LG 50PG3000. As you can see from the pictures there are coloured bars on the screen. These differ slightly every time the set is turned on. They go over everything including the menus. The middle light on the LVDS is green. Not sure what that means. I have removed the LVDS and re balled the ROM. This has had no effect. Could it still be that we need a new LVDS board? Any advice offered would be greatly appreciated.</Content>
+	</Post>
+</Thread>

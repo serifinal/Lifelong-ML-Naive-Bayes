@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Green tint</Title>
+		<Username>mtf</Username>
+		<Datetime>15-06-2011, 12:26 AM</Datetime>
+		<Content>Green tint on 7-year-old plasma TV. I reset picture to factory settings but it did nothing. Any help? Suggestions? Or is this the end of this TV? Thank you.</Content>
+	</Post>
+</Thread>

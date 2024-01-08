@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What is this effect? Seeing green lines EDIT: RAINBOW EFFECT</Title>
+		<Username>JINXR</Username>
+		<Datetime>06-09-08, 01:06 PM</Datetime>
+		<Content>I have a Samsung T5687S DLP and whenever I watch it, I see green lights flashing on some edges. It's really hard to explain, but it seems to happen between frames, on the edges where a light color meets a dark color. Sometimes I'll also see red flashes too, but not as often as green. It also seems to happen when I look from one side of the screen to the other (while my eyes are moving). Is there something I can adjust to get rid of this? I remember seeing the same thing on my old roommates RCA 50" non-DLP, but it's not as bad as mine. Definitely puts a strain on my eyes. Please help! I don't want to have to send this thing back.</Content>
+	</Post>
+</Thread>

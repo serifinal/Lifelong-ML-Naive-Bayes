@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PowerShot A510 maximum SD card size</Title>
+		<Username>ocdean</Username>
+		<Datetime>01-28-2008, 12:13 AM</Datetime>
+		<Content>Looking for the maximum card size that will work in my old PowerShot A510. The manual lists 512 as the highest, which at that time probably was about the biggest you could get. My local store just sold me a Sandisk 4 GB SDHC saying "no problem" and it won't format, just says memory card error. Anyone know for sure? THANKS!</Content>
+	</Post>
+</Thread>

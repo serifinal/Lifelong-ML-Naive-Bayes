@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>D8000 wont play wmv...</Title>
+		<Username>xtream08</Username>
+		<Datetime>16-06-2011, 5:54 PM</Datetime>
+		<Content>Downloaded casualty on to my laptop as i am in ireland... plays fine on my windows media on laptop BUT when i try to stream it to my brand new D8000 it comes up all scrambled.... i cant convert to AVI because its protected has anyone got any bright thoughts?</Content>
+	</Post>
+</Thread>

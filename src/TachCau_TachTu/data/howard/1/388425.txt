@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Few Questions Regarding Upgrading to Iphone4</Title>
+		<Username>Chasur</Username>
+		<Datetime>07-29-2010 02:41 PM</Datetime>
+		<Content>I bought my Iphone 3G back in April 2009, of course a few months later the 3GS came out (they said they didnt know it was coming out, I asked before I bought a 3G) . Anyway, not apparently I have to pay 399 for an Iphone 4 when other peeps that bought 3Gs only pay 159. Sucks but I can suck it up. Anyway a few questions: 1. If I upgrade at the 399 price through Bestbuy will they just bill my rogers account or must I bring money with me? 2. Should I bring a copy of my account statement with me then? 3. Would it make more sense to just pay full price from apple for a unlocked Iphone4, then next year when the 5 or whatever comes out, I can upgrade to that for cheap through rogers and sell the 4 for a still good price? Any Help or other info would be appreciated, gotta go to work soon and would like to figure this out before then if I can ! Thanks</Content>
+	</Post>
+</Thread>

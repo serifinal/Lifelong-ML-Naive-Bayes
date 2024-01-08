@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Rebel XT</Title>
+		<Username>patelp</Username>
+		<Datetime>01-21-2007, 06:02 PM</Datetime>
+		<Content>I have a canon rebel xt for about a year now. I love using it, but for some reason the lighting on the pictures isn't as good as it used to be. I use it on automatic settings most of the time, but the lighting sucks indoor during the day and night. Does anyone have the same problem? or did i change something on the camera accidentally? Any input would be helpful!!! THANKS</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Camera too busy to shoot</Title>
+		<Username>DevAz</Username>
+		<Datetime>11-19-2007, 01:41 PM</Datetime>
+		<Content>Thanks in advance for any suggestions. I am using a Canon Rebel XTI. I am using a SanDisk 2.0 GB card. Intermittently, when I shoot, my camera stops and gets a "busy" sign. This happens during regular shoots, not only when I'm wanting to shoot fast. Example: Yesterday I was taking pictures of a caterpillar (I'm not kidding)...I couldn't keep up. I'd get three shots and the camera would stop. Twice the caterpillar manage to crawl very slowly out of the frame before I could begin to shoot again. I switched cards to a Lexar 2 GB but with no success. Any suggestions? I am missing so many great shots. Thanks again. Dev</Content>
+	</Post>
+</Thread>

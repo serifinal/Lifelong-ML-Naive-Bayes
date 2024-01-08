@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>A question about the PowerShot SD700 IS</Title>
+		<Username>CyberGuy</Username>
+		<Datetime>03-27-2006, 01:53 PM</Datetime>
+		<Content>I have a few question about this camera. 1. It is said that this camera will be available in April. I am going on a trip in the middle of April and I just want to know when will this camera be available in the store (what date in April?) 2. I will be doing some scuba diving and snorkling. I saw this underwater enclosure and was wondering if it will fit the SD700 IS ? http://www.bhphotovideo.com/bnh/cont...ist&sku=425699 This underwater enclosure is for the SD600 but will it fit perfectly with the SD700 IS? Do the SD600 and SD700 IS look exactly the same? I saw the pictures of both but I am not sure if it is "exactly" the same. 3. How good is the battery life? 4. Is it a fast camera? I know it is not SLR, but is it pretty fast for such a small camera. 5. Is it better to get the SD600 or the SD700 IS? 6. If the SD600 is a better one to buy, where online is it the cheapest? Please prove the direct URL link. Thank you.</Content>
+	</Post>
+</Thread>

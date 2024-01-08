@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>FS: Mint Rogers Apple iPhone 3GS 32GB White in GTA</Title>
+		<Username>WorldIRC</Username>
+		<Datetime>11-03-2009 12:29 AM</Datetime>
+		<Content>Hey All, Getting the new BlackBerry Bold 9700 so I am selling my iPhone. I bought this on the day it launched. The phone has had a screen protector and been encased in an Incase Slider case since the second it was removed from the original packaging. I will also include a Fortte Leather holster case that was custom designed to fit the iPhone while in its Incase. Unit is a White 32GB unit and is locked to Rogers. I will include a grey Incase Slider case. The original packaging with everything (including the receipt) is included. Unit has been upgraded to OS 3.1.2 and has been jailbroken (but I can restore it back to factory state if you wish). This phone sells for $799+tax brand new ($900). I am looking to get $700 flat for this 100% mint condition iPhone with screen protector and case and leather holster! I work in downtown Toronto and live in the north end but can work out a place to meet! IM, PM, or Email if you're interested!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What to Replace PHD8 With?</Title>
+		<Username>nokmond</Username>
+		<Datetime>12-07-2011, 10:41 AM</Datetime>
+		<Content>I'm moving house next week and my trusty old Panasonic Phd8 is getting a new home in the loft. I bought the plasma about 6 years ago and at the time LCD's were not even close to matching the picture quality of it. Is this still true today with LCD/Led sets? If I stick with plasma, which I almost certainly will, what's a good choice now? Looking for a good 50" set that doesn't cost the earth!!</Content>
+	</Post>
+</Thread>

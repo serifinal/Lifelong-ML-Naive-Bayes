@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Radio interference from plasma screen</Title>
+		<Username>Mikethecautious</Username>
+		<Datetime>05-10-2005, 4:40 PM</Datetime>
+		<Content>I am concerned about radio interference caused by plasma screens and want to know: 1) whether there is any health risk e.g. for young children from watching plasma screen for a long period of time? 2) whether there is any easy way to reduce or prevent interference from affecting my next door neighbour? Just being 'cautious' as usual, but would be really grateful for any information/reassurance. Many thanks</Content>
+	</Post>
+</Thread>

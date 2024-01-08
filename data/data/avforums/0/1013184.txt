@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 2011 Brightness Fluctuation (Test Clip)</Title>
+		<Username>NeilF</Username>
+		<Datetime>11-08-2011, 10:26 PM</Datetime>
+		<Content>Fluctuating Brightness test clip Here's an MKV test clip 10.87M. During the scene a 'EUROPA' logo is shown. The picture is slowing gaining brightness (intentionally), but it then (just before lady appears) brightens up by an obviously unatural jump. - Home.2009.FBr.test.mkv - GigaSize.com: Host and Share your files If I watch the above clip (on a GT30) in full screen/auto, I get the brightness jump. If I watch it in 4:3 (with grey sidebars), I don't... If people let me know if this does indeed demonstrate the problem on their sets, then we have at least one clip to demonstrate/reproduce the problem! From feedback thusfar it does seem that GT30 sets not coming with FW1213 show fluctuating brightness, whereas ones coming with FW1213 do not. Any tests people can perform (with the above test) to prove/disprove this would be useful. ps: The previous fluctuation thread seems to have been closed due to some posting issues. Let's keep this one clean folks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Fido customers getting the Bell Galaxy S (Vibrant)</Title>
+		<Username>Ziostilon</Username>
+		<Datetime>07-10-2010 02:31 PM</Datetime>
+		<Content>Samsung seems to be pushing the Galaxy S series pretty hard. Since Android is the one OS that can currently battle the iOS, this series is most likely the best out there to battle the iPhone. Battery and power consumption seems to be the biggest concern out there these days. This phone is the best offering for that out there. Samsung Canada Galaxy S page- http://pages.samsung.com/ca/galaxy/English/ Bell Mobility Galaxy S page- http://galaxys.bell.ca/ Hoping the Fido users that have bought the HTC Legend directly from Bell can chime in on this. Mainly because there might be some hurdles to overcome. Like where to get it unlocked (if it needs unlocking). If Bell will sell it to you even though you're not going to use it on their network</Content>
+	</Post>
+</Thread>

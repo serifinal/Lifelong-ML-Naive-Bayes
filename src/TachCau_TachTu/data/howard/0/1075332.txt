@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>No upgrades with a passed due balance of $25 or more</Title>
+		<Username>HCJohnson</Username>
+		<Datetime>02-11-2010 04:57 PM</Datetime>
+		<Content>Anyone else hear this?</Content>
+	</Post>
+</Thread>

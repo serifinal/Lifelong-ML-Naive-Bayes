@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>when to buy</Title>
+		<Username>crossybelfast</Username>
+		<Datetime>21-01-2012, 8:58 PM</Datetime>
+		<Content>im thinking of upgrading my 50 in.sammy plasma to the 64d8000, but im wondering should i hold off untill the new2012 series come out and hope the old models come down in price</Content>
+	</Post>
+</Thread>

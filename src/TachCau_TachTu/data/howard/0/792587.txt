@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola DROID Software and Hardware Tracking Thread</Title>
+		<Username>FAUguy</Username>
+		<Datetime>11-06-2009 09:32 AM</Datetime>
+		<Content>Use this thread to post your Motorola Droid's Software and Hardware versions. This way we can keep track if something new comes along. In the Settings menu, scroll down to About Phone, then scroll down in the new screen. Firmware Version: 2.0 Baseband Version: C_01.3B.01P Kernel Version: 2.6.29-omap1-g04df51f android-build@apa26 #477 Build Number: ESD20 On the Large Back Label: HW A, 39/09 (manufactured week/year) On the Smaller Back Label (batch info) TA40403Q16 ntJ TE6 B10 SJUG5546AA 0101</Content>
+	</Post>
+</Thread>

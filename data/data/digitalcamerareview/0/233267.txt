@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Zoom Lens</Title>
+		<Username>BFPhotog</Username>
+		<Datetime>04-13-2009, 12:45 AM</Datetime>
+		<Content>Hey, I'm a bit of a newby, and am taking pictures of horse related events. I did a mounted shooting event, and some came out very clear, and some very grainy. Does that have to do with my settings on the camera, or light (outside) or not being able to get close enough to some of my subjects? Wondering if I need a new zoom lens or just better photography skills. I'm hoping to go to the Grand Prix Jumping show this weekend, but may get stuck in the nose bleed seats. Thanks Sorry, I am currently using a sigma 55-200mm with a EOS30D</Content>
+	</Post>
+</Thread>

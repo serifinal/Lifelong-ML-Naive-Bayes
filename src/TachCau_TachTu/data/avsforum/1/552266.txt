@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony KDL46S4100 or Samsung LN46A540</Title>
+		<Username>brettman</Username>
+		<Datetime>11-28-08, 09:24 PM</Datetime>
+		<Content>I can get the Sony at Best Buy for $1199 and I can get the Samsung at Sam's for the same price. I leaning Samsung, but can't decide. This will be mainly for just watching TV in the master bedroom. Regular TV and some movies - probably not for gaming or much sports. Any opinions? Thanks!!</Content>
+	</Post>
+</Thread>

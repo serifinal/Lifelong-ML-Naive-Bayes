@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Samsung LNxxA850 Calibration/Settings Thread</Title>
+		<Username>Irunnoft</Username>
+		<Datetime>09-06-08, 12:08 PM</Datetime>
+		<Content>Ok, I thought I'd go ahead and get this party started, too. I will post some pics of the same scene in Transformers Blu Ray using the default Dynamic mode and the tweaked settings I've just tried. But here's the place for 850 owners to sound off with settings, tips, tricks and calibrations.</Content>
+	</Post>
+</Thread>

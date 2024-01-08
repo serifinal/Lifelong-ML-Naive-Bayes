@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD700 for $230</Title>
+		<Username>danboris</Username>
+		<Datetime>02-08-2007, 10:46 AM</Datetime>
+		<Content>Saw on slickdeals.net and thought I'd share with the dcr people. Overstock has the sd700 for $250+ with a 10&#37; off clickable automatic coupon, $2.95 shipping. It keeps going in and out of stock so keep checking and you might get lucky to snag one. Final price was $229.74 shipped. Pretty darn cheap for one of the (maybe even best) compact. Update: No longer available. Was announced to be a price mistake and they cancelled any orders of 2 or more. As of now, however, they are honoring the $230 price for anyone who ordered no more than 1 and are allowing whoever ordered more than 1 to re-order one only.</Content>
+	</Post>
+</Thread>

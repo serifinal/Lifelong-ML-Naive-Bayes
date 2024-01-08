@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Powershot SD870 IS vs. Canon Powershot SD750</Title>
+		<Username>Lidych</Username>
+		<Datetime>01-15-2008, 11:29 AM</Datetime>
+		<Content>I need some help deciding which digital camera to buy! I've narrowed my choices down to the Canon 870 and Canon 750, but I do not know which one to pick. I have never owned a Canon before, but they seem to get great reviews. I have found mostly all positive reviews for both the 870 and the 750. There is a big price difference between the two, which is why I am having a hard time choosing. I take A LOT of pictures, but I'm by no means a professional. I attend a lot of weddings, etc., and take mostly indoor pictures. I suppose my question is, which camera would you recommend overall, especially for indoor use? Any help anyone can give me would be much appreciated!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Conversion lens adapter @regular lenses</Title>
+		<Username>JKnPA</Username>
+		<Datetime>11-03-2007, 12:04 PM</Datetime>
+		<Content>I just bought the LA-DC 58G lens adapter and a conversion ring ( 58-55mm) to go with my Canon A710IS camera. I have a set of Vivitar 55mm close-up lenses ( 4-2-1) which I have used on my older Minota XD-11, but I would like to see how they work on my new camera. If I use these regular lenses in the 'manual' mode, what kind of problems will I encounter? Will I be able to get any satisfactory results ? I would like to try these lenses before spending money on the Canon macro lens 250D. John</Content>
+	</Post>
+</Thread>

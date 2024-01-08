@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola DROID X MB810 Release Thread - Keep all phone discussion here</Title>
+		<Username>FAUguy</Username>
+		<Datetime>07-14-2010 11:00 PM</Datetime>
+		<Content>Yes, the time has come for the Motorola Droid X MB810 to get its own release thread. Please use this thread for discussion about the phone. Please don't create other Droid X threads unless it is about something specific. The phone is listed for sale on the Verizon site here: http://www.verizonwireless.com/b2c/s...edPhoneId=5369 Accessories are listed here: http://www.verizonwireless.com/b2c/s...e&phoneId=5369 Droid X support page: http://support.vzw.com/clc/index.htm...69&m=&x=8&y=18 Here are a few reviews of the Droid X: PhoneArena, Engadget, PhoneScoop, boygeniusreport, PCAdvisor, Slashgear, PCMag. I've removed the posts about "I can't order, it's not showing up" and "I've ordered mine". We don't need to bloat this thread with 'me too' posts. Now if you have some type of question to ask about ordering or have an experience that you want to share "I wasn't allowed to upgrade" or "My local store was sold out", then that is ok.</Content>
+	</Post>
+</Thread>

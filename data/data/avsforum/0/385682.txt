@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need recommendation on receiver for my setup please..</Title>
+		<Username>tifosi2401</Username>
+		<Datetime>11-16-08, 03:05 AM</Datetime>
+		<Content>I'm a noob in this home theatre thing....btw I'm from Kuala Lumpur, Malaysia and I dont really trust the salesperson at the shops here...they dont seem to know a lot about the stuff they're selling...most of the time i hv to resort to expert/user reviews and forums on the net. Nway i just bought Q Acoustics 1010i speaker package yesterday but i'm not sure what receiver to get...i'll be using it mainly for gaming i.e. ps3 (HDMI) and xbox360 (HDMI). Occasionally i'll be using it for dvd or blu-ray via ps3. after searching n reseaching on the net i'm torn between denon avr1909, onkyo tx-sr605/6 and yamaha rx-v663. my room is around 12' x 8' just for information. Nway would really appreciate your help on this...if there's any other receivers suitable for my usage please recommend one n if possible the reasons as well yeah?? thanks guys.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Vibrant: Galaxy S</Title>
+		<Username>davidhoeg</Username>
+		<Datetime>08-09-2010 07:25 PM</Datetime>
+		<Content>I have a day old Bell Samsung Vibrant im looking to trade. Im preferably looking for an iphone 4. Id be willing to around around 200 cash to complete the trade. PM me with any questions</Content>
+	</Post>
+</Thread>

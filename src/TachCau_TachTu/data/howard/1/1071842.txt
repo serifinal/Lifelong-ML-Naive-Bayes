@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is the Walmart online price the same in-store?</Title>
+		<Username>Lifted96Chevy</Username>
+		<Datetime>11-17-2009 04:19 PM</Datetime>
+		<Content>WalMart (Lets Talk) has the BB Bold for $29.99 with a $100 WalMart gift card Can I go by my local store and expect the same thing? Or will it be more at the store? I'm trying to save myself a trip....I'll order it online if its considerably more in the store, thanks!</Content>
+	</Post>
+</Thread>

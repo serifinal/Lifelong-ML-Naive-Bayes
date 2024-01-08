@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Tips for Canon S5 at the zoo on Wednesday</Title>
+		<Username>leaftye</Username>
+		<Datetime>10-17-2007, 01:45 AM</Datetime>
+		<Content>I'm planning on picking up a Canon S5 for a trip to the zoo tomorrow. I'm a total newbie in every way. Please offer any tips to help me take decent pics tomorrow. Here's some information about tomorrow: Purpose: Take pics of animals for my bio class. Location: San Diego Zoo Time: 2:30-4:00 Weather: Mostly cloudy Extra equipment: 2 gig SD card, 1 gig SD card, hiking stick (makeshift monopod?), camera bag (maybe, if it fits in my laptop backpack) Also, are they any must-have accessories like a lens hood or bean bag? Unfortunately I don't think I'll have the time tomorrow to find a monopod I'd be happy with, especially at the price I'm willing to pay. I'm also limited as to what I can carry since I'll be traveling on my motorcycle (Suzuki SV650). Btw, I'm hoping Costco has it...it's $380 on their website with a 2 gig SD card. Let me know if I can do better locally.</Content>
+	</Post>
+</Thread>

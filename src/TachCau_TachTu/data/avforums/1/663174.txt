@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>P50G20B. How to add DVB-C functionality?</Title>
+		<Username>mmxx</Username>
+		<Datetime>30-05-2011, 10:03 PM</Datetime>
+		<Content>HI, I have a TX-P50G20B UK Panasonic. Unfortunately it does not have the DVB-C functionality. Actually I notice that DVB-C is available for a specific list of countries for the same model: DVB-C feature is available only in following countries: / Sweden (ComHem, Canal Digital), Demark (YouSee)... How can I add this functionality to my UK version of the G20? Do I need to add an additional hardware module to support DVB-C? Is it real to be done? Where can I buy it? I would replace DVB-S or DVB-T with DVB-C in my case. I know, here are lot of expects on this forum. I really need your help as I need the DVB-C functionality on my TV. Thank you very much.</Content>
+	</Post>
+</Thread>

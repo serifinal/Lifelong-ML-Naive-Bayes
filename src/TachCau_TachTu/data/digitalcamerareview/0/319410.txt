@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Used the Canon T2i/55OD - Again!</Title>
+		<Username>KelliWorld</Username>
+		<Datetime>05-22-2011, 06:10 AM</Datetime>
+		<Content>My director used the Canon again for the next video that we shot. This time we added a moving dolly and other stands to hold and maneuver the camera so that the angles would be more interesting. The lens he used was a Canon 16-35mm f2.8L. I rented it from Samy's for about $35. I need feedback, please Please note that there's rapping in the song YouTube - &#x202a;Damozel - "Take A Picture" The Remix&#x202c;&rlm;</Content>
+	</Post>
+</Thread>

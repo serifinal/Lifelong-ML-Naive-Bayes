@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Chat from Gathering numbers thread.</Title>
+		<Username>Scooby2000</Username>
+		<Datetime>23-01-2012, 1:19 AM</Datetime>
+		<Content>This is all old chat from the Gathering numbers thread. Please continue chat on the green tinge thread. OK guys, those that have posted can you please add if you have contacted Panasonic via email. If you havent done this can you please do so. I dont mean to sound bossy or to tell you all what to do, but this is the only way to get attention. We have 58 posters here, if we all mail Panasonic it should get their attention at least. Those that have issues and havent added themselves to this list, can you please do so and email Panasonic also. The email address can be found here:CEO e-mail addresses - CEO email address - chief executive officer - managing director list - UK - USA - US - America - EU - Asia Please be polite and add a link to this thread and http://www.avforums.com/forums/plasm...-part-3-a.html If we all do this we may get somewhere towards a satisfactory explanation.</Content>
+	</Post>
+</Thread>

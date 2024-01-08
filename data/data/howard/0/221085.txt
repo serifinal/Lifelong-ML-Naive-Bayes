@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>WIND Mobile Misses the Points - Help WIND Mobile Improve</Title>
+		<Username>qdhd99</Username>
+		<Datetime>09-26-2010 11:52 AM</Datetime>
+		<Content>I am a new Wind Mobile customer but have been reading this forum for a long period of time. I switched over from FIDO a week ago once my contract had almost expired. It is understandable that promotions will get you many customers but will they be long-term staying ones? There are plenty of abuses around, frankly Wind Mobile was and is continuing asking for. The flippers who are only interested in saving a buck or two will not help Wind Mobile survive in any way. There are plenty of people will be interested in Wind Mobile service, promotion or not, because they have fed up with the big 3. You may not agree, but to me, current offerings without promotion is competitive enough. Offering per-second billing could potentially bring more chat customers switching from the big-3. I wish Wind Mobile could focus more on customer service, improve customer communication (so no current billing fiasco occurring), and network coverage. Once you build a solid brand, people will come. I hope Wind Mobile is here to stay and really hate that I would have to go back to the big 3. What is your take?</Content>
+	</Post>
+</Thread>

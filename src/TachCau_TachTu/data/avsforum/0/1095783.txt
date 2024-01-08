@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>does anyone have hdmi working with SA 8300HDC?</Title>
+		<Username>liquidmetal</Username>
+		<Datetime>03-04-08, 03:18 PM</Datetime>
+		<Content>I have the box setup to pass through. HDMI gives me video hangs and audio drop outs. Basically unuseable. Component is fine.</Content>
+	</Post>
+</Thread>

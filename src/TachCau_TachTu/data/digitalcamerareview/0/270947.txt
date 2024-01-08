@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot A570 IS, Photoshop Elements 6 make Amazon's "Best of 2007" list</Title>
+		<Username>David Rasnake</Username>
+		<Datetime>12-28-2007, 03:35 PM</Datetime>
+		<Content>Online retail giant Amazon.com released its year-end "Best of 2007" list today, and both Canon's Powershot A570 IS and Adobe's Photoshop Elements 6 made the cut.The Powershot A570 IS was recognized as Amazon.com's best-selling electronics item of 2007. The versatile, compact, and extremely affordable A570 IS has consistently ranked among the most searched cameras of the year on this site. The sub-$200 device boasts 7.1 megapixels, a 4x zoom, and a lens-shifting image stabilization system, making it one of the best values on the current digicam market.A570 IS" width="350" height="286" />(view large image) Adobe Photoshop Elements 6 appeared among Amazon's "Most-Wished-For Products" of the year, with the highly regarded photo editing suite making more appearances on customers' Wish Lists during 2007 than any other piece of software. Check back in the next few days for a new year-end user review of the A570 IS to close out 2007. In the meantime, more information about each product can be found in our Canon Powershot A570 IS Review and our Adobe Photoshop Elements 6 Review.</Content>
+	</Post>
+</Thread>

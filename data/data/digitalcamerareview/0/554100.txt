@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>a few questions</Title>
+		<Username>bigbob302</Username>
+		<Datetime>12-29-2009, 12:27 PM</Datetime>
+		<Content>hey everyone. i just got a canon sx20is. this is my first camera and im trying to learn more about shooting great pictures. first question is... in macro and super macro mode the pictures are VERY dark. something i dont know? fash up or down it does not make a difference. second question.. i have been trying to get the focal point in focus and the background blurry. there was a post explaining the apeture settings to achive this not long ago. but today i shot a birds nest in a tree that was right infront of me. the background was a really cool old building so i figured it would be a good time to try this. i took two pictures. one with the apature setting as wide as i could and one as low as i could and it made very very little difference. can anyone shed some light on this for me. any additional links or help to get me started with toying with my own settings to get great photos would be appreciated greatly. thanks for your time folks</Content>
+	</Post>
+</Thread>

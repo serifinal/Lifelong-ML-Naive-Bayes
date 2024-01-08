@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SX20IS fullresolution</Title>
+		<Username>Mark Heerema</Username>
+		<Datetime>05-16-2010, 02:55 PM</Datetime>
+		<Content>First time on this site and I have a question I have been able to answer. Bought a SX20. Can anyone answer why I cannot achieve a higher resolution than 3 mp? I am not an avid photographer and this is my first camera but would like to know if I can achieve a resolution that is closer to the the rating of the camera. Any help would be appreciated.</Content>
+	</Post>
+</Thread>

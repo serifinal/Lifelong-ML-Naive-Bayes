@@ -1,0 +1,14 @@
+streamers with random video playback .
+i am interested in purchasing a streamer , but apparently my priorities are somewhat unique as i have found very little info about random playback capabilities in searching the existing threads .
+i want the device primarily to play home movie clips that i currently store on my pc .
+my kids love to watch our home movie collection which they currently do sitting in front of the pc as windows media player 11 serves them up .
+i would like to be able to do this in front of the tv instead .
+just about any media streamer can do this , depending on codec compatibility .
+however , i almost always use the random playback feature in wmp11 when playing home movies .
+surprisingly , i have found very little info available in the existing threads about which streamers have a random playback feature .
+therefore , i am hoping that folks that use the various currently available units will post and describe their random video playback capabilities .
+i currently store my clips in a folder heirarcy by year and then month .
+i would like to be able to pick any folder and randomly play all the files in that folder and also any subdirectories .
+it would also be nice to be able to select files by tag and play them randomly , but this is not nearly as important .
+since the files are stored on my pc , network connectivity is desireable -lrb- wired or wireless -rrb- but not mandatory as i could use local storage if necessary .
+thanks for any info you are willing to share .

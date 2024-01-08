@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>TX-P42S30B - Xbox 360 HDMI reference levels</Title>
+		<Username>MrBungle2005</Username>
+		<Datetime>13-02-2012, 9:40 PM</Datetime>
+		<Content>Really struggling to setup my 360 on this set. On my old PZ80 I had it on Cinema mode and left it on that for TV, Blu Ray and my consoles and was happy with all of them But with this new set (and it's darker picture) I can't get the 360 how I'd like. It was initially set on expanded for the reference level setting and had looked ok. But with this new set it is way too dark and blacks are crushed really badly. But with reference set to standard, everything looks washed out. I have no idea what RGB, ycbcr709 etc do in the other options (never needed to touch them with my old set) Has anyone got this all set correctly and can explain what everything does, and what it should be? Thanks. edit: also, what does the DVI setting on the TV do? IT says it can be set to normal or full - with barely any explanation at all in the manual as to what it affects. Same with HDMI content detection, Did Panasonic think no one would be interested in what those functions do??</Content>
+	</Post>
+</Thread>

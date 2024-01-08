@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic PX60 Settings Thread</Title>
+		<Username>loz</Username>
+		<Datetime>20-03-2006, 5:55 PM</Datetime>
+		<Content>Seeing as the owners thread is getting long, and addressing a wide variety of issues, I thought it might be useful to start a dedicated settings thread. For example, what settings are people using to run in the set to avoid (hopefully) potential screen burn problems later. The only changes I made to the out of the box settings (for the run-in) were - Dynamic mode off - turned down contrast to mid way. - everything else was mid way out of the box. Any suggestions for settings? Also, I notice there isn't an accurate numerical counter for settings, just a bar. I guess this makes it a bit harder to share settings. (or am I missing something) So, what settings are you using?</Content>
+	</Post>
+</Thread>

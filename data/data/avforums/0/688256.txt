@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung say fault is actually by design - advice please</Title>
+		<Username>Turb007</Username>
+		<Datetime>12-12-2011, 10:36 AM</Datetime>
+		<Content>Hi I bought a PS63C7000 in September 2010. Its been fine really since i got it. I had a slight HDMI issue in Feb but Samsung came out and swapped the main board and again all was fine. over the last month I've noticed a purple haze on the screen that shows itself more against a white back ground As its out of warranty now I have used my Barclays Extended Warranty services and they have put me in touch with service centre. I phoned them last week and logged a call and the guy took some details. He called me back today and told me that Samsung are aware of the purple haze , say its not an issue and is actually by design. They cant fix it and basically tough. Please help as I cant see how something that manifests itself over a year after having the set and ruins the use of the set the manufacturer can say oh yeh we knew that was going to happen so tough !!!</Content>
+	</Post>
+</Thread>

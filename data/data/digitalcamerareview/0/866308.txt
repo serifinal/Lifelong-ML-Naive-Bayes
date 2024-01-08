@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon 400 EOS - rattle</Title>
+		<Username>ragingcalm</Username>
+		<Datetime>11-14-2007, 06:39 PM</Datetime>
+		<Content>Hi, just purchased the above, and found that there is a rattle, like something loose inside if I rock the camera gently backwards and forwards. Apart from being exceptionally annoying, the camera seems to work ok. Should I be worried, and is this typical? Just makes the build feel cheap.</Content>
+	</Post>
+</Thread>

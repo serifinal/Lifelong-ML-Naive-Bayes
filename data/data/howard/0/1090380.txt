@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Internet problem Not a phone issue (error: requested content homepage cannot..)</Title>
+		<Username>PKassab</Username>
+		<Datetime>12-24-2009 10:26 AM</Datetime>
+		<Content>I activated a AX260 rumor for a friend and the internet wont work i get this error error: requested content homepage/' cannot be accessed Its not a phone issue because when i move my number to the phone the internet works, When i called Page Plus (im a dealer) they said it must be a number issue since my number the web works but the other number the web doesnt work. Anyone seen this error and know how to fix it?</Content>
+	</Post>
+</Thread>

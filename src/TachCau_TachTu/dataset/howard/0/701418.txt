@@ -1,0 +1,7 @@
+default save location .
+i 'm using nokia n86 .
+i just downloaded wikitude from ovi store .
+after downloading , it asks me where to install the program so i chose to the memory card .
+the install was successful but now i want to delete the install file in c-drive .
+it went down from 23mb to 15mb i think .
+where is the default location for saving so i can delete it ?

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Upgrading from -----> Sony 46X2000</Title>
+		<Username>satinsheets</Username>
+		<Datetime>28-12-2011, 9:40 PM</Datetime>
+		<Content>Hi Guys ... Some advice please... Basically my parents old Phillips CRT,has just had its final bow. So they are going to have my current tv,which is the Sony 46X2000. My question being,do you recommend me staying with Sony for a mid/top end 46" model,or go to another manafacturer? Also,are Sony midway between two models ( in otherwords is the 2012 range of tv's,just around the corner,or ....... ? ) I play a lot games via my PS3,and also enjoy watchin HD footage via my SkyHD box .... But am looking at going towards the top end of the 46" range ... Your advice,would be appreciated ... Thanks,Jon ...</Content>
+	</Post>
+</Thread>

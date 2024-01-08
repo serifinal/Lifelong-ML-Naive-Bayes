@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung A550 vs Sony Xbr6 on Standard Definition</Title>
+		<Username>Jonnydanger007</Username>
+		<Datetime>07-25-08, 11:44 PM</Datetime>
+		<Content>Which is a better TV for standard definition. Samsung A550 or Sony Xbr6 ? I have heard that both are good for the standard definition. Any clear winner? Thanks.</Content>
+	</Post>
+</Thread>

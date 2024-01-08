@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung screen filter removal</Title>
+		<Username>Fear345</Username>
+		<Datetime>09-07-2009, 2:55 PM</Datetime>
+		<Content>Hi The story is my Samsung plasma got a small scratch in it so i thought i would polish it out with t-cut like i do with great affect on cd and dvds, but silly me didn't bother to do any research into it so now i know there is a filter on the screen as i have rubbed some of it away so the question is what can i use to get all the filter off easily as i don't fancy doing the full 50" screen with t-cut as i probably won't get into the corners and edges fully ?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Trading: 16gb iPhone 3G[S] locked to Bell for 16gb iPhone 3G[S] locked to Rogers</Title>
+		<Username>KieverC</Username>
+		<Datetime>03-20-2010 12:13 PM</Datetime>
+		<Content>Hi, I recently acquired a white 16gb iPhone 3G[S] that is locked to Bell. At the moment it cannot be unlocked since it's on firmware 3.1.3 and baseband 5.12.01. I am on Rogers...so the phone is of no use for me. I would like to trade my iPhone 3G[S] for a white iPhone 3G[S] locked to Rogers. Condition: 9.8/10. The phone is in great condition, except for a minor scratch that is HARDLY noticeable. The phone should be fairly close to the condition of my phone. The phone does not have a box, however I only require the phone. Willing to trade with anyone in the GTA. (Should meet at a subway line or a popular mall)</Content>
+	</Post>
+</Thread>

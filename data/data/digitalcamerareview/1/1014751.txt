@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Largest Size SD Card S600</Title>
+		<Username>Cali</Username>
+		<Datetime>10-11-2007, 04:05 PM</Datetime>
+		<Content>can anyone tell me what is the largest size memory card they have gotten working with the SD600 is. I know the 2 GB works fine but I would like to use a 4 or 8 but don't want to buy one with out knowing if it will work. thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>International Texting?</Title>
+		<Username>Namueab</Username>
+		<Datetime>12-12-2009 03:48 PM</Datetime>
+		<Content>At Rogers texting to the US is considered international texting and is charged for accordingly. This is not so with other carriers, and wasn't always this way with Rogers either. What do you think Wind's policy will be on US bound texts? And if this has been addressed already, I apologize.</Content>
+	</Post>
+</Thread>

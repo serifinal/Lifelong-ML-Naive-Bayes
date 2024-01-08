@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Arcsoft TMT play everything in VMC</Title>
+		<Username>mkedda</Username>
+		<Datetime>12-27-08, 03:03 PM</Datetime>
+		<Content>Can I make vista media center play all files via TMT ? For example, all m2ts play with TMT, all iso's with TMT, all mkv's with TMT. Is such a thing possible ?</Content>
+	</Post>
+</Thread>

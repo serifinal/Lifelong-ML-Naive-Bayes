@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Canon PowerShot SX130 help</Title>
+		<Username>Stone825</Username>
+		<Datetime>12-27-2010, 07:52 AM</Datetime>
+		<Content>I just got this camera and love it, although I can't find anywhere online to help me understand more of what the ISO means, how to shoot video and also what the AV and TV mean on the dial on the top. More or less I need to know how to work all the features and what I should use for different things. Please help Im still a Rookie at this.</Content>
+	</Post>
+</Thread>

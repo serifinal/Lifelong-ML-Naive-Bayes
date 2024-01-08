@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD 850 IS Flash no working</Title>
+		<Username>timmyy</Username>
+		<Datetime>06-01-2008, 10:40 PM</Datetime>
+		<Content>I flash just stopped working on my sd850 and on auto it just flashes orange and the flash shows up on the lcd screen and blinks but no flash. Do I have a setting wrong or what could it be. Thanx Timmyy.</Content>
+	</Post>
+</Thread>

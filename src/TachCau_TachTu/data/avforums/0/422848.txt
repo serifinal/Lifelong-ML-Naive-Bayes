@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic plasma and Image retention, Just how bad can it be?</Title>
+		<Username>Gordon @ Convergent AV</Username>
+		<Datetime>26-01-2006, 2:19 PM</Datetime>
+		<Content>Well here is a screen capture of a clients plasma that shows some pretty serious ghost imaging. Gordon</Content>
+	</Post>
+</Thread>

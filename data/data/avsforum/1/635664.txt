@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Thinking about buying the Onkyo TX-SR876 (looking for other suggestions)</Title>
+		<Username>Richthofen</Username>
+		<Datetime>10-25-08, 12:10 PM</Datetime>
+		<Content>I'm seriously considering buying the Onkyo TX-SR876 for the following reasons: 1. 2 HDMI out. (I need to be able to feed 2 TVs) 2. 4 HDMI in. 3. HQV Reon-VX 4. HD Radio Are there any other receivers I should consider at that price range or less? Main devices connected to this TV will be PS3, DirecTV HR20, HTPC w/ XBMC, and a few older console systems (Gamecube, Xbox). I like the new UI Sony is using, but I've heard compatibility issues with DirecTV HR20 via HDMI and other HDMI incompatibilities.</Content>
+	</Post>
+</Thread>

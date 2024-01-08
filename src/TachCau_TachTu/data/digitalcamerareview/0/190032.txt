@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon 20D</Title>
+		<Username>taffsmiles</Username>
+		<Datetime>05-28-2009, 08:55 PM</Datetime>
+		<Content>I just got a 20D and wanted to know any tips of this camera</Content>
+	</Post>
+</Thread>

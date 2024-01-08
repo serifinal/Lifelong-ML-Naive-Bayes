@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with ripping Blurays for PS3 streaming.</Title>
+		<Username>imdjenk</Username>
+		<Datetime>12-10-08, 10:56 AM</Datetime>
+		<Content>Anyone have a good resource for doing this? Basically I want to rip my Bluray collection with no video compression (i do want it stripped of the special features) onto my PC and then stream to the PS3 via Tversity or another media server. Of course I would like at least the minimum DD audio intact as well. Any help is appreciated, thanks.</Content>
+	</Post>
+</Thread>

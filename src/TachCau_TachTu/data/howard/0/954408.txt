@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Guide - iPad to iPhone tethering</Title>
+		<Username>cadsii</Username>
+		<Datetime>03-15-2010 10:25 AM</Datetime>
+		<Content>So the folks at Engadget sent Steve Jobs an email asking if you can tether your new iPad to the iPhone ?mne: Re: Dear mr. Jobs Fr?n: Steve Jobs Datum: 5 mars 2010 17.01.29 CET Till: Jezper S?derlund <> Return-Path: No. Sent from my iPhone. Well, that settles that. Well Steve, Its still over 2 weeks before the iPad Launches and we already have a solution Very Simple really here is what you need. 1. First you will need a jailbroken iPhone, check jailbreakmatrix.com on howto jailbreak your device 2. You will need to install the Rock Installer when you jailbreak 3. Second head over to Rock Your Phone and sign up for a free account 4. Install MyWi with Rock and start it up Here you create your Wifi Name, Password and Encryption and then goto your iPad and join the Wifi Connection, No jailbreak no software no nothing required on the iPad Steve says no, we say yes. We are located in Canada and know that the iPad 3G is coming with micro Sims which you can't get here yet so don't waste that 6gb data plan you have, and lets put it to use. This way you can also grab it on April 3rd when it launches and don't have to wait for the iPad data plans to be released from the carriers. iPad to iPhone Tethering</Content>
+	</Post>
+</Thread>

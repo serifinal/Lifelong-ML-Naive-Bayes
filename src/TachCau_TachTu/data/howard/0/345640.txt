@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile 3G Faster Than AT&T ...</Title>
+		<Username>ArickInRealLife</Username>
+		<Datetime>01-19-2010 12:13 AM</Datetime>
+		<Content>Since T-Mobile has 3G in all it's major markets couldn't it brag LOCALLY that it has the fastest 3G for the time being? I herd VZW is the slowest 3G anywhere no matter what phone or kinda connection you have... no? im not sure about sprint BUT since AT&T is the "fastest" but not really, in NYC couldn't t-mo take those bragging rights? If a speed test was done today in nyc against the iphone and whatever tmo device that gets the new 7.2 wouldn't tmobile come out on top? wouldn't that happen in a bunch of markets where at&t and tmobile both have 3G coverage? so even though at&t has the "fastest" network, it doesn't perform that way and t-mobile would outshine it right? or am i wayyyy off?</Content>
+	</Post>
+</Thread>

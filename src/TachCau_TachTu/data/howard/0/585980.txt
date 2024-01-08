@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anybody used T-mobile Android phones on ATT network?</Title>
+		<Username>iktao</Username>
+		<Datetime>12-24-2009 01:52 PM</Datetime>
+		<Content>no 3G, how about the internet speed? Can ATT know your're using T-mobile smarthpnes?</Content>
+	</Post>
+</Thread>

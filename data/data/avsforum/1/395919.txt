@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>$1300 to spend on Black Friday. Suggestions?</Title>
+		<Username>michanecash</Username>
+		<Datetime>11-26-08, 11:37 AM</Datetime>
+		<Content>Hey everyone- The wife gave me the go ahead on a new TV purchase. I have $1300 to spend and want to go BIG!. This most likely mean rear projection. I know circuit city is selling the wd-65735 for $1199 and I am seriously considering it. Does anyone have any suggestions for a 60"+ screen in the price range. I deffinately want 1080P and at least 3 hdmi inputs. I havent found a better set for the price. Any feeback/suggestions? Thanks, SC</Content>
+	</Post>
+</Thread>

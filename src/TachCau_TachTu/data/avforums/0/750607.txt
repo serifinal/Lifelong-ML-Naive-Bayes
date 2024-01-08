@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Tesco deal for 2011 Samsung active glasses</Title>
+		<Username>Ian Dudley</Username>
+		<Datetime>06-01-2012, 10:14 AM</Datetime>
+		<Content>For those who may have missed it in the PS59D6900 thread, Tesco currently have a great deal in store on the Accessory pack for 2011 Samsung 3D TVs. This gives you two pairs of SSG3100 glasses (normal price £50+ each) plus a copy of Megamind 3D on Blu Ray, all for £39! List price for this pack is in excess of £100, and most places are doing it for £60 (which is a deal anyway), so this is an absolute bargain! I've just picked up a pack from Tesco New Malden and they had several more in stock. Others have reported the same deal in other branches, although some had to ask for them to check out back for stock.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone Video Chat and AT&T?</Title>
+		<Username>CLERiC_AJ</Username>
+		<Datetime>04-20-2010 09:20 AM</Datetime>
+		<Content>Given that Apple has requested the Gizmodo phone back, it appears that the next gen iPhone will definitely have a 2nd camera for video chat. Knowing that AT&T is less than stellar in most areas of service, how do you think they will handle this new feature?</Content>
+	</Post>
+</Thread>

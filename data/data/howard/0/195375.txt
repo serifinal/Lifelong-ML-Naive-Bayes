@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Telus Motorola Milestone on Bell 3G+</Title>
+		<Username>peanutboy</Username>
+		<Datetime>02-18-2010 08:58 PM</Datetime>
+		<Content>so far pretty sweet, fast OS and some pretty neat apps, I came from a N97 mini and iphone 3GS, gotta say this is something totally different but not sure if I'd get used to it, I'm a symbian freak</Content>
+	</Post>
+</Thread>

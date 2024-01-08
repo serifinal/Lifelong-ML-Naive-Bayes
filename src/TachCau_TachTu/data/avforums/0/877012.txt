@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P46GT30 picture shifting</Title>
+		<Username>Robstar</Username>
+		<Datetime>11-02-2012, 5:53 PM</Datetime>
+		<Content>I've just purchased a TX-P46GT30, having upgraded from a TH-42PH9. I have an issue with the picture shifting. The picture (whether I'm watching directly from the on-board tuner or my Humax HDR-FOX T2) shifts from left to right. For instance, during several programmes (namely BBC news or 6 Nations rugby) bars will appear on the left or the right of the screen. Watching the rugby, depending on what angle of coverage in the match is being shown, the right hand bar will not be there, be about 5mm on some angles or 15mm on others. The bar on the left will be non-existant if there is a bar on the right, but will appear on the left if there is no bar on the right. Well, on some occasions the picture fills the whole screen. Switching overscan on will stop this, but on occasion with other programmes there is a bar on the right that's so large, even overscan doesn't remove it. Anyone else seen this problem? TIA!</Content>
+	</Post>
+</Thread>

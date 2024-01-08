@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot A95 owners</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>02-28-2005, 09:09 PM</Datetime>
+		<Content>Any A95 owners who'd like to share their thoughts? I really appreciate the form factor and having 4 batteries. The batteries not only make the camera feel solid but also the battery life is longer. You just have more to carry around when you need an extra set. I'm also really enjoying the flip-out screen. Ben</Content>
+	</Post>
+</Thread>

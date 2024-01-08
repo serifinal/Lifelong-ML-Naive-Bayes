@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Text messages aren't working on iPhone north of Toronto?</Title>
+		<Username>lmoreau</Username>
+		<Datetime>12-24-2009 07:09 PM</Datetime>
+		<Content>Hey everyone, I'm from Toronto and my iPhone has worked fine. I'm at my parents for the holidays in Midland about 1.5 hours north, just north of Barrie. For some reason my texts will not work. I have 100% HSPA signal but every time I send a text it takes about 3 minutes then says failed. If I restart my phone and hit send right away, it sends immediately, and also receives a few texts. 5 minutes later it doesn't work anymore and I have to restart. I called Telus he updated my sim card and something else and had me reset the network settings on my phone. This didn't do anything. He said if it doesn't work to not call back but to go to Apple since there's something wrong with my phone. This doesn't make sense though as it worked perfectly fine until I was just over an hour north of the city. Has anyone see or heard of this or have any suggestions? Really frustrating! Calls and data work perfectly just no texting!</Content>
+	</Post>
+</Thread>

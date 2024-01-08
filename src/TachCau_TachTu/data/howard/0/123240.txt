@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Engadget iPhone 3G S Review</Title>
+		<Username>dbleug22990</Username>
+		<Datetime>06-17-2009 12:04 PM</Datetime>
+		<Content>Engadget iPhone 3G S Review edit: anyone notice the battery % next to the battery icon????</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Adding Laptop Data to Voice Plan?</Title>
+		<Username>Faruk88</Username>
+		<Datetime>08-22-2010 04:14 PM</Datetime>
+		<Content>With the introduction of Wind's new cheaper laptop data plans, their justification of port blocking as a means of differentiating their data add-ons from the laptop plans kind of goes down the drain... I know it sounds weird, but it would be interesting if there was a way to add the $25 1GB Social Laptop as an add-on to a voice plan... A bit more expensive than the $20 500MB Charged Mobile add-on, but you get double the usage and 100% unblocked ports. Any thoughts on this? Considering that the $25 1GB plan is cheaper per MB than the $20 500MB add-on, I find it unreasonable that Wind would be worried about the impact on their network of unblocking the ports on the add-on version but not the laptop version. It does, however, sound more "reasonable" when comparing the $35 data add-on with the $45 laptop plan, since they are both unlimited but it essentially costs $10 more to get unblocked ports.</Content>
+	</Post>
+</Thread>

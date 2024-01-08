@@ -1,0 +1,11 @@
+dropping ev-do mid internet connection .
+ok since i got the dare last year from time to time .
+mostly when i 'm streaming orb my ev-do connection will drop to 1x .
+i have to stop the audio and wait for the phone to drop the data connection and ev-do will reconnect .
+i know it 's not a signal issue .
+i live within 1/2 mile from a vzw tower .
+i rarely drop to 3 bars on ev-do .
+does anyone know a fix workaround ?
+it 's really annoying when this occurs .
+i know it 's been an issue since the phone came out .
+i 'm shocked vzw never fixed it .

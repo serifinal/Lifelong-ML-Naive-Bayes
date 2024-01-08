@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon EOS 5D question- slow to show pics on LCD</Title>
+		<Username>bliss</Username>
+		<Datetime>12-11-2009, 01:49 PM</Datetime>
+		<Content>My husband uses a Canon EOS 5D at his office, as optical equipment. Lately he has had a problem with slow time from when he takes a picture to when he can see it on the LCD. He uses the camera for eye tests, so he needs a faster time or it slows down the exam. He only noticed this in the past few weeks, and erased the memory but still the same issue. Any ideas on how to resolve the problem? TIA</Content>
+	</Post>
+</Thread>

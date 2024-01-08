@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Newbie with Canon Rebel T2i Questions</Title>
+		<Username>casey44</Username>
+		<Datetime>11-14-2010, 01:27 PM</Datetime>
+		<Content>Hi all- first post here. I just got a Canon Rebel T2i (I'm COMPLETELY new to the camera world) but am eager to figure this out and get going! I like to think I'm a quick learner! I guess my first question is... is there a free video tutorial anywhere to walk me through everything? I have searched online and haven't really found anything except reviews and maybe some tutorials, but they aren't very in depth. My second question is- I had the CA mode all figured out and was having fun playing with the blurred background option. But now when I go there, the background option is faded and it won't let me adjust it at all. Anyone know what is causing this? Thank you for your help!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>2?'s Repair Epicure mod5's - Bose Acoutimass 5 series III in HT setup</Title>
+		<Username>albiechaser</Username>
+		<Datetime>06-26-08, 10:24 AM</Datetime>
+		<Content>Hello Can anyone help me repair my 1989 Epicure model 5's? I have one blown tweeter, one blown woof and both woofs have ripped foam? I tried to email the humanspeakers guy - but no response. These were great in their day - want to use them as front or side/rear channels in HT setup. I was hoping I could just buy new woofers/tweeters and pop em in - I am handy w/ tools - but no electrical whiz.. I do want to try to equal the original sound and keep them running on my new reciever (not purchased yet but likely an ONKYO TX SR606). I also have 5yr old Bose Acoustimass 5 series III's - this is one sub w/ two satellies (two spkrs/satellite). I want to use them w/ my new HT reciever but it seems the sub will just end up as a pass through. Anythoughts on what to do w/ this - sell it and put proceeds to a new sub and sats? Any help is appreciated. MC</Content>
+	</Post>
+</Thread>

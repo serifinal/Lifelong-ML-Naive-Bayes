@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD700/800IS Pricing</Title>
+		<Username>danboris</Username>
+		<Datetime>01-24-2007, 02:12 PM</Datetime>
+		<Content>Since the sd700 is kind of a rarity to find in stores nowadays, I did find it somewhere for about $300 (reputable dealer, currently on order not in stock), tax and shipping included, new. I don't know if I should jump on this or wait on it since prices, opposed to what many have said, have actually gone up over the past two months or so on these models. I also can try to get the sd800 for about $340 or so from the current Office Depot 20&#37; off all non-DSLR Canon Cameras $199 and up if a price match is accepted, but that may be hard since it's not currently in stock and only goes until 1/27. Any expert advice on the pricing changes that I should expect? Or maybe any awesome upcoming Dell camera coupons to be expected? Not sure how often Dell does it.</Content>
+	</Post>
+</Thread>

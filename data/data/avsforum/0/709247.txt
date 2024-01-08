@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>2 Quick Questions Before the Weekend Build Begins</Title>
+		<Username>topperge</Username>
+		<Datetime>11-24-08, 01:58 PM</Datetime>
+		<Content>Hey everyone, I'm planning on starting my build this weekend. The father-in-law is coming in for the holiday and while he's here I'm planning on abusing him with my room build. Right now I have two questions left that I'm hoping you guys can help me answer. 1) I currently have the insulation batting nailed into the three concrete sides of my basement walls. I'm planning on doing a room within a room for my setup and I was wondering if I should pull that down and leave a 1" airgap, or should I just butt up my 2x4 stud walls to the backside of those. I'm going to fill the studs with R13, so if I leave it up do I have any mold concerns between the two? 2) I have 2 electrical panels in the room. Currently these are mounted to a piece of plywood which is then mounted to the concrete walls. Should I move these off the plywood and attach them to my studs? Or can I leave them where they are and frame a box around them? This would end up coupling the box to the room and then to the concrete wall which is against RWIAR principals. Do I have any code concerns either way? (Loudoun County, VA) Thanks in advance guys, I'm looking forward to starting my official build thread after the weekend is over. Matt</Content>
+	</Post>
+</Thread>

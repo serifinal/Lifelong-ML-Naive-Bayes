@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon E1 plastic?</Title>
+		<Username>XxXNIMRODXxX</Username>
+		<Datetime>06-07-2009, 07:21 PM</Datetime>
+		<Content>is the Canon E1 made of plastic? i really want it (13 year old) in blue.. there is no other camera i want but its a tad expensive but im willing to pay it iv looked everywhere and there is no other camera i want!! just worried is it plastic because that will make it look more childish than it already is!!....yes im a mature 13 year old!!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Xbox 360</Title>
+		<Username>Conroy16</Username>
+		<Datetime>09-06-2011, 5:23 PM</Datetime>
+		<Content>I've got a problem my tv (samsung) won't let me play my xbox in hd it keeps coming up on the screen mode not supported I need some help to get it to work it is driving me crazy does anyone have any advice?</Content>
+	</Post>
+</Thread>

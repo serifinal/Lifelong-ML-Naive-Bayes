@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Very disappointed and frustrated with my laminate screen project</Title>
+		<Username>Lath</Username>
+		<Datetime>03-03-08, 10:50 PM</Datetime>
+		<Content>I spent all weekend last weekend building my DIY laminate screen. I went through all the trouble of special ordering the DW laminate, building a frame, cutting out pegboard, meticulously cutting the screen, etc. Then I glued the laminate onto the pegboard using two entire caulking gun canisters of liquid nails. It looked absolutely beautiful...for about 5 days. Then all of a sudden I noticed vertical lines starting to appear on the screen yesterday. It turns out that the laminate is now protruding in between each line of glue creating a sort of wave effect. So now each line of glue is clearly visible as a dark shaded line on bright scenes. I'm not sure what caused this? The warmer weather? The glue hardening and "pulling" the laminate in some fasion? It was completely flat and very vibrant and beautiful for almost a whole week...why did it take so long to appear? I put a ton of pressure on the screen when I glued it to flatten out the glue, but I guess that doesn't make a difference. So very discouraging... What are my options now? I'm sure I can't just peel it off and glue it again, the old glue would be next to impossible to get off evenly and there would probably be bumps where the old glue was. It appears I'll have to do it all over again with a whole new piece of laminate and substrate. man, I'm such an idiot. Any advice on what I should do to fix this? Thanks.</Content>
+	</Post>
+</Thread>

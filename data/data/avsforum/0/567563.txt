@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Info on how to take screen shots? Where??</Title>
+		<Username>thebland</Username>
+		<Datetime>04-29-08, 07:08 AM</Datetime>
+		<Content>I'd like info on taking screen shots.. Is there a link or can anyone give me info on how to do so? Tips, etc?? Thanks!</Content>
+	</Post>
+</Thread>

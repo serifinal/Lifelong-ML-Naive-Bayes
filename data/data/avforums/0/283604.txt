@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Please Help Diagnose a fault on My Samsung Plasma</Title>
+		<Username>mpn</Username>
+		<Datetime>08-01-2012, 11:33 AM</Datetime>
+		<Content>The Model No is ...... PS50C450B When watching the tv will suddenly change inputs and go to the freeview channel screen where you search for channels, or sometimes the volume goes up on its own. The red ir light on the front constantly flashes whilst this is happening. Updated the firmware but it's still happening. Has anyone with this model experienced anything like this or have any advice on what the problem could be.</Content>
+	</Post>
+</Thread>

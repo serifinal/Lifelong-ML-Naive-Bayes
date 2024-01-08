@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung UE37D6100 + 3D Player + 2x 3D Glasses</Title>
+		<Username>MatthewTurner83</Username>
+		<Datetime>28-12-2011, 8:36 AM</Datetime>
+		<Content>The above package is retailing for around £670+. Does anyone know where I can buy it for under £600? I know there is only £70 in it but I started out my search looking for a blu ray only and have since moved up to a TV also and now onto complete packages. After much deliberation and researching I have found the 32" version for around £480. My current Sony Bravia is 32" and I would like to upgrade to the 37" if possible but I don't want to break the bank either Many thanks</Content>
+	</Post>
+</Thread>

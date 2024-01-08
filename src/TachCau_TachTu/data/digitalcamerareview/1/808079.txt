@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon S5 IS</Title>
+		<Username>mnracefan</Username>
+		<Datetime>03-24-2008, 08:06 PM</Datetime>
+		<Content>Thanks to some very helpful members on the forum http://forum.digitalcamerareview.com...6750#post16750 and reading the reviews about this camera my husband is about 98% sure this is the camera he wants, however we were wondering about the video setting. We read that this camera will allow you to zoom while recording, we were able to do this as well with our past kodak cameras however there was always the horrible mechanical noise imprinted in the video. Here's one example, a video of a trip we took to Walnut Grove, MN with the annoying sound http://www.dropshots.com/48racefan#d...06-23/15:58:20 Is this sound also present on the Canon when video is being recorded? Thanks again for everyones helpful advice.</Content>
+	</Post>
+</Thread>

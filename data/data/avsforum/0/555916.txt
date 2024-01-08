@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Archiving HD recordings from cable/satellite HD DVR box to Blu-ray</Title>
+		<Username>HDTV888</Username>
+		<Datetime>09-09-08, 02:40 PM</Datetime>
+		<Content>This one looks very promising, finally a way to archive HD recordings, anyone tried it yet? http://www.hauppauge.com/site/products/data_hdpvr.html</Content>
+	</Post>
+</Thread>

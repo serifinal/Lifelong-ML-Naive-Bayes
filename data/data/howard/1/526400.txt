@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is it possible to have a Rogers iPhone with data only? No voice plan.</Title>
+		<Username>mitts2010</Username>
+		<Datetime>09-27-2009 12:53 PM</Datetime>
+		<Content>I have an iPhone that is off contract that I bought when I needed a new iPod, in hopes that Telus' HSPA network would be ready. But it looks like I have to wait until January. Is it possible to use the iPhone with a data only plan, with no voice plan? I need to keep my number with Telus, and its in a contact, so I don't want to switch. Sorry if this has been posted before.</Content>
+	</Post>
+</Thread>

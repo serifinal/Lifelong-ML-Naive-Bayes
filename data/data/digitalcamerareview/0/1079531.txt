@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Closeups with S200</Title>
+		<Username>Magellan</Username>
+		<Datetime>10-27-2005, 01:08 PM</Datetime>
+		<Content>I have an older Powershot S200, which is a great camera, but I have a hard time taking closeup pics that are not blurry. Are there any tups, or is this just a limitation of the camera?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>help with Panasonic TX-P42GT30B</Title>
+		<Username>verve</Username>
+		<Datetime>11-12-2011, 10:35 PM</Datetime>
+		<Content>ive just ordered my new panasonic tx-p43gt30b and was just wondering if anybody could help with pointing me in right direction on setting it up i intend to use my onkyo tx-nr708 av receiver (i know its not a 3d receiver but can't afford replacement yet ) will my hdmi cable 1.3 im using at the moment be ok or do i need to replace with a 1.4 ...? , i also have a panny dmp-bd85 blu-ray player again i know its not 3d but untill i can afford upgrade was going to use my ps3 to play 3d films so again do i need to replace hdmi to 1.4...? any other help with setting up would be much appreicated thanks rob</Content>
+	</Post>
+</Thread>

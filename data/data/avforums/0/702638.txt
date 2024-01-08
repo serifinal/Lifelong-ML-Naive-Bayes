@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>hitachi 42pd7200 still going strong.</Title>
+		<Username>StrongBow103</Username>
+		<Datetime>14-07-2011, 7:00 AM</Datetime>
+		<Content>everyone elses still working ok?</Content>
+	</Post>
+</Thread>

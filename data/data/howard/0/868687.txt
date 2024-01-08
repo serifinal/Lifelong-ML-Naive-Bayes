@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>FungFlex</Username>
+		<Datetime>08-27-2011 02:22 PM</Datetime>
+		<Content>I have a perfect condition Black AT&T 32gb iPhone 4. I very recently went to the Apple store and had it swapped out with a refurb so that I could sell it. This unit is flawless. It comes with original box (IMEI won't match because of refurb) as well as all original accessories. I am an iOS developer so this is a registered development device and is currently running iOS 5 beta 6. As you can see from the pictures it is perfect and will give regular users a chance to play with iOS 5 early. It is very very stable and works like a champ. I am accepting offers only for devices that are high end smartphones. I would like $450 for this device shipped anywhere in the US. This device is currently locked to AT&T as there is no viable jailbreak or unlock for iOS 5.</Content>
+	</Post>
+</Thread>

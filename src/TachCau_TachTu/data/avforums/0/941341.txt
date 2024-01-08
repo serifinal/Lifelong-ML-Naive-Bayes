@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Vt20 and lovefilm or netflix</Title>
+		<Username>mark845</Username>
+		<Datetime>12-01-2012, 8:17 PM</Datetime>
+		<Content>Is Panasonic going to add love film or Netflix to the vt20</Content>
+	</Post>
+</Thread>

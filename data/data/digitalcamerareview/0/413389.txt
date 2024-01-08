@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot SD1200IS first impression</Title>
+		<Username>Demange</Username>
+		<Datetime>03-01-2010, 11:29 AM</Datetime>
+		<Content>I bought a Canon Powershot SD1200IS based on a solid review posted on your site. I&#8217;ve owned the camera for only 24 hours but have playing around with it a lot. The first shots out of the box were of my hand as wanted to see how my shin tone would be reproduced. The color and sharpness were very good. I don&#8217;t recall how much of natural light there was but I know that I had an incandescent table lamp on when I took the first shots. At any rate, I like what I saw because my shin tone was very well reproduced. Subsequent shots have not been as good. Shots of my hand have a sort of orange-ish/green-ish look and the shots are not as sharp. There was zero natural light where I took the shots of my hand, but three ceiling incandescent bulbs provided light. The camera was on auto set. The flash fired. Is there a reason for a degrading of picture quality or is that the quality I should expect from a point and shoot camera? Also the camera&#8217;s battery died after 80 shots. I must add that I did play around with the menu too. Some of the shots include two sessions where I took 8 and 10 continuous shots. Is that the normal battery life? Demange</Content>
+	</Post>
+</Thread>

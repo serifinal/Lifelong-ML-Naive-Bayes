@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon default folders</Title>
+		<Username>rgb</Username>
+		<Datetime>08-15-2010, 02:59 AM</Datetime>
+		<Content>I want to change the default folder that the Canon images are sent to on my PC (XP Home). Now they all go to My Pictures, each folder by date. I would like to change it to go to my external hard drive, and in a folder Canon, then by date within that. I read the camera manual and the software manual but cannot see how to do this, if it is even possible. Any advice on this topic is appreciated! -------- Canon SX200 IS</Content>
+	</Post>
+</Thread>

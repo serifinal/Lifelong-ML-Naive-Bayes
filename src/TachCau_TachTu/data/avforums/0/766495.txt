@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Akai PDP5073TM - Power Issue, starts then stops twice</Title>
+		<Username>TankGTR</Username>
+		<Datetime>16-01-2012, 7:45 AM</Datetime>
+		<Content>I just got a free Akai 50" plasma from a friend because it was taking up space and he didnt know what to do with it. Now I realize the brand and how some hate it and all of the blah blah blah. But I really dont care about the opinions of whether the brand is good or not. What I do want to do is stay on topic and fix this thing. I feel compelled to bring it back to life. Bit of an obsessive hobby now lol. When I turn the TV on it starts to boot for a second, then stops. Then tries again and stops again. I removed the back panel and watched it as I turned the power on. Both fans start to spin, a green LED on a small board next to the power board lights up, then everything turns off. A second or two after they shut off (fans and LED), they again do the same thing of starting and shutting off. They then stay off. I have absolutely zero experience with plasma TVs. The extent of my experience is converting a bad backlight on an HP monitor to LED after the CCFLs burned out. Thx! Any help would be appreciated!</Content>
+	</Post>
+</Thread>

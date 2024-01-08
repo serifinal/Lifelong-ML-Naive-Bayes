@@ -1,0 +1,3 @@
+nvidia releases official geforce 178.24 whql drivers .
+nvidia has released new whql certified drivers to add support for the new nvidia geforce 9400/9300 chipsets as well as fix some bugs .
+http://www.nvidia.com/object/winxp_178.24_whql.html http://www.nvidia.com/object/winxp64_178.24_whql.html http://www.nvidia.com/object/winvist...8.24_whql.html http://www.nvidia.com/object/winvist...8.24_whql.html update : looks like there 's no installer exes up yet , try again in a few hours .

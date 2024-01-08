@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic ST30 Light Output</Title>
+		<Username>Dumachi</Username>
+		<Datetime>27-07-2011, 8:05 AM</Datetime>
+		<Content>Whats it like in normal mode isit enough for daytime viewing, my room has a large window altough it doesnt shine where the tv is going it does tend to make the room really bright during the day and i was worried about the max light output from this panel.</Content>
+	</Post>
+</Thread>

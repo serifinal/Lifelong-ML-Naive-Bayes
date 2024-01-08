@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon SD 850IS memory</Title>
+		<Username>ek machchar</Username>
+		<Datetime>05-05-2010, 08:05 AM</Datetime>
+		<Content>Hi I bought a Canon Sd 850 IS with a 2 GB external memory card in Oct 2007. When I bought the camera, I was told that the memory was expandable till 2 GB. I plan to buy an additional memory card. I wanted to know whether a 4 GB or an 8 Gb memory card work with this camera. My trip begins thursday evening...So please respond fast! Thanks in advance</Content>
+	</Post>
+</Thread>

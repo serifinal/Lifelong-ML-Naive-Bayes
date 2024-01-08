@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Does the Samsung Behold support Tethering via BT</Title>
+		<Username>InDaHouse Prod.</Username>
+		<Datetime>11-10-2008 11:53 PM</Datetime>
+		<Content>Anyone know if the new Samsung Behold will support bluetooth tethering??? Still trying to find a phone that I like that I can actually use my N810 tablet with...Only have a week or so left to return the G1. Seems like none of the phones I'd like to have support tethering via BT...whats the use of all these gadgets that should work together if all the Providers keep them from serving their purpose...?</Content>
+	</Post>
+</Thread>

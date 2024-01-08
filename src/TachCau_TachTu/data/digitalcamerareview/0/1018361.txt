@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Canon PowerShot SX20 IS Review</Title>
+		<Username>sjacopo</Username>
+		<Datetime>01-27-2010, 08:34 AM</Datetime>
+		<Content>RE: Canon Powershor SX 20 Vs SX10 Dear Sir, I have read carefully the very competent reviews regarding the two cameras. I have seen that the image quality of the SX10 looks a little better (less noise) than the SX20, and probably due to the fact that in the same sensor Canon put more pixeles (from 10 to 12 MP). I have the following question: If I use the SX20 but with a lower resolution (for example en "M1" instead that with "L"), is it correct that the immage quality will increase (at least reducing the problem of the noise ) so that the immage quality will be at least equal to the SX10 one ? Or this is impossible? Thanks for your answer. Jacopo</Content>
+	</Post>
+</Thread>

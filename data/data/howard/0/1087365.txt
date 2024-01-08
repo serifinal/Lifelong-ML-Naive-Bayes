@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can you connect to the internet with bluetooth</Title>
+		<Username>jchisholm</Username>
+		<Datetime>04-14-2010 07:12 PM</Datetime>
+		<Content>I'm new to the bluetooth technology and I have a question about internet connectivity. Can you use a bluetooth usb dongle to connect to a wifi network? If so, how do you do this?</Content>
+	</Post>
+</Thread>

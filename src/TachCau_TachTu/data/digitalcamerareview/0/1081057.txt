@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD Card. 1GB 2GB or more</Title>
+		<Username>QuickBeamSS</Username>
+		<Datetime>08-20-2007, 09:41 AM</Datetime>
+		<Content>Hello eveyone. I just bought a Cannon PowerShot A550 to take pictures of everything buy mainly for things I see while bicycle riding. Would 1gb be plenty. I figure maybe 50 photos at a time or less but higher quality is what I want to take them at.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to connect receiver so HDMI inputs are mapped correctly?</Title>
+		<Username>Tremolo Arm</Username>
+		<Datetime>29-12-2011, 11:13 PM</Datetime>
+		<Content>I have a Panasonic plasma directly connected via 2 HDMI cables to sky hd and PS3 respectively on HDMI 1 and HDMI 2. These are also mapped on my Logitech (all in one remote). No receiver is being used. I am soon to be upgrading to a 5.1 surround system complete with AV receiver and speakers. I noticed that the receiver has 3 HDMI inputs but only one HDMI. Will the remote and TV correctly map the right HDMI port to the right source?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official LNXXA550 Calibration/Settings Thread</Title>
+		<Username>outsiderwv</Username>
+		<Datetime>04-17-08, 10:06 PM</Datetime>
+		<Content>These setting have been posted by clicq who has used calibration equipment to get the best possible picture out of the LNAXX550. I am posting a link to his setting here so that we don't have to dig through the thread to find them. These are considered some of the best settings for this TV model. I am also providing links to several other calibrations and information listings in this thread below. CLICQ Calibrations Post # 995 -- Considered best calibration settings for this TV (Warm 2 setting) Firmware 1000 - 1002.2 Firmware 1000 - 1002.2 Calibration http://www.avsforum.com/avs-vb/showt...4#post14113954 Post # 2040 -- Considered best calibration settings for this TV (Warm 2 setting) Firmware 1006.1 Firmware 1006.1 Calibration http://www.avsforum.com/avs-vb/showt...6#post15251316 ellisda1 Calibrations Post # 2283 -- Calibration for Firmware 1007.1 Firmware 1007.1 Calibration http://www.avsforum.com/avs-vb/showt...=#post15578784 Additional Calibration Settings: Firmware 1000 - 1002.2 Calibrations http://www.avsforum.com/avs-vb/showt...4#post14128114 http://www.avsforum.com/avs-vb/showt...5#post13811745 http://www.avsforum.com/avs-vb/showt...4#post13699054 http://www.avsforum.com/avs-vb/showt...3#post14127003 Xbox 360 Settings: http://www.avsforum.com/avs-vb/showt...4#post13881124 http://www.avsforum.com/avs-vb/showt...7#post13874707 XBOX 360 Console / PS3 Console Settings: http://www.avsforum.com/avs-vb/showt...7#post13748317</Content>
+	</Post>
+</Thread>

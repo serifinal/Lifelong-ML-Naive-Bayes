@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung 650 or 750... and can't find a stand?</Title>
+		<Username>eggerda</Username>
+		<Datetime>09-01-08, 04:02 PM</Datetime>
+		<Content>Hi, Just a couple of quick ones. I've decided on either the Samsung 650 or 750 LCD 52" TV. It doesn't really matter which one. I found a couple places to order: http://www.paylessplasma.com/product...?ProductID=339 and http://www.drplasma.com/productdetai...ProductID=3309 Anybody order from either of these places before? Or is there another online standby I should order from? Second thing...I know there is a stand for the 52" 650 and a different one for the 52" 750. For the life of me, I can't figure out what stand I need, and where I can order it? Any help is greatly appreciated...thanks! Dan</Content>
+	</Post>
+</Thread>

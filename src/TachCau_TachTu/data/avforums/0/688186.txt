@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is the Samsung PS-42C7HD ARC compatible?</Title>
+		<Username>BlueSupra</Username>
+		<Datetime>16-12-2011, 12:19 PM</Datetime>
+		<Content>I am trying to find out if my Samsung PS-42C7HD is ARC compatible where can i find this information? Thanks Pete</Content>
+	</Post>
+</Thread>

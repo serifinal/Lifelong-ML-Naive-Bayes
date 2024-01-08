@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>November 14th - Western Digital WD TV HD Media Player</Title>
+		<Username>Braden Russell</Username>
+		<Datetime>11-14-08, 08:51 AM</Datetime>
+		<Content>Today's Show: Today we take a look at the Western Digital WD TV HD Media player. The WD TV HD Media Player is a device about the size of an external hard drive that plays A/V content from USB storage media. The WD TV HD Media player is optimized for the WD "My Passport" line of hard drives but it will work with other USB devices. The player supports 1080p for content and menus navigation. more... Listen now - mp3</Content>
+	</Post>
+</Thread>

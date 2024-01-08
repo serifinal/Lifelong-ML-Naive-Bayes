@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PPPanasonic TX-P42S1BA plasma "setting the clock"</Title>
+		<Username>howardmdent</Username>
+		<Datetime>14-08-2011, 11:45 AM</Datetime>
+		<Content>Please can anyone help? we have a panasonic TX-P42S1BA plasma tv and have never been able to set the internal clock. Now that digital tv is at last arriving in our area i'm hoping to start recording some tv programs using the tv timer system instead of sky plus all the time. I posses a DVD/VCR unit which encorperates an internal hard drive and have never been able to use it to it's full potental. Please help Thanks Howard</Content>
+	</Post>
+</Thread>

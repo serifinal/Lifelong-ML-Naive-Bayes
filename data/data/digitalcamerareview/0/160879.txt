@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>AF problem</Title>
+		<Username>Dawgs</Username>
+		<Datetime>02-12-2011, 12:36 PM</Datetime>
+		<Content>all of a sudden my lens wont focus. i press the shutter button and it sounds like its trying to focus but it wont focus to take a pic. on MF it takes a pic. any ideas?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>powershot a430/night shots</Title>
+		<Username>dkweston</Username>
+		<Datetime>08-26-2007, 10:08 PM</Datetime>
+		<Content>simple question(not for me), but how in the hell do i take decent night shots? all my photos come out pitc black. thanks.</Content>
+	</Post>
+</Thread>

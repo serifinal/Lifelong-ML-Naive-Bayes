@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Boost Mobile Adds 800,000 Subs In 3rd Qtr</Title>
+		<Username>503ducati</Username>
+		<Datetime>10-29-2009 12:57 PM</Datetime>
+		<Content>Boost Mobile 3rd Quarter 2009 The company gained a net 801,000 prepaid iDEN customers, offset by net losses of 135,000 prepaid CDMA customers. http://finance.yahoo.com/news/Sprint....html?x=0&.v=1</Content>
+	</Post>
+</Thread>

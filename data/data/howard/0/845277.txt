@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Factory Unlocked iPhone 3G S 16GB black</Title>
+		<Username>mattuhimself</Username>
+		<Datetime>09-30-2009 11:26 AM</Datetime>
+		<Content>I would like to sell my black factory unlocked iPhone 3G S 16GB! It was bought on 08/18/2009 in Czech at o2 Czech. Neverlocked and not registered! Works great and looks like new! Comes with OS 3.1, receipt from o2 Czech, original Box and equipment!! I sell it with the Navigon US+Can App, but don't know if it works for another user!?! Anyway, this GPS Software works amazing on this iPhone!! No jailbreak, software hack, turbo-sim. Official unlocked by Apple for o2 Czech. Just slide in your sim card and will work right away. No need to worry about getting locked again. Works with any SIM card around the world. Price: $950 obo</Content>
+	</Post>
+</Thread>

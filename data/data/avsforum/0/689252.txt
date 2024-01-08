@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cutting basement floor to run conduit - is this a DIY project or not?</Title>
+		<Username>Staffy</Username>
+		<Datetime>01-04-09, 11:07 PM</Datetime>
+		<Content>I am considering redesigning my riser and that would require me to place a conduit in the existing basement concrete. The max run would be 8-10 feet. Has anyone done this, if so do you have any tips? I have tried searching the forum, but after reading for 35 minutes, I did not see anything applicable. Help me gurus... help me.</Content>
+	</Post>
+</Thread>

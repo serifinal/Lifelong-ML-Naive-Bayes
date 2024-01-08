@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>iphone from apple store vs telus store?</Title>
+		<Username>Little Titan</Username>
+		<Datetime>12-21-2009 07:59 AM</Datetime>
+		<Content>Is there a difference? Would the apple store still sell me a locked to telus version?</Content>
+	</Post>
+</Thread>

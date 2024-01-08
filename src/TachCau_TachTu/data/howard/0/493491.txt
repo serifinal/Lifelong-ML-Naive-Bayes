@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>more firmwares for Samsung</Title>
+		<Username>4k6rma</Username>
+		<Datetime>03-30-2009 12:48 PM</Datetime>
+		<Content>here more firmwares and full repair flashes for Samsung and request</Content>
+	</Post>
+</Thread>

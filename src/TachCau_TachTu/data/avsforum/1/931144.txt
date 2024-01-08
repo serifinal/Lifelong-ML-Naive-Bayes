@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Using Panasonic 42PZ80U or 42PX80U Plasmas for HTPC</Title>
+		<Username>dcc</Username>
+		<Datetime>12-03-08, 02:46 PM</Datetime>
+		<Content>I have the 42PZ80U or 42PX80U on my short list for a display device for new HTPC build, but in looking at specs am not clear on something. Are you able to send your audio from your HTPC to these models? I know there is no PC input on these models, but if I use DVI > HDMI to connect the PC, it appears that there is no audio in available on these. And if I use straight HDMI from the PC to the HDMI on the display, if I understand correctly that may create some audio issues as well. Is this correct? Is anyone using these displays for their HTPC? I love the picture on these displays, but am wondering if they are a good choice for HTPC. Thanks for your help.</Content>
+	</Post>
+</Thread>

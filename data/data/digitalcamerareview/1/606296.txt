@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New Camera recommendation</Title>
+		<Username>Zero</Username>
+		<Datetime>07-06-2007, 12:55 PM</Datetime>
+		<Content>Hi, earlier I owned a A95 model and loved the features like flip & rotate LCD and quick shooting mode selection. (14 modes by the rotating knob). Now I am looking for a simple and small digital camera with above features added to that I prefer to have 2 AA batteries, light weight, easy to use and suitable for both outdoor and indoor shootings. Any suggestion is highly appreciated. Thanks!</Content>
+	</Post>
+</Thread>

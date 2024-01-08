@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CES 2012: Panasonics new range for 2012.</Title>
+		<Username>Scooby2000</Username>
+		<Datetime>10-01-2012, 6:14 PM</Datetime>
+		<Content>Hi all. This thread will contain all the latest links I get from Mark. There is also now a stickie that contains all the plasma related links. At the moment this includes LGs latest sets. I will be adding links as I get them. CES 2012: Panasonic Plasma TV Line-Up for 2012 CES 2012: Panasonic Introduces myspace TV for Smart VIERA CES 2012: Panasonic (don't really) Show Off New TV Range CES 2012: Bang & Olufsen's New 3D TV</Content>
+	</Post>
+</Thread>

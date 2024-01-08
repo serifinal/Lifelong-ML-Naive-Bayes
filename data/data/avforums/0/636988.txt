@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PC->TV: PQ of content streamed via network vs PQ of content sent via 'monitor cable'</Title>
+		<Username>9em</Username>
+		<Datetime>24-01-2012, 1:24 AM</Datetime>
+		<Content>Hi videophiles - first time poster here. Just got my first-ever flat screen (Samsung PS51D550) and have connected it to a recently-built PC. (This connexion will shortly be via HDMI.) When I have some content on Blu-ray I'll use my computer's BD-ROM to access it. What I'm wondering is whether I'm better off streaming content on Blu-ray to the TV via the network the set's plugged in to, or better off using any old media playing-application to play the content on the default computer monitor (which happens to be the plasma TV). The 'Picture Mode' changes from 'Movie' to 'Entertain' when changing source from 'TV' to 'PC', and this has me thinking (until I investigate calibration, at least) that I'd be better off streaming. Appreciate any advice sent this newbie's way!</Content>
+	</Post>
+</Thread>

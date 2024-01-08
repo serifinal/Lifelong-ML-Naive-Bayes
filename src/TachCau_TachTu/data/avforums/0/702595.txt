@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GT30 Sat Tuner Versus Sky HD - is it better quality?</Title>
+		<Username>Marth308</Username>
+		<Datetime>19-12-2011, 9:54 PM</Datetime>
+		<Content>Hi Everybody, first post from a newbie. I got a P46 GT30B late September, and I have run it in, set up the picture using HD Basics twice, fitted back lighting, etc. It does not suffer from the "green blob". I finally got Sky HD setup at the weekend and was surprised by it's picture quality when I compared it to the internal HD Tuner on the four HD channels that are common, both live, and recorded. I find that the internal tuner produces a "better" picture, for example a much wider range of colours on face if you compare the same footage, making it more life like. Another interesting thing is that the 50HZ stutter may be less, but still don't have a proper view. I've only been comparing over 2 days, so it's early days, but has anyone else got thoughts, research or views on the subject? Apologies to the mods if I should have posted in the another part of the forum.</Content>
+	</Post>
+</Thread>

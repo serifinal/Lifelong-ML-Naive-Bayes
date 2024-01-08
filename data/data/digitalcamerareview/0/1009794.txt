@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD 600 with 2 GB SD Card</Title>
+		<Username>healthyme</Username>
+		<Datetime>01-27-2007, 04:53 PM</Datetime>
+		<Content>does 2 GB Secure Digital card work with SD600? or is there a limit to this SD600? thx</Content>
+	</Post>
+</Thread>

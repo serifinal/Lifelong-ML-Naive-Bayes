@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon 780 or similar point and shoot</Title>
+		<Username>lottdod_1999</Username>
+		<Datetime>06-15-2009, 02:45 AM</Datetime>
+		<Content>Is this a nice camera Since it can record 720p does that mean I can just forgo ever getting a point and shoot video camera like the flip mini etc?</Content>
+	</Post>
+</Thread>

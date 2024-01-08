@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official Samsung PN42A450 Thread</Title>
+		<Username>reisb</Username>
+		<Datetime>06-23-08, 05:05 PM</Datetime>
+		<Content>So the 50" has gotten all the attention with it's own official thread and I figured our "little guy" needed some love too. As I've stated, I cannot find panel hours in service menu and have just come to the conclusion that it has been removed from this model. Has anyone "reset factory defaults" from service menu? Let's hear of some settings that our model actually is using and pics (if possible) instead of copying "big brothers". Right now I'm at Movie, Warm1, contr 45, bright 45, sharp 20, and all others default, but I have just hit approx over 100 hours and will be readjusting as soon as I put curtains up in bedroom (tonight or Thursday). Thoughts on cell light set to 10 as suggested by Doug? I'm in unless suggested otherwise. Gamma Settings +/-, Color settings? Good luck little buddy!!!!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>60/61 inch Mits 60735 vs. Sam 61A650 vs. Sam 61A750</Title>
+		<Username>jerndl</Username>
+		<Datetime>09-11-08, 10:15 PM</Datetime>
+		<Content>I have settled on a 60/61 inch DLP to replace my 8 year old Mits 55 inch RPTV. I would appreciate any comments/recommedations/concerns about the above 3 sets. Here is what I have found out so far: 1. The prices from a local retailer are $1300,$1400,$1800 respectively. 2. The Mits has easily accessable front inputs including USB. Sam on the back. 3. The Samsungs have a VGA input. No for Mits 4. The Mits replacement bulb is only $99 from Mits. Is the Samsung bulb much more? 5. The 2 Samsungs seem identical except for the LED (i.e. no bulb / color wheel to replace) 6. I have a 3 year old Samsung 46" 720p DLP that I am happy with. 7. I was happy my old Mits. unitil it bit the dust after almost 8 years. I am leaning towards the Mits. Are there any other significant differences that would justify the extra $100 for the Sam A650 or the extra $400-$500 for the Sam A750. Thanks. Jay</Content>
+	</Post>
+</Thread>

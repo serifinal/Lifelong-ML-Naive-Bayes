@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Toshiba 42RV530U vs Samsung LNT4061</Title>
+		<Username>BakerG3</Username>
+		<Datetime>05-15-08, 07:57 AM</Datetime>
+		<Content>I've been doing alot of research for the past year or so for getting a new LCD. I've been out and just looking at the pictures and seeing what one's "view" the best. I've currently got an older Toshiba CRT but I am also a fan of Samsung. The Regza RV530U and the Samsung LNT61F are pretty compariable when it comes to the specs. I was wondering if anyone have any comments if they were trying to decide between the two. I've read both threads on each tv themselves but haven't seen anything about one person getting one and then returning it to get the other. Is there anything I should really watch out for in either of the tvs? Thanks.</Content>
+	</Post>
+</Thread>

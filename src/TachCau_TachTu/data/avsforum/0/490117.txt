@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Passion of Christ is being released 2/17/09</Title>
+		<Username>blu-raymovies</Username>
+		<Datetime>10-30-08, 09:44 AM</Datetime>
+		<Content>Passion of Christ is being released 2/17/09 Audio: English: SDH / Aramaic, Latin & Hebrew: 5.1 DTS HD Master Audio Language: Dubbed: English / Subtitled: English & Spanish Aspect Ratio: 2.40:1 Episodes-Bonus Features: Disc 1: **Commentary: *Filmmakers' Commentary by Director/Producer/Co-Screenwriter Mel Gibson, Cinematographer Caleb Deschanel and Editor John Wright *Production Commentary by Producer Stephen McEveety, VFX Supervisor/Second Unit Director Ted Rae and Special Make-up and VFX Designer Keith Vanderlaan *Theological Commentary by Mel Gibson, Father William J. Fulco, Gerry Matatics and Father John Bartunek, *Music Commentary by Composer John Debney (Selected Scenes), Footnotes **Vignette/Documentary/Featurette: Passion Recut Disc 2: Feature: Same as Disc 2 from previous SD Release</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung d8000 - How do you get the full non freesat free to air channels?</Title>
+		<Username>koi23</Username>
+		<Datetime>17-11-2011, 7:26 PM</Datetime>
+		<Content>Hi. I have now purchased the Samsung 51" 8000 & was wondering how to get all the free to air channels on satellite? There is an auto tune function for all free channels but this does not tune in as many as my Humax decoder. The full list is here Non&#45;subscription Channels &#45; Sky Free to Air &#45; over 200 Free TV channels Thanks for any help.</Content>
+	</Post>
+</Thread>

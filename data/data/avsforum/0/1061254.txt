@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>jlangner</Username>
+		<Datetime>07-08-08, 10:34 AM</Datetime>
+		<Content>Profile: Currently 2.0 BD Live via upgrade 010. Latest Firmware: 07.x.021 (released 09/29/10) X = 2 or 4. x = 2 = CD burned 4 is Players Ethernet Check your latest firmware version: From the players Home menu, go to System and then System Information. http://esupport.sony.com/US/perl/swu...50&region_id=1 Analog Outs: Only 2 channel Decodes: Currently the unit will internally decode Dolby TrueHD but not DTS-MA. It will bitstream all codecs however. On Screen Menu System: It is almost identical to the PS3 setup menus. Owners Manual: http://esupport.sony.com/US/perl/mod...pl?mdl=BDPS350 Unit Powerup: 6 seconds if Quick Start is enabled in the setup menu. 20 if Quick Start is disabled in the setup menu. Load Times: Ratatouille: 0:49 (previews) Batman Begins: 0:27 (FBI Warning) POTC-BP: 1:03 (Previews) POTC-WE: 0:28 (Previews) 3:10 to Yuma: 0:50 (Lionsgate pic) F4-SS: 1:00 (FBI warning) Cloverfield: 0:49 Alvin & Chipmunks: 0:35 Spider 3: 0:58 (Sony screen) Bitstream of DolbyTrueHD & DTS-MA = Yes. I have checked and it will as long as it is set to "Direct". Additional Memory: Uses usb flash memory, however the width of the flash memory may restrict it's use. So far most "micro" versions work. Memory like "SanDisk" is too big to fit into indention. Source Direct Option: No Known Issues: There have been no major issues reported although a few have reported a "Yellow Push". In those cases most have simply returned the player and exchanged for a new one and have had no further problems.</Content>
+	</Post>
+</Thread>

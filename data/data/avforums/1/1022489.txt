@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pioneer upgrade advice needed</Title>
+		<Username>member 577815</Username>
+		<Datetime>13-12-2011, 3:09 PM</Datetime>
+		<Content>My Pioneer PDP-427XD is now too small for our living room. After looking around what was on offer, I went for a Panasonic TX-P50G30B as I don't want 3D. Bearing in mind my Pioneer tv is now 5 years old, I plugged in the Panasonic and set it up and the picture quality in my opinion wasn't as good. The blacks were slightly blacker but the sound was poor and the colours were no where near as good as my old Pioneer. I've since returned the Panasonic as I was too disappointed in the quality. Do I A, look for a second hand Pioneer 50" tv or B, buy something else on the market that's better than my current Pioneer and if so, what..? Thanks</Content>
+	</Post>
+</Thread>

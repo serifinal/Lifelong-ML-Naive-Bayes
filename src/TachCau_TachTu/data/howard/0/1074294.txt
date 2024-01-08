@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: AppLE iPHONE 3GS **Black** 32gb **Sealed**</Title>
+		<Username>PersianSiR</Username>
+		<Datetime>12-21-2009 07:52 PM</Datetime>
+		<Content>This is a brand new & sealed iphone 3gs,32gb and black color. Its locked to FIDO but is unlockable. MAKE/MODEL: Apple iphone 3GS (32gb) INCLUDED: iPhone+Handsfree+Usb+Charger+Box(SEALED) CARRIER: Fido RETAIL: $799+tax LOCATION: North Vancouver,BC,Canada PAYMENT: Paypal or Cash for local SHIPPING: Yes. Canada add $25 / USA add $30 (Xpress w/tracking) NOTES: This is a new sealed iphone. Locked to fido but im pretty sure u can unlock and jailbreak it. PRICE: $699 CDN CONTACTS: Call/Sms or email 778-865-2424</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon 30d SPOTS ON CAMERA?</Title>
+		<Username>ottz0</Username>
+		<Datetime>07-12-2007, 08:10 AM</Datetime>
+		<Content>Have jsut bought a canon 30d and there is a spot on my camera. The lenses are clean and even when I switch lenses the exactly same spot apears in the same place. The mirror is also clean. At a close focal length this is nearly exactly round and at a different focal lenght it apears as a very dark small blob? could this be the sensor? any ideas? any help? thanks</Content>
+	</Post>
+</Thread>

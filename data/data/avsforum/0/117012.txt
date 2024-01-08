@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can PowerDVD (latest version) or ArcSoft TMT play blu-ray or HD-DVD .iso file?</Title>
+		<Username>Vancomycin</Username>
+		<Datetime>08-29-08, 01:11 PM</Datetime>
+		<Content>Can PowerDVD (latest version) or ArcSoft TMT play blu-ray or HD-DVD .iso files ripped from AnyDVD-HD?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Free extended Panasonic warrenty or Richer Sounds?</Title>
+		<Username>dvhttn</Username>
+		<Datetime>16-06-2011, 12:54 PM</Datetime>
+		<Content>As the subject but two questions really. I'm after the Panasonic TX-P42GT30B after LOTS of reading up on here, mainly, and other reviews, and Richer Sounds have put one aside for me for Saturday. As far as I can see they're the cheapest I can find, especially as they have 2 pairs of glasses thrown in. They also do a 5-year warrenty for extra money, which I was planning to pay for, but then I noticed that Panasonic are doing a free 5-year warranty on selected TVs (including the GT30). So, my questions are: 1) does anyone know any substantive differences between the two schemes/ 2) do you think it's likely Richer Sounds would thrown in a 5-year warranty for free in view of Panny's offer?? Just asking .... Thanks in advance.</Content>
+	</Post>
+</Thread>

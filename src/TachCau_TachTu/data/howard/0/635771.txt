@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>No multitasking</Title>
+		<Username>DreamNofR1</Username>
+		<Datetime>07-18-2010 05:48 PM</Datetime>
+		<Content>So, I was going through a few apps and updating some things when I remembered that 4.0 multitasks now. I never had the need for it but I double clicked my home button to find all these apps running in the multitasking dock. I don't want this to happen. From what I know, if you run multiple apps in the background, it drains your battery. I know Apple said that their multitasking doesn't do this but it still has to have an impact. The phone icon shows down there, the SMS message button shows down there, the calculator, etc. I don't want any of these to be running - heck, I don't want to multitask at all. Is there any way to shut this off or do I always have to delete an app from the multitasking dock when I'm done with it??</Content>
+	</Post>
+</Thread>

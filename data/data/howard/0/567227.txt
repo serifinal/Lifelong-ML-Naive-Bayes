@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rural synergy sites still happening?</Title>
+		<Username>TProphet</Username>
+		<Datetime>01-28-2010 07:06 PM</Datetime>
+		<Content>Now that I don't have roaming coverage anymore, I've gotten a lot more interested in where Sprint has on-network service. Here in the Pacific Northwest, it seems like there are a lot of areas where synergy sites haven't yet happened. For example, the area around Baker City, OR is covered by iDEN, but CDMA coverage on I-84 eastbound ends at La Grande and doesn't pick back up until you reach Ontario. I'm curious how many areas there are like this - it's been a long time since Sprint acquired Nextel, so I'm surprised there isn't coverage synergy everywhere. To folks "in the know," are these projects still happening? If so, any idea when we might see more coverage here in the Great Northwest?</Content>
+	</Post>
+</Thread>

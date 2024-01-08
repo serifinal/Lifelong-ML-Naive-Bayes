@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Advice/help 350D</Title>
+		<Username>Alaninman</Username>
+		<Datetime>12-02-2010, 08:02 AM</Datetime>
+		<Content>Hi I am new and hope that I have posted this request in the correct place. I have a 350D and bought it just after they were released to replace the 300D with two batteries. I have excellent service from the camera but this last month it has started to behave oddly. I have had error 99 which the book indicates is a battery problem but this is intermitent. The flash tends to operate on a delay and flashes a number of times before firing. The display indicates that the battery is fully charged. Does anyone know if this is a battery problem (in my case two batteries) or is it something to do with the camera and potentially more serious? Many thanks is advance Alan South Coast UK.</Content>
+	</Post>
+</Thread>

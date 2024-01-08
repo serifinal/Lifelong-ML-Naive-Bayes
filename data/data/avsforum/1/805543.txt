@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help! Pioneer Elite Pro 1150 vs. Panny TH-42PX80U</Title>
+		<Username>Ivrykys</Username>
+		<Datetime>08-23-08, 11:08 PM</Datetime>
+		<Content>Here's a tough question (well, maybe not for all the pro's around here) that needs some expertise, which I ain't got. I was all set to buy a Panasonic 42 inch plasma 720 TH-42PX80U from BB using PM to Costco for $899. with $100 off rebate, plus several gift cards, and 12% off coupon, etc etc, with credit card in hand, totalling $650 w/o tax when I got completely turned upside down. After several hours of mind numbing product talk, but realizing this sales person really did know a bit about plasmas, he proceeded to offer me a Pioneer Elite Pro-1150 at the smashing 'needs to get it out the door' clearance price of $1500. Now, I'm not usually persuaded to purchase last years Prada's let alone last years Pioneers, but do I consider 1) 42' vs 50', 2) both are great deals, 3) never thought I could squeeze up to an Elite bracket, 4) I do believe both are remarkable HDs but at different class levels as well as different generations. I need to know considering all these points, is it obvious that the Pioneer is the better TV despite its vintage, or should I get the brand spankin Panny. Both are a great price, yes? Help!!!</Content>
+	</Post>
+</Thread>

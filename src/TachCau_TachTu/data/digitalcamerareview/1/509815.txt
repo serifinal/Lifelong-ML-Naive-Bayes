@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>maximum card(SDHC) capcity for a G9</Title>
+		<Username>anntomaz</Username>
+		<Datetime>10-26-2009, 03:26 AM</Datetime>
+		<Content>hi all i bot a G9 afr i got alot of advise here n im very happy with it .... although i find on vacation my memory card is too small for me i have serched quite a bit on the net , but am unable to find what the maximum capacity for the G9 is i want to buy a sandisk extreme SDHC card ....... i can afford the 8 gb but cannot find if that size will b compatible with the camera i plan to buy it online , so that it will b cheaper ... but dont want to find out when i get the card that it is not compatible also will the 16 gb b compatile tooo ? googled it ... but nooone seems to being staright answers to other ppls q uestions plz do help asap ... i really want to get tat new card in my hands b4 next weekend when im off for a family event !!! regards</Content>
+	</Post>
+</Thread>

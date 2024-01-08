@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can I take over a plan with DATA and use the sim in a rocket stick??</Title>
+		<Username>8000rpm</Username>
+		<Datetime>03-08-2010 07:54 PM</Datetime>
+		<Content>Looking to get rid of my telus unlimited plan. rogers reception seems to be full here where my telus evdo card and iphone are always searching. If I take over a cell plan with Data (6gb ones) can i just use the sim in a rogers rocket stick just for data??</Content>
+	</Post>
+</Thread>

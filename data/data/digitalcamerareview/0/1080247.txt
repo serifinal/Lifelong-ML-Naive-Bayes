@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>smoke gets in my eyes</Title>
+		<Username>michayoggev</Username>
+		<Datetime>06-07-2010, 06:13 PM</Datetime>
+		<Content>hi,i currently own a 1 year old canonSD880,which performs nicely.a few days ago while taking pictures in full daylight,i've noticed a small plume of white smoke rising from the area of the flash(which "fired"as should).this persisted for the next couple of shots and reappeared at another session later that night.upon examining the camera at the lab,no smoke was reproduced and so far no evidence of any fault can be produced. have anyone heared of this phenomena?and how it's been dealt with? thanks micha</Content>
+	</Post>
+</Thread>

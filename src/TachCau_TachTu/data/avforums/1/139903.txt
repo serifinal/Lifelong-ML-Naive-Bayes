@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS64D8000 & Bluray player</Title>
+		<Username>say33d</Username>
+		<Datetime>13-06-2011, 10:55 AM</Datetime>
+		<Content>I was looking to get a Samsung PS64D8000 but was wondering what bluray player to get? Is it best to just get the Samsung or how about the panasonic? Whats everyone using?</Content>
+	</Post>
+</Thread>

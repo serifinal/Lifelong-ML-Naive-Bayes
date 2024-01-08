@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>jpbc</Username>
+		<Datetime>08-28-08, 11:18 AM</Datetime>
+		<Content>I recently upgraded my dish to a new 5LMB so I could receive all of the HD channels Directv offer. I had my B-Band converter attached yet most of my sports HD channels come in very poorly. They freeze all of the time and just run like they are not coming in well. My 101, 110, 119, 99a and 103b transponders all come in well into the mid 90's but my 99b and 103a transponders doesn't. With my 99b transponder, all of the odd #'s run high 90's and 100's but the even #'s range anywhere from the mid 40's to the mid 50's. With my 103b transponder, I get 0's on approx 7 or 8 of the 16 available signals. Is anyone else having these problems or know how to fix it? Is it the dish (all non-HD channels come in perfectly and about half of the other HD channels have no problem)? Is it the receiver (I have a few and all have the same problem)? Is it the wires that run from the dish to the multi-switch? Is it the multiswitch itself? Any ideas, advice or help is greatly appreciated.</Content>
+	</Post>
+</Thread>

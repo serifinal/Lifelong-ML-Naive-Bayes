@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 50PK590 fault</Title>
+		<Username>mrwicked</Username>
+		<Datetime>21-11-2011, 2:31 PM</Datetime>
+		<Content>Good afternoon I have a fault on my LG50PK590 screen (images attached). There is a black band approx 2 inch thick with "sparkles". The unit is under Richer Sounds 5 year warranty (16 months old). They are picking the set up on Wednesday to check the fault. Do you think it is repairable or will it be written off? If it is written off does anyone know how there replacements work, do I get to choose a model upto a cash limit or do they choose? Thank you for your help</Content>
+	</Post>
+</Thread>

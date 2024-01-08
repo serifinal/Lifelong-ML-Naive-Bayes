@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Whats best to clean screen?</Title>
+		<Username>o0o wiggy o0o</Username>
+		<Datetime>29-06-2011, 6:51 PM</Datetime>
+		<Content>Hi, Im forever cleaning my plasma screen but i can never get it to look spotless...always looks smeary. What's that best thing to use? I've tried special wipes that were ok but not brilliiant,minute amount of polish...no good. Any advice will be greatly appreciated.</Content>
+	</Post>
+</Thread>

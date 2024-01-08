@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TXP50G20B Screen burn!</Title>
+		<Username>deadly74</Username>
+		<Datetime>07-08-2011, 10:16 AM</Datetime>
+		<Content>Purchased the TXP50G20B as an ex display from Curry's at full advertised price and have started to notice an area of screen burn in bottom left hand corner of screen, it looks like they had a menu or something running on it whilst on display which has damaged it but im nervous going back to them because I can almost hear the conversation now......'you've damaged it Mr Customer'!!! An suggestions on tactics I can use with them when I go in?? Cheers all.</Content>
+	</Post>
+</Thread>

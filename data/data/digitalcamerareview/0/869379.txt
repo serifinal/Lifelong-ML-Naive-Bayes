@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>S5 - slow when taking auto with flash</Title>
+		<Username>mlp0000</Username>
+		<Datetime>03-31-2008, 08:09 PM</Datetime>
+		<Content>Hi everyone - I seem to be missing a TON of shots because I go to take the pic and my camera won't shoot - then I have to wait a few secs, hold down the shutter slightly until frame locks in, then I can take the shot (for canon users - I hold down until I hear the beeping "lock in" noise and then can take the shot). What is going on with it?!</Content>
+	</Post>
+</Thread>

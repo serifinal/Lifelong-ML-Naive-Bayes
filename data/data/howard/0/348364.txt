@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell Turbo Stick and 10.6 OSX</Title>
+		<Username>knowledge_6</Username>
+		<Datetime>03-31-2010 02:40 PM</Datetime>
+		<Content>Hey guys, so i read some threads on here regarding this and the driver links etc that i got from the threads didn;t help.. just wondering if there is an update on if this works? bell told me i am SOL cause MC is not supported via 10.6 i got it to work once (had the sticks for a day) and since then it connects but no data is sent/received. any ideas?</Content>
+	</Post>
+</Thread>

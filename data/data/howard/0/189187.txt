@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Google Nexus One (AT&T/Rogers) - Rooted w/ Desire Rom</Title>
+		<Username>arkman</Username>
+		<Datetime>04-01-2010 06:15 AM</Datetime>
+		<Content>I have a one week old Nexus One for sale. Comes with all the packaging and everything that was in the original box. Phone is really awesome, but I miss my BB keyboard. Phone is in awesome shape. I've rooted it and installed the Desire Rom to get Sense UI which I like way better. I can leave it like that or put it back to stock Nexus One Android 2.1. The Sense UI adds some very nice features (including tethering). As the phone is rooted it is easy too swap back and forth. Still under Google warranty. $600. West GTA. PM is best</Content>
+	</Post>
+</Thread>

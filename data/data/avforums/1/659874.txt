@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Good stand for 60 inch plasma?</Title>
+		<Username>rumblesushi</Username>
+		<Datetime>05-02-2012, 8:28 AM</Datetime>
+		<Content>Hello, I'm about to upgrade from a 42 to 60 inch, and I'd love some recommendations of a solid stand for a 60 inch. Right now the 42 inch is on one of those glass Matrix things from argos, which should be fine as a temp stand for the 60 until I find a better one right? Obviously it's not meant for a 60 inch, but it does say it supports upto 75 kilos, and the 60 inch is only around 40. Won't look great but should hold the weight at least. I'm open to any material or style, but would probably prefer wood or metal to glass actually, seems safer Cheers, Rumblesushi.</Content>
+	</Post>
+</Thread>

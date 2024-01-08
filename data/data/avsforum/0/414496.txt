@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Stations whose digital coverage area will be less than their old analog's at 2/17/09</Title>
+		<Username>iowegian3</Username>
+		<Datetime>12-18-08, 01:14 AM</Datetime>
+		<Content>We're familiar with the WECT Wilmington issue, where the digital coverage was less than its old analog. And, I thought I read somewhere that this situation may be possible with 15% (?) of stations. How about a list of notable examples? Here's one for starters: KTVO ch 3 Kirksville MO (ABC) 100 kW at about 1100' analog ch 3; 87 kW about 1000' digital on UHF ch 33. Coverage radius shrinks from about 65 mi to about 45 miles.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>3D detection problem on new Panasonic ST31</Title>
+		<Username>mabbyb</Username>
+		<Datetime>31-12-2011, 9:40 AM</Datetime>
+		<Content>I purchased a Panasonic 50ST31 from Comet 3 days ago but seem to be having a problem with the 3D detection. Whilst watching some 3D content through my V+ box the tv started constantly jumping between 3D & 2D for about 2 minutes, making it completely unwatchable. It seemed liked it was struggling to detect the 3D content. I rewound the programme to make sure it was not this particular part of the programme causing the problem but it didn't do it the second time. I had the 3D detection set to on & not advanced as earlier in the day whilst playing Call of Duty on split screen it was also switching from 2D to 3D, but I put this down to exactly the same images being displayed in both halves of the screen hence confusing the tv into thinking it was a 3D image. I think I will contact Comet this morning to arrange an exchange on the tv.</Content>
+	</Post>
+</Thread>

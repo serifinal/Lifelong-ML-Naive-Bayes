@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sx230</Title>
+		<Username>justme</Username>
+		<Datetime>04-06-2011, 06:31 PM</Datetime>
+		<Content>I can't find answers anywhere and I have to know by tomorrow whether to keep this camera. 1. Why in the world would it say 1080i on any tv I watch my videos on when Canon claims this produces 1080p? Is it one of those stupid technicalities where it's only 1080p in some vague sense of the word? 2. I was shooting video today while I was away from the camera and ahd it sitting somewhere. For some reason it stopped recording and closed up after 3 and 1/2 minutes. I thought maybe the battery died, but it was not quite dead and alloweed me to turn it on and watch that whole video. Surely that setting for having it turn off due to inactivity would not apply when you are recording?????? That's not inactivity as it's recording! 3. Even those complaining about battery life still claimed to get 200 pics from a charge. I only took less than TWENTY pics and maybe 15 or elss minutes of video on one charge before it was totally dead. That seems insane. I love the camera other than figuring out these issues and also as I feared I read that 24fps is bad for anythign moving. So now it comes down to have superior pictures with this, but worse video (great, but worse during motions apparently) or have the inferior (in my opinion from seeing sampels) sony hx9v, but 60fps video. I would not consider any camera other than those two so one has better IQ and one has (apparently) better video quality. Video looks amazing on this canon, but it's 24fps.</Content>
+	</Post>
+</Thread>

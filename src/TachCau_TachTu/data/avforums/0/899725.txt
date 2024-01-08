@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>sky 3d channel and my panasonic vt20 plasma need some help</Title>
+		<Username>jav123</Username>
+		<Datetime>14-01-2012, 1:02 AM</Datetime>
+		<Content>hi guys i need some help/advise please i just got sky 3d channel switched on (upgraded package) i know sky 3d is side by side 3d but the sky advisor said i need ot go into the 3d setting and change the 3d picture format to side by side which i did, but that left me with all the other channels (2d) fuzzy and blurrey, so i went back in to the 3d picture format and changed it back to auto, all 2d channels were back to normal fine but the 3d channel was showing half and half (i,e) a big thick line in the middle and showing the same image on both side !! is there any way of watching sky 3d with out going into the 3d setting and changing it to watch 3d ? and also visa versa pleae can you help guys</Content>
+	</Post>
+</Thread>

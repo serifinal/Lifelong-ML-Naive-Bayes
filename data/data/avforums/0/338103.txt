@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P42ST30B</Title>
+		<Username>Jonny23</Username>
+		<Datetime>19-07-2011, 8:33 PM</Datetime>
+		<Content>Can anyone recommend the best picture settings to use? all the information i can find is for the TC-P model which has different menu's to the TX-P? thanks.</Content>
+	</Post>
+</Thread>

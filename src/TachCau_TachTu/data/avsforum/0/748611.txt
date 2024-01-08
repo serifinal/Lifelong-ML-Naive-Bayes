@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Do rear and side surround speakers have to be at the same height?</Title>
+		<Username>Dave J</Username>
+		<Datetime>04-05-08, 02:11 PM</Datetime>
+		<Content>I have a 7.2 speaker system in my theater. I'm using paradigm ADP-470's for the side and rear surround speakers. The rear speakers may be a little low for seat and head clearance. So, I was wondering if I raise the rear speakers will it cause any issues with the sound in the room? Currently the four surround speakers (two sides and two rears) are all at the same height. If I can get away with raising just the two rear speakers that would save me some work. If I have to raise them all to the same height then that's what I have to do. Let me know what you think. Dave</Content>
+	</Post>
+</Thread>

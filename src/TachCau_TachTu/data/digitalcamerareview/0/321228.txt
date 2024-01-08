@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Zoom button really hard to push back & forth</Title>
+		<Username>Crystal79707</Username>
+		<Datetime>10-06-2009, 03:09 PM</Datetime>
+		<Content>I have a Canon SD960IS. The zoom is in the same location as the shutter button but you push it left or right to zoom in or out. I'm thinking that I must have gotten something on in when I went out a few weeks ago. It's never been hard to press back and forth but now it's very difficult. I'm wondering if it would be safe to get a wet q-tip or something and try to clean it... Also there's a lot of times when I go to take a picture and I hold the shutter button down and the red light comes on like it's going to take the picture but it won't. Sometimes I even have to do this two or three times before it will finally take the picture. It's very annoying, especially for the price I paid for this. I have a cheaper digital elf I bought a few years ago that takes pictures WAY faster.</Content>
+	</Post>
+</Thread>

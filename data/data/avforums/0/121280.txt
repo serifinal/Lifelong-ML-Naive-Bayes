@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Pro panel : PF30</Title>
+		<Username>stanleyntl</Username>
+		<Datetime>06-08-2011, 8:33 PM</Datetime>
+		<Content>Any chance of you testing the pro plasma PF30? I'd really like to know how well it might compare to the VT30? Not everyone needs a tuner built in to create a home cinema system. I wonder if there will be any processing to curb the 50hz issues though. The Viera range have IFC/mid but what of their pro range? The 50" PF30 is similar money to the VT30 : would the VT30 wipe the floor with its pro panel cousin?</Content>
+	</Post>
+</Thread>

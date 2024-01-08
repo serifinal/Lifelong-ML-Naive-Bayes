@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Death Race? Anyone? Why is it so quiet in here?</Title>
+		<Username>Jdog35</Username>
+		<Datetime>08-25-08, 02:52 PM</Datetime>
+		<Content>I haven't seen it yet, but I can't believe no one saw it this weekend. Doesn't anybody have something to say about it?</Content>
+	</Post>
+</Thread>

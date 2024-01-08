@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>mmagda</Title>
+		<Username>mmagda</Username>
+		<Datetime>08-04-2009 11:23 PM</Datetime>
+		<Content>Those i have dealt with can leave feedback here!</Content>
+	</Post>
+</Thread>

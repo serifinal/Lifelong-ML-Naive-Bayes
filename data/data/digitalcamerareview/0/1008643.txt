@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is it possible to damage my camera like this?</Title>
+		<Username>pete06</Username>
+		<Datetime>08-26-2008, 02:21 AM</Datetime>
+		<Content>Hello I recently bought a Canon SD1000. ive been browsing several camera sites to get an idea of how to use it etc. and then i wanted to do a cool night shot with "slow synchro" setting in the camera using a flashlight. However in one of the pictures i pointed the flashlight (a surefire flashlight...the type the military/police use..mind u, these are VERY BRIGHT and "blind" u for a few seconds if u arent ready for it) right at the camera i would say i was about at least 4 feet away... So my question is, Could I have messed something up? is it possible to damage my camera like this?? (the ccd i believe) the manual even says "do not point the camera directly at the sun or bright light sources...doing so could damage the camera's CCD or your eyesight" are there any signs that would tell me i have a damaged ccd? or anything i should look out for? I want to take good care of this camera since it is my first and im new to all of this by the way, the picture looked like a big orangeish ball in the middle and the scene along the corners of the shot WERE barely visible...and the pics afterwards seemed "ok" i guess... I just ask to be sure... Thanks for your help</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CANON REBEL XT- black and white mode?</Title>
+		<Username>patelp</Username>
+		<Datetime>10-02-2006, 07:54 PM</Datetime>
+		<Content>I bought a canon rebel xt a few months ago. I enjoy using the camera...I was wondering if anybody knew if there is a black and white mode? I read in the manuel that there was that option under the menu...but when i go through my camera options, it doesn't appear. Is there something additional that i need to buy? THanks for any input.</Content>
+	</Post>
+</Thread>

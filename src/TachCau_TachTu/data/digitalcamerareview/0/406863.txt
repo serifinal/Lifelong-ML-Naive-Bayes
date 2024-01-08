@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>1400 IS Macro Capability?</Title>
+		<Username>FatDragon</Username>
+		<Datetime>08-29-2010, 09:06 PM</Datetime>
+		<Content>Long story short, I'm trying to get a shot of the product label beneath the battery of my new phone, and I can't find any way to get a clear shot of it. A: is the 1400 IS capable of a macro shot like this? B: what's the best method for getting it to come out well? I've had a few digital cameras in the past, but you can consider me a complete newbie for all intents and purposes.</Content>
+	</Post>
+</Thread>

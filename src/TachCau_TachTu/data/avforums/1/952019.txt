@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS51D8000 Owners Club.. :)</Title>
+		<Username>xtream08</Username>
+		<Datetime>15-06-2011, 10:40 AM</Datetime>
+		<Content>Ok. so i am writing this and then im off to t' Shop to pick up my D8000. has anyone got one and changed any settings to make it look sexier? i like bright ritch colour im using SkyHD and im not bothered about the sound because i have av amp also has anyone found anywhere cheap to buy the skype cam???? Basically whats the best show off bits of the tv.. and what can i play about with in a manly agdget kinda way Cheers Ben Wild</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Black dot in some pictures but not everyone</Title>
+		<Username>TopThrillDan</Username>
+		<Datetime>11-04-2008, 02:30 PM</Datetime>
+		<Content>Hello I did a google search to find out whats wrong with my Cannon PowerShot A570 IS. It doesn't do this all the time, were there's nothing wrong with it. Then other times like on road trips this black dot shows up in the left corner, and you can see it on the screen. I'm starting to think its dust or somthing. http://img.photobucket.com/albums/v4...l/Testpic3.jpg</Content>
+	</Post>
+</Thread>

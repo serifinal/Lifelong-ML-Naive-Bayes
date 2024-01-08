@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Uploading Images</Title>
+		<Username>Lorrie</Username>
+		<Datetime>10-06-2010, 03:05 PM</Datetime>
+		<Content>Question about the PS SD4500. I use adobe photoshop. When I upload pictures from this camera, how do I get them to delete automatically off the camera? I used to do it with an old PS I had but forgot how to delete them without doing it manually.</Content>
+	</Post>
+</Thread>

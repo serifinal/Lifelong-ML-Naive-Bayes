@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Anyone know of any deals left?</Title>
+		<Username>g40steve</Username>
+		<Datetime>28-06-2011, 8:50 AM</Datetime>
+		<Content>Looking for Panasonic 42g20, 42gt20 or 42g30 deals left? I know i am hoping but just bought new house so budget is tight. £650 ish budget. Would like free sat & free veiw hd if poss Cheers</Content>
+	</Post>
+</Thread>

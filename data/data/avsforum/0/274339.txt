@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung LN52A650 - calibration...please!</Title>
+		<Username>doctorwolf</Username>
+		<Datetime>09-05-08, 10:19 PM</Datetime>
+		<Content>the calibration thread for this tv is ridiculously cluttered and seems to be a battle of opinions rather than actual calibration settings. can someone please direct me to the most popular calibration settings for this tv? it's such a popular tv someone out there has to have had it calibrated professionally and posted their settings? anyone have a quick link so i don't have to read through mountains of confusing posts? thanks.</Content>
+	</Post>
+</Thread>

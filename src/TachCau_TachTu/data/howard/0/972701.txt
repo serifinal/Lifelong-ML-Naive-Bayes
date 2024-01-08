@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HTC Desire Flash, Battery, Speech to Text Questions</Title>
+		<Username>sabwafare2001</Username>
+		<Datetime>05-06-2010 12:44 PM</Datetime>
+		<Content>Just got a HTC desire yesterday and have the a few questions. 1. What do I have to do or install to get flash working. The went to a few web sites and didn't see a difference compared to going to those same sites with the nexus. Will I only need to use to stock browser 2. Will nexus battery work in the desire. They are the same size put have a different number after the dash on the part number. I have an extra battery for the nexus that I plan in keeping after selling it. 3. How to get speech to text working with the HTCIME keyboard. Got it working with the X 10, but nothing happens when pushing the button.</Content>
+	</Post>
+</Thread>

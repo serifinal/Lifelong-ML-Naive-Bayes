@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>having trouble connecting the HTPC to my tv</Title>
+		<Username>Myk3</Username>
+		<Datetime>01-04-09, 12:16 AM</Datetime>
+		<Content>I got a RCA D56W20 56 in. TV and it supports 1080i, I connect the HTPC to the screen and the TV acts like it is the wrong res. I can view the PC but the screen bleeds over past the edge of the screen, I cannot however scroll to those points on the edge like on a PC monitor with the wrong res. I have tried Intel, Nivida, and ATI cards all with the same result. I do not have the remote for this TV to reset it to defaults.. Any help would be appreciated. I am connecting the PC through the DVI port (which works with my XBOX 360 HDMI > DVI cable and looks great) I have not yet tried through the component cable since I will have to buy the dongle to send component out of my video card. any thoughts on this?</Content>
+	</Post>
+</Thread>

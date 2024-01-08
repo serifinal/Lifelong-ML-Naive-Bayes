@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer Pdp434- Anyone have parts to lend?</Title>
+		<Username>tsaintw</Username>
+		<Datetime>25-05-2011, 2:28 PM</Datetime>
+		<Content>hey guys, my last post was a bunk no one had any answers about the tv- Pioneer 434. However my last stand will be to try and borrow/ invest to see whats wrong with the tv. I am interested in the x/y assembly and power supply, if anyone has either of these components let me know. I'm east coast USA by the way. Sorry for questions on such an old tv, but I don't want to dump it yet. Thanks, tom p.s.- I've figured out the media box works using the it through a computer and getting readings. The monitor shows no picture however, but there are no burn signs etc inside the tv.</Content>
+	</Post>
+</Thread>

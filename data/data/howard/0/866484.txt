@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sell/Cancel/Transfer a SERO plan and port the number out of sprint?</Title>
+		<Username>whoknows55</Username>
+		<Datetime>11-16-2009 09:30 AM</Datetime>
+		<Content>I've got a SERO $30 plan that expires on May. Ideally I'd like to cancel it and port my number to Verizon. However that would get me a $200 ETF (according to retentions). Is there any way I can take my number with my to Verizon, and keep the SERO plan active for the rest of the contract with another number or do a swap/give away the remainder of the account to someone and get a new number for them?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>220EX speedlite</Title>
+		<Username>altaf007</Username>
+		<Datetime>08-28-2007, 02:18 PM</Datetime>
+		<Content>I own a S5 IS, i do a lot of indoor photography..but built-in flash seems to be weak ...there I am thinking to buy a small sized external flash. I am considering to buy a 220EX. but i need to know its performance. Any sample pics of indoor shots + outdoor too with 220EX. i will b very thankful</Content>
+	</Post>
+</Thread>

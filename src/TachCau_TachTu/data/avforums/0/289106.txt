@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30 Fan Noise</Title>
+		<Username>neilmcl</Username>
+		<Datetime>12-08-2011, 11:44 AM</Datetime>
+		<Content>I want to ascertain if I've actually got a problem with the fan(s) on my 42VT30 or do they all sound this way. For the first month or so I could hear the fans but they simply made a faint "wooshing" sound that wasn't that intrusive, certainly I couldn't hear it over the fans on my Sky+ HD box. For some reason over the last few weeks the sound has changed to more of a higher pitch "whirring" sound that can be heard over the TV sound for anything less than 50% volume. I can also hear the noise pulsing, presumeably when the fans get out of synch with each other. It's beginning to get quite annoying. FYI, this is not related to the buzzing or crickets issue.</Content>
+	</Post>
+</Thread>

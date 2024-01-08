@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>How Would You Finish This Screen Wall?</Title>
+		<Username>CDLehner</Username>
+		<Datetime>10-25-08, 11:33 AM</Datetime>
+		<Content>OK, please go gentle. I know there are only about a billion screen-wall shots in this forum, and I know my options...I'm just still not sure of the whys and hows, so I need to just flat out ask: how would you finish this screen wall? I guess the two options that I've seen are 1) just finish the drywall normally and paint it black, but I guess the consensus is even the blackest black paints don't absorb light as well as fabric. and 2) leave the drywall unfinished, cover it with Linacoustic (or an equivalent), and then stretch fabric over it and hang the screen. That is where things get really fuzzy for me. I don't plan on doing a false front (not enough room, even if I had the need), and I'm not going AT, so I'm not sure why the Linacoustic? General sound considerations, nice black padding behind a fabric cover?? If I were to go a route like that, how do you fabric cover; just pull a big piece of whatever around the frame and staple it behind the wall? I'm tempted to lean toward the paint, because even a DIY doofus like me can do that, but the "fabric" screen walls always look so "finished" and dark; it's one of the areas I don't want to compromise, even in my v1.0. If it matters, I'm planning on a 96" 2.35 screen, and the sides of the wall will be built out a bit to "recess" the screen and create like flanged columns on the sides. Thanks for the help guys, CD</Content>
+	</Post>
+</Thread>

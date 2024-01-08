@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G10 firmware latest ?</Title>
+		<Username>ScottishThistle</Username>
+		<Datetime>20-05-2011, 2:22 AM</Datetime>
+		<Content>Anyone with the G10, is the firmware 1620 still the latest version ? p.s i tried to post in the old g10 thread but as its over 125 days since anyone posted in it i couldnt post in there.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>ATI 45xx, Bit perfect, and Vista</Title>
+		<Username>Narwhal</Username>
+		<Datetime>12-21-08, 10:55 AM</Datetime>
+		<Content>Hi, I'm now the happy owner of an ATI 4550. I have installed the Catalyst drivers (8.12, the latest I think), and the Realtek High Defitinion Audio Drivers (2.0.3). I've managed, as well, to get DTS and AC3 trhough the HDMI to my receiver (a Marantz SR4001). LPCM *seems* to be working as well (tried it with PowerDVD), although I'm not that sure. The receiver does show all the PCM channels being sent though. Now, I'm trying to get bitperfect. I think I;ve managed to get PCM stereo to my receiver when using Foobar 2k and the WASAPI component (the Vista volume slider stops working), but when I try to play a DTS WAV file (ie, 44khz), all I get is noise (again, using Foobar and WASAPI). I can see in the configuration of the HDMI device that it can output 48Khz and 44khz (as well as other formats), but I don't know if that's for real. I would like this to work, as I have another audio board installed just to get this, and working fine (a Riviera with Cmedia drivers), but I'd like to have everything going through one cable, so that I don't have to switch between inputs (and I could use that audio board somewhere else!). Did any of you managed to get bitperfect output with this ATI card? Thanks, -n.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sx 200 Is</Title>
+		<Username>Zydan</Username>
+		<Datetime>06-01-2009, 10:50 PM</Datetime>
+		<Content>Anyone seen any reviews on this camera? Or can tell me anything about it, pros / cons?</Content>
+	</Post>
+</Thread>

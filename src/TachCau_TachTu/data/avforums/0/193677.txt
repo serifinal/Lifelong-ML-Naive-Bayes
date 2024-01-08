@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG Plasma pink interference</Title>
+		<Username>davegk80</Username>
+		<Datetime>03-01-2012, 11:52 AM</Datetime>
+		<Content>Hi all, I have a 2 year old LG 42PQ6000 plasma tv that has developed a strange fault over the last month or 2. It has started to show a pinkish haze in the top left hand section of the screen (not all the time). I don't know if this is interference or not. I normally notice it when there is or has been very bright colours on the screen. Or when i'm playing my xbox and, for example, i am playing a football game and the score bar on the top left is very faintly left in a pink haze after the screen changes to another area. Very hard to describe amd i'm probably not doing a very good job!! Could the power and HDMI, SCART, Antena cable etc be too close together? Does it need re-gassing or is it kn@ckered! This is my first post so be gentle about the poor description.... Cheers Dave</Content>
+	</Post>
+</Thread>

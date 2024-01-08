@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HDCP Problem, ArcSoft TotalMedia Theatre</Title>
+		<Username>rlowell</Username>
+		<Datetime>05-02-08, 09:29 AM</Datetime>
+		<Content>Group: Pardon me if this question has been asked already. For the first time today, I tried to play a Blu-Ray disk on my computer. I have a Sony SxRD 60" TV with one of the HDMI inputs connected to a Radeon (Diamond) HD 3450 video card on the PC. I've got the full Windows XP desktop coming out properly on my TV. I launch the ArcSoft (a demo version I downloaded yesterday from Cnet and installed) media player. No problem. I put a BR disk in the drive, after twenty seconds or so, the media player starts playing a short video clip and goes for 2-3 seconds. Then it stops. The message: "Your system is not compatible with HDCP, BD playback is disabled" comes up. So I know the video card is HDCP-compatible. There must be some enabling of this that I haven't done yet. What do you who are observing this forum suggest I do to fix this? Thanks in advance. rlowell</Content>
+	</Post>
+</Thread>

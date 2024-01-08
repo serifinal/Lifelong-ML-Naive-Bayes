@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is my camera ruined?</Title>
+		<Username>aish</Username>
+		<Datetime>02-24-2009, 03:05 PM</Datetime>
+		<Content>Hello, I don't know where to ask, hope anyone can answer here. I did what's written in the camera manual in safety precautions. I pointed my camera directly at the bright light source, I don't know what is CCD but it's probably damaged cause now in low light (normal electric light indoors) conditions pics without flash and videos quality is like this: Is it permanent damage or what can be done in such case? Camera is Canon TX1. I'd appreciate any advice</Content>
+	</Post>
+</Thread>

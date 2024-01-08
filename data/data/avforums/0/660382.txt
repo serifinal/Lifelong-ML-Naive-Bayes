@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Shall i update Viera Cast software (never done before)</Title>
+		<Username>avcar</Username>
+		<Datetime>03-02-2012, 6:27 PM</Datetime>
+		<Content>Hi all finally managed to get a ethernet cable from my G20 tv to my router albeit temporary, i want to see what i get sadly i only have Freeview HD so i know i wont get BBC iPlayer.. upon connecting the cable its asking to before i can connect to software Viera cast. ive heard somewhere cant remember where? that it can affect the TV itself or have i got my wired crossed? thanks in advance</Content>
+	</Post>
+</Thread>

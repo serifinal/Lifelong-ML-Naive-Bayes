@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Can I see 3D on my telly?</Title>
+		<Username>albertc30</Username>
+		<Datetime>07-07-2011, 8:53 PM</Datetime>
+		<Content>Hello. The wife and I are looking to buy a blue-ray player. We have come accros a nive bargain for the Panasonic DMP-BD110EB 3D Blue-Ray player. Our telly is 6 months old and is a Panasonic Viera PX-T42G20B which is not 3D. However, is it possible to view 3D movies on this tely through the blue-ray player? Any comments well appreciated. Cheers.</Content>
+	</Post>
+</Thread>

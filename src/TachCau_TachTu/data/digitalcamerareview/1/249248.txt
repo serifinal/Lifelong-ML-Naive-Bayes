@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>A590 compared to A3300</Title>
+		<Username>lilblu</Username>
+		<Datetime>12-16-2011, 02:04 AM</Datetime>
+		<Content>I've used the Powershot A590 IS before and I think it's a pretty good camera. I'm interested in the Powershot A3300 IS and I'm wondering how they compare to each other? I'm not really talking about specs, because I can read that myself. What I mean is how they perform, picture quality, ease of use, overall quality, etc. Just because the specs on one are better than the other, it doesn't necessarily mean it's better camera. If it matters, I primarily take pictures of my pets, usually while they're sleeping. I also take pictures of birds in nearby trees through the windows. The A590 did a fair job with both, but the optical zoom could have been better for the bird pictures. I think the higher MP in the A3300 will make a noticeable difference in the cat pictures. All the cat pictures taken with the A590 couldn't quite capture all the detail in the tabby cats.</Content>
+	</Post>
+</Thread>

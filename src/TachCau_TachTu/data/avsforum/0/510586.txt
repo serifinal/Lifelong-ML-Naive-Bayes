@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>How should I hook this up Yamaha RX-V663 etc..</Title>
+		<Username>NathanT</Username>
+		<Datetime>03-28-08, 08:48 AM</Datetime>
+		<Content>I am getting ready to order this receiver and I'd like to ask you about hooking up what I have to it. The only thing I think I need help with is my speakers. For right now I am going to use my Logitech Z-560's with this. I can't afford speakers right this minute so I decided to just use these for now. For those that don't know what these are, they are just a 4.1 set. Here's a link to them. I just ordered 2 more of the satellites off ebay so I can use one as a center channel. The problem is, how am I gonna be able to hook the sub up? I thought about getting a RCA to 3.5" adapter and plugging the thing into the receiver that way, but that's not going to work because of the volume control on these. It'd be easy if the Yamaha had a built in amp for a sub. But since it doesn't what can I do? Thanks in advance for any help.</Content>
+	</Post>
+</Thread>

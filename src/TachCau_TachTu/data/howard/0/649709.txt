@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell Turbo Stick - Poor Download Speeds</Title>
+		<Username>PICCAM</Username>
+		<Datetime>09-13-2009 04:41 PM</Datetime>
+		<Content>I have been using the Bell Turbo stick around Toronto in the last month. Download speeds from Speedtest.net show I am getting less than 2mbps quite often and around 200kbps on uploads. Kind of dissapointing considering they advertise they have the biggest 3G network. My colleague has a Rogers stick and see's speeds around 4-5mbps. Anybody else getting crappy speeds?</Content>
+	</Post>
+</Thread>

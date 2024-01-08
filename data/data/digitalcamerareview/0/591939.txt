@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Canon PowerShot A1000 IS, A2000 IS revamp popular "A" models</Title>
+		<Username>Ron Cruz</Username>
+		<Datetime>09-23-2008, 03:09 AM</Datetime>
+		<Content>Just bought the new Canon Powershot A1000 IS. Canon's website under Specs state that this will shoot widescreen images. Looked in the manual and all camera menus. Can't find it. Anybody? The A2000 IS has 16:9 widescreen icon on the ad but not the A1000? Is this a misprint? I'll return it if it is. It's one of the reasons I bought it, to skip Photoshop cropping when importing photos in Premiere video editing. Here's the shooting spec: http://www.usa.canon.com/consumer/co...elTechSpecsAct</Content>
+	</Post>
+</Thread>

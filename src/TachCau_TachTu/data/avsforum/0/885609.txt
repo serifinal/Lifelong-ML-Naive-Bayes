@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>How do I set this up for optimum performance?</Title>
+		<Username>darylstacy</Username>
+		<Datetime>05-21-08, 09:32 AM</Datetime>
+		<Content>I have a Hitachi 42HDS52 42" plasma with 2 component outs and 2 HDMI outs. I am in progress of building my media room/office and need to know the best way to hook the following items up for optimum performance and to also allow me to get the right lengths of cable. The TV will be wall mounted. Approx 10 feet from there my media closet will sit. Inside it there is a Comcast cable box (if I remember correctly the HDMI on the cable box wasnt the most reliable so I have been using component), an XBOX 360 (also using component and using mainly for the media center capabilities) and a new Denon AVR788 receiver. Ideally, how would I hook these components together? (meaning, which components to which components and using which types of connections?)</Content>
+	</Post>
+</Thread>

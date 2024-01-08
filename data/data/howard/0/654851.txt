@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FT: iphone 32GB - BNIB/Sealed</Title>
+		<Username>Auga</Username>
+		<Datetime>09-12-2009 10:47 AM</Datetime>
+		<Content>FT: Iphone 3GS 32GB White BNIB/Sealed. Locked to Rogers. Looking to trade for a BlackBerry.(Brand new or MINT condition) Let me know how much cash you will add. GTA only. No shipping.</Content>
+	</Post>
+</Thread>

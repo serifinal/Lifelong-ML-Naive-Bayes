@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Need help trying to connect my HTPC to a projector.</Title>
+		<Username>jmartin147</Username>
+		<Datetime>01-01-09, 12:12 AM</Datetime>
+		<Content>I was recently given a Sony VPL-VW10HT projector that has 2 component inputs, 1 RCA & 1 S-vid. I'm trying to integrate it into my media center and I don't seem to be having much luck. I thought I could connect it to my HTPC via a DVI-I to component cable but I keep coming up with the same error: "Frequency is out of range". The video card I have on my HTPC is an ASUS EAH3450/DI/256M Radeon HD 3450. The card can output DVI, HDMI & VGA. Before I spend any more money on this I wanted to ask for the support of the forums on the likelihood my next route would work. I have an Onkyo 605 receiver with all my sources going to it (HTPC-HDMI, PS3-HDMI & Wii-Component) and outputing one HDMI cable to my television. Do I need to purchase an HDMI splitter and an HD FURY 2 to get my projector to accept this? This would be an even more ideal solution since all my sources could connect at once, but I've already spent $60+ on cables and adapters that didn't work. Please help before I waste any more money on this. I hope all this makes sense. If you need any more information, let me know. Thanks, John</Content>
+	</Post>
+</Thread>

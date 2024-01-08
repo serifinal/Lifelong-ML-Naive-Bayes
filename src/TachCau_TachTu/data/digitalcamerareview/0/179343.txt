@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My slide show on Flickr.</Title>
+		<Username>Photobug4741</Username>
+		<Datetime>01-26-2009, 10:25 PM</Datetime>
+		<Content>Post removed only one reply.</Content>
+	</Post>
+</Thread>

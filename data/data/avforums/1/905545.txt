@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>the best 3D TV?</Title>
+		<Username>grendizer78</Username>
+		<Datetime>18-02-2012, 10:38 PM</Datetime>
+		<Content>Hello everyone, Can somebody tell me which plasma tv is the best 3D tv? I want to choose between D8000, VT30 or GT30. Which one has the best 3D picture (also ofcourse the best PQ)? And what kind of glasses are the best to use for 3D? Active or passive ? Thanks in advanced.</Content>
+	</Post>
+</Thread>

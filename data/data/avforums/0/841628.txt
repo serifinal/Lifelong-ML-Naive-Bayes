@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>any difference between tx-p50st30 and tx-p50st30b</Title>
+		<Username>gman67</Username>
+		<Datetime>09-01-2012, 8:31 PM</Datetime>
+		<Content>hi all, Do you know any difference between tx-p50st30 and tx-p50st30b by any chance? I ve just found a piece of article saying the "b" mean the tv is for the british market but still wonder whether there would be any difference between models depending the markets they would be designated to? anyone got an idea? thanks</Content>
+	</Post>
+</Thread>

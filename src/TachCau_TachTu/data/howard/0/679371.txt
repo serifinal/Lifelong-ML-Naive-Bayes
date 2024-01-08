@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell Turbo Hub Router Setup and Questions</Title>
+		<Username>zeg</Username>
+		<Datetime>07-14-2010 04:44 PM</Datetime>
+		<Content>Hi All, I got a turbohub from Bell, I am sastified with it compared to my old isp (explornet) . But i must say it is not a land line connextion but it is way better. Here are some info (specs,tweeks,questions) that i would like to share with you. First of you will probably never get the advertise speed from this device. Bell advertise "up to" 7 mb down and 5 mb up. The upload is wrong it will not upload pass 2-2.5mb . As per the download i usualy et from 4 to 6 mb dl with full signal strenth. I never hit 7 once. Latency .. They advertise that hspa have a latency from 50 to 90 ms responce time. This is the case most of the time. but allot of time if you ping google or similar you will get 600 ms and i have seen up to 1800 ms responce times. I cannot explain why this is hapening (possible firmware needs upgrade). I have alsow read that if you hop from tower to tower it could cause high latency. If that is the case a directional antenna would be a shure fix. If you get one make sure you get one with tryban 800 1900 2500 mhz. I have one but im still wating for the patch cable to come in from China. Is there anyone here that can tell meif i can upgrade my firmware ? Its dated 2008 and they have had several revision but i dont want to brick my Hub and i dont want to be on hold with bell for 2 h. Thanks Zeg</Content>
+	</Post>
+</Thread>

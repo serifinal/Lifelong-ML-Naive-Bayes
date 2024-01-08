@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Burn-in on LG PK590 plasma</Title>
+		<Username>Amun82</Username>
+		<Datetime>03-05-2011, 2:34 PM</Datetime>
+		<Content>After just a few months of using the plasma (TV, Blueray, Xbox, various use duration - anything from 5min to 8hours) there appears to be a white burn-in in the bottom left and right corners. To be more specific these are elements from one of Xbox games Bad Company 2 (frame and digits size 3 inch by 3 inch). It's barely visible (mainly on a black background) nevertheless you can spot it. I made LG aware of the problem. They came back with two points: the first is that warranty does not cover burn-in and the second is to run ?white wash? which is simply white image which you need to keep on for some time. I?ve done the ?white wash? no improvement at all. Not quite sure what else I can do to fix it. Now, I was aware of the concept of burn-in before I purchased this plasma and I was particularly careful not to leave still images for prolonged periods. But hey you can?t help it sometimes some channels/games will have some still images present for some time ? that?s the way it is - I bought the plasma to use and enjoy it not to have it off or on 20% of brightness to prevent burn-in. Despite this the screen still suffered. I think this is quite bad that it is so easy to get burn-in on this otherwise good quality product. I think LG should warn you and write it in bold and capital letters in documentation attached to the product how to prevent it (if possible) because once it happens it is your problem since LG told me that this is not covered by the warranty. I wonder if anyone knows how to fix this problem, in possible at all. Cheers</Content>
+	</Post>
+</Thread>

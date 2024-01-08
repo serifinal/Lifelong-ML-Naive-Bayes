@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 42" plasma</Title>
+		<Username>byer2moor</Username>
+		<Datetime>29-06-2011, 1:42 PM</Datetime>
+		<Content>my plasma picture turned red then turned off, the standby light still comes on ,can anyone tell me what the problem might be as it was a good tv</Content>
+	</Post>
+</Thread>

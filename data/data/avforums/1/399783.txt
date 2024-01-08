@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic ST30 vs G30?</Title>
+		<Username>Halk</Username>
+		<Datetime>19-06-2011, 6:10 AM</Datetime>
+		<Content>I was nearly ready to buy a TV a month or two ago, but decided to stay away from it until I got the rest of the flat sorted, to see how much money was left over after everything else I'm buying. I'm now back looking at TVs, and it still seems to be a Panasonic Plasma as the best choice for me. I was reasonably settled on the G30, but I've now noticed the ST30, and while I have no need for 3D I'm wondering if the ST30 is a better TV than the G30. I've not heard much talk about the ST30 at all, and I can't really explain why I've never considered it. So I'd appreciate if anyone could advise if, ignoring 3D entirely, it is a better TV.</Content>
+	</Post>
+</Thread>

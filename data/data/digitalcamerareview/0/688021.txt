@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>DPI ? for powershot SX20IS</Title>
+		<Username>artbylmr</Username>
+		<Datetime>09-29-2010, 03:02 PM</Datetime>
+		<Content>I have tried to change settings and no matter what I do when I open an image in paint shop pro I can only get 180 dpi in the original image. Is there a way to get at least 300 dpi off the camera? I bought this camera because I am an artist and am trying to get high res photos of my paintings. I have been fighting with this for a long time and would really appreciate some advice. Thanks! Lynne</Content>
+	</Post>
+</Thread>

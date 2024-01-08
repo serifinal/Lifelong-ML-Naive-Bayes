@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon SD850IS vs SD870IS</Title>
+		<Username>overseastar</Username>
+		<Datetime>12-23-2007, 11:51 PM</Datetime>
+		<Content>Hello, I am planning to get a Canon DC this Christmas. I currently own another brand camera and I'm unimpressed with the photos taken during night times. I've read pretty good reviews for both SD850 IS and SD870 IS. More leaning toward SD850 IS since 870IS doesn't have an optical viewer. Any other input from other users about why 870IS might be better than 850IS aside from the wider angle? Are either of these cameras good for taking night scenes? Thank you.</Content>
+	</Post>
+</Thread>

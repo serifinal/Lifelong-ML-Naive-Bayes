@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Matrix Home Cinema</Title>
+		<Username>paldridge</Username>
+		<Datetime>31-07-2011, 4:29 PM</Datetime>
+		<Content>Just wondering if anyone here has used Matrix Home Cinema to calibrate their Plasma. It's getting near the time to get my 50" VT20 calibrated and I wanted to find the right people to do it. Cheers</Content>
+	</Post>
+</Thread>

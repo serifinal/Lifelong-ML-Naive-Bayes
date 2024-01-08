@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TXP46G20</Title>
+		<Username>gazngaz</Username>
+		<Datetime>26-05-2011, 9:21 PM</Datetime>
+		<Content>Hi all! If you own one of these, can you please advise me what the sound is like in a normal living environment (ie living room)? I was listening to one in richer sounds and thought it sounded tinny. I will try and get to listen to one of these in a demo room to see if it was down to it being in the store. I did like the picture and the more natural colours though</Content>
+	</Post>
+</Thread>

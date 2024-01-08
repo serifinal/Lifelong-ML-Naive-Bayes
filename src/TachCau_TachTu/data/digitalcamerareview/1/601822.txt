@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Cannon 570 IS vs SD870</Title>
+		<Username>ollaaz00</Username>
+		<Datetime>12-08-2007, 03:17 PM</Datetime>
+		<Content>I'm stuck between these cameras, they seem identical but SD870 is a lot more expensive. I live the view finder in 570 but I really can't find other difference? Any thoughts!</Content>
+	</Post>
+</Thread>

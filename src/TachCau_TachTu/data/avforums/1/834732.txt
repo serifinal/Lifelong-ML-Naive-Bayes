@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PANASONIC VIERA TXP50C3B - any experience?</Title>
+		<Username>acrebo</Username>
+		<Datetime>24-04-2011, 7:25 PM</Datetime>
+		<Content>Anyone got any experience of the TXP50C3B? £450 in Richer Sounds seems like a bargain!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Ixus 55</Title>
+		<Username>Jessica</Username>
+		<Datetime>01-24-2006, 11:22 PM</Datetime>
+		<Content>Hi all! I recently bought a Canon IXUS 55 (I think its called something else in the US). Its the tiny Canon camera. Anyway, its awesome! The screen is huge, it actually takes up nearly the whole rear of the camera. Anyone else have this model?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Dongle for gt30</Title>
+		<Username>daveydw</Username>
+		<Datetime>23-11-2011, 10:02 PM</Datetime>
+		<Content>Hi is there an alternative to buying the panasonic dongle for my Panasonic 50GT30 I have looked through the forum but don't seem to be able to find an answer</Content>
+	</Post>
+</Thread>

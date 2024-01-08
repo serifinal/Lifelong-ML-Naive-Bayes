@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>MyPyle</Username>
+		<Datetime>08-03-2010 10:38 AM</Datetime>
+		<Content>Wirelessly posted (Cingular 8525: BlackBerry9700/5.0.0.602 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/102) First bb with os 6 http://m.crackberry.com/t-blackberry-torch-9800-pricing-and-availability-announced</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic phd8 sky remote code?</Title>
+		<Username>nicke20</Username>
+		<Datetime>04-01-2012, 1:26 PM</Datetime>
+		<Content>ive tried 678 nothing its an old thompson hd box with a version 4 remote programming ny pressing tv then select and red together (two flashes) enter number press sky then testing by trying volume</Content>
+	</Post>
+</Thread>

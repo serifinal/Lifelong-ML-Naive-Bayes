@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 60PK250 help?!</Title>
+		<Username>Staceyg86</Username>
+		<Datetime>19-06-2011, 8:25 AM</Datetime>
+		<Content>I'm sure you've all been asked the same question a million times now BUT - Is there anyway of using the 'service only' USB port?</Content>
+	</Post>
+</Thread>

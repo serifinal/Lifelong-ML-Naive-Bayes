@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Negotiating with Retentions</Title>
+		<Username>mng09</Username>
+		<Datetime>03-14-2010 11:05 PM</Datetime>
+		<Content>Hey guys - I know there`s a retention sticky at the top, but just a quick question: from your experiences, is it possible to negotiate successfully with retentions before your contract expires? Currently, I'm about 9 months out from the end of my contract and I really want to pick up a BB 9700 before then because my HTC Touch is crapping out on me. However, I don't want to renew without getting some type of bonus. Any thoughts?</Content>
+	</Post>
+</Thread>

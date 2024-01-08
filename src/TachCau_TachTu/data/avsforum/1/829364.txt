@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sharp/Samsung/Sony 2008</Title>
+		<Username>wpix</Username>
+		<Datetime>11-26-08, 12:56 PM</Datetime>
+		<Content>Hi all, I know this question has been posted numerous times, and I have read countless reviews But.. I am most likely going to pull the trigger to replace a broken 30'' CRT with a LCD. We will be mainly sitting 6-8 feet during viewing , and at dinner 14 feet. The Ones i am looking into are Samsung LN-40A630 LN-40A650 LN-46A550 Sharp LC-C4254U Sony unsure of model but a XBR5 From my coworkers who deal with these products they say Sony breaks down the most, and quire a few of them sware by samsung. The sharp brand I was the one initially wanted to get, but now I hear more and more about the banding issue and blacks not being the blackest. This tv will be mainly used in daytime about 12-13 hrs a day, and might have sun from outside window so seeing glare would kind of kill the picture,(I know you can turn the tv slightly to fix that) Hope you guys have some good Ideas. Thanks, David from NYC</Content>
+	</Post>
+</Thread>

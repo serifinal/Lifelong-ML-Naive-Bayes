@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Auto rotate not working Canon SD750</Title>
+		<Username>airtas</Username>
+		<Datetime>03-14-2010, 11:21 PM</Datetime>
+		<Content>When I bring over the file to the PC the image is not rotated must I use the software with the camera?</Content>
+	</Post>
+</Thread>

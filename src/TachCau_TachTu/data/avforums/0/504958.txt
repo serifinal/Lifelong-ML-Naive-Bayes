@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS50C6900.. Blacks (lack of) really annoying me</Title>
+		<Username>clarky78</Username>
+		<Datetime>12-01-2011, 11:38 PM</Datetime>
+		<Content>OK, basically, The Shadow is on tv right now, and it's a pretty dark film. The screen is mainly just a medium shade of grey and nothing like what I would call black. I don't seem to be able to do anything to it to improve the situation either. This black issue has been slowly bugging me more and more, compounded by the faint grey bars running up the screen on dark scenes. I went around my friends the other day and his Pioneer is just so much better it's rediculous! The blacks are almost as black as the bevel. Getting closer and closer to selling this thing for a Pioneer! I know the blacks aren't the best but surely this is something that they could have improved. I mean, my old Hitachi blacks were about the same as this... And they were one of the reasons I 'upgraded'.</Content>
+	</Post>
+</Thread>

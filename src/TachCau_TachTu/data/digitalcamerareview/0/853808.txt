@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon 7D Shutter Count</Title>
+		<Username>simonsays</Username>
+		<Datetime>03-01-2010, 06:48 PM</Datetime>
+		<Content>Is there a way to know how many shutter activations have been made on a Canon 7D?</Content>
+	</Post>
+</Thread>

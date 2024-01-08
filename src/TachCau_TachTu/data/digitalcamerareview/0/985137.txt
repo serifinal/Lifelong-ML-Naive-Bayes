@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nikon Coolpix L5 and Coolpix L6 Digital Cameras Announced</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>08-24-2006, 02:00 AM</Datetime>
+		<Content>Nikon has announced two new cameras in their Coolpix "Life" or L lineup of digital cameras. The Nikon Coolpix L5 features 7.2 megapixels, 5x optical zoom, 2.5 inch LCD and Nikon's Vibration Reduction system. It will be available in September for $299. The Nikon Coolpix L6 features 6 megapixels, 3x optical zoom, 2.5 inch LCD, and 1000 shots on the included Energizer lithium AA batteries. The L6 will available in September for $199. With the Nikon L series, the whole goal is a compact, easy to use, well-featured, affordable camera. The cameras are powered with AA batteries and include in-camera features that casual shooters appreciate. Nikon's "In-camera Innovations", which are easy to access with the "One-Touch Portrait Button" include: D-Lighting Red-eye reduction Face Priority AF Nikon Coolpix L5 (view large image) Features: 7.2 megapixels 5x optical zoom Vibration Reduction 2.5 inch LCD (115K pixels) Best Shot Selector (BSS) - camera chooses best picture out of a series One-Touch Portrait Button 15 scene modes Accepts SD media Weight: 6 ounces Available in September for $299 Nikon Coolpix L6 (view large image) Features: 6 megapixels 3x optical zoom 2.5 inch LCD (115K pixels) 1000 shots with included Energizer lithium AA batteries ISO 800 Best Shot Selector (BSS) - camera chooses best picture out of a series One-Touch Portrait Button 15 scene modes Accepts SD media Weight: 4.4 ounces Available in September for $199</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Artifacts/Screen noise on Samsung Plasma?</Title>
+		<Username>jem16</Username>
+		<Datetime>03-02-2012, 6:14 PM</Datetime>
+		<Content>I have a Samsung hpr5012x/xaa 50" plasma TV. I got this TV from a friend, it had no picture but it did have sound so i figured it was worth trying to fix. So, here i am now. I replaced the Y-sustain board, which my friend bought but never put in, as well as the lower buffer board which had a short in one of the chips and you could see where it had blown out. I now have a picture but it has horizontal lines of artifacts as you can see in the picture. My question is whether i should first try replacing the x-sustain board or the logic board next? the picture is below</Content>
+	</Post>
+</Thread>

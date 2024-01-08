@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Mint Google Nexus One for WIND/Mobilicity/AWS users</Title>
+		<Username>Cheshire Bob</Username>
+		<Datetime>06-23-2010 11:19 AM</Datetime>
+		<Content>Selling my mint condition Nexus One (AWS version). No scratches/dents on it whatsoever. Phone has been rooted and comes with Froyo/Android 2.2. Phone package comes with 4GB microsd card, box, manuals, usb cable, charger and unused earbuds. I'll also include a case-mate Gelli case and extra screen protectors. Asking for $520 OBO (no lowballers), local pickup in downtown Toronto. PM for offers. Thanks</Content>
+	</Post>
+</Thread>

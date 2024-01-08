@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic vt30 remote</Title>
+		<Username>Rich De</Username>
+		<Datetime>09-02-2012, 12:44 PM</Datetime>
+		<Content>Could someone please post a pic of there vt30 remote. I just got my vt30 and my remote looks different then the ones I've seen in the reviews. And Panasonic doesn't have any on there site. Thanks it will be much appreciated.</Content>
+	</Post>
+</Thread>

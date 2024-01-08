@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Comparrison: Panasonic 42" V20 & G30</Title>
+		<Username>Stevie Weir</Username>
+		<Datetime>15-06-2011, 11:04 AM</Datetime>
+		<Content>While i know the V20 is last year's i was wondering on how the pic compares on these sets for those that have seen them both. The Freesat HD tuner on the V20 will make no difference to me at all, just pic & sound quality. (this is gonna be a 2nd tv though for the bedroom)</Content>
+	</Post>
+</Thread>

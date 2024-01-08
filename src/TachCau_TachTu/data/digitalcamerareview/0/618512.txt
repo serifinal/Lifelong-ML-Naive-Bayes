@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot SD1000 Ultranovice user</Title>
+		<Username>automne77</Username>
+		<Datetime>03-30-2010, 02:58 AM</Datetime>
+		<Content>Hi, I am a complete novice when it comes to using digital cameras, so far all I have done is buy a camera and without ever changing any settings used it. I bought the Canon powershot SD1000 digital elph in 2008 and would now like to learn to take awesome pics with it. I have read reviews of how wonderful this camera is. but I don't know the basics of a point and shoot camera so going through the manual was a bit of a waste for me. I did try to search google for some articles that help me understand what aperture, exposure macro and iso are but they seem to go into SLRs... Can one of you pls help me find an article that can help me make sense of all these words and apply them to my point and shoot... Thanks in advance...</Content>
+	</Post>
+</Thread>

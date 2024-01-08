@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>When is the best time to buy</Title>
+		<Username>pelly</Username>
+		<Datetime>10-26-08, 07:15 PM</Datetime>
+		<Content>I am seriously considering jumping on board and joining the ranks of projector owner, but want to do it wisely. My question is when can I expect to find the best deals? I am willing to wait a number of months to find bargains. - Is Black Friday the best? - Later on in the Christmas Season/Year end? - Super Bowl time? - New model releases? - Other? - Will the economic troubles cause there to be some extra special deals do you think? Of course I realize at some point you just have to go for it because otherwise you will be waiting for ever, but still I would appreciate thoughts and advice on when would be the best time to part with my hard earned money. Thanks.</Content>
+	</Post>
+</Thread>

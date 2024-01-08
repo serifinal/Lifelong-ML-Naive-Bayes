@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How reflective are Samsung 650 LCDs versus 550 Plasmas?</Title>
+		<Username>ultralight1</Username>
+		<Datetime>12-16-08, 12:51 PM</Datetime>
+		<Content>Curious how reflective the 650 LCDs are for the Samsung compared to their 550 Plasmas. I'm familiar with the Plasma but not the LCDs. Thanks, UL</Content>
+	</Post>
+</Thread>

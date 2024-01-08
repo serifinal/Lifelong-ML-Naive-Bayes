@@ -1,0 +1,8 @@
+pioneer plasma standby issue -lrb- no , not the usual flashing lights one ! -rrb- .
+anyone know anything about this issue ?
+i 've had it for sometime and just put it down to a setting i 've mistakenly changed or similar but i see one other person has posted it -lrb- so long ago avf wo n't let me post this as a reply to it - there were no replies i should also point out -rrb- .
+i ca n't find any other reference to this particular issue anywhere .
+pressing power on remote switches my pdp-436xde into standby -lrb- both receiver and panel -rrb- .
+receiver goes ` red light ' instantly , panel cycles between red -lrb- standby -rrb- and blue -lrb- power on -rrb- for a few seconds before going dark -lrb- no lights -rrb- to turn the tv back on i either have to get up and physically press the receiver 's power button and / or turn the panel off at its power button and then back on .
+not the greatest problem in the world for a tv that i 've had nothing but good things from in its 6 years with me but if there are any solutions i 'd love to hear them .
+cheers nick

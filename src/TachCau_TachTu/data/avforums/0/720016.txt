@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Connecting Sammy PS50C680 to PS3 for 3D</Title>
+		<Username>slipstream</Username>
+		<Datetime>22-11-2011, 12:44 PM</Datetime>
+		<Content>Hi there. For some reason I cannot unlock any 3D modes on the TV. I only have the crappy TV 3D conversion which is terrible. Has anyone set-up their PS3 to run 3D content? Please help if possible. Samsung Tech Support are impossible to get hold of. I have the latest firmware upgrade on PS3. Thanks in advance.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Galaxy S Vibrant Not Compatible With Mobile Sports TV</Title>
+		<Username>DrAkO82</Username>
+		<Datetime>10-21-2010 01:00 PM</Datetime>
+		<Content>Hi all, I finally got a Galaxy S Vibrant from Bell, free at Costco (150$ - 100$ in stores rebates - 50$ on my bill because i have 3 services with Bell) + i got the student plans for 50$. I call CSR yesterday to add Mobile Sports TV but was unable to use it, said it's not compatible with my profile. I call technical support and they said because Mobile Sports TV is not compatible with my phones, so i remove it. Anyone here have an idea when it will be compatible ?</Content>
+	</Post>
+</Thread>

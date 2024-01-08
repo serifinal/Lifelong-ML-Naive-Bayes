@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>XTi pop-up flash problem</Title>
+		<Username>razorback74</Username>
+		<Datetime>06-20-2010, 09:33 PM</Datetime>
+		<Content>The pop-up flash will not release when the button is pushed. I can push the button and help the flash up but then, no flash action. My speedlite works fine but don't always need so much illumination! Local camera shop wants $250 to fix. Help!</Content>
+	</Post>
+</Thread>

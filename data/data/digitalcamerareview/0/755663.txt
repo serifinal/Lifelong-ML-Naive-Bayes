@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New SD 870 IS LCD shows vertical lines off bright objects</Title>
+		<Username>wizard8080</Username>
+		<Datetime>04-19-2008, 02:41 PM</Datetime>
+		<Content>Is this normal behavior? In composition mode, the LCD screen shows vertical lines and anomalies when there is a bright spot such as glare or very high contrast such as a bright window in a darker room. The lines do not show up in the recorded picture, just in the viewscreen during composition. I have two of these cameras and both exhibit the same problem. Canon support was useless.</Content>
+	</Post>
+</Thread>

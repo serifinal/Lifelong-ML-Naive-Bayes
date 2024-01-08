@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Please help..plasmasync plasma monitor and nakamichi sound space 10</Title>
+		<Username>Emma9307</Username>
+		<Datetime>30-01-2012, 12:33 PM</Datetime>
+		<Content>Hello, I have jus acquired a plasmasync plasma monitor px-42vp4pg and a nakamichi sounds pace 10 home theatre system and have absolutely no idea where to start setting them up! I'vemanaged to connect the surround sound to the monitor and had a DVD playing..... I then got a he digital freeview set top box and can't for the life of me work out how to connect everything!! I'm not fussed about having it HD it would be nice but as long as it works I'd be happy... Is this even possible? Any help would be greatly appreciated!! Many thanks, A very clueless Emma!</Content>
+	</Post>
+</Thread>

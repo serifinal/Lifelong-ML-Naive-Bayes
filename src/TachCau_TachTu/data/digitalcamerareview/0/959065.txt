@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD950 IS file size limitation on exporting files?</Title>
+		<Username>user44</Username>
+		<Datetime>11-19-2008, 10:54 AM</Datetime>
+		<Content>Purchased SD950 IS... took it on the trip, no issues. As a test shot many "long" videos (had 2 x 16GB sticks ) I notice that (.avi) files on memory that are >500MB are "unexportable". I do not have a separate card reader to test. Has any one ran into any of these (the files can be played on the camera, so it's not an write or even read issue on the camera itself, but an issue of exporting... Thanks in advance.</Content>
+	</Post>
+</Thread>

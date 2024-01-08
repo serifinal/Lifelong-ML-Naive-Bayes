@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best 50" plasma for around £500</Title>
+		<Username>craste</Username>
+		<Datetime>31-05-2011, 3:58 PM</Datetime>
+		<Content>My parents wish to buy a new TV and as a Kuro owner have explained the benifits of plasma. Thay have a budget of around £500 to £600 and on Comets website they have a Pansonic TX-P50u30B for £599 - would you recommend this or is their somthing else you would offer insteaaed as a better option?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CRTC Decision: APPROVAL!</Title>
+		<Username>Diavoli</Username>
+		<Datetime>05-07-2010 10:22 AM</Datetime>
+		<Content>http://www.crtc.gc.ca/eng/archive/2010/2010-264.htm Let the competition really begin now...</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Wind Mobile BBM Group</Title>
+		<Username>theninjasquad</Username>
+		<Datetime>12-14-2010 04:03 PM</Datetime>
+		<Content>I thought it would be fun to have a BBM group for us Wind Mobile Blackberry die-hards. Join if you're interested! Barcode is below...</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help Please decide Samsung 52" A650 or Sony 46" XBR4</Title>
+		<Username>HDplayer</Username>
+		<Datetime>07-16-08, 01:43 PM</Datetime>
+		<Content>Thank you very much in advance . Any help on this is greatly appreciated . I am in process of purchasing LCD TV . Undecided either LN52A650 Samsung (2499 CAD at Best buy) and Sony 46 " XBR4 (3099 CAD). Here are plus and minuses as follow : 1/ Dynamic of A650 is more contrast than XBR4 but details in shadow are not as clear as Sony .IMHO 2/ 600 clams A650 less than XBR4 .Plus IMO (although i'm willing to spend a little bit more and be happy with the purchase , than safe a little and kick my self in the "you know what" after). 3/ Piano black on A650 is shiny and glares . Minus IMHO So, if any HD Guru or owners of both TV out there can shed a light and help me out deciding between the 2 models is greatly appreciated . Thanks again . Great site for consumers research</Content>
+	</Post>
+</Thread>

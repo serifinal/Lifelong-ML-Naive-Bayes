@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Need help with antenna selection...</Title>
+		<Username>ldanny</Username>
+		<Datetime>09-10-08, 08:59 PM</Datetime>
+		<Content>Hi, I did a search online but I am still a little confused. My zip code is 92840 and antennaweb.org said that I was roughly 30 miles from the stations. I purchased a channel master 4228 but I having a rough time trying to figure out how to mount the thing. So I am thinking about getting a Channel Master 4220M or a AntennasDirect DB4 because it has a J-Mount. Do you think if the 4220M or the DB4 will be good enough? Thanks</Content>
+	</Post>
+</Thread>

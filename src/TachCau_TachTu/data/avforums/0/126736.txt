@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VIERA THP50U30D brightness issue</Title>
+		<Username>dilipm79</Username>
+		<Datetime>15-06-2011, 5:01 PM</Datetime>
+		<Content>Hi, I bought ?VIERA TH-P50U30D? 2 days back. I see an issue with ?brightness?. It either increase or decrease a bit (noticeably) during scenes changeovers.It doesn't happen for all scenes but for some. I read about ?Picture Mode? in manual - It says ?contrast?, ?black? and ?color? reproduction happens in ?Cinema? mode. Hence, I tried setting to ?True Cinema? mode where no revision happen. But, No luck. The ?brightness? change is still visible during few scenes changeovers.. I can say I see something like this video. Not this much, but noticeable! Is this how it works? thanks in advance for your inputs... - Dilip</Content>
+	</Post>
+</Thread>

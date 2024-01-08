@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>NRC - what does it really mean?</Title>
+		<Username>AbMagFab</Username>
+		<Datetime>04-06-08, 10:01 AM</Datetime>
+		<Content>Here's a list of materials, with their NRC ratings: http://www.atsacoustics.com/page--Se...erial--ac.html I gather NRC has to do with overall sound absorption, and I assume a bigger number is better? So why does the 703 have a higer rating than the 705? I thought the 705 was better? And is 0.95 overall a good rating for any type of material? If so, why wouldn't I go with the 2.5lb material at the top (aside from the rigidity of it)? Then there's this stuff, which has a 1.05 rating, is it better/worse/virtually the same? http://www.acoustimac.com/proddetail...rod=MNW%2D1260 Thanks! -Mark</Content>
+	</Post>
+</Thread>

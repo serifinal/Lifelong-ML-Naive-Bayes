@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pioneer Kuro 5010FD Vs Samsung LN52A650 (lcd) within 100 dollars of eachother.</Title>
+		<Username>daninfamous</Username>
+		<Datetime>08-13-08, 09:10 PM</Datetime>
+		<Content>I heard the kuro's are pretty much impervious to burn in, but does this older model do 24p / ect. Or am I better off with the new samsung 52" a650. I do a lot of gaming, and have had burn in issues, my local BB has the kuro heavily discounted NIB. so idk, i need to make a descision soon.</Content>
+	</Post>
+</Thread>

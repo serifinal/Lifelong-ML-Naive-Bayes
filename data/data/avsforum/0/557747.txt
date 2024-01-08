@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nvidia Geforce 174.74 beta drivers officially released</Title>
+		<Username>HDGT</Username>
+		<Datetime>03-27-08, 07:01 PM</Datetime>
+		<Content>http://www.nvidia.com/object/winxp_174.74.html http://www.nvidia.com/object/winxp64_174.74.html http://www.nvidia.com/object/winvista_x86_174.74.html http://www.nvidia.com/object/winvista_x64_174.74.html New beta drivers, supports 6/7/8/9 series on XP and Vista. WHQL drivers shouldn't be far off now.</Content>
+	</Post>
+</Thread>

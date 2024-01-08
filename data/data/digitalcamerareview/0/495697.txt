@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>random 'lines' in images</Title>
+		<Username>blissland</Username>
+		<Datetime>10-19-2007, 11:03 AM</Datetime>
+		<Content>I have a canon SD750. I use a 1GB SD card and an Addonics 4in1 DigiAdapter ExpressCard34 to import my photos onto my MacBook Pro. Everytime I import photos, I have some pictures that are fine, and some pictures that are randomly "not fine". By 'not fine' I mean that they will have horizontal or vertical 'lines' in them--not actually lines but an imaginary line where the photo is lighter or greener or more saturated or whatever on one side than the other, or maybe shifted a few pixels. If I pull the card out and put it back in, the location of the line usually moves, and the quality of the problem changes, and if I do it a half dozen times, I can usually get a version of that photo that is perfect. Of the photos that are ok sometimes, their 'badness' seems to remain constant...so photo x will always have a 'slight' problem when it has a problem and photo y will always have a severe problem when it has a problem. the fact that the photo is sometimes ok, makes me think the camera is fine (??) and that its encoded properly on the SD card (??)--that the problem is with the ExpressCard34 or the MacBook Pro. Has anyone heard of this before? I don't know what to google to look it up.</Content>
+	</Post>
+</Thread>

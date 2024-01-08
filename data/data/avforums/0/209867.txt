@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Green dithering pixels on my screen - samsung plasma</Title>
+		<Username>MrKennedy</Username>
+		<Datetime>22-07-2011, 6:39 PM</Datetime>
+		<Content>Hi peeps, I have the samsung c680 plasma and have noticed that when my brightness is at 70 i get green dithering circular flicks on the black bars top and bottom of picture!... It also happens on the picture itself. When i turn it from 64 to 63 they dissapear, i was trying to get a good contrast/brightness balance as i keep loosing shadow detail. Anyway, is this problem normal or is my set faulty? Thanks.</Content>
+	</Post>
+</Thread>

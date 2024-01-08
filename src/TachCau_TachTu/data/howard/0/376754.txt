@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>[OFFICIAL THREAD] Nokia N8: Reviews, Issues, Tips, Tricks & Support Thread</Title>
+		<Username>flip1199</Username>
+		<Datetime>10-11-2010 07:37 PM</Datetime>
+		<Content>Now that the Nokia N8 has been officially released and in our hands I felt a new official thread was needed. Has anyone had any issues signing into the "Social" app? i've been trying for the last 3 hours and keep getting a gateway error.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,25 @@
+adding budget info .
+update as of 12-15-08 .
+this screen is `` done '' , here are 4 complete pictures : updated 3-22-09 : finally made manual masking panels to view 16:9 material , link here , pict added below manual masking panel for 2.35:1 screen for 16:9 viewing this link should take you to the lessons learned/things done right/things done wrong/what to do next time post .
+includes : - itemized bom and budget summary - alternate ways to build this , what i 'd do - calculations used so anyone could do this easily `` i am the kung fu panda , ska-doosh ! ''
+one of my favorite shots from cars : manual masks in place for 16:9 viewing : below text is from original 1st post , un-edited .
+i mentioned in &#8220; talontsi96 &#8221; build thread birth of a diy curved screen -lrb- at grey -rrb- that i was going to use his -lrb- and others -rrb- curved diy screen framing methods as a basis for my &#8220; r&d project &#8221; of making one with structural extruded aluminum metal framing .
+well , a few weeks have gone by and here is status : my work uses this structural extruded aluminum metal framing for many testing fixtures ; i &#8217; ve always thought it would also make a good screen frame material .
+sorta like a tinker-toy approach , std fasteners can be used , should make it easy for others who want alternative to a wood frame for whatever their reason .
+you can cut this stuff with carbide saw blade , easy workability .
+no welding .
+now , with my ht project is the time to actually do something .
+after speaking to the test technicians and the guy who designs their test jigs , he pointed me to their website , http://www13.boschrexroth-us.com/framing_shop/ .
+you 've might have seen this stuff in manufacturing workcells or test labs , etc : neat stuff , easy to order , lots of choices - too many if just looking at the catalog .
+http://www13.boschrexroth-us.com/fra...category=10101 our work uses the larger sizes for jigs and test fixtures , 40mmx40mm and larger , however i felt 20mmx20mm should suffice for a static loaded diy 2.37:1 curved screen frame .
+this was also based on a meeting i had with their sales rep , nice guy , he informed me many of the large commercial screens use their stuff .
+here is x-section image from website : basic image is the frame itself will be solid/rigid foundation , then i will attach 1 x 4 pine board and put the correct curve per aussiebob &#8217; s calc sheet .
+sounds simple - i expect roadblocks but that 's part of the journey .
+my goal is diy 128 '' diag curved 2.37:1 screen , with dw laminate as the screen material , due to young kids .
+when the kids are older , i 'll use the frame as base for at screen with speakers behind .
+i calculated the metal framing portion weight to be just under 11lbs. , that 's about what the pieces/fasteners i have weigh .
+additional weight from using 1 x 4 pine boards and the dw laminate will be added .
+i have the material at home , next weekend -lrb- memorial weekend -rrb- this is my diy project .
+stay tuned .
+i 'll post picts as this project matures .
+i 've seen other people here using sq alum tubing , but never this extruded structural alum stuff , if others have done this before post that link , i could not find any .

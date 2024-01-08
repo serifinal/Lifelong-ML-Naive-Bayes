@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sharp LC-52D85U</Title>
+		<Username>sawtooth81</Username>
+		<Datetime>10-15-08, 10:09 AM</Datetime>
+		<Content>Does anyone have experience with this recently released 52" LCD? Thanks.</Content>
+	</Post>
+</Thread>

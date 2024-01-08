@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Which Set up to go with? Anyone</Title>
+		<Username>Fit2Run</Username>
+		<Datetime>04-01-08, 09:06 AM</Datetime>
+		<Content>I received 2 proposals from 2 different companies this is what they suggested. Option 1: Pioneer Pdp 5010HD Plasma Pioneer vsx92 Receiver Mythos Eights on wall front speakers (L,R,C) Supercube II subwoofer SpeakerCraft AimEights Three (rears) Panansonic Bd-30 Blue Ray Option 2: Pioneer PDP 5010HD Plasma Denon AVR 2808 surround receiver Sony BDPS 300 Blue Ray Speakercraft Tantra Three front speakers (L,R, C) Speakercraft BASS X-Dual8 subwoofer SpeakerCraft AimEights Three (rears) Along with wall mount, MX350 remote or Harmony one (i tend to like harmony one). Panamax 4300 Which makes most sense assuming price is not an issue. 2nd option was offered to me at about $800 less then first option.</Content>
+	</Post>
+</Thread>

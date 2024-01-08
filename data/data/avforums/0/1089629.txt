@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TH42PZ80 screen colour fault</Title>
+		<Username>An-dy</Username>
+		<Datetime>23-12-2011, 6:03 PM</Datetime>
+		<Content>Hi, I know its not the latest model but does anyone know what may be causing my PZ80 to randomly have colour issues? Its done in 2 times in the past few weeks, the first time just for 30 seconds or so but yesterday it stayed like it but is back to normal today. Its like this picture taken from another thread (Its ok at the moment so can't get a picture of mine buts its the same) Things are green when they are usually blue or black and similar.</Content>
+	</Post>
+</Thread>

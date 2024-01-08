@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TH-42PH9</Title>
+		<Username>Lady Jane</Username>
+		<Datetime>23-11-2011, 1:03 PM</Datetime>
+		<Content>We have a Panasonic TH-42PH9 screen/monitor which we use for watching DVD's & linking to a laptop - we have it linked to our home theatre amplifier. We have the following boards: TY-FB9BD in slot 1; TY-FB8HM in slot 2; not sure of the number for the board in slot 4 - it has PC in (female 15 pin) + audio, plus Serial (female 9 pin) - see attached photos. [Slot 3 is empty] We would like to add a TV receiver but we're not sure which board to purchase - that's if they're still available! Any idea's or can anyone help?</Content>
+	</Post>
+</Thread>

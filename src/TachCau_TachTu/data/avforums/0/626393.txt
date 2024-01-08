@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG PV450 & PS3 Question</Title>
+		<Username>LGaddict</Username>
+		<Datetime>24-12-2011, 7:57 PM</Datetime>
+		<Content>So, I have a new LG TV as listed in title and a PS3 I noticed when I watch a blu ray or dvd via PS3 (and Monster HDMI), and I press enter on the LG remote, it says 1080i and not 1080p??? Why is this and how to I get the 1080p picture.....? Kind of confused as I assumed all blu rays played 1080p??? It also says 1080i when watching HD Satellite (but that is hooked up via Monster Component Cables)</Content>
+	</Post>
+</Thread>

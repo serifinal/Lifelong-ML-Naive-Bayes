@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon IOS1100D DigiScope Attachment</Title>
+		<Username>JayMar</Username>
+		<Datetime>01-05-2012, 02:15 PM</Datetime>
+		<Content>Does anyone know if there is a bracket available to attach a Canon IOS1100D SLR camera to an RSPB AG60 scope? I believe the RSPB scopes are made by Viking Optics? and I'm told they do not do make an attachment to suit my 1100D SLR. Does anyone know of any universal attachments? Help!</Content>
+	</Post>
+</Thread>

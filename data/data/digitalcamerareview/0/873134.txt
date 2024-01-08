@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>REALLY Enjoying my Canon Powershot SX130IS</Title>
+		<Username>RayOfMinneapolis</Username>
+		<Datetime>01-27-2011, 03:45 PM</Datetime>
+		<Content>Just thought I would post here for anyone considering a Canon Powershot SX130IS. You can find them for less then $200. I bought mine at target before the holidays for $230, but they're on sale everywhere Now, the thing to keep in mind, if you've read some reviews, is that the batteries can get low rather quickly. But, it takes rechargeable AA's. So, it's not to difficult to have a ton of them with you. The 12x Optical zoom is AWESOME. I was used to 4X.. Rather then give specs that you can find elsewhere, I'll just share some work I've been doing, which you will find only right here! A few photos and then a video done in the super cool "Miniature Mode". Enjoy. (Click to play)</Content>
+	</Post>
+</Thread>

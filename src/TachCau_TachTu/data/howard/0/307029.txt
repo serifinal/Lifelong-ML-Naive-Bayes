@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>U-Verse Internet Customers, do you have ads in your webmail</Title>
+		<Username>tbonecopper</Username>
+		<Datetime>04-23-2010 08:24 PM</Datetime>
+		<Content>Do you have ads in your webmail.. powered by Yahoo?</Content>
+	</Post>
+</Thread>

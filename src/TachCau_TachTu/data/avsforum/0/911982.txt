@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sky ceiling without using a mural painter!</Title>
+		<Username>Speakerlab</Username>
+		<Datetime>11-24-08, 04:39 PM</Datetime>
+		<Content>Hello, I am looking for a solution to turn a art niche (3' x 6' barrel ceiling feature) into a sky. The niche already has fiber rope and looks good. A sky or even Italian themed ceiling feature is what we are after. If I could dim the lights down a star ceiling could even come into play? Any ideas-do not want to pay 700 + for a graphic vynil but more like a wallpaper in sections. Thanks, Tyler</Content>
+	</Post>
+</Thread>

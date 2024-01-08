@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>T.V. can only do 1080i, worth getting blu-ray?</Title>
+		<Username>BKSinAZ</Username>
+		<Datetime>10-26-08, 05:30 PM</Datetime>
+		<Content>I currently have a standard definition Denon 3930ci dvd player hooked to my KDS-R50XBR150" Grand WEGA? SXRD television. I was considering buying a blu-ray player, however my television will only do 1080i. Will I get any benefit if I upgrade from my standard definition (but highly rated) dvd player? Optically, can someone see the difference between a blu-ray hooked to a 1080p television verses a 1080i televison?</Content>
+	</Post>
+</Thread>

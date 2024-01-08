@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Merry Christmas and a Happy New Year</Title>
+		<Username>saarnold</Username>
+		<Datetime>25-12-2011, 4:17 AM</Datetime>
+		<Content>Merry Christmas and a happy New Year to one and all. Have a great day today- with lots of pressies, food and good TV,BD,3D viewing on a great VT saarnold</Content>
+	</Post>
+</Thread>

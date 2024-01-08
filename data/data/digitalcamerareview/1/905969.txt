@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Generic Battery Reviews?</Title>
+		<Username>asdf</Username>
+		<Datetime>12-30-2005, 12:16 PM</Datetime>
+		<Content>anyone have any good or bad things to say about the useage of generic batteries. My canon g3's battery is lagging and I'm thinking of trying a generic bp-511, but i want to read some personal experiences.</Content>
+	</Post>
+</Thread>

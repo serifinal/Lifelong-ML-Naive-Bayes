@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Adding Voice Feature To iPad Plan</Title>
+		<Username>windrules</Username>
+		<Datetime>07-30-2010 02:26 PM</Datetime>
+		<Content>Hi I am using my iPad Micro Sim in my iPhone 3GS and I want to add voice to my phone line with Bell. So far I have topped up my pre-paid phone $15 from the self-serve area and I still cannot make voice calls, But I can call 611 etc. I just keep getting "Your call cannot be completed as dial" error when calling valid numbers. Are there any Bell employees who can help? or someone who might know how to active this feature. Thanks.</Content>
+	</Post>
+</Thread>

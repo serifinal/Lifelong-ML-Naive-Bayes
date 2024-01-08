@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>barberfunny</Username>
+		<Datetime>12-22-08, 06:37 PM</Datetime>
+		<Content>I will give some more details: I have a Klipsch synergy 5.1 setup. Looking to go 7.1 with HDMI and networking. Always have liked my old Yamaha rxv-595, although I agree with some in this forum tha the Yamaha Klipsch combo can be a little too bright. Would I be better off with Pioneer or Denon? My use is 50/50 HT/music... Klipsch Synergy SF-1 mains and SC-1 center Klipsch Quintet II satellites for rears Polk PSW350 sub Yamaha RXV-595</Content>
+	</Post>
+</Thread>

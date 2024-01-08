@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Fairly simple question for those of you who know more than me</Title>
+		<Username>realnebraska</Username>
+		<Datetime>11-10-08, 03:09 PM</Datetime>
+		<Content>We are just starting to look for a new TV for our bedroom. It will be used mostly for SD viewing for the time being, hopefully not for too long. It is a fairly light room, with a couple of big windows, but will be used at night, 80-90% of the time. My question for all of you is, what would be a better choice for this application, plasma or lcd? While we're at it, we will be looking in the 32"-40" range, and want to get the best bang for the buck we can, at around the $700 range. I'm hoping to get something on the day after Thanksgiving, to hopefully stretch my dollar a little further. Fire away with your thoughts, and thanks in advance.</Content>
+	</Post>
+</Thread>

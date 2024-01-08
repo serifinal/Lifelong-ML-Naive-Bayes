@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Issues with Text Messages</Title>
+		<Username>Silentedge</Username>
+		<Datetime>01-01-2010 05:38 PM</Datetime>
+		<Content>There are times when im texting, either that person im texting never gets my text, or i never get their replies... Ive tried texting my self, and sometimes it works, but the other times i get the texts when i restart my phone... any ideas why?</Content>
+	</Post>
+</Thread>

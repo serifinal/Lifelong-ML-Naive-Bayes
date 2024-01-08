@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Adding Extended Family Plan to Existing Account</Title>
+		<Username>2000impreza</Username>
+		<Datetime>06-22-2010 06:17 PM</Datetime>
+		<Content>Can anyone confirm if it is possible to add the extended family plan (Always shout for $25) to a existing wind account? I read on HOFO this was not possible. I called Wind to confirm and they told me it is possible. Not sure if the Wind call center rep was mistaken.</Content>
+	</Post>
+</Thread>

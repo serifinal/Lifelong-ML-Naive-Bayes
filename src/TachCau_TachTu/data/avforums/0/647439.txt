@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help. Sony EX320 service menu</Title>
+		<Username>mmxx</Username>
+		<Datetime>08-01-2012, 8:32 PM</Datetime>
+		<Content>Hi, How can i get into Sony Bravia EX320 service menu? Thanks a lot. P.S. I've already tried several methods, which doesn't work.</Content>
+	</Post>
+</Thread>

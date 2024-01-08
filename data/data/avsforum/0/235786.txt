@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Best version of Linux to make PS3 media player</Title>
+		<Username>mjfink</Username>
+		<Datetime>09-02-08, 07:47 AM</Datetime>
+		<Content>I have a friend with a PS3 that would like to use it as a media player (MP3, photos and videos). I was thinking that perhaps installing Linux is the best way to get acceptable format compatibility; basically, the only video I want to play are MPG2 AVI files that are direct rips from DVD; something the PS3 doesn't seem to like, unfortunately. Has anyone tried to do this and had a good experience. I don't care about the lack of hi-def video support; I just want to play ripped DVDs, no HD content (I'll use the BD for that). However, I would like broad format compatibility; MPG2 DVD rips are a must, other formats would be nice as well. Thanks for the help!</Content>
+	</Post>
+</Thread>

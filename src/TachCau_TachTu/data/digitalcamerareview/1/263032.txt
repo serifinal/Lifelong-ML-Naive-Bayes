@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>any troubles with Canon PowerShot A570 IS?</Title>
+		<Username>blondieblue227</Username>
+		<Datetime>11-20-2007, 02:28 PM</Datetime>
+		<Content>thinking i'm going to go with this camera because it has: 1. high ISO for night time. 1600 2. view finder. the kodak i was looking at had a LCD screen which may be hard to see outside 3. 2 AA batteries. this feature i like the most. no chargeing and i'll always have plenty backup AA on hand 4. under $200 does anybody have any complaints about this camera? thank you.</Content>
+	</Post>
+</Thread>

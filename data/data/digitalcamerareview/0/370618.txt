@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help needed! Canon SD4500is</Title>
+		<Username>jossigirl828</Username>
+		<Datetime>01-16-2011, 08:42 PM</Datetime>
+		<Content>I am trying to figure out how to use the color accent on my new Canon SD4500is camera. I know how it works but I can't get it to actually work. I saw the saleslady use the feature so I know I have it but I can't get it to function! Please help!</Content>
+	</Post>
+</Thread>

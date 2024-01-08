@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>antenna help....KDL-40V2500</Title>
+		<Username>joshuk21</Username>
+		<Datetime>09-21-08, 04:24 PM</Datetime>
+		<Content>First, please let me apologize if this should be on another board I have a Sony Bravia KDL-40V2500 LCD tv hooked up outside near my hot tub. I do not currently have cable hooked up to this tv. I assumed since it has a built in ATSC tuner that I could get OTA channels without the help of an external HD antenna. However, my tv is not receiving either analog or digital signals. Is the built in tuner not strong enough to receive OTA channels? Maybe a setting in the TV is not turned on? Or do I indeed need to buy an antenna (preferably indoor as I do not wish to hang an outdoor antenna). I felt I knew quite a bit about HD television but I realize I am very ignorant when it comes to tv's and antennas. Any help you guys can be would greatly help me out.</Content>
+	</Post>
+</Thread>

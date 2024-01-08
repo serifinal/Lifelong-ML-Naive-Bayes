@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon CBK4-200 rechargeable batteries</Title>
+		<Username>blueskies888</Username>
+		<Datetime>09-21-2008, 04:06 AM</Datetime>
+		<Content>Hi everyone, I am wondering if anyone has had this problem. The first two times I charged the batteries, the battery life was great. They lasted a long time. However, since the third time, the batteries don't even last 5 minutes before my camera flashes the low battery alert. I store the two batteries not in use (they came in a set of 4) in a drawer in my desk, so it satisfies the "dark, cool, and dry" storage place that the instructions recommend. I also only recharge the batteries when my camera indicated low battery (but the batteries were not totally dead). Is it possible that this is a temporary problem or have the batteries already lost their charge capacity permanently? Thanks</Content>
+	</Post>
+</Thread>

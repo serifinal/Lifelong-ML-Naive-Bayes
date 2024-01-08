@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking for a great TV for gaming. (46-50 inch or larger)</Title>
+		<Username>XMotoX</Username>
+		<Datetime>03-23-08, 12:26 PM</Datetime>
+		<Content>We are going to make a gaming room so does anyone have any good recommendations? I would prefer to choose from TVs from BestBuy because they have alot of coupons usually... but if I can find a better deal somewhere else please let me know! I was looking at the Pioneer plasmas... Expensive but are there any good deals on them? We wouldn't want to spend over 2k I don't think. So any recommendations please keep them coming! Thanks!</Content>
+	</Post>
+</Thread>

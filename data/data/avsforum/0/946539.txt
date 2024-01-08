@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Acoustic effects of ceiling fans in home theater</Title>
+		<Username>1stHD</Username>
+		<Datetime>07-30-08, 02:25 PM</Datetime>
+		<Content>I wonder how the ceiling fans will affect the sound system especially those on not-too-high ceilings. The wave from low frequency surely will push the blades and those blades will viberate. I have a 52" ceiling fan on 8' ceilings just a few feet in front of the main speakers.</Content>
+	</Post>
+</Thread>

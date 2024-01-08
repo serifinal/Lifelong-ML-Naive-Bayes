@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BRAND NEW HDMI cable male-to-male 6 feet long</Title>
+		<Username>h2o-</Username>
+		<Datetime>03-07-2010 10:28 AM</Datetime>
+		<Content>$15 pick up in Toronto only, price is firm.</Content>
+	</Post>
+</Thread>

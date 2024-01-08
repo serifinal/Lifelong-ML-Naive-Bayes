@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>Lucy_Smith</Username>
+		<Datetime>09-10-08, 11:13 PM</Datetime>
+		<Content>Wish to have automatic dootrs for your house, shops and offices that provide a modern look and security to youir house then please visit the following link: http://www.autodoors.org.uk</Content>
+	</Post>
+</Thread>

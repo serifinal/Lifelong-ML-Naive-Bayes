@@ -1,0 +1,62 @@
+nice camcorder canon xl2 3ccd minidv camcorder w/20x optical zoom .
+o.k. i have been taking a beating from camera rental houses this past year , so when i needed to finish a project that was dragging on and forcing me too shoot on many different days , i said `` what the heck '' , and put down the money for the xl2 .
+i was a reluctant buyer not excited at all about buying a dv camera .
+i was ready to be disappointed by another crappy and expensive dv camera .
+two months later , i 'm glad i bought it , and i 'd say that it is the best prosumer dv camera out there , period .
+here are some of the positives and negatives about the camera based on experience .
+positives : 1 -rrb- clean signal : while not as good as something like the sony dsr 500 its a cleaner signal than the vx2000 , pd150 , and the panasonic dvx100a .
+of all the dv cameras i 've shot on i like the xl2 's signal the best .
+2 -rrb- interlacing : i 've shot a great deal on sony cameras .
+especially the dsr 500 , and the sony image is always funky , the interlacing is always visible specifically in details like hair and what not .
+even with all the menus set properly by a great dp the sony cameras always have a very hard and interlaced look .
+even when shooting in 60i mode the xl2 does not have this and it handles fine details better than the sony cameras i am used to .
+3 -rrb- buttons and menus : the design of the button lay out and menus is very good .
+if you have shot on the panasonic dvx100a you will really enjoy how the canon is laid out , you do n't have to go deep into the menus for every shot on the xl2 .
+the one really bad decision was putting the film grain and color bars on the same button .
+that was a mistake .
+why they hell does this camera have a film grain button anyway ?
+4 -rrb- bnc output : a small but really helpful addition to the xl2 is that it has a bnc out .
+for anyone who knows how those bnc to rca adopters tend to fall off or get lost its about time that a pro-sumer camera included this simple thing for people who use an external monitor .
+5 -rrb- the custom menus : for professionals : if you have shot on pro cameras you will naturally look at the custom menus as a joke , a pro-sumer `` toy '' .
+i wo n't try to tell you that they are n't a `` toy '' but they do actually work !
+which is a great surprise .
+i have used the camera on sets and on outdoor documentary sports shoots .
+i find than things like the black stretch and the knee work and are helpful , they are not like what you find on a beta camera for example but they are a lot better than what else you can find for the money .
+for consumers : this camera comes with a lot of features that you wo n't use if you are a point and shoot , `` let the camera do it for me '' kind of person .
+however , if you are willing to learn or interested in videography , you will find these features interesting and with a little practice down right useful .
+6 -rrb- color features : to the professionals : these work too , you do n't get very deep control of the color gain and the rgb settings but you get some and they work pretty well , which is saying a lot for a camera under $ 5,000 !
+i am developing a preference for shooting with the color gain and rgb settings set pretty high and then pulling them down in color correction , if necessary .
+desaturating in post using after effects gives great results , but it has not been necessary all that often , and i 'd rather take the color out rather than trying to put it back in .
+for the consumers : the color controls are better than on any other camera you are thinking about , most of which will have none .
+the xl2 gives you noticable control over the saturation of the colors as well as how much red , green and blue you see in the image .
+7 -rrb- sound : i do n't know what it is , if its the mic or the signal processing but the xl2 has better quality sound than you would expect from a dv camera out of the box .
+use a real mic and the results are great .
+negatives : too many rip off artists trying to sell this camera .
+purchase the camera only from a trusted and well known retailer , no exceptions , you will get ripped off .
+1 -rrb- the lens : for pros : you do n't want this lens since it has no witness marks etc. .
+buy the body without the lens and put on the 16x manual servo zoom .
+it will cost a bit more but it will be worth it if you need any percision in your shooting .
+for consumers : the standard lens is better than any other lens out there , i think you 'll find shooting with it a good experience .
+2 -rrb- the eyepiece : for consumers : if you are a consumer do n't worry about it , its fine .
+its only an issue in specific cases that pros encounter because of they way they shoot .
+for pros : its really hard to make focusing decisions with the eyepiece that comes in the box .
+its not so bad for run and gun doc work but if you are doing dramatic work or pulling focus you 'll want to upgrade or always use a monitor .
+3 -rrb- its still dv : this is a really great camera for what it is , but you are still shooting dv , and you can run but you ca n't hide from all the inherent problems of the format .
+4 -rrb- using the fire wire : warning !!!!! if you use lacie external firewire drives , among others , the xl2 does not place nice with other devices in the fire wire chain .
+to log footage from the camera onto your computer you may have to turn off your external drives to do it .
+this is a for sure with lacie drives .
+for many users this will mean either buying larger internal drives or capturing footage to an internal drive with the externals turned off and then transferring the footage later .
+the professional should keep in mind : 1 -rrb- the 24 and 30p frame rates : naturally the xl2 does not output a true 24 or 30 frame rate .
+the camera gives you the choice of pull-down you want and then you can remove it in post .
+if you are going to true 24p output you have the option of 2:3:3:2 pull down , which seems to work without problems with cinema tools .
+2 -rrb- all the weight of the camera is at the front so its having a shoulder pad is not that helpful , since most of the weight is on your hand anyway .
+3 -rrb- it may be user error but on the last shoot i directed that used the xl2 there were some strange time code things happening .
+the dp -lrb- who i trust completely -rrb- was pre-setting the tc as is usually done but on some tapes the tc changed from the pre-set hour back to hour 0 at some point in the tape .
+was this due to battery changes or something else ?
+who knows ?
+the tc should never do this so i have no idea why it happened but it obviously effects postproduction and makes generating an edl impossible .
+4 -rrb- assuming that you do n't have the cash for an anton bauer upgrade , the bp-945 batteries are good , they last a long time .
+so with two of them , the battery that comes with the camera , and the 910 charge you are in great shape and will be able to shoot continuously no problem .
+if you are shooting in the field you will get 10 + hours of camera time out of these three batteries before you need to recharge .
+5 -rrb- the pelican 1600 case is a little small if you want to break the camera down all the way .
+a bigger case is not a bad idea .

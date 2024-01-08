@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic Viera TC-P42ST30</Title>
+		<Username>Pureness</Username>
+		<Datetime>15-07-2011, 5:03 PM</Datetime>
+		<Content>There are a few thing's i wanted to know about this TV before i buy it 1 does this TV get screen burn in 2 does it get ghosting when playing video games 3 Performance levels for handling fast motion graphics with minimal lag</Content>
+	</Post>
+</Thread>

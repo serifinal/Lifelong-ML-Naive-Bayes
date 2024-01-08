@@ -1,0 +1,13 @@
+hitachi 42pd6600 video display fault .
+hi all , i have a hitachi 42pd6600 .
+last week the tv would not output any signal on the screen except from the scart2 socket .
+no component -lrb- xbox 360 -rrb- or hdmi -lrb- ps3 -rrb- or any other input would work .
+freeview digi box and xbox 360 scart were tested and only scart2 would allow a picture to be displayed .
+when i selected the input -lrb- hdmi , component , any other scart -rrb- in the channel select menu the tv would lock up , display a black screen and the tv would not accept any input from the remote control .
+i had to either turn off the tv or wait for ages till the tv reset itself to channel 11 .
+i had a service engineer visit from comet and he did n't really do much except confirm the fault .
+he said that the video board would need replacing in the tv and when he finds out which board it is he would return and replace it , probably in about a week .
+after he left i input the engineers code on the remote , as i had seen him do it and memorised the code , and with nothing to loose i performed a factory reset in the engineers menu and now everything works fine !!
+the question now is do i get them to replace the board or do i leave it and hope everything is ok ??
+my warranty expires in jan 2009 .
+thanks in advance folks !

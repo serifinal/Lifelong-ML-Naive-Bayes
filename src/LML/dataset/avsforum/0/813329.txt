@@ -1,0 +1,28 @@
+omni vs. dipole vs. bipole vs. controlled directivity .
+i 've been learning -lrb- without much success -rrb- to build speakers , and there seems to be a huge difference in design methodologies between various designers .
+so far , all i 've managed to do is get a headache - i still do n't understand 80 % of the math .
+since the folks here are actually using the speakers , i figure you might be able to give me empirical data on how well they work .
+partially because i 'm cheap , partially because i 'm lazy , and mostly because i ca n't afford it , i 'm only going to build a stereo pair of speakers .
+however , if you have any impressions from either stereo or surround-sound use , please share them .
+approach 1 : omnidirectional -lrb- or as close as possible -rrb- while building a truly omnipolar speaker is possible , it generally requires a high-voltage plasma tweeter , which is more trouble than it is worth .
+however , with a bit of clever crossover design and good choice of drivers , it is possible to build a speaker that works over 60 degrees off-axis .
+a good example of this is sigfried linkwitz ' pluto .
+the obvious problem with these is the possibility for undesired acoustic reflection off of walls , requiring lots of messy room treatments .
+vertical dispersion is another problem - often , these speakers are completely useless if you 're sitting too high or too low .
+-lrb- the pluto is an exception - it 's a very odd design indeed which , by conventional reasoning , should have massive distortion and resonate like a pvc didgeridoo . -rrb-
+approach 2 : dipoles examples : linkwitz orion + + , most other open-baffle speakers dipole speakers , especially open-baffle , have their own devoted following .
+their wide figure-eight dispersion pattern make them desirable in many situations , but because they radiate so much sound backwards that they may have even worse room reflection problems than the wide-dispersion speakers mentioned above .
+open-baffles open up a further pandora 's box of headaches .
+i have been told that room placement is critical for these speakers : while the lack of enclosure means no box resonance or internal reflections , it is quite possible for sound to be reflected off of any flat surfaces behind the speaker .
+furthermore , even speakers measured 100 % flat in an anechoic chamber have been reported to have unusual artifacts in bass reproduction .
+there is also the issue of bipole and dipole subwoofers : which is better ?
+why ?
+example 3 : bipoles the benefits for bipoles are officially very similar to that of bipoles , which confuses me greatly .
+aside from the obvious problems of room reflection above , i would also wonder if there might be some potential issues of phase , especially with the bass .
+speaking of bass , both bipole and dipole subwoofers are very popular .
+which is better ?
+why ?
+example 4 : controlled directivity by using a waveguide or planar tweeter , it is possible to reduce dispersion to a 30-degree cone , outside of which there is almost no sound at all .
+on one hand , this eliminates almost all problems of room reflection , which is great if you do n't want to cover acoustically undesirable objects like windows or doors with acoustic tile .
+on the other hand , many people report this results in a less `` natural '' sound .
+so , what do you think ?

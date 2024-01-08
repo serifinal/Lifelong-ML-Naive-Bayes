@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best Plasma for £1500 Please People</Title>
+		<Username>Phillius</Username>
+		<Datetime>26-03-2006, 10:42 PM</Datetime>
+		<Content>As it says really ... I have £1500 spend to spend on a plasma, i would use it for DVD's, Football and HD xbox360. I dont know to much about the technology, i read all this stuff about pixel burning and contrast etc, and as much as ive read pages after pages of specs, i would like the views of people who own and use their plasma's everyday to give me a real idea. Thanks in advance to those who help regards phil</Content>
+	</Post>
+</Thread>

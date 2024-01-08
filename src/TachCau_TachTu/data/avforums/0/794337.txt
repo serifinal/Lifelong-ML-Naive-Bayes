@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma TH42PZ70B Weird Issue</Title>
+		<Username>arovbukay</Username>
+		<Datetime>03-01-2012, 1:24 PM</Datetime>
+		<Content>Recently my Panasonic TH42PZ70b TV has developed an issue with small green lines appearing when light coloured screens are displayed, but it seems fine on darker colours. I don&#8217;t know what the issue is so haven&#8217;t had much luck on Google. Picture attached&#8230;&#8230;let me know if you know what it might be. Note its not the darker green bar across the top, I think that was normal.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS51D550C1KXXU tv</Title>
+		<Username>dawny</Username>
+		<Datetime>27-07-2011, 9:25 AM</Datetime>
+		<Content>HI All, I recently purchased a samsung PS51D550C1KXXU 3d tv and tried to play a dvd on my playstation3. this looked like it was set up for 3d but when i tried with my glasses that were recommended for the tv, 3d didn't happen. Does anyone know why this would happen? I've tried with 2 different glasses still nothing. Do i have to do anything else? Also i have bay windows in the room without curtains, would this effect it even when it's dark outside? any help would be great thanks dawn</Content>
+	</Post>
+</Thread>

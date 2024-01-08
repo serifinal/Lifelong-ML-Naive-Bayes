@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: Samsung Wave</Title>
+		<Username>myrelle</Username>
+		<Datetime>04-20-2010 01:22 PM</Datetime>
+		<Content>Hello, Looking for a BNIB or mint lightly used Samsung Wave. Thanks</Content>
+	</Post>
+</Thread>

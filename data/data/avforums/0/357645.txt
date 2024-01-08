@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TH42PX600 Plasma - vertical line on screen</Title>
+		<Username>katiecola</Username>
+		<Datetime>08-04-2008, 10:29 AM</Datetime>
+		<Content>Hi. I have a 42" panasonic plasma which is displaying a vertical line of about 3-4mm right down the middle of the screen. I don't think it's screen burn as it's a line and not an image. Does anyone have any experience of this? I've been told it's not a connection/signal issue as it still appears when I watch a DVD. The TV is less than 18 months old. Any advice/suggestions would be appreciated. Thanks!</Content>
+	</Post>
+</Thread>

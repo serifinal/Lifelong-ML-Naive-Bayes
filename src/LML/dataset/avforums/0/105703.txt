@@ -1,0 +1,12 @@
+lg 50pv350 htpc/receiver connection problem .
+hello , i got my lg 50pv350 tv today , so far so good .
+i wanted to connect my asrock htpc viac yamaha rx-v1065 receiver -lrb- all hdmi -rrb- as i did with my ex 's lg 50pk350 .
+however : - while htpc is connected directly to tv everything works fine - after connecting the receiver to tv the receiver menu is visible on tv -lrb- receiver - tv connection work fine on any resolution -rrb- - after i connect the htpc to receiver and switch it to any of hdmi ports the htpc is currently on , the tv loses the signal .
+receiver shows the htpc is connected to hdmi port and tv shows the tv hdmi port is live -lrb- not grayed -rrb- , however , `` no signal '' .
+i am even able to play music on the receiver from htpc and at the same time see the receiver menu on tv or , `` lost signal '' when trying to show the htpc desktop .
+- after i swich the resolution to 1280x720 -lrb- using samsung monitor conneced to vga port -rrb- , the tv shows the htpc screen .
+switching to full hd results is `` no signal '' - even boot screen in text mode is not working in `` via receiver '' config - if i exchange the tv with my samsung 24 '' monitor , the whole connection starts working as it is supposed to , - exchanging the cables and its ends does not result in any change , it 's deterministic , i can tell which setting works and which not , - this never happened with my ex 's 50pk350 -lrb- the same devices , even the same cables -rrb- , i did n't notice any problem also with samsung p50c6500 plasma -lrb- except for buzzing - > returned -rrb- .
+the tv manual says `` use the high speed hdmi cables '' , however i do n't believe the cables causes the trouble -lrb- one is bandridge looks like not 100 % connections all the time but works ok when plugged correctly , the second one is some noname with no apparent issues -rrb- .
+anyone having the similar experience ?
+one of the solution is returning the tv and going for pk350 -lrb- still available -rrb- , however , i 'd appreciate avoiding this exercise ... thanks for help .
+l.

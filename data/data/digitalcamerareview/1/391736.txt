@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PowerShot Pro 90</Title>
+		<Username>kellyjoebest</Username>
+		<Datetime>07-10-2011, 11:52 PM</Datetime>
+		<Content>I need a button battery holder, (also known as a date memory battery holder). Anybody have a spare, or know where I can get one. Canon no longer supports the Pro 90.</Content>
+	</Post>
+</Thread>

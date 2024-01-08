@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SX10 IS Macro help</Title>
+		<Username>Logansdad</Username>
+		<Datetime>03-27-2009, 01:38 PM</Datetime>
+		<Content>I've shot some wonderful macro shots. Most of which are in the direct sunlight. Some though do come out in shade and low light. It seems as though its a hit and miss kind of thing. Seems it has to do with the lighting. My question is what is the best way to shoot low light macros either indoors or out without a bunch of noise? The pictures generally look good when shooting them or reviewing them on the camera. Once I go and review them on 100% they are pretty noisy. Also, my DOF is sometimes a little off. I am an newbie, and still experimenting. Thanks.</Content>
+	</Post>
+</Thread>

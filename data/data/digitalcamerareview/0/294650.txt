@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fixing my old SD1000?</Title>
+		<Username>Greek Trojan</Username>
+		<Datetime>11-25-2009, 12:05 PM</Datetime>
+		<Content>About a year and a half ago I bought a SD1000 on sale. Due to moving and other considerations, its been sitting in a closet for about a year. I decided to dust if off and use it as a solid/cheap point and shoot. Problem is that all of the pictures are fuzzy and out of focus. I though it might just be a smudge so I wiped the lens off with my lcd cleaner and microfiber cloth (before realizing that may not be the proper way to go). It didn't really change anything. So my question is if I can somehow fix this cheaply/at home or if I need to start looking into some black friday deals. Wasn't sure where to ask this so any help would be appreciated.</Content>
+	</Post>
+</Thread>

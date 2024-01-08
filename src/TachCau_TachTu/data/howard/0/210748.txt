@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Verizon Wireless USB760 Modem Speed</Title>
+		<Username>amn12</Username>
+		<Datetime>04-26-2010 04:23 AM</Datetime>
+		<Content>Sorry if this is in the wrong place. I couldn't find a modem section. When I go into the configuration of the modem it says the maximum speed is set to 230400. I am able to change that to a higher number of either 460800 or 921600. My question is: why is it set so much lower than it could go? And what happens if I set it higher? Would the modem over-heat?</Content>
+	</Post>
+</Thread>

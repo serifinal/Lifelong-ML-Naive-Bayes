@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Windows Mobile 6.5 and Outlook 2007 Business Contact Manager</Title>
+		<Username>golfer503</Username>
+		<Datetime>10-14-2009 09:09 PM</Datetime>
+		<Content>Does Outlook 2007 Business Contact Manager work with windows mobile 6.5. The BCM web site only shows up to windows mobile 6.1. Thanks</Content>
+	</Post>
+</Thread>

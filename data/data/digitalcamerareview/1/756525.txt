@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Re: Recommended Cameras</Title>
+		<Username>jweakley</Username>
+		<Datetime>03-02-2007, 01:55 PM</Datetime>
+		<Content>I have been reading reviews about the Canon Powershot SD700, and there seem to be quite a few complaints about the "red eye" condition. Any suggestions? I am pretty much of a camera novice, so I want a camera that is easy to use but with some nice features that I can use as I become more knowledgeable.</Content>
+	</Post>
+</Thread>

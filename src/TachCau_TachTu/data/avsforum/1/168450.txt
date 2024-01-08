@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Should I buy the extended warranty?</Title>
+		<Username>aguyfromtexas</Username>
+		<Datetime>10-19-08, 03:06 PM</Datetime>
+		<Content>I'm about to order (tomorrow, most likely) a Sammy LN52A750 from BuyDig and the extra warranty is $159. Is it worth it? I've never bought an extended warranty on anything other than a car ($400 extra on the price of a Charger isn't much to ask). I'm not seeing any posts about problems with his monitor.</Content>
+	</Post>
+</Thread>

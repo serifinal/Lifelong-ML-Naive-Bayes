@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung 81 series VS Samsung 9 series ?</Title>
+		<Username>vasyachkin</Username>
+		<Datetime>09-18-08, 11:27 PM</Datetime>
+		<Content>i am trying to figure out if i can get a better TV than 60" Kuro some of the options that come to mind are 55" Series 9 and 52" Series 81 Samsungs now i can more or less figure out what the tradeoff between Samsung vs Kuro is but i don't really understand what the difference is as far as Series 81 vs Series 9 ? also, i live in Brooklyn, NY - can you tell me what store i could visit to see either series 81 or series 9 ? my viewing distance by the way will be 8 feet. the room has three windows and is NOT a dedicated HT room so i do expect to have light in it in daytime. Also is there anything else i should consider ? Does sony have LED backlit TVs worth considering ?</Content>
+	</Post>
+</Thread>

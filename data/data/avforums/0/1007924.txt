@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic alignment</Title>
+		<Username>serge</Username>
+		<Datetime>27-12-2011, 12:39 PM</Datetime>
+		<Content>Hi I have given my th50pz70 to a friend and he has started to use the freeview built in i only used it on hdmi only and the screen was perfect on freeview built in the full screen does not align on right side causing a feint green line on dark images can you go into service and move screen a few mil to fill gap hope you can help</Content>
+	</Post>
+</Thread>

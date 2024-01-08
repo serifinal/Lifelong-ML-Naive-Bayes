@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Picture problem with my Rebel xsi</Title>
+		<Username>jamesthedrummer</Username>
+		<Datetime>01-02-2009, 06:37 PM</Datetime>
+		<Content>I just got a Rebel XSi for christmas. My first dive into a bigger type camera. I'm going from a HP Photosmart to this monster. I've been reading my manual trying to figure out why I cannot take a decent picture on this. Every picture, no matter what setting I use including the auto feature comes out with bad color quality. I'm not even sure how to describe it. Reminds me of the the movie "Predator" when you'd see through the aliens vision. Infra-red type quality. Colors are all distorted. I've cleared all the settings to go back to default and still get these bad pictures. Inside and outside the house, it doesn't matter what I take the picture quality is all messed up. With my HP I click and get perfection in quality each time. Again, please remember I've only had this camera since Christmas and hopefully I'm just missing a small detail. I'm not at all a pro at this, just a newbie. I don't even know if the camera it's self is bad. Thanks for any help.</Content>
+	</Post>
+</Thread>

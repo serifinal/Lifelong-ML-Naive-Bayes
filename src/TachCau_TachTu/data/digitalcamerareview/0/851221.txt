@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot A460</Title>
+		<Username>Shokolad</Username>
+		<Datetime>07-19-2009, 08:58 PM</Datetime>
+		<Content>Hi friends I have a problem with my A460 Canon When I press the switch on button I have a notice Objective mistake. Switch of/ Switch on. And after few seconds camera is switching of. Could you explain me what to do? Thank you for support</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>A710IS vs A570IS and DIGIC II vs DIGIC III</Title>
+		<Username>g2tl</Username>
+		<Datetime>03-03-2007, 01:29 PM</Datetime>
+		<Content>ok, so I was very much set on getting that A710IS. It's just that I was waiting for my creditcard's award points to rack up enough (I just need to wait for it to be updated as I finally do have enough points to order 3x$100 gift cards for J&R). And in the meanwhile, this thing called A570IS comes out with the new DIGIC III processor. Currently from J&R A710 goes for $264.88 and A570 goes for $279.99 (pre-order). I don't really need that huge 6x zoom (it MAY come in handy like... once or twice a year). I would think these two would be similar in picture quality. Oh and I also want to know if there may be some difference in the TFT screens also (low temp vs amorphous?) Finally, though I could be horribly wrong, the newer processor might give a570 a bit more battery, either or both because it just might be more efficient and/or since it processes stuff faster, less time wasted on sucking up the juice. Any suggestions?</Content>
+	</Post>
+</Thread>

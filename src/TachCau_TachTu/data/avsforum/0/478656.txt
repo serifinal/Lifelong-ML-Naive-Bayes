@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Best Room in the House</Title>
+		<Username>shawnwalters</Username>
+		<Datetime>01-02-09, 05:47 PM</Datetime>
+		<Content>"Pretty Much Finished" Pics! Popcorn Hour - Movie Jukebox Anthem ARC Speaker Graphs Equipment List Sim2 C3X1080 Projector Panamorph UH480 Anamorphic Lens SMX Proline 150" Wide 2:35 AT Screen Paradigm Reference 100s v5's for LCR Paradigm Reference ADP-590 v5 for Surrounds Paradigm Reference 10's v5 for Rears SVS PC13-Ultra Subwoofer Anthem AVM50v Pre Pro Anthem MCA50 Power Amp for surrounds and rears Anthem MCA30 Power Amp for LCR Oppo BDP-83 Blu Ray Player Panamax 5300PM Harmony 890 Roku Player Popcorn Hour A110 HP M9500 HTPC unRAID Movie Sever - 32TB of Storage!: Norco 4220 case SUPERMICRO AOC-SAT2-MV8 R Sata Cards Corsair 750HX PSU Corsair 4gb ddr3 Ram Intel Core2 Duo E7500 Processor SUPERMICRO MBD-C2SBX Mobo Noctua NF-R8 Raised-Blade design and SSO Bearing Fans Scythe Kaze-Jyuni SY1225SL12H 120x25mm 1600 rpm 3pin 33 dBA 88.11CFM Fans Acoustic Treatment: Behind False Wall: 2" Linacoustic with 10" bass traps in corners All Around Room: 1" Linacoustic Panels Covered in Black GOM FR701 (Floor to Ceiling side and rear walls) Still left to do: 2nd row of seats? ------------------------------ Original Post: We just built a new house and now we're finishing the basement which is where my new theater is going. The dedicated room finished space will be 14.5x21.5. It will have a stage with a raised platform for seating, fluted columns, suspended crown with rope lighting, sconces and the whole bit - I can't wait! My inspiration for my new theater is this pic:</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rives</Title>
+		<Username>KeithR</Username>
+		<Datetime>08-01-08, 02:42 PM</Datetime>
+		<Content>Has anyone used there Level 1 or Level 2 services? I know a lot of people on this forum have used the L3 service, but i'm not building that kind of room. I'm just wondering if L2 is worth the extra money over the first one. Cheers, KeithR</Content>
+	</Post>
+</Thread>

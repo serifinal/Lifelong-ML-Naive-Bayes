@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Resolution Problems Connecting Through VGA to LCD TV</Title>
+		<Username>ADRiiAN`</Username>
+		<Datetime>03-05-08, 06:11 PM</Datetime>
+		<Content>Hey there. I recently purchased an LG 32LC7D LCD TV and I have my NVIDIA 8600 GTS Video Card in my computer. Basically, i'm connecting the computer to the TV with an DVI to VGA adapter from the card and using a VGA Cable plus a VGA Extension cable to the TV. Now, I don't like Nvidia's Control Panel at all and it seems that it's not doing what I want. I have a 19" Full Screen LCD Monitor hooked up DVI to the computer with a resolution of 1280x1024 and when hooked up to the tv, I want 1366x768. The problem i'm having is that, if my Monitor is fine at 1280x1024, then my LCD TV is at a bad resolution which makes it pointless to view. As well, when I have my LCD TV at 1280x768 (It might be 1280x720), then it shows great but then my Computer Monitor shows messed up at 1280x768 which is a resolution I absolutely despise. Same problem even when I use clone, extended desktop, use my 19" Monitor as the main display or even the LG 32" as the main display. I'm thinking, the problem could be that my main computer monitor is NOT widescreen and my LCD TV is widescreen, and that might create a conflict, but it shouldn't, Nvidia should let me do a custom display, because Nvidia does recognize it as an HDTV. Is there anyway that I could solve this problem? Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New to Canon</Title>
+		<Username>alann</Username>
+		<Datetime>01-22-2008, 09:13 PM</Datetime>
+		<Content>Was on the forums in the Kodak area. Bought a V1253; it broke in a week. Got a second one and it lasted just a little longer. Don't want to trash a MFG but, will say I am much happier with my Canon SD950IS. Is a great camera! Looking forward to being a part of this forum and learning from you all. Alan</Content>
+	</Post>
+</Thread>

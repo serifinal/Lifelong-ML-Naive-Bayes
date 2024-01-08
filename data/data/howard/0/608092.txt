@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Criket A100 Outlook Contact Sync</Title>
+		<Username>TrickyT1405</Username>
+		<Datetime>07-09-2010 03:32 PM</Datetime>
+		<Content>Hey everyone, First post so here its goes.... Just got two new Criket A100's for my office staff. Wondering how I can sync this with my outlook contacts? I have tried Data sync but can't find 6.1 for free and im guessing that's the only version that supports this model or the kyocera s1300? Also I have tried bitpim but also no luck even when I choose the "other" phone option. I'm sure this must be simple to do i just don't know what to look for. Thanks@</Content>
+	</Post>
+</Thread>

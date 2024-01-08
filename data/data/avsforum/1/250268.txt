@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Toshiba 46xv545 or Samsung LN46A750 or 650?</Title>
+		<Username>Randyja</Username>
+		<Datetime>01-01-09, 05:02 PM</Datetime>
+		<Content>Newbie alert, newbie alert!!! I am looking into my first home theater upgrade in decades and I am a lost puppy. I have decided that I will be purchasing a Denon AVR-2809 receiver and Harmon Kardon HKTS18 speakers for my sound (small setup, but I am stuck in an apartment). I have been reading and researching TV's and the further I get into this the more confused I am. At the moment I am trying to decide between Toshiba Regza 46XV545U and Samsung LN46A650 or 750. I am looking for a simple one or the other answer (is there such an answer?) Both have pros and cons, but can anyone help this poor confused old fart out? Thanks in advance and HAPPY NEW YEAR!!</Content>
+	</Post>
+</Thread>

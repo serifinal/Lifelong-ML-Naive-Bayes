@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Please help me to understand how the lens works</Title>
+		<Username>jolo</Username>
+		<Datetime>11-07-2008, 12:49 AM</Datetime>
+		<Content>I have been using Canon cameras for years, 35 mm and digital. There is a change in the market, where higher end digital cameras are being made that look like, but aren't .....DSLRs. In my ignorance, I would like to know on cameras like the G10 or the SD1000, what the heck does it use to take a photo ????? I see a little, beeny lens on the front of both Canon, DSLR "look likes", but are really point and shoot digital cameras and wonder if that is what is uses to actually take the photo. If you look through the LCD, or the rangefinder, then some sort of estimation is being done, since we are NOT looking through the actual lens that takes the photo, like a SLR or DSLR, correct ?? Please help me understand the basics of how they work in relation to the automatic settings and the actual lens that is being used to take the photo. Thanks so much. Jon Temple</Content>
+	</Post>
+</Thread>

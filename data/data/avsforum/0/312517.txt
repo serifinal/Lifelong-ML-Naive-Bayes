@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with Onkyo HT-R550 and PS3 setup</Title>
+		<Username>VinceF</Username>
+		<Datetime>03-12-08, 03:19 AM</Datetime>
+		<Content>I have a Sharp 42D64U, an Onkyo HT-R550, PS3 and Comcast Cable Box. I'm new to this stuff so I apologize if the questions sound off the wall. My problem is I had a PS2 hooked up to my system and everything worked fine including the surround sound. The Comcast box was connected to the 550 by HDMI and the receiver was also connected to the TV HDMI. The PS2 was connected with composite cables,(audio to the receiver and video to the tv). I bought a PS3 and my future son-in-law connected the PS3 to my receiver using HDMI. The surround sound with the PS3 for both movies and games works just fine. The problem is that the surround sound does not work when I watch tv like it did before the HDMI cable was hooked up. Is there a connection there? Would it be better if I disconnected the HDMI from the PS3 and used component cables? Is there something that I'm not doing?? Is there a way to disconnect the TV's internal speakers to allow just the use of the surround sound? Has anyone else had this problem? Thank you</Content>
+	</Post>
+</Thread>

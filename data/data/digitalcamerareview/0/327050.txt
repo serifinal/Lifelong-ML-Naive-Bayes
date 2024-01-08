@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Newbie to SLRs and have a basic question>></Title>
+		<Username>mbciuso</Username>
+		<Datetime>08-22-2008, 07:34 AM</Datetime>
+		<Content>I just picked up my first DSLR Canon Xsi 450D. (great camera so far). I have no knowledge of lenses and lens terminology. I was thumbing through the documents that came with the lens kit 18 to 55m IS lens and noticed the hugh variaty of lens choices out there for my camera and was hoping to find some resourse that would help a layman like me understand the differences between say an EF-S 18-55 f/3.5-5.6 Is and say an EF28-135 f/4-5.6 IS USM. Thanks, Gerard</Content>
+	</Post>
+</Thread>

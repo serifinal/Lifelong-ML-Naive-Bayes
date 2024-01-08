@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony STR-4300ES or Denon 2309CI - which one is better?</Title>
+		<Username>kwazyjoe</Username>
+		<Datetime>11-28-08, 11:37 AM</Datetime>
+		<Content>Hello. This is my first post I m newbie is this area, so I have little or no knowledge about the receiver. My wife and I want to add the stereo system in the living to use for watching movie and listening music. So far, I have - Sony XBR4 TV - PS3 for blu-ray and game - DirecTV HD-DVR receiver Recently, I purchased Energy Take Classic 5.1 speaker system. Now, I need to buy a receiver, but I am little torned between these two: Sony STR-4300ES (with latest firmware) or Denon 2309CI. My budget is under $900 for a receiver. I can get Sony for less than $700, and Denon for less than $800-900. I appreciate any opinion or suggestion. Thank you!!</Content>
+	</Post>
+</Thread>

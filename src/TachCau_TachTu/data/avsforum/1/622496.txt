@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PowerDVD 8 or Arcsoft TotalMedia Theatre?</Title>
+		<Username>S1DIMMER</Username>
+		<Datetime>10-04-08, 07:31 AM</Datetime>
+		<Content>I need to buy Blu Ray playback software. I don't want any solutions that I need to hack to work. So I've narrowed it down to either PowerDVD 8 or Arcsoft's TotalMedia Theatre. I plan to stream Blu Ray ISO's from my media server to my HTPC, so ISO playback is a must. Which one would you guys choose and why? Thanks in advance.</Content>
+	</Post>
+</Thread>

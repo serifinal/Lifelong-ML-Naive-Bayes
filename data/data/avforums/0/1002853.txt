@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Plasma Tv Owners -- Forget Game Mode! Use PC Mode!</Title>
+		<Username>MrKennedy</Username>
+		<Datetime>08-12-2011, 7:50 PM</Datetime>
+		<Content>Hi, I have just come across a little hidden setting that has shocked me! For any of you with a big screen plasma 50" above, you may find that response time is abit laggy, especially for gamers (ps3/360) so we all know about the game mode on most of our TV's which up the response time etc... but i have just stumbled across a hidden feature on my Samsung 2010 Plasma TV Basically start up your tv and ps3/360... Go to source list.. click edit name.. go down to your input (in my case my ps3 is connected to HDMI1/DVI) ... click the arrow across... select PC from the list... the tv wil blink on/off afew seconds then come back... you will have all 3 setting modes to choose from (movie mode, standard mode, dynamic mode) all be it they will be limited but you can still adjust cell light, contrast, brightness, eco solution, color temp, gamma, dynamic contrast, white balance, screen size and hdmi black level... oh and screen burn protection... now for the fun bit! i just tried mw3 in movie mode, then game mode then pc mode! and its a huge difference for me.. its basically like playing on a monitor I hope this helps out some people, this may well be old news and i could be late to the party but hey as long as some get the benefit from this post</Content>
+	</Post>
+</Thread>

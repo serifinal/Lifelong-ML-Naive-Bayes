@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>call all epson users. what screens are you using? gray/white/dark gray</Title>
+		<Username>dean701</Username>
+		<Datetime>11-10-08, 11:34 AM</Datetime>
+		<Content>Hi there, I've searched through the threads but I can't seem to get a full of sense of which screens people are using for the Epson 720. I'm looking at picking one up in the next few months and as it is noted as a relative bright projector I was wondering if people are going with white or gray screens. It will be generally used in subdued light and all signs seem to point to me using a gray screen but I was wondering what everyone else was using. Your setup details would greatly be appreciated.</Content>
+	</Post>
+</Thread>

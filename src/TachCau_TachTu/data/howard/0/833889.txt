@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>MuscleNerd Finds Another iPhone4 Unlock Method But Says No Tool Release Until 4.1</Title>
+		<Username>craze189</Username>
+		<Datetime>07-19-2010 12:49 PM</Datetime>
+		<Content>http://iclarified.com/entry/index.php?enid=10664 Check the comments to see where he says that no unlock tool will be released until 4.1.</Content>
+	</Post>
+</Thread>

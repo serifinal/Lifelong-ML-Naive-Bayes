@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Dropping 3G connection during calls?</Title>
+		<Username>jeffg1</Username>
+		<Datetime>08-11-2009 11:36 AM</Datetime>
+		<Content>Since about a week or so, I have noticed that when I am in a call, i no longer am able to access the 3G or Edge networks on rogers and fido. I have read and searched but i have not found anything. I have contacted rogers and they reset my phone thinking it was a software issue..It has also happening on FIDO network. Is this happening to anyone else?</Content>
+	</Post>
+</Thread>

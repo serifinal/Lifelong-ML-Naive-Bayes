@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G20 Subtitles ono BBC 1 HD</Title>
+		<Username>srpsrp</Username>
+		<Datetime>23-07-2011, 1:11 PM</Datetime>
+		<Content>If I watch BBC1 HD on Freesat with subtitles on and 'mute' enabled, my G20 ( bought 11/2010) locks up and has to be power cycled. Interestingly turning the sound down instead of pressing mute avoids the problem ! Does any one else get this ? I have the latest software I think Simon</Content>
+	</Post>
+</Thread>

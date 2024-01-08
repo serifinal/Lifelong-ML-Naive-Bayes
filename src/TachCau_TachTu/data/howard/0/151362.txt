@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Please Use the Wiki!</Title>
+		<Username>Aurora</Username>
+		<Datetime>11-06-2007 02:45 PM</Datetime>
+		<Content>In an effort to clean up the Apple's Hacking and Unlocking subforum, please post your howtos and guides in the Apple Wiki. This will make for a single source of information on the iPhone and how to hack it. Thanks for your cooperation!</Content>
+	</Post>
+</Thread>

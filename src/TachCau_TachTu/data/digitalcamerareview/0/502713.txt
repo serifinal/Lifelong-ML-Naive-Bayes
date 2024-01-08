@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problem in using Flash of Canon Pwershot SX10 IS</Title>
+		<Username>Leng</Username>
+		<Datetime>09-05-2009, 08:35 AM</Datetime>
+		<Content>The flash of my canon pwershot SX10 IS is not working... can someone help me...</Content>
+	</Post>
+</Thread>

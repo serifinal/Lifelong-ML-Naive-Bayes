@@ -1,0 +1,33 @@
+photo editing software round-up .
+choosing a photo editing software suite these days is nearly as hard as choosing a camera .
+there are so many options currently out there -lrb- with prices running the gamut , from `` free '' to `` more than a used compact car '' -rrb- that it 's often hard to know where to start when you 're looking to buy or download.with adobe 's famous photoshop gaining more and more dominance in the professional market as time goes on , if you 're not looking to do serious , professional-level photo editing , it 's sometimes hard to find a package that balances high performance and ease of use .
+and since the old adage about the best tool being the one that gets used applies equally to software , choosing something that you feel comfortable with , that provides enough power and also provides the right level of expected user input , is the key to making a good decision.it would be impossible to cover even a third of the options that are out there , but in an effort to help software shoppers out a bit we 've gathered up some info from our most popular software reviews and recommendations from the last few months to get you started .
+as always , lots of helpful folks hang out in our digitalcamerareview.com forum as well ; if you have questions or want to find out more about a particular piece of software , there 's always someone there to help out , and we 're always interested to hear about good editing tools you may have found as well.entry-level packagesif the word `` photoshop '' scares you silly , fear not .
+there are plenty of good photo editing tools out there that take a much more hands-off approach to editing .
+if you 're shopping for software in this category , look for something that emphasizes basic edits -- color adjustments , red-eye reduction , cropping and resizing , and brightness and contrast .
+the best software in this group will move slightly beyond these functions , however , offering controls for shifting mid-tones , adjusting shadows , altering white balance and color casts , and adding special effects.for the ultimate in low-commitment image editing , tribeca labs photobot is about as simple as it gets .
+this fully automated editing solution searches your computer for images , automatically adjusts color and exposure , and resaves them , all without any involvement from you.simply put your files onto your computer , and next thing you know , they 're ready to print .
+photobot has a few warts , and we wish it offered the option for manual control , but if hands-off is really your thing , it 's not a bad solution .
+at around $ 30 , it 's equally easy on your wallet .
+read our full photobot review to learn more.while we have n't done an in-depth review , in the world of free , simple editing and organizing software , we tend to recommend that people give google picasa a try.the free download handles simple edits with ease and style , and offers a few more advanced tools that make it more than worth the investment in download time .
+picasa will also help you share your images on the web if you 're so inclined .
+check out more about what this package has to offer here.advanced editing toolsif you 're looking to move beyond simplistic but are n't ready to shell out the kind of cash demanded by adobe cs3 , there 's still plenty of middle ground to work in .
+there are some telltale markers of a solid package in this category as well , including the ability to do more advanced edits like curve adjustments , plug-in support , and raw conversion capabilities .
+clone/patch/heal tools for fixing blemishes and broad file format support should also be givens at this point .
+the field of step-up editing solutions is really a two horse race .
+trading on a famous name , the front-runner is none other than adobe photoshop elements .
+now in its sixth version , photoshop elements has pared down the phenomenal functionality of its big brother into something a little more manageable .
+the interface in the latest version is better than ever , offering more user-friendliness than we 've yet seen from adobe .
+but the power to handle advanced tasks remains the same , and the fact that many working pros could do most of their editing in elements is a testament to its strengths as a package .
+our photoshop elements 6 review gives the full story.corel paint shop pro photo x2 is definitely the dark horse in this contest , but it has gained a lot of ground on elements thanks to some unique features .
+much of the same functionality outlined above is here , and corel provides some interesting tools for exploring high dynamic range -lrb- hdr -rrb- photography as well .
+i personally prefer x2 's express lab module for quick edits , giving the package dual flexibility as both a serious editor and quick correct solution .
+find out more in our full corel paint shop pro photo x2 review.raw workflow solutionsadvanced shooters ready to step up to a professional-style workflow experience for handling their raw and high-res jpeg shots look to dedicated conversion and image editing solutions .
+it 's all business here , as these packages strip away most of the fun features and special effects seen in less advanced systems in favor of raw -lrb- and raw -rrb- editing power .
+look for a solution that 's non-destructive -lrb- most of the good ones are -rrb- and that offers flexible tools for creating and managing a workflow that fits your work style .
+good batch processing functionality to automate repetitive tasks is also a draw here.as in the world of general editing , adobe rules the roost here with their adobe photoshop lightroom software .
+built around several modules to handle different tasks -lrb- i.e. `` develop '' , `` print '' -rrb- , lightroom brings decidedy pro-grade features in an interface that 's surprisingly accessible for everyone .
+in our view , it definitely wins out for ease of use as a workflow solution , though its image processing is bested by some other packages in a few key areas .
+see our complete opinion on the matter in our adobe photoshop lightroom review.bibble labs is a name that gets some traction -lrb- or at least some recognition -rrb- with professional shooters , though your average amateur photographer may or may not be familiar with their products .
+bibble 4.9 is the latest offering from the company , and in our recent bibble 4.9 review , i was thoroughly impressed with what this product offers in terms of sharpness and color rendering .
+in the same vein , it comes with some truly amazing default plug-ins , and while it wo n't best lightroom for ease of use , it may have the edge for overall image quality .

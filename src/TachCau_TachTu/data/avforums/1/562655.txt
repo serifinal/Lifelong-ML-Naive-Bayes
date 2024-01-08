@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Plasmas above fireplaces</Title>
+		<Username>Jazz Monkey Jr</Username>
+		<Datetime>21-02-2005, 6:18 PM</Datetime>
+		<Content>I have yet to buy a plasma but maybe moving house and would like to mount it above the fireplace, it is a wood burning fireplace set back but can also run a gas type living flame fire, could you mount one there or does it depend on the model, I am looking at the pioneer 435, what is the operating temps etc on that model? Has anyone got theirs mounted over the fireplace and is it OK when watching for long periods?</Content>
+	</Post>
+</Thread>

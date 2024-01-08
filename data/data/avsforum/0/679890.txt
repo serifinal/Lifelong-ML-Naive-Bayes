@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need help with Onkyo 606</Title>
+		<Username>jparker36</Username>
+		<Datetime>01-02-09, 10:52 PM</Datetime>
+		<Content>So I just spent all my money on my new hobby :-) But I'm having a big issue. I bought the Onkyo 606, Paradigm Monitor 7 fronts, cc-190 center. Using my old sony's for rears and no sub. Those will be upgraded later when I have money again :-). TV is a Sony KDF-46E3000. Now my problem: I use a PS3 for all my playing needs. Blu-ray, dvd, cd, etc. It is connected via hdmi, and I'm having the buzzing problem so many people seem to have. Now without reading 60 pages of talk, is there any known solution to this problem, or should I just give up and go exchange the receiver for a Denon/Sony? I know the speakers are connected properly, the hdmi cable is a very high quality shielded (friend works for BB so I got monster cables at cost). I want to love my new speakers,but with this buzz I just can't. Any help will be appreciated.</Content>
+	</Post>
+</Thread>

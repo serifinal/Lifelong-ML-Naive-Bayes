@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Austin Powers Collection Coming to Blu-Ray December 2nd-</Title>
+		<Username>Spizz</Username>
+		<Datetime>08-15-08, 04:07 PM</Datetime>
+		<Content>http://www.blu-ray.com/news/?id=1664</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Possible to keep my plan with fewer minutes + $30 data with the new Vibrant?</Title>
+		<Username>floepie</Username>
+		<Datetime>07-16-2010 11:25 AM</Datetime>
+		<Content>I'm interested in an upgrade to the Vibrant (currently out of current and long time T-Mobile customer). Just wondering if I could keep my current voice plan ($30) and add the requisite $30 data plan to it rather than being forced into a plan with the unneeded minutes. Thanks...</Content>
+	</Post>
+</Thread>

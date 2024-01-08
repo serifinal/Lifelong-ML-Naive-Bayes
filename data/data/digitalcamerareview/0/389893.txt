@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Keep Getting Change Battery Message</Title>
+		<Username>twinstoo</Username>
+		<Datetime>07-25-2009, 08:38 AM</Datetime>
+		<Content>Hi, I have a Canon Powershot A560. I have had it for about two years now. Just recently when I go to take a picture, I keep getting a change batteries message at the bottom of the LCD screen. I use Duracell AA batteries, which are good because I checked them. I also checked the little round battery also and that one is fine also. I cannot even get the LCD screen to show anything but a black screen and the change batteries message. I did take the AA batteries out and cleaned the leads and then it worked a few times and then still the same old message. It work on and off and now it won't work at all. I can not afford a new one right now. I hope someone can help me with this. Thanks, Janine</Content>
+	</Post>
+</Thread>

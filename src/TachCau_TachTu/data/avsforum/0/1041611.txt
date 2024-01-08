@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Much needed help!!! Toshiba 42rv530U or LG 42LB5D</Title>
+		<Username>hailiesdaddy2007</Username>
+		<Datetime>05-28-08, 05:29 PM</Datetime>
+		<Content>okay heres my story guys try to help me please!!! im a noob just know the basics about HDTV's... i first purchased the samsung 40"LCD LN40A450 on the 6th... this set only did 720p... got it home and the sound was horrible... couldnt stand it... so i figured what the hell... i have a ps3 getting into the whole blu-ray thing.. ill take it back and get the cheapest 1080P with the best picture... that turned out to be the toshiba 42TV530U for 1199. i got it home i was amazed. great picture right out of the box... popped in my blu rays... its was good... not amazing but good.... well anyways all this happened on the 6th of the month... sunday i noticed the LG 42LB5D, that does 1080P was on sale at Circuit city for just 999 down from 1600. everyone ive asked has said go with LG its a better brand then toshiba... plus it would be 200 cheaper too... and lately watching my toshiba blu rays the blacks have looked kind of "grainy" if that makes any sense. however every review i look up of my toshiba tv is a great one!!! im so confused... what should i do? should i just keep the toshiba or return it and hope they will refund my money (this will be the 3rd tv i returned to best buy this month) then get the lg at circuit city? someone help me out!!! thanks guys</Content>
+	</Post>
+</Thread>

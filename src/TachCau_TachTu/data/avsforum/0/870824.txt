@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung HL61A750 with Panasonic DMP-BD35/55</Title>
+		<Username>theharm</Username>
+		<Datetime>12-21-08, 05:37 AM</Datetime>
+		<Content>I decided to create this thread for owners who have the DMP-BD35/55 connected to their HL61A750. My goal of this thread is to figure out the best picture settings while using these two devices connected. I followed what are supposedly the "best" settings for the HL61a750 but I do not believe they are actually the best for use with this player. Please provide both your hl61a750 settings AND your dmp bd-35 settings. *I would prefer to have experts post what they consider are the best settings, since I am in pursuit of the absolute best picture possible (blackest blacks, truest colors, etc.). Thank you! My current settings are those posted by Mike_Pro for the TV. Not sure what to use for the Panny.</Content>
+	</Post>
+</Thread>

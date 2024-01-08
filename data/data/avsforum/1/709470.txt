@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HF100 vs. HG20 decision killing me</Title>
+		<Username>SoCalJake</Username>
+		<Datetime>11-26-08, 02:17 AM</Datetime>
+		<Content>Hello everybody, I'm sure this has been asked in one way or another already buuuut, I'm planning to purchase one of these two units in the coming days. I just can't seem to pull the trigger. The pricing is way screwy. Now it seems I can get the HG20 or the HF100 from Amazon with Black Friday pricing for around $550. (The HG20 even includes a free $140 BP-827 battery) I realize the requisite SDHC cost for the HF100 isn't being factored in. I would really appreciate the real world experiences any of you could share that speak for or against both of these, particularly with respect to the preference for HDD vs. flash and ergonomics (control placement). I'll admit, the allure of 60GB at hand means potentially never needing to worry if the clip is worth taking. That concept plays right into the appeal of digital still photography where remaining "film" isn't a concern any longer. On the other hand, flash is quite a bit more durable, only getting cheaper and a 16GB SDHC would probably afford me plenty of time. My primary viewing will be on a 46" Samsung via HDMI and also I'll also be archiving videos, primarily of my daughter, as she grows up. Thoughts? Thanks in advance.</Content>
+	</Post>
+</Thread>

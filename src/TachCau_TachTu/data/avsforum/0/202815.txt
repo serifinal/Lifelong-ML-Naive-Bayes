@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung a650/a750 gaming mode</Title>
+		<Username>chevydude26</Username>
+		<Datetime>07-25-08, 11:44 AM</Datetime>
+		<Content>What settings do you use to get the best picture and least lag on your 360,ps3 and i guess wii(i have one but i don't want anyone breaking my lcd screen so i keep it on the crt) hdmi? Vga? Component? i hear vga gets rid of all lag and thus your free to change your picture setting and you aren't forced with game mode ....does vga work on all 3 systems... and if so what settings do you use to optimize your gaming experience</Content>
+	</Post>
+</Thread>

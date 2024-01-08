@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>africanmarty</Username>
+		<Datetime>08-18-08, 02:12 AM</Datetime>
+		<Content>As the title says how do i run in ( or burn in ) a brand new dvd player , how is it done ?, does it beifit the player?, tried the 'search' but came up with nothing. And recommendations ?? regards Marty.</Content>
+	</Post>
+</Thread>

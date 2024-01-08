@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic View TV in Tv Listings</Title>
+		<Username>tone1234</Username>
+		<Datetime>30-12-2011, 11:02 AM</Datetime>
+		<Content>Hi All, Just a very quick question.... I have a Panasonic Viera (TXP42S21B). It would appear that I am unable to continue to watch the TV whilst searching the guide??? The screen is full of the listings and the sound vanishes??? On over Tv's that I have owned you are able to maintain watching/hearing the channels - I have searched through the manual to no avail. One other question - on the guide, there are two boxes to the left hand side that simply say ''Viera'' - are these meant to do anything??? It looks like they should be doing something??? Any help that you can offer is greatly appreciated. Many thanks for your help in advance and have a great New Year Cheers tony</Content>
+	</Post>
+</Thread>

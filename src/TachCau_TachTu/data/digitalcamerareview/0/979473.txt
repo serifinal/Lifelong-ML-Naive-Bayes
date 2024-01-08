@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>This video was shot on a Canon T2i/550D</Title>
+		<Username>KelliWorld</Username>
+		<Datetime>03-26-2011, 09:44 PM</Datetime>
+		<Content>Hey everybody! The following video was shot on a Canon T2i/550D. I wanted to rent a higher end "Red" camera but my budget wouldn't allow it. My director Brian Kim insisted that we use his Canon T2i/550D instead. Please let me know what you think! Thanks for watching!!!! YouTube - Damozel - Take A Picture</Content>
+	</Post>
+</Thread>

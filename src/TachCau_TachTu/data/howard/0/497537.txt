@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Wave</Title>
+		<Username>Rogido</Username>
+		<Datetime>07-01-2010 02:18 PM</Datetime>
+		<Content>I searched but couldn't find any existing discussions on this, but I apologize if this is redundant. Is the Samsung Wave coming to Rogers, and is this considered a smartphone?</Content>
+	</Post>
+</Thread>

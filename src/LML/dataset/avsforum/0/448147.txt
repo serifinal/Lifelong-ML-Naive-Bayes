@@ -1,0 +1,96 @@
+upscaling standard dvd movies to 1080p using ffdshow and your htpc .
+i downloaded the sw kit .
+i unzipped the sw kit .
+i first installed avisynth .
+with the avisynth in the sw kit you do n't need to replace the avisynth.dll as shown in the video .
+then i install ffdshow .
+during the install of ffdshow there is a page that 's called `` select additional tasks '' , i check these boxes besides what 's already checked : mpeg2 : libmpeg2 vc1 : wmv9 raw video then after ffdshow is installed there is a final page that says `` run ffdshow video decoder configuration '' , so i check that box then press finish .
+now ffdshow video decoder configuration pops up , here is how i set it up .
+from the codecs tab i scroll down to mpeg2 and highlight it and check the `` dvd decoding '' box , then i click apply .
+from the decoder options tab i uncheck the `` detect soft telecine and average frame durations '' box , then i click apply .
+then i scroll down the check boxes until i see the subtitles check box , and i click it with my mouse and hold down the mouse button and drag the subtitles check box to the top of the list , so it 's right below decoder options .
+then i go through every list in subtitles and make sure every box is unchecked , so the subtitles checkbox has all the boxes unchecked , the titles sub list has all the boxes unchecked , then i press apply .
+then i drag the avisynth check box so it 's right below the subtitles check box , and i check the avisynth checkbox and uncheck these boxes in the avisynth tab : `` add ffdshow video source '' `` yuy2 '' `` rgb24 '' `` rgb32 '' still in the avisynth tab , i check the buffers back/ahead box and leave the values at 10 10 .
+then i check and drag the resize & aspect check box so it 's below the avisynth check box , and this is how i setup the ffdshow resize & aspect check box : i check the multiply by circle and set it to the value of 1.000 i check the `` no aspect ratio correction '' circle , then i click apply .
+then i scroll down to the output tab and uncheck these boxes : `` yuy2 '' `` yvyu '' `` uyvy '' `` rgb32 '' `` rgb24 '' `` rgb16 '' `` rgb15 '' `` high quality yv12 to rgb conversion '' `` select closest matching colorspace '' i leave the yv12 check box checked , then i press apply and ok to close the ffdshow video decoder configuration .
+third , i install matroskasplitter .
+fourth i unzip mpc-hc and put it on my desktop .
+fifth , in windows 7 , i open windsfiltertweaker and go to the preferred decoders tab and the 32 bit decoders to use ffdshow , specifically these decoders : h. 264 xvid divx mp4v vc-1 mpeg-2 then i click apply and close .
+then i check the tweaks tab and disable the `` microsoft dtv-dvd video decoder '' , then i click apply , close and then exit .
+sixth , i unzip the plugins folder and go to this folder c : \ windows \ syswow64 to put the fftw3.dll .
+then i drag and drop the other dll &#8217; s into that folder and accept when it asks if i want to modify those dll 's into the c : \ program files -lrb- x86 -rrb- \ avisynth 2.5 \ plugins folder .
+you can tell it 's the right folder because directshowsource.dll is in that folder .
+for non-64 bit windows you would put the fftw3.dll into the c : \ windows \ system32 folder , and the other plugins go into the c : \ program files \ avisynth 2.5 \ plugins folder where directshowsource.dll is .
+seventh , i open media player classic home cinema player , and go to the `` view , options , output '' tab and check vmr9 windowed .
+then i go to the `` view , options , external filters tab '' and check the add filter box , and add `` ffdshow video decoder '' , that set ffdshow video decoder to `` prefer '' , click apply and ok to close the options box .
+then i go to `` view , options , internal filter '' and check every box .
+reboot and then put a movie in the computer and then open the movie with mpc-hc using the file tab and go to the dvd drive to open the movie .
+___________________________________________ video guide at youtube link .
+sw kit .
+updated may 8 , 2011 .
+overview ____________________________________________ step 1 . -rrb-
+install software : avisynth before ffdshow .
+step 2 . -rrb-
+configure ffdshow digital audio step 2 . -rrb-
+configure ffdshow analog audio step 3 . -rrb-
+configure ffdshow video step 4 . -rrb-
+configure media player classic step 5 . -rrb-
+install avisynth plugins step 6 . -rrb-
+reboot , twice .
+pictures ____________________________________________ ________ ffdshow configuration options ________ - for vista , use aero .
+for quality .
+ffdshow configuration options .
+________ upscaling ffdshow configuration ________ codecs tab set mpeg2 to libmpeg2 , and check `` dvd decoding '' .
+set avisynth to avisynth , raw video to all supported decoder options tab uncheck `` detect soft telecine and average frame durations '' subtitles tab , unchecked uncheck `` decode closed captions '' uncheck `` accept embedded subs '' uncheck `` accept ssa , ass , ass2 subtitle -lrb- experimental -rrb- vobsub subpage , uncheck vobsub enable .
+avisynth tab checked yv12 checked , add ffdshow video source unchecked , 3:2 pulldown box : ignore pulldown checked , check buffer back/ahead : 10 , 10 code : setmtmode -lrb- 5,0 -rrb- setmemorymax -lrb- 512 -rrb- video = ffdshow_source -lrb- -rrb- .
+changefps -lrb- ffdshow_source -lrb- -rrb- , linear = true -rrb- a = video setmtmode -lrb- 2 -rrb- setmemorymax -lrb- 712 -rrb- b = a.spresso _ jd -lrb- -rrb- c = a.seesaw _ jd -lrb- b -rrb- .
+limitedsharpenfaster -lrb- strength = 11 -rrb- return c getmtmode -lrb- false -rrb- > 0 ?
+distributor -lrb- -rrb- : last resize & aspect tab checked process whole image checked specify horizontal and vertical resize : 1920 , 1080 -lrb- or your monitors resolution -rrb- process pixel aspect ratio internally checked no aspect ratio correction checked spline luma sharpen : 0.00 luma guassian blur 0.50 -lrb- on small monitors like laptops it 's best not to use this .
+set it to 0.00 -rrb- accurate rounding checked output tab yv12 checked ________ media player classic ________ click the view button .
+check only the top three in the drop down list .
+click options .
+click the output tab , and set directshow output to vrm9 windowed .
+directshow audio : select reclock audio renderer click the external filters tab .
+click the add filter button .
+double click the filters you want .
+you 'll need ; ffdshow audio decoder ffdshow video decoder ________ potplayer ________ run the potplayer installer .
+open potplayer and right click the screen , set the renderer to use madvr : video , video renderer , click `` madshi video renderer '' set ffdshow to be the video decoder : - filters , advanced filter settings , video decoder , filter management , press `` scan '' , press `` ok '' .
+now in `` video decoder '' press the drop down menu and set all the filters to use ffdshow video decoder , press `` ok '' .
+to open a dvd , go to : right click screen , `` open '' , `` open directory '' , `` computer '' , highlight the dvd drive , click ok .
+________ ffdshow audio decoder : analog ________ codecs tab - uncompressed tab set it to `` 32 bit integer '' mixer tab - checked i use 5.1 speakers so i set the number of speakers to 5 , and check the lfe box .
+output tab , - select 32 bit integer .
+________ ffdshow audio decoder : bitstream hd audio in windows 7 ________ install haali media splitter step 1 codecs tab - uncompressed tab set it to `` all supported '' output tab , - passthrough boxes : ac3 , dts , dolby digital plus , dts hd , dolby truehd are checked .
+- connect as pcm first is unchecked - supported output formats : check only 16bit , 24bit .
+- check direct to file step 2 put the files from the bat folder into the system32 folder .
+to register the bat files you need to get permission to , here is how to do that .
+- using mpcvideodec.ax as a example .
+right click and select properties .
+go to security , advanced , owner tab , edit , hightlight administerators , click apply .
+from the mpcvideodec.ax properties , security tab , click edit .
+from the group or user names list , highlight each one and make sure it has full control checked .
+click ok and close the properties tab .
+- do this for these three files : mpcvideodec.ax , mpegsplitter.ax , regsvr32.exe .
+- then right click the mpcvideodec bat file and run as administrator .
+it should successfully register the .
+ax file .
+- for 64 bit windows .
+put the mpcvideodec.ax , mpegsplitter.ax into the system32 folder and the mpcvideodec bat , mpegsplitter bat files into the syswow64 folder .
+change the permissions for the mpcvideodec.ax , mpegsplitter.ax , regsvr32.exe as usual .
+step 3 - run the reg file in the my documents folder .
+step 4 - run the win7dsfiltertweaker .
+under the `` preferred directshow decoding filters in windows 7 '' tab , set h. 264 , and vc1 to mpcvideodec .
+the `` media foundation '' tab is left at default .
+under the `` more tweaks for windows 7 '' , check `` disable microsoft dtv-dvd audio decoder '' , `` disable media foundation '' .
+________ software ________ potplayer win7dsfiltertweaker haali ffdshow .
+updated may 8 , 2011 .
+media player classic home cinema .
+updated march 13 , 2011 avisynth : custom build i made ________ optional software ________ j river spdifer reclock test disks for comparison .
+________ plugins ________ plugins : link .
+updated may 8 , 2011 .
+\ \ \ \ \ list of the nessessary avisynth plugins to go in the plugin folder .
+9 in total .
+\ \ \ \ \ fftw3.dll goes into the system32 folder .
+if your using a 64 bit version of windows , put the fftw3.dll into the syswow64 folder , instead of the system32 folder .
+c : \ windows \ system32 c : \ windows \ syswow64 \ \ \ \ \ i use the ati 4670 and the 11.2 drivers .
+i use hdmi to my 1080p tv .
+the pixel format i use is full rgb : 4:4:4 i use a intel e6600 cpu , 2gb ram , sata hdd , sound card pictures ____________________________________________ spdifer -lrb- for dts and ac3 -rrb- profiles ffdshow media player classic avisynth plugins folder link to a different guide that shows you how to setup profiles ________________________ see this link for frame doubling , or frame interpolation .

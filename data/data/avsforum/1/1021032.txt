@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pioneer Kuro 50" vs Samsung LN52A750</Title>
+		<Username>christonian</Username>
+		<Datetime>07-12-08, 11:00 AM</Datetime>
+		<Content>is there truly any difference between LCD vs Plasma anymore i will be using my HDTV for all genres of video games PS3/360, Blu Ray, HD TV like sports and discovery channel im looking at buying a HDTV with a 4-5k budget i like buying the best thats why i have the above listed if there is better HDTV in either category please list or recommend also if there is a plasma that comes close to KURO but a cheaper price then please post heres a link to my other thread about 7.1 speakers im looking at buying http://www.avsforum.com/avs-vb/showthread.php?t=1047666</Content>
+	</Post>
+</Thread>

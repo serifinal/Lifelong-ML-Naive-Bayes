@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cannon powershot sd850 is. Video Conversion</Title>
+		<Username>rainekbaker</Username>
+		<Datetime>01-15-2008, 11:46 PM</Datetime>
+		<Content>I just purchased a cannon powers shot sd850 is, I love the camera but I am running into a lot of problems when I try to use the videos I took. The format MVI is not compatible with the windows movie maker or even windows media player. I spent several hours searching the web for converters but all they do is produce a video with a gray screen and the audio. Has anyone else run into this problem? I tried contacting customer support and all they said was search the web. I am becoming very frustrated. Any help would be much appreciated. Rainekbaker@hotmail.com</Content>
+	</Post>
+</Thread>

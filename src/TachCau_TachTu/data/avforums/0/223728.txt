@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Best VT20 setting!</Title>
+		<Username>bootstrapwill</Username>
+		<Datetime>06-07-2011, 4:26 PM</Datetime>
+		<Content>So i have just bought a VT20, and its been running in for about 20 hours so far ( colour slides, and zoom 3) But when i feel i have ran it in enough i really want to see what this set can do. so would anybody mind telling me there settings? I only care about settings for blu ray. Thank You.</Content>
+	</Post>
+</Thread>

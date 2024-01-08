@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Wave Vs. HTC Legend</Title>
+		<Username>thymaster</Username>
+		<Datetime>07-07-2010 02:24 AM</Datetime>
+		<Content>Both of these phones have caught my utter attention. Wave is a newer OS compared to Android. How do these two phones compare. I don't understand why the Wave is cheaper when it has nice specs like 1 ghz processor and Super AMOLED.</Content>
+	</Post>
+</Thread>

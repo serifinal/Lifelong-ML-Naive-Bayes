@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best basic Panasonic (non 3d) plasma?</Title>
+		<Username>ziplex</Username>
+		<Datetime>11-01-2012, 1:40 PM</Datetime>
+		<Content>Hi All, I'm looking to replace my ageing Hitachi 42" plasma for a newer set, always said the next TV will be Panasonic so in your opinion which set should I be looking at. I don't need freeview or 3D or endless connectivity.....just a basic plasma but obviously with as best as possible pic' quality for as cheap as possible The Hitachi has been and still is a great plasma but falls down especially with blu-ray in darker scenes, whether this is because of contrast levels or what I don't know but i'm hoping a newer screen will help. There are endless Panasonic models available from many places typically £399-£500+........any ideas on what to look for? Is there much point looking at anything other than the TX-P42S30B @£399???</Content>
+	</Post>
+</Thread>

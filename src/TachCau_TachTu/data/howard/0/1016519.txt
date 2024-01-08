@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: LNIB Rogers MF668 Rocket Stick - HSPA+ 21MBPS</Title>
+		<Username>WorldIRC</Username>
+		<Datetime>10-09-2009 09:25 PM</Datetime>
+		<Content>Hey All, I have only used it for 5 minutes. I am selling a brand new Rogers MF668 Rocket Stick. It works on the new HSPA+ network at speeds up to 21mbps. It will work with both Rogers or Fido accounts. Only reason I am not returning it to Rogers is because I need the money to pay the account immediately (I am on preauthorized credit card and don't want the charge to hit my card). I only bought it to test it, no intention of keeping it! The card sells for $200+tax ($225) + shipping. I will sell it for $220 and do a local meetup in Toronto. Save shipping, backorder delay, and a few bucks! Receipts for warranty are included! IM, PM, or Email if you're interested!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BBC HD breaking up on Panasonic TV - Tx-P46VT20B</Title>
+		<Username>dgilbert2</Username>
+		<Datetime>13-08-2011, 6:17 AM</Datetime>
+		<Content>I have a Panasonic Plasma TV - Tx-P46VT20B (2010 model). I am now having problems watching Freesat channels BBC One HD, BBC HD and Channel 4HD. I have followed the guide below this note and whilst I now receive these channels they are breaking up. I have checked the signal condition/quality and this is "Green" at about 80% and the bit error rate never changes from 0.00E+00. All other channels are fine. I have even reset to "shipping condition". Any ideas? Is anyone else with this TV having the same problems? ------------------------------------------------------------------------- Instructions followed so far....... HD boxes and TVs will not pick up either of the BBC HD channels, and customers will be presented with a blank screen and an error message saying &#8220;Channel not available&#8221; or similar. To rectify this, you will need to put your TV into standby for 30 seconds and then restart it to continue to receive the two BBC HD channels. If the channels remain unavailable, then you will need to carry out a &#8216;Shipping Condition restart&#8217;. Full instructions can be found in the product manual.</Content>
+	</Post>
+</Thread>

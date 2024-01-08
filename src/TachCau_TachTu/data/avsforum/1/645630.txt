@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>volve</Username>
+		<Datetime>09-06-08, 10:28 AM</Datetime>
+		<Content>Hi all! Recently my ~5yo Samsung HLM507WX DLP decided it was time to give-up on the world and venture to the great beyond. I've been debating what to replace it with, realized I didn't really need 50' or want to spend the money for another Samsung DLP and so have come down to these two choices: 1. Panasonic TH-42PZ800U 2. Samsung LN-T4081F The Panasonic has received some great reviews, has THX certs and 480Hz Sub-field Drive (which I presume is their marketing speak for 120hz?) whereas the Samsung has excellent black levels and LED backlighting (does it do 120hz?). So I'm torn. I've read over the owners threads here on AVS mostly but they're hundreds and hundreds of pages long so I'm sure I missed some crucial details. I have to say last night I went to bed convinced that I should save some money and go with a Vizio SV420XVT but given the price range of the above Panasonic & Samsung, it seemed silly to make such an investment somewhere that had mixed opinions. Any input or clarifications on the various features would be really, really helpful! Also I'm not in a must-buy-this-weekend hurry so if there's a new set that isn't out yet but at the same price point ( ~$1,400 ) I'd be more than happy to wait. Thank you!</Content>
+	</Post>
+</Thread>

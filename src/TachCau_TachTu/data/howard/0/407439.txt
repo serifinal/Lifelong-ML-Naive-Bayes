@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Two Motorola Nextel i315s With SIM Card $35 shipped To US Address</Title>
+		<Username>Jim1348</Username>
+		<Datetime>10-10-2009 02:31 PM</Datetime>
+		<Content>As listed above, I have for sale two Motorola Nextel i315s each has a SIM Card. These work great for Boost Mobile or under contract for Nextel. These do have Direct Talk and that is how I have been using these for the past couple of years for direct simplex. I feel better giving one of these to my sons since it doesn't get interference like FRS/GMRS/MURS and it will still work for wireless 911 in an emergency. Email with questions jimdianes@frontiernet.net</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>AngeloN</Username>
+		<Datetime>05-09-08, 06:50 PM</Datetime>
+		<Content>I purchased a Pioneer Elite 1140HD Plasma TV from Best Buy a little under a year ago. Well, about 3 weeks ago I turned on the set first thing in the morning and I saw a white line across the bottom of the screen, then a very loud POP / explosion on the inside of the TV. I quickly turned the TV OFF and noticed that there was now a crack. I called Pioneer immediately and they asked me to send pictures of the TV. I sent them pictures and they said, "well it looks like a crack from external damage so its not covered". Of course thats what it looks like! I asked them to send someone out to open up the TV to find any internal defects to corroborate my story. They did, and as I knew they would, they found melted chips. The TV Repair Tech stated that the internal meltdown could've definitely caused the screen to crack. The TV tech repair sent an email with pictures of the melted chip to Pioneer to review so they would authorize a repair or replacement. At this point I was very happy since I thought this would be enough to validate what had happened to me. Pioneer has refused to acknowledge the manufacturer defect and are claiming they have no proof that the internal damage caused the screen to crack just like I don't have proof that the crack wouldn't have caused the internal meltdown of the chip. Basically what they're saying is that its my word against theirs even though I thought I had proof. So much for being loyal & honorable. Any help? What can I do?</Content>
+	</Post>
+</Thread>

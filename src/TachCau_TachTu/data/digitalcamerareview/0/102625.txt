@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon sx10 grainy photos</Title>
+		<Username>lauraherota</Username>
+		<Datetime>06-27-2009, 03:57 PM</Datetime>
+		<Content>i am having problems with grainy photos. i have the camera in shutter priority mode so i can take pictures of my son, who is very active. the pictures are not blurry any longer but now they are grainy. how do i get crisp pictures? this only happens when taken inside with the flash. thanks</Content>
+	</Post>
+</Thread>

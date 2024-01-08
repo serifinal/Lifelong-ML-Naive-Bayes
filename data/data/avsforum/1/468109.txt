@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking for a device that can play HD Media Like my Xbox360?</Title>
+		<Username>xintensex</Username>
+		<Datetime>10-30-08, 04:25 PM</Datetime>
+		<Content>I am looking for a Device that can play HD Media just like my Xbox 360, Divx, Xvid WMVHD rips, Mp4, HD-DIVX Etc...I have my xbox in the livin room and want something for my bed room, and office, Looking to spend $150, any more than that and I am better off getting another 360. If anyone has something in mind that would be great. Thanks</Content>
+	</Post>
+</Thread>

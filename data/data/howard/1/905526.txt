@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>At&t refusing to sell micro sims</Title>
+		<Username>inomad</Username>
+		<Datetime>06-11-2010 03:31 PM</Datetime>
+		<Content>I called At&t and I called my local corporate At&t store. They informed me that if I wanted, I could purchase one of the Sim cards that can be cut into a Micro Sim card. I visited my local At&t store and they refused to sell me a Sim/Micro Sim outright or to replace my current sim in a Blackberry. Is this normal policy, or just another case of mis-informed sales people? Thank you</Content>
+	</Post>
+</Thread>

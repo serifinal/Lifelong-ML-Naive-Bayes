@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Dark picture</Title>
+		<Username>co2laser</Username>
+		<Datetime>23-06-2011, 1:19 PM</Datetime>
+		<Content>The picture on my G10 is getting darker. I've always had the same settings but now l have had to start adjusting them. What could the problem be?</Content>
+	</Post>
+</Thread>

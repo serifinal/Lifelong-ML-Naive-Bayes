@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Taking Care of my Canon.</Title>
+		<Username>NetBrakr</Username>
+		<Datetime>12-02-2006, 11:43 AM</Datetime>
+		<Content>Hello, I just to make sure that I did this correctly for my Canon. When there is a dust or particles on the lens, can I use a compress air can to blast the stuffs away? I know that need a screen protector for the screen, I already bought one, it should arrive at Tuesday. When I want to clean the camera phyically (of course not the lens), can I use a damp cloth and then dry cloth? Thanks. JC</Content>
+	</Post>
+</Thread>

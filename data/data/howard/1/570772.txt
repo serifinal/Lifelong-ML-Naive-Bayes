@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Data Only Plan - Can I Add Some Minutes</Title>
+		<Username>TheShadowWRX</Username>
+		<Datetime>02-07-2010 02:18 PM</Datetime>
+		<Content>Hey Guys, I'm about to order a Nokia N900 and I really want to have data on it, I called T-Mobile and they have a data only plan/SIM that I can get for $39.99 a month. I think it is a bit steep but w/e. Is there a way I can add some minutes to the data plan SIM? Either 100 minutes a month or something or just a pre-paid amount of minutes? The phone will be for data and video stuff while traveling so the minutes would be primarily for situations when I don't have my BB on me... Thanks Guys, Mike</Content>
+	</Post>
+</Thread>

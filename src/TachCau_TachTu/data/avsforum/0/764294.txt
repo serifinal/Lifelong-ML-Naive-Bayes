@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung 750 Clouding Thread</Title>
+		<Username>studdad</Username>
+		<Datetime>06-18-08, 10:18 PM</Datetime>
+		<Content>This thread was not originated to bash the TV, as the vast majority of people love their Samsung 750, including myself. Instead, it was designed to give people who are thinking of purchasing, or who have purchased and don't know how severe their tv's clouding is compared to other people's 750s, some heads up so they can make an informed decision. Bottom line, I do have clouding, and this tv would be near perfect if I did not, and although I wish the panel was more uniform, the issue is not a deal breaker for me. Of course, we all have our own opinions as to how much clouding is too much, so let the discussion begin. But please, in addition to the poll, explain the appearance of your clouding, where it shows up on the panel, and in what types of situatioins does it rear it's ugly head. You may choose more than one option, so please vote in regards to the amount of clouding you have, and then to what situations it shows itself.</Content>
+	</Post>
+</Thread>

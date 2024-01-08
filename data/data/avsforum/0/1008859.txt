@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Please help me decide: Pioneer KURO PDP-5020FD or Samsung LN52A650?</Title>
+		<Username>cinergi</Username>
+		<Datetime>12-01-08, 08:03 AM</Datetime>
+		<Content>After spending weeks researching flat screens I have narrowed it down to the KURO 5020 and the Sammy LN52A650 and for the life of me I can't decide. I will be mounting it to the wall in my bedroom which has draped windows along the left wall (blocks out a significant amount of the light). Viewing distance will be 6-8 ft with viewing angles of 0 - 30 degrees. Lights always off (viewing mostly during the day). No game play. Will be viewing sports, blue ray, but mostly HDTV. From what I've read motion, picture and sound quality is better on the KURO, but its not as bright. The KURO also seems to have a small problem with inaccurate primary colors which can not be adjusted due to the lack of advanced controls (according to cnet). The Sammy doesn't seem to have this problem. I would also be giving up 2 inches of viewable space. Also, the KURO will cost me $347 more. Both seem to get stellar reviews but so far I've been unable to find anyone comparing the two. I've never owned a plasma and currently have a Toshiba Regza 27" LCD in the bedroom (way too small) and a Marantz VPS4 DLP front projector in the home theater room. Horizontal panning bothers me on the DLP while jerkiness bothers me on the Toshiba while watching anything with fast motion. I guess picture and motion quality are the most important aspects for me and I would be willing to pay the extra $347 if its worth it. Giving up 2" on the KURO is also bugging me. Is there anything I'm not considering regarding these 2 units? Please help me decide. Thanks, Doug</Content>
+	</Post>
+</Thread>

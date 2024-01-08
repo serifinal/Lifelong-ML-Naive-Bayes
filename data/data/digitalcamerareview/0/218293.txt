@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot A495 battery support</Title>
+		<Username>Gary040</Username>
+		<Datetime>12-06-2010, 08:10 PM</Datetime>
+		<Content>can anyone tell me if the Canon Powershot A495 Digital Camera can support lithium and alkaline AA batteries?</Content>
+	</Post>
+</Thread>

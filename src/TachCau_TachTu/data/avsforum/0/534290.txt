@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>John M. Chu says Blu-Ray picture more "detailed" than the theater</Title>
+		<Username>allargon</Username>
+		<Datetime>06-12-08, 07:33 AM</Datetime>
+		<Content>http://www.tvpredictions.com/blutheater060908.htm What theater is he going to where a 1080p 2MP image with 8-bit color is better? Quote: Director: Blu-ray Offers Better Pix Than Theater The Step Up 2 director says more detail can be seen. Washington, D.C. (June 9, 2008) -- Since the advent of High-Definition TV, film buffs have debated whether it offers a better picture than what can be seen in your local movie theater. However, Jon M. Chu, director of the Disney hit Step Up 2 The Streets, believes the argument should now cease: The Blu-ray high-def disc wins by a mile, he says. In an article by Home Media Magazine, Chu says next month's release of the Blu-ray edition of Step Up 2 will offer far more detail than the theatrical print. &#8220;It&#8217;s beautiful,&#8221; Chu says of the Blu-ray disc version. &#8220;The colors just pop. You get to see because we play a lot in the shadows. That&#8217;s what we wanted to do and sometimes the print was a little dark to me." He added: "On the Blu-ray, just consistently you know what you&#8217;re getting and you can play in those shadows. You can see it and it doesn&#8217;t feel dark. It just feels moody.&#8221; Chu even worries that the Blu-ray disc will offer too much detail and, consequently, the director says the production team took great care to eliminate potential mistakes unseen by the moviegoer. &#8220;Well, you definitely get to see more wires from the camera,&#8221; Chu said. &#8220;There&#8217;ll be like a sandbag or something somewhere (on the set).&#8221;</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic ST30 vs G30 for gaming??</Title>
+		<Username>ijintheuk</Username>
+		<Datetime>19-01-2012, 8:32 PM</Datetime>
+		<Content>Hi, I am upgrading my TV (Panasonic U30) very soon and need to know which of these is better for gaming. The main reason I am upgrading from my Current TV is because of a ridiculous amount of Jaggies in Video Games. I just need a TV with great PQ, Little/no jaggies, and also I don't care about 3D, I've just read that the ST30 has a better filter and better blacks. I always watch my TV in a cave so there is no light affecting the TV. Thanks alot and please reply as soon as possible as I am looking to buy the TV tonight as I have been reasearching for about a week now and I need to pull the trigger soon! Thanks again</Content>
+	</Post>
+</Thread>

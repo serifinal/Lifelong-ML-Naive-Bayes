@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Trying to build first HTPC, help me please</Title>
+		<Username>Lionsault</Username>
+		<Datetime>11-24-08, 11:11 PM</Datetime>
+		<Content>Hey there, first time HTPC guy looking to build an afforable, but beastly, machine. Here's what I'm looking to do: - Archive my DVDs in relatively good quality and be able to playback from HD. I don't have a ton right now but want a decent amount of storage to help keep options open. - Eventually be able to archive Bluray and playback from HD. - Store music on machine, allow for playback. - Store pictures on machine. - Maybe use as DVR (I have Comcast) - Simple, but excellent user interface. Must be relatively easy for even techno-phobic middle-agers to use. - I have a Samsung LCD HDTV and a 100" projector screen that drops down in front of it. Would like to be able to display on both screens (not at once, just have the capability to watch TV or projector). Recommendations? Looking to stay reasonably cheap here. Edit/Delete Message</Content>
+	</Post>
+</Thread>

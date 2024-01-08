@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GTA IV review thread!</Title>
+		<Username>celluloideyes</Username>
+		<Datetime>04-16-08, 05:27 PM</Datetime>
+		<Content>EDIT: Please post all GTA IV reviews here. Personal and otherwise. Post all gameplay discussion in the GTA IV Discussion Sticky. Kyser 100 - Playstation Official Magazine UK GTA IV is richer, deeper and more involving than its predecessors. By the time the story threads start to tie up, the mission trees shake out, you're totally invested in the characters and their world. I'm actually jealous of everyone about to experience it for the first time. The greatest testament to GTA IV's brilliance is that I haven't been able to stop thinking about it since putting the pad down. 100 - Official Xbox Magazine UK Utterly stunning in every respect.</Content>
+	</Post>
+</Thread>

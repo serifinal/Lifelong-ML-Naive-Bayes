@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Tv?</Title>
+		<Username>AdamSav1</Username>
+		<Datetime>01-08-2011, 12:58 PM</Datetime>
+		<Content>Hi I just bought a 51" Samsung Plasma TV Model-PS51D550C1M , i am waiting for it to be delivered but i am thinking about changing the tv for another one... I was browsing through one of the catalogues and I saw the same tv and it says 600hz im assuming thats the power it uses, and i looked at all the other tv's and they only use about 100hz... Can someone tell me what the hz means? Does this mean my tv is going to use alot of electricity? thanks</Content>
+	</Post>
+</Thread>

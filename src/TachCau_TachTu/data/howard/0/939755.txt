@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy Spica (Rogers) -- unlock to work with Fido?</Title>
+		<Username>JHW3</Username>
+		<Datetime>06-17-2010 06:49 PM</Datetime>
+		<Content>All, I have a (supposedly) Rogers-locked Samsung Galaxy Spica. When I put my Fido SIM card in it for the first time, it did not "ask" for an unlock code, and the phone indicated that it was roaming and connected to the Rogers network. Attempts to actually unlock the phone (I bought an unlock code) just give error messages. Is this "one of those phones" that can be used on Fido without unlocking? Am I really "roaming"? Or should I just find someone with a Bell or Telus SIM and really unlock the phone? Thanks.</Content>
+	</Post>
+</Thread>

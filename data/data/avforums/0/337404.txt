@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic GT30 46" rant</Title>
+		<Username>stampedeadam</Username>
+		<Datetime>18-11-2011, 12:34 AM</Datetime>
+		<Content>Well, I got this TV last week after reading rave reviews, to replace a faulty Sony (that I was otherwise very happy with). What can I say? Not acceptable for such an expensive TV. - Brightness goes up and down on its own, seemingly at random. - Severe colour banding - Some really strange motion handling problems, especially on HD channels. - Flickers like mad. I know plasmas all flicker a bit but my old CRT 15 years ago was better than this. I have tried to contact Panasonic by email, no answer after 4 days. Have also tried to call them but I just get a recorded message asking me to stay on the line if I would like to talk to them about a kitchen appliance, otherwise they are shut!! I am going to call Currys tomorrow and try to arrange a swap plus extra money for a Sony HX823 46". This will be the third telly I have returned to them as faulty so I hope they don't think of me as a crank just reckon I should get a telly without major problems if I'm spending that much ££££ Rant over.</Content>
+	</Post>
+</Thread>

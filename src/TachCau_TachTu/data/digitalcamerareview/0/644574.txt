@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>issues with Canon Sx 100 is ?</Title>
+		<Username>adityapd</Username>
+		<Datetime>11-29-2007, 07:58 PM</Datetime>
+		<Content>Hi, I am a novice to digital cameras and have recently purchased a Canon SX 100 IS. However, I find the image quality blurring ( lack of focus) when I zoom a distant object in the Auto Mode. The focus has to be set by 1/2 clicking the button before taking a picture. I tried another such camera on display at Circuit city and found this issue was not existing there ( the camera was able to correctly focus on full zoom). Is there some setting which I am missing or is there some defect with my camera. Would appreciate an early reply. ~A</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Speaker Selection Question</Title>
+		<Username>krtf4u_corsair</Username>
+		<Datetime>07-19-08, 04:46 PM</Datetime>
+		<Content>I have been looking into getting a new home theater system for a little while. I don't know much about audio equipment, my knowledge is mainly in the video part of HT. I'm looking at the Denon 1909 receiver and I don't know what speakers I should get. I don't know what kind of speakers I should get. What is a good brand of speakers? The Denon 1909 receiver is a 7.1 system. I am not looking to spend over 600$ on the speakers. I also want a good quality, good sounding set of speakers. Any help will be greatly appreciated.</Content>
+	</Post>
+</Thread>

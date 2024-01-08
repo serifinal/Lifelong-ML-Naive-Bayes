@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>S3 Questions</Title>
+		<Username>Taqwus</Username>
+		<Datetime>07-05-2007, 05:17 PM</Datetime>
+		<Content>I am thinking of getting an S3 IS. I have a couple of questions How long is the battery life, I will be getting rechargeable but do not want to have to carry a ton of them with me? What is the max size of memory card it can take Has anyone tried to use it in the inside, I will be going to Disney world and want to attempt to use it on some of the rides, without a flash At high zooms is there a lot of noise, what about when going into the digital zoom are Does a gorilla pod work nicely with this or is there a better tripod to carry with me</Content>
+	</Post>
+</Thread>

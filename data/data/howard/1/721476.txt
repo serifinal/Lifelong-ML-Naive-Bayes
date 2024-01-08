@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Nexus One real world usage battery life</Title>
+		<Username>jjahshik32</Username>
+		<Datetime>04-25-2010 05:22 PM</Datetime>
+		<Content>I'm getting ready to buy one as I've done away with AT&T + the iPhone 3GS (Love it but too expensive), so I jumped ship to the Tmobile and thinking about getting a Nexus One. My big question is, what is the battery life like on this device? With respectable backlight brightness (50%) to get the daily pop from the screen but what is your typical battery life like?? Also can anyone recommend a good headphone for the nexus one (hopefully pressing a button to scroll to the next song) and what music app to use to play songs?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Calibration via USB?</Title>
+		<Username>roakes</Username>
+		<Datetime>24-11-2011, 12:10 PM</Datetime>
+		<Content>Hi all, Just got my Panasonic GT30 and am giving it a 150 hour run in but would like to calibrate it after. I know there are a couple of good DVDs out there but I don't actually have a DVD player believe it or not! Are there any options out there like a video file that could be played off USB or a set of image slides and accompanying PDF guide to follow? Just want a non-DVD solution Thanks Russ</Content>
+	</Post>
+</Thread>

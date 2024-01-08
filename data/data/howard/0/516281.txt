@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Google Nexus One (AT&T 850/1900 3G Bands)</Title>
+		<Username>y2jdmbfan</Username>
+		<Datetime>04-06-2010 10:24 PM</Datetime>
+		<Content>Guys, I have a Google Nexus One for sale that has the AT&T 3G bands. It comes with the original box and accessories. The phone has an invisible shield on the front. There is a scuff mark on the back side of the phone on the lower left corner and a very very small scuff on the bottom right corner of the phone. The phone works perfectly otherwise. I ship to the US only and don't take trades. I take Paypal payments. I will be willing to sell this for $425 shipped due to the small scuffs. The phone is sold as is and there are no returns. Please PM me if interested. Thanks, Y2J</Content>
+	</Post>
+</Thread>

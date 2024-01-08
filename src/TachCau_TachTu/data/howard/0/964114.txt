@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SIM Cards - $10 At Walmart - No In-Store Activation</Title>
+		<Username>jdubbs</Username>
+		<Datetime>12-10-2009 07:10 AM</Datetime>
+		<Content>This is for some of you that have been complaining about not being able to get the SIM cards for $5 in Bell stores without being forced to activate in-store for $35-$50. Check your local Walmart "In-store flyer" on the website. On the left side, click on "Connection Centre". First page, bottom left. http://www.walmart.ca/wpscontroller?...1&language=en# The price isn't on the flyer but I can confirm that they are $10 and will not force you to activate in-store! Enjoy!</Content>
+	</Post>
+</Thread>

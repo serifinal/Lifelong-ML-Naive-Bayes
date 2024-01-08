@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic PZ80/PZ85 Owners Thread [No Price Talk]</Title>
+		<Username>Prodigy7</Username>
+		<Datetime>02-26-08, 05:08 PM</Datetime>
+		<Content>Pictures, settings, issues... you name it. If you own one, post away. For an excellent post on break-in settings and FAQ please visit the following link: Break-In Settings and FAQ's</Content>
+	</Post>
+</Thread>

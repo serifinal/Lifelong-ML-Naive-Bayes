@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Which is better: Thermaltake DH101 or Silverstone LC16M?</Title>
+		<Username>MidnightWatcher</Username>
+		<Datetime>03-17-08, 12:15 AM</Datetime>
+		<Content>Ok, here's my dilemma. I want to move everything over to a good looking HTPC case that doesn't break the bank and have narrowed the choice down to either the Thermaltake DH101 or the Silverstone LC16M, but can't decide and need a little help. Also, would both of these fit a Diamond Radeon 3850, Sycthe Mini Ninja and the LG GGC-H20L BD/HD DVD combo drive? I'm also open to any other suggestions! Thanks in advance!</Content>
+	</Post>
+</Thread>

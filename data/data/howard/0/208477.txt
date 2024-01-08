@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cricket passed up Sprint?</Title>
+		<Username>digiblur</Username>
+		<Datetime>12-02-2009 10:23 AM</Datetime>
+		<Content>During my holiday travels I noticed a Cricket billboard in Lake Charles, LA. "Cricket!? There's no Cricket here." I later checked online and found they indeed had coverage in Lake Charles. They even had 3G coverage to boot! I found the press release from around Nov 17,2009. I was shocked. So now we have this little carrier building out 3G in a town that people on this forum say there is no return of investment. I never thought I would see TMobile build 3G in that area before Sprint, but they did, and now Cricket built out voice and 3G before Sprint could even get 3G off the ground. I'm impressed. Sprint is truly dropping the ball..... In that area they now have AT&T, Verizon, TMobile and Cricket providing 3G while Sprint is dead last sitting on 1X. Build it and they will come, don't build it and they will leave.</Content>
+	</Post>
+</Thread>

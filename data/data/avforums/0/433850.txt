@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>ps50c6900 Help</Title>
+		<Username>keebz77</Username>
+		<Datetime>18-01-2012, 9:18 PM</Datetime>
+		<Content>Hi all I am new to the forum so thanks for your future help! I have a ps50c6900 that is 13 months old and tonihgt I have used the tv with no problems but then later it was turned on from standby and it would not recognise sky or freesat via HDMI cables? I have tried all 4 HDMI ports and different cables but no luck. There is definately no issue with Sky as the feed can be seen upstairs on other tvs. The firmware is also upto date. I can view videos via USB on a hard drive. Any ideas? I even tried connecting up via the AVI and scart but this does not work. Internet tv options work fine. Will ring Samsung tomorrow but as its 1 month out of the guarantee I will be very fustrated if I have to pay for repair, if it can be repaired at all! Has anyone had this problem or know of it? Thanks for your help Simon</Content>
+	</Post>
+</Thread>

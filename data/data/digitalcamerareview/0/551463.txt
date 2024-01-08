@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Canon PowerShot SX130 IS Review Discussion</Title>
+		<Username>supermama</Username>
+		<Datetime>10-08-2010, 08:17 AM</Datetime>
+		<Content>I just got the sx130 a couple days ago after reading many positive reviews. I have to say I'm dissapointed in the picture quality when taking pics of my kids. Their skin tone looks weird and the shutter speed tends to go slow. Any suggestions. I upgraded to this from a 2004 Fuji that had 6mp. I wanted something that could shoot great pics indoors and outdoors and go from picture to picture fast. Also the image stabilization isn't as impressive as I would have thought. Are their settings I might need to change? Any advice?</Content>
+	</Post>
+</Thread>

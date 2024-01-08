@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help what am i doing wrong?</Title>
+		<Username>Houstie</Username>
+		<Datetime>11-01-2012, 8:13 PM</Datetime>
+		<Content>Just got a Panasonic tx50s30b plasma today really happy with it's so far no buzzing or green blobs lol. However ive tried out the 3d and it ain't working I'm playing the 3d Blu ray thru my ps3 which has software update 4.00 so I should be covered I've fully charged the glasses and switched them on I've set the picture settings to what I think they should be e.g what it says in the manual but still no joy nothing coming out the screen whatsoever anybody got any ideas Thanks for any advice/help</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fans getting louder on Panny VT20</Title>
+		<Username>TWH</Username>
+		<Datetime>17-05-2011, 11:25 AM</Datetime>
+		<Content>I picked up the P50VT20B last November, and so far it's been fantastic. However, in the last week or so, the fans have gotten noticeably louder and it's not a constant sound, more a harmonic wave sound which makes it more noticeable still! Just wanted to check if anyone else has come across this before I call Costco Concierge services to get them to come have a look!</Content>
+	</Post>
+</Thread>

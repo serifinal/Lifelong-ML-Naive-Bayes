@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Plasma Screen Cleaning Cloths?</Title>
+		<Username>samjet</Username>
+		<Datetime>21-02-2005, 11:34 AM</Datetime>
+		<Content>does anyone know of any that are specifically made for cleaning plasma's?? i am told the pc screen cleaning cloths should not be used - right or wrong?? your assistance appreciated thanks</Content>
+	</Post>
+</Thread>

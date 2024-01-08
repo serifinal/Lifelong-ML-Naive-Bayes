@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Please help me!</Title>
+		<Username>hollyfan</Username>
+		<Datetime>11-08-2011, 6:44 AM</Datetime>
+		<Content>I very stupidly cleaned my LG 50" Plasma screen with an oven cleaner fluid, and now I have smudges and traces of fluid that seem to be engraved in the screen. It seems to have seeped right through as I can't remove them. I know it was stupid now, but I just didn't know at the time! I bought it second hand and it didn't come with a manual, and now I feel so annoyed and terribly frustrated. Is there anything I can do to repair this? Any help/advice would be tremendously appreciated. Thank you. Holly</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Sx110is</Title>
+		<Username>Shab</Username>
+		<Datetime>01-19-2009, 12:33 AM</Datetime>
+		<Content>Hello, I just rec'd my SX110IS, but I have some concerns:- 1) The camera gets hitted up just after some 15 or 20 mins of usage. Is it in order? 2) I can't get the digital zoom on! Under whatever shooting modes the menu doesn't allow me to put on the function, the selector totally skips that function. Pls advice. Thanks for your assistance. Shab.</Content>
+	</Post>
+</Thread>

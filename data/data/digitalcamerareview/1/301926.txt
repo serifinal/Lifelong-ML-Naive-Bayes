@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is the Canon SD800IS durable</Title>
+		<Username>piperpilot12w</Username>
+		<Datetime>11-21-2006, 11:18 PM</Datetime>
+		<Content>I'm planning to get the Canon SD800IS and have a question about how durable digital cameras are. I plan to use the camera for family photos and vacations, but occasionally will take it with me when I ride my dirt bike. It will be kept inside a backpack with padding around it. Will the bouncing around that takes place riding an offroad motorcycle cause any problems with a digital camera?</Content>
+	</Post>
+</Thread>

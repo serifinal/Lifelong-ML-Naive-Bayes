@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Questions on the A95</Title>
+		<Username>Mrs12bfishin</Username>
+		<Datetime>06-23-2005, 11:32 PM</Datetime>
+		<Content>I'm considering purchasing this camera because I have read so many wonderful reviews. I do have a question and was hoping I could get some input from actual owners. I read in a review (on another site) that transferring pictures from the camera to a computer with Windows XP is difficult. I believe they were having a problem with the software and haven't been able to find any help. So.... my question is if any of you know of such a problem and if it has been fixed? I would hate to buy the camera and then not be able to transfer photos Thanks for any input!!</Content>
+	</Post>
+</Thread>

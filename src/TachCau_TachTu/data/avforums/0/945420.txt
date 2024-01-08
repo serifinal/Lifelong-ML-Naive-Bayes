@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 3D Plasma 50PW450t best settings please</Title>
+		<Username>JackieP</Username>
+		<Datetime>07-08-2011, 12:40 PM</Datetime>
+		<Content>Hi guys. I got this tv last week and never having had a plasma tv before i'm really struggling to get a decent picture from it. Is setting up a plasma so different from an LCD? I've had 3 LG LCD's and never had much problems re picture settings. I can't find any threads about this tv anywhere. Does anyone have any suggestions. Many Thanks</Content>
+	</Post>
+</Thread>

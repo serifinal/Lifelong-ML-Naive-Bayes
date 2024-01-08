@@ -1,0 +1,22 @@
+to you lcd gurus , please help me figure out what is wrong with my monitor !!! .
+hey everyone i have a samsung syncmaster t220hd hdtv/monitor -lrb- toc series -rrb- that i bought new a few months ago .
+the problem i am having has to do with the pq when using hdmi via xbox 360 and ps3 .
+let me explain in detail : basically i got the monitor because it had 2 hdmi inputs and a dvi input -lrb- for my computer -rrb- .
+i must say that the dvi input looks amazing and crisp but the hdmi input looks really bad with both the 360 and the ps3 .
+the picture is way overly saturated and there is some weird artifacting/aliasing on images .
+it almost looks like the sharpness is turned all the way up even though i turned it all the way down .
+in halo 3 any enemy that was far away was almost indistinguishable due to jaggies and even things close on the screen had extra jaggies .
+i was rather upset so i plugged in via the xbox 360 vga adapter and was amazed at how good the picture was compared to the same image via hdmi .
+the enemies that were indistinguishable before now look really good with smooth outlines and no extra sharpness/jaggies .
+the colors were also more rich and less overly vibrant .
+it almost looks as good as the dvi image .
+the ps3 unfortunately shares the same problems that the 360 does via hdmi .
+now this would not be a huge problem if there were two vga inputs and the ps3 could output via vga .
+but , since both of those are a negative , i am stuck with my 360 games looking amazing and my ps3 games/blu-ray movies looking sub par .
+the component cables also look like crap with the ps3 , xbox 360 and wii .
+in fact if something is 480p like the wii it is almost unplayable which looks fine on my parents samsung 40in 720p dlp .
+what is going on here ?
+does my monitor 's panel not display hdmi images well ?
+if so why would vga and dvi look so good ?
+things i have tried : used different hdmi cables -lrb- which i know would n't cause this , digital is digital -rrb- used a myriad of different settings on the monitor tried all the settings on the 360 and ps3 possible -lrb- rgb colors , ect . -rrb-
+switched between 1080p , 720p and 1080i on both machines things i have n't tried : hdmi to dvi cable for the ps3 . ?

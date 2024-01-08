@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>S3IS Recording Problems</Title>
+		<Username>Shadrachtcc</Username>
+		<Datetime>01-15-2008, 08:52 PM</Datetime>
+		<Content>I'm a newbie and I have the s3is digital camera. When recording a video the camera just suddenly stops recording after about 4-5 minutes for no reason. It has done this with a 2,4, and 8 Gb SD memory card. The batteries are fresh and the memory card is formatted. The settings are re-set to the factory default settings. Does anyone have a solution to this problem. The manual states that it should at least record up to one hour. Please help!</Content>
+	</Post>
+</Thread>

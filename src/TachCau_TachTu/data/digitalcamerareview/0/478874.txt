@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Megapixel war at Canon - PowerShot SD890 IS</Title>
+		<Username>karl2</Username>
+		<Datetime>03-13-2008, 04:41 AM</Datetime>
+		<Content>For once US Model numbers actaully make more sense sticking withSD 800 series for tiny sensors !! .. Over here we've got Ixus 900 Ti - Big 10Mp CCD Ixus 950 IS - Tiny 8Mp CCD Ixus 960 IS - Big 12Mp CCD Ixus 970 IS - Tiny 10Mp CCD Talk about ridiculous naming scheme - it's bad enough they give them different names over the world as it is without that mess.. they ALL should have Japanese Ixy names really . Here are Canon's newest additions including Ixus 970 IS (SD890 IS): http://www.infoborder.com/News/2008/March/canon.php</Content>
+	</Post>
+</Thread>

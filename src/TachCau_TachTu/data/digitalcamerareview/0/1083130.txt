@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Using filter with P/S Digicam.</Title>
+		<Username>digibrush</Username>
+		<Datetime>04-16-2011, 10:54 AM</Datetime>
+		<Content>Hi everyone! I am new here. I purchased sx130is one week ago and it is a good point and shoot camera. I have an old film SLR camera with lot of filters. Skylight, Uv, Grey gradient and a very nice polarizer fader( Circular Polarizer). I don't bother about other filters except polarizer fader. Is there any way that i can use this filter with Sx130is? I know i sound like crazy but i sometimes shoot with holding the filter in hand and cloud effects are really nice. Is anyone know how i can use filter with sx130is?</Content>
+	</Post>
+</Thread>

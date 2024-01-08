@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can we use the new Micro sim from the iPhone 4 also in the iPhone 3GS and iPad 3G?</Title>
+		<Username>Just4Peep</Username>
+		<Datetime>06-24-2010 02:13 PM</Datetime>
+		<Content>I have the iPhone 3GS, iPad 3G, iPhone 4 and a micro sim adapter. I would like to use the new micro sim from the iPhone 4 to use on one of these three devices at a time as I choose. Is this possible? I'm aware of the changes to the iPad APN that needs to be made. Also, if the new micro sim will not allow me to do it, can I just cut my exising sim from my 3GS and use on the iPhone 4 instead? Main concern is AT&T detecting and either charging me additionally or disabling data plan on my account.</Content>
+	</Post>
+</Thread>

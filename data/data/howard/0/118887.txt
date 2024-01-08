@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant on a Family Plan with no Data</Title>
+		<Username>Dcrist211</Username>
+		<Datetime>07-18-2010 11:36 PM</Datetime>
+		<Content>I'm hoping someone was in the same boat as me and can answer a quick question. I have a Family plan with 600 shared minutes and unlimited text on 3 lines. I just added the Preferred Android plan to my 1st line and got a Vibrant for it. One of my other lines is eligible for a phone upgrade and I was wondering if I can get a second Vibrant without paying for data (wifi use only). Since my unlimited text plan costs $14.99 a month will they let me get the phone discount without requiring me to get a data plan on my extra line? I want the phone I just don't use data that much and Wi-Fi only will work for me. Has anyone done this or tried it?</Content>
+	</Post>
+</Thread>

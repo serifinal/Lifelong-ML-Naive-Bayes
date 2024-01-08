@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>For sale: Vancouver - brand new in box unopened unlocked iphone 4 32GB $1000</Title>
+		<Username>vipjn</Username>
+		<Datetime>08-10-2010 12:54 PM</Datetime>
+		<Content>Hi, I have a brand new in box sealed unopened iphone 4 32GB for sale for $1000. I will include an unactivated rogers micro-sim for free. Local deal and cash only, no deliveries. Please do not PM me, text 604-889-8258 Thanks alot!</Content>
+	</Post>
+</Thread>

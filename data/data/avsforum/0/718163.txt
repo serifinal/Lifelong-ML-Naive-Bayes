@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>warcrow</Username>
+		<Datetime>05-08-08, 09:12 AM</Datetime>
+		<Content>Quote: We?re back, and only a week late this time! This episode kicks off with discussion of Playstation 3?s impressive install base in Europe, several publishers pulling out of this year?s E3 and one out of the ESA trade organization, and the controversial DRM solution announced for Spore and the upcoming PC version of Mass Effect. We follow up those news briefs with a lengthy discussion of what we?ve been playing, the game that we haven?t been able to stop playing for days on end: Catan. - Link to Epiosde 38 - Direct Download - Discussion ...and you guys thought we were going to chat about GTAIV.</Content>
+	</Post>
+</Thread>

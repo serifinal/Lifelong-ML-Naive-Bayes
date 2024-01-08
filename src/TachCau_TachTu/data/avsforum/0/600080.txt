@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My HDTV only supports 1080i, worth it to get a terrestrial HDTV tuner? Absolutely!</Title>
+		<Username>S88XJ</Username>
+		<Datetime>04-07-08, 12:36 AM</Datetime>
+		<Content>New to the forum but I don't think this question has been asked. My 52" Mitsu only supports 480i, 480p, and 1080i. I've noticed that some of the local broadcast channels (Las Vegas) broadcast in 1080i, but some only broadcast in 720p...like Fox. Fox is the channel I care most about, am I out of luck? I would imagine a tuner that would receive the signal and convert to 1080i would work just fine on my tv, but does such a thing exist? Any comments? BTW I have a rooftop antenna currently only being used to receive analog stations, I'm waiting for my $40 coupons to arrive before toying with DTV. The TV does not have an ATSC tuner.</Content>
+	</Post>
+</Thread>

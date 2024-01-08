@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fujitsu P42/50XHA58EB owners thread - Part 1</Title>
+		<Username>GrahamMG</Username>
+		<Datetime>01-06-2006, 6:30 PM</Datetime>
+		<Content>Hi all. I've sat playing with a P50XHA58EB for a few hours this morning (on my week off even). The unit did native res over HDMI at 60Hz in eye popping fashion and even gave me a picture at native res 50Hz, However at 50Hz the picture did shift a bit over to the left and I did not have a scaler of sufficent quality to see if it could be corrected before the unit went out to its eager owner..... I have the feeling that front and rear porch settings will have to be worked out eventually.... All this via a HTPC for reference. Other sources may give differerent results naturally and are well beyond my control A Denon all singing and dancing DVD player (DVD-A1XVA) looked really impressive though.... SKY HD worked fine at both 720p and 1080i over both component (2 inputs) and HDMI (two inputs). Full precision colour menus are all present along with RS232C and all the usual inputs (no Scart of course) and correct and that black finish looked nice too...... I would have played some more but the customer really wanted delivery tomorrow so I hope he enjoys it, looks like a nice bit of kit to me...... I'll do the same test on a 42" model when it arrives next month (best current guess)....</Content>
+	</Post>
+</Thread>

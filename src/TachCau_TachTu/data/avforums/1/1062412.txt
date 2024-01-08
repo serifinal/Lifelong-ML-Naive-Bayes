@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TH42-PWD6 plasma</Title>
+		<Username>martinct</Username>
+		<Datetime>27-07-2011, 5:53 PM</Datetime>
+		<Content>looking for a hdmi board , where can i buy it in london? is the part number TY-FB7HM will work on a series 6 model</Content>
+	</Post>
+</Thread>

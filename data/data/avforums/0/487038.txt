@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Onkyo r608 50vt30</Title>
+		<Username>weavesno1</Username>
+		<Datetime>16-01-2012, 7:29 PM</Datetime>
+		<Content>Just a quick question. I think I might be being thick but could I plug any old console ie dreamcast n64 or GameCube into my onkyo and choose aux on the remote. Would it display the picture with a stable image on my panny 50vt30</Content>
+	</Post>
+</Thread>

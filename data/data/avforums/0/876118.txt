@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic closes its UK Television Design Centre!! <SHOCK></Title>
+		<Username>stanleyntl</Username>
+		<Datetime>09-07-2011, 11:56 AM</Datetime>
+		<Content>Shock closure of Panasonic TV centre in Cardiff Its sad to see so many people losing their jobs. I was under the impression that the key TV design stuff was all done in Osaka but apparently not. I wonder why we end up with glaring design errors since 2009 in Panasonic TV product e.g. rising black levels, 50hz errors, floating blacks etc etc Is this down to the UK team or the Osaka design teams making mistakes? UK customers already have a "firewall " in Panasonic UK for not getting feedback directly to their design teams. And apparently my flagship Panasonic TV of 2009/2010, the Z1 is not fixable! Will things get better by bringing R&D back to Japan?</Content>
+	</Post>
+</Thread>

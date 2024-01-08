@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Optical sound from Panny Plasma</Title>
+		<Username>Col09</Username>
+		<Datetime>22-12-2011, 11:49 AM</Datetime>
+		<Content>My system is an oldish Panny 5.1 surround sound with built in DVD and Hard Drive with optical in put but no HDMI or any Digital tuners at all. It sounds brilliant so have no reason to get rid of it. Sky HD+ with optical straight in to Panny 5.1 and a Panny 50G10 plasma. I wish to add a Panny Blue-Ray but of course lack optical sound options. I've tried HDMI from Sky to the plasma and then optical from the plasma to the 5.1 expecting the HDMI to take dolby to the tv but it come out as stereo (hope you are following this). Should HDMI carry a 5.1 signal and should the plasma then send this signal out again via its optical output?</Content>
+	</Post>
+</Thread>

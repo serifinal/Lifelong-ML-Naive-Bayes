@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone 4 drops less calls! (from engadget review)</Title>
+		<Username>zephxiii</Username>
+		<Datetime>06-22-2010 06:35 PM</Datetime>
+		<Content>You heard it from engadget! Of course, the big internal story is what has become external: namely, the UMTS, GPS, WiFi, and Bluetooth antennas. Apple has made the stainless band around the phone essentially a couple of big antennae, and they seem to be doing a pretty good job at hanging onto radio signals. The big question is obviously whether or not this fixes or helps with the constant dropped calls iPhone users on AT&T's network have gotten used to. Well in our testing, we had far, far fewer dropped calls than we experienced on our 3GS. Let's just say that again: yes, the iPhone 4 does seem to alleviate the dropped call issue. It wasn't perfect, and we had some connection issues in downtown New York City in particular, though it's tough to say if it was the fault of our phone, the cluster of buildings we were near, or the person we were speaking to, who was on a 3GS in the same location. http://www.engadget.com/2010/06/22/iphone-4-review/ I'm interested in hearing from others on how well the new antenna/chip combo works.</Content>
+	</Post>
+</Thread>

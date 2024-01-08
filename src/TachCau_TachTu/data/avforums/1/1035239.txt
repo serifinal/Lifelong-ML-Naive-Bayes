@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Marvell Qdeo vs. Panasonic VT30 video chip</Title>
+		<Username>zelenooq</Username>
+		<Datetime>13-08-2011, 12:47 PM</Datetime>
+		<Content>I wonder which video chip are better for video quality processing? Upscaling, cadence and all other stuff video chip has to do for better picture quality. Does anyone knows?</Content>
+	</Post>
+</Thread>

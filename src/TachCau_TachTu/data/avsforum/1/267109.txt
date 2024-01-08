@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>PX80 vs PZ80 vs PZ85</Title>
+		<Username>mmg_fan</Username>
+		<Datetime>11-20-08, 08:46 PM</Datetime>
+		<Content>Hi I'm a newcomer to the world of large flat panel screens. At first I was determined I should going LCD, with either Samsung or Panasonic at the top of my list. But the more I look at these in various store displays and especially when being fed good BD content, the more I am inclined towards the natural film like look of PLASMA. The Panasonic Viera line seems to offer great value and I am narrowing my choice to either the PX80, PZ80 or PZ85. I a getting the smallest plasma available, the 42". Is the $400 price difference between the PX80 and PZ85 worth it? At an approximately 6-8 ft viewing distance, will I appreciate the extra 1080p that the 85 offers?</Content>
+	</Post>
+</Thread>

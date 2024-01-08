@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>cant connect to Virgin Mobile</Title>
+		<Username>bluedice5</Username>
+		<Datetime>11-18-2009 09:27 AM</Datetime>
+		<Content>Bought a broadband 2 go USB device at best buy pluged it to my lattop but every time I try to connect to Virgin Mobile I get Error must use cookies ....but my computer is set to accept all cookies .I tried shutting all my security features off but still cant connect. I then tried uninstalling program and drivers and reinstalling them with no luck. Tried calling Virgin Mobile up but they dont answer phone . Any help would be appreciated.</Content>
+	</Post>
+</Thread>

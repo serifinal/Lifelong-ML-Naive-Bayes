@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Buy Wii now or wait for the holiday season?</Title>
+		<Username>GeorgeE</Username>
+		<Datetime>07-29-08, 07:00 PM</Datetime>
+		<Content>Hi, I want to give a Wii console to the kids for christmas. With all the product shortages, should I buy it now?... ...or are there good reasons to wait until the holiday season? Are there any technology upgrades or price reductions expected? Thank you very much for your comments</Content>
+	</Post>
+</Thread>

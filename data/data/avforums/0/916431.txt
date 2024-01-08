@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TH42PX60B - switching on/off</Title>
+		<Username>salledix</Username>
+		<Datetime>31-10-2009, 7:47 PM</Datetime>
+		<Content>My TH42PX60B is coming up to 3 years old and has so far been very well-behaved. This week my ailing Thomson Sky+HD box was replaced with a new Amstrad; the Pana has since started to go into a regular switching on and off cycle in Freeview mode though the problem seems to resolve itself when I switch the Sky box on (from standby). It seems too much of a coincidence...any thoughts, similar experiences?</Content>
+	</Post>
+</Thread>

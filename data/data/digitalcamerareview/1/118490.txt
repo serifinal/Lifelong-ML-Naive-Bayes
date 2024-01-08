@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon PowerShot G9</Title>
+		<Username>Eagle Eye</Username>
+		<Datetime>06-12-2008, 08:19 PM</Datetime>
+		<Content>I would like to know if this camera is what you call a pocket camera? Also I would like to know what you think of this camera? Is it hard to use? Image quality 1 being POOR and 10 being VERY GOOD, how would you rate it?Is this a good camera for action photos? Is this camera good for indoors as will as outdoors? Rate 1 for very poor 10 for very good?</Content>
+	</Post>
+</Thread>

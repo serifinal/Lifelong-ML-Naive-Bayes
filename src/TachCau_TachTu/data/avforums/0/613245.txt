@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>VT30 - Your Picture mode when using Xbox 360/PS3</Title>
+		<Username>martpu</Username>
+		<Datetime>25-06-2011, 3:00 PM</Datetime>
+		<Content>Hi guys, As the title suggests, I was just wondering what picture mode you use and the settings within that mode (in depth calibrated settings not necessary, more everything else like brightness, sharpness, any of the options turned on/off in the advanced settings, things like that!) when using the Xbox 360 or PS3. I have mine in Game mode for obvious reasons but as I understand it, all the other modes are just as good providing you turn IFC off. Cheers.</Content>
+	</Post>
+</Thread>

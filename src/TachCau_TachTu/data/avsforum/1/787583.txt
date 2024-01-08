@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LCD or Plasma - PC Monitor And More</Title>
+		<Username>cwoggon</Username>
+		<Datetime>08-14-08, 10:51 AM</Datetime>
+		<Content>Looks like I'm going to go with a LCD display of some sort. Thank you everyone for your input. Moderators: If you see this feel free to close this topic. There were some other threads on the subject, but they were all fairly old. I figured with all the improvements going on within the TV world in general it warranted some new discussion. So here are my uses: Laptop Monitor - Gaming/Media/Programming/Web Browsing/Whatever else you can do on a computer Console Gaming - 360/PS3/Wii/MAYBE some older systems but probably not Movies - HD-DVD/Blu-ray/DVD TV - Football mainly So the question is - LCD or Plasma? My only real concern with Plasma is IR/burn in when using it as a PC monitor. If it wasn't for that I would have probably already bought plasma. I figured with the way plasmas are going now days I would get some input from some people who probably know more then I do. So, post your opinion and reasons why. If you want to recommend some specific models feel free. I'm trying to stay under $2,000 (college budget...) so please take that into consideration if you recommend a TV.</Content>
+	</Post>
+</Thread>

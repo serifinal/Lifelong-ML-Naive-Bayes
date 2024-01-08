@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Damn...i can't get past lock screen!</Title>
+		<Username>helix66</Username>
+		<Datetime>02-16-2010 11:35 PM</Datetime>
+		<Content>Sorry for the hysteria here but this is a real pita! I am entering the correct code too. I had my 3g bug out and reboot when I connected it to my mac, then all of the apps were rearranged and some settings were off and 5icon dock wasn't working, now I can't get past the lock screen. I enter my passcode and it looks like it works then goes right back to the lock screen. I've tried powering it off a few times, also forcing it to restart (holding home & power) and respringing (sbsettings is set to function at lockscreen) and nothing seems to work. I can ssh into the phone but I have a Mac so I don't think I can change permissions, anyone have any ideas before I restore and reset it all over again. The last thing I did was add/enable the emoji keyboard in ikey.</Content>
+	</Post>
+</Thread>

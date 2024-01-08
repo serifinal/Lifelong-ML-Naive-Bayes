@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Share your iPhone 4 homescreens!</Title>
+		<Username>nepali</Username>
+		<Datetime>06-29-2010 11:45 AM</Datetime>
+		<Content>I know the homescreens will be pretty basic until iPhone 4 jailbreak comes out. With the amount of RAM and higher processor speed, homescreens will be pretty advanced when these can be jailbroken. In the mean time, let's see your basic setup. Here's mine:</Content>
+	</Post>
+</Thread>

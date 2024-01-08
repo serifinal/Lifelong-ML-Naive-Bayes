@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Bold 9700 - Syncing with Microsoft Office Outlook 2007 Business Contact Manager?</Title>
+		<Username>allanc</Username>
+		<Datetime>06-11-2010 12:08 PM</Datetime>
+		<Content>I am considering a Bold 9700 purchase. Is it possible to sync with Microsoft Office 2007 Business Contact Manager *without* first copying all the contacts to Outlook? The reason that I am asking is that I currently own a Palm Treo 750 and I need to first copy my contacts from Business Contact Manager into the contacts in Outlook before I can sync with Microsoft ActiveSync. Thank you in advance.</Content>
+	</Post>
+</Thread>

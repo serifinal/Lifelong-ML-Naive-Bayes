@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy S Vibrant - Bluetooth Connection Issues</Title>
+		<Username>can6rxw</Username>
+		<Datetime>08-11-2010 12:23 PM</Datetime>
+		<Content>I need some advice on how to connect my Motorola S9 Bluetooth headset to my Galaxy S Vibrant. I come from the windows world where it was easy but I guess with Android...not so much. I go to the top status section on the phone, pull it down, turn on bluetooth, then I turn the bluetooth on on the S9 Headset and it remains a nice blue...meaning...there's no connection. It turns green when it's connected properly. The S9 manual says to hold the power button on until the blue light flashes three times, then it goes into discover mode and from there, the phone should pick it up. But alas, no go. It just stays blue (not seeing the phone or visa versa) Can anyone help me here? Am I doing something wrong?? Thanks in advance!!</Content>
+	</Post>
+</Thread>

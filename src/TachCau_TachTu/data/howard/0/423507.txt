@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>thought of a great idea for a mytouch 3.5mm adapter</Title>
+		<Username>greenlime812</Username>
+		<Datetime>12-02-2009 06:20 PM</Datetime>
+		<Content>instead of making a cable why doesn't somebody just make like a small adapter that would be flush with the bottom of the phone with the 3.5mm port on the side? It would only add maybe half of a centimeter in length and it could stay there... edit: kind of like this, but extend the full length of the phone and have another usb port on the bottom</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help please - vertical black band appeared Plasma</Title>
+		<Username>bigbaz</Username>
+		<Datetime>07-08-2011, 8:46 PM</Datetime>
+		<Content>Hi all... I wonder if someone might be able to help me with my Panasonic TV Earlier today whilst watching Sky News a vertical black band suddenly appeared (see pic) The band is approximately 50mm wide and has a white and blue narrow line also running vertically within the black band. Panasonic TH42PX60B Plasma Bought January 2007 (5 years old in January 2012) Out of warranty I've really looked after this set and its the first time I have experienced any problem. The picture itself is absolutely perfect Any thoughts / help would be very appreciated Thanks BB</Content>
+	</Post>
+</Thread>

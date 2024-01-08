@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S5</Title>
+		<Username>mlp0000</Username>
+		<Datetime>03-19-2008, 10:29 PM</Datetime>
+		<Content>Hi everyone! I own a Canon S5. Seems as though I consistently get grainy shots. Can't figure out what I am doing wrong! Also - just wondering how you can speed up the memory card and what accessories you have for your Canon S5 (or for those of you that know of the accessories, what would you choose to buy?) thanks so much!</Content>
+	</Post>
+</Thread>

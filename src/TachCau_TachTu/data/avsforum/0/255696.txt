@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>born2win413</Username>
+		<Datetime>05-15-08, 10:02 PM</Datetime>
+		<Content>Simply put, which picture quality is better? Which brand is better? And last but not least, who in here have both Panny and Sammy and can give me a non-biased fact, thanks.</Content>
+	</Post>
+</Thread>

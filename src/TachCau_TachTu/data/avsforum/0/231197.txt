@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Two subs as alternative to bass traps?</Title>
+		<Username>Aurylian</Username>
+		<Datetime>11-06-08, 05:40 PM</Datetime>
+		<Content>I would love to put acoustic panels all over my family room for my home theater. Unfortunately, the WAF is very low for this idea. I could get away with corner traps in the bottom front corners, but the rest has crown molding and I can't cover that. There are also no locations to place wall traps. So, I can get away with a second sub (one in each front corner facing inward). I know it won't cancel reflections like the traps would, but it should still help with the FR in the room and help with standing waves, right? This is all theoretical right now as my first sub is on order so I don't know what the room will sound like with just one. The room is 5000cf with a 10'x10' port on the side opening up to another 10k-cf. The main room has thick carpet up front, with some heavy furniture in the middle doesn't have too many parallel surfaces side-to-side. The back wall is all kitchen and cabinets that should break things up.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>VLC/Ext usb drive on Panasonic Plasma</Title>
+		<Username>ALIEN1X</Username>
+		<Datetime>10-01-2012, 4:50 PM</Datetime>
+		<Content>Hi, Will VLC potable on a external USB 1TB hardive work if connected to panasonic plasma? The reason is, that VlC portable is the only plugin that will open .rec media files/movies, on portable drives/disks etc. Just wanted to know if this will work or will it have to be a powered hardrive for 1tb disk to work? Its a real shame Panasonics have no built in vlc so you can play any format.</Content>
+	</Post>
+</Thread>

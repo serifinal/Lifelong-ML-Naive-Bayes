@@ -1,0 +1,14 @@
+my panasonic p42st30 and mkv issues .
+i got my panny p42st30 two days back .
+while playing it with it found some mkv file issues even though manual says mkv playback is supported .
+1 -rrb- i have some movies in mkv format .
+-lrb- 1080p , 720p etc. . -rrb- .
+i copied the movies to my wd 2tb usb 2.0 drive and connected the usb drive to the tv .
+i tried 5 movies , all of them played nicely , but only one had sound.other four did not have any sound even though video played well .
+any idea ?
+will the firmware update help?this is strange since one of them had sound , any way to debug and see any particular sound encoding caused issues or so ?
+2 -rrb- i tried dlna through my windows 7 pc , naturally mkv files was not listed when i tried media player .
+i tried tversity , even then mkv dint play .
+any other media server which plays mkv well with panasonic 2011 viera 's ?
+this is not so important for me if the usb playback works with sound for all mkv 's !
+thanks

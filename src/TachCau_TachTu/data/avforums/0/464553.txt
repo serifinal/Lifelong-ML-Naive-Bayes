@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Smashed TX-P50G30B alternative</Title>
+		<Username>Neilster</Username>
+		<Datetime>19-02-2012, 9:36 PM</Datetime>
+		<Content>Ordered a PANASONIC TX-P50G30B from currys on friday and had it delivered Saturday.. Opened the box and there to find a smashed screen.. Phoned them and they said no problem we have 7 in stock can get another one to you and pick that one up, someone will call you to arrange a time.. Waited until this afternoon to chase it and they said it can take the back office team 48 hours to call me so I will have to wait.. asked her to check stock levels as noticed it was out of stock online and now they have none sigh... so trying to pre empt thing a bit now.. on a "like for like" basis what TVs from currys should I accept as a replacement? I know like for like has to be on specification but not sure how they are going to read into that.. the next Panasonic is a TX-P50UT30B.. would that be a wise move or shall I just get my cash back. I am still mad at how they delivered this screen.. 1 person carrying it above head height.. absolutely shocking!!</Content>
+	</Post>
+</Thread>

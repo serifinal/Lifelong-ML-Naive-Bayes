@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can Anyone Here Help Me Set up Sprint Phones to Boos Mobile Network</Title>
+		<Username>WirelessWorldCo</Username>
+		<Datetime>12-23-2009 07:02 PM</Datetime>
+		<Content>I just Bought an HTC Touch Pro . I want to set it up on Boost NetWork. I read the threads i have a good idea of what to do. But what i really need is an ESN # from a CDMA Boost phone. If someone is kind enough to help me with that, I would really appeciate that.</Content>
+	</Post>
+</Thread>

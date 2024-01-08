@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot SD4500/ IXUS 1000 HS / IXY 50S Owners</Title>
+		<Username>Jun85</Username>
+		<Datetime>10-10-2010, 01:53 PM</Datetime>
+		<Content>Hi I ran across this video on youtube depicting a white line at the bottom of full HD video's. I tried it out myself and there it was unfortunately. It doesnt appear when replaying on the camera itself, but when you download it onto the comp and look at it, its there. Here is a great example courtesy of the youtube user called "kalseyed" YouTube - Canon PowerShot SD4500 IS (Zoom Test) Is this a random issue or is there a fix? Thanks</Content>
+	</Post>
+</Thread>

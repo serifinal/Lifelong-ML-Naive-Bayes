@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TX-P50V20</Title>
+		<Username>Jury</Username>
+		<Datetime>09-02-2010, 6:51 PM</Datetime>
+		<Content>this new model panasonic TX-P50V20 is a old generation Panasonic P50V10E? Panasonic TX-P50V20 coming soon in march.</Content>
+	</Post>
+</Thread>

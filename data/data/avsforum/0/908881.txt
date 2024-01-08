@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title></Title>
+		<Username>whoster69</Username>
+		<Datetime>03-24-08, 10:59 AM</Datetime>
+		<Content>I'm getting ready to hook up a new A/V system and I've got a few questions about how to get the best signal quality and which type of connectors I should use. First, generally what is the correct order for the best signal of the following? HDMI, Optical, Component, Composite, S Video, Digital Coaxial, & Cable connector. In other words, which should I use primarily, secondarily, etc. Also, does optical only support sound signals and not video signals? I have the following equipment I wan to connect: Panasonic TH-58PZ700U 1080p plasma TV with 2 HDMI inputs/1 output, 2 Component inputs/1 output, 1 Composite input/1 output, 1 S-Video input/1 output. Onkyo TX-SR 805 Receiver with 3 HDMI inputs/1 output, 3 Component inputs/1 output, 3 Digital Coaxial inputs, 2 Digital Optical inputs/1 output, 1 game/TV input (it has both S-Video and composite jacks), Oppo DV-980H DVD Player with 1 HDMI output, 1 composite video out, 1 S-Video output, 1 Component Video output, 1 coaxial digital audio output, 1 Optical Digital Audio output, 7.1CH Output. Panasonic DMP-BD30K Blu Ray Player with 1 HDMI output, S Video output, Component video output, 5.1CH Audio output, Digital audio output, optical output. DirecTV Plus HD DVR with one HDMI output, S-Video output, Component output, Optical output, Coax output. Sony Playstation 3 with 1 HDMI output, 1 Component output, 1 S-Video output. I want to run everything through my receiver with the best possible signal quality. What inputs/outputs should I use for each device? Thank you in advance for any advice/help!</Content>
+	</Post>
+</Thread>

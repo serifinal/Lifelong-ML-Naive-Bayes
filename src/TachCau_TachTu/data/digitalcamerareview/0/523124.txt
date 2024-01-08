@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BEN! I need you again!</Title>
+		<Username>Mavrick813</Username>
+		<Datetime>11-16-2006, 05:05 PM</Datetime>
+		<Content>Ben, So I got the Canon S3 IS like you had recomended. I love this Camera, it does everything I need it to. Has great capture ability while my son is running around or driving his powerwheels and what not. My G/F snaps pictures of my R/C truck while it's flying around the track doing about 45MPH and it gets the shots with no blur. But I am having a bit of a problem, I started using the camera with my old Kodak rechargeables (They're OLD) and I was getting roughly 30 pictures and they would die. So I went and baught new ones. They're identical to my old ones and now I get roughly 40 pictures per charge. Is this normal?? My old Kodak camera used to fire off over 200 pictures on a charge on the Old batteries before they died. If not can you recomend some batteries that will cure this problem? Link to a picture of the OLD and NEW batteries. http://www.circuitcity.com/IMAGE/pro...ANIMH4PACK.JPG Thanks Mike.</Content>
+	</Post>
+</Thread>

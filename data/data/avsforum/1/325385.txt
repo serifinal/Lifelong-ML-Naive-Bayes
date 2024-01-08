@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony Bravia KDL40WL140 vs Samsung LNT 4071F</Title>
+		<Username>badvideo</Username>
+		<Datetime>11-07-08, 11:29 AM</Datetime>
+		<Content>I have the opportunity to get either the Older Sammy or the Sony. Being they are both 1080 and w120Hz which would you pick and why?</Content>
+	</Post>
+</Thread>

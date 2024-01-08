@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G20 ? Persistent channel logo</Title>
+		<Username>Neukarma</Username>
+		<Datetime>11-02-2012, 10:05 PM</Datetime>
+		<Content>Hello, I have a Panasonic G20. After watching movies on a TV channel for an entire afternoon, the logo now appears almost permanently ? it?s especially visible with gray gradients. In order to get rid of it, I played the Toy Story Blu-ray more than twenty times. I also ran the famous white scrolling bar for more than twenty hours. Unfortunately, the channel logo is still there ? actually, I haven?t noticed any difference between before and after my attempts. Is there anything I can do? Thanks!</Content>
+	</Post>
+</Thread>

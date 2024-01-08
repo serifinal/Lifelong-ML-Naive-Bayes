@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>joba2mo</Username>
+		<Datetime>12-12-08, 11:48 PM</Datetime>
+		<Content>Okay, so I KNOW there are lots of people who say: Bose is a rip-off, and while it may produce good sound, it is overpriced. But is it true for the Bose Companion 3 Series II system? I would be paying $249.99 for 2 speakers and a subwoofer. With that said, I don't want to be a sucker. At the very least, I'd like to make an educated purchasing decision. On the other hand, I really am impressed by how Bose sounds. The sound is lush, sharp, and the bass is crisp and not overwhelming. So in this case, can we reasonably say that for $250, the Bose Companion 3 Series II system is the best bang for your buck? Or am I just rationalizing an expensive purchase?</Content>
+	</Post>
+</Thread>

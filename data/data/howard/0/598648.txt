@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Did Apple really do multitasking right or did they just wait 'til they could...</Title>
+		<Username>tresmith007</Username>
+		<Datetime>06-21-2010 01:42 PM</Datetime>
+		<Content>build an iphone with a more efficient processor and a much bigger battery? I think it's the latter. I'm just going off on the fact I have had iOS4 on my 3GS for a couple of days and it's an absolute energy vampire. Apple said that they waited on multitasking because they wanted to do it right and that gives you the impression that the "doing it right" was on the software end. But it does not seem that they did it right as they put it based on my experience using the 3GS. It looks like they just waited 'til it was technically possible hardware wise to get a more efficient processor and shoehorn in a much bigger battery before putting in multitasking. Any new iphone 4 users who would care to come back to this thread and give their impression on the new phone and it's battery life, would be greatly appreciated.</Content>
+	</Post>
+</Thread>

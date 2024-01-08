@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD1400 IS or SX200 IS?</Title>
+		<Username>RetroEvolute</Username>
+		<Datetime>06-10-2010, 12:31 PM</Datetime>
+		<Content>Hey guys. I'm new here and just looking for some insight. I'm really stuck in my decision making. I've been looking at Cameras, mostly Canon and seem to always be going back to it, and thought I'd get the SD1400 IS. However, after seeing the feature set of the SX200 IS, it looks like it'd be a heck of a camera. I would like to be able to put whatever I get in a pocket (I'm a guy, and don't wear skinny jeans or anything, so either should be fine), and otherwise just want a camera with good clarity, clean/sharp edges, little image compression, and good low-light quality. It looked to me like the SX200 had better quality pictures, but it may be that the ones I saw from the SD1400 were on normal compression settings instead of normal? Not sure. Guess my questions end up being: Does Normal -> Fine Quality make much difference? Which one would YOU get in my situation? Any suggestions other than what I'm looking at that you think would be better? Thanks. EDIT: I should note that my price point I'd like to stay at is around $230.</Content>
+	</Post>
+</Thread>

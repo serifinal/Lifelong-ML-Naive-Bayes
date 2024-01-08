@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>So doesn't anybody make a decent 65inch?</Title>
+		<Username>indus</Username>
+		<Datetime>22-06-2011, 5:42 PM</Datetime>
+		<Content>I'd really like to upgrade to a 65inch screen. There doesn't seem to be a single TV out there that doesn't have major issues. I don't mean that no TV has perfect attributes ie contrast etc but issues like fluctuating brightness or peeling screens! Why can nobody make a 65 inch screen that doesn't have a major flaw??</Content>
+	</Post>
+</Thread>

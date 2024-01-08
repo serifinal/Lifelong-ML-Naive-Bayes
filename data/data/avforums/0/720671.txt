@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Best picture setup for Panasonic tx-42s21ba</Title>
+		<Username>fosterite</Username>
+		<Datetime>24-05-2011, 11:56 AM</Datetime>
+		<Content>I have the TV in my bedroom. The viewing distance is 8 feet approx. My room has heavy drapes that block out direct sunlight onto the Plasma Screen. I am trying to work out the settings for the best PQ that I can get. I watch a mixture of Drama and Sport in general. Any advice would be most welcome as this is my first full HD TV (1080p). I live in the United Kingdom and recieve the Sky-HD service all packages sport and films. Sorry for the waffle and thanx for your answers and advice in advance.</Content>
+	</Post>
+</Thread>

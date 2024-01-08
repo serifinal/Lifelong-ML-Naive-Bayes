@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Yup, it's the a570 vs a720 question again!</Title>
+		<Username>bTaryag</Username>
+		<Datetime>12-13-2007, 03:56 PM</Datetime>
+		<Content>Ok, basically the difference in features is 8mp vs 7mp, and 6x vs 4x. I would like to know (from someone who has had experience with both cameras): Comparatively, which has 1 - better overall (indoor/outdoor) picture quality 2 - Better battery performance 3 - Faster (Shutter lag/shot to shot/flash recycle) operation 4 - Less red-eye problems Thank you!</Content>
+	</Post>
+</Thread>

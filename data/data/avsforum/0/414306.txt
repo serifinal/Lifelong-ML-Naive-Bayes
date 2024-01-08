@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>kikipetga06</Username>
+		<Datetime>12-15-08, 06:17 AM</Datetime>
+		<Content>Guys, I'm almost ready to pull the trigger on a Sharp LC-52D85U but still haunted by Samy 650A. Is there any reason to justify the extra $400 and free Sharp Blue-Ray player thrown in by AMZ? Your thoughts.... Thx</Content>
+	</Post>
+</Thread>

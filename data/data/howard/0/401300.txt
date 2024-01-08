@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nokia N97: Reviews, Issues, Tips, Tricks & Support Thread: V2 Firmware Edition</Title>
+		<Username>Dr Tran</Username>
+		<Datetime>10-01-2009 02:04 AM</Datetime>
+		<Content>Since the N97 threads are slowing down, there will no longer be a monthly thread. This thread will close when V3 firmware comes out. (#1158) V20 firmware is due later this month. Last poll: Code: Do you use GPS? Yes, works fine 47 56.63% Sort of, it keeps losing signal 26 31.33% No 10 12.05% Here's some tips:How to Reset: press shift + backspace + spacebar and power up your phone to reset it if it gets locked. You will lose all your settings if you do this. Some apps, like the Guitar Hero game, are unrecoverable. Beware! Alternatively, you can dial *#7370# to easily reset your N97 You can save space on C: by doing a reset You can save more space by uninstalling Facebook, AP News, Accuweather and other apps you can find in the Ovi Store. Reinstall them to the E: drive. There's a lot of freeware here http://symbianworld.org/s60-5th-edit...okia-5800-n97/ If google maps doesn't work, check your connections and make sure your home wifi is not the default connection There are some N97 exclusive apps at Nokia Beta Labs such as Ovi Maps 3.03, Ovi Lifecasting and Ovi Social Messaging Plug: http://www.n97fanatics.com/</Content>
+	</Post>
+</Thread>

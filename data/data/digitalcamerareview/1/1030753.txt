@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon XTI</Title>
+		<Username>jim@andersonsfloors.com</Username>
+		<Datetime>07-11-2008, 10:12 PM</Datetime>
+		<Content>Does anyone have any info on downloads that would allow me to use my XTI to shoot in the infared range?</Content>
+	</Post>
+</Thread>

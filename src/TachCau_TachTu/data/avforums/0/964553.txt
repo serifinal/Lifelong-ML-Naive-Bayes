@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonice G30 picture settings</Title>
+		<Username>saran</Username>
+		<Datetime>30-05-2011, 2:57 PM</Datetime>
+		<Content>Hi Guys, Yesterday I have bought a Panasonic G30. Can anyone tell me the best picture setting for the best quality? Advance thanks.</Content>
+	</Post>
+</Thread>

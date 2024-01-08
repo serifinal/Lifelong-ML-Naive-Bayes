@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Heeeeeelllllppppppppp!!!!</Title>
+		<Username>billyh1993</Username>
+		<Datetime>08-06-2008, 07:29 AM</Datetime>
+		<Content>I am 15 years old and on a month long foreign exchange program in france. I was looking at my Canon Powershot A530 and I accidentally clicked format memory card and i think all my pictures are erased!!!! i have been here 2 weeks and i need to get those pictures back somehow. Can someone PLEASE help me out???????????</Content>
+	</Post>
+</Thread>

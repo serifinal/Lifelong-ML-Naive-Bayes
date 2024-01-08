@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Hauppauge HD PVR vs BlackMagic Intensity Pro to record from DirecTV satellite</Title>
+		<Username>dontjee</Username>
+		<Datetime>06-30-08, 03:31 PM</Datetime>
+		<Content>Hi, I'm looking to capture HD and SD content from a DirecTV Satellite Reciever. As far as I know, the options are Hauppauge HD PVR or BlackMagic Intensity Pro. Is there a consensus on which one is better? I'm leaning toward the Hauppauge because it's newer and I've used and liked Hauppauge products before. Are there any problems with it? Thanks for the help.</Content>
+	</Post>
+</Thread>

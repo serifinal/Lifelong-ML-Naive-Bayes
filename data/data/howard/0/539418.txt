@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS - NEW - Cradlepoint CTR350 Mobile WiFI Hotspot 3G Router - Barrie/Markham</Title>
+		<Username>Rob11</Username>
+		<Datetime>04-07-2010 07:46 PM</Datetime>
+		<Content>For Sale: Brand New Cradlepoint mini mobile WiFi Hotspot 3G router. This mobile router can be used with Telus, Rogers, or Bell HSPA Internet sticks. Local pickup in Barrie or Markham. Shipping available at buyers expense. List price $99 USD from Cradlepoint's website - asking $70.00.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>skin tones in flash pics by S5 IS</Title>
+		<Username>altaf007</Username>
+		<Datetime>09-06-2007, 07:13 AM</Datetime>
+		<Content>How can i make settngs in cameras so that flash pics taken by S5 IS apperas to be given below. The below given given images are taken from Sony H5. In my shots with s5 is ...the skin tones appear a bit dark or brownish.. thought the people i shoot are dark complexion but even with the with white complexion people turns out sometimes with dark or brown skin tones. I have used flash exposure setting and have also increased it ..but yet i get same results. I have tried a lot but coudn't get results similar to that of Sony DSC-H5 Any suggestions how could my s5 produce similar kind of flash pics</Content>
+	</Post>
+</Thread>

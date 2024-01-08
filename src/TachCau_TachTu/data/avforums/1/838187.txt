@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Tx-p42gt20b or TX-p42st30b</Title>
+		<Username>TomasR91</Username>
+		<Datetime>20-01-2012, 10:25 PM</Datetime>
+		<Content>Hi, I have a question about two TV's, I was going to buy the Panasonic TX-P42ST30B, but I have seen the Gt20B for £110 cheaper, so my main concern is. Is there enough of a difference between the two TV's to warrant an extra £110 which I could use on 3D Glasses. Also i could not find information on which glasses are compatible with the GT20b, I was going to buy the TY-EW3D3ME glasses. Thanks.</Content>
+	</Post>
+</Thread>

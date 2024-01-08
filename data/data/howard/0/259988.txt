@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>server error with jailbreakme.com</Title>
+		<Username>fishnetstars</Username>
+		<Datetime>08-02-2010 12:54 PM</Datetime>
+		<Content>I am trying to jailbreak with jailbreakme.com, but everytime I do I keep getting the error, "A server with the specified host name could not be found." Is there a fix?</Content>
+	</Post>
+</Thread>

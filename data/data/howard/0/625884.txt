@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Intensity u450 & QPST... Having trouble, the computer won't recognize phone.</Title>
+		<Username>dawty</Username>
+		<Datetime>03-11-2010 09:15 PM</Datetime>
+		<Content>I've tried everything... 3 methods, i have everything hooked up correctly... could somebody please tell me step by step instructions as how to get my phone to connect to EFS explorer? (to add custom ringtones.) sorry if this is in the wrong place i'm new here</Content>
+	</Post>
+</Thread>

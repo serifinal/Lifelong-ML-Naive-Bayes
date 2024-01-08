@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TV Recording to USB Hard Drive</Title>
+		<Username>Padraig H</Username>
+		<Datetime>17-07-2011, 2:47 PM</Datetime>
+		<Content>I see you can record programes on to a USB device from the Panasonic Model TX-P42G30B. Are you able to play them back on a 32" TV in the bedroom with a USB play back facility.</Content>
+	</Post>
+</Thread>

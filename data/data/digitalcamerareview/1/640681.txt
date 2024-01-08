@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>to make it easier, hp R927 or canon sd600 an up</Title>
+		<Username>hpalltheway</Username>
+		<Datetime>01-07-2007, 12:05 AM</Datetime>
+		<Content>ok, to make it easier for you guys to help out possibly, this thread is reflecting on my other thread i posted, and i typed alot, thus i make it easier, which is better to purchase, the hp R927 or the canon sd600 (or up)? please provide as many reasons as you can.</Content>
+	</Post>
+</Thread>

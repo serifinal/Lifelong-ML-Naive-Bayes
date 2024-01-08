@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>downloading images to sd card</Title>
+		<Username>davidevernon</Username>
+		<Datetime>04-05-2008, 07:27 AM</Datetime>
+		<Content>I have a Canon s3 is camera.I want to download images from the computer back onto the SD card. I have reformatted the card, and photos are sent to the card, but the camera displays "no image" when trying to view them. (They can be seen again on the computer, and so are on the card.)Is there a way to resolve this problem? David Vernon (Scotland) Thanks for anticipated help.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fs - Authentic Vancouver 2010 Winter Olympics Torch</Title>
+		<Username>spiritofevil99</Username>
+		<Datetime>03-06-2010 08:15 PM</Datetime>
+		<Content>I have an OFFICIAL 2010 WINTER OLYMPICS TORCH for sale. Looking for $1350 or best offer. This is the REAL torch, brand new and unused. The 2010 Olympic Torch, designed and manufactured by Bombardier in collaboration with the Vancouver Organizing Committee for the 2010 Olympic and Paralympic Winter Games (VANOC), is a symbol of the 2010 Winter Games, and will carry the Olympic Flame across Canada on its 45,000-kilometre journey. Twelve-thousand torchbearers will hold an Olympic Torch as they move through 1,037 communities across Canada. Over 90 per cent of the Canadian population will have an opportunity to see the beauty of the Olympic Torch and experience the warmth of the Olympic Flame. Designer/Manufacturer: Bombardier/VANOC Inspiration: Canada?s open land, vast potential and smooth, fluid lines left in the snow and ice from winter sports Height: 37.125 inches / 94.5 centimetres Weight: 3.5 pounds / 1.6 kilograms Materials used: Stainless steel, aluminum and sheet moulding compound Burn time: At least 12 to 15 minutes Fuel used: Blend of Propane, Isobutane and Hydrocarbons Please note that the gas line has been cut by VANOC to ensure safety. Package contains: 1x Vancouver 2010 Olympic Torch, 1x Torch Relay carrying case If auction winner is outside of Canada, the buyer is responsible for all taxes/duties. Shipping: $70 within North America; $140 International Payment: Paypal (within 24 hrs) I'm located in Vancouver, BC and I'm open to local pick up as well.</Content>
+	</Post>
+</Thread>

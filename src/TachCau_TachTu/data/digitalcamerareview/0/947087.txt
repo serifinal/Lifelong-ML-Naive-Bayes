@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>advice for my new SD790IS</Title>
+		<Username>whitetiger777</Username>
+		<Datetime>04-10-2009, 10:32 PM</Datetime>
+		<Content>I just got this camera to use in addition to my larger Panasonic FZ50. I haven't had a lot of time to play with the settings yet, because the battery was only partially charged (I was happy there was any charge at all coming from the store, so that's not a complaint!). So, as I wait for it to charge, I'm trying to figure out the best way to take pictures with my new little camera. It's very fast compared to my other camera, which is essential for keeping up with my almost 2 year old daughter. I'm currently using the camera with the superfine compression in hopes of getting the best pictures possible. I tried out the kids and pets scene mode as well as the indoor mode. I'm taking pictures in widescreen because my computer has a widescreen monitor and I like to have the same aspect ratio. I find that some pictures look super and others just seem not quite right, so I was hoping for some advice to get the best pictures possible. I'm also trying to figure out if I can adjust how vivid the pictures are, but I'm a little confused as to how to get to where I can change that setting, it appears to be grayed out. Any general advice is appreciated as well. I have a 4 GB memory card as well. I'm very happy with the speed of the camera and I want to get the best pictures I can. Thanks!</Content>
+	</Post>
+</Thread>

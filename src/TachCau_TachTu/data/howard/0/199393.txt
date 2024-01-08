@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>ACII - New Required Feature "Data Roam Restrict Am Ch $0" seen when adding msg plan</Title>
+		<Username>s32n0</Username>
+		<Datetime>09-20-2009 09:34 PM</Datetime>
+		<Content>So for the first time since the big VCAST change, I went to add a messaging package to my account (for a single day, of course). I'm sitting at the confirmation page, and there is a new feature that I've never seen before that the system is trying to add to the account as I make the change. =========================== Add Features ------------- Unlimited Mobile to Mobile Messaging PLUS 500 additional messages $10.00/month DATA ROAM RESTRICT AM CH $0 $0.00 This is a minimum required feature for your device. Remove Features ---------------- Video & Picture Messaging ($0.25/Message); Text Message ($0.20/message) $0.00 This conflicts with Unlimited Mobile to Mobile Messaging PLUS 500 additional messages. ============================ That's a scary sounding feature, so I'm holding off on confirming the change. Has anyone seen this feature or have any idea what it means? I didn't see it mentioned anywhere in a search, so I wonder how new it is. As for ACII Data, we have always been restricted to Verizon network only data access. Mobile Web / VCast / Picture messaging still does not work in extended network areas. I try it every couple months on USCellular's network in northern WV, but it is still disabled. I don't know if this feature is just clarifying that restriction or adding additional restrictions to the account. I guess I could always hope that they are removing the restrictions from ACII, and now only this feature will stand in the way of data access on extended networks, but I won't hold my breath.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P42VT30E and Sony BDP-S360: 3D detected????</Title>
+		<Username>gctwnl</Username>
+		<Datetime>07-02-2012, 10:23 AM</Datetime>
+		<Content>I have a Panasonic TX-P42VT30E and a Sony BDP-S360. As far as I know, the Sony does not handle 3D. The firmware of the S360 has been updated. The following happened. I put the Harry Potter Deathly Hallows BluRay in the player. The TV reacted with: "3D-signal detected, use the 3D button to switch to 3D" or something to that effect. When I select the 3D button on the TV remote, it gives me the choice 2D->3D and 2D. Now I wonder what is going on. Why did the Panasonic tell me it detected a 3D signal? I started from the assumption neither the BluRay nor the BluRay player had any 3D capability.</Content>
+	</Post>
+</Thread>

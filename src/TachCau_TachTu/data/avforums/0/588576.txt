@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Strange Combination Of PCB's in 42 Samsung</Title>
+		<Username>RtHonNelson</Username>
+		<Datetime>24-05-2011, 8:59 AM</Datetime>
+		<Content>I was given a 42' Samsung (PS42B451BWXXU) as it wasnt working correctly, the last 3' on the right hand side of the screen dont show any sings of life from top to bottom, a bit of research & the Samsung service manual for the unit suggested that I replace the 'E Buffer Board', I've opend the unit to confirm the correct part number etc, strange thing is, the main PCB is for a 50' Plasma (Part No. BN94 02837A)..I cannot find anything saying this is compatable with the 42' model, I suspect someone has been in the unit b4, does anyone think this in itself could be causing the issue or even have damaged the 'E Buffer Board' ? All help appreciated. Cheers, GNB....</Content>
+	</Post>
+</Thread>

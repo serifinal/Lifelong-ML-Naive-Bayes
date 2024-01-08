@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone users go back to BlackBerry? iPhone or BB 9700?</Title>
+		<Username>walds11</Username>
+		<Datetime>10-19-2009 07:16 PM</Datetime>
+		<Content>I had a BB for about 3 1/2 years and switched from an 8900 to an iPhone 3GS in June. I had a Pearl prior to the 8900. I returned the 8900 within the 30 day hassle free return window. The touchscreen is great for browsing, apps, games and a few other things, but is not that great for typing emails in my opinion. I miss the full QWERTY keyboard. The BB has true push email and you can do more customization with the device. If BB could come close to the iPhone's Safari browser and customization, I would jump back in an instant. The killer browsing experience on the iPhone is the only thing that could hold me from going back to BB. I do tons of browsing on my iPhone. I guess the BB browser is just ok and the Safari browser is great. I even miss the LED light on the BB and a few other minor things, but they are a big deal to me. These are some reasons why I would go back. The 9700 looks like the best BB yet.</Content>
+	</Post>
+</Thread>

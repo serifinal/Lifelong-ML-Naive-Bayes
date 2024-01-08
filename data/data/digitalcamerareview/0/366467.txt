@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>"Locked" SD Memory Cards</Title>
+		<Username>Myron</Username>
+		<Datetime>05-21-2007, 08:58 AM</Datetime>
+		<Content>I have a Canon SD 600. I can get 100's of photos on a card but I'm terrified of accidentally deleting all of them by pressing the wrong switch. I have not yet purchased a PC so I can't download the photos for safekeeping. After using-up a memory card and moving the lock switch down, are the photos completely safe from deletion? I am afraid that I might accidentally format the card, thus deleting all photos. Hopefully, formatting, as well as erasing, are disabled when the card is locked but I'm unsure. My question comes down to are all the photos completely protected from deletion when the card is locked?</Content>
+	</Post>
+</Thread>

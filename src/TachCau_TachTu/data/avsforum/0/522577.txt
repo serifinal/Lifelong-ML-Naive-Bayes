@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nvidia 180.43 beta</Title>
+		<Username>Tinker</Username>
+		<Datetime>10-24-08, 10:04 AM</Datetime>
+		<Content>Nvidia driver 180.43 beta is out http://www.nvidia.com/object/winxp_180.43_beta.html havent installed yet. Prob will fix the manual fan control. Will see how it will perform vs the 180.42 in FC2 later.</Content>
+	</Post>
+</Thread>

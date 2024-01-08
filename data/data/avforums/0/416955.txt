@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Guide+</Title>
+		<Username>JonUK</Username>
+		<Datetime>19-05-2011, 8:13 PM</Datetime>
+		<Content>Has anyone had a problem with the EPG contents on their G20 since the last freeview channel update yesterday. When I press the guide button it only then starts to populate but only now and next. If I then go to freesat and back again, press the guide button it will then populate it again. JonUK</Content>
+	</Post>
+</Thread>

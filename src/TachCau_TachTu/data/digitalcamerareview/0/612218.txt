@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>A610 spots on photos - dirty sensor?</Title>
+		<Username>MikeAqp</Username>
+		<Datetime>02-21-2007, 11:00 AM</Datetime>
+		<Content>Hi. I own an A610 that works fine, but lately I discovered spots appearing in my photos. The spots appear in the same places in all the pictures (though they are only noticeable in clear backgrounds such as in blue skies). They are semi-transparent. I'm not familiar with the interiors of the camera but maybe they are dust in the sensor. (I cleaned the lens, so it is not a dirty front element). Is there any way to clean the sensor? Is there any other possibility (dust in the lens back element or something?) Any sugestion/info will be appreciated. Thanks</Content>
+	</Post>
+</Thread>

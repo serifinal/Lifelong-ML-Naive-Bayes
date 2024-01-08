@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Boost refusing to activate Nextel BB 7520</Title>
+		<Username>jcompton</Username>
+		<Datetime>01-15-2010 12:43 PM</Datetime>
+		<Content>I purchased a starter kit SIM and paired it with a hand-me-down 7520 which (verified with Nextel) is not listed on any Nextel account. Boost is refusing to activate it. The automated phone activation system rejects it, the web system rejects it (because of the leading 01), and I have spoken with two Tier 1 and one Tier 2 phone reps who won't do it, either. Perhaps I'm just terribly unlucky, but it sounds like Boost may have tightened up their systems lately to shut out old Nextel BBs.</Content>
+	</Post>
+</Thread>

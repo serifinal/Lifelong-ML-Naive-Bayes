@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Canon EOS 1000D vs 5D</Title>
+		<Username>karl5</Username>
+		<Datetime>06-10-2008, 06:39 AM</Datetime>
+		<Content>If it is really correct and if it is similar to 5D soft touch shutter, it is certainly not 1000D but something like 475D. That feature is even out of XXD bodies standards. It is very classy and much ahead of XXXD & XXD bodies current comfort level. When I used a 5D, other than the low noise at ISO1600/3200, I had been amazed by the comfort of soft touch (after pressing soft touch shutter, clicking shutter feels like an hard emergency button; it is worlds apart). 1000D seems to be a modified 400D/450D hybrid and certainly a newer camera. It is not a rebatched 350D/400D certainly. Check detailes about Canon EOS 1000D ...</Content>
+	</Post>
+</Thread>

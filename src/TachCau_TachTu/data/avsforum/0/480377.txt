@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>ChuckZ</Username>
+		<Datetime>09-13-08, 06:33 PM</Datetime>
+		<Content>I'm trying to figure out the differences between these three models in terms of picture quality and video processing performance. I know the 7 series model has some superfluous features like Internet connectivity, but does it have a better picture than the 5 or 6 series models? The compare feature on the Samsung website isn't helpful (can't remember when, if ever, it was) so they all appear alike. I know the 7 series is brand new, but models from the same product year typically share the same parts. What differences have you found? If any calibrators have worked with these sets, please chime in since you'll likely have gained some in-depth knowledge. Thanks, guys.</Content>
+	</Post>
+</Thread>

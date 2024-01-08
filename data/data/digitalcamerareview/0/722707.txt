@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cannon Rebel Err 02 Code</Title>
+		<Username>DesignatedD</Username>
+		<Datetime>02-13-2009, 12:48 PM</Datetime>
+		<Content>I am getting a ERR 02 code in my cannon rebel I can not figure it out. I read that it is a cf card problem but I have 2 new ones also when I take the cf card out it comes on. Can someone help me please??????????????????????????????????//</Content>
+	</Post>
+</Thread>

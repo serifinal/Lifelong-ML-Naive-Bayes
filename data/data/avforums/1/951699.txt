@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Quick answe plz. TX-P50VT20B + 3d blu-ray £1000?</Title>
+		<Username>chief barker</Username>
+		<Datetime>10-07-2011, 4:37 PM</Datetime>
+		<Content>As above, i've been offered this set from somebody. Apparently mint. Warranty runs out in November. Shall I take it? Comes with a panasonic DMP-BDT300EG 3d blu ray player.</Content>
+	</Post>
+</Thread>

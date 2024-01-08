@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell's Vibrant via Bluetooth</Title>
+		<Username>Hrundi Bakshi</Username>
+		<Datetime>08-12-2010 11:29 AM</Datetime>
+		<Content>So I connected my Bell Vibrant to my Win7 X64 PC via Bluetooth, and all sorts of funny issues happen when attempting to control dialing from my PC, and use my computer as a speakerphone. To begin with, the "Hangup" button doesn't work, plus whenever I press the "Connect" button to "Use this computer as a headset or speakerphone for calls on your phone (Galaxy S)," the phone starts dialing the number written in the "Make a call to this number:" field (when there's a number written there--otherwise it would start dialing the latest dialed number) without my having to press the "Connect" button. Ain't that funny? Anyone else going through this? See also attached screenshot.</Content>
+	</Post>
+</Thread>

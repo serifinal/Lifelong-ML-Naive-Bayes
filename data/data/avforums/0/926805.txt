@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic and Other Manufactures using LG's 3rd Gen Passive Technology</Title>
+		<Username>WireMark</Username>
+		<Datetime>09-12-2011, 3:41 PM</Datetime>
+		<Content>I am probably in the wrong forum but, i was in Currys and looking at the range of 3D televisions. I am a Panasonic Plasma stalwart and love the Plasmas. The Panasonic Plasma Active 3D was impressive but the sales rep got talking to me for about 30 mins about the 3D teles etc. He showed me the LG model which is a 3rd Generation Passive Technology which blew all the others out of the water. However these were LED and i want another plasma some time next year. I mentioned i preferred the Panasonics to which he said he is waiting till next year for the next generation Panasonics which will now have the LG's 3D technology as they have bought the rights/patent or whatever it is for next years models. Is this true or anyone heard anything similar? I'd love a Panny Plasma with the quality of the LG 3D.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does adding a line to an existing account constitute a new contract?</Title>
+		<Username>brigden</Username>
+		<Datetime>03-07-2010 02:39 PM</Datetime>
+		<Content>I'm relocating to the US and I'm reluctant to open a new account with AT&T until the new iPhone is released. My fiancee is an existing client, if we add a second line to her account, would it be constitute a new or separate contract?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New HT/Media rm: 5.1 or 7.1 question as well</Title>
+		<Username>modoc</Username>
+		<Datetime>10-13-08, 01:24 PM</Datetime>
+		<Content>I just bought my first home, and am turning one of the rooms into a media room/HT/living room. My current hardware consists of: 6.1 JBL Northridge system (not expensive, but works well for me so far-I play a lot of music on it as well) Sanyo Z4 720p 16:9 projector 133" Da-Lite Cosmopolitan Electrol Matte White screen Denon 1804 Receiver (this will be replaced with a Denon 3808CI in about two days) XBox 360 Sony NS75H DVD player TivoHD The room is 14' wide and 18.5' long with a couch against the back wall (which puts the viewing distance about right for the screen size). I don't have HD DVD or Bl-ray, and don't really have any plans to upgrade. DVD's upconverted look great at 720p to me, and the majority of my media is streamed off the computer over the 360 or from the TivoHD. As such, with the new receiver coming in, and the lack of real room behind the couch, I'm wondering if it makes any sense to move to a 7.1 speaker setup, or if I should just do 5.1 well (since most of my source material will be 5.1 anyhow), and use the the amp to run Zone 2 into the kitchen. If I ever do move to HD DVD/Blu-ray, I can always reclaim those outputs. Thoughts?</Content>
+	</Post>
+</Thread>

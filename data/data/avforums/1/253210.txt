@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is the Panasonic VT30 worth it over the GT30 50"</Title>
+		<Username>k3wt</Username>
+		<Datetime>07-07-2011, 8:24 PM</Datetime>
+		<Content>Hi Ive been trying to decide which one of the above to get. Can you please explain in simple terms whether its worth spending the extra to get the VT model? It seems that the VT is around £370 more than the GT model once ive bought two pairs of 3D glasses and WIFI dongle. (From Amazon) Thanks in advance</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung 750 Owners Thread</Title>
+		<Username>judgmentday</Username>
+		<Datetime>04-30-08, 03:34 PM</Datetime>
+		<Content>Please report your impressions, experiences, thoughts, etc here. Thank you.</Content>
+	</Post>
+</Thread>

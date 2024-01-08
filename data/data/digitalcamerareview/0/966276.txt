@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>lightroom/Canon Rebel Xs download problem</Title>
+		<Username>empicard</Username>
+		<Datetime>02-11-2009, 09:27 AM</Datetime>
+		<Content>I have a Canon Rebel XS, and Lightroom 2 on a MacBook OS X 10.4. I would like to plug the camera in (USB) to download my pictures. Lightroom is unable to recognize the RAW files when i download direct from the camera. If I put the card in my card reader, they import fine. I have installed the Canon CD of drivers, etc. Does anyone else have this problem? Is there some setting I'm missing? Please help. Thanks, Evan</Content>
+	</Post>
+</Thread>

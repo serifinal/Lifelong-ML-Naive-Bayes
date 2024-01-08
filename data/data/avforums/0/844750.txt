@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Electric bill:(</Title>
+		<Username>earlgrey777</Username>
+		<Datetime>03-02-2012, 3:18 AM</Datetime>
+		<Content>Just go my electric bill and my new 50inch plasma is going to cost me 200 to 300 pound more that my old led tv to run for the year wow what a sucker lol</Content>
+	</Post>
+</Thread>

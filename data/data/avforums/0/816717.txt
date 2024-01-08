@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Warranty</Title>
+		<Username>hybridtheory</Username>
+		<Datetime>14-06-2011, 12:12 PM</Datetime>
+		<Content>Hi When you send off for Panasonic's 5 years warranty, does the warranty beging when u bouth the TV or when uv received delivery of ur TV? Thanks Baz</Content>
+	</Post>
+</Thread>

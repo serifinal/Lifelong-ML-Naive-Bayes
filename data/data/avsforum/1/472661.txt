@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung A550 VS Sony V4100</Title>
+		<Username>mcp9044</Username>
+		<Datetime>09-25-08, 10:16 PM</Datetime>
+		<Content>Which TV is better or which would you buy I can not decide. I have seen that both seem to have problems. I will be Gaming mostly on it and watch HD and BR</Content>
+	</Post>
+</Thread>

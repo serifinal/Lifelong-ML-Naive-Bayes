@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot: Which way is up???</Title>
+		<Username>skyman.2112</Username>
+		<Datetime>05-15-2010, 05:21 PM</Datetime>
+		<Content>I rotated a photo 90 degrees in photoshop. When I play it on the cameras LCD, I get a yellow question mark. I rotated it back to normal in photoshop. It plays back now, but sideways. How do i save a file so the camera knows which way is up??</Content>
+	</Post>
+</Thread>

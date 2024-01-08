@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Current Prepaid Account, Can I port in old number from AT&T/T-Mobile?</Title>
+		<Username>EDF587</Username>
+		<Datetime>11-17-2009 05:05 PM</Datetime>
+		<Content>I have a couple of lines on family accounts and I was wondering if I could chose to port one in to my Verizon prepaid? I keep the Verizon prepaid in the car for emergencies because of the coverage, will I be able to call in to Verizons prepaid customer service and port in a number or would I have to buy a new phone? Thanks in advance.</Content>
+	</Post>
+</Thread>

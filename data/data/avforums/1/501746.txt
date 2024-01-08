@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help me find a 42tv circa £400 1080p</Title>
+		<Username>djinuk</Username>
+		<Datetime>28-12-2011, 8:10 PM</Datetime>
+		<Content>My mrs has purchased a new house and is after a new tv, 42 if possible, budget around £400, for average watching. Any ideas where to begin to look, you guys will know far more about tvs than me</Content>
+	</Post>
+</Thread>

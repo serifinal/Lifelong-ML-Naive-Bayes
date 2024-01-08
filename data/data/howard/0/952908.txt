@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>U.S Residents purchasing Bell Samsung Galaxy S Vibrant (I9000) - AT&T Bands</Title>
+		<Username>MrCeddy</Username>
+		<Datetime>08-18-2010 08:12 AM</Datetime>
+		<Content>I'm not sure if this should go in the buy&sell but since I do not have the phone I figured here would be ok. I figured to help our friends across the boarder I would purchase some Vibrant's, (end the contracts) and post on Ebay... Does this interest anyone?</Content>
+	</Post>
+</Thread>

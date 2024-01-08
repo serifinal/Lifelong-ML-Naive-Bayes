@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola Droid X - Screen Failure Issue</Title>
+		<Username>vernonator</Username>
+		<Datetime>07-16-2010 08:05 PM</Datetime>
+		<Content>While many of you are waiting for your Droid X's to be delivered I already returned mine. I did the pre-order from Best Buy and picked it up 5 min after they opened on Thursday. That afternoon I noticed a line of dead pixels across the screen about 1/3 of the way down - they flickered in and out, but finally stayed on the rest of the evening. This afternoon the bottom 1/2 of the screen went dead...flickered a bit and just died, even when pulling the battery it only showed the bottom 1/2 of the Motorola M on the boot screen. Took it back to Best Buy and they stated that I was the 3rd one returned today with the dead screen...OUT OF 6 THEY SOLD ON LAUNCH DAY!!!!!! Anyone else notice any screen issues? I have my name down for the next X they get in but am a bit hesitant to get one...but I guess by the time the come in next week I can see if more people have this issue. Maybe time to start the "Droid X Problem" thread..... -------------------------------- Edit by FAUguy: If you are having screen problems of any kind, such as dead pixels or flickering, please post your build week. I'm wondering if it might all be from a bad batch.</Content>
+	</Post>
+</Thread>

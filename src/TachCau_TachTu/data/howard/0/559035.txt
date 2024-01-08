@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Fido Sim Card $10 shipped.</Title>
+		<Username>phuviano</Username>
+		<Datetime>06-03-2010 02:32 PM</Datetime>
+		<Content>Brand new, never used, fido sim card. I'm asking $10 shipped anywhere in Canada. Sim card will arrive by regular letter mail. Paypal payments only, not going to bother meeting up for $10. pm if you're interested.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Any non-Smartphones able to sync Microsoft Outlook (Calendar and Contacts)?</Title>
+		<Username>klmlb</Username>
+		<Datetime>12-17-2009 10:02 PM</Datetime>
+		<Content>Cheers Everyone. I'm switching to AT&T (from Verizon). Initially, I wanted a Wifi capable smartphone that could sync to Microsoft Outlook, but it appears that you must have a data plan if you get a subsidized smartphone. I do not need or want the data plan, but I do want my phone to be able to provide calendar reminders and have the calendar sync to my Microsoft Outlook calendar at work (manually syncing via USB cable or Bluetooth is perfectly fine by me). Do you know of any non-smartphones that can do this well? I've done a little research and it appears LG phones can't for the most part (just a couple of Verizon LG hones can - enV 3(VX9200), enV Touch(VX11000) and Chocolate Touch (VX8575)). I've read that Nokia has a software application called Nokia PC Suite that can do this. Has anyone ever used this software and done this? If so, what was your experience like? Was the calendar or contacts limited in info? What phone do you have? How much memory on the phone? I was think of trying the Nokia 6350 or Mural (6750). Thanks in advance! Regards, Mark</Content>
+	</Post>
+</Thread>

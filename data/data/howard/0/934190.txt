@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone4 Unboxing</Title>
+		<Username>AlphaFox</Username>
+		<Datetime>06-23-2010 01:54 PM</Datetime>
+		<Content>just got my new iPhone4, check out the unboxing!! haha http://www.youtube.com/watch?v=yD7lKn4e2QY</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Date disply on Canon SX20IS</Title>
+		<Username>Cherokee</Username>
+		<Datetime>10-10-2010, 09:21 AM</Datetime>
+		<Content>Can anyone tell me how to change the date (year) display on a Canon SX20IS so that the year display reads only the last two digits of the year? So that instead of reading 10/10/2010, it would read 10/10/10. Thank you in advance!</Content>
+	</Post>
+</Thread>

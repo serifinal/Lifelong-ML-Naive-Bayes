@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS42B430 Plasma</Title>
+		<Username>dreams3577</Username>
+		<Datetime>28-01-2012, 12:57 AM</Datetime>
+		<Content>Hi All Is it ok to turn the switch off at the wall every night for my Samsung PS42B430 Plasma? I turn the TV off via the touch button on the front, but the red power light stays on, there is no on/off physical switch, and so I have been turning the switch off as well.. Whats your thoughts? Cheers Steve</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>If not a Panasonic What should i look at!!!.</Title>
+		<Username>mikebh41</Username>
+		<Datetime>10-02-2012, 7:36 PM</Datetime>
+		<Content>Hi Have a 5 year old Panasonic Plasma and have had my heart set on getting a VT30 50 inch but now after reading all the negative posts i am not so sure so my question is what other tv's should i be looking at or should i take the plunge and hope for the best and get a VT30 as i can't believe they are all faulty. Mike</Content>
+	</Post>
+</Thread>

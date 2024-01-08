@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon sd800IS vs SD550</Title>
+		<Username>aye5882</Username>
+		<Datetime>10-06-2007, 01:20 AM</Datetime>
+		<Content>Hello all. I currently have the Canon sd800IS. While its a great camera, i'm still not pleased w/ the picture quality, especially coming from the A95. I recently purchased the SD550 on ebay for a bargain of $160 in mint condition. Besides the image stabilization, is there really a diff in picture quality between the two pocket cams? i know the sd550 has a bigger sensor so will that make a noticeable difference? thanks!</Content>
+	</Post>
+</Thread>

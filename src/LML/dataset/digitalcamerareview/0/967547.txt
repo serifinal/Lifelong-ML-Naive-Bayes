@@ -1,0 +1,7 @@
+powershot sx20is - blank display .
+does anyone have a solution ?
+when my sdhc card is locked , the display on my camera functions properly .
+however when the card is unlocked , the display remains blank .
+this pertains to both the viewfinder and the lcd .
+any suggestions are appreciated .
+m

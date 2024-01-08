@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma TC-P55ST30 - Motion seems to fast?</Title>
+		<Username>santahorse</Username>
+		<Datetime>05-07-2011, 3:04 AM</Datetime>
+		<Content>I just bought this tv and while watching blu ray and hd cable tv the people on the screen seem to be moving in fast forward. It's very unnatural and annoying. Everything looks great in 3d, but the 2d seem "off". Is there anyway to fix this?</Content>
+	</Post>
+</Thread>

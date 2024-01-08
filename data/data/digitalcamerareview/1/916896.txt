@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD card</Title>
+		<Username>phonevoice</Username>
+		<Datetime>04-25-2007, 09:15 PM</Datetime>
+		<Content>I am ordering the SD800ID. There is a choice of a SD Extreme II or III card, 2G for just $6 difference. Before I pick the SD III, is there any reason not to?? Thanks.</Content>
+	</Post>
+</Thread>

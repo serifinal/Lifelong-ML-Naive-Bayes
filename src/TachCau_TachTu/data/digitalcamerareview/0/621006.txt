@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>On the Canon digi cameras, better to use LCD or rangefinder ?</Title>
+		<Username>jolo</Username>
+		<Datetime>11-07-2008, 12:55 AM</Datetime>
+		<Content>My newest set of Canon cameras, that I have accumulated over the years is a A570 IS. I have to admit that I do find the A series having excellent value. Here is my question: Will I get more accurate photos by looking at my LCD display instead of my viewfinder ?? I much prefer the view finder, from years of taking photos as well as the ability to block out other views. I think that looking at the LCD is always better for close up shots ??? True ?? Please help me. I am having a quasi-debate with my son. Thanks, Jon Temple</Content>
+	</Post>
+</Thread>

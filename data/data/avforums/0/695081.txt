@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>No Picture on Panasonic 50" Plasma</Title>
+		<Username>teflon1961</Username>
+		<Datetime>01-08-2011, 11:15 PM</Datetime>
+		<Content>After having no 50" TV for six weeks because the panel was dead, dreading the thought of leaving myself wide open to the local Plasma repair people, who wanted £60 to even register and decide if there was a fault..I decided to ring Panasonic themselves... I spoke with Ashley and explained the problem. The fact that I had had the TV for over 4 years, though it had only maybe functioned for less than 800 hours... The fact that I had accepted I may have to pay between £100 and £500 for the repair and that I was hoping for some advice with regard to burnt out boards, fuses or drivers... In the most humble polite voice, I told him that my telly was broke and that I needed advice, even though it was well out the gaurentee.. There was nothing on the Forums regarding no screen, I had scoured the net for possibly 16-20 hours and nothing.. I'd even phoned the folks who I'd found off the net, offering allsorts of vey costly assessments... However, at Panasonic, Ashley said.."Hold the number 1 key down for about 5 seconds..." My telly worked!!!! WHY IS THIS NOT INCLUDED IN THE TROUBLESHOOTING SECTION OF THE OPERATOR'S MANUAL!!!!!??? There's also bugger all on the forums I'd googled.... Anyway, I hope this helps.. I'm still smiling and thinking that Ashley and Panasonic have once against proved they are on top of the job. Thanks.. ..and, hold the number 1 key down if your panel goes dead!!</Content>
+	</Post>
+</Thread>

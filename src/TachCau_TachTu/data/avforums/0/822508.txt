@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>3D + Panasonic Plasma</Title>
+		<Username>Mayfair2011</Username>
+		<Datetime>11-12-2011, 11:30 AM</Datetime>
+		<Content>Hello all, Firstly I have posted this in 3D TV Technology and Plasma TV's section as I'm not sure what section would be best? If this is wrong, Please delete this thread. Just recently bought a new TV (Panasonic TX-P42ST30) and got a couple of pairs of 3D glasses on Friday. I never tried out 3D and watch my first 3D movie last night and I must say it was very good! Although I'm a little concerned, When I took off the glasses I noticed the movie was very very bright and I'm wondering would this be a problem on a plasma screen (image retention / burn-in) Since I've noticed from reading around to avoid high brightness / contrast on Plasma's. So would watching 3D movies cause a problem since they are very very bright, If you look without the glasses on. Many thanks!</Content>
+	</Post>
+</Thread>

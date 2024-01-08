@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma FBr Thread Closed?</Title>
+		<Username>tele1962</Username>
+		<Datetime>11-08-2011, 9:54 PM</Datetime>
+		<Content>Can someone please explain what is going on and why was this thread closed?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't Connect To Voicemail on factory unlocked iphone4 on Telus</Title>
+		<Username>Synergie1</Username>
+		<Datetime>08-07-2010 09:34 AM</Datetime>
+		<Content>I have updated the carrier info through itunes and everything else works perfectly. I get my voicemail notifications on the phone, but when I try to click on the voicemail icon on the bottom right, it says 'Can't connect to voicemail, call carrier for assistance' Now I should mention, that I can manually go to the keypad and dial my own phone number and get it that way and it works just fine. Is there a setting in the phone app somewhere on the iphone where you have to input what number to call to check voicemail? (I have had many phones over the years that had a setting somewhere to change the number that needs to be called to check voicemail) Or is this really a carrier issue? Anyone else with a factory unlocked iphone4 from the Apple store with the same issue?? If so how did you fix it so that you can just press the voicemail button to call and check your voicemails? Thanks in advance!</Content>
+	</Post>
+</Thread>

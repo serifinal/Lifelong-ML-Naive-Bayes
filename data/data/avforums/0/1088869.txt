@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 2011 range - HDMI Ethernet</Title>
+		<Username>Bill4</Username>
+		<Datetime>08-03-2011, 8:29 PM</Datetime>
+		<Content>Does the new range implement HDMI Ethernet? The current situation is.. 1x ethernet cable to BD Palyer (BD Live and/or Skype) 1x ethernet cable to TV (vierra connect) 1x ethernet to my amp for Internet Radio Would be nice (dare I say desirable) to use only 1x ethernet connection then let HDMI take care of the rest. Audio Return Channel Is it possible to connect a 3D BD palyer HDMI 1.4 to the TV (for best picture quality, bypassing the amp's picture processing, then using the audio return channel send Bitstream/LPCM full HD surround sound to the Amp? LPCM would be handy for older amps. Currently, a dual HDMI 3D BD player is required for this (1x HDMI cable to the TV and 1x HDMI cable to the amp (LPCM) when the amp cant decode HD bitstreams. Suround Audio (ARC) Has this been sorted? From 1st of April, all TVs must have an encoder/decoder to send surround sound (Freeview HD) as DTS to the Amp (not Dolby pulse and mixed codecs required for audio description). 2010 range could not do this, all had was stereo. Thanks Bill</Content>
+	</Post>
+</Thread>

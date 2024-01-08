@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>[Pls Help]Similar prices, Samsung 40A550, 4069F, and Sony 40V4100... Which to pick?</Title>
+		<Username>habergeon</Username>
+		<Datetime>08-29-08, 12:02 AM</Datetime>
+		<Content>Samsung 40A550 -- Samsung 4069F -- Sony 40V4100 -- 4069F with 120hz and AMP, but is the older model (isn't it?) Which one you would recommend?</Content>
+	</Post>
+</Thread>

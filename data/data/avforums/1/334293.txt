@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Fish Bone ITO/FBI?</Title>
+		<Username>DanielBuus</Username>
+		<Datetime>13-12-2011, 7:18 PM</Datetime>
+		<Content>I read the thread from the visit at the Panasonic HQ in Japan, where the "Fish Bone ITO", or "FBI", is mentioned. The Powerpoint slide specifically identifies this as a sub-50" feature only. I then searched the forums for fish bone ITO, and only found two hits; the thread from the visit to Japan, and another user asking about this, and being referred to the thread from the visit the Japan. Where this "FBI" tech isn't explained at all as far as I can comprehend. Does anyone have any insight into this feature or tech? I'm currently seriously considering buying myself a christmas present, upgrading my 2008 Panasonic plasma to this year's VT series, and I had my heart set on the 50" model, but if this delicious fish has some tender meat I need to try, I'd like to know if I should go for the 42" version instead. Cheerio Daniel</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony KDL42V4100 vs Samsung LN40A530</Title>
+		<Username>phoenix_sinistre</Username>
+		<Datetime>11-21-08, 11:58 AM</Datetime>
+		<Content>Sony KDL42V4100 vs Samsung LN40A530 I'm trying to decide between these two models to replace my current Sharp Aquos LC32D43U. Just looking for some insight / real world use / user thoughts before I make the jump... any comments would be greatly appreciated... cheers, mike</Content>
+	</Post>
+</Thread>

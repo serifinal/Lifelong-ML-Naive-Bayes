@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can you help with camera repair, please :)</Title>
+		<Username>AnneRN</Username>
+		<Datetime>09-12-2008, 09:31 AM</Datetime>
+		<Content>i have a canon powersht S3IS and I accidentally dropped it on my lawn. Everything seemed ok until I noticed this tiny piece of metal sticking out on the top. It is protruding from the "seam" between where the front of the camera meets the top of the camera - right above the powershot logo. It seems it may be causing my pictures to be slightly out of focus. Repairs are sooooo expensive, I checked the canon website and it gave me a repair estimate of $147 - I hate to pay half of what the camera cost me to repair this! I have attached photo's of the problem - please let me know if you think I can repair this myself.</Content>
+	</Post>
+</Thread>

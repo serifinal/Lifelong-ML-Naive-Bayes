@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Change default save location on Samsung Gravity (SGH-t469)</Title>
+		<Username>janus zeal</Username>
+		<Datetime>06-21-2010 09:57 PM</Datetime>
+		<Content>I recently gave my mom a Gravity, and am having trouble figuring out how to set her camera to save to the SD card by default. Is this feature/setting missing from this phone? Anything I can do about it?</Content>
+	</Post>
+</Thread>

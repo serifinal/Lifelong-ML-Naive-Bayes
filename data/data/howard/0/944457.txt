@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell Samsung Galaxy S i9000 $100 on 3yr + Free $75 GC + 3300 ($41)Reward Points at BB</Title>
+		<Username>geokilla</Username>
+		<Datetime>08-15-2010 04:45 PM</Datetime>
+		<Content>Repost from FlintBlade at RFD Originally Posted by FlintBlade Bestbuy has the Samsung Galaxy S i9000 on sale for $100 on a 3yr contract. You also get a free $75 GC and 2500 points + an additional 800 points while purchasing it during the back to school event. 400 points = $5 so that's $41.25 on top of the $50 savings and $75 GC Futureshop also has the phone on sale but it's $150 with a $100 GC and no reward points. You may be able to get something to compensate for the loss in reward points though. The gift card can't be used on the purchase of the phone, but you can sell it at a 10% loss on RFD if you have nothing else to buy. Here are the new Bell Student Plans. They now include unlimited text messaging. Bell Student Plan 40 200 Anytime 6pm evenings/weekends 100mb my10 nationwide unlimited text messaging Bell Student Plan 50 200 Anytime 6pm evenings/weekends 500mb my10 nationwide unlimited text messaging Key differences between the Bell student Plans and Telus is that you do get Voicemail 3 with Telus. Also, their $55 student plan is 1gb instead of 500mb for $50 at Bell.</Content>
+	</Post>
+</Thread>

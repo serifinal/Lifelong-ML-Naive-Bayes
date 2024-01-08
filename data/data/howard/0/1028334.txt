@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is there a way to send a saved text message when refusing a call?</Title>
+		<Username>flip69</Username>
+		<Datetime>11-22-2009 09:38 AM</Datetime>
+		<Content>My Dare used to be able to do this? i.e. When getting a call I could choose a text message to send like "I am at the movies. I will call you later".</Content>
+	</Post>
+</Thread>

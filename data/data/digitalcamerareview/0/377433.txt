@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Battery Cover Keeps Opening</Title>
+		<Username>Myron</Username>
+		<Datetime>05-01-2008, 09:53 AM</Datetime>
+		<Content>After opening and closing the sliding battery cover on my Canon SD-600, the cover has become loose. The cover now slides open with just a feather-light touch of a finger. Often, the cover slides open while trying to snap a photo. It would be ridiculous to have it repaired as it's no longer covered by warranty. Any advice to keep it closed while camera is in use? I thought of placing a tape over the cover. Am I the only 1 with this problem? Remember, when the battery cover opens, all power is shut-off, so I've been losing loads of snapshots.</Content>
+	</Post>
+</Thread>

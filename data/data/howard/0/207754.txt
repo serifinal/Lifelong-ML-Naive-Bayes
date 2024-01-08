@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Outgoing Mail Server for WIND?</Title>
+		<Username>Massonite</Username>
+		<Datetime>03-16-2010 09:32 AM</Datetime>
+		<Content>Anyone know how to setup the outgoing mail server for WIND? I setup my Shaw email on my Google Ion, and it didn't like any combination of Shaw SMTP server information. So, I randomly put smtp.windmobile.ca and it seemed to work. However, when I send an email it doesn't. Anyone have any luck with this?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Engadget: Nokia's Design by Community</Title>
+		<Username>scapegoat81</Username>
+		<Datetime>03-18-2010 07:47 PM</Datetime>
+		<Content>Engadget:Nokia's Design by Community makes smartphone concepting a multiplayer game, with limits Nokia's community blog has opened up the crowdsourcing floodgates, at least in theory. For "Design by Community," users will be able to vote on smartphone features via a series of sliders, although within an arbitrary point allotment system. A new poll opens next week for size and shape, followed by materials, operating system (Symbian or MeeGo being the only choices, unsurprisingly), and so on in the weeks that follow, with the last poll starting April 26th. After that, a concept sketch will be voted on and later rendered -- but no plans to ever have it made into an actual retail product (boo). We can't exactly say we understand all the selections here: why is a touchscreen keyboard less ambitious than T9 text entry? Does saying capacitive is more ambitious than resistive serve as a subtle hint of trends to come? What in the world is the difference between hot key and one touch? It's interesting to see how X6, N900, N97 all come out as a Perfect Mixes, while last year's E75 and the more recent C5 all straddle the "less than ambitious" line. Oh, and just so we're clear... a 5-inch, 21:9 ratio display without touchscreen but with a touchscreen keyboard is a perfect mix. Go figure.</Content>
+	</Post>
+</Thread>

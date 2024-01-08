@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon 520 and 720</Title>
+		<Username>supsec</Username>
+		<Datetime>02-13-2008, 10:33 AM</Datetime>
+		<Content>I have the Canon Powershot 520. I'm thinking of upgrading to the Powershot 720. I like the bigger screen on the back. Would this be a good choice for my ugrade. This would be my 3rd Powershot purchase. I hand my older camera down to one of my children and then buy the new one for myself. Is there any other model that would be better. I feel that I'm used to the features on this and wouldn't have to learn anything new. Is there anyone out there who has the 720 and can compare it to the 520 for me? Thanks</Content>
+	</Post>
+</Thread>

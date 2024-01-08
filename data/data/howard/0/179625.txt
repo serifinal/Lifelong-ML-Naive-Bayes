@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Class 4 or 2 memory card installed in your Droid X?</Title>
+		<Username>FAUguy</Username>
+		<Datetime>07-16-2010 10:09 AM</Datetime>
+		<Content>It appears that 16GB Class 2 and Class 4 cards are coming pre-installed on the Droid X. Please check the card on your phone and vote in the above poll. Also, please post a reply saying the Class speed, date code on the back of the phone, and if you ordered the phone on line or in store. So for example one would say: Class 4 25/10 Ordered on line. Date code is in week/year format: Class 4 Japan</Content>
+	</Post>
+</Thread>

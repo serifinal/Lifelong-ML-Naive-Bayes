@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon powershot A70 not working!!</Title>
+		<Username>tino228</Username>
+		<Datetime>07-26-2006, 11:21 PM</Datetime>
+		<Content>If anyone could help i would be most grateful. Here goes: I am getting near total blackness on my lcd screen when I turn it on. However, My lcd screen is perfect when i go to view my existing photos before my problem developed . I can access my menus etc in shooting mode, and if i take a photo, it is of blackness.</Content>
+	</Post>
+</Thread>

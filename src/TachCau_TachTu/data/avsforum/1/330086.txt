@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LN52A580,650 or 750, which one has the least issues?</Title>
+		<Username>Jbro71</Username>
+		<Datetime>11-30-08, 09:11 AM</Datetime>
+		<Content>Hi All, Newbie here, but I've been reading this forum for a while. Anyway, looking for a new 52" LCD, I originally wanted the Sony W4100, but I am now pretty certain I want a Samsung. Went to BB yesterday and saw a great deal on the 580, which I read in one of the other threads are only sold at BB. The PQ on this TV looks almost as good as the 650 and 750, (at least to me untrained eyes) and the price was very good. Then there's the Amazon deals w/ the free Blueray. If I go this route I am leaning towards the 650 or 750, being that the price diff is so small now. Couple of questions here, do both TVs have the halo issue? Sound issue? Does the 750 sound better than the 650? Exlcuding the spec diffs, is one set less problematic than the other? Is so, in what areas? If any of you could guide me on these 3 sets it would be much appreciated. Thanks in advance for your help!</Content>
+	</Post>
+</Thread>

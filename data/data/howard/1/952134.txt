@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New owner of TM506 - Which Cradlepoint router can I use?</Title>
+		<Username>gilbreen</Username>
+		<Datetime>10-20-2009 12:58 AM</Datetime>
+		<Content>I am interested in tethering a TM506 with a Cradlepoint router. While I have seen mention of this ability on the forum, the specific Cradlepoint model is not listed. I have also looked on Cradlepoint's website, but could not find the TM506 listed. Any recommendations of known working Cradlepoint routers to tether with the TM506 to create a mobile WiFi hotspot?</Content>
+	</Post>
+</Thread>

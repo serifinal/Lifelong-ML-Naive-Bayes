@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42G30B flicker strobe effect</Title>
+		<Username>gchaplin</Username>
+		<Datetime>25-07-2011, 8:02 PM</Datetime>
+		<Content>Just bought a brand new 42G30B and i have noticed this horrible flicker / strobe effect when there are large blocks of the same colour. It's almost unwatchable as it hurts your eyes after a while. I assume this is not the brightness problem I have seen people talk about, this is not gradual, but a fast strobe effect. I have noticed that this is present in normal and dynamic, but not cinema or the professional modes, slightly in thx mode though. All the other settings appear to make no difference. Obviously I can use cinema mode but I don't see why it should be going on in the other modes. I assume this is not supposed to do this, my friends G10 and VT20 which are similar don't have this problem going on. Will it get better over time? Does it need running in? I spoke to panasonic and they suggested a software update, I have 12.04, and they are sending me 12.10 to try. The easiest place to see it is to go to the set up menu and select the update option, when the update screen is present there is a bar in the middle and a large grey square covering most of the screen , this flickers like mad. Thanks Gary</Content>
+	</Post>
+</Thread>

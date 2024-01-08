@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Panasonic 50" VT30B-Image shadow.</Title>
+		<Username>billbirchall</Username>
+		<Datetime>30-06-2011, 6:34 PM</Datetime>
+		<Content>I am not sure if this has been covered before in the Forum, but I am noticing that in certain conditions, commentators etc., seem to have a very slight black edge to the image. It is barely perceptible but once noticed, it becomes irritating. I am generally delighted with the picture, except for this issue. My question is, is this normal? If not, what can I do to eradicate it? The viewing mode is, Normal, with brightness and contrast at about 50% and CATS off. Any advice would be much appreciated. Bill</Content>
+	</Post>
+</Thread>

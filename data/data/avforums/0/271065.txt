@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-PXXS10 Owner's Thread</Title>
+		<Username>carpyrob</Username>
+		<Datetime>26-12-2009, 11:49 PM</Datetime>
+		<Content>Hi all, I need more help, I was originally all set for the purchase of a G10, but these things are almost impossible to find at a good price in stock at the moment, after reading a review of both the G10 and the S10 on What Hifi's website I am now in even more of a muddle, they suggest there is nearly no difference between the models, so, not so much for the £30 price difference, mostly stock differences do I bite the bullet and go for the S10. At the end of the day I am interested in one thing, I currently have an old 28" Phillips tube set, if I have a picture quality as good as or better, I will be a happy man, obviously if it is worse.........then well.......what a waste of a lot of money. Cheers, Rob.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What are the best 5 budget MiniDV camcorders?</Title>
+		<Username>shawntmartin</Username>
+		<Datetime>07-22-08, 11:12 AM</Datetime>
+		<Content>I'm curious about what is considered the best 5 budget MiniDV camcorders. Anyone?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer elite pro-1150hd..just got one.</Title>
+		<Username>kilove</Username>
+		<Datetime>17-01-2012, 12:00 AM</Datetime>
+		<Content>HEY GUYS...I JUST GOT A PIONEER ELITE PRO--115O HD KURO TV...I READ VERY GOOD REVIEWS ON THIS TV..WAS WONDERING ..DOES ANYONE HAVE THIS TV ..THAT CAN GIVE ME SOME FEED BACK ON IT ?....</Content>
+	</Post>
+</Thread>

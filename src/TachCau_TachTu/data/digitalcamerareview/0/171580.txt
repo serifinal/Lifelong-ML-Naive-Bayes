@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Videos stuck on the card - help!</Title>
+		<Username>michl</Username>
+		<Datetime>08-11-2010, 09:57 AM</Datetime>
+		<Content>Not sure if this is the right place to go but... I shot video with my A560 and although it will play back from the camera as well as from my SD1300 it will not transfer to my computer from either camera. All of the pictures from that card transferred as well as two of the 5 videos. Any suggestions of why and what to do? Thanks!</Content>
+	</Post>
+</Thread>

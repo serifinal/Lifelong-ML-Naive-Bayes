@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Room started need advice on set up and room treatments</Title>
+		<Username>Stix2</Username>
+		<Datetime>03-31-08, 10:52 PM</Datetime>
+		<Content>Well room is being sanded and such right now. I am setting up for 7.1 and will be using ED 6t6 towers and 5tc surrounds with A7S-450. I was thinking of going FP but wanted 1080P and those are a bit expensive. So may have to suffice with my 42" plasma for now. Here is where I am thinking of putting screen/TV. It is Pic #1 center it on wall and have towers of to the sides. Is it ok to spread them out far? The room is 20x20x10. It has a hangover with storage that will be boxed it that sticks out 4' and hangs down 4'. Surrounds mid way and sur rear on back wall under hangover. Now what is this room treatments for HT rooms I can do? Never heard of this before and does it help out that much? Room was gonna have carpet but if there is somthing for sound that is better I would like to know all this before I go further. Here is some pics of work in progress. First 2 are where screen/projector will go. It does have a shelf going on top but wall is large about 8'6" to top Second is looking to the left with window. Next is backwith overhang and</Content>
+	</Post>
+</Thread>

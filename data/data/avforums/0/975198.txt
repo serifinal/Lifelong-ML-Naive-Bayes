@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS59D550 settings</Title>
+		<Username>Samsung boy</Username>
+		<Datetime>22-12-2011, 9:03 PM</Datetime>
+		<Content>Hi, I noticed that both Movie and Standard settings have a contrast of 95. Is that not high considering the potential logo burning issues? I recall that my Samsung 50" was way lower contrast on both modes. Would welcome feedback. Thanks</Content>
+	</Post>
+</Thread>

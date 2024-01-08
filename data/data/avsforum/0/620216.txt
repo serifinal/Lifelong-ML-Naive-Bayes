@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>If you had your choice between the two..</Title>
+		<Username>spartanqb</Username>
+		<Datetime>07-06-08, 09:45 AM</Datetime>
+		<Content>If you had to choose, which would it be? Your thoughts will be greatly appreciated. Thanks/ KEF iQ5's (front) iQ1's (sorrounds) iq2c (center) eD A3-300 (sub) or av123 x-mtm encore Tower (front) x-ls encore Monitor (sorrounds) x-cs encore (center) MFW-15 (subwoofer)</Content>
+	</Post>
+</Thread>

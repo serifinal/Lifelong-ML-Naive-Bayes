@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola Droid Slider issue- Gap between screen and keyboard</Title>
+		<Username>imthekingbk</Username>
+		<Datetime>03-01-2010 11:13 PM</Datetime>
+		<Content>My droid definitely had an issue with the slider mechanism. It became extremely loose and would open up in my pocket all the time. Also, there was a huge gap between the slider and the keyboard. I was wondering if anyone else has had this issue?</Content>
+	</Post>
+</Thread>

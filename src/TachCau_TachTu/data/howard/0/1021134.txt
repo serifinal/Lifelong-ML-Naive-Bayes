@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Possible pricing info on the T-Mobile Samsung Vibrant (without contract)</Title>
+		<Username>Xee</Username>
+		<Datetime>06-29-2010 10:01 PM</Datetime>
+		<Content>Credit goes to autoexecbat for this. Currently, if you go to Tmobile's Vibrant page you'll see this: Apparently though, they had the price up earlier: If legit, that seems like an amazing price for the phone.</Content>
+	</Post>
+</Thread>

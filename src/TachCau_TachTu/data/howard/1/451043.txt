@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>iPhone and $7 Unlimited Data Plan?</Title>
+		<Username>troyguy2</Username>
+		<Datetime>03-03-2010 08:09 AM</Datetime>
+		<Content>I couldn't find anything on Google or this forum... so i thought i should ask. I currently have an HTC Touch with a $7 unlimited data plan... I'm thinking of getting an iPhone on my current plan. What i don't understand is... will the $7 somehow work on the iPhone? I cant seem to wrap my head around how i can download/browse TONS on my HTC Touch, yet with an iPhone, i have to pay an incredible amount for unlimited. Any knowledge would be appreciated! Thank you.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best material for evaluating a Plasma?</Title>
+		<Username>scubadoo</Username>
+		<Datetime>13-01-2012, 4:48 PM</Datetime>
+		<Content>I'm demo-ing a Samsung PS51D8000 next week and was wondering what to take with me to watch on it? I'm planning to take my xbox 360 to test the lag but was wondering what DVDs/blu-rays to take. Cheers Dave</Content>
+	</Post>
+</Thread>

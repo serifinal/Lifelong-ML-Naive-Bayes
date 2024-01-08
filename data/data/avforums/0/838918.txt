@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Advanced Settings</Title>
+		<Username>Robbeh</Username>
+		<Datetime>07-01-2012, 6:02 PM</Datetime>
+		<Content>Could someone please explian all the advanced settings to me on the 46st30 please. I don't have a clue what settings should be on i.e IFC and all the other jazz that can be changed. Also I watch my blue rays via my ps3 so settings for that would be appreciated. Thanks.</Content>
+	</Post>
+</Thread>

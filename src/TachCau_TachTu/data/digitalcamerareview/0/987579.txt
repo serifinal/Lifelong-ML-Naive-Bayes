@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Difficulty getting good Depth-of-field pictures</Title>
+		<Username>Ken Kelley</Username>
+		<Datetime>08-24-2008, 01:49 PM</Datetime>
+		<Content>I am using a Canon early Rebel with a EF 17-40mm lens and am having trouble getting pictures with a good range of "in-focus" for subjects where lighting is good, but even with extreme manual settings, I cannot keep a subject from 6ft to 20 feet in focus throughout. Can anyone help me with recommending a lens, that has excellend Depth-of-field, or technique? My movie camera has a small lens that does a much better job of Depth-of-field than I can do with my Canon. Thanks.</Content>
+	</Post>
+</Thread>

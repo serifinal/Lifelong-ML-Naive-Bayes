@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon S2 or S3? Need some quick feedback</Title>
+		<Username>decay</Username>
+		<Datetime>07-09-2007, 08:13 PM</Datetime>
+		<Content>I read many reviews of two Canon models which I'm considering for purchase, the Canon PowerShot S2 IS and the Canon PowerShot S3 IS. This is my second digital camera, my first being a Kodak EasyShare from about 4 years ago. We're going on vacation in 2 weeks and I'd like to have a new camera to use. Using Consumer Reports (July 2007) and epinions, I've looked at numerous cameras, trying to get the best I can, and I've narrowed it down to these two models. Zoom has been a consistent failing of my trusty old Kodak, hence the reason I'd like a much heftier zoom. That's certainly not my only consideration, but it does matter. The S2 ranked #1 in CR, the S3 ranked #8. Right now, I'm tending towards the S2, based on everything I've read, including the reviews of each. Here's my question for you: Given that the S2 is harder to find but still available, and that the S3's price has dropped into the high $200s, would you choose the S2 over the S3, or would you take the S3, given the tiny improvements on it over the S2 (a bit less noise was one, I believe)? Thank you very much! I appreciate the knowledge that you all share and the depth of your reviews (a big nod toward Howard Creech, specifically ), hence my request to you to help me make the final choice on our new camera. Dana</Content>
+	</Post>
+</Thread>

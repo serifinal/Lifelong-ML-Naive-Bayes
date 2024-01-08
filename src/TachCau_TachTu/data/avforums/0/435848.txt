@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 60PZ570 Smart tv</Title>
+		<Username>kanecj</Username>
+		<Datetime>26-06-2011, 2:02 AM</Datetime>
+		<Content>when browsing on web -have been asked to upgrade flash player- Adobe site wants to know what software / operating system i am using - cant find the info on LG support - which version do i use -</Content>
+	</Post>
+</Thread>

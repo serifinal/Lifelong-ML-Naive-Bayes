@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>izzymandias</Username>
+		<Datetime>01-03-09, 09:05 PM</Datetime>
+		<Content>Hello Ok I would really appreciate anyone who can help me with this. I've recently changed which TV my Xbox 360 Elite is connected to, mainly because a room mate of mine moved out and took his TV, a Samsung 46" LCD, with him. I now have a Toshiba 40" LCD, but when I connect my Xbox with the HDMI cable I get no audio and instead of HD resolution options I get PC like options (640x480 etc.). Now I also have a Vizio 26" LCD, which use to work just fine with my Xbox using HDMI connection, but I tried it recently and have the same problem. At this point I thought something was physically wrong with the Xbox, so I decided to take it to my former room mate's new place and see if I got the same problem. Well I connected it and it worked fine. So I tried lowering the resolution before I brought it back home, but when I brought it back it still has the same problem. I have called Microsoft several times and got nowhere. I've tried the Y button & right trigger reset, I've tried changing HDMI cables, and which port it plugs into. Mind you I have no issues with my component cables, but I really would like to have it connected using HDMI. Is it possible this has something to do with the NXE update? Please, any help would be greatly appreciated. Thanks</Content>
+	</Post>
+</Thread>

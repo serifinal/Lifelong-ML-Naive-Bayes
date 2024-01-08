@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Need an opinion Samsung LN46A750 or PN50A650</Title>
+		<Username>siccmade</Username>
+		<Datetime>11-29-08, 02:42 AM</Datetime>
+		<Content>Ok well I have been out recently to replace my Samsung HP-S4253 which is a 42in plasma and i have looked at both the PN50A650 and LN46A750. Besides the obvious differences of 50in vs 48in and plasma vs lcd what else are the differences between these two displays? I am mostly looking to enjoy great football, dvds, and bluray! Any opinions would be great to hear!</Content>
+	</Post>
+</Thread>

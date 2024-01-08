@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need help with Canon Rebel XTI</Title>
+		<Username>rmlp34</Username>
+		<Datetime>10-26-2007, 04:35 PM</Datetime>
+		<Content>I would like to know if anyone could tell me what mode to use when taking nightime action shots. Mainly sports? I get great pic's in the day time but not at night. I can get great pic's at night if they are not action. Thanks so much.</Content>
+	</Post>
+</Thread>

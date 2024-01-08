@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Brand new iphone SEALED from rogers 16gb 3gs black</Title>
+		<Username>benny.chu</Username>
+		<Datetime>12-30-2009 07:23 AM</Datetime>
+		<Content>brand new never opened sealed from rogers $550 FIRM location markham no trades</Content>
+	</Post>
+</Thread>

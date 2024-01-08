@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 32PG6000 32" Plasma...Are They Bringing This to the States?</Title>
+		<Username>aerodynamics</Username>
+		<Datetime>08-15-08, 12:19 AM</Datetime>
+		<Content>http://uk.lge.com/products/model/det...32pg6000.jhtml This is not the same model LG released late last year, the 32PC5RV, which only had EDTV resolutions. This one is 1024 x 720 and likely is the model Vizio and Insignia based their 32" plasmas off of. Does anyone know if this is coming to the US? The frameless design is and looks like it uses a different video processor than the VP322 and NS-PDP32-09. It also has 4 HDMI inputs. Other than that, the specs look to be the same: Picture ? Resolution: 1024 x 720 ? Peak Brightness: 1,500cd/m2 ? Contrast Ratio: 30,000:1 ? Dual XD Engine ? 100Hz Picture Processor Sound ? Output: 10W + 10W ? SRS TruSurround XT ? 2 Way 4 Speakers ? Clear Voice ? Invisible Speakers Convenience ? Simplink ? Swivel Stand ? 100,000 panel life ? AV Mode (Game, Sport, Movie) ? CU:V Improved User Interface Connectivity ? 4 HDMI, 2 SCART (1Full) ? USB 2.0 (JPEG / MP3 Playback) ? Component(Y,Pb,Pr) + Audio ? RS-232C, AV In ? Digital Audio Out (Optical) ? S-Video ? PC Input ? Composite</Content>
+	</Post>
+</Thread>

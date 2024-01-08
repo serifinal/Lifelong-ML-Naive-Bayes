@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nexus One vs. Samsung Vibrant (Galaxy S)</Title>
+		<Username>20blks</Username>
+		<Datetime>08-07-2010 12:15 PM</Datetime>
+		<Content>I just pick up this phone yesterday (HD2 going to ebay/craigslist). I really like the phone. Other than running 2.1, lack of flash and trackball, I think it may be as good as the N1. The screen is absolutely beautiful.</Content>
+	</Post>
+</Thread>

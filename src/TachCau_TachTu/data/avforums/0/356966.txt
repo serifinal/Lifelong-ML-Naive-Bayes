@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Philips plasma repair advice thread</Title>
+		<Username>High_Pressure</Username>
+		<Datetime>25-09-2006, 12:12 PM</Datetime>
+		<Content>Hi, My 18 month old Philips plasma has decided to stop working. I have a 37FD9944/01S that has a seperate tuner box. When you turn on the display the LED goes green for a few seconds then switches to a continuosly rapid flashing red with no picture. I figured it must be the display as I connected my xbox 360 straight in and it still did the same thing. I contacted Philips who could not help without sending the unit away to be inspected (at my own cost). I then contacted the retailer, Discount Electronics UK, who couldn't have been more unhelpful. Does anyone have any ideas as to what could have happened or any links to some technical advice on Philips plasma (I've already checked Philips.com) Cheers, H_P.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Get your Vieras out for the lads.....</Title>
+		<Username>Jazz Monkey Jr</Username>
+		<Datetime>22-04-2005, 10:27 AM</Datetime>
+		<Content>Now we have a Pio thread, can we see some Viera setups...</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TH42PZ81 colour swap ?</Title>
+		<Username>next010</Username>
+		<Datetime>25-02-2009, 4:10 PM</Datetime>
+		<Content>I have acquired a Panasonic TH42PZ81 and am quite pleased with it but one small gremlin in the works is bugging me. The TV is plugged into a Sony RHT-G900 [all in one stand/sound system] which has a PS3 and Xbox 360 plugged into it & everything is connected via HDMI. Occasionally when I switch to HDMI1 which is the channel the stand is on & power on the PS3 or Xbox the colours of red and blue are swapped. Simply turning either console off then on again solves it but I was wondering if anyone has ever come across this and knows of a solution ?</Content>
+	</Post>
+</Thread>

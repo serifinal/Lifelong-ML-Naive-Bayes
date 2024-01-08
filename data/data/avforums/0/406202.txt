@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Green Tinge Fault - Now full Panasonic 2011 range *Part 3*</Title>
+		<Username>Scooby2000</Username>
+		<Datetime>22-01-2012, 1:23 PM</Datetime>
+		<Content>This thread is a continuation of part 2. Green Tinge Fault - Panasonic (VT30, GT30 and ST30) *Part 2* Last post from part 2.</Content>
+	</Post>
+</Thread>

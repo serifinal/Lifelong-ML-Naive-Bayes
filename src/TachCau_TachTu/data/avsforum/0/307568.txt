@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Arcsoft TMT - DD over SPDIF with mkv or m2ts</Title>
+		<Username>mkedda</Username>
+		<Datetime>09-04-08, 11:33 AM</Datetime>
+		<Content>All, Does anyone have dolby digital+ or dolby digital correctly sent via SPDIF to their receivers ? TMT always downgrades to 2 channell sterio for me and only passed 5.1 when I tried using a dvd rip with dolby digital ex on it. What am I missing ? What am I doing wrong ? I have SPDIF selected in the drop down and i have tried both enable mixer and disable mixer. Thanks</Content>
+	</Post>
+</Thread>

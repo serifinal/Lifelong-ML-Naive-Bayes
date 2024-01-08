@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic P50VT20B gaming issue</Title>
+		<Username>cmclean</Username>
+		<Datetime>17-02-2012, 11:23 AM</Datetime>
+		<Content>Hi, Has anyone got any comments on gaming lag when using Xbox 360 with this model of TV? Reason I ask is I've just got the 50" version P50VT20B of this TV and although all reviews I had read say there is almost no game lag I am experiencing terrible gaming lag so much so that its almost impossible to play games online such as COD. Before anyone asks about my broadband, etc, etc. I am benchmarking against my existing Panasonic TV (46PZ80BA) which I have had for years using that TV I have no problems whatsoever. Plug my new TV in and the gaming lag is giving me a headache. I've got the TV connected to the Internet and upgraded to the latest firmware, set the Xbox input to 'Game' in the video settings. What else can I try or has anyone else noticed the same? Thanks</Content>
+	</Post>
+</Thread>

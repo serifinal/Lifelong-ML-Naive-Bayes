@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Do I have a defective SD870 IS?</Title>
+		<Username>kage</Username>
+		<Datetime>04-27-2008, 07:51 PM</Datetime>
+		<Content>A few days ago I bought the SD870 IS and I think that I might have to exchange it due to it being defective. My SD870 IS might have a defective imaging processor chip. When I take pictures with it the most of the image is sharp, but the lower corners are very soft.</Content>
+	</Post>
+</Thread>

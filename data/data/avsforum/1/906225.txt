@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sony Bravia KDL-32L4000 || vs. || Samsung LN32A450</Title>
+		<Username>SimplyFresh</Username>
+		<Datetime>09-29-08, 03:38 PM</Datetime>
+		<Content>which is better? i really want to know!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon NB-4L Battery</Title>
+		<Username>SD780 IS</Username>
+		<Datetime>04-05-2009, 05:05 PM</Datetime>
+		<Content>Can someone kindly take a photo of the back side of your Canon NB-4L battery? Reason: I bought an extra battery from an ebay seller. It looks identical except for the back side of the battery. So now, I'm trying to differentiate the two.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Fascinate (Galaxy S) pre-release thread.</Title>
+		<Username>matrix2004</Username>
+		<Datetime>06-10-2010 10:17 PM</Datetime>
+		<Content>CDMA, Modified TouchWiz Lite. Should release after Droid Xtreme and Droid 2. Source: Androidguys.com live podcast.</Content>
+	</Post>
+</Thread>

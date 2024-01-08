@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>"Employee" type discounts with Sprint</Title>
+		<Username>nickg</Username>
+		<Datetime>05-27-2010 01:09 PM</Datetime>
+		<Content>we are currently with verizon but are considering a switch to Sprint. as most companies can give you a discount either through your work, AAA, bank affiliation, etc., i have a question. i don't think you can do those type of discount plans if you buy and setup through Best Buy. but my question is, once we are on the Sprint plan from Best Buy can you then go directly to Sprint to have them setup your discount plan for you?? i may be able to save 15-20% with a discount plan. the reason i want Best Buy to set it up is due to the cost (or cheaper costs) of phones/free phones currently available vs. what the Sprint store offers. my son wants to pre-order the EVO but will need a temp/free phone until it is available. any suggestions and replies are greatly appreciated. thanks!!</Content>
+	</Post>
+</Thread>

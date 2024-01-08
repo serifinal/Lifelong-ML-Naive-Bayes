@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bipole/dipole or direct radiating speakers for read and side surround speakers?</Title>
+		<Username>MG428</Username>
+		<Datetime>07-28-08, 04:02 PM</Datetime>
+		<Content>I know this depends entirely to room layout et cetera but... 1) In a 7.1 system, which one would you prefer, for; a) Side speakers, and b) Rear speakers? if you prefer dipole/bipole speakers (either for sides or rears or for both), then please indicate which option do you prefer for which? Such as dipoles for sides and bipoles for rear, or vice versa, or the same option for both. 2) As far as I know, one of the advantages of bipole/dipole speakers is that they can be a bit closer to you and to the back wall, right? Is this true for if you switch to bipole and dipole or only for one of them? PS. If you want, you may give an answer for both movie watching and music listening. Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Engadget Has the Nexus One!</Title>
+		<Username>SharpieFiend</Username>
+		<Datetime>01-03-2010 12:12 PM</Datetime>
+		<Content>I must say I'm underwhelmed... http://www.engadget.com/2010/01/02/e...rst-impressio/</Content>
+	</Post>
+</Thread>

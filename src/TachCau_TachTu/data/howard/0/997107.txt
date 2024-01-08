@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bitpim backup and restore to new phone?</Title>
+		<Username>YAMPOLITO</Username>
+		<Datetime>11-11-2009 11:00 AM</Datetime>
+		<Content>Is there a way of backing up my text, notes and so on and then restoring them to my new phone using bitpim?</Content>
+	</Post>
+</Thread>

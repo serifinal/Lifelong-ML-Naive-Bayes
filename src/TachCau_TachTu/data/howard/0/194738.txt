@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Screen Protectors: HTC Google Nexus One, Samsung T639, T939 Behold 2, i920 Omnia2</Title>
+		<Username>clarivue</Username>
+		<Datetime>01-22-2010 04:12 PM</Datetime>
+		<Content>2010-01-22 - Please click on the following links for the new screen protectors: - HTC Google Nexus One screen protectors - Samsung T659 screen protectors - Samsung T939 Behold 2 screen protectors - Samsung i920 Omnia 2 CDMA screen protectors - Pantech Impact screen protectors</Content>
+	</Post>
+</Thread>

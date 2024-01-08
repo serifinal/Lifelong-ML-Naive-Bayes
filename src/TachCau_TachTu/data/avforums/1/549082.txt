@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best non 3d plasma</Title>
+		<Username>Doctor Smith</Username>
+		<Datetime>14-12-2011, 7:29 PM</Datetime>
+		<Content>What is currently the best 50 inch non 3d plasma. looking to spend about £500-£600,</Content>
+	</Post>
+</Thread>

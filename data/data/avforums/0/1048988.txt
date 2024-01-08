@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>No Stereo output for LG 42 PJ350</Title>
+		<Username>aditya9128</Username>
+		<Datetime>03-05-2011, 7:50 AM</Datetime>
+		<Content>Hi, I have recently purchased LG 42PJ350. I have connected it to my computer for video VGA cable, for audio PC sound INPUT port of TV. Further I have connected my edifier 2.1 speakers to audio out port of TV. So the sound from my PC goes to the TV and then from TV it is routed to Edifier 2.1 speakers. It is observed that when Edifier 2.1 speakers connected directly to PC it works as stereo (tested from realtek HD manager), however when its connected to the TV audioout port of TV via RCA cables the sound comes out is only Mono and without punch. there is no option in TV set to change the sound from Mono to Stereo. Can anyone help?</Content>
+	</Post>
+</Thread>

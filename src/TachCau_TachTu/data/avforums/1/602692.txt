@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung ps43d450a2</Title>
+		<Username>AngryDog1981</Username>
+		<Datetime>01-01-2012, 12:20 PM</Datetime>
+		<Content>I'm considering getting one of these TVs. I note that the resolution is only 1024x768 though? I watch mainly sports and normal programmes. I sit around 3m away from the tv. I'm considering a 1080p 40" LCD tv as well that's the same price. I know little about TVs so any help would be appreciated! Thanks</Content>
+	</Post>
+</Thread>

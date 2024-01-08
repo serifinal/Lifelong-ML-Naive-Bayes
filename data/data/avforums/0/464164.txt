@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help!!! Just bought a TV but i dont have an aerial?! Read this if you want to laugh</Title>
+		<Username>billyboy2012</Username>
+		<Datetime>30-01-2012, 7:00 PM</Datetime>
+		<Content>Hi guys Ok- so i have just splashed out on a lovely Panny P50GT30 Not had a TV here before so i was very much looking forward to it! However- on trying to connect it to the aerial cables i had in the flat (which were here when i started renting a couple of months back.......) I have just noticed a little sign saying "virgin" on them.................. So i can only assume that the previous tennants had Virgin installed. I assume there is no way to adapt the output from the virgin cable to allow it to enter my TV? Also- i just so happen to have an old virgin media box lying around which i removed from my old house. Will plugging this in allow me to access the basic TV channels? Help! I wanna watch my new TV lol Im SUCH a muppet !!!!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Does memory class speed make much difference on a smartphone?</Title>
+		<Username>ellover009</Username>
+		<Datetime>09-30-2009 12:31 AM</Datetime>
+		<Content>I currently purchased an HTC Pro2. I am interested in adding some additional memory, possibly at least 8gb or 16gb. Problem I hit is, would the class speed really make much difference on this phone, I know there's class 2,4, and 6, 6 being the fastest, 2 being the slowest. Also is there any brand that's not too compatible with the HTC pro2? I know my old env touch did not like kingston modules. I am mostly trying to figure out if it's really worth paying extra for a class 6 vs a class 4 and I also notice the higher the memory the more rare it becomes for a class 6 modules, all I see is some odd name brands for the 16gb modules. Whats a good place to buy non-counterfeit memory well priced?</Content>
+	</Post>
+</Thread>

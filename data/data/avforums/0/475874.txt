@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung c680 3d plasma - 'game mode' calibrated settings please?</Title>
+		<Username>MrKennedy</Username>
+		<Datetime>06-06-2011, 4:08 PM</Datetime>
+		<Content>Hi peeps, I am struggling to find a decent picture quality when using the ps3 in 'game mode'... I have to use it in this mode to play online else its awful! Does anyone have any decent or calibrated settings for use in game mode/standard. I am concerned about hdmi level (normal or low), cell light and brightness/contrast, sharpness, white balance and temp. Many thanks for any help</Content>
+	</Post>
+</Thread>

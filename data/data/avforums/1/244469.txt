@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>recommend a 42" for my parents</Title>
+		<Username>RobTi</Username>
+		<Datetime>31-05-2011, 5:51 AM</Datetime>
+		<Content>Hi looking for some help with the above, i am looking for a 42" (would go down to 37" or up to 46" if there was a deal) plasma for my elderly parents in the next few weeks, would like freesat if possible to get them away from sky as they only watch basic channels and the free movies. Also interest free would help Thanks</Content>
+	</Post>
+</Thread>

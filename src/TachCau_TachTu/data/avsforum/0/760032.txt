@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Arcsoft TMT -- No Downsampling and Bitstreaming!</Title>
+		<Username>Lawguy</Username>
+		<Datetime>07-23-08, 06:03 AM</Datetime>
+		<Content>I submitted the following question to Arcsoft: Quote: I recently upgraded my video card to an ATI 4850, which supports the transmission of lossless PCM audio. Will TMT be able to either bitstream HD audio formats like DTS-HD and Dolby TrueHD or output them as lossless PCM? I understand that TMT currently downsamples all audio to 44Khz/16 bit. Is this true? Today, I received the following reply: Quote: We are sorry for the delay in replying you. Regarding your question, we will provide a user-selectable option "Enable Audio Mixer" in the next release (in setup -> audio), to control this feature. TMT will be able to bitstream HD audio formats like DTS-HD and Dolby TrueHD if you uncheck the "Enable Audio Mixer" option. Currently TMT downsamples HD audio stream to 48Khz - 96Khz if you check the "Enable down sample rate (192KHZ)" option (in setup -> audio), AND the audio card doesn't support the HD audio stream. We hope this helps answer your question. Thank you. Regards, ArcSoft Support I read this to mean that TMT does NOT currently downsample unless you request it and/or your card does not support it. Also, the fact that bitstreaming HD audio formats will be supported in the next release is, in my opinion, excellent news and the fact that it will be supported on my ATI 4850 is even better. Thank you to Arcsoft!</Content>
+	</Post>
+</Thread>

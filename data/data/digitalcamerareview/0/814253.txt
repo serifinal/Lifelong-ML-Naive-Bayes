@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>EOS 1000D - Zeikos flash not firing</Title>
+		<Username>bill_duval</Username>
+		<Datetime>04-16-2011, 05:23 PM</Datetime>
+		<Content>Hi - I've recently bought a 1000D (Rebel XS) and a Zeikos 680EX ETTL flash. The flash worked great the first time I put it on the camera. Now, it doesn't fire. The flash Ready light never comes on, the built-in works if I take the Zeikos off. Menu settings have external enabled and TTL mode set. I'm new to digital, but am an experienced 35mm guy. Please help. Thanks.</Content>
+	</Post>
+</Thread>

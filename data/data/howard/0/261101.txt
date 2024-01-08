@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile To Go adds Nokia 2720 to lineup</Title>
+		<Username>The_Sweeper</Username>
+		<Datetime>10-03-2009 06:16 PM</Datetime>
+		<Content>T-Mobile To Go adds Nokia 2720 to lineup I was at Target in Concord, NH and saw a new offering for T-Mobile To Go. The Nokia 2720 flip phone. Price is $40. Here are the specs? http://www.gsmarena.com/nokia_2720_fold-2801.php</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Connecting a Router to the Bell Turbo Hub</Title>
+		<Username>Sparro</Username>
+		<Datetime>08-30-2010 12:20 AM</Datetime>
+		<Content>Does anyone know the proper way to do this? I connected a cable from one of the four ports on the W35 Hub to the WAN port of my router. Then i connected that router to a computer. The routers setup page shows the Turbo Hub is connected but I can't get internet access? Any help would be great.</Content>
+	</Post>
+</Thread>

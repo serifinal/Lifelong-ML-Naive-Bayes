@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HTC Desire/Google Nexus One and the Even More Plus 500 Talk + Text + Web Plan</Title>
+		<Username>coolboy</Username>
+		<Datetime>06-15-2010 12:04 PM</Datetime>
+		<Content>Hi HowardForums. I've been looking for a good phone to upgrade to for awhile now, with a cheap voice+text+data plan. I've decided to buy a HTC Desire or Google Nexus One to go with this plan. http://www.t-mobile.com/shop/plans/c...-Talk-Text-Web I have a few questions. 1) Can I simply buy the unlocked phone and get this plan from the website or store? Or is it more complicated? (More fees and such) 2) Can I get this plan for cheaper?(With discounts, etc) 3) HTC Desire or Google Nexus One? Thanks.</Content>
+	</Post>
+</Thread>

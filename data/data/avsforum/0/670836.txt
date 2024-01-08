@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>7 DIY speaker build thread</Title>
+		<Username>crackyflipside</Username>
+		<Datetime>11-08-08, 10:26 PM</Datetime>
+		<Content>L/C/R : D.A. Khanspire - An RS150/225 WMTMW http://htguide.com/forum/showthread.php4?t=26309 I was originally going to with the WWMT design that has been built plenty of times already, but the reason I chose the khanspires were most importantly the placement of the tweeter since the screen is AT, placement plays a big issue since the speaker will now be elevated a few feet, I wouldn't want the tweeter to be 3 feet above ear level. I was also thinking about building identical MTM's and then just adding bass bins and bi-amp the speakers. Then K and CJD started work on the WMTMW and decided it was the right speaker for my situation. I already bought all the stuff to start on the Khanspires and just wait for it all to show up so I can start building. Surround Speakers: The RS22528A - An RS225 based MT http://www.audioheuristics.org/proje...ence_rs225.htm I was going to go with the Modula MT design but decided to go with these since they have a bit more output capability and power handling.</Content>
+	</Post>
+</Thread>

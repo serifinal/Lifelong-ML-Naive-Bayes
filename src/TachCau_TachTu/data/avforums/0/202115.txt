@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panny TH-42PZ80: default to HDMI on switch on ?</Title>
+		<Username>warberry</Username>
+		<Datetime>02-06-2008, 9:47 AM</Datetime>
+		<Content>Hi, I know that on this and similar Panny plasmas, you have a menu option to default to internal "TV" tuner or "AV" inputs when switching on, but there seems to be no option to default to any of the HDMI inputs. No idea why there is this discrimination between analogue and digital external sources. As I'm running a Panny HDD/DVD over HDMI as my main source, this is extremely annoying. I can cope with it - a single press of the "AV" button on the remote will bring up the right HDMI input - but that one extra button press may be too much for my kids to remember and may incur the wrath of the technophobic wife. I'm also daisychaining a Sky box through it, so it's not as relying on the viera link to autoswitch as soon as I hit "play" on the HDD/DVD recorder is going to be enough. Anyone able to help ? Is it just not possible to default to a specific HDMI input, or even switch off the internal tuner so the TV ignores it as an input ?</Content>
+	</Post>
+</Thread>

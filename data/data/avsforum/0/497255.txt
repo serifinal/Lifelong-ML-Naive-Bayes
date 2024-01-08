@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My dream receiver, when will they make it?</Title>
+		<Username>Nugget</Username>
+		<Datetime>10-14-08, 10:51 AM</Datetime>
+		<Content>We can dream, right? When I'm elected King, we'll be able to buy one of these: My modest home home theater has five HDMI sources and just a single "legacy" component video source. I can't remember the last time I had a svideo connector in use, much less a composite video source. Who on earth needs a receiver with eight svideo/analog inputs? It's time for receiver manufacturers to join us here in the 21st century and stop being stingy with HDMI inputs!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Blurry photos Canon SX130</Title>
+		<Username>foz786</Username>
+		<Datetime>11-24-2011, 11:40 PM</Datetime>
+		<Content>I just came back from a trip and my photos turned out awesome. Two days later I used my Canon and all the photos turned out blurry. I put the settings back to default and the photos when I use zoom are still blurry. I have recharged my batteries and changed the memory card. Any other suggestions?</Content>
+	</Post>
+</Thread>

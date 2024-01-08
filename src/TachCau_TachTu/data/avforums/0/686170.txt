@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>1 plumber, lots of blood sweat and tears, and a few hundred quid later...</Title>
+		<Username>bix</Username>
+		<Datetime>08-11-2005, 7:51 PM</Datetime>
+		<Content>I don't post on here very often but I do read a lot, so I thought I'd contribute to the forum with a guide to how I installed my Pioneer 436XDE with 5 B&W FPM speakers. I have never done anything like this before, not really the DIY sort, but I thought I'd give it a go, so I took photos to show you where I went wrong! Hope you find it helpful!! http://bix.cc/tvinstall (takes a while to load, lots of pictures) EDIT: The page has now been moved and now includes some finished pictures, enjoy! Bix</Content>
+	</Post>
+</Thread>

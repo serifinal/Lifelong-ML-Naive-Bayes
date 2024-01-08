@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>JBLsound4645</Username>
+		<Datetime>09-13-08, 05:55 PM</Datetime>
+		<Content>Out on November 24th 2008 is the based on the smash hit stage show, comes a larger than life musical epic.</Content>
+	</Post>
+</Thread>

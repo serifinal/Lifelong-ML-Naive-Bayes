@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official SONY 46XBR6 Calibration Settings Thread</Title>
+		<Username>Shash703</Username>
+		<Datetime>09-16-08, 08:28 AM</Datetime>
+		<Content>Hello All, Havent seen a thread for Calibration of this new model. Please post your settings and method you used to obtain those. Thanks</Content>
+	</Post>
+</Thread>

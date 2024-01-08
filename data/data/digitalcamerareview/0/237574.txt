@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How do you take high quality pictures without flash?</Title>
+		<Username>ELSB</Username>
+		<Datetime>11-27-2010, 12:33 AM</Datetime>
+		<Content>I have a Canon camcorder (iVIS HF R10). I have no problem taking videos with it but I am really disappointed at how the pictures come out using this camera. Especially when the room is dark. The camera has no flash. I of course change the mode so that it takes brighter pictures in the dark but the photo looks bad. Please help!</Content>
+	</Post>
+</Thread>

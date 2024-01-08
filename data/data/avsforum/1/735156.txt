@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is there any way to have more space on my DVR?</Title>
+		<Username>Malice187</Username>
+		<Datetime>11-19-08, 01:18 AM</Datetime>
+		<Content>I have Comcast Digital Cable and their HD package as well as their HD DVR. The problem is, recording all these HD programs fills the DVR's space up quick. Is there any way I can, like, put a bigger hard drive in it or something? Or can I buy a non-Comcast DVR such as a TiVo and use it with their DVR service? I need answers, man. This extremely limited space is killing me!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does your TV show 1080P on BBC HD?</Title>
+		<Username>Dick Emery</Username>
+		<Datetime>23-05-2011, 5:43 PM</Datetime>
+		<Content>See here. BBC shifts some HD transmissions to 1080p... â?¢ reghardware My Panny G20 does not show anything in the top left hand corner when I switch to BBC HD so I assume it's 1080P. Other HD channels show 1080i @ 50Hz when I switch.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official HTC DROID ERIS Release Thread - Keep all phone discussion here</Title>
+		<Username>FAUguy</Username>
+		<Datetime>11-05-2009 10:52 PM</Datetime>
+		<Content>Use this thread to talk about the HTC DROID ERIS. Keep all major discussion about the phone here. Link for Verizon purchase: http://www.verizonwireless.com/b2c/s...edPhoneId=5070 http://images.verizonwireless.com/mu...tc_droid_eris/ Before asking a question, please look in the Pre-Release thread, as it may have already been answered. http://www.howardforums.com/showthread.php?t=1554184 HTC DROID ERIS FAQ & Tips-and-Tricks http://www.howardforums.com/editpost...ost&p=13193230 HTC DROID ERIS: Picture-of-the-Day and Camera Reviews http://www.howardforums.com/showthread.php?t=1586944</Content>
+	</Post>
+</Thread>

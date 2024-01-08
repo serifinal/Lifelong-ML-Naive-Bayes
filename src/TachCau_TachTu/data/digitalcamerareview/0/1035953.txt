@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>7D is on third place now!</Title>
+		<Username>gubak33</Username>
+		<Datetime>01-03-2010, 08:18 AM</Datetime>
+		<Content>Upgraded from 30D. Very happy with new autofocus speed, accuracy, and tracking ability. Excited about new features: remote flash control, 100% view, HD video, and high ISO image quality. I had been looking for a used 1D MarkIII when the 7D was announced and jumped on it saving me a lot of money. It has what I need for sports shooting and a lot more for a reasonable price. I'm getting a lot more in-focus keepers with more cropping overhead, plus about a 2 stop high ISO advantage from the 30D. I think third place on the "Best DSLR of 2009" is not bad result Very pleased so far!</Content>
+	</Post>
+</Thread>

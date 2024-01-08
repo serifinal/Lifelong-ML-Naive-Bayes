@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which 50" plasma for less than £1000 please?</Title>
+		<Username>broona</Username>
+		<Datetime>29-01-2011, 3:56 PM</Datetime>
+		<Content>Typed in my thread title and the first suggested link was my own thread from 3 years ago, lol - Which 50" plasma for less than £1000? Thinking about upgrading my Samsung PS50Q97HDX to a newer model, my current TV still gives a great picture, but I fancy 1080P, a slimmer frame, and basically just something a little newer. Not too fussed about 3D, but if it's got it, I can live with that. Same for internet connectivity, I've got my HTPC, so I don't need it built into the TV. I'm after the best PQ I can get for the price, and in no hurry to buy, so if I'd be best off waiting for the next generation, I'll ask the same question again when they're released.</Content>
+	</Post>
+</Thread>

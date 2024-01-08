@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>What's the best way to hook up STB to HTPC</Title>
+		<Username>Tom_N</Username>
+		<Datetime>09-10-08, 09:17 AM</Datetime>
+		<Content>Hello everyone, I?m in the process of designing a new HTPC and I?m trying to determine the best way to hook up my STB, which is a Scientific Atlanta 8300. My first thought is to run the HDMI directly into my HTPC. However I see a couple of drawbacks with this option: * I wouldn?t be able to record 2 channels at once * I would need to add some type of IR blaster to change channels if I want to use the HTPC as a PVR. * If I wanted to watch TV without going through the HTPC I would need to run component cables to my TV The other option I can think of it is to connect my STB via its SATA output to my HTPC. However, if I go this route I would I would still be using my cable companies interface to handle all PVR functions. Am I missing something? How does everyone else connect their STB? My STB also has a firewire connection but the owners manually indicates that it might be disabled. Thanks Tom</Content>
+	</Post>
+</Thread>

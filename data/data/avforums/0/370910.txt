@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anyone know anything about the Panasonic TX-P50GW30?</Title>
+		<Username>Giggity</Username>
+		<Datetime>30-01-2012, 5:44 PM</Datetime>
+		<Content>Hi, I live in Germany and after weeks of umming and rrring about which TV to get I had decided on the TX-P50G30B. But, I couldn't find it on the Panasonic.de site or in many other places for that matter. They do however have the TX-P50GW30 which seems quite similar. Anyone know if this is similar/better/worse? Many thanks</Content>
+	</Post>
+</Thread>

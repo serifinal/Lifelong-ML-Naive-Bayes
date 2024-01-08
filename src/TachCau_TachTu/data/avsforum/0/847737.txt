@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cablevision STB turns itself off at night</Title>
+		<Username>starryskies@opto</Username>
+		<Datetime>12-08-08, 01:34 AM</Datetime>
+		<Content>Every few nights, after midnight, my Scientific Atlanta 4250HD does a firmware upgrade, then powers down. Of course, this renders the IR Blaster inputs from my two ReplayTV 5040s useless, and they record black screens for a couple of hours. The word "Bypass" appears on the LED display of the SA4250. The volume also goes to half volume. Very irritating. I called Customer Support at Cablevision, and they didn't have any fixes in mind. They will forward the problem to engineering. I told them I'd go back to DirectTV if they couldn't fix this problem. I recently took back the two DVRs they gave me. They would go into Standby every night to save hard disk space. Anyone have any ideas? Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic Txp42G30 mkv/mp4 playback video lag</Title>
+		<Username>zazathedog</Username>
+		<Datetime>11-08-2011, 10:33 AM</Datetime>
+		<Content>Hi everyone, just got my brand new G30 2 weeks ago and starting to watch some full hd rips from external Hard drive on usb input. Problem is, on some 1080p/i movies I get lags during playback; sometimes only video, sometimes video and audio. So I am wondering if the TV can actually manage to decode such heavy movies (more than 8000Kpbs for video bandwidth). Or will there be an update maybe doing with the firmware which will correct this? I am currently thinking of buying a multimedia HD for fixing this. Thanks for the help!</Content>
+	</Post>
+</Thread>

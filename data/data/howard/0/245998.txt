@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>new micro card</Title>
+		<Username>januwan</Username>
+		<Datetime>03-07-2010 03:42 PM</Datetime>
+		<Content>The micro card from my son's phone LG VX6100 was stolen and I had to buy new one. Using adapter I transferred songs on the new card (2G). I inserted the card in to the phone but I cannot play music. If I go to "My music" the old titles and albums are there but cannot be played. If I check the memory card the new card is recognized (it shows it is 2 G card with 1.3 G free pace, the old one was 1 G). What I am I doing wrong.</Content>
+	</Post>
+</Thread>

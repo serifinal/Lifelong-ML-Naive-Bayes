@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Debating on what Samsung model to get....850 vs 750</Title>
+		<Username>dood56</Username>
+		<Datetime>08-31-08, 11:55 AM</Datetime>
+		<Content>I figured I would come to the experts and ask this question. I am looking to upgrade my television to either a Samsung LN52A750 or LN52A850. Looking at the spec sheet on them, the only thing that truly sticks out is the width difference. The price difference is about $500 more for the 850 so I wanted to know if there was anything out there that would make it worth that. The 750 looked awesome when I saw it in the store. Help on this would be greatly appreciated!</Content>
+	</Post>
+</Thread>

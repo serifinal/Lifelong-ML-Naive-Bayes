@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Excessive Battery Use (S1)</Title>
+		<Username>MykolW</Username>
+		<Datetime>12-04-2005, 10:24 AM</Datetime>
+		<Content>I have had a Canon S1 since May of 2005. It worked pretty well until a trip to the Toronto Zoo in the summer. It chewed through 5 sets of batteries that day. I had brought 4 sets with me thinking it was overkill, but I'd be safe. I had to run to the shop there to buy more. Now, I know I was doing a lot of zooming, but I only took 200-250 pictures. I'm going to wait til after Christmas to bring it in for repair. What I would love to do is to upgrade it to the S2. The S2 came out just after I bought the S1 and I would have picked up the S2 if it had have been out. Has anyone heard of an upgrade program? Also, I'm wondering what happens if they can't fix the battery problem? By the looks of it they aren't making the S1 any more. Does anyone have any experience with Canon's repair service?</Content>
+	</Post>
+</Thread>

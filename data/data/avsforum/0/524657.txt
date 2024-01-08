@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help w/ Samsung PN50a550 vs PN50a650</Title>
+		<Username>Martin2579</Username>
+		<Datetime>09-24-08, 03:03 PM</Datetime>
+		<Content>Hello everyone, I hope I am not going to get killed for posting this but I have to try. I am currently the owner of a Samsung PN50A550 and I like the tv alot but I have alot of glare in my home as its in my somewhat bright living room. I have the opportunity to get the Sammy PN50A650. I need help deciding which unit is better. I have read conflicting reports about both televisions being better. It is my understanding that the 650 has a better Anti glare coating and a diff DNIe engine. But also I read that the 650 is not 3d ready which is confusing to me. Why would they update a tv and take away 3d. I honestly dont know what that even does. Maybe someone can help clarify this for me. Does the 650 have something new that will replace the 3d aspect. Thanks so much, Martin</Content>
+	</Post>
+</Thread>

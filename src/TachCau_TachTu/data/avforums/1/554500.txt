@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Screen burn experiment</Title>
+		<Username>TimmyBee86</Username>
+		<Datetime>22-11-2011, 10:51 AM</Datetime>
+		<Content>Hi, I am in the market for a new TV. That means I will have an old TV lying around. I might have a buyer for it, but if I don?t, I was thinking of setting up an experiment, trying to measure screen burn. I was thinking if I set up the TV just showing a slide with giant white text on a black background. I would leave it on this screen for, say, 8 hrs. Then turn it off. See if the text is visible (which it will be thanks to IR). Then put on a film or something and see if the text is visible. Check every 5 mins or so to see how long it takes to go away. Maybe I'll set up a webcam When its all gone, I will set up the slide again, but this time do it for 16hrs. Rinse and repeat, adding 8hrs to the viewing time each time. So question 1 - has anyone done this before? Question 2 - anyone care to guess what my electricity bill would be?! Question 3 - any thoughts on how to best control and measure this? Should I use the same slide each time, or change it? etc I think this experiment would be better off with a modern mid-range TV instead of my old, used, Samsung. But hey - im not a millionaire!</Content>
+	</Post>
+</Thread>

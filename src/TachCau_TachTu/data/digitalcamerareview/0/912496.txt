@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Interesting display phenomenon</Title>
+		<Username>cogit8r</Username>
+		<Datetime>10-18-2009, 02:06 PM</Datetime>
+		<Content>Wearing a good pair of polarized sunglasses while playing around with our new SX200IS at the local dog park, I thought I had a problem with the display. Viewed in the "landscape" orientation, the display was great. Viewed in the "portrait" orientation, my display went dark. Once I took off the polarizing glasses, everything was fine. Obviously. the problem was the glasses...I wonder if the display is polarized itself? Dave</Content>
+	</Post>
+</Thread>

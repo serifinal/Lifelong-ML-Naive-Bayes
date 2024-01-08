@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Should I get a 50mm f/1.4?</Title>
+		<Username>Sam</Username>
+		<Datetime>01-25-2009, 01:52 AM</Datetime>
+		<Content>Hi guys, A few weeks back I posted about possibly replacing my 17-85mm Canon lens, but I've decided to keep it after all. I've really been looking closely at the Canon 50mm f/1.4 lens, which seems to have very positive reviews. Anyone have first-hand experiences or comments about this lens? It is about $399 where I get it here in Vancouver, Canada!</Content>
+	</Post>
+</Thread>

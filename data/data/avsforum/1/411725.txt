@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Asus Xonar HDAV1.3 vs Xona D2</Title>
+		<Username>mkloharry</Username>
+		<Datetime>06-07-08, 06:06 AM</Datetime>
+		<Content>I just picked up a Xonar D2 on line for under $150. For HD-DVD & BluRay playback I use TMT & Nero. My receiver HK520 no HDMI, so I use analog inputs. I feed my Sony 42E200 from a MSI 8600GTS by HDMI. Arcsoft will be supporting DTS Master Audio HD in the next release. Will I really gain anything by returning the Xonar D2 and waiting for the Asus Xonar HDAV1.3? I understand that it will be $200 + additional daughter card with RCA outputs. The Xonar has been working flawlessly. I have no plans to purchase a new receiver in the near future. I tried standalone BluRay players Sony, Samsung, and a Panasonic, returned them all due to the fact I get much better playback with my HTPC with no issues thanks to AnyDVDHd. I been able to play ever disc except Jumper, it will play without AnyDVDHD running, update coming soon. When using TMT and Nero with analogs outs with the Xonar D2, it really sound spectacular. Any opinions or suggestion would be very helpful.</Content>
+	</Post>
+</Thread>

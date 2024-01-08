@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sony TM506 Settings for WIND</Title>
+		<Username>otisndrexl</Username>
+		<Datetime>04-12-2010 06:20 PM</Datetime>
+		<Content>Hi : I recently joined WINDMOBILE and bought a Sony TM506 and was wondering if anyone else purchased this phone? If so, I have the following questions: (1) Debranding: need to debrand phone (get rid of T-Mobile crap) and was wondering if anyone has done this successfully already? Does anyone have a surefire "how to" on how to do this? (2) Picture message + web settings: does anyone know what the proper settings are for the phone to send/receive picture messages? Although I can get text messages, I cannot send or receive picture messages. When I look @ the settings on my phone, there's just no way to figure out what to set it to. Has anyone been able to set theirs up? I'd really appreciate it if you can help! Thanks! : otisndrexl :</Content>
+	</Post>
+</Thread>

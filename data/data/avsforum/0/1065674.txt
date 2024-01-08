@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Calling all XA2 experts, please help me figure out what kind of HD DVD player I have</Title>
+		<Username>johnniemac</Username>
+		<Datetime>07-14-08, 07:51 PM</Datetime>
+		<Content>I purchased a refurbished XA2 from bidtopia (read: Bargainland) in 3/08. It has played flawlessly since I got it. I was going to update it to Version 2.7 and that is when I noticed that mine is Version 2.0 (see screenshot). The thing is I didn't know there was a Version 2.0 for the XA2. I burned the 2.7 disk myself but the machine wouldn't update. I thought I burned a coaster so I tried to update to 2.8 with a factory Toshiba disc. It would get to step 2/5 then flash an error code and eject the disk. I called Toshiba and they sent me another 2.8 update disc thinking the first one was bad. Same problem as before. Then, Toshiba refused to exchange the XA2 for another refurb because bidtopia is not an approved seller/reseller. At a loss, I compared the setup menu between my bidtopia XA2 and my uBid XA2 that I had and noticed they were different. The outside, back, remote, box etc. are identical to my uBid XA2 but the setup menus are different. What gives? I then tried to update the bidtopia XA2 via the internet thinking that no matter what kind of HD DVD player I really had, it would update properly. No luck. It would get through all of the initial downloads and then flash the same error code on step 2 of 5. One question I have is do the setup menus change based on the version the player is on? I'm hoping someone on here has had a similar experience or can figure out what is going on. Thanks in advance for any insight.</Content>
+	</Post>
+</Thread>

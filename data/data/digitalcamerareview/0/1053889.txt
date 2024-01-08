@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Good rating for Canon SD950</Title>
+		<Username>karl5</Username>
+		<Datetime>05-19-2008, 03:31 AM</Datetime>
+		<Content>Love it! Along with my compact zooms and a DSLR, I've owned a Casio EX-Z750 and EX-Z1050. I loved the 750, but the 1050 was a big disappointment in the image department. I find that detail is fuzzy and the exposures can be inconsistent. It's still a good snapshop camera, so I gave it to a friend in need. After being a lot more careful in comparing and looking at actual images posted around the web I chose the SD950 . Here are some video reviews: http://www.infoborder.com/Digital_Ca...hotSD950IS.php Boy, am I happy with this camera! Everything I've taken so far has been great - from inside flash shots to outside panoramas and macro shots. What a terrific all-around compact camera. It won't replace my other cameras, but makes a great camera I can take anywhere and depend on getting really good images. I can't say enough good things about it. Problems: I wish the battery could be charged without taking it out of the camera - Casio's docking cameras were really great.</Content>
+	</Post>
+</Thread>

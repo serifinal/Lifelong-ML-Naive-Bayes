@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Android Noob Q: Does the $5 T-zone give me 3G connection on the Tmo Samsung Vibrant?</Title>
+		<Username>hommer</Username>
+		<Datetime>07-16-2010 02:35 PM</Datetime>
+		<Content>Sorry to post it here but I could not find a definite answer. Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30 3D</Title>
+		<Username>Rich De</Username>
+		<Datetime>08-02-2012, 2:36 AM</Datetime>
+		<Content>Need some help have panny 65vt30 and a ps3. Have the ps3 connected directly to the tv via hdmi 1.4. It detects the tv and 3d via the display settings on the ps3 yet no 3d when I play uncharted. I've only had the tv for bout 8hrs now and was wondering if I can get some help feedback</Content>
+	</Post>
+</Thread>

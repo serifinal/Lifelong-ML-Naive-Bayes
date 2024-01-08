@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma Fault</Title>
+		<Username>Earl Greaves</Username>
+		<Datetime>15-01-2011, 12:54 AM</Datetime>
+		<Content>My Panasonic TH-37PX60B has served me fine until tonight. There was a popping noise and now only the left half of the screen is working. Then there's a thin, incomplete vertical green line, the third quarter solid black, right hand quarter solid white. Is this a major fault ? Not worth replacing ? It was purchased from ASK in London in December 2006 and I didn't take out any extended warranty. Any advice would be much appreciated.</Content>
+	</Post>
+</Thread>

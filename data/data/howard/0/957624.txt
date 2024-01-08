@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Damn you 3g in the philly Area</Title>
+		<Username>Andru1313</Username>
+		<Datetime>12-09-2009 09:45 AM</Datetime>
+		<Content>Ok... Here is my issue. been going on for about 2 weeks. I get no 3g in the zip code 19038. Only edge. I am now not getting 3g in center city Philadelphia. So now I can't get 3g at home or AT work. This blows. I called att a bunch of times. Finally there is a tower in my area that is "degraded" That is the word they used. Now I guess I will have to spend the rest of the day calling to get a ticket opened for the philly area. Anyone else having 3g issues?</Content>
+	</Post>
+</Thread>

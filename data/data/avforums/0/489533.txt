@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Jvc pd42b50bj standby blue light flashing</Title>
+		<Username>karl12345</Username>
+		<Datetime>30-07-2011, 3:15 PM</Datetime>
+		<Content>Please Help, I'm new here and after some advice/assistance and would be grateful if anyone can assist. I have a JVC PLASMA PD42B50BJ that's decided suddenly not to work. On switching the power on there is no sound or display and only the blue standby light on the front flashes. I'd like to know if a new power board or any other replacement part is required and if so where I can purchase. I have tried disconnecting the power for 24hrs and then attempted to switch it back on and have the same problem. I have also taken the back panel off as I was asked who the manufacturer of the boards inside were and there are a number of boards with Samsung printed on them. Thank you for any advice.</Content>
+	</Post>
+</Thread>

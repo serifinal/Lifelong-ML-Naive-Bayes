@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon A570 is accessories/lens question</Title>
+		<Username>integra_guy</Username>
+		<Datetime>03-02-2008, 08:09 PM</Datetime>
+		<Content>Hey guys, I'm thinking of buying some accessories for the a570 is, but I just wanted to make sure I'm buying the right products. one is a Sakar 52mm Lens Barrel Adapter For Canon PowerShot A570, A590 http://www.buydig.com/shop/product.a...2&tab=descript and I'm using it for the Crystal Optics 52mm Circular Polarizer Filter http://www.buydig.com/shop/product.aspx?sku=CROCPL52 Is that all I need in order to use the, Circular Polarizer Filter? Thanks guys.</Content>
+	</Post>
+</Thread>

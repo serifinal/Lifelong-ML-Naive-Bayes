@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sd1100is?</Title>
+		<Username>fldrice</Username>
+		<Datetime>01-19-2008, 08:57 PM</Datetime>
+		<Content>Anyone know anything about it? I came across it @ target.com. http://www.target.com/Canon-SD1100-B.../dp/B0011ZK6PC</Content>
+	</Post>
+</Thread>

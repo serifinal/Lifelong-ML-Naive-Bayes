@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>For Sale: Xperia X10 WHITE UNLOCKED! NAM 3G Fido, Rogers, Bell, Telus Compatible!</Title>
+		<Username>@Class</Username>
+		<Datetime>05-10-2010 09:44 AM</Datetime>
+		<Content>Hi, For sale is a LBNIB Sony Ericsson Xperia X10. The colour is luster white. All accessories are unopened. The phone it self still has its original screen protecting sticker and its perfect condition. Used for few hours only. Meetup in the GTA. $480 CAD</Content>
+	</Post>
+</Thread>

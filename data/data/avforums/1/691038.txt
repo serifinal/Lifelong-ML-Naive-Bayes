@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sorry another best 50 inch plasma thread</Title>
+		<Username>MavAV</Username>
+		<Datetime>08-12-2011, 8:28 PM</Datetime>
+		<Content>Hi, sorry I know it's another "what is the best 50 inch plasma thread" but due to an accident with my aged NEC plasma I am now on the look out for a new plasma. Unfortunately although I would like the Panasonic TH-65VX300, my wall would not be able to accommodate it, so I am looking for another 50 inch plasma. Viewing will be a mixture of blu-ray and DVD, web browsing and a little bit of gaming via my HTPC, and using my Crystalio 3800 for the VP. Not bothered about inbuilt tuner, inbuilt web browser, and only vaguely interested in 3D, but what I do want is the best picture on a 50 inch plasma. Not particularly bothered by the price but would probably not spend more than £3k on a 50 incher. The Panasonic TH-50PF30 would seem to be an obvious candidate but as always once you start searching the forums you start picking up the negative comments. I know that I have just mentioned two Panasonic's but I am happy to consider other makes, also I would be happy to wait for the new year if any new models are coming out, any suggestions anyone?</Content>
+	</Post>
+</Thread>

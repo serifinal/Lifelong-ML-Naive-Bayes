@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problems with OviSuite + Microsoft Outlook 2010 Sync</Title>
+		<Username>corrado85</Username>
+		<Datetime>02-17-2010 03:59 PM</Datetime>
+		<Content>If anyone is using the new Ovi Suite by Nokia, and use Microsoft Outlook for calendar and tasks, I am getting an error that I cannot sync my calendar and tasks. what is the remedy to this problem? I use Microsoft Outlook 2010 beta.</Content>
+	</Post>
+</Thread>

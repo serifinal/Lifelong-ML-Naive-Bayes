@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which center speaker to go with AAD 7001?</Title>
+		<Username>nippon</Username>
+		<Datetime>08-13-08, 04:35 AM</Datetime>
+		<Content>Hello everybody, I am the lucky owner of the AAD 7001 who are very excellent monitor speaker. I am thinking of adding a center speaker for HT. But I want to something really nice to suit with the quality of the 7001. The all 3 front speaker will be bi-amp by a LX-90 I am looking at PIEGA TC-40 X and ELAC 601 My front are 8Ohms,I hope there is no problem in using a 4OHm for the center</Content>
+	</Post>
+</Thread>

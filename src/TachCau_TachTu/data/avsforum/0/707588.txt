@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Noob looking to build first speakers</Title>
+		<Username>csbelli</Username>
+		<Datetime>09-14-08, 08:36 PM</Datetime>
+		<Content>I am completely new to building speakers. I have woodworking experience and a little electronics. I currently have some very old and crappy Bose Acoustamass speakers that I bought when I was young and didn't know any better. The only plus about the Bose is that they are tiny and that has a high WAF. The center channel is so weak we can hardly hear the dialog without cranking the rest. I was wondering if anyone can recommend some kits for surround speakers with center channel that are small like the Bose or close to that size. If there are different kits for L & R compared to C that is cool. I also plan to build a sub kit later as well. Any recommendations and advice you can offer would be greatly appreciated. Thanks.</Content>
+	</Post>
+</Thread>

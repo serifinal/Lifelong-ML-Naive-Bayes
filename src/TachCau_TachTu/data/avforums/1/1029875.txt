@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 50PV350T vs Panasonic TX-P50ST30</Title>
+		<Username>ash39</Username>
+		<Datetime>09-01-2012, 10:33 PM</Datetime>
+		<Content>Hi, I posted yesterday in the 'what TV' forum to get some advice to start me off, now I think I've decided on a Plasma I'm looking for more specific advice. I think I've narrowed it down to these two, there is £100 between them at Richer Sounds (the LG being cheaper). I'm not keen on the look of the Panasonic on the photos I've seen on the web but I think I saw one in store at the weekend, assuming it was the correct model, and it looked OK. The LG doesn't particularly look great either but at least a bit more modern. Obviously, the main priority is picture quality. I watch mostly football and a bit of Xbox gaming, and other than that just normal evening TV. The football is the main priority, I want that crisp, textured grass you get on football on the top end TV's, but hopefully without paying top money. I don't really want to go higher than the £599 for the Panasonic, unless there is something considerably better for a little more. Any opinions welcome!</Content>
+	</Post>
+</Thread>

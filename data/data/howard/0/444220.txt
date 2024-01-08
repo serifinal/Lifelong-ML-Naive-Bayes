@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Adding $25/500mb Data to Existing Plan</Title>
+		<Username>intelpentium4</Username>
+		<Datetime>07-08-2010 12:16 PM</Datetime>
+		<Content>I've been a Fido customer for a while now under 3 yr contract with the following plan: $17.50 - 200 Daytime Minutes, Unlimited Evenings/Weekends 5pm (aka Killer Plan) $16.00 - Value Pack [Call/Name Display, Enhanced Voicemail, WhoCalled, 2500 Text Msgs] $6.95 - System Access Fee $0.50 - 911 Emergency Fee I will be buying an unlocked HTC dream from my friend soon and I want to add the $25/500 MB data option to my already existing plan. Would I run into any issues by doing this? I have a feeling they might say that because my voice plan is an older one that I can't combine it with a new data option. Anyone have experience with this? Thanks in advance.</Content>
+	</Post>
+</Thread>

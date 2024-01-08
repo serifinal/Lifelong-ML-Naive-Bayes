@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is now the best time to pick up a 720p plasma?</Title>
+		<Username>fireroad</Username>
+		<Datetime>09-03-08, 11:14 AM</Datetime>
+		<Content>I'm in the market for a 50" plasma and would love a Panny PZ800U, but budget dictates a Panny PX80U or Sammy A450. I've seen both the Panny and Sammy for 25% off MSRP, which is about $900 less than the PZ800U's best sale price. I realize the cheaper models are only 720p, but from my seating distance and current HD offerings I will barely be able to see the difference. I know I would get deeper blacks and somewhat better colors with the higher end model, but from reading the forums here both cheaper sets are still pretty darn good. I don't suspect we'll see 720p offerings in next years plasma line-up, so is picking one up now a steal of a deal? Do you think they will go down anymore by Nov (If I got the PZ800U I was going to wait till Nov anyway)?</Content>
+	</Post>
+</Thread>

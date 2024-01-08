@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Darken skin tone option</Title>
+		<Username>bbsmith090</Username>
+		<Datetime>04-18-2010, 10:54 PM</Datetime>
+		<Content>Hey guys... I have the canon powershot sd1100 IS. I noticed after I take a picture, I can manually edit each one and go to my colors and select the darker skin tone option. my friend has it so it automatically has this setting for each pic, but doesnt remember how she did it. can anyone explain how to do this? thank you!!!!</Content>
+	</Post>
+</Thread>

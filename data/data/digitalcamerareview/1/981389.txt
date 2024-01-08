@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>G10IS, SX100Is or SD990IS</Title>
+		<Username>AnthemAVM</Username>
+		<Datetime>06-13-2009, 09:48 PM</Datetime>
+		<Content>Can't decide between the three camera's. It will be our main camera in the house, and will use on our vacation this summer. Which do you like?</Content>
+	</Post>
+</Thread>

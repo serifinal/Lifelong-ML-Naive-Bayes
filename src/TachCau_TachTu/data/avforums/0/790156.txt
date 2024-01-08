@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Gone back to VT20</Title>
+		<Username>paldridge</Username>
+		<Datetime>08-07-2011, 12:07 PM</Datetime>
+		<Content>Just an update for those interested. Had a VT20 for a few weeks but wasn't happy with the 50hz issue. It was swopped for a VT30 which had 50hz, green splodge, FB and pixelation so it went back. Looked at Samsung and LG but both had their problems. The Samsung 51" 8000 had judder and I didn't rate the PQ as well as the VT20. The LG 50" PZ950 had much less judder but the blacks weren't good enough and the PQ wasn't up to the VT20. So now .. with no other options really we've gone back to the original VT20 and I must say that the PQ is so much better than everything else we've looked at. We are now happy enough the stick with the VT20 and put up with the 50hz issue. It's just a shame that no-one seems to be able to make a 50" plasma that doesn't have judder but also has good blacks. We read that there are people on here who have exchanged their TV 5 or 6 times before settling on one that "will have to do" I'm stunned that in 2011 there's no such thing as a perfect plasma (whatever you get has one issue or another) and I must say that buying the first new TV after 11 years has been a complete nightmare. Right .. I'm off to watch something on the TV that we've settled on.</Content>
+	</Post>
+</Thread>

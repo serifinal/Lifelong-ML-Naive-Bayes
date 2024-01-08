@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>G30 50hz bug - does it make football unwatchable?</Title>
+		<Username>Chr</Username>
+		<Datetime>18-07-2011, 7:38 PM</Datetime>
+		<Content>I want to get the best sub £1000 tv for watching football. Does the 50hz bug render panasonics unsuitable for this? Is it still better than any LCD, given plasma's advantage at motion handling? Is there a better plasma for watching football? Thanks!</Content>
+	</Post>
+</Thread>

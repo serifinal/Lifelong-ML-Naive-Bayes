@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>3D tv are you still watching</Title>
+		<Username>EvilEdna</Username>
+		<Datetime>11-02-2012, 4:28 PM</Datetime>
+		<Content>Before i bought my 3D tv i was all excited, i watched 3D movies on the sky 3D channel, i downloaded the bit of 3D we all got excited the first time we watched a Christmas carol in 3D, Avatar 3D was quite good, but if i'm honest i think it was just a bit of a gimmick, i cant be bothered to put the glasses on these days, i would rather just watch a good movie that is nice and bright without all the hassle of the glasses, does anyone else feel like this, or are you still enjoying your 3D tv.</Content>
+	</Post>
+</Thread>

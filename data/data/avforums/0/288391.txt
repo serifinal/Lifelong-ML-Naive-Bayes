@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer KRP-600M picture judder</Title>
+		<Username>John G</Username>
+		<Datetime>18-11-2011, 5:01 PM</Datetime>
+		<Content>Hi, I have a Denon BDP3800 Blu ray attached to my Pioneer and have been really pleased with it. However, after watching a friends (cheaper) set up I have since noticed definate horizontal and vertical picture judder which seems particularly noticeable on opening or closing credits. Have just watched Luc Besson's Adele Blanc Sec and the side scrolling opening sequnce shows a lot of judder. I'm not sure what to check first, my Blu Ray settings or Pioneer settings. Any suggestions would be grateful.</Content>
+	</Post>
+</Thread>

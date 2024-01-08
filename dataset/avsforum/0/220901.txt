@@ -1,0 +1,3 @@
+frame a wall .
+is it possible to frame a wall in the basement underneath the center support beam ?
+floating perhaps ?

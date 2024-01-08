@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Home-made macro setup for Canon S2</Title>
+		<Username>Xcessiv</Username>
+		<Datetime>04-29-2008, 01:51 PM</Datetime>
+		<Content>Hi, I plan on buying a macro flash (not light) for my Canon S2 IS. There digital ones are either really expensive or are LEDs, which I don't want. Here's my plan, tell me if it'll work: - 35mm camera ring flash with 52mm adapter: link - Wireless Optical Slave Flash Trigger with Sync Socket: link - Canon S2/S3/S5 52mm adapter from LensMate - Raynox DCR-250 Super Macro Filter from LensMate My questions... 1) The macro flash doesn't have controllable power and the Raynox DCR-250 is restricted to a working distance of 4" - 4 5/8". How is it possible to take good macro pictures if the flash isn't controllable and I can't control the distance??? 2) Will this trigger be compatible with the macro flash via the sync socket even if I don't have anything mounted to the hot shoe of the trigger? 3) Will this trigger be compatible with my S2 IS? In which mode can I disable the pre flash? Thank you. Regards, Yan</Content>
+	</Post>
+</Thread>

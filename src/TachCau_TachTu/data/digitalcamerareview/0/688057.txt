@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help needed with Photoshot S5IS (display date)</Title>
+		<Username>gabriela</Username>
+		<Datetime>01-02-2008, 10:04 PM</Datetime>
+		<Content>Hi there I am trying to find the option to show date on my pictures (not the printed one). Even though I set the date, it does not show on the downloaded picture . Can anyone help with this? Thanks Gabriela</Content>
+	</Post>
+</Thread>

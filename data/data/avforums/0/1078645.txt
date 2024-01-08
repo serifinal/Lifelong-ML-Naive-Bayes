@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Hidden settings?</Title>
+		<Username>archie123</Username>
+		<Datetime>05-01-2012, 10:10 AM</Datetime>
+		<Content>hi i have a panasonic tx-p42s30b and im currnetly struggling with the set up. I want too have two settings , one for tv one for blu ray , i set up cinema for dvd viewing but changing the mode from cinema to normal / photo / game / true cinema changes more than just the basic settings i can access im assuming its changing the red green blue values too. Is there any way i can access these settings directly? (more advanced settings) my friends lcd tv has alot more settings available than my plasma thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung LN46A750 or Sony KDL-46XBR6</Title>
+		<Username>vexxis526</Username>
+		<Datetime>11-15-08, 01:58 PM</Datetime>
+		<Content>I am looking to purchase a new 46" flat panel LCD TV for my living room. I am stuck between the Samsung LN46A750 and the Sony KDL-46XBR6. Both seem like great TVs, but I am not sure which one is best for me. What I will be using this TV for is sports, connection to a media center, Blu-ray, and slight PS3 and 360 usage. The one issue I have heard about the A750 is its halo effect. Is it that bad of a problem? Is it worth the extra money to get the A750 when the A650 has the same PQ and no halo effect, but 12-bit video processing compared to the A750's 16-bit video processing? Thanks.</Content>
+	</Post>
+</Thread>

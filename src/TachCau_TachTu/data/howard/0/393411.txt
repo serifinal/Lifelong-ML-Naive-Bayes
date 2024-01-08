@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Facetime and minutes used</Title>
+		<Username>jst51</Username>
+		<Datetime>06-28-2010 02:52 PM</Datetime>
+		<Content>I've had two Facetime sessions with my daughter so far. OLAM only show 1 minute each and they were about 20 minutes long. So I'm wondering if Facetime uses wifi for both voice and video or if OLAM has not caught up yet.</Content>
+	</Post>
+</Thread>

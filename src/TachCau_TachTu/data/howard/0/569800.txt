@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>WIND MMS Settings?</Title>
+		<Username>vro25</Username>
+		<Datetime>02-05-2010 02:02 PM</Datetime>
+		<Content>I tested a new Wind BB 9700 and I was able to send an MMS from it to a Rogers phone. However, I am unable to do so with my Nexus One. I added mms.windmobile.ca to the MMS APN - but that didn't make it work. Does anyone have the settings? Thanks.</Content>
+	</Post>
+</Thread>

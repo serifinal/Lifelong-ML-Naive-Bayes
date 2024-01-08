@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GT30 Viera link stopped working!!</Title>
+		<Username>eric_the_red</Username>
+		<Datetime>12-07-2011, 7:56 PM</Datetime>
+		<Content>Hi all would be really grateful if someone could please assist with this issue I have.. Had the GT30 for couple of days now really pleased and yesterday decided to try and get the Viera link working so connected TV to my broadband hub and straight away asked for firmware upgrade which I did this worked fine and away I went onto BBC iplayer etc with no problems. However, today nothing all I get is Feature Not Available, checked link on hub and all is good, restarted and still nothing. Checked settings within menu and says it's on? Is this a common issue ? Any help would be appreciated. Thanks all in advance</Content>
+	</Post>
+</Thread>

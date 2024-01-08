@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CI+ cams for ziggo is there a difference???</Title>
+		<Username>cooknl</Username>
+		<Datetime>12-12-2011, 6:06 PM</Datetime>
+		<Content>There are for as far as I know 2 different MFGR's that make the ziggo approved CI+ cam modules. Those makers are Neotion and @smit. Are there any differences between the cam modules that make one better or faster or sharper then the other? If you have any information please respond in this thread. Thanx Rob</Content>
+	</Post>
+</Thread>

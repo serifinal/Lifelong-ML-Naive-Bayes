@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is it possible to replace N82 LCD with N85's AMOLED?</Title>
+		<Username>Hahutzy</Username>
+		<Datetime>11-17-2009 05:00 PM</Datetime>
+		<Content>I broke my N82's LCD while trying to replace the housing, so now I need to get a new one. Then it occured to me that maybe I can replace it with an N85 AMOLED LCD? I know that the N85 screen is bigger (2.6 inch), so I'm not sure if it'll fit. Also, I don't know if N82 and N85 use the same plug for the LCD. Lastly, I don't know if N82 can supply enough voltage to it. So has anyone thought about this or actually tried it? EDIT: Did some uber-rough theoretical measures, the width fits for sure, and the height should fit after some modifications. EDIT 2: Scrap this, it looks like AMOLED screens use a different IC (LDS532) it drive them than TFT screens. EDIT 3: Actually, I think the display IC is mounted on the LCD's PCB, so when you swap the screen, the IC is swapped as well. Thoughts?</Content>
+	</Post>
+</Thread>

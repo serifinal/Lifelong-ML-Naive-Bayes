@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>ARC Problem with Panasonic VT30</Title>
+		<Username>JC2</Username>
+		<Datetime>09-01-2012, 12:45 PM</Datetime>
+		<Content>Dear All, I have a Panasonic P55VT30 plasma TV connected to a Yamaha RX-V571 amp via HDMI. I have a Focal Dome 2.1 system connected to the amp. I have a Sky+ box plugged into the amp's HDMI input 1. Everything works perfectly - the Sky picture appears on the TV, the sound comes out the speakers connected to the amp... no problem. However, when I go to use the Viera's internet function and access BBC iPlayer (for example), the sound comes out of the TV's speakers which is obviously not what I want. I have enabled ARC on the amp and set the HDMI return input channel to 'AV 4'. I know that this is all set up correctly as when I open iPlayer using the Panasonic remote, the amp automatically switches to AV 4. I've made sure that the 'Speakers' setting in the Viera Link menu is set to 'Home Theatre' as opposed to 'TV' but no sound comes out of the speakers. The only thing I can think is that the HDMI cable is not 1.4 (or even 1.3) spec and therefore doesn't support ARC. The HDMI cable that connects the TV to the amp is channelled into the wall - I'm living in a new-build apartment and the HDMI cables were already installed as standard spec. I'm an AV novice (as you can probably tell from the lingo I'm using!) and would hugely appreciate any advice that could be given. Many thanks in advance! JC</Content>
+	</Post>
+</Thread>

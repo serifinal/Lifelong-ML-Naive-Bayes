@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic txp50g20plasma buzzing</Title>
+		<Username>marty555</Username>
+		<Datetime>01-03-2011, 10:22 PM</Datetime>
+		<Content>my panasonic txp50g20 has a background buzzing noise which although not to loud can be heard sometimes over the tv programme. set is 7-8 months old. just had currys take it away for repair and it's come back(9days later) exactly the same. is this a normal problem and should i go back to them. the logik tv they lent me while repair was ongoing was silent! any comments would be appreciated thanks</Content>
+	</Post>
+</Thread>

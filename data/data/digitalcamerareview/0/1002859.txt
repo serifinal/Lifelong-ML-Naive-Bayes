@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>formating a memory card?</Title>
+		<Username>superfrog019</Username>
+		<Datetime>09-13-2010, 03:39 PM</Datetime>
+		<Content>I was playing around with my camera and i was wondering what the format button would do so i clicked it and it did a process of some sort then when i tryed to look at my pictures they were all gone! I have most of them saved but not all of them, is there anyway to get my pictures back or are they lost for good. please anyone who knows the answer replay it would really help.</Content>
+	</Post>
+</Thread>

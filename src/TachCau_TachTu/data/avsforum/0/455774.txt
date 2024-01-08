@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Xbox 360 sends only 2 channels for mp3s</Title>
+		<Username>hardrock_121</Username>
+		<Datetime>08-11-08, 09:02 PM</Datetime>
+		<Content>Alrite, I swear I searched the threads before posting this. I think this is a very old problem, and may be ppl have already solved it but here it is again. Set up: Xbox 360 ( first generatio, I got it the day it got released courtesy...winning a contest at cnet) connected to my onkyo 605, via optical for audio. Onkyo connected to Def tech pro600 series. 5.1 channel. So the problem is when I select "Dolby Digital 5.1" in my audio settings under console settings on my xbox...and play any streaming audio...from my pc...the audio is player only on front two speakers.. ie stereo. Everything else ie games etc work perfect, playing all 6 channels. only mp3s streamed from my pc have this issue. The only way I can get around this is if I select "Digital Stereo" in the Console Settings, then mp3s are played on 5 channels, but everything is insipid, ie games and movies sound not so great as expected....compared to the dolby digital 5.1 setting. So what can I do to make mp3s work on dolby digital 5.1 setting... any help is appreciated.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42PX70 remote stopped working, nearly.</Title>
+		<Username>Jason56d</Username>
+		<Datetime>08-01-2012, 7:10 PM</Datetime>
+		<Content>Yesterday my TV remote stopped working properly. Most of the buttons are now not working at all. The few that are only have limited function. ie, the AV button works to select input if you keep pressing it to move down, but the direction buttons have no movement at all. Same for Guide, Menu, Volume etc. Changed the batteries to brand new ones, turned it off at the plug for at least 5 minutes, but still the same. My Sky HD remote works fine with the TV with limited functions of a Sky remote though? Anyone got any ideas? Is it just the remote? Or something more sinister.... I bought it from John Lewis on 15/4/2007, so I am still in warranty, just!?!?!?</Content>
+	</Post>
+</Thread>

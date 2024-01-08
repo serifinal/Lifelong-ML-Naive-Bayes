@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Will a 42" be big enough? Check this photo...</Title>
+		<Username>pressure</Username>
+		<Datetime>31-05-2011, 4:49 PM</Datetime>
+		<Content>I'm pretty much decided on getting a 42" VT30, and I settled on 42" because it was the biggest my wife would agree to. However... looking at a paper cut out of a 42" screen, I'm not sure it actually gives me a larger perceived viewing area / viewing angle - maybe a few degrees. Take a look at the pic and see if you think it's worth having? Photos is from the seating position, which is 11.5 feet from the wall.</Content>
+	</Post>
+</Thread>

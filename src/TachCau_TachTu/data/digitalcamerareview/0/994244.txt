@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Video Review of Canon A710 IS</Title>
+		<Username>Medic</Username>
+		<Datetime>06-17-2007, 10:53 AM</Datetime>
+		<Content>Check out the video review I made of the Canon A710 IS here. I will also have a written review that I will post here.</Content>
+	</Post>
+</Thread>

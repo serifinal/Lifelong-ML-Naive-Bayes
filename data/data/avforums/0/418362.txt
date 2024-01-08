@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic P50V10 screen burn or image retention? (</Title>
+		<Username>fizzgog</Username>
+		<Datetime>12-12-2011, 3:55 PM</Datetime>
+		<Content>Hi guys, had my plasma for a couple of years now but it is increasingly having issues with image retention I watch a lot of sky sports news hd and the white box at the bottom of the page is staying/burning onto the screen. It is really visible against dark and especially light uniform colours. It began to happen ages ago but would clear, now it is always there, even though i now watch sky sports news much less. Is there anything I can do or is it too late? Thanks for any help. Pete</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sign up for ipad data plan without using ipad hardware and regular SIM</Title>
+		<Username>Que_Ball</Username>
+		<Datetime>06-04-2010 06:45 PM</Datetime>
+		<Content>If anyone is interested in trying this out I believe it should work. If you wanted to activate the ipad data plan but you do not have an ipad 3G or a microsim you can likely still do it on your PC. What you need to do is open a webkit based browser like Apple Safari or Google Chrome. Go to the following URL: https://www.rogers.com/web/HSPA.portal?dev=cp&SIM=89302720xxxxxxxxxxxx&IMEI=0 &lang=en Change the number of the SIM= to be the number on your brand new SIM card. (Cannot re-use an old SIM or some of the SIM's that came with a renewal phone etc.) It should be a brand new retail SIM or Micro SIM not tied to any account. Follow through with the user and credit card info. Normally on the ipad your device would try to connect with the APN internet.com and then load this website to sign up for a plan. When you had completed the signup the ipad would switch to using the rogers-core-appl1.apn APN. If you already have an Ipad plan then try loading this page with your already active microsim card number and see if it gives you the ability to see your usage. Credit for the info: http://modmyi.com/forums/unlocking-a...hout-ipad.html</Content>
+	</Post>
+</Thread>

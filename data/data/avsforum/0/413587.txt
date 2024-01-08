@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>The Maple Street Theater Build Thread</Title>
+		<Username>guamguam</Username>
+		<Datetime>04-09-08, 07:30 AM</Datetime>
+		<Content>My theater is mostly finished. I've added some equipment info as well as some pictures of the current state to the beginning of this thread. Screen - DIY SeymourAV CenterStage XD fabric, Bosch Rexroth Hybrid Aluminum frame and wood frame wrapped in velvet. Receiver - Onkyo TXSR806 Blu Ray Player - Sony Playstation 3 HD DVD Player - Toshiba HD-A2 Speakers: Fronts - Monitor Audio Silver 9i Center - Monitor Audio Silver Centre 12i Rear and Side Surrounds - Emotiva ERD-1 Subwoofer - Infinity HPS-500 Projector: Panasonic AE3000U Mount: Chief RPA-U IR Repeater: Buffalo IR repeater system Lighting Controller: Lutron GrafikEye 3506 Carpet: Coursitan South Beach - Ebony Paint: Sherwin Williams Theater Red 7584 Riser Step Lights: Affordable Quality Lighting I have decided to start a thread to track the progress of my build in case some other people are interested. The progress will probably be slow and it isn't going to end up as nice as a lot of the theaters on here, but I'm going to try my best. Here's the plans for the basement: And here's a zoom in on the theater room:</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>search broken</Title>
+		<Username>webrehm</Username>
+		<Datetime>10-30-2011, 03:24 AM</Datetime>
+		<Content>while in the canon forum, a search on "sx230" or "SX230" receives no matches. Why? Dennis</Content>
+	</Post>
+</Thread>

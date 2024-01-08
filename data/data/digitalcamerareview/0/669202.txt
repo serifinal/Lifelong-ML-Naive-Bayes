@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon a720 owners, i need your help!</Title>
+		<Username>aan310</Username>
+		<Datetime>10-28-2007, 12:29 PM</Datetime>
+		<Content>what dont you like, and how long does it take for the flash to charge</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>If you were ME, how would YOU set this up...</Title>
+		<Username>cvearl</Username>
+		<Datetime>09-26-08, 05:13 PM</Datetime>
+		<Content>Ok. You experts... You are me. You got a great deal on the following kit! Panasonic TH42PZ85 42" Plasma Panasonic BD30 Blueray player Sony DAV-HDX475 1000 watt 5.1 home Theater in a box BD30 HDMI to the TV via HDMI was the easy part. Now you have to hook em up for best audio. Option 1 - Optical Out from BD30 to the Sony box in Bitstream mode with Secondary set to OFF in the BD30. Option 2 - Optical out from BD30 to the Sony box in PCM mode (default out of the box BD30 setting) Option 3 - Hang the Sony kit off the Optical out on the PZ85 and leave the BD30 in PCM mode Option 4 - Hang the Sony kit off the Optical out on the PZ85 but set the BD30 to Bitstream. Curious what others would do in this case. C.</Content>
+	</Post>
+</Thread>

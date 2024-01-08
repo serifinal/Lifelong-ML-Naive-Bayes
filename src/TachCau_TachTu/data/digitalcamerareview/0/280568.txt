@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I need help with Zoombrowser EX!</Title>
+		<Username>Sazie</Username>
+		<Datetime>07-23-2010, 08:27 PM</Datetime>
+		<Content>I recently downloaded Zoombrowser EX 6.5.1 for my Canon Powershot S30 camera. My computer is Windows XP Service Pack 3. When I connected my camera to download pics, it worked great. Now, when I want to view pics to print out or e-mail, the pics are grayed out and say "loading image," and that's it. Can you help me please? Thanks!!</Content>
+	</Post>
+</Thread>

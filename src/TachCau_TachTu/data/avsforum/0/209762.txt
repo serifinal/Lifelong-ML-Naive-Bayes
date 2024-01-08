@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer 9G 50" vs 60" buzz poll</Title>
+		<Username>Prodigy7</Username>
+		<Datetime>07-14-08, 05:11 PM</Datetime>
+		<Content>Hopefully this will let us know if there is a significant difference between panel sizes and percentage of buzzing PDP's. Please be honest when voting.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer Plasma Standby Issue (No, not the usual flashing lights one!)</Title>
+		<Username>NickHack</Username>
+		<Datetime>28-06-2011, 9:44 PM</Datetime>
+		<Content>Anyone know anything about this issue? I've had it for sometime and just put it down to a setting I've mistakenly changed or similar but I see one other person has posted it (so long ago AVF won't let me post this as a reply to it - there were no replies I should also point out). I can't find any other reference to this particular issue anywhere. Pressing power on remote switches my PDP-436XDE into standby (both receiver and panel). Receiver goes 'red light' instantly, panel cycles between red (standby) and blue (power on) for a few seconds before going dark (no lights) To turn the TV back on I either have to get up and physically press the receiver's power button and/ or turn the panel off at its power button and then back on. Not the greatest problem in the world for a TV that I've had nothing but good things from in its 6 years with me but if there are any solutions I'd love to hear them. Cheers Nick</Content>
+	</Post>
+</Thread>

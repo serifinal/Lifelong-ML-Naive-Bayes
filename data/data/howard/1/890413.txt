@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Google Nexus One or HTC Desire coming to Telus?</Title>
+		<Username>GC</Username>
+		<Datetime>03-10-2010 02:15 PM</Datetime>
+		<Content>I've been interested in the Droid/Milestone for a while, however, I'm more interested in the HTC Desire. I wish it had a physical keyboard though, but given the faster processor than in the Milestone (1ghz versus 550mhz), I think I'd rather have a Desire. Has anyone heard anything about either the Nexus One or the Desire coming to Telus or another Canadian carrier?</Content>
+	</Post>
+</Thread>

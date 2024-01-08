@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Not Receiving Text Messages on iOS 4.0 for 3G iPhone?</Title>
+		<Username>illucius</Username>
+		<Datetime>06-25-2010 10:50 AM</Datetime>
+		<Content>Has anybody gotten a weird bug where you're in an app or something in iOS 4.0 and you hear the sound that plays for a text message, but you don't get any indication at all about the text? No little pop-up or new text in the Messages app? I just got this error this morning while I was playing Tetris and still after a few hours haven't received this phantom text on my iPhone 3G.</Content>
+	</Post>
+</Thread>

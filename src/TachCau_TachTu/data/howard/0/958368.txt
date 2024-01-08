@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Transfer old version of app from one iphone to another.</Title>
+		<Username>studmule</Username>
+		<Datetime>10-23-2009 01:43 PM</Datetime>
+		<Content>So on my first gen iPhone, I have an old version of an app that I like. I haven't synced it with itunes in a while. I have the new version of the app on my 3GS, and I hate the new version. So I'm wondering if there is any way to get the old version from one iphone to the other. I was thinking if I deleted the new version from my 3GS and deleted it out of itunes, then synced my old iphone, that would get the old version into itunes, then I could just sync my 3GS and it would get the old version of the app on it. Any idea if this would work, or would there be another way to do it?</Content>
+	</Post>
+</Thread>

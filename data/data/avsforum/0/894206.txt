@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Have You Ever Had a Power Surge in Your Home?</Title>
+		<Username>saturation</Username>
+		<Datetime>12-03-08, 12:48 PM</Datetime>
+		<Content>I'm trying to find how many folks have actually had a surge at home, and if a surge suppressor really worked in saving whatever was plugged to it, say your home theater or parts of it.</Content>
+	</Post>
+</Thread>

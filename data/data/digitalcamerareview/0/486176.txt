@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LCD Display hopelessly black!</Title>
+		<Username>teddyco</Username>
+		<Datetime>11-20-2007, 11:56 AM</Datetime>
+		<Content>Hello, I have a 5 year old Canon Powershot S230 Digital ELPH that has been working seamlessly and has never missed a beat. Today I went to use it, and all I get is black. I have clicked on the 'DISP' button to see if the LCD Display was off and it was on. I cannot see anything to take pictures and I cannot see anything to review pictures that have been taken. I have actually taken three pictures that load into my computer, but they are completely black. I have a fully charged battery, and I have also 'reset' the camera by holding the menu button. The camera is not used a lot and has not been subjected to heat or cold or dropped or submersed in water. I am mystified? Any help is greatly appreciated?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How many 59" Samsung D6900's have you had from John Lewis?</Title>
+		<Username>Hades</Username>
+		<Datetime>29-11-2011, 1:17 PM</Datetime>
+		<Content>Just wondering how many people have had replacements due to buzzing etc. If your about to have one replaced then please add that to your total I will soon be on my 3rd</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VT30 & Broken Glasses</Title>
+		<Username>meirion658</Username>
+		<Datetime>29-01-2012, 4:23 PM</Datetime>
+		<Content>Hi all Just bought a new VT and one of glasses that came with the TV are dead model number (TY-EW3D2MA). I will contact the local retailer tomorrow and to see if they can change the glasses for me. Are these glasses the newer modles that panasonic have or are they newer one out ther on the market that I should be pushing for? Thanks</Content>
+	</Post>
+</Thread>

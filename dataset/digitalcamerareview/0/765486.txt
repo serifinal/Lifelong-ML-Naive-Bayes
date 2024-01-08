@@ -1,0 +1,26 @@
+canon sd700 resolution test shots .
+-lrb- updated to elminate the need to link to steve 's forums . -rrb-
+i took some shots of resolution test patterns using an sd700 , which may help someone decide what camera to buy .
+the shooting distances were chosen so the scene was a flat area about 9x12 feet for all views .
+test patterns were put near the extreme corners and also just inside points 2 ' in -lrb- diag . -rrb-
+from the corners .
+also test patterns were put in the middle of the scene .
+so that the attachment file would be smaller , some cut and paste was done which makes the diagrams not to scale and also parts of the scene with no test patterns were omitted .
+three views are presented here as attachments below , -lrb- left thumbnail below -rrb- widest angle , -lrb- center -rrb- about 2x zoom , and -lrb- right -rrb- maximum 4x zoom .
+all looked about the same except the widest angle shot had some softness at the lower right corner .
+notice the tick marks alongside each test pattern .
+the fourth tick mark from the narrow end corresponds to about 1500 tvl -lrb- television lines -rrb- over a distance equal to the picture height .
+the fifth tick mark corresponds to about 1100 tvl/ph .
+-lrb- two tvl equal one line pair . -rrb-
+i conclude that the resolution was around or a little better than 1500 tvl/ph at the center , around 1500 tvl/ph for most of the picture area not too close to the edges , and around 1300 tvl/ph over much of the edges .
+places where resolution fell short of 1100 tvl/ph existed but were rare and only at the edges .
+my own conclusion was that the image sensor and the internal processing and jpeg compression were the limiting factor in the middle of the picture , with the camera lens being the limiting factor at the corners and edges .
+with some zoom , the picture quality at the edges was better .
+widest angle view was hand held , other zoom views were shot from a tripod with the self timer .
+image stabilization was off .
+camera was set to largest pixel count and file size , and superfine mode .
+shooting conditions were outdoors , sunny day , subject in open shade .
+___________ -lrb- finally figured this out -rrb- internet explorer users : to properly click to enlarge these attachments you need to disable size-to-fit otherwise what you see becomes meaningless .
+click tools in the browser menu bar and choose internet options .
+in the little window click advanced , scroll down to multimedia , and uncheck enable automatic image resizing .
+other browser -lrb- such as aol -rrb- users may also need to prevent resizing or otherwise zoom the images .

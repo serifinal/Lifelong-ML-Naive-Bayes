@@ -1,0 +1,5 @@
+samsung vibrant with cradlepoint router , did anybody try ? .
+i did it on my behold ii and it works 100 % .
+i set usb mode to samsung studio , usb debug mode does n't matter .
+i checked vibrant has samsung kies on usb mode and i am sure you can tether over usb with cradlepoint router this way .
+now here is a question : did anybody try that ?

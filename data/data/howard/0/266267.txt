@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>N900 FMMS Settings for WIND?</Title>
+		<Username>killerjay</Username>
+		<Datetime>05-13-2010 06:52 PM</Datetime>
+		<Content>hey guys, just wanted to know if anyone was able to set up fmms on their n900 with windmobile to receive mms messages such as pictures and stuff.... and also, if you were able to get it up and running, how did you set it up? please and thank you....</Content>
+	</Post>
+</Thread>

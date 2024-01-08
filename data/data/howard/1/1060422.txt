@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Important Pre-Paid Porting Question</Title>
+		<Username>rozman20</Username>
+		<Datetime>06-01-2010 08:48 PM</Datetime>
+		<Content>I have a question about porting a Verizon Pre- Paid phone number over to Page Plus. I have a Verizon Pre-Paid account and I want to buy a new phone (Samsung i760) and then switch to Page Plus once I receive the new phone. I currently have an old Pre-Paid Flip Top Nokia phone that I plan to trash after I get the new Samsung i760 and switch to Page Plus. I plan to switch and activate the New Samsung to Page Plus at the same time so the Samsung phone will never be on my Verizon Pre-Paid account. The Samsung phone will be Brand New and never activated before. My question is will I be able to port my old Pre-Paid number to Page Plus so I can use the Samsung i760. I am getting mixed answers when I call around to some local Page Plus dealers here in South Jersey. Can anyone clear this up for me before I purchase the new phone ? Thanks</Content>
+	</Post>
+</Thread>

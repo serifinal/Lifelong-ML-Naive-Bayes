@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which Powershot SD IS..750,800,850, or 870?</Title>
+		<Username>courtneyclv</Username>
+		<Datetime>12-30-2007, 07:17 PM</Datetime>
+		<Content>So I did make my decision to try a Canon powershot but am now more confused at which one to get! Some are available in stores, some online. Wherever I buy, I want to get it from a store that can take returns, exchanges easily just in in case. I am looking for...higher that 6 megapixels decent low light shots with a flash image stabilization face detection compact design decent movie mode I take shots of my friends and I snowboarding, wakeboarding, nightclubs, dogs, indoor and outdoor very bright. The most 'bang' for my buck. Thanks for the advice, glad I found this site! Courtney</Content>
+	</Post>
+</Thread>

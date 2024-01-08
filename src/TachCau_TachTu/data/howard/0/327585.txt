@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official "SaskTel network upgrade & when can I get an iPhone thread"</Title>
+		<Username>Mr. Eader</Username>
+		<Datetime>03-28-2010 06:22 PM</Datetime>
+		<Content>I am like a lot of you out there. I have been a long time SaskTel supporter (b/c of the coverage), and for a long time have seen my Rogers subscribing friends sporting the latest and greatest phones while I am stuck with whatever phones get converted to CDMA. Well, I am told this is all going to change. When? Not sure. Please post to this thread any info you may have regarding the SaskTel network upgrade. I am also interested in getting an iPhone when it is available on the new network (hey SaskTel, keep in mind there is supposed to be a new iPhone released this summer - please don't shoot yourselves in the foot and only offer the 3GS).</Content>
+	</Post>
+</Thread>

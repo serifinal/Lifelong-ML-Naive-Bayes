@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 50" Plasma design issue</Title>
+		<Username>MartinPavey</Username>
+		<Datetime>10-07-2011, 12:35 AM</Datetime>
+		<Content>We have a Panasonic 50" 3D Plasma TH-P50ST30Z TV and a Panasonic 3D Blu-ray Home Theater SC-BTT755. They work apart from one silly problem. I would expect it to be normal to place the front centre speaker centrally below, and close to, the TV screen. Our centre speaker is one of those wide low types, but with this TV, the speaker height obscures the TV remote control sensor, and also seems to stop the3D glasses from working. The glasses have an IR sensor so I assume there is an IR transmitter in the TV also being obscured by the centre speaker. To fix this, the TV pedestal will need attention to raise the screen by a small amount so the remote will work with the speaker in its normal position. Shouldn't really have to do that, but I can't see any other way to solve the problem. Martin Kerikeri, New Zealand</Content>
+	</Post>
+</Thread>

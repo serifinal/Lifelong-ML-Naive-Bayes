@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Re: Best camera for concert photography?</Title>
+		<Username>tamie17</Username>
+		<Datetime>12-27-2010, 12:16 AM</Datetime>
+		<Content>which sx10 sx20 or sx30 canon is best for taking concerts pics??</Content>
+	</Post>
+</Thread>

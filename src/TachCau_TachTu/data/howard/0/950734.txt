@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Adding credit from T-Mobile complete to existing Flexpay account?</Title>
+		<Username>Budweiser?</Username>
+		<Datetime>12-24-2009 08:56 PM</Datetime>
+		<Content>Has anyone tried this? Would the activation code in the package work or does it only allow it on new accounts?</Content>
+	</Post>
+</Thread>

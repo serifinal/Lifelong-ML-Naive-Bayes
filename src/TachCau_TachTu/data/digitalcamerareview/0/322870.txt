@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>pic video and jpg.com stamp</Title>
+		<Username>cbpersel</Username>
+		<Datetime>04-12-2005, 03:32 PM</Datetime>
+		<Content>Hello, I just purchased an SD300 camera, shot a test video and the frames are stamped with "pic video" and "www.jpg.com" at the top and bottom. Where did the stamp come from and how do you stop it from occuring? Thanks. Craig Persel cbpersel@sympatico.ca</Content>
+	</Post>
+</Thread>

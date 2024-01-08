@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My "movieZone" Home Theater</Title>
+		<Username>Darth-Roman</Username>
+		<Datetime>10-31-08, 08:25 AM</Datetime>
+		<Content>Hi, as first I would like to introduce myself. My name is Roman and i am from Germany. Almost two years ago, i started to build my own home cinema in the basement of our house in which we live for rent. I call it "movieZone" ! -) Already during planning i tried to cosider also acoustical treatments and i think it became very good. However i am absolutely satisfied. I think this is the most important at the thing Here some pictures:</Content>
+	</Post>
+</Thread>

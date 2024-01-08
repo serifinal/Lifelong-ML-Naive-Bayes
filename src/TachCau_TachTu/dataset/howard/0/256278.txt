@@ -1,0 +1,9 @@
+sprite backup question-how to restore data to a new phone .
+i have a treo 700wx with winmo5 on it .
+i just got an htc fuze last night from my new employer , it has winmo6 on it .
+i have sprite backup on my treo so i have a backup of that phone on my sd card .
+how can i get at the data in my backup file to get that data over to the fuze ?
+i do n't know much about sprite backup , i got it for free a few years back .
+can i just load sprite onto the fuze , and do a restore ?
+i think the sprite backup backs up the registry and everything on the 700wx so i ca n't restore all of that to the fuze .
+i guess i can just backup the calendar and notes from the treo and restore those without backing up the system data on the treo ?

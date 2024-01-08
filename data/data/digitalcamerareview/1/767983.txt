@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>what will I gain?</Title>
+		<Username>jamesthedrummer</Username>
+		<Datetime>06-13-2010, 09:07 PM</Datetime>
+		<Content>What exactly will I gain if I upgrade from my kit lens 18-55mm to the Canon - EF-S 10-22mm f/3.5-4.5 USM Ultrawide Zoom Lens. Would it be worth it to a amateur photographer to spend the $800 for this lens.</Content>
+	</Post>
+</Thread>

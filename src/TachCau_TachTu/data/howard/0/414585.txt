@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GF BB plan that includes text AND data?</Title>
+		<Username>DreamCatcher68</Username>
+		<Datetime>10-04-2009 01:31 PM</Datetime>
+		<Content>A manager told me that there is a *really* old BB plan (voice add on that is, not like the BB minutes and mail) that includes both unlimited BIS data AND text for 19.99. Is this true??</Content>
+	</Post>
+</Thread>

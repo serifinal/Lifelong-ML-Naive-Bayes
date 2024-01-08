@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help 7.1 Paradigm Speakers VS 7.1 Energy Speakers</Title>
+		<Username>christonian</Username>
+		<Datetime>07-10-08, 09:45 AM</Datetime>
+		<Content>im looking at buying 7.1 surround system with a budget of 5-6k i have had my eye on the Paradigm speakers and local supplier was able to create a 7.1 system with Denon AVR 3808 receiver the paradigm he recommended were 2 Monitor 9's 1049 2 ADP-190 499 CC-290 499 dsp32200E 12" - 799 denon AVR 3808 1399 5793 do you think i will be able to get better price if i go down south??? hometown 75k down south 5mil+ -------------------------------------------------------------------------- Now the 7.1 Energy Speakers were introduced to me at Futureshop they go for 4999 and have a denon receiver just wondering how they stack up against each other because im probably getting my TV from there</Content>
+	</Post>
+</Thread>

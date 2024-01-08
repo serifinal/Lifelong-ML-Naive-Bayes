@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>videos lacking date taken</Title>
+		<Username>airtas</Username>
+		<Datetime>06-14-2009, 03:09 PM</Datetime>
+		<Content>Why do Videos I take with my Canon Digital camera not have a DATE TAKEN section like a photo? How are you supposed to organize and know the date it was taken then?</Content>
+	</Post>
+</Thread>

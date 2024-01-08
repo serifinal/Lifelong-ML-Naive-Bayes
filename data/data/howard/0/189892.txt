@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Service Limited?</Title>
+		<Username>jjtt</Username>
+		<Datetime>01-27-2010 10:26 PM</Datetime>
+		<Content>Hi, I dont know if you guys have this same thing on your accounts, but when I check into my Boost account, in the right column, first line, under your account details where it says service status, it says service limited. Is this normal? My account does not seem limited at all, so I was wondering what this meant. Anybody have this also on their account? if not, what does it say on yours?</Content>
+	</Post>
+</Thread>

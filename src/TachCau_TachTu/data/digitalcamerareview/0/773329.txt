@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What Is A Flat Look? (SD700)</Title>
+		<Username>ajaynejr</Username>
+		<Datetime>07-30-2006, 07:01 PM</Datetime>
+		<Content>(copied from another forum) I read somewhere that someone said that the Image Stabilization on the SD700 gave the pictures an undesirable flat look. He went on to say that it is better to turn off I.S. when it is likely the shutter will operate at a high speed, such as for outdoor shots in the sun. What does it mean for a picture to look flat? I took some tripod shots with an SD700, with I.S. on and off. I couldn't see any difference in the finished pictures. (Pictures analyzed on a computer screen enlarged to a 1 to 1 pixel match with the computer video). Now if the I.S. when in action as needed for a handheld shot makes the picture look flat, then that means that had I.S. been turned off for that same shot, the shot would be blurry instead due to shaky hands. I'd prefer a sharp "flat" picture over a blurry picture any day.</Content>
+	</Post>
+</Thread>

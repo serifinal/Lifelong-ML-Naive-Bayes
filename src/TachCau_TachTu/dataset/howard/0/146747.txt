@@ -1,0 +1,46 @@
+how to setup mms on unlocked samsung blackjack 2 windows mobile .
+hey guys !
+does anyone know hwo to set up mms on windows mobile 6 on my unlocked samsung black jack ?
+i found the following settings but my gf doesnt know how to use them .
+do we need to set up the interent first in order to use mms ?
+i found the following directions for wm 5 using a search but they dont seem to work for wm 6 : <quote> since i have used ?
+my isp ?
+, i will set up a new connetion which i call ?
+my mms ?
+step 1 : in start ?
+> settings ?
+> connections tab ?
+> connections ?
+> advanced tab ?
+> select network ?
+> click new in the first section ?
+in the ?
+general ?
+tab enter a name for the connection -lrb- i named mine ?
+my mms ?
+without the quotes -rrb- ?
+in the ?
+modem ?
+tab , select ?
+new ? . ?
+in the ?
+make new connection ?
+window , 2 boxes show up .
+in the ?
+enter a name for this new connection ?
+box , put in a name -lrb- i put fido mms -rrb- in the ?
+select a modem ?
+dropbox , select ?
+cellular line -lrb- gprs -rrb- ?
+click next access point : mms.fido.ca ?
+click next username and password : both set to ?
+fido ?
+click finish close this window step 2 : open your mms inbox go to menu ?
+> mms configuration check retrieve message immediately make sure that ?
+download on home network only ?
+is not checked ?
+if this box is checked , you will not be able to download your mms because now with fido , we are ?
+roaming ?
+on rogers?s network .
+go to servers tab click new name - enter a name for this server -lrb- i put fido mms -rrb- gateway - 205.151.11.13 port number - 8080 server address - http://mms.fido.ca connect via : my mms sending size limitation : 250k wap version : wap 2.0 click ok </quote> please help !
+thanks !!

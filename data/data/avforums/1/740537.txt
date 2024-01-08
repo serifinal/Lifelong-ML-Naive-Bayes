@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pioneer PDP 42MXE20 Media box help.</Title>
+		<Username>rge1</Username>
+		<Datetime>19-05-2011, 8:49 PM</Datetime>
+		<Content>Help..... I have a PDP 42MXE20, I have been told I need a media box to get it working, so here goes... Do I need a Pioneer one or will another make work ? ny help greatly received....</Content>
+	</Post>
+</Thread>

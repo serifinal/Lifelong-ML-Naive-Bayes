@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung S, A, C panels on current line-up of LCD TV. Any thruth to the difference?</Title>
+		<Username>esdub20</Username>
+		<Datetime>12-19-08, 09:37 AM</Datetime>
+		<Content>1) Is there any truth to the difference in quality between these panels? I've read the infamous article for a computer monitor, but have not seen anything significant for TV monitors. 2) Does anyone know how to access the service menu to check to see which panel I have?</Content>
+	</Post>
+</Thread>

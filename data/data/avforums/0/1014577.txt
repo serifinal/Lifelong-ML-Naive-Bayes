@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 42PC1RR Owners' Thread</Title>
+		<Username>arnabghosh80</Username>
+		<Datetime>23-09-2007, 4:39 PM</Datetime>
+		<Content>Just received this Time Machine Plasma with built-in 80GB DVR......... quite a beast. Am already done with my run-in of 200 hours and am ready to rock! Do post in any queries that you have on this TV. CNET Review http://asia.cnet.com/reviews/home_av...271781p,00.htm ZD NET Review http://www.zdnetindia.com/index.php?...ew&prodid=3519 Winner of the EISA Award 06-07 for Best Plasma Television http://www.eisa-awards.org/history/2006-2007/video.html Find additional info on:- LG 42PC1R/D Owners Thread - Part 1 Cheers!</Content>
+	</Post>
+</Thread>

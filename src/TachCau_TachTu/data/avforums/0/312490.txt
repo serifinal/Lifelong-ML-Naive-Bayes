@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PANASONIC - Post here your calibration settings</Title>
+		<Username>kevo82</Username>
+		<Datetime>19-10-2010, 5:26 AM</Datetime>
+		<Content>Don't be LAZY!!! You bought the best Panasonic TV on the market? Cycle trough menus and settings and post everything here. (At least the "THX mode" settings and the "Normal mode" settings. Professional 1 an Professional 2 menus, if you have) We all want to test different calibration settings on our TVs, especially the ones made with a professional calibration program Please specify if your calibration settings are professionally made, or not I have calibrate my VT20 with AVS HD 709 program, but I wasn't satisfied, so I changed them a little bit. Here they are: THX mode: - Contrast: 40 - Brightness: 0 - Colour: 40 - Sharpness: 7 - Vivid Colour: ON - Eco Mode: OFF - P-NR: Min - 3D-Comb: ON - Panel: ON Advanced settings are left to default (Gamma 2.2) Normal mode: - Contrast: 50 - Brightness: -5 - Colour: 30 - Sharpness: 7 - Colour balance: Normal - Vivid colour: ON - Eco Mode: OFF - P-NR: Min - 3D-Comb: ON - Panel: ON Advanced settings are left to default (Gamma 2.2)</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Hey, 8IronBob</Title>
+		<Username>jsg22</Username>
+		<Datetime>06-27-08, 09:00 AM</Datetime>
+		<Content>I posted this on another thread as well, but need responses soon... Quick question for you guys. I currently own a 46V4100 which is going back to the store soon. It has a bad case of sparkles. I went to a few stores after work last night and my set is much worse than the Sony display units I saw (W, V and Z models) which is good news. I plan on exchanging my set for another V4100 or I might consider upgrading to the W4100 or even the Z4100 (I've totally blown my budget!!!). What is the best value pick here? I will likely buy local which will means I'm paying about $75 (with coupon) under MSRP after tax for the Z4100 or about $250 under MSRP for the W410 (Unless I can find a better price online from a store that pays shipping on returns if there is a problem). Should I step up to the Z? How does the Z's sound compare to the W and V? Sound is very important to me. The V's sound is GREAT IMO. Is there enough differences and advantages in the Z to justify paying an additional $470 (which is the price difference as the W is slightly discounted)? I don't want to play the return game over and over so unless the next unit has a major flaw, I'll be keeping it.</Content>
+	</Post>
+</Thread>

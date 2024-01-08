@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need help understanding functions Canon Powershot SX210 IS</Title>
+		<Username>Dead_Man_Walking</Username>
+		<Datetime>11-13-2010, 12:15 PM</Datetime>
+		<Content>Hi, I recently purchased Canon Powershot SX210 IS. The problem I am facing is understanding all the functions of the camera. I read the document that came with the camera as well as brochure from the following link Code: http://www.canon.co.in/p/EN/112-Digital-Cameras/190-PowerShot/1424-PowerShot-SX210-IS/ However this is of no help. for e.g. Fish eye I can't find how to use this. Anyone knows any document which explains the functions in details with each button function and the setting which can be used when. Any help is appreciated.</Content>
+	</Post>
+</Thread>

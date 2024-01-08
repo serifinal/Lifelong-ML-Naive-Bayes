@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What's faster on a laptop: iPhone 3GS tether or Sierra Wireless 306 key?</Title>
+		<Username>RelleR</Username>
+		<Datetime>11-23-2009 04:59 PM</Datetime>
+		<Content>A family member is looking to have internet on the go with their laptop for their main purpose, and potentially may be interested in going the cell phone tethering route depending on a few things. I'm trying to help and find out what's generally faster? the new Sierra 306 Mobile Internet Key for the "3G+" network or iPhone 3GS tether? Is the 3GS basically one of the faster tethering phones? I'm on Rogers so I don't even know if the 3GS is built to max out our (Rogers') supposed "7.2 speeds" or if the 3G is built to go faster passed that, given there's a network that is faster (Telus/Bell @ 21Mbps)? So, this whole new similar network is confusing to me, plus I don't know which devices are actually built to utilize the most speed possible. A little clarification is needed and appreciate anyone who can help.</Content>
+	</Post>
+</Thread>

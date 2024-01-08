@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FT: BNIB Rogers 9700 Bold for BNIB Rogers iPhone 3Gs 16GB or MINT used 32GB</Title>
+		<Username>EL820</Username>
+		<Datetime>11-05-2009 10:40 AM</Datetime>
+		<Content>Anyone interested in trading their BNIB Rogers iPhone 3Gs 16GB for a BNIB Rogers 9700 Bold? Your 16GB iPhone 3Gs must be brand new sealed, and it must be from Rogers. Proof of activation must be shown with matching IMEI as I will provide the same for my 9700. If you have a Rogers 32GB 3Gs, it must be in absolutely MINT condition (I'm very meticulous), and with a good length of warranty remaining on the phone. I prefer black iPhones. No Fido iPhones. Face-to-Face transaction only! I'm located in Scarborough. Cheers.</Content>
+	</Post>
+</Thread>

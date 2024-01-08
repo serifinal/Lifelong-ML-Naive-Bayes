@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How do you get the stand off the LG 42LBX?</Title>
+		<Username>ACX</Username>
+		<Datetime>06-01-08, 09:47 PM</Datetime>
+		<Content>The instruction manual doesn't mention it and I've gone crazy trying to get this thing off.</Content>
+	</Post>
+</Thread>

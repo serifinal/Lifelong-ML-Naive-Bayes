@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New Camera Suggestions</Title>
+		<Username>karan1981</Username>
+		<Datetime>07-12-2010, 10:42 PM</Datetime>
+		<Content>Everyone I am planning to buy a new digital camera. I am interested in only Cannon Brand and point and shoot cameras. So I need some of your helpful and expert suggestions. I am looking for latest ones - dont mind the price. I have shortlisted few of them, here are they: PowerShot S90 PowerShot SX210 IS PowerShot SD4000 IS PowerShot SD3500 IS (or any other model which is good) Would appreciate if you guyz can help me out in deciding which one is the best based one the performance and picture quality, day night modes etc. Thanks again</Content>
+	</Post>
+</Thread>

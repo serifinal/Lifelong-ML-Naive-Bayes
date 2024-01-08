@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nokia 5800 XM NAM(850/1900): Reviews, Issues, Tips, Tricks & Support Thread!!</Title>
+		<Username>rapidstar</Username>
+		<Datetime>02-26-2009 06:34 AM</Datetime>
+		<Content>Creating the support thread as the phone is out. As the title says, please post any reviews, tips, issues here</Content>
+	</Post>
+</Thread>

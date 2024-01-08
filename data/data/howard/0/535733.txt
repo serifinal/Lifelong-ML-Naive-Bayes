@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola Droid Xtreme MB810 (Shadow) Pre-Release Thread Part 2 - Information Only</Title>
+		<Username>ybcre8iv</Username>
+		<Datetime>05-17-2010 10:52 PM</Datetime>
+		<Content>Edit by FAUguy. This is the Shadow Part 2 - Information Thread. Please review the original thread first before asking any questions. http://www.howardforums.com/showthread.php?t=1607765 Post that do not have to do with the Shadow will be removed. ------------------------------- To summarize what we know so far based on leaks from Winston/Bill and others; what we know about the Shadow is... Tablet form-factor 4.1" TFT FWVGA screen Texas Instruments OMAP 3630 Processor 2MB built in memory Android 2.1, with soon-to-follow upgrade to 2.2 Moto BLUR with updates such as BLUR community chat 8 MP camera 720p recording 1080p output via HDMI port ~9mm thick Releasing in July Anything else that we know so far? ------------------------- Originally Posted by wnrussell Let's get started! Originally Posted by StDevious here's the video link of droid CPU vs Shadow CPU http://alienbabeltech.com/main/?p=18384 Can somebody put this link in OP, so everyone can see the difference -------------------------------------- Originally Posted by matrix2004 http://gadgetuniversity.wordpress.co...reme-hands-on/ ---------------------------- Originally Posted by sdotmiles from maddigital on android forums. i didnt think ANY phone would make the evo look small. wow. http://androidforums.com/motorola-sh...-thread-5.html</Content>
+	</Post>
+</Thread>

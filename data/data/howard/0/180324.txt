@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Google Nexus One - WIND/T-Mobile - $475 OBO</Title>
+		<Username>MrWizard87</Username>
+		<Datetime>05-11-2010 09:38 AM</Datetime>
+		<Content>Putting up my mint Google Nexus One phone. It was purchased directly from Google, and shipped to me by a friend in the States. Comes with all accessories in the box. This is the WIND/T-Mobile version. Richmond Hill/Markham preferred. PRICE: $475 OBO</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cannot Set Shutter Speed</Title>
+		<Username>Myron</Username>
+		<Datetime>05-18-2007, 10:31 AM</Datetime>
+		<Content>I recently got a Canon SD 600. While it takes great close-up photos using the Macro Digital feature, my photos of fast-moving objects is less than great. I attempted to photograph aircraft departing but each photo blurred. I am unable to set shutter speed. Also, the shutter lag caused me to miss several shots, although I set it on continuous shooting. Any advice?</Content>
+	</Post>
+</Thread>

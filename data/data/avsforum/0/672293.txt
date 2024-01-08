@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Anyone have the new Integra 8.9 yet?</Title>
+		<Username>joewb</Username>
+		<Datetime>10-08-08, 02:18 PM</Datetime>
+		<Content>I did a search and did not find an "Official Integra DTR-8.9" thread. I ordered one from my local dealer 2 weeks ago and they still have no idea when it might come in. I am just wondering if anyone out there has got one yet?</Content>
+	</Post>
+</Thread>

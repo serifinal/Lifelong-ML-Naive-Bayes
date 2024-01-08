@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 50PV350T, 50PK590 or??</Title>
+		<Username>irradiated</Username>
+		<Datetime>09-08-2011, 6:07 PM</Datetime>
+		<Content>ok guys im in the market for a new tv and i like the look of these two. both have a lan port but i can only find info on the 590 model saying its dlna compatable which is important to me. also the 590 has 2 more hdmi connections one is £550 and the other just under £600 so its the max i want to pay, reading up on here the tv's both sound ideal but since theyve been out a while now, does anyone have any negative thoughts since theyve owned one for a while OR can i get better for the SAME money (not a penny more ) its for watching football and blurays</Content>
+	</Post>
+</Thread>

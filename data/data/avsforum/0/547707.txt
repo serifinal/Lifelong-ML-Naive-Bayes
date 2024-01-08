@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need help with ripping software for BluRay video and losslesss audio for first HTPC</Title>
+		<Username>tonydeluce</Username>
+		<Datetime>04-15-08, 07:07 PM</Datetime>
+		<Content>I just pulled the trigger on my first HTPC: http://www.sonystyle.com/webapp/wcs/...52921665296592 Except I got the 20E/B model for half the price ( same as above but with only half the memory, 2 GB, and no cablecard support ). I don't plan to use this as a DVR ( but if there is some way to do this on conjunction with a DirecTV HD sat box that would change my mind )... Yep, I know I overpaid and that someone could have built something better for half the price but I don't have the time to build a HTPC from scratch and I really like the style of the Sony VGX-TP20E/B. Please let me know if I am really missing something with this so I can refuse delivery if need be... I Plan to rip BluRay and SD DVD to my Home Media Server Storage and I am looking for the best quality BluRay Disk ripper and the best quality SD DVD ripper. HD Loseless Audio on BluRay is very important to me. Any suggestions? Also what is the best format/s to store these files as for optimal quality and useability? Any suggestions would be greatly appreciated - thanks! EDIT: Changed Title of Thread slightly</Content>
+	</Post>
+</Thread>

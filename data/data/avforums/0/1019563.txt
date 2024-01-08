@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma in Conservatory?</Title>
+		<Username>Blu Ray</Username>
+		<Datetime>11-02-2005, 8:08 PM</Datetime>
+		<Content>I am currently getting a rather large conservatory built. One end is a solid new brick wall, ideal for mounting a plasma on, methinks. However, by their very nature, conservatories can get pretty hot and humid I guess, so has anyone any idea if this is a bad environment for a plasma, or LCD for that matter. Or does it not matter in the least?</Content>
+	</Post>
+</Thread>

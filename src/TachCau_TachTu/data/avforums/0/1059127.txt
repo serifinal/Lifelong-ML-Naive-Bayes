@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic with no hdmi or scart</Title>
+		<Username>boost mad</Username>
+		<Datetime>02-07-2011, 11:10 PM</Datetime>
+		<Content>After coming back from holiday to find my Sky HD box has died, i also found that so has my plasma. Well, when i say died, it kind of has! The HDMI and scart inputs dont work. I can plug in a coaxial and recieve normal TV and the built in freeview works, but if you plug anything into either the HDMI or scart ports nothing happens. Has anyone ever had any problems like this before or know of what could cause it ? Its a panasonic 46" plasma. Around 2 years old. Model TH-46PZ85B Thank you in advance</Content>
+	</Post>
+</Thread>

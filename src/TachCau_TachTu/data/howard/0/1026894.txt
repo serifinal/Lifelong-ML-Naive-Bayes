@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>DROID WiFi issues and getting Froyo (2.2) update w/out VZW Network</Title>
+		<Username>xmguy</Username>
+		<Datetime>06-26-2010 01:06 PM</Datetime>
+		<Content>I have a Motorola Droid. I'm currently not in a coverage for VZW and won't be til mid September. When 2.2 is launched and my phone gets network coverage again. Will my phone STILL get the update, even if outside the launch window? Also I'm currently using my phone in Airplane mode with WiFi on as not to drain the battery looking for signal. My problem is that even though I have my Droid WiFi set to never turn off. I find it off all the time. Is there a way I can force it on. I still want to use my data based services like GMail and weather. But it will time out. Any ideas? Thanks</Content>
+	</Post>
+</Thread>

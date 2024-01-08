@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Photo quality of Canon SD770IS vs SD890IS; lens error issue</Title>
+		<Username>vcam</Username>
+		<Datetime>04-05-2009, 02:29 PM</Datetime>
+		<Content>Has anyone used both these models? I would like to know how their image qualities compare to each other. I am trying to decide between these two, to see if the extra weight of the SD890 is worth the better image quality. Thanks</Content>
+	</Post>
+</Thread>

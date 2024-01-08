@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>DTV TiVo Dealer</Username>
+		<Datetime>05-20-08, 11:29 PM</Datetime>
+		<Content>We're having our 2nd flat panel shoot-out at our store in Scarsdale, NY. This event will include only the very latest flagship products from the major CE manufacturers. We'll have product management, engineers and product specialists as well as some very special guests attending and presenting at the event. I was able to get Pioneer to commit to supply their Elite PRO-111FD for the event even if the product is not shipped to stores at that time. We're clearing out all current models so our showroom will only display the next generation from the CE industry. I would like to have two AVS Forum special presentations one on Friday at 7:00 PM and one on Saturday at 11:00 AM. Seating is limited to 21 per AVS presentation event. Good food, drinks and the very best a/v available. Sign up today by emailing me here. and in the subject line telling me the date/time you want to attend. -Robert ---ADMIN NOTE--- NOTICE TO ALL This is in NO WAY an AVS Forum event. AVS Forum did not give the permission to use our name or site for promotion of a retail store event. AVS Forum does not get involved in "shootouts" or the like based on how the outcomes are viewed. As you can already see in this thread, the speculation of the outcome had started long ago. It is plain to see the issue such events can make for and why AVS Forum can not be part of it. AVS Forum as a company remains neutral on such topics. Value Electronics runs ad on this site for marketing and is not connected to AVS Forum in any other way.</Content>
+	</Post>
+</Thread>

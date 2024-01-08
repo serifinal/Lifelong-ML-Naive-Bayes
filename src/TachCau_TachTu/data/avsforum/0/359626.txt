@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Mario Kart Wii Online Question</Title>
+		<Username>kevinv13</Username>
+		<Datetime>05-01-08, 04:15 PM</Datetime>
+		<Content>So there is no way to play online with a friend and other non friends? Lame.</Content>
+	</Post>
+</Thread>

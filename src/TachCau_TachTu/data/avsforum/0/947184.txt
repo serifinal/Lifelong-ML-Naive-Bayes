@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung LNxxA450 Calibration/Settings Thread</Title>
+		<Username>Commando3200</Username>
+		<Datetime>06-24-08, 12:24 PM</Datetime>
+		<Content>Since I couldn't find any posts of a similar nature, I decided to start by posting my settings here. I'm not exactly an HDTV guru, but I have some settings that look fine for me. Note: These settings are calibrated on an Xbox 360. Mode: Standard Backlight: 7 Contrast: 87 Brightness: 63* sharpness: 0 color: 50 tint: No Change Detailed Settings Black adjust: Off Dynamic Contrast: Off/Low (Note: This is up to you) Gamma: -1 Color Space: Native White balance: I didn't change anything Flesh Tone: 0 Edge enhancement: off Picture Options Color tone: Normal (No "Warm" settings in Standard) Size: Just Scan Digital NR: Off HDMI Black level: Low (On 360, expanded*) Set Up Energy Saving: Off *: When the Low/Expanded settings are active, the blacks are, well, much blacker. This is why brightness is so high. The blacks are still black with no change from zero brightness at these settings. Also, question: Does this TV initiate 3:2 pulldown? If so how? (I read you need to activate "Film Mode".) Please, submit better calibrations if you have any. Thanks</Content>
+	</Post>
+</Thread>

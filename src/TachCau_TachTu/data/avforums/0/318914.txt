@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>skype through my tv. i need some help and advise please</Title>
+		<Username>jav123</Username>
+		<Datetime>23-01-2012, 5:49 PM</Datetime>
+		<Content>hi guys i dont know if it is in the write section first of all (sorry if it is not, i just didnt know where to post) i want to be able to skype through my tv (panasonic vt20) that has skype as an app. (i have to buy the skype panasonic cam) i would like to know abit more about skype as i dont really know how it works other than it lets you do video calling c2c free! i would like to know, will i be able to video call my friends/family from my tv through skype on to there iphone face time to be exact? or do they have to have skype on there phone? and will they be able to video call me from there iphone using face time to my tv (skype) ? using WIFI. will skype through my tv allow me to call my friends/family mobile numbers to face time with them? or will i get charged as i am video calling to a mobile number? sorry guys i did say i dont know how skype works, i did try to look for a email address for skype so i can ask them the question directly but i didnt have much luck. please can you guys help and sorry if its in the wrong section, i hope i get good replys back !</Content>
+	</Post>
+</Thread>

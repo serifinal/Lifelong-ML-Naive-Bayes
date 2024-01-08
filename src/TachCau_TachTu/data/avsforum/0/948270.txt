@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Mits HC1500, Tosh HD-A2, and SD DVDs</Title>
+		<Username>Intheswamp</Username>
+		<Datetime>10-16-08, 01:12 PM</Datetime>
+		<Content>Well, after almost a year I'm getting my small church's projector system put together. I've got the screen put together and hung and will be tinkering with the pj and dvd player tonight. I've still got some fine-tuning to do in regards to the environment...gotta get some curtains made to cover the windows and the screen. I'm planning on using a solid (non-split) curtain in front of the screen. The inner surface of the curtain will be black velvet. When we ready the room for a movie we will swing the curtain up and out and attach the corners to some hooks in the ceiling. This way the black side of the curtain will cover the white ceiling in front of the screen and hopefully help with ambient light generation by the screen/pj. The primary equipment will be a Mits HC1500 and a Toshiba HD-A2 DVD player. My question is whether to let the Toshiba player upconvert the SD DVDs that we will predominately be watching or to let the pj do all of the upconversions. I've see where folks recommend against doing conversion twice. Is there a definite answer for this question or do I just need to experiment and see what works best? Any feedback is appreciated but I'd definitely be interested in anybody's settings that might have this same setup! It's good SD DVD performance that I'm looking for. Thanks for your help! Ed</Content>
+	</Post>
+</Thread>

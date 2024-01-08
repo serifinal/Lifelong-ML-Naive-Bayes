@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>No User Guides</Title>
+		<Username>Myron</Username>
+		<Datetime>07-01-2009, 09:57 AM</Datetime>
+		<Content>I just purchased a Casio digital camera and was surprised that no user manual is included in the box. If you want a printed manual, you must send money to Casio. This is an outrage. The manual which is included in the CD-ROM, is of no use to me as I do not yet have a home PC nor a printer. Is Casio the only manufacturer eliminating user manuals or are there others too? I recently learned that many manufacturers are no longer including rechargeable batteries or their chargers with the cameras to save them money. This is like airlines which no longer serves food or beverages in flight.</Content>
+	</Post>
+</Thread>

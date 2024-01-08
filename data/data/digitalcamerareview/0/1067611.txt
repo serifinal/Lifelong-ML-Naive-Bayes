@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to make web-photoes VERY sharp and neat image?</Title>
+		<Username>Camel06</Username>
+		<Datetime>02-14-2008, 09:04 PM</Datetime>
+		<Content>Hi: I've been participating one of hobby related-discussions that includes a lot of photoes. Recently, I started to notice some of photoes are VERY sharp and neat image. By using Microsft Image Suite 2006, I attempted to get photoes as sharp and neat as possible, but it's still the same, ... not sharp and neat as others'. Wonder how to make photoes very sharp and neat image? Thanks for your help in advance.</Content>
+	</Post>
+</Thread>

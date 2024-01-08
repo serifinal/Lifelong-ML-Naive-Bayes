@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>ArcSoft TMT and MyMovies = Great!!!</Title>
+		<Username>DBZ33</Username>
+		<Datetime>08-22-08, 01:32 PM</Datetime>
+		<Content>Just want to share with everyone that has VMCE and My Movies and it thinking of going Blu-Ray/HD-DVD soon to just do it. Arcsoft made what I have been looking for all along. I now am streaming my Blu-Ray movies to two of my other rooms from my server with no problems. I have been working on the best way for a while now. At first I used Power DVD and mounted the ISO's but it wasn't as easy and didn't have the intergraded look I wanted. Then I took out the DVD players and converted my Blu-Ray movie to .MKV and used codec?s. That was a nightmare. I know some people have had no problems but I did. Today I installed AcrSoft TMT and updated with the latest update and everything is running super smooth. I can stream Blu-Ray to both rooms at the same time no problem. As for CPU usage my bedroom HTPC has a 2.0 GHz Intel Dual core with an 8600gt card running at 10-15% CPU only. My living room HTPC is an AMD dual core @ 2.5 GHz with an older 7900GT running about 15-20% CPU usage. I am so happy everything is working so great. I will recommend ArcSoft TMT to everybody I know. Hope this helps some of you who were ready to jump ship. It did for me.</Content>
+	</Post>
+</Thread>

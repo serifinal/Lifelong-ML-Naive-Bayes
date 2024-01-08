@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Video Recording on Incredible</Title>
+		<Username>Icyhot1966</Username>
+		<Datetime>09-10-2010 05:40 PM</Datetime>
+		<Content>I have some questions about video recording on the Incredible. What is the difference between H.263, H.264 and MPEG4?? I am not sure which to use for the smoothest playback on my phone and computer/iPad. Also, do the 3 different resolutions offered (1280 x 720, 800 x 480 and 640 x 480) all have the same FPS rate, or are they different. I don't mind recording at 640 x 480 if it's going to give me the smoothest video. Thanks for any help and insight.</Content>
+	</Post>
+</Thread>

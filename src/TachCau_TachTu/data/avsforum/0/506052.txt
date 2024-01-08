@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>How do you get blu-ray to use EVR?</Title>
+		<Username>sotti</Username>
+		<Datetime>10-02-08, 12:44 PM</Datetime>
+		<Content>I tried all the contenders trial versions last night and every single one of them dropped out of Aero when playing a BD and then displayed the blacks incorrectly. I was using the AVC disc from http://www.avsforum.com/avs-vb/showthread.php?t=948496 to test with. So I could mount the iso and playback as a disc, it'd drop aero and the blacks would be wrong, but if I navigated the disc and opened up one of the 00000X.m2ts files the players would stay in vmr9/EVR and the blacks would be correct. I'm really really at my wits end with this crap, why can't they just make it work right.</Content>
+	</Post>
+</Thread>

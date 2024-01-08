@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Plasma Brightness Fluctuation</Title>
+		<Username>Nicholars</Username>
+		<Datetime>10-08-2011, 4:55 PM</Datetime>
+		<Content>Hello, I have looked through other threads and noticed a lot of comments about brightness fluctuation on Panasonic 2011 plasmas. I would like to get a 42G30 but this is putting me off a bit.... I was jsut wondering how often does this happen and how noticable is it on this model? Is it like once every minute? Or multiple times a minute? or like once every 10 minutes? once an hour? etc? I havnt noticed the problem in the shop and I am not sure what the actual severity / how noticable it really is... Could someone please clear this up for me because it would be much appreciated as it is currently the only thing stopping me buying one...</Content>
+	</Post>
+</Thread>

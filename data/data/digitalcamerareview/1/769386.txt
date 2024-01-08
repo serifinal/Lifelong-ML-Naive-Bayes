@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD vs IXUS</Title>
+		<Username>palmag</Username>
+		<Datetime>12-18-2007, 09:28 PM</Datetime>
+		<Content>Hi everyone, I'm looking at purchasing a camera after Christmas, and after looking at online retailers I noticed that the American Canon's models begin with SD xxxx and often they are not the corresponding IXUS number available here. Does any one know if there are any variances between SD to corresponding IXUS models, what I'm trying to get at is whether or not there may be certain features available to the SD range not available to the IXUS range and vice versa. The models I'm interested in are SD850is => IXUS 950 SD870is => IXUS 860 SD950IS => IXUS 960 Before anyone asks, I'm purchasing from US because of price differences! please feel free comment</Content>
+	</Post>
+</Thread>

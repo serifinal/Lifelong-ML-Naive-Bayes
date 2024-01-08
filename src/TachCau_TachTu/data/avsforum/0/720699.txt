@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Amazon price a steal?</Title>
+		<Username>greyscalefade</Username>
+		<Datetime>03-31-08, 08:50 PM</Datetime>
+		<Content>Hi all - I was literally within days of pulling the trigger on the Samsung FP-T5084 when this new model, the PN50A550 showed up - and at nearly the exact same price point. I see that the contrast ratio is double (30,000:1) but aside from that I don't know much else about it. I know there is a PN50A550 owners thread but there hasn't been any direct comparison between these two models. Which should I go for? Thanks!</Content>
+	</Post>
+</Thread>

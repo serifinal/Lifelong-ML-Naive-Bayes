@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>~~~~~Apple iPad Data Plan & MicroSIM Cards~~~~~ All you need to know</Title>
+		<Username>Vladimir356</Username>
+		<Datetime>01-27-2010 05:29 PM</Datetime>
+		<Content>Apple iPad got announced today (Wednesday, January 27th, 2010), along with it's data plan has been announced and its going to be: ~$30 a month for unlimited ~$15 a month for 250mb -Activatable/Purchasable directly on the device (Possibly through a portal) -All plans are prepaid (AT&T GoPhone) -All Plans include free of AT&T Hotspots The iPad comes unlocked so that it can be used on any standard 3g network (No 3g when using T-Mobile, They didn't follow 3G standards unlike Apple) The iPad uses a new standard for SIM Cards called "MicroSIM" which will be rolling out across all US GSM networks very soon as devices that require them become publicly available ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ So, do you think there will be someway to get this on other GoPhones or even maybe the iPhone? What about Tmobile Adopting such a Data Model?</Content>
+	</Post>
+</Thread>

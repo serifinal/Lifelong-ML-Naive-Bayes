@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>virgin samsung link on bestbuy site</Title>
+		<Username>gordon1111</Username>
+		<Datetime>07-19-2009 03:04 AM</Datetime>
+		<Content>http://www.bestbuy.ca/catalog/prodde...7&catid=20159# enjoy gordon1111</Content>
+	</Post>
+</Thread>

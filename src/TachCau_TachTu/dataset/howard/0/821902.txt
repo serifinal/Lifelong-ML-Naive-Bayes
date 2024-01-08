@@ -1,0 +1,5 @@
+omnia 2 amoled backlight off ? .
+i figured the whole point of amoled is low power usage meaning because it 's got such great contrast/brightness , you do n't need a backlight .
+if i do n't turn on backlight , it 's just way too dim for daylight use even in the brightest setting .
+is this what you guys are experiencing as well ?
+so you end up using backlight anyways ?

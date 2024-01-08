@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant for T-Mobile on Sale | Best Deal | FREE SHIPPING</Title>
+		<Username>bigtreofan</Username>
+		<Datetime>07-26-2010 10:50 AM</Datetime>
+		<Content>Samsung Vibrant for T-Mobile on Sale for $99.99 Today!</Content>
+	</Post>
+</Thread>

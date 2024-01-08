@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Audyssey Multi EQ + Dynamic Eq vs. Multi EQ XT</Title>
+		<Username>sbeveraggi</Username>
+		<Datetime>07-28-08, 08:25 PM</Datetime>
+		<Content>I'm looking at 2 receivers with different Audyssey features. 1) Multi EQ + Dynamic EQ 2) Multi EQ XT Would you sacrifice the higher resolution equalization filters and 2 extra room position measurements in the XT version to get Dynamic EQ? Looking forward to hearing your opinions!</Content>
+	</Post>
+</Thread>

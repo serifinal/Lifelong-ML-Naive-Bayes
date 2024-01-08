@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Confused about Panny model numbers</Title>
+		<Username>smallangryboy</Username>
+		<Datetime>05-01-2012, 3:25 AM</Datetime>
+		<Content>Can anyone help clarify the differences in release dates and performance between: TXP...G10 THP...Z81 Cheers!</Content>
+	</Post>
+</Thread>

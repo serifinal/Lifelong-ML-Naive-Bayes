@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD dvd PQ: PS3 vs. Samsung 2550 vs. Panasonic BD35/55 vs. Oppo 983/981 vs. Tosh7990</Title>
+		<Username>bloomcounty</Username>
+		<Datetime>11-23-08, 12:04 PM</Datetime>
+		<Content>Three sections/questions I'm hoping to get some help with... All in regards to playing on a hidef display... 1. I'd love to get ratings on these players when it comes to SD dvd PQ: (Scale of 1 to 10) PS3: Samsung 2550: Panasonic BD35/55: Oppo 983: Oppo 981: (And if anyone can provide screen captures or images or something of any/all of the above displaying the same SD dvd, that would be awesome!) I will most likely be getting a Panasonic 50PZ800U hidef display... 2. Please also rate the first three above in regards to bluray PQ (if you know -- I also posted in the Bluray forum to ask about this though...). 3. I have a Toshiba SD-7990 SD dvd player (specs, which says it does 480p, 720p, 1080i, and 1080p HDMI upscaling -- and also says it has the DCDi by Faroudja -- I don't know if that's just for deinterlacing or if that's actually the chipset?). How will this rate in comparison to upscaling SD dvd to the players listed above? The Oppo 981's deinterlacing is listed as being done by the DCDi by Faroudja (but I don't know if the Toshiba actually has the Faroudja chipset). Any help is appreciated? Thanks!</Content>
+	</Post>
+</Thread>

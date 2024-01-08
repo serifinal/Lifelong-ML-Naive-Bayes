@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How much ram does samsung wave have?</Title>
+		<Username>belayson</Username>
+		<Datetime>08-05-2010 05:55 PM</Datetime>
+		<Content>I've never really seen a concrete answer for this and no website seems to really have this recorded in the specs section. Just wondering if anyone here might know?</Content>
+	</Post>
+</Thread>

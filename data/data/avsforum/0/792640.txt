@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>ljtellef</Username>
+		<Datetime>09-30-08, 09:50 PM</Datetime>
+		<Content>Hello, I noticed today on the Best Buy website that the Elite's were on sale for 5% off ($325). I was under the impression Elite were never on sale and the warranty would only apply if you purchased the TV at a retail store? I called another local store (Star Power) who said they were having a Pioneer sponsored event where you get a 50" Samsung for FREE if you purchase an Elite plasma. I called Best Buy to ask if the event was happening their and they said no. They would give me $1,000 credit toward a 2nd TV if I wanted OR they would take $1,000 off the Elite. Is this too good of a deal to pass up? A 60" Elite PRO-151FD for $5,500? Or is Pioneer going to drop the price again due to the economy and poor sales and I should wait until Christmas or the Super Bowl for a better deal? BestBuy wanted me to buy a 4 year warranty for $780! Does anyone know of a 3rd party insurance that would be just as good? Is it better to buy the warranty from the place you bought the TV? Thanks! LarryT</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 42PX60 owners thread - Post Here</Title>
+		<Username>mentos</Username>
+		<Datetime>03-03-2006, 4:36 PM</Datetime>
+		<Content>hi all recieved my new panny today.here are some pics for you.plz note i have not turned on or anything yet.</Content>
+	</Post>
+</Thread>

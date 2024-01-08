@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Terminator 2 DVDs vs WMV-HD vs Blu-ray comparison PIX</Title>
+		<Username>msgohan</Username>
+		<Datetime>05-10-08, 12:19 PM</Datetime>
+		<Content>Terminator 2 - 2 DVDs vs WMV-HD vs Blu-ray Screenshot Comparison Updated and expanded from my previous comparison in the large Blu-ray screenshot thread... It'd be great if Xylon or someone could provide matching HD DVD screens of 0-19-54;01 and 0-25-08;04. *hint* Discuss?</Content>
+	</Post>
+</Thread>

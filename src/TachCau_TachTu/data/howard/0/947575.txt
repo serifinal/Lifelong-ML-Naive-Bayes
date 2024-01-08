@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>i8350 Pre-Purchase Questions</Title>
+		<Username>99Vert</Username>
+		<Datetime>09-18-2009 10:34 AM</Datetime>
+		<Content>I have been around here for years and I know the challenges for the other BB. Though I havent been 'caught' up with the latest I would like to know if anything has changed since the 7700 BB with respect to the challenges it had on Boost's network. 1. Does text work like any other phones? 2. Does email work like any other phones? 3. Internet?? 4. DC works Im assuming Im assuming there is no BIS capabilities so I won't as that question. Do you need to get service books and jump through hoops to get it to work? All I want to do is have a good qwerty phone on Boost without making crazy mods. I have the i9 now.. Thank you in advance for your help. It really means a lot. Visit a site dedicated toward NY firearm owners; www.LongIslandFirearms.com</Content>
+	</Post>
+</Thread>

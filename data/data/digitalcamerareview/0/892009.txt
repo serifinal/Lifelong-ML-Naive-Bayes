@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Super Macro</Title>
+		<Username>Litespeed</Username>
+		<Datetime>07-03-2009, 05:01 PM</Datetime>
+		<Content>I just bought a Canon SX10IS a couple of months ago. I know how to get to the Super Macro mode but just can't figure out what is so Super about it. I'm not that good with cameras so any clue you can give me as to what I need to do would be most appreciated.</Content>
+	</Post>
+</Thread>

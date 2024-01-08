@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Printing from Canon Xsi on Polaroid Pogo</Title>
+		<Username>photo_pk</Username>
+		<Datetime>01-31-2010, 06:59 PM</Datetime>
+		<Content>Hi, I have a canon Xsi and I am trying to print from the camera to the polaroid pogo printer. I can print from the camera but I am unable to crop/trim the image before printing. The trimming button is grayed or disabled. I can't select the trimming option. kindly help. also since you can only print on pogo printer from the camera can I crop the picture on the PC and load it back to the camera so that then I can use the camera to print on the pogo? kindly help Puneet</Content>
+	</Post>
+</Thread>

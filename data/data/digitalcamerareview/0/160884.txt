@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD800 IS software?</Title>
+		<Username>phonevoice</Username>
+		<Datetime>04-27-2007, 03:31 PM</Datetime>
+		<Content>I just got my 800 IS from Beach. Wow.. I ordered it yesterday with free shipping and it was here by 1 PM. packaged beautifully. That is great service !! My question is I am wondering if I should install the software or just use my card reader to transfer pictures and videos? Thanks.</Content>
+	</Post>
+</Thread>

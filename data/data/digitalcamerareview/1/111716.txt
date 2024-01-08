@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>lens choice</Title>
+		<Username>dslman</Username>
+		<Datetime>02-19-2010, 09:10 AM</Datetime>
+		<Content>hello, i'm a newby here on the camera forums. Can someone give me an idea of what would be a good choice of lens/lenses for outdoor motorsports pics {moto x}. I have a Canon Rebel T1i and want to take pics of some motox friends. Any suggestions will really be helpful starting out. Thank you.</Content>
+	</Post>
+</Thread>

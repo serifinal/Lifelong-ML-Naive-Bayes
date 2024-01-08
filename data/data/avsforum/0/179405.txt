@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Fusion 5 vs. Fusion 7 vs. New LG Chip?</Title>
+		<Username>Trip in VA</Username>
+		<Datetime>03-27-08, 03:09 PM</Datetime>
+		<Content>Hello all: While I know the new LG chip found in the DTT900 is far superior to the Fusion5's LG chip, I don't know where the Samsung chip now used by the Fusion7 stacks up. Has anyone done any performance comparisons to tell? Also, does anyone know if there are any USB tuners that contain the new LG chip? Thanks. =) - Trip</Content>
+	</Post>
+</Thread>

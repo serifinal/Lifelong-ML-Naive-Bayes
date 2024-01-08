@@ -1,0 +1,4 @@
+arcsoft tmt play everything in vmc .
+can i make vista media center play all files via tmt ?
+for example , all m2ts play with tmt , all iso 's with tmt , all mkv 's with tmt .
+is such a thing possible ?

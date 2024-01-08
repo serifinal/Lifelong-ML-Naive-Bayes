@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>RS20 buyers - what screen are you planning to use with it?</Title>
+		<Username>rich wu</Username>
+		<Datetime>10-25-08, 02:58 AM</Datetime>
+		<Content>I am in the first group of the RS20 pre order and I just wanted to get some idea on what screen other RS20 owners are planning to using with this projector. I would like to know the size, gain, aspect ratio and brand/model. As for me, I am leaning towards a motorized Stewart ST130 100 to 110", gain 1.3, 16:9. Thanks, Rich</Content>
+	</Post>
+</Thread>

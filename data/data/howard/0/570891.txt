@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BNIB SEALED Apple iPhone 4 16GB **FACTORY UNLOCKED**</Title>
+		<Username>McLaren_F1</Username>
+		<Datetime>08-01-2010 01:26 AM</Datetime>
+		<Content>BNIB iPhone 4 Black 16GB FACTORY UNLOCKED $900 OBO Located: Downtown Toronto</Content>
+	</Post>
+</Thread>

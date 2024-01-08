@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung Galaxy S Vibrant</Title>
+		<Username>kmacsouris</Username>
+		<Datetime>06-29-2010 12:27 AM</Datetime>
+		<Content>So this phone is coming to Bell sometime next month. The T-Mobile version (also called Vibrant) will have a led flash. What are the odds that the Bell version will to? I will say I'm not a big fan of Samsung as they never seem to offer updates for their phones. But the screen size and specs on this phone look sweet...enough to make me add it to my list of possible phones to get</Content>
+	</Post>
+</Thread>

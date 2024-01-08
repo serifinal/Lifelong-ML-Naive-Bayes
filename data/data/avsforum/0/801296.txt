@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>All Hat Channel is NOT Created the Same</Title>
+		<Username>Ted White</Username>
+		<Datetime>09-23-08, 01:44 PM</Datetime>
+		<Content>http://www.soundproofingcompany.com/...nt_sound_clips Don't just buy what a local distributor tells you will work...</Content>
+	</Post>
+</Thread>

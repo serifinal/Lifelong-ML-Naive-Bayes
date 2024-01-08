@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Please: How do you see Canon EF 70-200mm f/4 L IS USM ??help help</Title>
+		<Username>sharif_al</Username>
+		<Datetime>08-21-2009, 04:57 AM</Datetime>
+		<Content>Hi please help me in finding the answers: i need the following lenses : 1)) ONE LENSE WITH EXCELLENT COLORS ,......etc. for wedding parties, portraits , wide angles,.... 2)) what about this Canon EF 70-200mm f/4 L IS USM for telephoto and sports action</Content>
+	</Post>
+</Thread>

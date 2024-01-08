@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Decision Help - Sharp, Toshiba, Samsung LCDs vs Pana Plasma</Title>
+		<Username>upsidedn</Username>
+		<Datetime>12-21-08, 11:20 PM</Datetime>
+		<Content>I work for a company with a rewards program and have enough points for my first flat panel. I view from about 8.5 - 10 feet away, and have enough points for a 42" set. My choices are Toshiba LCD 42XV540u Sharp LCD CD42D65U Pana Plasma TH42PX80u Hitachi Plasma P42A202 My input sources are standard DVD player, and HD Cable (RCN). I tend to watch movies on cable and DVD. I suppose at somepoint I will upgrade to Bly Ray. I have read a lot of threads, and seem to have narrowed down to the Pana or Toshiba. I have also read the 720p vs 1080p thread. If "money" was not object and these were your choices which would you get. If the Pana "cost" 1/3 less than the Toshiba which would you get? I like the sound of the Toshiba as it has all the latest and greatest features (120hz, etc). But many people on this forum really love the PANA even though it is 720p. Thanks for input.</Content>
+	</Post>
+</Thread>

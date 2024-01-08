@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic plasma TV TX-P50U30- problem</Title>
+		<Username>roy alexander</Username>
+		<Datetime>09-07-2011, 9:05 AM</Datetime>
+		<Content>My problem is that when showing a video and selecting 4X3 aspect or when an old movie is shown on a TV chanel and is shown as 4X3 the unused sides of the TV screen is displayed as Light grey which is very distracting. Every other TV I have shows the unused sides as Black. I am almost sure when I first bought this plasma TV it did show the sides as Black. I can't find any reference to this in the Manual nor in the menu of the TV. Can this colour at the sides be changed back to black, and if so how. The TV set is only a month old and everything else is fine. Any help will be most welcome.</Content>
+	</Post>
+</Thread>

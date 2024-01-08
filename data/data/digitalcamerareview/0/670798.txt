@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot A640 Digital Camera Review Discussion</Title>
+		<Username>AKAJohnDoe</Username>
+		<Datetime>12-08-2006, 01:00 PM</Datetime>
+		<Content>The 10 megapixel Canon Powershot A640 features a 4x optical zoom and a flip-out rotating LCD. The A640 is perfect for people who like a comfortable grip and a fully-featured camera that won't break the bank. Read on for our full review.Read the full content of this Article: Canon Powershot A640 Digital Camera Review</Content>
+	</Post>
+</Thread>

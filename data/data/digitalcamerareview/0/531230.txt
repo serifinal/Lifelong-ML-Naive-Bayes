@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon SX10-IS LCD Monitor problem!</Title>
+		<Username>hiloguy</Username>
+		<Datetime>05-20-2011, 10:44 PM</Datetime>
+		<Content>I just bought a like-new SX10-IS and something isn't right. When I open the monitor a few degrees, it changes the display setting just as if I had pressed the DISP button. When the monitor is fully opened and facing back, the image appears upside down. Changing the ?Auto-Rotate? from on to off makes no difference. Also, when the monitor is fully opened, the menu button doesn't bring up the menu. Everything is normal with the monitor closed. Any ideas here? I've used other cameras with a 270-degree monitor and they just automatically flip the image so it's right-side-up, and they certainly don't change monitor setting when opened. Did I get a bad camera or am I not getting something here?</Content>
+	</Post>
+</Thread>

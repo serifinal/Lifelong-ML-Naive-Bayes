@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What is a Pioneer KRP-600P??</Title>
+		<Username>samsa</Username>
+		<Datetime>02-06-2011, 5:21 PM</Datetime>
+		<Content>Hi guys, I'm right in the middle buying a used Pioneer KRP-600. As far as i know there are two models the "A" (with the media box) and the "M" (just the screen). But the seller has sent me a photo of the label and it reads "P". Can anyone help with with what version that is? The serial number start with HKUK, might it be a UK version. (I live in Austria). He is offering the the TV with the media box, so it actually should be the "A" model. I'm going to drive to take a look at the TV next week, any tips on what to watch out for? Thanks for the help</Content>
+	</Post>
+</Thread>

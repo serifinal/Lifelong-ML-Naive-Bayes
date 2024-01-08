@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Huawei U1250 and Samsung Gravity Microsoft Outlook Contact Sync</Title>
+		<Username>2000impreza</Username>
+		<Datetime>06-26-2010 07:03 PM</Datetime>
+		<Content>Can anyone confirm if the Huawei U1250 or Samsung Gravity can sync contacts with Microsoft outlook? I'm downgrading my plan so looking for a basic phone that can sync contacts at a minimum. Thanks, Roland</Content>
+	</Post>
+</Thread>

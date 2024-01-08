@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic plasma G30 skin blurring problem</Title>
+		<Username>crimbo29</Username>
+		<Datetime>21-02-2012, 10:02 AM</Datetime>
+		<Content>hi everyone, can anyone help me out there? bought a panny g30 50 inch last week. what's going on with skin tones?? there is a very noticeable "blurring" every time a character turns their head. i previously had a G10 and noticed the same issue, albeit to a lesser degree. can anyone tell me what this is, will it go away through time, is their an ideal picture setting to minimise it? any replies greatly appreciated</Content>
+	</Post>
+</Thread>

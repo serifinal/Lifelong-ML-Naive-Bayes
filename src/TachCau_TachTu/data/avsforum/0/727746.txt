@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help BURN IN.</Title>
+		<Username>kamiraa</Username>
+		<Datetime>08-24-08, 12:22 AM</Datetime>
+		<Content>I bought a pioneer 5010 about a week back. The manager of the store said it was fresh out of the box, never used as a display unit. But, I figured it had been a display unit at one point in time. So I never did a dvd burn in. The picture is always perfect. I just got home from a trip and attempted to use my laptop hooked up to the tv using a dvi cable. I watched some youtube videos for the last 20-30 minutes. when I turned the laptop off and went to other inputs I could still see the task bar on the dark screen, it is very subtle, but I know it shouln't be there. Will this just go away as I watch other shows tommorow. Is it burned in? What can I do to fix it? No more laptop for this plasma? Should I run the dvd burn in, or is this common with any image displayed for 20-30 minutes on the screen?</Content>
+	</Post>
+</Thread>

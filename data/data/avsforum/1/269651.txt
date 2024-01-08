@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Opinion on Bose Acoutimass 10 series III</Title>
+		<Username>jcampy</Username>
+		<Datetime>07-10-08, 05:06 PM</Datetime>
+		<Content>Many years ago I thought this was the best speaker system for surround sound, but it may be different today. I always have had a hard time hearing the high end sounds and thought these were a very bright speaker if that's the right term for it which made them appeal to me. I always seem to have to crank up the volume to hear the highs and my wife was always telling me it's too loud. A local guy is selling a new system for $650 which I think is a pretty good deal, I think it's a series 3 because it has a powered subwoofer and the center channel speaker is a double cube, but I may be wrong. Do you think I should go for it or is there another system I should look at in that price range. Reviews seem to be mixed but that was based on the system costing $1000.</Content>
+	</Post>
+</Thread>

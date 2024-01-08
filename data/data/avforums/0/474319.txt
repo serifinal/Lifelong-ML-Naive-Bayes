@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TXP42GT20B TV wont play videos from an HDC-SD700 camcorder (using SD Card)</Title>
+		<Username>Carrie88</Username>
+		<Datetime>26-01-2012, 11:25 PM</Datetime>
+		<Content>Hi, I've just bought a Panasonic TX-P42GT20B (bargain from Harvey Norman). Its a 2010 model but still a great TV. Well apart from the problem that I'm having and its so so annoying, and the only major disappointment this far with it...and thats it wont play videos recorded by my Panasonic HDC-SD700 camcorder (also 2010 model). The camcorder uses SD cards and when I insert any of SD cards into the TV and go to the media player, choose video I get the error message "No Valid File to Play". The weird thing is that my dad has a slightly older Panansonic TV and inserting the same SD card in his works just fine - it can play all the video content no problem from the SD card direct. I've recorded at 1080/50p. Other things I've tried: - It can read JPGs (whoopy do!!) - I've tried putting the SD card into a USB reader - same result - I've updated the firmware on the TV to 2.810 - still no joy - Connecting the Camcorder to the TV via HDMI works fine - but thats not the solution I'm after. Does anyone have any other suggestions (other than doing conversions etc on the file), I just cant believe that these 2 Panasonic products arent compatible. The official documentation reads like it supports the file format and thats not even starting about so called 'Viera Link' compatibility. So maybe its a fault with the TV?? Any ideas / suggestions would be so welcome. Thx Carrie</Content>
+	</Post>
+</Thread>

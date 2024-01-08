@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Engadget review of Nexus One: They prefer the Droid</Title>
+		<Username>catchmyjetta</Username>
+		<Datetime>01-05-2010 09:24 AM</Datetime>
+		<Content>The engadget review of the nexus one was kind of a letdown. http://www.engadget.com/2010/01/04/nexus-one-review/ I did find this comment near the end interesting "It's a good Android phone, but not the last word -- in fact, if we had to choose between this phone or the Droid right now, we would lean towards the latter." Surprising comments. Something I was not expecting.</Content>
+	</Post>
+</Thread>

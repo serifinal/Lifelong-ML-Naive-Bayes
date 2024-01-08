@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Adding data to one line of a family plan for droid</Title>
+		<Username>samadam</Username>
+		<Datetime>10-28-2009 01:00 PM</Datetime>
+		<Content>Now, I am sure someone can point me to an answer for this, but I tried searching and had no luck. My family has a Nationwide Select Family SharePlan with 4 lines. I am not on the plan; I have Sprint SERO. What's the cost/possibility of adding me to the family plan, with data for the Droid? I'm the only one on the family plan who needs data. Will it just be the cost of one more line ($10) plus the $30 for the data?</Content>
+	</Post>
+</Thread>

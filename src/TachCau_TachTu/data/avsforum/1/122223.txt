@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Buy the panasonic pz85 or wait for the Pz800</Title>
+		<Username>noisy123_madison</Username>
+		<Datetime>03-01-08, 02:55 PM</Datetime>
+		<Content>I posted this in the lineup thread but I thought it might be more useful as a new thread. There does seem to be a lot of interest in this subject. Does anyone know how this year's pz85 series speakers compare to last year's pz700 series? The 800 series has the upgraded shades of gradation. How big of a deal is this? Is there really a strong reason to believe that false contouring with the upgraded contrast ratio will be an issue? Last question, or at least a solicitation for advice. I currently have a CRT and an old pioneer 5.1 system. I am weighing the options: I can get a pz85+ Onkyo 605 + and set of speakers (probably onkyo ht420's) or a pz800 within my budget, what would you do?</Content>
+	</Post>
+</Thread>

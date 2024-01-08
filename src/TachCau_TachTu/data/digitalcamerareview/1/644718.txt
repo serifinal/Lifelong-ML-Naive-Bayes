@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New S5 IS Memory Question</Title>
+		<Username>spdracer</Username>
+		<Datetime>08-14-2008, 08:51 PM</Datetime>
+		<Content>Hi Folks; I'm new to this camera and to the forums. I want to buy a higher capacity sd card and was wondering if a sdhc card is used for movie shooting only or are they good for pictures as well? Thanks. Taking the camera out tomorrow for my first serious outing. Can't wait,seems like an awesome unit.</Content>
+	</Post>
+</Thread>

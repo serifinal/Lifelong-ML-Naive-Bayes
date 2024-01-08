@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Telus iPhone4 and Jailbreakme.com</Title>
+		<Username>Synergie1</Username>
+		<Datetime>08-03-2010 10:33 AM</Datetime>
+		<Content>...will that website work to jailbreak a Telus Iphone4? What firmware version does the Telus one have? Okay, I have always been a Blackberry user and WinMo devices before that. I know those devices inside and out (including hacking WinMo devices to death) but I know nothing about iphones. In fact, I have always stayed away from iphones because of no multitasking, no today screen, etc. (even though I am a Macbook pro user - so nothing against Apple per say) Anyway, I was playing with someone's new iphone4 and the screen looks sweet, as does the new form factor and liking the front facing camera too. How easy is it to jailbreak this phone? Because being able to install Intelliscreen is pretty much the deal breaker for me. Can I use jailbreakme.com? I know nothing about how to jailbreak or even where to start.... or even how to install apps that aren't in the appstore for that matter and every tutorial I read involves about 300 steps.</Content>
+	</Post>
+</Thread>

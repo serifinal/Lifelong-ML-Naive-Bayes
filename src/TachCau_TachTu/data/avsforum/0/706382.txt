@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>jsg22</Username>
+		<Datetime>06-26-08, 09:49 AM</Datetime>
+		<Content>I recently purchased a 46" Sony V4100 which seems to have a dramtic case of the "sparkles". I bought the TV at CC, so I have 20+ more days before I have to return it. I went to CC today to view their sets to see if the sparkle issue showed up there. It was much less of a problem on the display sets and something that I could live with. I guess I got a bad apple. I can either return the V4100 for the same model OR I can upgrade to a W4100 or possibly a Toshiba XV540U. Unfortunately I haven't been able to see the Toshiba locally and would need to order it online. My questions are: What are the real gains by stepping up to the W4100 from the V4100? Is it enough to justify the cost difference. I don't want to have buyers remorse, so if the 120hz technology is better and will be useful in the future, I don't mind paying a bit more. More importantly, has anyone viewed the Sony 4100 models next to the Toshiba XV540U? Has anyone owned both? What were your opinions based on PQ and sound quality? Are they as good as the Sonys? I can get the XV540U cheaper than the W4100 and it has a 10-bit panel (supposedly Samsung) and is 120hz as well. Are Toshibas reliable? I hate making a purhase site unseen. For the record, I love the PQ of the Sony sets and don't care for the gloss screens of the Samsungs and their lackluster sound. The clock is ticking on my return period. Any opinions would be appreciated.</Content>
+	</Post>
+</Thread>

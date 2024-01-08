@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>line of the bottom of the video at top of screen</Title>
+		<Username>jjmcl15</Username>
+		<Datetime>12-10-08, 10:14 PM</Datetime>
+		<Content>On my plasma TV, for the last few weeks whenever I watch a channel on HD, there's a line of the bottom of the video/tv show displaying at the top of the screen, just under the black bar. It wasn't like this before, and this only happens on all the HD channels, not the SD ones. I'm guessing this is a problem with the feed with Shaw Cable(Canadian version of Comcast), not my television. I'm using the Shaw HDPVR box. Is there any way of fixing this, or do i have to phone a Shaw person to come over? Thanks.</Content>
+	</Post>
+</Thread>

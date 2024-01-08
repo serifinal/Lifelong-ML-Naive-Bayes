@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>hello, i need some help (rebel xsi)</Title>
+		<Username>wasteland66</Username>
+		<Datetime>12-05-2008, 01:17 AM</Datetime>
+		<Content>I just recently purchased this camera after a month of researching. i am very new to the photo world but would like to get into it. My problem is that when i have my camera (canon rebel xsi) in auto focus when i push the shutter button down haft way the flash will go off like 10 times then say busy, so i push it down all the way after it does all that it dosent take the shot thoe, now this it gets weird when i hold the camera upside down in the same mode (autofocus) it will take the photo just fine. now when i hit the af button on the camera itself it has options "one shot"Ai focus" and "ai servo" when i put it on ai servo it will do it fine but i would like it on one shot please help if yall have any clue</Content>
+	</Post>
+</Thread>

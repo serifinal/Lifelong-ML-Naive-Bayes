@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung LN52A650 Setup/Calibration???</Title>
+		<Username>shockt327</Username>
+		<Datetime>06-24-08, 08:18 PM</Datetime>
+		<Content>I just got this TV and I can't seem to find a thread on how to properly set it up or calibrate. Is there anything I should do before I hook up it and turn it on? Or can I just start watching TV right now (btw I already have Hi-def and have had it for several years w/ my old DLP). I know the first 100 hrs are crucial for plasma TVs, is it similar for LCDs?</Content>
+	</Post>
+</Thread>

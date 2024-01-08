@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Online Photo Sharing Service Roundup at Cnet</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>12-16-2005, 09:38 AM</Datetime>
+		<Content>Cnet has posted a 4 page article outlining the features, user experience rating, file types accepted for just about every photo sharing/printing site out there. http://reviews.cnet.com/4520-6451_7-6245115-1.html</Content>
+	</Post>
+</Thread>

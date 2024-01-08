@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Support long colums for Pioneer PDP434-HDE Table Top Stand</Title>
+		<Username>Costas</Username>
+		<Datetime>15-06-2011, 7:21 PM</Datetime>
+		<Content>I have been using this plasma for years now in a second room. We are now making some changes and it will go yet to another room. However, there is a space limitation and I want to move the plasma speakers from the sides and attach them at the bottom of the display. I have the supplied brackets for installing them like this, but I have discarded the longer support colums required for the PDK-TS04 table top stand that will allow for this speaker position. Has anyone who has/had a 434 plasma still have this longer support column and who does not need them? If needed I can pay something towards them. Thanks in advance.</Content>
+	</Post>
+</Thread>

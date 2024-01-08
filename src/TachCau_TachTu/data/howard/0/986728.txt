@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rogers SMTP outgoing server question</Title>
+		<Username>Stonejaw</Username>
+		<Datetime>04-08-2010 07:17 PM</Datetime>
+		<Content>So I am trying to setup my defaul Email app on my Nexus One. I am trying to get my shaw email to work. I am using pop.shaw.ca for incoming, and I am using smtp.broadband.rogers.com for outgoing (I do have wifi turned off) Now I can recieve my emails no problem but I cant send any, it always says connnection error. Is there a better SMTP outgoing server I should be using? Also when trying to use the standard shaw outgoing for when using wifi it wont even get past the setup part. Thanks!</Content>
+	</Post>
+</Thread>

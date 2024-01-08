@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Model numbers desired for multi system dual voltage televisions</Title>
+		<Username>DelsFan</Username>
+		<Datetime>04-02-2009, 6:08 PM</Datetime>
+		<Content>I am an American living in Belgium, moving to Munich soon. I think I've settled on purchasing a Panasonic 42" plasma television, something like the Panasonic TH42PX80 (or PZ85 or PZ800). If I'm to invest "real" money in a new HD television I need it to be dual voltage and have the ability to display pictures from both PAL and NTSC signal sources. When I look at the web sites of people who sell multi-system dual voltage equipment in the States (which will do me no good, because I'm in Europe) the Panasonic model numbers start with PV instead of PX (720p) or PZ (1080p). Does anyone have experience with a set with a model number like TH42PV80 (or 85 or 800)? Are they dual voltage and multi-system? Also, another poster seemed to think the PV sets did NOT refresh at 100Hz (and, I guess they would also have to have the capability of refreshing at 120 Hz also, maybe they don't and maybe this is why...). Does anyone with a PV set know if their set refreshes at twice their country's cycles? I'd also be interested in model numbers for Sony and Pioneer televisions that are both dual voltage and multi-system, but in truth the Panny seems to be good and I'll be glad to find any good set that meets the above criteria. Thanks very much.</Content>
+	</Post>
+</Thread>

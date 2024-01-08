@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic g10 50 problems</Title>
+		<Username>ron burgandy</Username>
+		<Datetime>10-08-2011, 11:27 AM</Datetime>
+		<Content>hi all i bought a panasoinc g10 50" from sound and vision in bolton in jan 2010 with a 5 year garantee. i use it with my sky hd box on a atacama pole stand my tv has now developed a loud electronic buzz which seems to be getting louder. i phoned sound and vision to find out that the original company i bought the tv off has gone bust and the new owners are not hounouring the warrenty. where to i stand with this the problem with the tv is really annoying but to be told it is not covered by anyones warrenty has really annoyed me. is this problem common with these tv's?</Content>
+	</Post>
+</Thread>

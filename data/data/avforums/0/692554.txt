@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GT30 Convert 2D to 3D</Title>
+		<Username>Sportsguy7</Username>
+		<Datetime>28-06-2011, 5:02 PM</Datetime>
+		<Content>The manual shows that you can convert 2D to 3D but no matter what settings I select, the 2D-3D option is grayed out. I must be doing something wrong. Any help would be appreciated. Marty Rahn</Content>
+	</Post>
+</Thread>

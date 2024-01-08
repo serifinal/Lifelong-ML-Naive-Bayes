@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Which is Better: Sony 40w4100 or Sammy 40a650??</Title>
+		<Username>Pescadito</Username>
+		<Datetime>05-19-08, 04:10 PM</Datetime>
+		<Content>Well, im all set to pull the trigger on my new TV purchase. I was set on the Sammy but I found out today that I can get the Sony W4100 for about $50- more. I know the Sony is newer, but in reality which is better?? I have read the Cnet review about the A650's and I know they are terrific tv's, but i cant help to think that the Sony is very good too. I know it does not have a 10 bit panel (I hate that) but besides that, what would you get?? I need to make my decision today before they run out of stock. Please help!!......</Content>
+	</Post>
+</Thread>

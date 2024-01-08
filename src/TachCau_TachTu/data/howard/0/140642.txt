@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Behold II (probably Vibrant) USB tethering guide</Title>
+		<Username>Scottish Skyedance</Username>
+		<Datetime>07-27-2010 04:28 PM</Datetime>
+		<Content>This is confirmed to work with Behold II, but it should work with Vibrant too. Here is the steps: 1. download and install Samsung Kies Suite http://org.downloadcenter.samsung.co...1.10071_32.exe 2. change USB mode to Samsung Studio (or Kies on Vibrant) when you're ready 3. setup dial-up networking modem: Samsung mobile modem number: *99# 4. connect If you use 3G router, you just run step 2 and connect to router (you may need to do some extra steps in router setup by using epc.tmobile.com or internet2.voicestream.com as APN. Here is speedtest.net result when using T939 (Behold II) as modem using webconnect SIM The speed is definitely HSPA 7.2/2.0 (after 3 tests).</Content>
+	</Post>
+</Thread>

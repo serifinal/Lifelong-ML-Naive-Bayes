@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon powershot G7 - Rattling sound</Title>
+		<Username>kkcamera</Username>
+		<Datetime>01-03-2008, 08:03 AM</Datetime>
+		<Content>Hi, I bought Canon powershot - G7 recently. The qulaity is superb but I have a small doubt. When the camera is on and ready to shoot..if I move/tilt it horizantally so that the lcd screen goes up and down I observe small crackling sound. The sound is something like hard disk operational sound. is it some kind of problem....thanks a lot in advance</Content>
+	</Post>
+</Thread>

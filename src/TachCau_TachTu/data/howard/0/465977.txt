@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Laurence Kim Peek aka the Real Rainman has passed away</Title>
+		<Username>holaDude</Username>
+		<Datetime>12-29-2009 11:34 AM</Datetime>
+		<Content>I had never known that the movie Rainman was based on a real person when the movie first came out. After I saw a documentary on him I was just amazed at his ability to recall the information that he was able to and his ability to function at the high level that he was able to being a savant. I have a great memory and can recall a lot of information but nowhere near what he was able to do. Part of the documentary is on youtube for those hat haven't seen it. http://www.youtube.com/watch?v=k2T45...165274&index=5 In 1988, the film ?Rain Man,? about an autistic savant played by Dustin Hoffman, shed a humane light on the travails of autism while revealing the extraordinary powers of memory that a small number of otherwise mentally disabled people possess, ostensibly as a side effect of their disability.</Content>
+	</Post>
+</Thread>

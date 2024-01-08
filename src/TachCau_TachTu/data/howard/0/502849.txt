@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>WIND Internet Data Server Settings?</Title>
+		<Username>JimCanuck</Username>
+		<Datetime>07-26-2010 07:45 PM</Datetime>
+		<Content>Trying to access the Wind network but since my phone is from T-Mobile it has their settings. Anyone know what Wind's settings are? Jim</Content>
+	</Post>
+</Thread>

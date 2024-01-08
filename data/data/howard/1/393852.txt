@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HTC Touch/Vogue - Male Mini USB to Male 3.5MM</Title>
+		<Username>kjmz</Username>
+		<Datetime>03-02-2010 11:08 PM</Datetime>
+		<Content>Does anyone selling this type of wire? I'm looking to just plug the phone right into the auxilliary input on my car receiver. I don't want to be buying two cords, I just would like the one.</Content>
+	</Post>
+</Thread>

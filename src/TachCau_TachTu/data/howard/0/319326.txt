@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Enhancing Optik TV in limited regions</Title>
+		<Username>Guest 113</Username>
+		<Datetime>06-29-2010 10:04 AM</Datetime>
+		<Content>Now, some new Optik TV and Optik High Speed clients will be able to watch or record4 live TV programs at the same time, with 3 HD & 1 standard definition (SD). Initial coverage of this service profile is limited, but growing to cover a substantial portion of the network over the next year. At time of installation, clients will be provisioned with the best TV available in their area. The coverage for the 3HD profile will initially be very limited but growing to alarge % of Alberta and BC within the next year.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help required in selecting a digital camera</Title>
+		<Username>SUSHMA50</Username>
+		<Datetime>03-08-2009, 02:01 PM</Datetime>
+		<Content>Hi, I am new to this forum and new to digital camera too. I am planning to but a digital camera whose price range is 150-200$. After going through some of the sites and reading the reviews I got an idea that Canon and Sony are the best in Digital cameras. I have shortlisted a few from canon. The options are 1) Canon Powershot SD770 2) Canon Powershot SD790 3) Canon Powershot SX110 4) Canon Powershot SD1100 The reviews for all of them are good but out of the 4 the 3 (SD770,SD790 and SD1100) have an optical zoom of 3X. I am not sure whether 3X optical zoom is good enough. My main use would be taking pictures when I go on trips and on occasions. I am not a photographer In Sony I could not find any good model Can you kindly suggest some options in Sony and which one would you recommend Thanks Sid</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sharp LC-52D85U Reviews?</Title>
+		<Username>albinoazian</Username>
+		<Datetime>12-20-08, 07:30 PM</Datetime>
+		<Content>I have found only two reviews on-line, both seemed to like it, but other reviews are scarce. Anybody purchased one, yet? It is a price I was waiting for the Sony's and Sammy's to come own to for the Super Bowl. I have a Pioneer 1018ahk w/ Energy speakers, so sound isn't important. I have FiOS and will be getting a PS3 for Christmas.</Content>
+	</Post>
+</Thread>

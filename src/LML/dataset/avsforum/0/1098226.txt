@@ -1,0 +1,9 @@
+discrete power on vs power off -- not a toggle -lrb- urc-r50 -rrb- .
+hi , i have a sony xbr , tivo series 3 hd , and a toshiba vcr/dvd combo .
+i have everything working well to control the devices with the urc-r50 , but when i try to make macros to set up activities like watch a dvd , or watch tv , i am having problems with the power .
+what i really need is a discrete power on/power off as opposed to a toggle .
+since the power command just toggles the device on or off , it can easily be in the wrong mode when the macro is started and mess everything up .
+i tried testing the remote with all the factory codes for my devices and even though there is a hard button for on and off , both the on and off buttons can turn the device either on or off .
+is there a way to fix this so the off button will only turn off the device , etc ?
+thanks !
+prh1

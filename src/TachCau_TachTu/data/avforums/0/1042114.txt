@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Joined the PV500 club !!!!!</Title>
+		<Username>Jazz Monkey Jr</Username>
+		<Datetime>07-06-2005, 4:31 PM</Datetime>
+		<Content>My PV500 Wall project A happy man</Content>
+	</Post>
+</Thread>

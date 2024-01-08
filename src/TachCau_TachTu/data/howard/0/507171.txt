@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG Keybo 2 (env3) Memory class???</Title>
+		<Username>bymitten</Username>
+		<Datetime>05-28-2010 02:33 PM</Datetime>
+		<Content>Hello, I just got the LG Keybo 2 (or env3) and it supports up to 8GB micro sd card. I know there are different classes (speeds) of micro sd cards, (class 2, 4, 6, 10) but at what class is the LG Keybo 2 phone capable of? No sense paying more for a higher class if it's not needed. Thanks for any help.</Content>
+	</Post>
+</Thread>

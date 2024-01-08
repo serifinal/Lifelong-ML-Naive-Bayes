@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy Tab I800 release thread</Title>
+		<Username>matrix2004</Username>
+		<Datetime>08-30-2010 08:20 PM</Datetime>
+		<Content>http://www.boygeniusreport.com/2010/...reless-tablet/</Content>
+	</Post>
+</Thread>

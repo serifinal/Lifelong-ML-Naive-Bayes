@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 42PT353 - any good?</Title>
+		<Username>Louis2012</Username>
+		<Datetime>07-07-2011, 2:44 PM</Datetime>
+		<Content>Does anyone have any experiences with this new LG model? I'm in the market for a new entry level Plasma and wondered what the quality of LG Plasmas are like. Can't find any reviews online of 42PT353 so if anyone can give me guidance on LG plasmas it would be much appreciated.</Content>
+	</Post>
+</Thread>

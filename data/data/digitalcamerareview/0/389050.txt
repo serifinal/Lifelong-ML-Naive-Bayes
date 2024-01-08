@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sending Movies</Title>
+		<Username>Zsnake</Username>
+		<Datetime>11-29-2010, 02:52 PM</Datetime>
+		<Content>I just got a SX30 yesterday and already had to call the helpline! The HD chip will not work in my computer....so I have to use the cable. Then, It would not play the short movie I had "taped". Still pictures came out fine. The tech at the company told me that I could not use High Definition Movieson my computer, so he had me take it down to 640x(?). OK, now I can get a movie on my computer....BUT when i try to send same to my sister I get an error message that says I have exceeded the restraints of an attachment. For crying out loud, it was only a three minute video. Anybody able to help me on this??????? Thanks in advance. ~<:Sssssssssssssssnake/""</Content>
+	</Post>
+</Thread>

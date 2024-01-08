@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic PZ85 or PZ800?</Title>
+		<Username>fireroad</Username>
+		<Datetime>09-02-08, 02:27 PM</Datetime>
+		<Content>I'm looking at both of these models in 50" and was wondering: Is the THX mode of the PZ800 worth the extra money (400-500 more)? Other than that both tv's seem just about identical...or is there something else I'm missing? The tv will be in a good sized living room with full widows on the north side (although really only football gets watched during the day). Viewing distance is about 8-10ft. Sound goes through the stereo. We mostly watch Direct TV HD, movies through an Oppo up-converting dvd, and sports (football and hockey). Will be upgrading to Blu-ray once the quality goes up and price comes down. We have to drive 2 hrs to be able to compare sets side by side so any and all comments are appreciated.</Content>
+	</Post>
+</Thread>

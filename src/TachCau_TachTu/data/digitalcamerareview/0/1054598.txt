@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Have A Question Here</Title>
+		<Username>Autolycus</Username>
+		<Datetime>07-02-2010, 04:38 AM</Datetime>
+		<Content>I have a Powershot SX20 IS and for some reason in some of my photos a vertical line appears. What is causing this?</Content>
+	</Post>
+</Thread>

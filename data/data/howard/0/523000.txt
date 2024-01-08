@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Why USCC is The Best Wireless Provider in the U.S.</Title>
+		<Username>dosesdoyle</Username>
+		<Datetime>08-02-2010 05:03 PM</Datetime>
+		<Content>I just got a call from my local USCC Store (Answer Wireless in Crystal Lake) they were contacted by corporate customer support about my post either on here or facebook regarding equipment returns. The manager apologized and said that I can return the Acclaim within the 30 days and activate my old phone and resign my contract as soon as the Desire comes out ( no 90 day waiting period). You can't get that level of customer service from another carrier. Thanks US Cellular.</Content>
+	</Post>
+</Thread>

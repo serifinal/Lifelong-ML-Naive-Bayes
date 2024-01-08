@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic P42ST30 or G30 as first HD tv for parents who only have SD sky/dvds?</Title>
+		<Username>couchsucks</Username>
+		<Datetime>29-11-2011, 2:50 PM</Datetime>
+		<Content>Hello, I'm buying a tv for my parents, they have a Sony 28 inch widescreen CRT tv that they've had for must be 8 years but now the tube is starting to go. They don't have any blu rays and use analogue Sky through a scart lead but could be swayed in the future, so I thought getting them a plasma tv would be good for all the SD content they have but could watch HD freeview in the meantime. Budget is £500-£600 What looks to be best value for money is a Panasonic TX-P42ST30 at £549 from John Lewis as it has a 5 year warranty and that's essential for parents :P Also it seems to have anti-glare coating on the screen, my mum doesn't want something that looks like a big black mirror in the living room. I'm also thinking the ST rather than the S because of the better picture, the family will probably never have any interest in 3D. Panasonic also seems to have the best sound until I research a decent sound system. However, the P42G30 is only £100 more expensive at House of Fraser and I've heard the G series has a better picture and the styling of the actual tvs are better. For some reason the P42GT30 is about £1000 so that's right out of budget range. I could be barking up the wrong tree altogether and another model/series of TVs would be best, can knowledgable people please advise? Thank you!</Content>
+	</Post>
+</Thread>

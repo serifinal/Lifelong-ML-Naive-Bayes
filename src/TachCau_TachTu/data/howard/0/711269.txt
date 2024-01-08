@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>anyone can tell me how i should transfer my iphone photo to my pc?</Title>
+		<Username>danielbay</Username>
+		<Datetime>02-04-2010 09:51 PM</Datetime>
+		<Content>i have thousands of iphone photoes need transfering onto my pc.and sometimes I wanna transfer my camera photos into my iphone for sharing with my friends.I wanna find one software to solve my problem,and I?ve googled it, I think Tansee iPhone Transfer Photo to meet my requirements .i also got some info at here,it can try befor buy,I think the free version is quite good,but I have no idea whether the paid version is as good as the free one. Anyone who have used this software can tell me more detail.thank you!</Content>
+	</Post>
+</Thread>

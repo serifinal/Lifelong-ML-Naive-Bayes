@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Questions before buying 5800/5330 XpressMusic</Title>
+		<Username>puter</Username>
+		<Datetime>11-25-2009 07:34 AM</Datetime>
+		<Content>Hi, I lost my Samsung AT&T phone and am considering Nokia 5530 and 5800. My questions are about 3G and Ovi Store. My phone use is voice, texting, and message with photo. I don't have a data plan. Am I going to be okay with non-3G phone (5530)? To get the mail-in rebate, I have to activate Ovi Store, pressing Ovi Store button on the phone. Is this some kind contract to buy?</Content>
+	</Post>
+</Thread>

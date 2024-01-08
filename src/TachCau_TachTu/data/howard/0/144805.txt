@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone apps have wrong icons ?</Title>
+		<Username>dano_TO</Username>
+		<Datetime>02-01-2010 09:45 PM</Datetime>
+		<Content>Hi guys, I've noticed that the icons for the apps on my iPhone change randomly to that of another app... some of the games and apps on my phone have duplicate icons of a particular app or swap icons with another. I tried searching but can't find a solution ... anyone else having this issue??</Content>
+	</Post>
+</Thread>

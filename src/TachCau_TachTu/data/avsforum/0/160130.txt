@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title></Title>
+		<Username>Stealthlude</Username>
+		<Datetime>02-27-08, 11:39 PM</Datetime>
+		<Content>I bought 2 x TC2000 15" drivers and one TC3000 12" driver. I?ve been playing with my TC3000 (which I am thinking of selling now to fund the box build) and finally got around to doing a box build for the two 15's I have sitting here. I figure I give myself an excuse to buy some new tools but went out shopping and thought I ask before I pull the trigger on a nailer. My original approach was going to use dados or biscuit joints, but others have said glue and nails should be all you need. I really just want to start with one nail gun for now but didn?t know what size to get. I assume most builds here are typically using 3/4" MDF... 18 gauge, 16 gauge, or 15 gauge size? Brad nailer or finishing nails... which one and why? What length nail, straight or angled nailer. Can someone shine some light on this?</Content>
+	</Post>
+</Thread>

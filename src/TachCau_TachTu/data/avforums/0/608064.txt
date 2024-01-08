@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung TV and DVD Combo Sound Issue</Title>
+		<Username>krisdowse</Username>
+		<Datetime>31-12-2011, 5:45 PM</Datetime>
+		<Content>Hi there, Hopefully I have posted this on the right forum. I friend of mine purchased a Samsung PS42C450 TV and HT-D5500 Blu Ray DVD player and Surround sound system as a Combo from Curries for Christmas, which I have tried to setup for him. The Blu Ray player is connected to the TV via a 1.4 HDMI cable. The Sky box is connected to the TV via the Blu Ray Player with 2 x 1.4 HDMI cables. This is as per Samsungs instructions. The DVD player works fine, however I cannot get the TV to work correctly with the sky box. When he turns the telly and Sky box on, the picture is shown for a couple of seconds, but then he gets the following error message. &#8220;Connect an optical cable from this product to an external digital device such as a cable box or satellite receiver&#8221; With or without an optical cable connected between the Sky box and the Bru Ray DVD the TV then defaults to AV1 (which isn&#8217;t in use) You then have to go to the menu then cycle through the inputs manually until you reach AV4 at which point everything, including the sound works fine. I tried connecting the Sky box directly to the TV via HDMI and this stops the error message being displayed, but, as the surround sound it integrated with the Blu Ray player this is not a workable solution. Does anyone have a setup similar to this and know how to solve the problem, I assume he needs to set an Audio default on the TV to none optical, but I can't find any such setting. I would appreciate any suggestions. Thanks Kris</Content>
+	</Post>
+</Thread>

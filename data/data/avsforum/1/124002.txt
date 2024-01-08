@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sub for 8500 cu. ft. room</Title>
+		<Username>fanbrain</Username>
+		<Datetime>10-25-08, 02:19 PM</Datetime>
+		<Content>I am close to making the final order for home theater equipment in my new house. I currently have a Velodyne F1500R 15" sealed servo controlled sub. I have had it for a while and it has been great, but this new room is larger than anything else I have had and I don't think it will perform like I want. It's time to step up to something bigger and better. The main area (living room + kitchen) is about 18' wide, 31' deep and a vaulted ceiling up to 12'. This room opens into hallways and other bedrooms etc. I have calculated the entire open area to be around 8500 cubic feet. I have room up front on the screenwall for two subs, and one near the main listening area for near field placement. I am looking for excellent mid-bass as I have bookshelf- type speakers. Solid extension down to 16Hz is crucial for pipe organ music playback. Music performance is paramount. Size or looks doesn't really matter; my wife likes this as much as I do. Budget is up to ~$2000. DIY is not an option so leave that alone. I don't have the time or desire. The next house (3-5 years) will have an IB so leave me alone about it. I don't want to cut holes in this house. I have looked at the Submersive, Terraform, TH-50, DTS-20; stuff like that. What say you?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung A650 Vs Toshiba XF550</Title>
+		<Username>EL Duke</Username>
+		<Datetime>03-25-08, 04:39 PM</Datetime>
+		<Content>Has anybody compared the A650's to the Toshiba XF550 series? I currently have a 32 inch samsung which has done me good the last couple of years and am looking to upgrade to a 46 full 1080p. I have been doing some research and the samsungs seem to be getting alot of problems so I am looking for a backup plan.</Content>
+	</Post>
+</Thread>

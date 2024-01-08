@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer 435XDE speakers and HDMI question</Title>
+		<Username>Neil Fellows</Username>
+		<Datetime>09-01-2012, 12:52 PM</Datetime>
+		<Content>Hi, I have a Pioneer 435XDE Plasma that I'm going to connect up to a new xbox 360 via a HDMI lead to the media box. All good so far, but what I wanted to know in advance (since it's all packed in boxes at mo due to house move) is will the sound go through the HDMI and come out of the Pioneer's TV speakers? I do have a Denon Amp and some Mission surround speakers but no room for those at the moment. I'm going to connect a couple of Mission speakers direct to the speaker outlets on the back of the TV rather than use the official Pio ones for now. I guess the xbox will just pass sound through the HDMI, and it will come out in stereo? I hope..... Thanks in advance for light people can shed onto this. Neil.</Content>
+	</Post>
+</Thread>

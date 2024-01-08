@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 50PK590 Vs LG 50PV350T</Title>
+		<Username>DelM</Username>
+		<Datetime>02-08-2011, 9:11 AM</Datetime>
+		<Content>Hi folks, Looking to get the new TV for our new house and I've had my heart set on the LG 50PK590 for a good while now. It's at the lowest price I've ever seen it at and I know it's last year's model so there aren't many remaining. However, In Currys yesterday I spotted the LG 50PV350T for about £50 more. It's a 2011 model but can't see many differences at all. Old model appears to have more HDMIs but that's about it. So which to go for? For the price of the new model, I can get the old model with a 5yr guarantee. Cheers Del.</Content>
+	</Post>
+</Thread>

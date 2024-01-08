@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to fix a focus ring?</Title>
+		<Username>arturnt</Username>
+		<Datetime>07-19-2011, 09:11 AM</Datetime>
+		<Content>I have a 70-200mm f/4L canon lens, which I accidentally dropped. Now the focus ring does not work. Any ideas on how much it would be to repair? Where does one go?</Content>
+	</Post>
+</Thread>

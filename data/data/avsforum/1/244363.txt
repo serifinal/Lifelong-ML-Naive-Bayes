@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung LN52A650 & LN52A550</Title>
+		<Username>irishmann</Username>
+		<Datetime>10-27-08, 10:38 PM</Datetime>
+		<Content>Hi All, I am in dire straits between these 2 models of Samsungs LCD TVs. From what I can gather it seems that the popular opinion is the LN52A650 is far superior than predecessor LN52A550...correct?? Money is somewhat of an issue but if the difference is that great then I'm willing to spend the extra funds. Is that the consesus here?? Also, I've heard in a couple threads of a store named Fry's......does anyone know the website or even better the direct link for both of these TV? Any help would be greatly appreciated!!!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS51D6900 vs PS51D8000</Title>
+		<Username>Grangey.</Username>
+		<Datetime>24-11-2011, 8:56 PM</Datetime>
+		<Content>Hi all, Well looking at plasmas which I intend on purchasing just after xmas, it appears overall value seems to go to Samsung. I know Panasonic also steed well but looks wise theres nothing doing it for me and from what I read theyre no more fault free than the samsungs so someone would really have to do a hard sell on my to pursue me panasonic is the way to go (unless i can really see a difference anyway)! Anyway, Ive been looking at the PS51D8000 which cheapest price from a reliable place is £1250, i like what I hear about it although im still confused as to why the PS64D8000 is actually better apparently :S Anyway, I then looked at the D6900 which again cheapest reliable price is £850. So.... £400 is a pretty big difference..... I've yet to be able to see either in the flesh yet (I have seen the PS64 though and that just blew my mind which is why im hoping the PS51D8000 is just as good)... so is the £400 really worth it? i mean REEAALLY? I just want the best picture I can afford and originally I set my budget as 1k but assuming the PS51D8000 looks just as good as its 64inch version- that picture I could stretch my budget for. Oh and il be sat 10ft away, but with guest seating starting from 6ft away. Thoughts?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>best plasma to buy</Title>
+		<Username>MattyP1990</Username>
+		<Datetime>16-06-2011, 4:37 PM</Datetime>
+		<Content>Hi there, I'm looking to buy a 50 inch or above plasma tv around the £1000 mark, but idealy I'd rather pay £700 - £800 depending on what you can get. I'd be using it for a lot of gaming, blu ray films etc. 3D would also be nice. So I was just wondering what tv would be best to buy in the UK? Thanks</Content>
+	</Post>
+</Thread>

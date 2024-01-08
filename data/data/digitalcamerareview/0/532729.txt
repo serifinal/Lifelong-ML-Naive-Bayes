@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>890 LCD Question</Title>
+		<Username>shellstar</Username>
+		<Datetime>05-11-2009, 03:56 PM</Datetime>
+		<Content>I have had my camera for 2 days, it was FedExed from Beach Camera. When on, there are glowing spots on the LCD that are hazy and purple, about the size of half a pea. They are just right of center. When I turn the camera off, the spots glow green for a second before turning totally off. Is it worth packing it back up and returning it? The LCD is clean, no fingerprints. I just do not know if these spots will get worse.</Content>
+	</Post>
+</Thread>

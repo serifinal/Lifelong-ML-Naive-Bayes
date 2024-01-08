@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon sd850 is lcd issues</Title>
+		<Username>timmyy</Username>
+		<Datetime>04-30-2008, 11:25 PM</Datetime>
+		<Content>I have an sd850 is and my lcd sreen my pics and all the settings dont fit in the screen any more everthing is too big .So all you get to see is half the picture and when you go to the set up screens all you see is half the print because its all too big. Is there a fix for this or what did i do wrong with my camera. Thanx timmyy</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Used Sony X10 and Samsung Wave</Title>
+		<Username>2slow</Username>
+		<Datetime>08-02-2010 04:36 PM</Datetime>
+		<Content>I would like to unload one of the two devices I have, since I just got the iphone 4. I paid retail for both units from Rogers Plus store. They are fairly new, conditions are 9.5/10 Sony X10 bought from Rogers but unlocked $370 Samsung wave locked to Rogers $300 Please contact me at Josavisno@gmail.com Location dealings within the Markham area only Thanks</Content>
+	</Post>
+</Thread>

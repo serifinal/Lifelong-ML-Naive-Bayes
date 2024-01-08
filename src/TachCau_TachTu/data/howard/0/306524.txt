@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>ATT iPhone Plan Unlimited Data w/200 free minutes+Corporate Discount</Title>
+		<Username>NaToNo</Username>
+		<Datetime>06-14-2010 03:41 PM</Datetime>
+		<Content>Hi! I am looking to transfer ownership of my AT&T contract. The contract expires in September of 2011 with a full discount on a qualifying phone in February. My account is in good standing and includes a 450 minute voice plan with 200 bonus minutes for free (650 minutes total) and the iPhone Unlimited Data package. In addition, there are over 2000 rollover minutes! Currently, there is a 15% corporate discount which may transfer. I am also looking to sell a 32GB iPhone 3Gs with my plan. If you are interested, send me a pm or post back. Thanks!</Content>
+	</Post>
+</Thread>

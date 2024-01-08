@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Server Error ? at 18:00 eastern time...</Title>
+		<Username>teyong</Username>
+		<Datetime>12-11-2009 05:04 PM</Datetime>
+		<Content>PagePlus server down at 18:00 eastern time..... They said it takes 30 minutes......EER</Content>
+	</Post>
+</Thread>

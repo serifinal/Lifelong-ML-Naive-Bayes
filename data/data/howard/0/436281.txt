@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Tethering with the Samsung Vibrant</Title>
+		<Username>MaC03</Username>
+		<Datetime>08-03-2010 04:22 PM</Datetime>
+		<Content>Hi, I've never tethered before and would like to be able to tether to my laptop. I understand that it can be done with the Vibrant? What do I need to do? I've tried to search but haven't found what i'm looking for.. Thanks for your help!</Content>
+	</Post>
+</Thread>

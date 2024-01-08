@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Thinking of swapping my Kuro LX5050, what's the best replacement?</Title>
+		<Username>AndyB1973</Username>
+		<Datetime>30-05-2011, 8:14 AM</Datetime>
+		<Content>Basically since I had this set last year I've had a few niggles with it. I've tried living with them but have now decided I want a set that does everything I want it to, unlike this one sadly. John Lewis will replace the set for an equivalent model (about £2K) and I do like Panasonic, as I had a 42" plasma before this one that was superb. What's the best put there now?</Content>
+	</Post>
+</Thread>

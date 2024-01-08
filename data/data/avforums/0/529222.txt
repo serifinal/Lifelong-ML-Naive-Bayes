@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Green Tinge Fault - Panasonic (VT30, GT30 and ST30)</Title>
+		<Username>shyboy</Username>
+		<Datetime>06-07-2011, 1:48 PM</Datetime>
+		<Content>As there seems to be quite a few of people across all three threads for each model type with this green tinge problem, I thought it might be a bit more productive to unify it all into one thread. I bought my p50st30 2 days ago and can clearly see the green tinge and it can clearly be seen in the below pictures. Called Panasonic and spoke to a guy called Simon who said I should replace the TV and that he has never heard of the problem. Not sure I believe him.</Content>
+	</Post>
+</Thread>

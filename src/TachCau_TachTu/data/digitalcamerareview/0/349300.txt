@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SD-600</Title>
+		<Username>Myron</Username>
+		<Datetime>06-22-2009, 09:48 AM</Datetime>
+		<Content>I got water into my Canon SD-600 a few days ago while using in a rain shower. I tried to keep it dry but water must have entered when the lens retracted as there are no other openings. The cameras' controls froze for about 1 hour but returned to service. However, there are water droplets inside the LCD screen. While these don't seem to be on the photos, there are annoying blotches on the screen. Will they dry ever or is it ruined?</Content>
+	</Post>
+</Thread>

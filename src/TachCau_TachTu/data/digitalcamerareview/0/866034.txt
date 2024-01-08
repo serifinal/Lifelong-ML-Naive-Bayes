@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>DigitalCameraReview.com Heads to CES</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>01-06-2007, 10:00 PM</Datetime>
+		<Content>Just wanted to let you know that tomorrow morning, we're headed out to the Consumer Electronics Show (CES) in Las Vegas. A handful of digital camera manufacturers will (or already have) announced new digital cameras while others will save their announcements for the PMA show in March. We'll be there to get hands on with the new cameras and to let you know what we think about them.DigitalCameraReview.com will be representing, along with folks from our sister sites (NotebookReview.com, Brighthand.com, TabletPCReview.com and SpotStop.com). We certainly don't plan to provide the deluge of information that you'll get from the popular tech blogs, but we'll keep you up to speed about what we find in the way of cool digital cameras (and cool technologies that may affect digital imaging).</Content>
+	</Post>
+</Thread>

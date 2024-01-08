@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 42PX4DV - Power Protect Mode, how to fix?</Title>
+		<Username>rikstaparr</Username>
+		<Datetime>15-02-2012, 5:02 PM</Datetime>
+		<Content>Hi This morning the TV made a pop sound and the screen went blank. Audio could still be heard. I removed the back panel and tested the fuses. The 4AH fuse had blown. I replaced the fuse with 3.1AH (The PSU board indicates use fuse between 2.5ah - 4ah). I replaced the cover panel and powered up the tv, I heard the usual 'click' sound when initially powering up, I switch on and the standby light goes from red, to amber to green. It stays on green for a few seconds and then goes back to red. I switch on again and it then only goes from red - amber. Can anyone offer any assistance please? Many thanks in advance.</Content>
+	</Post>
+</Thread>

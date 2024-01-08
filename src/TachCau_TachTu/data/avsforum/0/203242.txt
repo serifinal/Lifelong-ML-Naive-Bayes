@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with RCA MM36100 and Directv HD receiver problem</Title>
+		<Username>adeikun</Username>
+		<Datetime>05-19-08, 08:00 PM</Datetime>
+		<Content>Hi, I am new to this forum. I am trying to find a solution to a problem I am having. I am trying to connect a Directv H21 high def receiver to my OLD RCA TV mentioned in the subject line. The problem I am having is that my TV can only do HD through the SVGA connector on the back of the TV. The satellite receiver only has component video out and HDMI. I tried connecting a cable that is component video on one side and SVGA on the other but it didn't work. The component video inputs on the back of the TV only go to 480. Directv had no solution for the problem, they told me to get a new TV. RCA had no solution as well. I am not sure if I am having an analog/digital compatibilty issue. RCA informed me that the SVGA2 input is a digital input. I am not sure what to do. Any help would be greatly appreciated as the TV works great and has a great picture. BTW, the exisiting Samsung HD receiver works great but will not pick up Directv's new HD programming including NFL Sunday ticket in HD. Thanks, Andrew</Content>
+	</Post>
+</Thread>

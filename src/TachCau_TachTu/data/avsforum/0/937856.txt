@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Official 9-G Pioneer plasma PICTURE thread</Title>
+		<Username>chanedog</Username>
+		<Datetime>06-01-08, 09:10 PM</Datetime>
+		<Content>Hi everyone, since the 8-g picture thread was such a hit, I thought I'd try to start the 9-g picture thread since we're all on the edge of our seats for pictures (hopefully, this will include you too, cybertec). So post away as soon as you can! We're all waiting!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon HF11 -- best settings??</Title>
+		<Username>stevewett</Username>
+		<Datetime>10-18-08, 12:53 PM</Datetime>
+		<Content>I'm new the this forum and just bought a Canon HF11. I've done preliminary tests with it today and am disappointed with the results. I'm assuming I must not have the Settings set correctly. Can anyone coach me on what settings yield the absolute best results, assuming good lighting conditions. Second, can anyone tell me the best settings when in lower light situations. I'm filming my daughters ballet tonight (which is part of why I bought the camera) and I have heard that the 24fps setting is actually not as good in low lighting, but i'm not quite sure what I'm doing yet. Thanks!</Content>
+	</Post>
+</Thread>

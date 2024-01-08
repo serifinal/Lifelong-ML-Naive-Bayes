@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Faint line at top of my TV screen?</Title>
+		<Username>Rottweiler29</Username>
+		<Datetime>09-28-08, 05:49 PM</Datetime>
+		<Content>I've just watched the R2 copy of "The Texas Chain Saw Massacre" The Beginning and there's a VERY faint line that runs across the top of my LCD screen about 2 inches from the top. Does anyone know what's caused this? It shows up both on my Blu Ray player and my DVD player. I tried another disc after but it's not there. So that leaves me to believe it's either on the disc (perhaps something to do with the 1:85?) or my TV. Does anyone have any idea's? Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>WTT: Nexus One AWS for iPhone</Title>
+		<Username>irgins</Username>
+		<Datetime>05-15-2010 01:22 PM</Datetime>
+		<Content>Title says all. Please include cash offer along with the iPhone as well.</Content>
+	</Post>
+</Thread>

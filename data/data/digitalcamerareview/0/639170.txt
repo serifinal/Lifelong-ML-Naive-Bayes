@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Superfine vs Fine jpeg file format</Title>
+		<Username>ashok3678</Username>
+		<Datetime>01-29-2006, 01:01 AM</Datetime>
+		<Content>With the Powershot A610: Can anyone tell me if there is any benefit when using Superfine jpeg compression instead of Fine compression. Under what circumstances should I use the Superfine setting?</Content>
+	</Post>
+</Thread>

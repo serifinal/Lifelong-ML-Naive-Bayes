@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Receiving Old Text Messages</Title>
+		<Username>Miller</Username>
+		<Datetime>06-16-2010 02:35 PM</Datetime>
+		<Content>Hello, a friend of mine has an IPHONE and I regularly send text messages to him via xxxxxxxxxx@txt.att.net, from my work email server. Last weekend or so I received failure notices from cingularme.com. Now he receives several old text (maybe 3 months old) every time I send a new text from my email. I suspect some changes were made on ATT side and now he has some old texts that are stuck on his account. I am the email administrator for my domain and things look fine on my exchange server. Any ideas on how to correct this issue?</Content>
+	</Post>
+</Thread>

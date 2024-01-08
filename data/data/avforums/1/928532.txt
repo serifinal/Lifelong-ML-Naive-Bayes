@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TXP65VT30B- or other options</Title>
+		<Username>indus</Username>
+		<Datetime>19-06-2011, 11:18 AM</Datetime>
+		<Content>Hi I'm thinking of buying a 65 inch plasma and am looking at the Panasonic TXP65VT30B. Reading about some 50hz issues and ?floating blacks has left me a little worried. Does anybody have knowledge of this model or indeed perhaps suggest another 65 inch screen that maybe better? Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>dumb question about inwalls and soundproofing</Title>
+		<Username>Ian_Slater</Username>
+		<Datetime>09-20-08, 01:28 AM</Datetime>
+		<Content>Another question for the experts... I am building a small theater with James inwalls. The install guide show the speakers being screwed to the studs. I am going to use floated quietrock on the walls, will screwing speakers into studs greatly lower the soundproofed result? Is there away to deal with this? Any suggestion as to which sounds better, mounting to studs or only mounting to the drywall. Thanks, Ian</Content>
+	</Post>
+</Thread>

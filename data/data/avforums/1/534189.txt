@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Should i get five year cover</Title>
+		<Username>aces</Username>
+		<Datetime>15-07-2011, 11:29 AM</Datetime>
+		<Content>Im getting a PANASONIC VIERA TXP42ST30 later today.. should I get the 5 year warranty with it it is £65? What are the chances of problems with this TV?</Content>
+	</Post>
+</Thread>

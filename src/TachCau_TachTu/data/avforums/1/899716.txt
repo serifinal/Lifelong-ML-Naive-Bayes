@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Is the 50VT30 twice as good as the PS51D6900?</Title>
+		<Username>rwttm001</Username>
+		<Datetime>13-06-2011, 10:06 AM</Datetime>
+		<Content>Morning all, I know both have their issues but on paper the price of the Samsung is too good to ignore. Does anyone have experience of both that could push me one way or the other?</Content>
+	</Post>
+</Thread>

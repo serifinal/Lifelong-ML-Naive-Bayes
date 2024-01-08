@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>HELP! My Sony Bravia has green interference on right side of screen.</Title>
+		<Username>CNgreen</Username>
+		<Datetime>09-23-08, 08:24 AM</Datetime>
+		<Content>Below is a picture of my 2-year old Sony Bravia KDL-40S2000. It has always had a great picture until recently when a green column began to appear. It's always on the right side though it will often fade in and out. This picture shows the interference at its worst. The unaffected portion of the screen still looks great. I see it regardless of source - HD, SD, DVD, XBox. My provider is AT&T U-Verse. I've already tried a hard reboot - the green column reappeared during set-up. I chatted on-line with Sony Support and they were no help - he kept thinking it was a tint/hue problem. There's a Sony certified repair shop about 45 minutes away. I'm hoping someone here can give me an idea what's wrong before I haul it all the over there. PLEASE HELP!</Content>
+	</Post>
+</Thread>

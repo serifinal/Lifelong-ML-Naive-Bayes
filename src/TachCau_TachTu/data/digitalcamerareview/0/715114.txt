@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Blank screen- powershot A430</Title>
+		<Username>Laurie</Username>
+		<Datetime>12-22-2010, 11:10 PM</Datetime>
+		<Content>My camera is several years old but still takes great photos. However, the only way to take a picture now is using the optical viewfinder as the view screen will not show a picture being taken, but will allow me to view a picture that has already been taken. Any ideas? I am wondering if I somehow changed a setting that I can correct, or is my camera just breaking? Thanks!</Content>
+	</Post>
+</Thread>

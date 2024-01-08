@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Foraye Home Theatre Build...</Title>
+		<Username>foraye</Username>
+		<Datetime>07-31-08, 07:34 PM</Datetime>
+		<Content>Welcome, I'd like to share my build with everyone. I started my build in June 2003. and completed the build a week before Thanksgiving 2004. My basement is approximately 1000 sq.ft. and the Media area 16' X 30'. Here are some pics from the start. I had no concrete plan or budget set so I just went with the flow. The goal was to finish the complete basement. This is just after I figured out a way to frame out my HVAC ducts. I wished I'd opted to move the Utilities to the far end of the basment during the build...next time... To the left of the image you'll begin to see the runs for the 7.1 surround, video, power etc. that area will become my A/V Rack/Closet 7' high X 2' wide. Shot of the screen wall with sono-board going up. I used 2 layer of this for 1" thick sound attenuation.</Content>
+	</Post>
+</Thread>

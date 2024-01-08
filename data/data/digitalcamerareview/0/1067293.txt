@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can Image Size Be Reduced in Rebel xti?</Title>
+		<Username>binkie</Username>
+		<Datetime>03-17-2008, 10:37 PM</Datetime>
+		<Content>I got a Canon Rebel Xti for my birthday and admittedly don't know much about it. I keep jamming up my photo program when I try to download pictures from the camera. The pictures are very large when downloaded. Is there a setting on the camera to reduce the size of the photos? Thanks so much! binkie</Content>
+	</Post>
+</Thread>

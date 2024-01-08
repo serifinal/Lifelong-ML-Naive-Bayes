@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPad - Bell Outgoing Mail Server</Title>
+		<Username>lauriem</Username>
+		<Datetime>05-30-2010 05:21 AM</Datetime>
+		<Content>Hi, I picked up an ipad 3g and Bell micro sim. Data is activated and incoming mail works fine. Is there an outgoing mail server for the ipad on Bell? Thanks.</Content>
+	</Post>
+</Thread>

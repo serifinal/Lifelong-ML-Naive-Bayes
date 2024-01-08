@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Rogue sch-u960 - how do you sync contacts with Outlook?</Title>
+		<Username>eurovwgti</Username>
+		<Datetime>12-17-2009 10:46 AM</Datetime>
+		<Content>bitpim doesn't have the phone listed...anyone can shed some light on this?</Content>
+	</Post>
+</Thread>

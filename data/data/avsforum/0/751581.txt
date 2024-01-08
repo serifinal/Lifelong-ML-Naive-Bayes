@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>gnolivos</Username>
+		<Datetime>08-28-08, 11:15 AM</Datetime>
+		<Content>My latest project... I'm putting some acoustical panels behind my snack bar (for looks mostly), and I am embedding a picture frame within the panel. Here are a few pics. The idea is that the frame will play some cool movie-related slideshows (see my sig!) while people grab their goodies, popcorn, etc... It looks completely black in the theatre room, and you can't really tell where the GOM fabric ends and the frame begins... and the frame sits flush with the fabric... it does look awesome in person, pics don't do it justice imho! Anyhow, thought I'd share as I don't recall anyone doing this. http://i184.photobucket.com/albums/x...f/IMG_5557.jpg http://i184.photobucket.com/albums/x...f/IMG_5558.jpg</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Calibrating PS51D8000 Colourspace Question</Title>
+		<Username>daniel_owen_uk</Username>
+		<Datetime>19-01-2012, 4:08 PM</Datetime>
+		<Content>So.... Had my TV a while now, figured I should probably at least try to calibrate it. Have sky-HD & popcorn hour running through amp on HDMI2 (mainly because it means I only have to run a single cable and HDMI2 works ARC) I also have xbox 360 via component and Freesat (built in). I want to calibrate using my PCH, which has options for 0-255 colourspace. Don't think any of my other sources do. So my questions is do I set the PCH to 0-255 colourspace and calibrate using that, or leave it on 16?235?</Content>
+	</Post>
+</Thread>

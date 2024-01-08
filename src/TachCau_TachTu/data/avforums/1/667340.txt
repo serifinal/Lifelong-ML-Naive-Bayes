@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New Panny VT30 v second hand Kuro ?</Title>
+		<Username>Cloverleaf</Username>
+		<Datetime>29-12-2011, 3:37 PM</Datetime>
+		<Content>Guys Sorry if this is an old chesnut, I'm not a regular vistor. My problem is this - I have owned a Pio PDP436XDE since 2005, and been very happy with it. While standard def (Sky) is a bit pants to be honest, I have seen nothing yet to touch it on HD , and yes it is only 720P ! Having said that, I haven't made a point of actively looking for a screen recently, the only true comparison is my Brother in Laws 1080P Panny (dont know the model ) , which to be honest aint as good on HD as my Pio. I am looking to go up to a 50" inch screen though, so can anyone give me an objective opinion on whether (from an HD pic angle) a used Kuro or a new VT 30 would be a better buy ? It's very difficult to find a shop that can give a decent demo of the Panny, most of em have some silly 3D demo going on, and 3D ain't important to me.</Content>
+	</Post>
+</Thread>

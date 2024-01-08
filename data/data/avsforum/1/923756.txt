@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PN50A550 or PN50A650?? need help quick please :)</Title>
+		<Username>johhhn</Username>
+		<Datetime>11-22-08, 11:37 AM</Datetime>
+		<Content>Hi! I am about to bite the bullet and wanted to ask people that own one of these or have experienced both in action-- The only reason I an contemplating the 650 is for the supposedly better anti-reflection. I have a lot of ambient lighting in my house and with the curtains closed on the glass doors that lead to the outside, there shouldn't be any direct sunlight. Will the 550 be OK in this setup? Or is it worth spending $200 more for the 650? Is the picture quality, etc., exactly the same between the two? thanks for any helpful insight... I want to order this today so I appreciate any immediate feedback!</Content>
+	</Post>
+</Thread>

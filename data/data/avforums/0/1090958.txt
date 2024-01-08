@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic- TX-P42UT30B- calibration settings.</Title>
+		<Username>maspoon</Username>
+		<Datetime>21-11-2011, 2:34 PM</Datetime>
+		<Content>hi all, anyone have any good calibration settings for picture on the Panasonic TX-P42UT30B ?</Content>
+	</Post>
+</Thread>

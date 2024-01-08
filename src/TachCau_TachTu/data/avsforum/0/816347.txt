@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>First Hybrid Blu-ray / DVD title announced</Title>
+		<Username>zeroendless</Username>
+		<Datetime>12-19-08, 12:17 PM</Datetime>
+		<Content>http://digg.com/hardware/World_s_fir...title_released Single layer BD, dual layer dvd. Unfortunately it's a Japanese soup opera</Content>
+	</Post>
+</Thread>

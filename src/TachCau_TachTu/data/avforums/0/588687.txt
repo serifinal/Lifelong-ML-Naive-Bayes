@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS50c7000 - 3D is not available in HD</Title>
+		<Username>nitro2311</Username>
+		<Datetime>23-07-2011, 6:15 AM</Datetime>
+		<Content>Hi, I have a problem with Samsung PS50c7000. Blu ray movies recreating 3D (with pc by Power DVD) options 3d (checkerboard) I only appear at a max resolution of 1680x1050 which makes watching the image in a small window on the side of my big white empty areas which completely distorts the view. Why HD 1920x1080 I can not launch any videos (such as Resident Evil 3D ~> 40GB)? It may have something to do with the fact that I do not have HDMI 1.4 only 1.3? Has anyone had this problem?</Content>
+	</Post>
+</Thread>

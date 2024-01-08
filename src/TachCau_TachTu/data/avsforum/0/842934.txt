@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>So what's up with the Mitsubishi HC5500?</Title>
+		<Username>Kito</Username>
+		<Datetime>12-16-08, 02:17 PM</Datetime>
+		<Content>I have done a search here and there is very little being said about this PJ. I have read some very good reviews about the hc5500. I was just wondering why it doesn't seem very popular here especially a 1080p unit that is going for around $1,400 after rebate.</Content>
+	</Post>
+</Thread>

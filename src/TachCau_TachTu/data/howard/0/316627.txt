@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Video Calling</Title>
+		<Username>leungda</Username>
+		<Datetime>08-22-2008 12:20 AM</Datetime>
+		<Content>I have a Tytn II. Fido have a Video Calling feature but you have to pay by minute. As I know, the Video data transfer is using 3G data and Audio transfer is using regular GSM. I just want to know how Fido monitor the Video calling if Video data transfer is using 3G. Did they custom programmed on Fido-branded phone if people using Video calling on Fido branded phone. The system will know how to bill. If so, if I using non-Fido branded phone, Video data transfer is on my 6GB data package. As long as not over the 6GB limit, can I bypress the Video calling pay by minute?</Content>
+	</Post>
+</Thread>

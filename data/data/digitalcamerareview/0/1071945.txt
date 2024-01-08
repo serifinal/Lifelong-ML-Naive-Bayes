@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with sd1100 IS</Title>
+		<Username>seimix</Username>
+		<Datetime>07-17-2008, 04:37 PM</Datetime>
+		<Content>Hi i just brought the powershot sd1100 and im having trouble with the Image Stabilization. The IS works fine when the auto flash is on, however if i turn off the auto flash the IS stop working. I test it buy taking pictures of my hand waving with flash and w/o flash, IS only work when auto flash is on. Why? -thx</Content>
+	</Post>
+</Thread>

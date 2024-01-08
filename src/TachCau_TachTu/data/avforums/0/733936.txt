@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung C Series - Brightness Dip Problem</Title>
+		<Username>MrKennedy</Username>
+		<Datetime>19-01-2012, 11:26 PM</Datetime>
+		<Content>Hello! Im after a bit of help, can anyone explain or fix the issue i am getting?! Basically, when i play a bluray, movie, game, if i set the brightness under 50 on a scene in a movie that fades to blackness or the screen goes completely black then the screen just turns off! it comes back when the next scene starts or say ive just finished a multiplayer game on cod on my ps3 the screen will go black and shut off until im back at the lobby screen. This may seem an unannoying feature to some but when you are trying to watch a movie and you get these intervals of darkness its like someone has hit the tv off button accidentaly! Is this really samsungs idea of a pleasurable viewing experience?! Lol... I guess it wouldn't be so bad if the black levels were better and being above 50 was fine for standard mode but sadly this isnt overly the case. Id like to add no image enhancements are on! No energy eco saver settings are enabled! Also it can happen in any of the 3 available modes (movie, standard or dynamic) So what causes this phenomenon?!... On a side note, i managed to unlock custom colour space today via the service menu on my tv - if anyone is curious it just needs the colourspace support changed from huesat type to rgb type Thanks!</Content>
+	</Post>
+</Thread>

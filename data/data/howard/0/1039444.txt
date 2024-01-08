@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy S Vibrant Reception, Does Yours Do This Too?</Title>
+		<Username>Singhman</Username>
+		<Datetime>08-12-2010 08:54 AM</Datetime>
+		<Content>My phone sometimes cuts out at work (which my old one did too)...but the vibrant sometimes have no reception (the blue crossed out symbol appears)...but the thing that sucks is that it takes several minutes sometimes to get reception back. Just now, i looked that my phone had no reception, so i went outside and stayed that way for atleast one minute, or more. When i'm in an area that has no reception, then enter a strong signal are, why does it still take the phone over 1 minute to realize that there is reception now? I don't get this phone...(BTW- the reception on this phone is worst than my 3 year old HTC touch)</Content>
+	</Post>
+</Thread>

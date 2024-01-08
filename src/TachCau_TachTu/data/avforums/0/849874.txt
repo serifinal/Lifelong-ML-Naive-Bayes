@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>my suggested samsung b451 picture settings</Title>
+		<Username>kosmic</Username>
+		<Datetime>19-12-2009, 3:51 PM</Datetime>
+		<Content>Just got this plasma PS50B451B2w and here after days of serching on line and not finding much info and after days of playing with the settings here are my inputs any comments or suggestions or improvments please , please post here thanks a lot Main Menu Mode: Standard Cell Light: 8 Contrast: 52 Brightness: 52 Sharpness: 0 Color: 39 Tint: G 50/R50 Advanced Settings Black Tone: Off Dynamic contrast: Off Gamma: -1 or 0 Color Space: Native White balance R offset: 8 G offset: 22 B offset: 20 R gain: 8 G gain: 22 B gain: 20 Flesh Tone 0 Edge enhancement: OFF Picture Options Color Tone: Normal Size: 16:9 Screen Mode: 16:9 Digital NR: Auto or OFF HDMI Black Level: Normal Film Mode: Auto</Content>
+	</Post>
+</Thread>

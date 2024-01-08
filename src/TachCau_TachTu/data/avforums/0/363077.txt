@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Enable 100Hz Motion Plus in Samsung PS50c679</Title>
+		<Username>topolivan</Username>
+		<Datetime>29-07-2011, 10:32 AM</Datetime>
+		<Content>Hi there, I just bought the plasma tv Samsung PS50c679. I saw in other Samsung models that by activating the 100Hz Motion Plus feature, you got this "soap opera" effect. Now I'd like to get this effect on my TV and I don´t know if there is some way to achieve that on the PS50c679 (Eigenschaften von PS50C679 | Fernseher (Plasma TV) von Samsung ) I have really tried within the settings, but I didn´t get to something similar. Does anybody knows how to do it? or even if it is possible? Thank you very much!! Raúl.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>8CH LPCM is here!!!</Title>
+		<Username>HaLo6</Username>
+		<Datetime>06-04-08, 08:35 PM</Datetime>
+		<Content>http://www.anandtech.com/tradeshows/showdoc.aspx?i=3324 Asus has come through with a 8CH 24bit/192hz HDMI soundcard!! Article states that ASUS will bundle a customized version of ArcSoft TotalMedia Theater for playback duties. It supports DTS-MA and Dolby TruHD</Content>
+	</Post>
+</Thread>

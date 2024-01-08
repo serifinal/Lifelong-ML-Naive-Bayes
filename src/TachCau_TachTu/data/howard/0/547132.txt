@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Google Nexus One Unlocked - 3G Wind Mobile, Mobilicity, T-Mobile</Title>
+		<Username>robertpolson</Username>
+		<Datetime>07-05-2010 10:58 AM</Datetime>
+		<Content>Google Nexus One that works with all providers! Wind Mobile and Mobilicity 3G compatible. Compatible with 3G on T-Mobile (U.S.) Supports three 3G/UMTS bands (900/AWS/2100 MHz) and four GSM radio frequencies (850/900/1800/1900 MHz) Has BestSkinsEver Full Body protection since day one. Comes with protective cover. It comes in a box with all the original accessories. Fully unlocked. Android 2.2 Fryo Full manufacturer warranty. Call (416) 829 9194 - Ivan Phone location - Bathurst and Steels (Toronto) Cash only - firm price.</Content>
+	</Post>
+</Thread>

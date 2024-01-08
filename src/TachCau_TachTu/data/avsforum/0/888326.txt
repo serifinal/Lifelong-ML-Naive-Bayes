@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nvidia Geforce 180.42 Beta drivers</Title>
+		<Username>HDGT</Username>
+		<Datetime>10-21-08, 11:41 AM</Datetime>
+		<Content>Nvidia has released new BETA 180.43 drivers for testing, these are what would be the Big Bang II drivers it seems, new codebase. This definitely will need a lot of testing and feedback. http://www.nvidia.com/object/winxp_180.43_beta.html http://www.nvidia.com/object/winxp64_180.43_beta.html http://www.nvidia.com/object/winvist...0.43_beta.html http://www.nvidia.com/object/winvist...0.43_beta.html</Content>
+	</Post>
+</Thread>

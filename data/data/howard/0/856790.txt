@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Galaxy S Vibrant Accessories</Title>
+		<Username>Crazycdn</Username>
+		<Datetime>08-11-2010 10:35 PM</Datetime>
+		<Content>Hello Everyone, On Monday I picked up a Galaxy S phone and have been playing around with it for a few days. One the things I was really excited about was the Google Maps GPS navigation option. Once I figured out the ins & outs of using the app it worked wonderfully. If I had to find a fault it would be that the GPS signal works only well when I'm outside or have the phone right under my wind shield in my car. Although that's not different than my handheld Garmin so ... My biggest problem is trying to figure out how to mount my phone so I can use it as a car GPS? Samsung doesn't have anything listed on their website, nor does Bell. I found something from the US but its $50 before duty, etc. Does anyone have any suggestions?</Content>
+	</Post>
+</Thread>

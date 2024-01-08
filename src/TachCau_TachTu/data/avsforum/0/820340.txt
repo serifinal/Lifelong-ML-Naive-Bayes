@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung 750 series USB hard drive refresh</Title>
+		<Username>jpnutty</Username>
+		<Datetime>12-14-08, 01:15 PM</Datetime>
+		<Content>I have an external hard drive hooked up to my Samsung television. I constantly update my external with new photos and videos, but the television still recognizes old file names and deleted files. I have 75 gigs of media, is it that it takes a while to refresh? Or is there a another option to speed this up? Thanks so much!</Content>
+	</Post>
+</Thread>

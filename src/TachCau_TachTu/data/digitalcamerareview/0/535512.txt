@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD HC card</Title>
+		<Username>lorinda</Username>
+		<Datetime>07-08-2009, 03:20 PM</Datetime>
+		<Content>Hello. Does anyone know if you can use the new SDHC cards with the the Power Shot A720si and the A470 models?</Content>
+	</Post>
+</Thread>

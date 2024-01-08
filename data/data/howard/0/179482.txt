@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Multitasking the Android Way tutorial.</Title>
+		<Username>CA</Username>
+		<Datetime>04-29-2010 08:22 AM</Datetime>
+		<Content>Here is a great tutorial on multitasking on Android from the MAN! It might shed some light on why not to use task-killers! http://android-developers.blogspot.c...evelopers+Blog)</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sd850 Is Help!!!</Title>
+		<Username>Jdegid</Username>
+		<Datetime>12-30-2008, 02:35 PM</Datetime>
+		<Content>I have had the 850 is for about a year. I'm getting so frustrated that everytime I take a picture of a person indoors their eyes are red. I have the red eye reduction on. I am tired of having to correct every photo I take. I would say 90% of the photos have red eyes. What am I doing wrong??? is there another setting I am unaware of? Is there a special technique on shooting indoors so as not to have red eyes? what the hell is causing this? It seems to be happening more with this digital camera than the early cannon I had. HELP!!!!!!!! Jdegid I have yahoo chat if you can take the time to chat about it as well jdegid@sbcglobal.net</Content>
+	</Post>
+</Thread>

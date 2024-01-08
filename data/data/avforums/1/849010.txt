@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>P50U30B vs</Title>
+		<Username>Calvados</Username>
+		<Datetime>22-06-2011, 8:05 PM</Datetime>
+		<Content>DirectTVs have the P50U30B at £679 plus delivery which seems like a good price. Or should I go for the P50G20B? Cheapest I've seen that one right now is £750 at electrical deals. Is the G20 just a newer model? thanks, C</Content>
+	</Post>
+</Thread>

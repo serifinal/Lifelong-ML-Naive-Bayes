@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Important Question about Facetime</Title>
+		<Username>SkyKing02</Username>
+		<Datetime>06-15-2010 04:39 PM</Datetime>
+		<Content>Anyone know who's the cute azn girl in the facetime promote pix?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic S30 versus ST30</Title>
+		<Username>g9ern</Username>
+		<Datetime>02-01-2012, 11:08 AM</Datetime>
+		<Content>Is there any difference in the technology between these TV's apart from the 3D? I'm not interested in 3D whatsoever but I'm wondering if the ST30 is worth £50 more than the S30 (Amazon prices). Comparing them side by side on the Panasonic website they seem to be pretty much the same apart from the 3D aspect.</Content>
+	</Post>
+</Thread>

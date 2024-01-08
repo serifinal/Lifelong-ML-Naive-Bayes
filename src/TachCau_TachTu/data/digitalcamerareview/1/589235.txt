@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Camera Help..please.</Title>
+		<Username>irrevocablyroo</Username>
+		<Datetime>12-14-2008, 10:20 AM</Datetime>
+		<Content>I'm a first year student at Stafford Technical Center in DIgital Arts. I'm there because I want to be a photographer and it will get me a good base before I get out of high school. I don't have a camera of my own so I usually check out the ones from my class but I want my own. I'm not on a level where I can use a D-SLR..yet. If/when I get accepted back for a second year we learn how to use the Canon Rebel EOS (I think 5D but I'm not sure). So I'm wondering which camera, prefferably of the Canon Powershot variety, would be good for me to get. I don't want a point and shoot "myspace angle" camera but something more along the lines of a semi-professional camera. Something that still takes good quality pictures and has professional settings but that I don't have to get seperate lenses for. Something with the lens already built in. I may sound like a noob but I just want a camera that I'm comfortable using. So any suggestions would be greatly appreciated. Seriously. Thanks much!! -roo.</Content>
+	</Post>
+</Thread>

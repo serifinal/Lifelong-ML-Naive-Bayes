@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Lg 60pv250k</Title>
+		<Username>newTV</Username>
+		<Datetime>16-07-2011, 1:07 PM</Datetime>
+		<Content>Anyone got a LG 60PV250K or any reviews for it? Cant find anything on it. Still trying to convince the other half that 60" is the way to go and with the price being right good reviews i think would convince her!</Content>
+	</Post>
+</Thread>

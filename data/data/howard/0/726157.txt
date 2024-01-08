@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: iPhone 3GS 16GB and 32GB BNIB locked to Rogers GTA</Title>
+		<Username>Gaunt911</Username>
+		<Datetime>12-12-2009 04:55 PM</Datetime>
+		<Content>16GB 650 32GB 700 location 400 and Major Mac</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung 50" Insurance repair = no warranty?</Title>
+		<Username>Valen</Username>
+		<Datetime>04-05-2011, 11:51 AM</Datetime>
+		<Content>Hi all I got a Samsung 50" plasma 3d (PS50C6900) in January this year. It was replaced once due to the 3d not working, then repaired a month later due to a screen distortion problem. Recently my son threw a toy at it and broke the glass. My home insurance got a local company to fix it. (Replace the panel) A few weeks later I tested the 3D and it's flickering between 2D and 3D. Really annoying. Also, i get the odd 'white noise' vertical line on on some scenes thru SKY and Bluray. I rang the repair company and they say the TV no longer has a warranty, and that only the panel has their 3 month warranty. Also, they say the 3D is a software fault and that I may be charged to fix it. I have rang my insurance company to chase this up. So, am I left with a faulty TV just over 3 months old? Anybody have any experience with home insurance? Thaks for any help. Val</Content>
+	</Post>
+</Thread>

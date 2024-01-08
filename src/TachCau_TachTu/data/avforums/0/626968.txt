@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PANASONIC 2006 RANGE ? Interested? ? Read here first</Title>
+		<Username>scrapbook</Username>
+		<Datetime>15-03-2006, 10:23 PM</Datetime>
+		<Content>Every new range of Panny plasmas leads to much anticipation and excitement with a large percentage of members. It is to the benefit of all members interested to keep the number of threads relating to a similar topic to a minimum If you are interested in this subject please use the search facility to see if there is already an appropriate thread running before starting a new one. The main threads running at the moment are noted below: PANASONIC 2006 PLASMA & LCD BROCHURE See the new 2006 brochure here Look here for the PX60 OWNERS thread Panasonic 42PX60 owners thread - Post Here Current pricing information is here PX60 Pricing Look here for the differences between the PX60 and the PX600 Difference betwen PX60 and PX600 Look here for some early information and pricing information on the PX60 Panasonic 42PX60 Price & Pre Release Information - Post Here Look here for some Panasonic Trade show information panasonic trade show Panasonic PX60 Settings Panasonic PX60 Settings Thread Panasonic PV60(PX60) Buzzing Panasonic PV60(PX60) buzzing Panasonic Blurring PX60 - Blurring / Green tinge 50PX600 thread Panasonic TH50PX600 thread - Post here Last updated 16/05</Content>
+	</Post>
+</Thread>

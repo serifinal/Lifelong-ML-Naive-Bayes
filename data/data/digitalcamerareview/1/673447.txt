@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>which canon to buy?</Title>
+		<Username>cali0314</Username>
+		<Datetime>06-06-2010, 08:52 AM</Datetime>
+		<Content>I'm having a hard time deciding which canon is right for me. I would love an SLR but simply cannot afford it but would like the next best thing. I have kids so I would like a movie mode camera and something that takes fast, clear pictures. I have it narrowed between 3 models: the Canon SX210IS, Canon G11, and Canon SX20 IS. I really like the flip LCD screens and the HD movie mode but i don't want that to outweigh the fact I want clean crisp pictures! Any suggestions?</Content>
+	</Post>
+</Thread>

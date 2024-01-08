@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG 50PK590 problem</Title>
+		<Username>mrwicked</Username>
+		<Datetime>19-11-2011, 5:03 PM</Datetime>
+		<Content>Hi all Hope someone can help I have an LG 50PK590 that is approx 14 months old. Today whilst watching tv, a 3" horizonal black line appeared approx one third of the way down the screen and stretches all the way across. I switched the power off at the mains and then restarted it. The black line is till there but also looks to have random single pixels within the black border, that some are the same colour, some change.. Any ideas? Thank you</Content>
+	</Post>
+</Thread>

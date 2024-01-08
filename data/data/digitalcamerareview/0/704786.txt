@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>SD4500 Sound Quality</Title>
+		<Username>cheezz</Username>
+		<Datetime>10-04-2010, 04:32 PM</Datetime>
+		<Content>I got an SD4500 and the sound quality really stinks. I have tried recording in my house, in the yard, and in a closet with the door closed. Their is so much ambient noise that it covers the voices. My old PowerShot was the same way. Appreciate the new HD, but wish they would work on microphone quality.</Content>
+	</Post>
+</Thread>

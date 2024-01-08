@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>VT30 IFC and 24p Smooth - Some Observations</Title>
+		<Username>MultiRoom</Username>
+		<Datetime>02-02-2012, 2:05 PM</Datetime>
+		<Content>The IFC on my VT30 is ropey at best, those that have seen it can testify that it's disadvantages normally outweigh the advantages. IFC to my eyes differs in no way at all to 24p Smooth Film - can anyone clarify if there is some difference in the technology being used to 'fill in the frame rate'? However, my friend has a Panasonic PT-AE2000 (projector @ circa £2000 when it was released), which is a couple of years old now. It has IFC, and when set to max it seems to operate flawlessly, not artefacting whatsoever. This is from a unit that was released in 2008. What I don't understand is how it can be so good on a unit that was released three years before the VT30, yet the processor in the VT30 simply doesn't seem to be able to cope with fast pans with IFC turned on. Although many will disagree, when IFC works flawlessly it is stunning, and the larger our screens get the more necessary I believe it will be. Interestingly, and I don't know if anyone can explain this, but with IFC turned up to MAX when viewing 3D material, I can't spot any flaws at all. Perfectly smooth picture with no artefacting. I'd be interested to hear others views on this feature. I appreciate there are purists who hate this function, but I know there are others who can see it's merits.</Content>
+	</Post>
+</Thread>

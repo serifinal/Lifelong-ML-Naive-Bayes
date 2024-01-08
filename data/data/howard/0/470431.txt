@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>I Am Not Receiving Text Messages</Title>
+		<Username>swe3t_but7erfly</Username>
+		<Datetime>11-04-2009 07:23 AM</Datetime>
+		<Content>So i am a bell customer, i have the sch- u740 phone with bell starting lastnight and continue to today i can recieve text messages from other bell customers i even sent a text message to myself through their online text thing But! Most of my friends are rogers customers and i am not recieving any of their text messages. This has happened before when rogers did some sort of update about 2 years ago or something i just want to know when it will all be fixed - i am another person who cannot live without text messaging Thank you</Content>
+	</Post>
+</Thread>

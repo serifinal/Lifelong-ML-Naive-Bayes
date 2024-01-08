@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Unlocked brand new iphone 4 16gb</Title>
+		<Username>XxSpritexX</Username>
+		<Datetime>08-07-2010 08:36 AM</Datetime>
+		<Content>Asking price $900! Call or txt your offer @ 647 963 4388</Content>
+	</Post>
+</Thread>

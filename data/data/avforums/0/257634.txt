@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help needed with new Plasma screen.</Title>
+		<Username>three_tone</Username>
+		<Datetime>23-06-2004, 10:31 AM</Datetime>
+		<Content>Hi, Yesterday recieved my new plasma screen a Techwood 42" job from curries. Tested it with dvd and it looks fantastic, plugged in sky+ and video, video is ok. Sky+ i'm having a nightmare with, some channels are lovely, others are really badly blocky, especially on grey's/black's. Is this a general issue with plasma screens or is something wrong? And does anyone know the sky+ remote code for controlling the tv with the sky+ remote? Thanks</Content>
+	</Post>
+</Thread>

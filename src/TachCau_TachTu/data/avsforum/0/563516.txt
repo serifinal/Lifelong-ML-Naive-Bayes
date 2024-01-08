@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Are you buying Lost Season 4 or waiting for the Complete Series Set?</Title>
+		<Username>GCBlu101</Username>
+		<Datetime>12-09-08, 05:03 PM</Datetime>
+		<Content>I dont know which to do?</Content>
+	</Post>
+</Thread>

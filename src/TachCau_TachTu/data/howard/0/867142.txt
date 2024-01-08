@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FaceTime</Title>
+		<Username>jesteraver</Username>
+		<Datetime>06-07-2010 11:54 PM</Datetime>
+		<Content>Interesting feature that might be actually useful. Someone steals your phone. You can send a msg and when the person checks the msg the phone takes a picture of you and sends you an email back. That could be one of the many things it could do, but not sure if Apple will say it can do that or allow it to do that I just hope iPad 2 does get this feature and also Apple allows FaceTime users and iChat AV users communicate in the future. Thats pretty much the only way to get FaceTime to actually work in the long run and have millions of people actually use it.</Content>
+	</Post>
+</Thread>

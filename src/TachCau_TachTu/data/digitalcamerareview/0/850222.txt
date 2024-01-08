@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Flash on S5 IS not working</Title>
+		<Username>TOMTOM</Username>
+		<Datetime>01-02-2011, 05:33 PM</Datetime>
+		<Content>After about a years usage the Flash on my S5 IS quit working. All other functions are working and I've tried new batteries. Any suggestions?</Content>
+	</Post>
+</Thread>

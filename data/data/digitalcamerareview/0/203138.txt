@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon SD990IS: Lens trouble</Title>
+		<Username>rah140</Username>
+		<Datetime>09-17-2011, 07:15 PM</Datetime>
+		<Content>I have a Canon SD990IS and when I turn the camera on, or zoom in or out, the lens mechanism makes weird noises. The camera is only three years old. This is the second Canon camera that I have owned and I always have problems with their products.</Content>
+	</Post>
+</Thread>

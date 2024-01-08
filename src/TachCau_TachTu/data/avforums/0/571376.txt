@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic P50G1B motion bluring</Title>
+		<Username>Dazturbo</Username>
+		<Datetime>10-07-2011, 5:29 PM</Datetime>
+		<Content>hi have been having problems with my panny getting loads of juddering and motion bluring. bought tv from richer sounds with 5 year plan. the tv went for repair and they replaced a hdmi pcb. this has made some improvement but i am still getting some bluring. is this a common problem with panny sets? its sill doing it on sky, xbox, panny dvd, have not tryed blu-ray yet as it seems to only do it went frames that pan sideways. the guy who came out to look at tv said lots of motion juddering, ghosting effect.</Content>
+	</Post>
+</Thread>

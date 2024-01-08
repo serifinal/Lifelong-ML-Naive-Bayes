@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Spot on all pictures with Canon EOS Rebel T3- help!</Title>
+		<Username>Aubrey220</Username>
+		<Datetime>11-19-2011, 12:35 PM</Datetime>
+		<Content>So yesterday I noticed a black spot in my pictures. I removed my filter...the lense...etc...and didn't find anything that would cause such a prominent black spot on all pictures. It gets more transparent when not focused on a subject, but I just can't figure it out. I'm new to this and don't want to risk taking my camera apart too much. I cleaned everything and still...it's there. any ideas as to what it could be? Here are some examples: http://www.dropbox.com/gallery/48738916/1/spot?h=74835b</Content>
+	</Post>
+</Thread>

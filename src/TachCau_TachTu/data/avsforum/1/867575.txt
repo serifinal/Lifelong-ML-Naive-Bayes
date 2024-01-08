@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung LNT4661F vs Olevia 747i</Title>
+		<Username>ddzc</Username>
+		<Datetime>04-16-08, 03:48 PM</Datetime>
+		<Content>Is it worth the $400 savings with the Olevia? Thanks</Content>
+	</Post>
+</Thread>

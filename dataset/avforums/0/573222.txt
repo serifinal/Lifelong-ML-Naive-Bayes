@@ -1,0 +1,8 @@
+samsung 3d plasma 's `` blinking '' .
+as this issues seems to affect both samsung plasma 's i thought a separate thread may be in order .
+i 've noticed now a couple of others commenting on their sets be it 7000 or 6900 's doing what i call `` blinking '' when the screen goes black for split second without loss of sound .
+the issue only manifested it after upgrading the brand new set to the available firmware at the end of may .
+i 've also had instances of loss of sound .
+which only came about after the new firmware a couple of weeks ago i had comet come out a week or so ago to inspect the tv and they have agreed to come out this friday to replace the main board .
+reading some of the comments recently it appear the new firmware may help this issue .
+i 'm wondering if i should put off comet and try the firmware or let them come and change the main board .

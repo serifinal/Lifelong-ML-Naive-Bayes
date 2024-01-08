@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Toshiba vs Samsung vs Sony, biggest showdown ever?</Title>
+		<Username>epicstruggle</Username>
+		<Datetime>05-08-08, 02:34 PM</Datetime>
+		<Content>Ok, Im placing a major order for LCD tvs. 65 of them. Yep, my parents own a motel where we want to upgrade our tvs. Since this is going to be a big buy, I needed some last minute advice. We are looking at 3 brands (toshiba, samsung, and sony) and 3 sizes ( 46, 40-42, and 37). Here are the tvs based on size: --46 inch: Toshiba 46rv530u, Samsung Ln46a550 --42-40 inch: Toshiba 42rv530u, Sony kdl40v4150(or is it 4100), Samsung 40a530 --37 inch: Toshiba 37AV500u, Samsung 37a450 So the prices across the sizes are the same, what TVs would you pick from each size? (One caveat, if I go toshiba's I have to get all 3 sizes in the toshiba's) Any advice?</Content>
+	</Post>
+</Thread>

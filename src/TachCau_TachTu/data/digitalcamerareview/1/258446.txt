@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Will Lower File Size Improve Image Quality on s5?</Title>
+		<Username>andycincy</Username>
+		<Datetime>12-15-2007, 10:58 AM</Datetime>
+		<Content>I have pretty much made the decision to purchase the Powershot s5, based on my recent experiences with the SD750 (blurry shots because no image stabilization) and the TZ3 (washed out color and aggressive noise reduction software fuzzing out details). I know the s5, like most non-dslr's out there today, still suffers to some degree from mega pixel overdose and the nr software will fuzz out the detail to some degree. My trusty old Canon S400 (4 MP) takes sharp photo's I am satisfied with at the large setting of 2272 x 1704 pixels. The max pixel setting on the s5 is 3264 x 2448 (JPEG super-fine). Would reducing the image setting to 2592 x 1944 JPEG Super-Fine help? All the pro reviews I am reading say that trying to cram more pixels onto the same size sensors is what is killing image quality, so reducing the image size would seem to make sense - but I would like the opinion of someone that knows what they are doing please! I have been very satisfied with the image quality of photo's taken with th s400, but would like a camera with better zoom, faster shutter time, and the ability to customize as I learn how to go beyond point and shoot. The s5, combined with the hot shoe to enable me to get a speedlight flash, seems to fit that bill while still being able to function as a PS for my wife. Your thoughts on the image size question would be very much appreciated, thank you!</Content>
+	</Post>
+</Thread>

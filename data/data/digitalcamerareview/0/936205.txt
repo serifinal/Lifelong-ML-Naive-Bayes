@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot sx130is power/battery issue</Title>
+		<Username>jfmaster</Username>
+		<Datetime>12-27-2011, 04:43 PM</Datetime>
+		<Content>Hello to all - newbie (to the forum) here. I've had this camera for a year, and love it - never any issues, and great pics and video! On Christmas day (2 days ago), brought it out to take some pics and had the "Change Batteries" notice on the screen. No big deal as I always have spares around (using Powerex 2700 rechargables). Slapped in a new pair, and same message. I put the batteries on my meter, and 1.4+ volts. So, I grabbed a NEW pair of Energizers (store bought) that had 1.6 volts - same problem. No matter what I put in, same issue. Anyone had the same problem? Is this a send to a repair center issue? Any help is greatly appreciated!</Content>
+	</Post>
+</Thread>

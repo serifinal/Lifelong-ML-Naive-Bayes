@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Screen for Mitsubishi 5500</Title>
+		<Username>liquid25</Username>
+		<Datetime>10-08-08, 02:33 PM</Datetime>
+		<Content>Either screen would have to be ordered, both are from Screen Innovations. Maybe there is something better for the money also... 92 inch Reference with lunar gray material (.85 gain) for $1200 or 110 inch Zen with matte white material (1.0 gain) for $400. Could the quality of the Reference be that much better to justify the $800? I'm sorry to say that I can't test either screen and that my knowledge on this stuff is limited. I do appreciate any input! rob</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon LC-58 lens adaptor</Title>
+		<Username>sparkyboy80</Username>
+		<Datetime>08-22-2010, 03:16 PM</Datetime>
+		<Content>Hi does anyone know if the Canon LC-58 lens adaptor will fit the G11 model i currently use it on a G7 Thanks</Content>
+	</Post>
+</Thread>

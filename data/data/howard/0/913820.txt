@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Whats the Best Video recording app?</Title>
+		<Username>CrazyLocoDude</Username>
+		<Datetime>05-03-2010 04:04 PM</Datetime>
+		<Content>I am on a 3G i want to record a few little videos and do not want to pay money for an app I am not using that long. I am jb so not a problem.</Content>
+	</Post>
+</Thread>

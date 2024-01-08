@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon SD1000 Screen Size</Title>
+		<Username>jasonck08</Username>
+		<Datetime>12-12-2007, 08:56 AM</Datetime>
+		<Content>Hi guys, I'm wondering not what the size of the actual LCD screen is (I know its 2.5") but if there is any extra border around the actual LCD. Could someone who owns a Canon SD1000 camera, take out a ruler and give me accurate measurements of the screen. The reason I ask this, is because I'm getting this camera for Christmas and would like to buy a screen protector a head of time. And some people were saying that for some camera's that advertise a 2.5" LCD you should really buy a 2.6 or 2.7" screen protector for the camera. Thanks a lot!</Content>
+	</Post>
+</Thread>

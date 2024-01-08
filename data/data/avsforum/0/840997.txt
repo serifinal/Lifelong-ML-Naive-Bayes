@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic PX80 Owners Thread</Title>
+		<Username>Prodigy7</Username>
+		<Datetime>02-26-08, 10:14 AM</Datetime>
+		<Content>Below you will find a link to a post of helpful information courtesy of forum member Cantbeyou. If you are a new owner or are just interested in learning more about this particular model, this would be a very good place to start. http://www.avsforum.com/avs-vb/showthread.php?p=13569687#post13569687</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Official Pioneer 9G Elite KURO Owner's Discussion Thread</Title>
+		<Username>Aetherhole</Username>
+		<Datetime>06-13-08, 11:51 PM</Datetime>
+		<Content>Okay, SOMEBODY had to start this thread! Since the first Pro-151FD has shown up, I figured this was a great time to start this thread. Anyway, new owners post when you get them!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon LiIon battery storage (how to find out %charge)</Title>
+		<Username>E.B.E.</Username>
+		<Datetime>01-17-2008, 04:34 AM</Datetime>
+		<Content>Hi, Just a brief question. Does anyone know if there is a way to find out the %charge left in a Canon LiIon battery (specifically for the PowerShot G9)? I have two batteries and I need to store them for longer periods of time. The best charge level to store a LiIon battery is 43% (40-50% will do). The charge indicator on my G9 is really imprecise (I just get 3 lines which can be empty or full... and I don't even know if the scale is linear, for instance once I go from 2 to 1 line left, the battery doesn't last much longer). So it's really guesswork on when I get to 50%... If there is no way to read %, even some suggestions on how to do the guesswork will be appreciated. (BTW: the manual says discharge fully then store, which is dumb, this regime harms LiIon batteries) Thanks.</Content>
+	</Post>
+</Thread>

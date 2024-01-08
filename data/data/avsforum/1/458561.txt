@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>50" Pioneer KURO PDP-5010FD or Panny TH-50PZ850U, Best Choice?</Title>
+		<Username>mschmidt</Username>
+		<Datetime>07-31-08, 12:52 PM</Datetime>
+		<Content>All, Assuming both are the same price... which would you choose? Does either of the two do better with screen reflection/glare or IR/Burn-in. Those are my only two concerns right now. Let me know. We currently have a Panny 42" 60U in the basement and love it. Looking for a step up in the living room from our 52" JVC DILA. Mike</Content>
+	</Post>
+</Thread>

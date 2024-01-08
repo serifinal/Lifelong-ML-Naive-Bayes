@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon A450, A540 or A710IS</Title>
+		<Username>bubleenz</Username>
+		<Datetime>03-20-2007, 06:20 AM</Datetime>
+		<Content>Hi I am tasked with buying a digital camera for a pre-school. We have a rewards scheme with a local company and can get a camera for free but have to choose between the above three cameras. We used to have a Sony Cybershot 4.1 - and found that it was really bad with taking photos of the children inside (3/4 of photos come out blurry), and sometimes the camera would take so long to take the photo, that the moment you were trying to capture would be lost. Our needs are simple really. The camera needs to be fairly user friendly, as most people that use it have very limited knowledge of cameras. Size of camera doesn't matter. Our photos are of children under 5 playing. We mainly print 4x6 prints, but have the occasional photo blown up to 8x10. The main thing we need the camera to do is take the photo when we need it to (no lag), and for the photo not to be blurry. Our indoor shots are in low light normally. We don't care about manual controls or optical zooming etc... We would just like a nice sharp photo. Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Red Eye with Canon</Title>
+		<Username>Bossman</Username>
+		<Datetime>03-30-2007, 01:29 PM</Datetime>
+		<Content>Thoughts on whether the Canon SD800 performs well with red eye, if not, any other suggestions for a novice who just wants a point and shoot?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Plasma in a conservatory</Title>
+		<Username>rusty</Username>
+		<Datetime>25-04-2005, 10:19 PM</Datetime>
+		<Content>Has anybody recent experience of trying a PLasma / LCD in a conservatory ? Thinking of buying a 42" Panasonic, but concerned about the safety issues</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Goldfinger, Goldeneye, Licence to Kill, & More Coming to Blu-Ray</Title>
+		<Username>Spizz</Username>
+		<Datetime>11-28-08, 11:50 PM</Datetime>
+		<Content>The next 6 Bond Films are announced for release in Australia (and presumably the US) in March- http://www.blu-ray.com/news/?id=2116 - Diamonds Are Forever - Goldeneye - Goldfinger - Licence to Kill - The Spy Who Loved Me - The World is Not Enough</Content>
+	</Post>
+</Thread>

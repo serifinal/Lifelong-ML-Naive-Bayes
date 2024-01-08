@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung GX-1S Digital Camera Announced - Their First Digital SLR</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>01-16-2006, 06:00 PM</Datetime>
+		<Content>We've finally made it to one of the first steps in the Pentax/Samsung partnership. As expected, the first model out has the Samsung name on an existing Pentax camera. A jointly developed camera will come later. For now, the Samsung GX-1S digital SLR has been announced. Bascially, a rebadged Pentax *ist DS, the camera shoots 6 megapixels, features a Pentax lens mount and a 2.5 inch LCD. The camera can shoot 2.8 frames per second up to 8 images and has an ISO range of 200-3200. The camera is powered by 4 AA-sized batteries. For storage, the camera accepts SD memory media. Other specs: 11 area auto focus Shooting modes: Auto/SCN, Portrait, Flash Off, Program AE, Shutter Priority AE, Aperture Priority AE, Manual, Bulb Scene modes: Normal, Portrait, Landscape, Macro, Moving Object, Night Scene Weight: 505 grams (without batteries) Dimensions: 4.9 x 3.6 x 2.6 in USB 2.0 The Samsung GX-1S will be available starting in February</Content>
+	</Post>
+</Thread>

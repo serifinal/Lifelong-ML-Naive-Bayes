@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>enabling backgrounds and multitasking with jailbreakme jailbreak?</Title>
+		<Username>fishnetstars</Username>
+		<Datetime>08-02-2010 02:55 PM</Datetime>
+		<Content>I know that when you jailbreak with redsn0w, you can change your background, and you have multitasking. Can I do that with jailbreakme.com, or some sort of cydia application? I can't use redsn0w to jailbreak because my power button is broken.</Content>
+	</Post>
+</Thread>

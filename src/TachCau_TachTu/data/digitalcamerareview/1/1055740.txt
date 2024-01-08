@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Re: Recommended Cameras</Title>
+		<Username>stevee</Username>
+		<Datetime>01-15-2009, 12:33 AM</Datetime>
+		<Content>Thanks for all the helpful info. I really want a DSLR and am thinking of buying a used Canon Rebel XTI on ebay. The price seems to be right. Would that be a good choice for a first DSLR?</Content>
+	</Post>
+</Thread>

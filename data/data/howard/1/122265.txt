@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Nokia 5800 Phone plan Questions</Title>
+		<Username>Macross97</Username>
+		<Datetime>10-28-2009 09:30 AM</Datetime>
+		<Content>Hi, I am going to get a Nokia 5800 for my wife, right now under our roger account my wife rogers plan is on month to month, and my Iphone (HUP upgrade last July) is just past the first year of the 3 yrs contract (Voice and 6gb Data plan). My question is there any HUP on my wife month to month plan (right now there is no contract on that phone)? And is there a family plan that can share the voice and data with Iphone and Nokia 5800? I need the advice to see which way should I do, continue 2 indiviual plan or just a family plan. Thanks guys.</Content>
+	</Post>
+</Thread>

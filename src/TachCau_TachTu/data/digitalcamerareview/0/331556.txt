@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PowerShot SX30 IS keeps zooming</Title>
+		<Username>Gatorgal</Username>
+		<Datetime>05-10-2011, 10:03 PM</Datetime>
+		<Content>Did I inadvertently hit a button? My zoom won't stop zooming! Help!</Content>
+	</Post>
+</Thread>

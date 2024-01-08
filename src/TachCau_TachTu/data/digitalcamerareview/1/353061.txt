@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon A570 IS vs Canon SD750</Title>
+		<Username>bramp</Username>
+		<Datetime>11-14-2007, 09:07 PM</Datetime>
+		<Content>okay so I bought the canon Canon A570 IS three months ago, im all new to camera's and was thinking I wanted all the manual features, but all I do is auto! I am looking to get a smaller camera, cause I don't like lugging this block around in my pocket. My Question: Am I going to be missing the image stabilization on my current camera if I go to one without it? i got no clue? last note.. any other small camera's that have long battery life and take good auto shots around $200? I also like video mode... thnx Bramp</Content>
+	</Post>
+</Thread>

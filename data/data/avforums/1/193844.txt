@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TXP42VT30 vs Phillips 46PFL9705</Title>
+		<Username>indiglo265</Username>
+		<Datetime>08-08-2011, 3:39 PM</Datetime>
+		<Content>Hi All Has anyone had any experiences with the two TV sets mentioned above? 3D performance is not really a big issue. I had the 50" Panny V20 before this, which I have now sold. I would like to buy something smaller and have narrowed it down to these two - effectively the best plasma set and LED set available at the moment. Your opinions would be very much appreciated. Thanks in advance!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>WHich is better: Mark Levinson or Edge amp?</Title>
+		<Username>Stereophile</Username>
+		<Datetime>05-18-08, 10:24 PM</Datetime>
+		<Content>Is there anyone who knows about Mark Levinson power amp better or Edge amp?</Content>
+	</Post>
+</Thread>

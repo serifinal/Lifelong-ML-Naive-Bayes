@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Viera PX-T42G20B switches off and back on...</Title>
+		<Username>albertc30</Username>
+		<Datetime>05-07-2011, 5:31 PM</Datetime>
+		<Content>Hello everybody. I have had this telly for almost 6 months now and luckilly we have got 5 years warranty on it. The problem we are having, which started today, is that the telly switches off and back on on its own. After unpluging the power and giving it a couple of minutes off the problem still existes. I have read here that it was due to a signal boost on the freeview so as recomended unpluged the aerial cable and still happened once to this moment. Anybody has had this problem and what was the solution? Cheers. Albert</Content>
+	</Post>
+</Thread>

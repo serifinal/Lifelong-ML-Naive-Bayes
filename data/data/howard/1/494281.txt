@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTT: Samsung Galaxy Spica for SE X10</Title>
+		<Username>2302$</Username>
+		<Datetime>06-06-2010 01:28 PM</Datetime>
+		<Content>Want to Trade: Looking to trade a mint Samsung Galaxy Spica with firmware upgraded to Android 2.1 for an SE X10 plus some cash.</Content>
+	</Post>
+</Thread>

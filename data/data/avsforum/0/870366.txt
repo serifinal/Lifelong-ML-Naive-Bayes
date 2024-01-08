@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What are the best sounding speakers you've heard around the $3000 mark?</Title>
+		<Username>Hyper_Lite</Username>
+		<Datetime>05-21-08, 09:37 AM</Datetime>
+		<Content>List your favorite. Retail should be around $3000. Front speakers.</Content>
+	</Post>
+</Thread>

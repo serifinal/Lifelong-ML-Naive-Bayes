@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Help with BenQ Projector, please ??</Title>
+		<Username>Mikesprite</Username>
+		<Datetime>10-11-08, 07:15 PM</Datetime>
+		<Content>Hi all First time here .. hoping someone can help me out. I have a BenQ PB6100 projector. It`s been great for 3 years, but now I`m seeing a blue hue all over the projected image, no matter what input source I use. BenQ doesn`t have any support so I thought I`d try you guys .. Does anyone know what might cause this ? (my bulb has only 900 hrs, incidentally) I appreciate any help ! :-) Thanks, Mike NH --------------------</Content>
+	</Post>
+</Thread>

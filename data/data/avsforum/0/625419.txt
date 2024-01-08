@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is it getting hot in here or is it just me</Title>
+		<Username>LJG</Username>
+		<Datetime>09-04-08, 12:38 PM</Datetime>
+		<Content></Content>
+	</Post>
+</Thread>

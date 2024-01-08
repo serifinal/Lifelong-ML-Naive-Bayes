@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LG50PX990 dse</Title>
+		<Username>Tony Wattis</Username>
+		<Datetime>26-01-2012, 11:40 PM</Datetime>
+		<Content>Hi everyone. I have a LG50PX990 and I have had it just over a year now, I am happy with the picture both SD and HD material but it always has this dirty screen effect but only on bright back grounds as the picture moves slowly. When I first got it I had a LG engineer round and said these type of new plasmas suffer from it and over time it has got better but you can still see it, also it some times has line bleed when you get the credits come up or when these a edge behind someone on the TV but it's not to bad. So over the past few weeks I have been looking for a better TV like a GT30 or a sammy D7000 but both seem to have there own problems, so any advice will be very welcome, thanks.</Content>
+	</Post>
+</Thread>

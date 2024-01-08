@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iblipped App Shows Real Carrier Coverage Maps</Title>
+		<Username>Andre71</Username>
+		<Datetime>11-05-2009 03:18 PM</Datetime>
+		<Content>http://crackberry.com/iblipped-app-s...-coverage-maps Given the recent ad campaign of Verizon, and AT&T's subsequent lawsuit, iblipped could not have better timing. The application is totally free, an essentially creates real carrier coverage maps based on user data. IT gathers data based on signal strength and dead zones, and compiles the data to create real coverage maps. iBlipped uses volunteered data, so the more people that use it the better. It works on any GPS enabled device, both GSM or CDMA. Calling up Blips, you start out seeing a page that is acquiring sattelites. Pressing the Blackberry Button yeilds the options menu. Allowing you to set options such as recording mode, either Distance (good for driving) or time (good for walking). When you are done collecting your data, press the blackberry button, then press upload files. Pressing the end button sends the Blips program to the background where it continues to collect data while you go about your travels. Your data will show on our maps within 24 hours (but usually overnight if you get your files in before 9pm). So if you are going across town or across country, iBlipped.com needs your help to succeed. I think this is a very cool app, especially for free, that over time will provide a great deal of data that could help improve networks. * Download iblipped free >> * Discuss more in the CrackBerry Forums >></Content>
+	</Post>
+</Thread>

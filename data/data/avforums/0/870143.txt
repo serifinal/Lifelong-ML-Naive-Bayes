@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Freesat hd</Title>
+		<Username>weavesno1</Username>
+		<Datetime>02-01-2012, 4:42 PM</Datetime>
+		<Content>Hi guys I have sky linked thru my onkyo r608 and then from onkyo into my 50vt30. Whenever I turn my tv on it says no channels found which doesn't bother me because I just use sky thru hdmi. However I wouldn't mind setting up freesat hd and freeview hd how do I go about setting it up. What cables need to go where. Thanks</Content>
+	</Post>
+</Thread>

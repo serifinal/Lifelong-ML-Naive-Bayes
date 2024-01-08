@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Using an Unlocked Iphone on HSPA and keeping current plan on Telus</Title>
+		<Username>slickrick2369</Username>
+		<Datetime>11-17-2009 04:01 PM</Datetime>
+		<Content>I have had differing answers on this so please reply if you have a concrete answer I want to get an unlocked Iphone (or Telus Iphone) and put it on my plan I have heard that you can just go purchase a SIM card from a Telus Dealer, then call Telus to swap your plan onto the SIM card. From what I hear, they won't swap your Unlimited Data over (you have to purchase one of their new add-ons) but they will swap over your freebies (unlimited text, caller id, vm, incoming calls etc) Now, will I be able to put this SIM into the Iphone and use it? Some people say it will work fine in the Iphone while others are saying it will work in all other smartphones but the Iphone. A Telus CSR told me today that it won't work in the Iphone but I have read other postings saying the contrary I need a definitive answer so I can decide what to do next. Thanks!</Content>
+	</Post>
+</Thread>

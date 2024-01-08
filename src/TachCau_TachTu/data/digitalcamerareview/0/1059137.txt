@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot xsis10 - pics tad blurry - Help please</Title>
+		<Username>bethc</Username>
+		<Datetime>08-01-2011, 10:31 AM</Datetime>
+		<Content>Hi. Recently my pics have been a little blurry and I can't seem to fix this problem. I take mostly bird and animal shots using the Auto focus setting. I work at the zoo and we've had two giraffe births in the past two weeks! SO, I really want to get some pics but know I should study the manual further but just wanted to throw out a quick "help please." Thanks so much in advance. Beth</Content>
+	</Post>
+</Thread>

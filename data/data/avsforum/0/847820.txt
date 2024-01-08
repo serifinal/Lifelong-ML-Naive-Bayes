@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>OFFICIAL SONY 32/37 XBR6 FULL HD 120Hz</Title>
+		<Username>CHRISGEOFROMGREE</Username>
+		<Datetime>04-04-08, 01:50 PM</Datetime>
+		<Content>The new small XBR6 models are finally on the sonystyle!!This set seems excellent! Sonystyle links for specs 32XBR6 $1199 http://www.sonystyle.com/webapp/wcs/...52921665378963 37XBR6 $1499 http://www.sonystyle.com/webapp/wcs/...52921665406616</Content>
+	</Post>
+</Thread>

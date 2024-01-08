@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>power</Title>
+		<Username>murphman1971</Username>
+		<Datetime>29-11-2011, 2:29 PM</Datetime>
+		<Content>hi im looking at buying a Panasonic TXP42u30b to replace my LG PK30. Can someone please tell me the average power usage as some say it 115w and others about 265watts and also if has good input lag?</Content>
+	</Post>
+</Thread>

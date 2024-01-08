@@ -1,0 +1,2 @@
+bitpim backup and restore to new phone ? .
+is there a way of backing up my text , notes and so on and then restoring them to my new phone using bitpim ?

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic th50px70 HD problems</Title>
+		<Username>sharky01</Username>
+		<Datetime>05-07-2011, 10:03 PM</Datetime>
+		<Content>I have had the above tv for a few years and always said to friends that i couldn't tell the difference between HD and SD channels, which everyone laughed at. However, when friends came round to watch the fight saturday night they all agreed with me. I have read a lot of reviews on the tv and it is from what ive read considered relatively good for its age so i was wondering if anyone else has this tv and had the same problem and have been able to sort it. Or if anyone can suggest something i can try. Any help would be much appreciated.</Content>
+	</Post>
+</Thread>

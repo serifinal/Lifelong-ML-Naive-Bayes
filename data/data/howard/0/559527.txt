@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Different between Samsung Vibrant (Bell Canada) and Samsung Galaxy S i9000 (H.K.)</Title>
+		<Username>h2o-</Username>
+		<Datetime>10-26-2010 09:59 PM</Datetime>
+		<Content>Look like they are the same phone but I don't seem to locate any detail... by compare the spec. they're pretty much the same. Vibrant - http://galaxys.bell.ca/index.html i9000 - http://hk.samsungmobile.com/ENG/mobi...laxys_20100727 Any idea?</Content>
+	</Post>
+</Thread>

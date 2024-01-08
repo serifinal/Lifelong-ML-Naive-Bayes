@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD870 Compact Case</Title>
+		<Username>jtdcg</Username>
+		<Datetime>02-16-2008, 09:15 PM</Datetime>
+		<Content>What are you using for your SD870 case (pouch) ? I am looking for a minimalist case. Something to offer a little protection from the elements and handling but not too restrictive for quick access and without too much bulk. I ran a couple of searches on the forum but didn't turn up much. As I search I will try to update this post with options I find. In terms of dimensions the Canon site Tech Sheet lists them as: Dimensions (W x H x D) 3.65 x 2.32 x 1.02 in./92.6 x 58.8 x 25.9mm Straight from Canon the PSC-55: the amazon reviews for using it on the 870 are not inspiring but you'd think Canon's own case would work. From Amazon From B&H</Content>
+	</Post>
+</Thread>

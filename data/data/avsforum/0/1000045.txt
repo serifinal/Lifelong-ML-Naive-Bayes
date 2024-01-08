@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>Dealer offering me a demo RS11 vs Marantz VP-15S1...I have 12 hours to decide !</Title>
+		<Username>Cambor</Username>
+		<Datetime>10-21-08, 02:58 PM</Datetime>
+		<Content>I just got an intersting call from the dealr offering me thier demo room Runco RS1100 vs the Marantz VP-15S1 I did a lot of home work to decide on the Marantz and really did not consider the Runco during the process. Since he threw this option into the miz I wanted to ask the experts (*arn't we all :-)) here should I stay with my initial decision or given he is offering a projector which only has a few hours on it and is about 5k more than the Marantz, that the Runco RS110 (not Ultra), is the better deal Help as I need to make a decision tonight if I am going to meet the install date I need thanks in advance !</Content>
+	</Post>
+</Thread>

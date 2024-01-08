@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>gt30 and st30</Title>
+		<Username>serge</Username>
+		<Datetime>20-11-2011, 9:33 PM</Datetime>
+		<Content>Hi im after a 50inch for downstairs i prefer the vt50 but just out of my reach on cost, seen gt50 at 1299 inc bd player and glasses im not int. in smart tv just skyhd and bluray and 3d the st30 is much cheaper is there much difference between them on picture thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic p55gt30 plasma out of focus picture</Title>
+		<Username>Delia</Username>
+		<Datetime>19-05-2011, 5:49 PM</Datetime>
+		<Content>P55GT30 - a great deal of the time upwards of 70% of the HD picture (Dish network) is out of focus, even when there is no motion. 2 people can be sitting at a table talking and the one on the left is in focus, one on the right blurry. Then the picture will switch to a commercial and everything, foreground all the way into the distance is clear. The focused portions of the picture are great, and I can understand some blurring when there is motion, but people that are sitting still or inanimate objects in the background? We owned a plasma before and never had this issue. Sorry, I've got zip technical background but have made a number of adjustments based on some recommended settings I found here and other web sites, but none have resolved the blurring problems. Appreciate any advice, I still have two weeks in which to return the TV to Amazon.</Content>
+	</Post>
+</Thread>

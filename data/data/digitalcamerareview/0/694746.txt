@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S5 IS</Title>
+		<Username>Proctor</Username>
+		<Datetime>12-26-2011, 01:50 PM</Datetime>
+		<Content>Hi, not sure if this is the right place for ??? My Canon S5 IS is about 3 yrs old and is very frequently showing "lens error" and says shut off. Most of the time it will not correct itself. A day later it works fine for a few shots then message pops in at bottom and screen goes gray. This happens most often when I am zooming in. Is this fixable....for a reasonable amount or should I give up on camera ??? Thanks, any advice would be appreciated. Proctor</Content>
+	</Post>
+</Thread>

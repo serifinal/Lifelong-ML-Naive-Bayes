@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>3390 battery disadvantage</Title>
+		<Username>Mighty Mouse</Username>
+		<Datetime>07-28-2001 12:01 AM</Datetime>
+		<Content>It bothers me a lot that when you remove the battery from the 3390 phone, it resets the time, date and high scores. Most ppl out there probably don't remove the battery that often but when you have a data cable, you really don't have much of a choice! Do the 8290s and the 8890s have the same problem? Do you know the reason why nokia decided to overlook this problem? I know that in the user manual it states that the time will reset if you remove the battery, so obviously they were aware of it!</Content>
+	</Post>
+</Thread>

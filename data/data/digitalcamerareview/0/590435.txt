@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Power Shot SX110 IS</Title>
+		<Username>housera17</Username>
+		<Datetime>07-13-2009, 04:08 PM</Datetime>
+		<Content>Please help, my camera will turn on but only display a blue screen with Canon. The green blinking light works also but the lens does not open and you can not view or take pictures. I have changed the batteries and still received the same results. Please help!</Content>
+	</Post>
+</Thread>

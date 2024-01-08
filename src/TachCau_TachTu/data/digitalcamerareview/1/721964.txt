@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Asking price for 1-year-old Canon Powershot A75 with two 32MB CF cards</Title>
+		<Username>TimM</Username>
+		<Datetime>01-31-2006, 04:27 PM</Datetime>
+		<Content>Hey, I just wanted to know what would be a good asking price for a one-year-old Canon A75. I'm looking at upgrading to the Fuji S9000 in the somewhat near future, and I wanted to know how high I could go with the above. Appreciate your suggestions... ~Tim</Content>
+	</Post>
+</Thread>

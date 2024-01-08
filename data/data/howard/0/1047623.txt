@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Brand New Iphone4 locked to telus, looking to trade for Iphone4(fido) or sell</Title>
+		<Username>editasehic</Username>
+		<Datetime>12-27-2010 06:28 PM</Datetime>
+		<Content>pm. for details</Content>
+	</Post>
+</Thread>

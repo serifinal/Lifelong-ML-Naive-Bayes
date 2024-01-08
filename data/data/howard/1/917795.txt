@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Vivaz vs. X10 vs. Wave vs. Beam vs. Galaxy S vs. Nokia Symbian^3</Title>
+		<Username>White Comet</Username>
+		<Datetime>03-27-2010 09:41 PM</Datetime>
+		<Content>So here it is...the comparison between the top dogs, most which haven't released or will take some time to release. I'm looking for my next phone and those are my top considerations. I recently just bought a used NAM N97 but it just doesn't really cut it for me. Seems kind of slow to me. Keyboard is nice but I think I can live with a virtual one. I've had eyes on the Xperia X10 for a long long time already but because it took so long to release, I've put all those other considerations in the thread title. As GSM arena just release the X10 review, it does NOT sound very promising for such an expensive device to perform below expectations and I'm quite disappointed. Looking at all other phones, they seem to pack a lot of features like Super AMOLED, HD Recording, Mini-Projector from the Beam (But I do wonder how useful it is), Capacitative touch screen, keyboard, etc.... I guess customer service and product support is equally as important as the device itself so I'm wondering if any of you have had good/bad experiences from companies to share and what handset should I go with? I'm not in a hurry at all to change phones as I need to wait for the price to drop ($770USD) for X10 is just way too expensive. Thanks</Content>
+	</Post>
+</Thread>

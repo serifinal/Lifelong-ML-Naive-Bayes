@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Cant see Panasonic G20 on PC network!</Title>
+		<Username>YorkshireDave</Username>
+		<Datetime>01-07-2011, 10:29 AM</Datetime>
+		<Content>Ive been having trouble playing back movies and according to teh support guys (who I believe as I has already suspected it) apparently its due to my movies being on my NAS box, the PC running the software and then trying to stream it back to the TV! So, I've moved the movies onto my PC to reduce network traffic and aim to play them from there. I can see the NAS box just fine on the TV but for teh life of me I have no idea how to get the PC to show up. I actualy read the manual but its broddy ueless (or is it me) SO can some kind soul please point me in teh right direction?</Content>
+	</Post>
+</Thread>

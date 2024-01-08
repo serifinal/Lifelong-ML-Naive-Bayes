@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The green dot - Canon powershot sx100is</Title>
+		<Username>zoriv</Username>
+		<Datetime>08-19-2009, 08:58 PM</Datetime>
+		<Content>Hi there, Can you explain me something for this green dot on the image. The green dot appears only when I focus directly to the sun or some strong reflection of the sun . Look at the image >>> http://img182.imageshack.us/img182/9818/img2031.jpg . Is it any problem with my Canon PowerShot SX100 IS or no? I hope you'll help me ________________ http://zoriv.blog.com.mk/</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPad data plan apply to smartphones?</Title>
+		<Username>NickC</Username>
+		<Datetime>01-27-2010 02:01 PM</Datetime>
+		<Content>Just read that AT&T might be offering 3G data plans for the iPad at $30 unlimited or $15 with 250 Mb cap. Could this indicate a trend for smartphones too? Has anyone heard anything about that?</Content>
+	</Post>
+</Thread>

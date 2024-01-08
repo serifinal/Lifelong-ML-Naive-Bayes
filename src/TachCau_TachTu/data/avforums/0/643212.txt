@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>When will there be a Television like or better than the Kuro?</Title>
+		<Username>elcid123</Username>
+		<Datetime>25-12-2011, 6:47 PM</Datetime>
+		<Content>Hello Folks and a merry yuletide and happy new year, When will there be a TV to equel or surpass the Pioneer Kuro? I have heard Pioneer gave Panasonic there Kuro Technology and I have read some good reviews and some have come been reference category but not up to the bench mark sett by the Pioneer Kuro, good it be 2012 when a TV reaches this I wonder! Steve</Content>
+	</Post>
+</Thread>

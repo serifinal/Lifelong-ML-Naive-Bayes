@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>CINEMA ISTANBUL - Construction begins</Title>
+		<Username>gogunbaba</Username>
+		<Datetime>04-03-08, 08:53 PM</Datetime>
+		<Content>Hello, After 3 months of reading and planning , I finally started on my construction. I would like to thank everyone on this forum, especially Bud (chinadog) for his efforts of putting up an exceptional post with an index. I probably learned everything that I know now from his pictures and explanations ( I propabably live 5 miles away from him). Here is some info; Room Dimension 19x14,5x8 (No ambient light) 3 side of the room is concrete Equipment: Projector:Mitsubishi HC4900 Subwoofer: ED A5-350 Mains: Polk Audio RTI8 Center: Csi 3 Surrounds: Polk Audio RTI6 Receiver: Onkyo SR 605 XBOX 360 Elite Toshiba HD-A35 DVD Player Comcast Motorola DVR I haven't purchased the screen yet but I will go with a 120" fixed frame and planing to spend around $500(don't remember the last time I stayed around my budget). I am planning on having 4 Berkline chair at the back and 3 in front. Me and my dad started the construction on Tuesday. I have attached some pictures. I will start working on the electrical this weekend. Back Wall Back wall and side wall equipment closet entrance front wall and side wall framing done back wall framing and riser (not attached to the frame and will have insulation underneath,copying Bud's riser,thanks again) Door (will take it off) HC 4900 ED A5-350 I will post pictures as I progress , we are planning to finish this in 2 months (at least %80 of it) I am going to need tons of suggestions as I progress since I have never built a movie theater before. Thanks again, Burak</Content>
+	</Post>
+</Thread>

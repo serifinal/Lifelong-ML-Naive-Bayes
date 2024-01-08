@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>No HDMI Output from HD 3870 when connected to Onkyo 705</Title>
+		<Username>theknat</Username>
+		<Datetime>08-16-08, 03:46 AM</Datetime>
+		<Content>I've recentally upgraded my HTPC by adding an ATI HD 3870 graphics card to it. The whole point of doing this was so that I could connect it up to my Onkyo 705 by HDMI so that I can get better sound out of it, plus it invovles chaning the channel fewer times However, when I connect it up like I want to, there is no picture shown on the TV at all. If I plug the card straight into the TV over HDMI or VGA then I get the desktop of the machine. I've setup the Onkyo box correctly and I've tested the wire and setup with both and AppleTV and a Sky HD box and they work perfectly. Its almost like the card doesn't detect that the Onkyo is there so doesn't output anything at all. Any idea ?</Content>
+	</Post>
+</Thread>

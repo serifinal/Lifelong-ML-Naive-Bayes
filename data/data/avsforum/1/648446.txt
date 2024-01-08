@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which LCD should i choose LN40A750 or LNT4081F</Title>
+		<Username>itzjonjon69</Username>
+		<Datetime>07-20-08, 07:12 PM</Datetime>
+		<Content>Hey guy's sorry for the n00b question but im split between these two TV's and i don't know which one is better. This TV is going in my bedroom and will mostly be used for Xbox 360 and Blu-ray movies</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>TH50PF10 & Sky HD</Title>
+		<Username>N42</Username>
+		<Datetime>06-06-2011, 8:12 PM</Datetime>
+		<Content>Ok guys moved onto Sky HD from Virgin V+, got a TH50PF10, hence whats the best resolution to put the Sky box? 720p, 1080i etc. cheers</Content>
+	</Post>
+</Thread>

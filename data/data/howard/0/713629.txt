@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Mobileburn: T-Mobile HSPA+ vs WiMAX in Philly, the webConnect Rocket & More</Title>
+		<Username>Kies</Username>
+		<Datetime>03-08-2010 11:33 AM</Datetime>
+		<Content>Originally Posted by Mobileburn.com Over the course of the past month I've been testing out the beta 21Mbps HSPA+(INFO) network that T-Mobile is running in the Philadelphia area. My goal was to test out currently available HSPA(INFO) devices like the T-Mobile webConnect USB modem and Motorola CLIQ smartphone as well as upcoming HSPA+ devices like the webConnect Rocket to see what kind of speed consumers can expect. I even ran a few tests on a Sprint Overdrive 4G WiMAX modem to compare. As T-Mobile was quick to point out, and as AT&T's overloaded data network has proven to many, there is more to 3G speed than just the connection between the phone and the local cell tower. Without proper backhaul connections to the rest of the network (and the internet), those blazing speeds to the tower are not of much use. T-Mobile claims that it has spent a lot of time and effort running fiber across its network and adding frequency spectrum to its towers to ensure that there is enough capacity and high-speed backhaul connectivity to see that data gets to where it needs to go quickly. Delicious The rest is here:http://www.mobileburn.com/review.jsp?Id=8641</Content>
+	</Post>
+</Thread>

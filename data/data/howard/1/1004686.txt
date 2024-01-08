@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Difference between the "unlimited Data useage" and "email and web for smartphones"</Title>
+		<Username>har02052</Username>
+		<Datetime>11-02-2009 05:27 PM</Datetime>
+		<Content>I just want to know the difference between the "unlimited Data useage" and "email and web for smartphones" options as you check out on the Verizon site. I plan on getting a Droid phone. Haven't decided which yet, but what is there difference between the two options as I check out? other than the $45 for one and the $30 for the other?</Content>
+	</Post>
+</Thread>

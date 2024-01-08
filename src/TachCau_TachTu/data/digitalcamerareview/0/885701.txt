@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need assistance with SX20 IS EVF focus rectangle</Title>
+		<Username>Powershooter</Username>
+		<Datetime>07-01-2011, 11:37 PM</Datetime>
+		<Content>My latest point and shoot digicam is a Canon PowerShot SX20 IS. I moved from an SX1 IS to an SX10 IS to an SX20 IS. I still have an SX3 IS which I use for photos for eBay. I replaced the SX10 IS with the SX20 IS because of the HD video. The SX1 IS is another story. I'm asking for a solution on how to keep one green rectangle in the center of the viewfinder and disabling the others. I can't find instructions on how to do it in the PDF manual version. I don't like all of those various green rectangles when I look thru the EVF and want to turn them off in favor of a centered green rectangle. I'll appreciate someone giving me step by step instructions on how to do it.</Content>
+	</Post>
+</Thread>

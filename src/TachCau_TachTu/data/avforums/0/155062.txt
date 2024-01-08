@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>calibration new panasonic tx-p65vt30b</Title>
+		<Username>nicol117</Username>
+		<Datetime>14-07-2011, 7:05 AM</Datetime>
+		<Content>hello anybody got any info on how to calibrate this beast ???</Content>
+	</Post>
+</Thread>

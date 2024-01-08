@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Will Any LG Micro-USB Data Cable Work</Title>
+		<Username>Justin-Goldberg</Username>
+		<Datetime>12-25-2009 08:31 AM</Datetime>
+		<Content>I am looking on eBay for a data transfer cable to use with Bitpim or datapilot for reading the contacts off the phone. But I've noticed that if I search for (ax155,"ax 155") (data,transfer,usb,cable) the prices are (naturally) higher than a search for (microusb,"micro usb") (data,transfer,usb,cable). But will pretty much any data cable work? Especially if it mentions it's compatible with a similar LG phone? Also what software works with the AX* phones? Will LG Desktop, LG Phone Manager, or LG Phone Tools work with them? I bought an AX5000 off of eBay and want to move my stuff over to it.</Content>
+	</Post>
+</Thread>

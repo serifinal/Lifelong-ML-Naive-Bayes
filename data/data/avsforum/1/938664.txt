@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>QUESTION: Samsung A550/A650 or Sony XBR6</Title>
+		<Username>smoka</Username>
+		<Datetime>07-19-08, 08:45 PM</Datetime>
+		<Content>Hey everyone, I am trying to decide on a replacement for my Samsung 24" LCD (PC monitor). I am looking for a 32" to wall mount and I am wondering which is my best option. My primary use will be desktop use (internet browsing & desktop applications), followed by gaming, and occassionally watching bluray movies (via cheap internal Sony SATA player). My viewing distance is about 3-4 feet. I have narrowed my search down to these 3 choices: 1) Samsung LN-32A550 @ $900 2) Samsung LN-32A650 @ $1000 3) Sony KDL-32XBR6 @ $1000 PS: I don't want all the comparison of 120hz vs 60hz, just which would you choose given what I am using it for and price breakdown.</Content>
+	</Post>
+</Thread>

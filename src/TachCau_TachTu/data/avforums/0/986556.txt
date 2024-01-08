@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panny GT30B + Onkyo AVR expert needed</Title>
+		<Username>Rimsey</Username>
+		<Datetime>21-11-2011, 3:09 PM</Datetime>
+		<Content>I didnt know which forum to post on so I posted the problem on the Onlyo section but I am linking to it here. If the mods could lock this thread so that all discussion is done on the other thread I would be grateful. I have a Panny TV with Onkyo AVR but need the sound re-channeling back to the TV when in TV iPLayer mode: Onkyo + Panny Experts needed</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Nvidia releases official Geforce 178.24 WHQL drivers</Title>
+		<Username>HDGT</Username>
+		<Datetime>10-15-08, 10:25 AM</Datetime>
+		<Content>Nvidia has released new WHQL certified drivers to add support for the new Nvidia Geforce 9400/9300 chipsets as well as fix some bugs. http://www.nvidia.com/object/winxp_178.24_whql.html http://www.nvidia.com/object/winxp64_178.24_whql.html http://www.nvidia.com/object/winvist...8.24_whql.html http://www.nvidia.com/object/winvist...8.24_whql.html Update: Looks like there's no installer exes up yet, try again in a few hours.</Content>
+	</Post>
+</Thread>

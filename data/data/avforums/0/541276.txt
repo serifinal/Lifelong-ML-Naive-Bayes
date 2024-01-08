@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic VIERA TXP46G20 - Does not switch on. Flashing red light</Title>
+		<Username>Technostupid</Username>
+		<Datetime>23-05-2011, 7:58 PM</Datetime>
+		<Content>I bought a Panasonic VIERA TXP46G20 from Richer Sounds 3 weeks ago but I have only used it 3 times since then as have been decorating. I have plugged it in tonight and pressed the on/off button but the set does not switch on. The screnn flashes like it is about to start but then the green light on the front is replaced by a red light. This red light flashes eight times then stops for about 3 seconds before repeating the sequence. What does this mean?? I have unplugged and switched on and off a few times and the same thing happens.</Content>
+	</Post>
+</Thread>

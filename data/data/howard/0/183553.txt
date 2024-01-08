@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>International TEXTing in Virgin Mobile</Title>
+		<Username>hfbargain</Username>
+		<Datetime>06-04-2010 01:27 PM</Datetime>
+		<Content>I saw this on VM's webiste (http://www.virginmobileusa.com/mobil...text-messaging) International Text Send and receive text messages with people on select carriers in over 170 countries worldwide. To send an international text, enter 011 + the country code + the mobile number. Simple as that. Available on: All Virgin Mobile Phones Does anyone know what are those 170 countries and what are those SELECT carriers ?</Content>
+	</Post>
+</Thread>

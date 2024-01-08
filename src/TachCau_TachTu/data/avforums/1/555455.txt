@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>After 10 years, my Fujitsu PDS5001 is now dying....</Title>
+		<Username>agileboom</Username>
+		<Datetime>08-12-2011, 1:54 PM</Datetime>
+		<Content>so my question is: what do I replace it with? I loved my plasma like a family member and the set has seen the majority of use via Sky, Xbox/360, PSx, and Cube/Wii. In the last 2 weeks, the blacks and greys started failing to illuminate in wide bands, however, for me 10 years for that set is a good return regardless of the prices of 50" plasmas in 2001/2. As a long time lurker on these forums, I am aware of LCD/LED and I have checked a few other plasma threads which seem to point former Fuji owners to a Sammy xc7000, however, I am open to suggestions. While I would prefer something lighter than my set's 45kg and what I believe to be hungry power usage, I would assume tech advancements in the last 10 years has improved those 2 attributes for plasmas. Thanks for your time!</Content>
+	</Post>
+</Thread>

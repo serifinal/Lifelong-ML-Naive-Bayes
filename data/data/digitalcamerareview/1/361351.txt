@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Good Deal? Camera, Printer, Paper Deal</Title>
+		<Username>Tailic</Username>
+		<Datetime>01-08-2008, 12:29 AM</Datetime>
+		<Content>I'm in the market for a camera and I have my eyes set on a A570 IS. And while shopping around I came across this deal at walmart. Is it a good deal? I really do need a new printer, I have both a separate printer/scanner taking up space on my desk, so I'm considering getting this to replace the two. The photo paper is icing on the cake too.</Content>
+	</Post>
+</Thread>

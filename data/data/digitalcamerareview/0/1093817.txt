@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Power Shot S2-IS</Title>
+		<Username>uptain30</Username>
+		<Datetime>02-27-2007, 05:08 PM</Datetime>
+		<Content>I love the camera, but don't have a clue how to take action pictures. My boys rodeo, and all pictures are blurry. Any idea on what settings to put camera on. Please advise.</Content>
+	</Post>
+</Thread>

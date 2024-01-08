@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>ATT CS claim they will charge for new mini- SIM cards iphone 4 switching micro-SIMs</Title>
+		<Username>aneftp</Username>
+		<Datetime>06-10-2010 10:39 AM</Datetime>
+		<Content>Obviously many of us switch GSM phones frequently on Howard Forums. Easy to slide one mini-SIM from one GSM phone and put it in another GSM phone. However, with the iPhone 4, we are going to have to use a micro SIM. I called ATT CS up and they say they won't provide us with a micro SIM adapter to enable us to put the micro SIM into a regular GSM phone that only accepts mini-SIMs. So I asked if they could supply with with free mini-SIMs and microSIM so everything I switch, I could just call ATT CS and swap out micro SIM numbers for mini SIM numbers. I use currently 4 GSM phones in my monthly rotation. The new iPhone 4 will just become part of my weekly rotation. This micro-SIM that iPhone 4 is using is going to cause a lot of headaches for us GSM phone switches. Guess it's time to go on ebay to start surfing for MicroSIM adapters.</Content>
+	</Post>
+</Thread>

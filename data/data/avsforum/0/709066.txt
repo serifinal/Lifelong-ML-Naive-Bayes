@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Scrapwood Theater Build....</Title>
+		<Username>htnutz</Username>
+		<Datetime>10-16-08, 08:28 AM</Datetime>
+		<Content>Well&#8230;Almost Done. I thought I would share my &#8220;mom..where&#8217;s dad&#8221; project. My theater is 15&#8217; x 12&#8217; 9&#8221; with 8 foot ceilings. Its part of a complete basement overhaul project that was started 3 years ago. My main goal for the theater room was to create a beautiful room for as little money as possible. I consider myself an expert wood worker, and also being part Dutch (penny pincher) I thought I could pull it off for well under $10,000, including seating. It was more of a personal contest than anything else. The screen is 110". Painted wall, Behr Silver Screen. Looking at buying 5 Berkline 88 seats; two rows of seats. 2 seats in the front row and 3 seats on the riser. With that being said, over the last two years I&#8217;ve become very creative at finding ways to reduce the cost of the room. This is the results so far&#8230;. I&#8217;ll post more pictures soon. But for the time being, I hope you enjoy them!</Content>
+	</Post>
+</Thread>

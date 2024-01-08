@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Burned in image on my G20 :(</Title>
+		<Username>germanjulian</Username>
+		<Datetime>06-06-2011, 5:53 PM</Datetime>
+		<Content>Hi, just noticed by chance that I have a burned in image on my plasma in the top right corner saying "Press" which is about 2" tall and 3 wide. Not sure where it came from but I can just about see it on a fully white screen and a yellow screen and the colour is slightly dark... like a very slight shade of grey. I don't run my Plasma at very high brightness so I am not to happy that I have a burn in image now but is there any way to fix this? It must have been there a while I suppose and I hope I learn to ignore it but I really didnt think Plasmas had much of a burn in issue any more</Content>
+	</Post>
+</Thread>

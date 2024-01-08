@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Do John Lewis do home repairs? (Panny just broke - what could be wrong?)</Title>
+		<Username>MrBungle2005</Username>
+		<Datetime>25-12-2011, 9:57 PM</Datetime>
+		<Content>Great Christmas day for me today - switched my Panny on this evening, flicked over to an HDMI input ready for my Xbox and hear a small "pop". Tv switched to HDMI one and I have a black bar about 3 inches wide to the left of the screen. It seems as though one vertical 3 inch wide section of the screen has just stopped working Obviously I'm stuck now and can't call JL until Wed I guess. I've tried leaving the set off for a while as I clutch as straws hoping that it might reset itself (fat chance) but didn't help. As it is a 50inch model (TH50PZ80B) I'm hoping they can repair it here rather than take it away (and make the wait for it to be fixed even longer) - is that what they tend to do? (if it's a known easy fix?) As it all seems to be functioning other than this black bar I'm hoping it is something relatively minor. I'm so gutted. I love this TV and the thought of someone opening her up, and potentially (accidentally) putting finger marks in the screen fills me with dread Thanks for any info p.s it was bought in Aug 2008 so is under their 5 year warranty so don't want to do anything drastic myself like remove the back panel to look for faults if I can avoid it. Even though I used to work in car hi-fi doing installations and repairs and so am confident with dismantling electronics, I'd rather avoid it unless it may be an easy fix.</Content>
+	</Post>
+</Thread>

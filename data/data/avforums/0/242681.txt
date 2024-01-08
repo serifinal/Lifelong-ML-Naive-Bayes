@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P42GT30 - buzzing! Will mounting help?!</Title>
+		<Username>Freakinfreak</Username>
+		<Datetime>20-01-2012, 12:32 PM</Datetime>
+		<Content>Hi, So just had a TV engineer sent over to me by John Lewis (hooray for 5 year guarantee ) and he said that it's supposed to make a buzzing noise like that, which sounds much like the noise you get from a lightbulb dimming switch, sort of like a white noise almost. The problem is, when listening to the TV at about 20% volume, I can still hear it, and same again in programmes/films where the vocals are quieter during a speaking only part of the film. The TV is currently about 15-20cm away from the wall, on it's stand, on a wooden set of drawers. About 15-20cm above it is a wooden shelf with books on it, and there's about 8-10cm gap either side of the TV, one of which has a wall next to it, the other has a wooden DVD tower next to it. Oh, and I sit about 8-10ft away and can't get back any further (curses to the small room!) Mr. TV engineer said that wall mounting and using a bit of foam around the connecting parts will help dampen it since the sound won't be reflected off the wall and projected forwards. Is this BS? Strangely enough, my TV has been on mute for the best part of an hour so that I can notice the buzzing difference between certain images, and at the moment it's making next to no noise. Why?! I've also got a ferrite core on the power lead towards the end nearest the TV - do these play any part in the buzz? Sorry for the general ramble and questions, but if anyone's got any input then this would be great, thanks!</Content>
+	</Post>
+</Thread>

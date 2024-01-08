@@ -1,0 +1,7 @@
+tversity not playing 5.1 , any help ? .
+i have been searching through the forums forever now and ca n't find any help regarding this issue .
+i am streaming to my ps3 with tversity , i know my mkv files have 5.1 -lrb- i have ones with both ac3 and dts 5.1 -rrb- but no matter what it plays in regular 2.0 stereo to my receiver .
+i have the k-lite codec pack installed , and i have now installed ac3 filter to see if i can mess with that to get it to work ... no luck so far .
+the video looks amazing , transcodes like a dream , but not 5.1 is killing me !
+i have read that it is possible to stream the 5.1 over the network , just ca n't figure out how !
+any help would be greatly appreciated !

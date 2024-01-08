@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PSxxD450 / PSxxD490</Title>
+		<Username>runam0k</Username>
+		<Datetime>12-04-2011, 5:37 PM</Datetime>
+		<Content>Just wondered if anyone else had picked one of these up? These are Samsung's low end 4 Series 720P HD Ready TVs, 43" and 51" varieties (the odd sizes are selling points: the frame is reduced to 1", which makes for a very attractive TV IMO). The D490 is 3D capable, the D450 is 2D only. Having seen one in JL, I pulled the trigger on the 51D450 and I'm very impressed! The picture is great (SD and HD, although if I was sitting any closer to a set this big I'd look towards 1080P) and I haven't noticed any IR at all. This was my big fear coming from LCD. No 50Hz bug and no major issues with fast moving objects either (which put me off getting a Panasonic 50G20). It isn't network enabled, unfortunately, but it plays music/videos/photos via USB. Gaming is a treat - the set seems very responsive and Crysis 2 on my 360 looks insane. My only real complaints are: it only has 2 HDMI inputs and the base/stand is a gloss black dust magnet.</Content>
+	</Post>
+</Thread>

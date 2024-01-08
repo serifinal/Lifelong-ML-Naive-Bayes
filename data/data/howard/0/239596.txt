@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rogers Rocket Stick HSPA+ (Upto 21MBPS) UNLOCKED</Title>
+		<Username>lukeiphone</Username>
+		<Datetime>12-22-2009 01:42 PM</Datetime>
+		<Content>I have this rocket stick for sale. Model Number: ZTE MF668. If you have a data plan, just put in your sim card and you are ready to go. I unlocked this stick so it should work with any sim card. HSPA+ is more like a 4G network with speeds upto 21MBPS as advertised. This stick comes with box, manual and USB cable. Contact me if anyone is interested.</Content>
+	</Post>
+</Thread>

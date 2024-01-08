@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>usb vga adapter</Title>
+		<Username>slickNsxy</Username>
+		<Datetime>02-14-2010 09:57 PM</Datetime>
+		<Content>Will that work on a notebook so i can play modern warfare 2 on it? i have it installed and got from steam and my video lags bad and is choppy.</Content>
+	</Post>
+</Thread>

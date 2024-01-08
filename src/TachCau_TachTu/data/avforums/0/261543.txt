@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Panasonic P42GT30 - could it be a refurb?</Title>
+		<Username>ESW</Username>
+		<Datetime>14-12-2011, 11:04 PM</Datetime>
+		<Content>Hi, I have just purchased the Panasonic Viera P42GT30B. Box seemed OK but on unpacking have found the remote loose in the box not even in a bag or anything. Is this normal? I'm worried it may be a refurb. Some of the other bits look like they have been thrown in with the instructions too whilst others are neatly shrink-wrapped. Should I worry about it? Thanks for any advice.</Content>
+	</Post>
+</Thread>

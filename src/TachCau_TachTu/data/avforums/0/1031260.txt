@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic hdmi2</Title>
+		<Username>dlemon</Username>
+		<Datetime>19-01-2012, 8:45 AM</Datetime>
+		<Content>Sorry guys, I have read through the different threads on here about this,with no clear answer, this is my problem. I got new st30 plasma, and have it connected on hdmi2(tv) for ARC to my ONKYO 609AVR, as thats the ARC channel, but whenever I turn my tv on, I have to rummage around to find the tv remote so as I can switch to hdmi 2, to get sky, blueray & PS3, this is a really annoying issue, as the wife and kids phone me (how do get this tv to work). So in short is there a setting that whenever you turn the tv on from a standing start, it automatically defaults to hdmi 2, then you just turn on whatever source you want eg sky etc. Set up, Onkyo 609 avr Panasonic 50" st30 Sky hd PS3 Panasonic bdp210 Kef 3005se, And a big pile of wires</Content>
+	</Post>
+</Thread>

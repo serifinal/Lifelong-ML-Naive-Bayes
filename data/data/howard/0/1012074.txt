@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Apple iPhone4 16GB Factory Unlocked</Title>
+		<Username>johnmoon</Username>
+		<Datetime>02-08-2011 10:25 AM</Datetime>
+		<Content>-Factory Unlocked -New condition 10/10 no scratched or wears anywhere -Screen protector on the screen -Black case-mate "barely there" case + iSkin case will be included -comes with all inc box (none of accessories were touched or used) -Warranty till July Asking 620CAD</Content>
+	</Post>
+</Thread>

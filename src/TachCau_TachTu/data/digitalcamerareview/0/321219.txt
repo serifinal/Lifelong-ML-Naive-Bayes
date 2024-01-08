@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Rebel T1i for Christmas</Title>
+		<Username>40yearfan</Username>
+		<Datetime>12-28-2009, 06:42 PM</Datetime>
+		<Content>My wife surprised me with a Rebel T1i with an 18-55mm IS lens for Christmas and my son got me the Speedlite 270EX flash to go with it. After being used to taking pictures with my little Sony DSC-H20, I am suddenly confronted with dials, settings and menus galore. It's going to take me a month to learn how to use it properly, but I do believe the picture quality will far outweigh the time needed to do this. Now the question is, do I spring for the Canon 55-200mm lens, the Canon 18-135mm lens, or the Tamron 18-270mm lens? I would like something where I wouldn't have to be changing lenses all the time and it makes the Tamron look like it would be a great all purpose lens. The question is the quality of picture. Is it as good as the Canon lenses? I like to take portrait type pictures and wonder if just a plain old 50mm lens might work best for this. Any feedback will be greatly appreciated.</Content>
+	</Post>
+</Thread>

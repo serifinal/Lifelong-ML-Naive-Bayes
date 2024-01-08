@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does the ASUS P5QL-CM support TV out directly through VGA?</Title>
+		<Username>WelshChief</Username>
+		<Datetime>12-04-08, 06:42 AM</Datetime>
+		<Content>My HTPC has let me down getting a signal from the HTPC to my Onkyo receiver, so my last resort is a VGA-S-Video cable (not ideal, i know!). However, the cable im contemplating states "Your VGA card must support TV out directly through VGA port function". but I dont know my the motherboard I am using (ASUS P5QL-CM) support this. Does anyone know if it does, or how i tell? Thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Western Digital WD TV HD Media Player</Title>
+		<Username>bulfin</Username>
+		<Datetime>12-02-08, 05:48 PM</Datetime>
+		<Content>I have just bought a Western Digital WD TV HD Media Player, my problem is that it freezes on the main menu, at first i thought that the batteries in the remote were flat, but when i eventually managed to get to the movie files it played them no worries, and the remote worked fine, it just seames to have a big problem getting past the main menu.</Content>
+	</Post>
+</Thread>

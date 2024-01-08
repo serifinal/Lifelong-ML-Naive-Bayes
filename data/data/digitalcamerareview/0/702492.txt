@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Random Blurry Picture (Out Of Focus)</Title>
+		<Username>ajaynejr</Username>
+		<Datetime>03-03-2008, 02:23 PM</Datetime>
+		<Content>(copied from another forum) I'm throwing this out in case someone has also experienced it or has some insight into what is going on. I was taking a number of close up, but not macro, pictures. Specifically of printed matter such as newspapers, using a modest amount of zoom. Shooting distance was around three feet. The camera was a Canon SD700 IS but I suspect the model is not relevant here. To be specific I took one picture which was OK, then zoomed in a little and took a second picture, then took a third picture with the same settings and same vantage point as the second, all within a time span of about one to two minutes. Only the second picture was horribly blurry, looking like it was way out of focus, not a camera movement issue.</Content>
+	</Post>
+</Thread>

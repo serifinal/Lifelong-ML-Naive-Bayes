@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Switching to P+</Title>
+		<Username>another_enginee</Username>
+		<Datetime>12-10-2009 10:46 AM</Datetime>
+		<Content>Well, I'm yet another who will be making the switch to page plus shortly. I bought a verizon prepaid at target a few weeks ago, and activated it on page plus to test out the network, and I think it's going to work out just fine. From reading this forum, it seems like it will be difficult to covert the prepaid we bought to access data on the page plus network, so I will probably use that for my wife's line when we port (she doesn't use the data anyway), and I've bought a htc touch diamond off eBay for my use (it was advertised as Verizon, but it's branded Alltel...so hopefully that doesn't come back to bite me). I'm planning on porting my wife's line over first (since she has the secondary line in our current Sprint account) to the test phone we're using now and changing it to the unlimited talk/text, then porting mine to the touch diamond on the 1200 minute/text a month plan, mostly because I'd still like to have a little data to check emails remotely from time to time. Thanks for everyone's advice in other threads on this forum -- I think I've read enough I'm ready to make the plunge. Any other "gotchas" that stand out that I should watch out for in this process?</Content>
+	</Post>
+</Thread>

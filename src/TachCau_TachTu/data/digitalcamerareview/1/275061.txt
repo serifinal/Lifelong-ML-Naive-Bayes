@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SX10 si Memory Card</Title>
+		<Username>Scoop</Username>
+		<Datetime>02-05-2009, 01:50 PM</Datetime>
+		<Content>Just bought the camera for my trip next week. Not sure what would be the best memory card to purchase. The sites range from a pretty basic to a very high end expensive card. Help and fast!! Thanks in advance.</Content>
+	</Post>
+</Thread>

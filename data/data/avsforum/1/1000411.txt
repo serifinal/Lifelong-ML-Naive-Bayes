@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic 42PZ80U or Samsung LN40A530?</Title>
+		<Username>nbb003</Username>
+		<Datetime>07-20-08, 09:29 AM</Datetime>
+		<Content>Which one do you guys recommend? I am torn between the two? BTW, I'm getting it to primarily watch Sports and Movies- not a big game person...Thanks.</Content>
+	</Post>
+</Thread>

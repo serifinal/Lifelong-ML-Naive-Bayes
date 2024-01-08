@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>white lines with my a470 captures</Title>
+		<Username>enad</Username>
+		<Datetime>05-29-2010, 01:02 PM</Datetime>
+		<Content>This happened just recently. My canon a470 woudlnt capture images correctly whether indoors or outdoors. The LCD is fine it's just that after taking pictures, white horizontal lines are on the pictures taken. I reset the settings, reformat my storage device and changed it, and cleaned the lens but still no use. My cam is just 14 months old. Any idea why it is happening? btw, here's a sample capture. please notice the white lines.</Content>
+	</Post>
+</Thread>

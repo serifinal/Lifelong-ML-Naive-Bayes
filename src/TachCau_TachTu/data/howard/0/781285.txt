@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Any disadvantage in getting the iphone4 FIRST and then negotiating a HUP with Rogers?</Title>
+		<Username>skanji</Username>
+		<Datetime>07-30-2010 09:14 AM</Datetime>
+		<Content>Any disadvantage in getting the iphone4 FIRST and then negotiating a HUP with Rogers? I want the dust to settle and ensure I actually get an iphone first before negotiating the 3 year deal. Currently I'm in year 2 of a 3 year deal for my BB 8900. Thoughts?</Content>
+	</Post>
+</Thread>

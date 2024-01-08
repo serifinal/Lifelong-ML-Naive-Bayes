@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Transfer images back to memory card</Title>
+		<Username>tsee</Username>
+		<Datetime>11-12-2009, 03:54 PM</Datetime>
+		<Content>Hi, I have Canon Power Shot SX110 IS. When I try to transfer images back to memory card I got message that "The image is a JPEG that cannot be displayed on the camera". I have the same message even when I tried to transfer images taken by this camera. Can please anyone advise how to fix this issue. Thanks</Content>
+	</Post>
+</Thread>

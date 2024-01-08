@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TXP50-G20B Network Issues</Title>
+		<Username>AmjadJ</Username>
+		<Datetime>09-07-2011, 11:03 PM</Datetime>
+		<Content>Hello to you all!! I am new to this and hopefully my question can be answered!! I recently purchased the TXP50-G20B and was looking to get it connected to my sky router using an ethernet cable. I have entered the IP address, Gateway etc correctly (confirmed by Sky) although they told me there is no port number so I left this within the proxy settings blank. When I perform the connection test, I get the successful message. The issue is when I select the media server option within the input selection list, it comes back with an error message saying "Server Not Found". The only thing I may not have done is entered values in the Access Point Settings within the network setup screen. This is because it is currently greyed out and simply shows "---". Having had a look at the manual it says press WPS button on access point (which i am assuming is my router) but there is no such button. My main aim is to watch movies on my lovefilm account (assuming it is available) however would like the network setup...... 1. How do I get the network setup? 2. Once setup will I be able to stream movies via lovefilm? Many thanks in advance</Content>
+	</Post>
+</Thread>

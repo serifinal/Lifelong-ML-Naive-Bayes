@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Android Samsung Galaxy S (GT-I9000) announced at CTIA</Title>
+		<Username>PhoenixStorm713</Username>
+		<Datetime>03-23-2010 04:30 PM</Datetime>
+		<Content>Another impressive spec'd Android. Sounds like Samsung is going for the UI kind of thing too with Smart Life. This is definitely the best Samsung 'Droid so far. Wonder how long till it launches and who will get it. From INTOMOBILE.COM The Samsung Galaxy S (GT-I9000) has been announced at CTIA, rocking an. impressive 4&#8243; WVGA touch display, Android 2.1, 5 megapixel camera and a 1 Ghz processor. The crux of the Galaxy S revolves around a home screen called Smart Life, which will provide a user-defined daily briefing with pertinent data (news, weather, meetings, maps, etc.). briefing with pertinent data (news, weather, meetings, maps, etc.). Looks to be a 'with GOOGLE' phone....interesting... Links to articles in post #3</Content>
+	</Post>
+</Thread>

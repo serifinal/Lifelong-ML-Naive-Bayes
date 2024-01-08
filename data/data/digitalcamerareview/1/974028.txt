@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Powershot IS 2 or 3?</Title>
+		<Username>jtom</Username>
+		<Datetime>01-06-2007, 10:34 PM</Datetime>
+		<Content>I am having a tough time deciding between these two. The IS 2 is $150 cheaper than the S3 however I love the black color of the S3. Any opionions? I know the color is a stupid reason but I like the black color ALOT better than the silver color. Do you think its worth $150 to get the S3? Thanks</Content>
+	</Post>
+</Thread>

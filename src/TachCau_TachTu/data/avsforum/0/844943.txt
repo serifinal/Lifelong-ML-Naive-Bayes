@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Confused over Samsung Models LNxxAxxx and LNTxxxx</Title>
+		<Username>bobtodavid</Username>
+		<Datetime>12-25-08, 11:36 AM</Datetime>
+		<Content>What is the difference in the product lines? I've tried reading about the models but can't sort out significant differences. Can anyone tell me what model LNTxxxx compares, and how, to an LN40A650 for example? Also, when I go to Samsung on line I can't find any LNT models listed.</Content>
+	</Post>
+</Thread>

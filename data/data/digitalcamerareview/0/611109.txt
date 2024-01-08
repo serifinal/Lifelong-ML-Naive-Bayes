@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon powershot S2is</Title>
+		<Username>kdl2121</Username>
+		<Datetime>08-14-2009, 03:00 PM</Datetime>
+		<Content>When I take picture daylight picture turns out white barely see the images. And inside picture are OK. I did set white balance but did not help. What is wrong with this canon powershot S2is. thanks</Content>
+	</Post>
+</Thread>

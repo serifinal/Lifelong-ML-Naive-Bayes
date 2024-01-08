@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot S3 IS screen is black</Title>
+		<Username>Gerrich</Username>
+		<Datetime>09-02-2011, 03:36 PM</Datetime>
+		<Content>When I turn my Canon the screen is black or blank. All settings seem to work. If I take a picture, it is just black. Does anyone have any ideas?</Content>
+	</Post>
+</Thread>

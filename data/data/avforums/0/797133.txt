@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic Viera P42V20B Issue</Title>
+		<Username>bbr</Username>
+		<Datetime>19-12-2011, 7:22 PM</Datetime>
+		<Content>Hi I've had this tv for a few months now and so have finally decided to ask your opinion on what my issue may be. When watching Sky channels or Sky HD the picture leaves a slight pixelated trail behind fairly fast moving images. I say fast moving images but it could be a fairly slow panning shot. Is this what is meant by ghosting? I thought this TV was good for not doing that? It doesn't do it when playing blurays through my home cinema system. Could this be a Sky reception issue? My Input 1 signal strength is full and the quality is a tiny bit off of full. Not sure if this matters but my Input 2 signal strength is next to nothing and the Signal 2 quality is about 3/4 full. Any ideas? Thanks in advance</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon PowerSot SX130 IS Megapixel pic?</Title>
+		<Username>ugotmerc</Username>
+		<Datetime>01-08-2011, 08:41 AM</Datetime>
+		<Content>I have just purchased this camera and it states a 12 Meg picture? When the pictures are taken and viewed, the largest pixel may only be around 3 Meg? All of the settings are correct for a 4000x3000 and Fine (Shoot High Quality Images). As an example, when viewing properties of a picture on the camera, the picture indicates "12M 4000x3000" but show 1.88 MB? Why doesn't it take a 12 MB picture? Thanks for anyone's help in advance. Rick</Content>
+	</Post>
+</Thread>

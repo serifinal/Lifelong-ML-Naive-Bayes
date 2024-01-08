@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>free 3d glasses</Title>
+		<Username>bamby5582</Username>
+		<Datetime>31-07-2011, 8:49 PM</Datetime>
+		<Content>hello i bought a 42gt30b from 365 Electrical 4weeks ago it should have came with 2 free pairs of glasses but still waiting for then all i get when i phone them is they are waiting for panasonic to send then out is there anyone else who is waiting for theres it so annoying as they did not say that i would have to wait for them when i ordered the tv cheers lee</Content>
+	</Post>
+</Thread>

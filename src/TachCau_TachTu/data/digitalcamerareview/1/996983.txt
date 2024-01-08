@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Going in for a telephoto lens for S5is,help!</Title>
+		<Username>wrapster</Username>
+		<Datetime>07-13-2009, 03:32 PM</Datetime>
+		<Content>Hi, I have S5is and off late I feel like the zoom isnt sufficient and would like to go in for a telephoto lens... A couple of posts I read tell me that the canon's default offerings isnt as impressive as its Sony counterpart... I would like to know which lens to buy? any magnification is fine with me(1.5 / 1.7) Its a bit urgent ,please put in your views I have read about the reviews on lensmate, but still would like to know from a user ,which one i need to pick up.... And other accessories that are necessary Regards</Content>
+	</Post>
+</Thread>

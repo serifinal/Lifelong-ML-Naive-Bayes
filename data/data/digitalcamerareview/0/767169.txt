@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help!</Title>
+		<Username>karenina</Username>
+		<Datetime>11-29-2010, 02:41 PM</Datetime>
+		<Content>I have a canon powershot A480 and I I love it but I am trying to take some still lifes for my business and am having issues with focosing. Namely, the camera decides where it should focus by putting the little green "box" around focus spot. Sometimes, there will be just one green box, sometimes there are two green boxes and sometimes there are three or four all stacked together. THEN, SOMETIMES I can see a "PRE-Green box" that is actually white and though it appears and disappears (seeminly) at random when the camera is moved. But when its visible, if I catch it at JUST the right moment (which is when the white box is around the whole shot) I can get the picture I want. I've looked everywhere for answers and am hoping that someone who actually has this camera can help. The problem is that (I photgraph product vignettes) usually the camera just picks a spot and then the rest of the image is not as clear. Thanks so much for helping!!!!!</Content>
+	</Post>
+</Thread>

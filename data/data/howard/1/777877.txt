@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Can anyone suggest a HSPA+ Router capable of 21mbps</Title>
+		<Username>netvampire</Username>
+		<Datetime>06-18-2010 10:00 AM</Datetime>
+		<Content>Hi There, I recently acquired the unlimited data option on Fido. I am looking to make this my primary internet connection and would like a router capable of the new HSPA+ network with speeds up to 21mbps . Can anyone suggest a router that is HSPA+ capable? Thank you</Content>
+	</Post>
+</Thread>

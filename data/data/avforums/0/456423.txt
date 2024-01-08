@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>guide stand locked to back of samsung tv</Title>
+		<Username>tfavretto</Username>
+		<Datetime>26-11-2011, 4:21 PM</Datetime>
+		<Content>Purchased a 51 inch Samsung plasma. Need to know how to remove the locking base from the back of the tv. I have all 4 screws are out however it still seems to be locked in place.There is a small rectangular hole on the left hand side with a padlock symbol beside it that I assume is to unlock whatever tab is hold the guide stand to the tv right now.. but I am stumped by how to make it work. please please help</Content>
+	</Post>
+</Thread>

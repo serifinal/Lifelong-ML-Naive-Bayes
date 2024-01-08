@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic P50VT20 turning off/on by itself</Title>
+		<Username>lordtasan</Username>
+		<Datetime>21-01-2012, 5:34 PM</Datetime>
+		<Content>My P50VT20 has started turning off and back on again by itself, seems to happen completely randomly but at times it is almost not possible to get it to stay on for longer than 10 seconds. Yet other times it runs for hours with no problems. I have removed all connections from it and tried different wall sockets. Did a factory reset in case there is some kind of corruption on the channel guide or something but to no avail. Fortunately I have the 5 year cover direct with Panasonic and it's being taken away to be looked at on Monday. Can't say I'm over the moon at the idea of it being carted off, maybe it's a bit paranoid but I think I will take some photos of the condition of it, model number, hours watched etc.. Anyone had the same problem?</Content>
+	</Post>
+</Thread>

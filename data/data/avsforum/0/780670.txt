@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need Help With Onkyo Receiver And PS3</Title>
+		<Username>Myth</Username>
+		<Datetime>06-22-08, 08:46 PM</Datetime>
+		<Content>i'm using a optical cable for my sound on both my ps3 and 360. i notice when i click the display button on my ps3 remote it tells me that the sound is multichannel and not 5.1 is there something in the ps3 settings that i'm not seeing?</Content>
+	</Post>
+</Thread>

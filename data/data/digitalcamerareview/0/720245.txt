@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Need help with a Canon lens</Title>
+		<Username>40yearfan</Username>
+		<Datetime>06-17-2009, 04:38 PM</Datetime>
+		<Content>OK, so I purchased a Canon SLR EOS Ti 35mm camera that came with a Canon 35 to 80mm f/4-5.6 II lens. I have a Sony DSC-H20 for family pictures, etc and am well satisfied with it, but I wanted something extra special to take portrait type pictures with. Once upon a time, I had a Canon AE-1 with a 50mm lens that took just absolutely great pictures. My problem with the Ti is that the pictures just don't seem very sharp and I think it might be because of the cheap kit lens that came with the camera. It's either that or what I used to consider to be sharp pictures have been surpassed by a little digital camera with 10MP. The pictures I take with the Sony are much more clear and sharp than what I can get with the Canon. I would like some input as to whether I am expecting too much from the Canon or whether a different lens would really sharpen things up when taking protrait type pictures with one or two individuals. Any feedback would be greatly appreciated.</Content>
+	</Post>
+</Thread>

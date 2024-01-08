@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Great Deal on On-wall Speakers</Title>
+		<Username>Odd-E-O</Username>
+		<Datetime>04-29-08, 05:42 PM</Datetime>
+		<Content>I was on the EMPtek website and noticed that they have their EW on-wall speakers on clearance for $99 each. I called and spoke with one of their sales people and he said it was a limited buy and that they are closing out their remainng inventory. The review on the EMPtek website is good and I noticed that Audioholics gave these speakers a good review. Has anyone heard them? Thanks Odd-E-O</Content>
+	</Post>
+</Thread>

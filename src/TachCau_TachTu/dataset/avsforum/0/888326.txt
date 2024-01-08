@@ -1,0 +1,4 @@
+nvidia geforce 180.42 beta drivers .
+nvidia has released new beta 180.43 drivers for testing , these are what would be the big bang ii drivers it seems , new codebase .
+this definitely will need a lot of testing and feedback .
+http://www.nvidia.com/object/winxp_180.43_beta.html http://www.nvidia.com/object/winxp64_180.43_beta.html http://www.nvidia.com/object/winvist...0.43_beta.html http://www.nvidia.com/object/winvist...0.43_beta.html

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>FT - iPhone 3GS 16 gb for samsung galaxy s i9000</Title>
+		<Username>aobberry</Username>
+		<Datetime>09-17-2010 10:31 PM</Datetime>
+		<Content>Title says it all. Phone is unlocked running ios 4.0.1, mywi bought and installed</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>£800 budget, new 3D TV required.</Title>
+		<Username>Slinwagh</Username>
+		<Datetime>27-12-2011, 9:06 PM</Datetime>
+		<Content>We were at some friends house this evening and after about 5 minutes of watching some 3D content the wife would like a 3D TV, am can honestly say I am not to upset about this. The requirements would be as follows: 42" or greater 3 HDMI ports BBC iPlayer etc / Smart TV ? As for the room it will be going in, we both sit off centre, left and right, about 8 feet away from the TV, we have two windows to the right of the current TV, front right and rear left in terms of surround sound if that makes sense. Nice to have would be 4 HDMI ports but that is not a deal breaker. Over to you.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung PS51D450 51" + 720p vs 1080p for non HD sky tv ??</Title>
+		<Username>jollyranchers</Username>
+		<Datetime>08-08-2011, 8:11 PM</Datetime>
+		<Content>looking for a 50" ish plasma for my new kitchen , seen this samsung unit for about £495 but its only 720p SAMSUNG PS51D450 51" HD Ready Plasma TV | Dixons | Tv will be used only for watching standard sky tv programs at about 2.5 metres away if sat at table which will give me the best picture quality at this close range ? should i be going for a 1080p unit ? Can anyone with this tv comment on the quality ? im struggling to find any good info on this set thanks guys</Content>
+	</Post>
+</Thread>

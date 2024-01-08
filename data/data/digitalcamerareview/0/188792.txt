@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Shooting Indoors</Title>
+		<Username>Winfield51</Username>
+		<Datetime>05-24-2008, 06:51 AM</Datetime>
+		<Content>I have a new PowerShot A590. I have used the cameras indoors at my kids school concerts. The room tends to be dark except for the stage area. The photos keep coming out blurry or dark. What am I doing incorrect? I plan on using this at Disney in August and I want to figure this out before then. Any suggestions will help. The owners manual did nothing for help.</Content>
+	</Post>
+</Thread>

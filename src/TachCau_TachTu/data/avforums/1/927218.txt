@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic plasmas</Title>
+		<Username>g9ern</Username>
+		<Datetime>08-12-2011, 8:10 AM</Datetime>
+		<Content>I'm in the market for a new TV and have more or less decided on a Panasonic 42" plasma. Not being very flush with cash, I'm looking at low end models and will probably go for a U30 or S30. But now I see an S31 model appearing. Does anyone know the difference between the S30 and S31?</Content>
+	</Post>
+</Thread>

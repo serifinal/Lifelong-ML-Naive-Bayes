@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Compatibility Issie</Title>
+		<Username>ecckles</Username>
+		<Datetime>01-06-2009, 08:04 AM</Datetime>
+		<Content>I'm thinking of buying a refurbished Canon Ixus from Canon,but would it be compatible with windows vista?</Content>
+	</Post>
+</Thread>

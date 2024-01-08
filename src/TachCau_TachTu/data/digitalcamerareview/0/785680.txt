@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>does the flash power on canon sx100 changes automaticlly?</Title>
+		<Username>computer_freak</Username>
+		<Datetime>04-03-2008, 01:25 AM</Datetime>
+		<Content>hello i was wondering if the power of the flash changes automaticlly according to the iso level? i am talking about automatic mode thanks</Content>
+	</Post>
+</Thread>

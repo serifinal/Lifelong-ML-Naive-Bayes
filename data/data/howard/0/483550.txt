@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>BNIB Sealed Roger's iPhone 3GS 16GB</Title>
+		<Username>isumi</Username>
+		<Datetime>10-19-2009 11:22 AM</Datetime>
+		<Content>Got a Brand New Sealed in the Box iPhone 3GS 16GB from Rogers. Price: $700 Location: North York Local Deals ONLY Low-ballers please don't waste both of our precious time, thank you =) Please PM me, sms or call me at (416) 560-2159, if you need anything else please let me know. Thank you for visiting.</Content>
+	</Post>
+</Thread>

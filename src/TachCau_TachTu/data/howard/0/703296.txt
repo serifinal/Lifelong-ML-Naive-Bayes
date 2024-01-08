@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Torch 9800 announced by RIM & AT&T</Title>
+		<Username>ronjon11</Username>
+		<Datetime>08-03-2010 09:57 AM</Datetime>
+		<Content>Its official now, the new Torch is announced... http://www.att.com/shop/wireless/dev...erry-torch.jsp I cant wait for the AWS version to run on Wind.</Content>
+	</Post>
+</Thread>

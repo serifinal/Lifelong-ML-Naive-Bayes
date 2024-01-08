@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: Samsung Vibrant</Title>
+		<Username>2K2SilverCivicS</Username>
+		<Datetime>08-05-2010 11:33 AM</Datetime>
+		<Content>Im looking for the Samsung Vibrant. T-Mobile version. prefer unlocked as i plan to use it with Wind Mobile! Thanx for looking</Content>
+	</Post>
+</Thread>

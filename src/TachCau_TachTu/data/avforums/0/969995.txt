@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panny St30 hdmi question</Title>
+		<Username>tigermad</Username>
+		<Datetime>26-01-2012, 2:14 PM</Datetime>
+		<Content>Hello Bought a 50 inch st30 yesterday. I have teamed it up with a Panasonic scbtt36 3d bluray 2.1 speaker system. I intend to use sky hd and a ps3 playing 3d games. Because my system is only 2.1 will I need any 1.4 hdmi cables anywhere?</Content>
+	</Post>
+</Thread>

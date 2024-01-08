@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What motherboard to get for INTEL cpu and 8800GT to get LCPM audio to my AVR?</Title>
+		<Username>ri3eboi</Username>
+		<Datetime>10-28-08, 09:15 PM</Datetime>
+		<Content>Hey guys, I am looking for a budget (<$100) miroATX motherboard for my HTPC so that I can use my current 8800GS video card and core duo E2200 CPU for HD playback with LCPM audio. I done a bit of search on the forum, but did not find any motherboard that fits my needs. My goal is to spend as little as possible to get LPCM audio (HDMI Audio) for HD movies. My current setup listed below allows me to watch HD movies smoothly (HD DVD and Blueray), I am passing audio from my HTPC to my AVR using S/PDIF. My current setup: CPU: Core Duo E2200 Motherboard: ECS 945GCT-M Soundcard: SoundBlaster X-Fi ExtremeMusic Videocard: Gigabyte 8800GS HD drive: LG HD-DVD/Blueray combo drive AVR: Denon AVR-889 Remotes: Harmony H659, Gyration MCE control with air mouse. Connections: 8800GS to LCD TV using DVI->HDMI cable. X-Fi S/PDIF to Denon AVR-889. Thanks!</Content>
+	</Post>
+</Thread>

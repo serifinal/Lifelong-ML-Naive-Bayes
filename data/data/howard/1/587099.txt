@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Will unlocked GSM Bell/Telus phones work on Fido?</Title>
+		<Username>MissFido</Username>
+		<Datetime>11-04-2009 10:44 PM</Datetime>
+		<Content>I'm dying to get a BB9700 and have a friend who can use their Bell blue chips to get me one. I'm just wondering if i get it unlocked, will it work with Fido service? I'm looking for at least 3G speeds for browsing, calling and basically whatever else BBs were made to do. or any other GSM phones that come out with bell/telus for that matter, if unlocked, will they work with fido/rogers?thanks for your input!</Content>
+	</Post>
+</Thread>

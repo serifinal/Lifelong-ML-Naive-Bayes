@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon S5IS- Sound recording</Title>
+		<Username>Hannah_</Username>
+		<Datetime>03-29-2008, 02:14 PM</Datetime>
+		<Content>Hey everyone! I've been having some fun with my camera, and have been taking some sound recordings. My question is, does anyone know how to get the sound recordings off the camera? I've checked my manuel, but haven't seen anywhere that it tells you. Thanks!</Content>
+	</Post>
+</Thread>

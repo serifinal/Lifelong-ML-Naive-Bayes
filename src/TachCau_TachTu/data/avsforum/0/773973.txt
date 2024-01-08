@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What are your top 5 XBLA games?</Title>
+		<Username>Cygnus311</Username>
+		<Datetime>02-25-08, 08:15 PM</Datetime>
+		<Content>Just curious what everyone likes. Maybe I'm missing out on a hidden gem! Mine: 1 (tied). Puzzle Quest 1 (tied). n+ 3. Pinball FX 4. Prince of Persia: Classic 5. Carcassonne *Lumines Live would be on this list if I could play it with the DualShock D-Pad.</Content>
+	</Post>
+</Thread>

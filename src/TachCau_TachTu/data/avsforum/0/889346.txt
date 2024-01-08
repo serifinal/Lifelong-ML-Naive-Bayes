@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sony XBR6 and similar w4100 WL140 etc hack?</Title>
+		<Username>m44</Username>
+		<Datetime>11-28-08, 09:13 AM</Datetime>
+		<Content>I assume that Sony (as most other manuf.) does not produce dozens of chip sets - but the model differences are done thru software only. It could possibly mean that same family models can be hacked, by implanting software from the better model into the lesser model. Usually it is done by substituting headers in firmware update so the given hardware accepts the update. Of course if hardware is not there not all features will work. Any skilled fellows out there? It is not my baileywick.</Content>
+	</Post>
+</Thread>

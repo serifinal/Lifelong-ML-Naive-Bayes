@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PS42A416C1D plasma - picture mode problem</Title>
+		<Username>NiKu</Username>
+		<Datetime>05-08-2011, 8:44 AM</Datetime>
+		<Content>Hello, Can someone help me with this model of SAMSUNG about the picture it has literally moved to the right in all picture modes 16:9, 4:3, etc. It has also shown an extra HDMI port 3 to the Source Menu while it has only 2 HDMI ports. I don't know what happened, i did severally Factory Settings Restore but nothing was fixed. Regards</Content>
+	</Post>
+</Thread>

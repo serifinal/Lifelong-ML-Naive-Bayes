@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Improvements in TV's</Title>
+		<Username>stevos</Username>
+		<Datetime>27-11-2011, 6:16 PM</Datetime>
+		<Content>Hi, I noticed that PC World had a few 50" plasma for pretty reasonable prices around the £700 mark I brought my current tv about 4 or 5 years ago, its the Samsung everyone was buying then and one of the first with 1080p24, and it cost around the £1800 mark i think. Wondering if the entry level models from the big buys (panasonic, samsung, etc) compare well against older pricer models? The models i noticed was Samsung PS41D550 and Panasonic TXP50U30B</Content>
+	</Post>
+</Thread>

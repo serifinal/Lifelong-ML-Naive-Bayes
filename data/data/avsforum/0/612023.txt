@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>My Theater B&W Pioneer Kuro Denon AVR</Title>
+		<Username>techtvman</Username>
+		<Datetime>05-14-08, 01:16 PM</Datetime>
+		<Content>Newest info and photos are here here we go.... Denon 4308ci Custom HTPC Win7 MCE DirecTV HR21 w/AM21 Monster HTS 5100 Power Center Samsung 4671 46in 1080p LCD -- in bedroom NEW: Pioneer 151 Elite 60in Plasma QuestAi acoustic paneling B&W 683 mains B&W HTM-61 center B&W DS3 Side surrounds (dipole mode) B&W 686 back surrounds Rythmik FV15 subwoofer</Content>
+	</Post>
+</Thread>

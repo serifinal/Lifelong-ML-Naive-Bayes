@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Totem Tribe vs. Morel Vario?</Title>
+		<Username>co_tom</Username>
+		<Datetime>08-31-08, 12:19 PM</Datetime>
+		<Content>I'm looking at on-wall HT speaker options (space constrained). I've got a short-list down to the Totem Tribe I (L/R) & 3 (C); or the Morel Vario on-wall. I also looked at the BG Radia 17i/18i, although I heard the Morel Vario were better. I'm located in Colorado, and having a hard time finding demo locations, although will be out in LA in a few weeks so hoping to demo some then. Any recommendations or suggestions between these options, or others that I might have missed?</Content>
+	</Post>
+</Thread>

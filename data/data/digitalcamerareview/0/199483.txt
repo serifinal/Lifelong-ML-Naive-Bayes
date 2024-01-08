@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>canon sx10 - best setting for indoor action pix</Title>
+		<Username>lauraherota</Username>
+		<Datetime>07-04-2009, 07:43 PM</Datetime>
+		<Content>i need some help. i have a 17 month old son who refuses to sit still for a photo. when inside, i am having a tough time getting a decent picture. i can't seem to find the right setting for crisp, non-blurred, non-grainy images. i tried the special scene setting on indoor and on iso 3200. the iso 3200 were not blurry but the pitures seem grainy. i'm using the flash most of the time due to being inside. i bought this camera i february and am just now getting to experiment with it. i am a photography lover but definitely a novice. thanks for your help!</Content>
+	</Post>
+</Thread>

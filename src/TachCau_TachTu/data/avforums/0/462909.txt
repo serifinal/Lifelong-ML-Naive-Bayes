@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Anyone Good with Pioneer Model Numbers? 500A / 500P</Title>
+		<Username>snapper3166</Username>
+		<Datetime>25-07-2011, 11:10 AM</Datetime>
+		<Content>Just want to clarify what model TV my friend has. On the back of the TV it states KRP-500P, although he believes it is a KRP-500A. There is nothing on the box and I cannot find anything referring to a 500P online. Any Ideas how I can check? CHeers</Content>
+	</Post>
+</Thread>

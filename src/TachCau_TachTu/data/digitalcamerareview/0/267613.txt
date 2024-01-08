@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>CDC Solution Disk v35.1</Title>
+		<Username>Prunelle</Username>
+		<Datetime>04-04-2009, 01:07 PM</Datetime>
+		<Content>I own an EOS 400D camera. All the software i got with the camera was succesfully installed on my computer. Recently i purchased a Powershot SX 110 IS for my wife. I tried to install CDC Solution Disk v35.1 - but that seems impossible. The following message is displayed : You cannot install Digital Camera Solution on this computer. Verify whether the required environment for use has been satisfied. Cancel installation.... I have windows XP Professional 64bit?? Thx for your reply P</Content>
+	</Post>
+</Thread>

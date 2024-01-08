@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic G15 Series Thread</Title>
+		<Username>Richdog</Username>
+		<Datetime>10-06-2009, 8:36 AM</Datetime>
+		<Content>So, I haven't seen these discussed much lately, i'm not sure whether that's because they aren't as cost-effective as the G10 or as well-featured as the V10. TX-P42G15 & TX-P46G15 Full HD Plasma TV Thinner 2" Bezel Receives freesat (free digital satellite broadcasts) 600Hz Sub-field Drive Intelligent Frame Creation Pro Infinite Black with over 2,000,000:1 Dynamic Contrast (Native 40,000:1) VIERA CAST DLNA (DviX/JPEG/MPEG2) Smart Networking with VIERA Link and VIERA Image Viewer (AVCHD/DviX/JPEG) V-Audio ProSurround Panasonic specs page: VIERA Plasma and LCD TVs - VIERA Plasma TV - TX-P42G15 - Overview - UK & Ireland AVForums Official Review: http://www.avforums.com/reviews/Pana...TV-Review.html For me the difference where i live in the EU is only £85 or so, and for the sake of an extra HDMI port, extra networking features and a 50% thinner bezel/frame I think it's worth it personally. Seems like it's only coming in 42" and 46" sizes though, no 50" planned. So what's peoples thoughts on this. Anyone know if the EU version will have the advanced calibration options enabled like the EU G10 models?</Content>
+	</Post>
+</Thread>

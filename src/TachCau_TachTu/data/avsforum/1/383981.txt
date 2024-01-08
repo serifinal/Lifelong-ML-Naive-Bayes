@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>xuchenxixu</Username>
+		<Datetime>07-03-08, 12:11 PM</Datetime>
+		<Content>hi everyone, im looking at 2 very similar LCD tvs with 300 dollars in price difference. they are as followed http://www.futureshop.ca/catalog/pro...0104984&catid= http://www.futureshop.ca/catalog/pro...0100018&catid= basically, the difference is the refresh rate and contrast ratio. my question is, is the extra 300 bucks really gona make a big bang? or is it just fancy paper specs thank you vic</Content>
+	</Post>
+</Thread>

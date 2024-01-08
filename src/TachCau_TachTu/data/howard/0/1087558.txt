@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Vibrant I9000M (Bell) Unlock Bounty</Title>
+		<Username>Skipper</Username>
+		<Datetime>08-16-2010 02:46 PM</Datetime>
+		<Content>Hi All, Ok so it looks like the Samsung Galaxy S from Bell has no unlock method in sight. Here is what I am suggesting. People who wish to donate feel free to donate whatever amount, once I collect at least $60 to $100 I will go ahead and express order a bunch of turbo sims and others with express shipping and test them out. Once I get them and try all out I will post which ones work with what limitations / functionality. If I find one that works and there is extra cash left, I will use it to order more of the ones that work and send them to the highest donators and continue to ship / allow pickup for all the others unlock cards that did not work to well. $2 donations from everyone might make this a success allowing us all an unlock solution till Bell / Samsung allow us one. If I don?t get enough cash I will refund everyone?s donations. This is just a suggestion so please don?t start a war on this site. I am trying to do myself and the community a favor. Pickup will be At Downtown Toronto / Fairview Mall Donate Here</Content>
+	</Post>
+</Thread>

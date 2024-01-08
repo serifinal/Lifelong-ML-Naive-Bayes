@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HD Moods</Title>
+		<Username>Draziom</Username>
+		<Datetime>10-20-08, 08:18 AM</Datetime>
+		<Content>Here is a new title coming out called HD Moods. It has the BEST picture quality of any Bluray title to date and is shot with 4000 lines of resolution instead of normal 2000 for High Def. http://www.blu-ray.com/movies/movies.php?id=1347 Pretty cool huh?</Content>
+	</Post>
+</Thread>

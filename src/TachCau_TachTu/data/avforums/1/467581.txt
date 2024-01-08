@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic ST30 or GT30</Title>
+		<Username>WRXiceman</Username>
+		<Datetime>21-07-2011, 8:41 PM</Datetime>
+		<Content>Evening everyone. I'm on a mission to find myself a 3D TV. I've heard great things about the ST and GT 30 models. Now, on Amazon the ST30 is £650 and the GT30 is £850. What's the difference between the two models and is the GT30 worth £200 more? PS my primary use for the TV will be gaming and watching Blu-rays, both in 2D and 3D. PSS could anyone post some pics if you own one of the TVs please? Thanks in advance</Content>
+	</Post>
+</Thread>

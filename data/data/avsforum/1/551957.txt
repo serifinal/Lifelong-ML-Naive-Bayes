@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title></Title>
+		<Username>Ktulu_1</Username>
+		<Datetime>10-25-08, 04:24 PM</Datetime>
+		<Content>Post some pictures of your antenna tower/mast if you have them. All towers are welcome but I'm a little more interested in the DYI towers, masts, whatever you got going on that gets your antenna off the ground. Not really interested in antennas that are mounted on your roof, chimney, etc. but who am I to discriminate. The more the merrier. Why do I ask? I'm in a bit of a dilemma with the antenna on our property in a somewhat remote part of Michigan. You can read more about it in this thread. The short version is... I think I need to get my antenna, that is about 8' AGL, to 18', 28' or higher. Seeing your towers might help me to come up with a nice sturdy, free standing, mast. If it doesn't at least we'll all get to see your setups. Very exciting!!!</Content>
+	</Post>
+</Thread>

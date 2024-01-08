@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Nikon P80 vs canon S5 IS ..Which One is better to buy ?</Title>
+		<Username>Brahmaasmi</Username>
+		<Datetime>05-01-2008, 01:45 AM</Datetime>
+		<Content>hi , i am a lover of Nikon Lense Quality .i wanna buy Nikon P80(release 3 days before into market) bcoz ,i needed 10 Mp resolution & > 5X Optical Zoom with Manual Controls like Shutter Speed , Focus , Aperture priority. In the Nikon forums, they suggested me to buy S5IS ,that is very close to my requirement,The dpreviews were also good. 1)I wanted to know is S5IS is good enough in quality of lenses 2) Is G9 more better than S5IS 3) Has anyone used Nikon P80 and can I buy that ?(This is my first preference)</Content>
+	</Post>
+</Thread>

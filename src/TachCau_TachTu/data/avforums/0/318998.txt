@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PANASONIC TX-P65VT30E / Using SD Card</Title>
+		<Username>orizaba</Username>
+		<Datetime>06-08-2011, 1:30 PM</Datetime>
+		<Content>Has anyone already tried using SANDISK EXTREME PRO 32 GB SDHC UHS-I cards in our TX-P65VT30E? Is latest TX-P65VT30E firmware update full compatible with UHS-I thecnologie? This is because I am intending to save all my full HD videos and full HD slideshows mp4 files in such cards and play them directly on TX-P65VT30. Will it work smooth? Problem is: I already tried to play a slideshow mp4 file saved on a SD card (not a SDHC UHS-I) and I can see that audio is not synchronized with video (audio comes out before video!), last seconds of video are mute! However, playing this same SD card on my computer, audio is 100% sync with video. What should be the problem?</Content>
+	</Post>
+</Thread>

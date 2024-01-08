@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>V551 (cingular) to work on T-Mobile Network ?</Title>
+		<Username>doggsho</Username>
+		<Datetime>09-21-2009 02:05 AM</Datetime>
+		<Content>Hi everyone, and let just say I'm new on here and to this extreme phone-tech stuff. I was hoping that someone could help me with getting my old Moto-v551 cingular phone to accept or work with a T-Mobile sim chip. I've already lost time and money on scam sites to no avail. Thanks a whole lot for anything substantial leading to an actual working phone.</Content>
+	</Post>
+</Thread>

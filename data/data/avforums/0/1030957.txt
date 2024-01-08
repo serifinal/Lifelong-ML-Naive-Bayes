@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>GT30 Pro mode</Title>
+		<Username>steve21</Username>
+		<Datetime>05-08-2011, 11:46 AM</Datetime>
+		<Content>Can someone give me a recommended list of settings in pro mode so I can get the best out of my GT30</Content>
+	</Post>
+</Thread>

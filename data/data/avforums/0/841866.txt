@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 50hz bug, how do you get round it?</Title>
+		<Username>xp1</Username>
+		<Datetime>27-07-2011, 1:13 AM</Datetime>
+		<Content>I was wondering to anyone who has a Panasonic plasma 2010 or 2011 if it's still here how do you get around this awful 50hz bug or do you just put up with it. I have the lowest of the range c2 2010 model which in 50hz mode is pretty bad to my eyes with splitting images on Pans and green trails on faces (not the normal phosphor trailing but an extra one). I heard Ifc helps but i do not have that option on the lower model. I originally was going to use the tv as a big PC monitor which it has been pretty good for because 60hz gets around the problem. I use a Dvb s2 card for the PC and get good results it's just a pity 50hz is ruined by this bug. It does not look like Panasonic are going to fix it so is there a solution of running a satellite box which does 60hz. It would be nice to find something that used very little power similar to a freesat HD box but could run at 60hz like the PC dvb-s2 card but was only around £100-£150. Is there something anyone has done like that or found another solution other than getting rid of it and buying another plasma. It really is a shameful thing for Panasonic to do especially if people are only using it for TV in the uk. Only for the fact i can use it in 60hz for my PC i could not put up with it, it's that bad to my eyes.</Content>
+	</Post>
+</Thread>

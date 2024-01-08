@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>T-Mobile's Upcoming Samsung Vibrant (Samsung Galaxy S)</Title>
+		<Username>guardianflash</Username>
+		<Datetime>06-24-2010 03:17 PM</Datetime>
+		<Content>Anybody excited or getting the Samsung Vibrant? Comes with 720p HD video recording and a 4" screen. For Wind customers there's no iphone 4, no HTC Evo 4G, and no Motorola Droid X. 3 mega top super powerful smartphones. T-Mobile's release of Samsung Vibrant in July saves me.</Content>
+	</Post>
+</Thread>

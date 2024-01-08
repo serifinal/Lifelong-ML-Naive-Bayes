@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola Razr V3 - Never Seen This Issue</Title>
+		<Username>PlatinumDJ</Username>
+		<Datetime>12-24-2009 10:00 AM</Datetime>
+		<Content>Hi everyone. I have searched the web high and low and haven't been able to find anything whatsoever about this problem. I don't know all of the technical jargon, so I hope I can make this clear. On the center, round navigation button on the keypad, there is a small, circular piece that sits inside the button itself. Mine has dislodged. I still have the piece, and am wondering what would be the best way to reseat the circular piece. The only idea I have is perhaps to use a tiny bit of adhesive, but I don't want to screw up and accidentally glue the keys. It's not a huge deal, but the phone looks better with the little ring, and the button isn't as responsive without it. Any suggestions would be greatly appreciated. Happy Holidays!</Content>
+	</Post>
+</Thread>

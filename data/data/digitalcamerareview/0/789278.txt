@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>perplexed with user guide</Title>
+		<Username>jphfamiliar</Username>
+		<Datetime>03-30-2007, 05:03 PM</Datetime>
+		<Content>I am the proud owner of a Canon PowerShot S3 IS. I am not finding how to get the number of photos to display in the viewfinder. Also, I see where I can delete single photos from the camera. I would like to find where I can "delete all" after downloading to my computer. Your assistance is appreciated.</Content>
+	</Post>
+</Thread>

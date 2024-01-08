@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Fido original $80 Unlimited Minutes and 6gb Data Plan (Zone Free)</Title>
+		<Username>netvampire</Username>
+		<Datetime>06-13-2010 04:33 PM</Datetime>
+		<Content>Details of the plan: $80/month Voice/Data (Canada Unlimited) - Unlimited Local Calling Anywhere in Canada (including Rogers coverage) - Unlimited Incoming Long Distance - No System Access Fee - 6 GB of Data. - Tethering is Included. (capable with iPhone or any SmartPhone except blackberries) I'm asking $400 O.B.O for this plan. It is available any time and will go to the first person interested. Truly unlimited minutes anywhere Rogers has coverage is one heck of a deal. This plan is on contract until 2013, and there is a $10 per month credit that is on their until the life of the contract (Brings plan down to only $70). There's currently a $10 value pack add-on and a $5 1000 minutes of long distance add on, but they can be removed/changed as required. I have already called Fido and verified that it is completley transferable to another area so long as Fido offers service there.</Content>
+	</Post>
+</Thread>

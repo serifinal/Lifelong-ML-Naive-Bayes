@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Best time to buy the Samsung A650/A750?</Title>
+		<Username>hipertec</Username>
+		<Datetime>09-05-08, 11:47 PM</Datetime>
+		<Content>Ive been waiting for the price to drop on these units. Ive heard to wait after Labor day so now for the 52" its rite above the 2K mark. Should I wait longer or will it drop more in price?</Content>
+	</Post>
+</Thread>

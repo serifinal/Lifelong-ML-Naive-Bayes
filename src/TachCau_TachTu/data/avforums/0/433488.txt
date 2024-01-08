@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>samsung ps50c450 help....</Title>
+		<Username>seanyfitz2bitz</Username>
+		<Datetime>19-04-2011, 9:04 PM</Datetime>
+		<Content>i have the 50 inch samsung ps50c450 i havent come across any problems untill i tried to configure the tv to work with the xbox 360, now its to dark i went to full brightness n its still not the same as it should be, i have tried numerous settings but none with a clean proper picture, im using my hdmi cable i bought gold plated so its not that but if any one knows of anythin to help me it would be great i only started messin round with it because it kept droppin the picture during game play. i tried ffactory reset and started again but im right back where i started. help...</Content>
+	</Post>
+</Thread>

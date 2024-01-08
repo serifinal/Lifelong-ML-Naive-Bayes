@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Eris: to wait for Android 2.0 or not to wait?</Title>
+		<Username>PagalDesi4Life</Username>
+		<Datetime>01-05-2010 02:08 AM</Datetime>
+		<Content>So I just upgraded my phone from a Motorola Maxx Ve to the HTC Eris last week and it was a huge upgrade as far as what the old phone could do to what the Eris is capable of now. After owning the Eris, I got a chance to play with the Motorola Droid too and learned that one of the benefits of the Moto Droid is that it is much quicker in response compared to the Eris amongst other things. So I am wondering that since Verizon plans on offering an upgrade for the Eris 1.5 software to the 2.0 sometime in the first quarter, that if it is even worth the wait for that upgrade or should I switch to the Moto Droid since the response time is one of my issues with the Eris? Basically, will the 2.0 software have a significant impact in the performance of the Eris?</Content>
+	</Post>
+</Thread>

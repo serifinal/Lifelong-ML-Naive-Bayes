@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PLEASE HELP, possible problem with 700 IS!</Title>
+		<Username>night_2004</Username>
+		<Datetime>08-04-2006, 10:10 PM</Datetime>
+		<Content>Hey, I just purchased a 700IS today, and noticed that the camera makes a slight whirring sound when I gently press down on the shutter button. It makes a similar sound when zooming in and out. I'm a little (well...very) worried that the camera is defective. Can some one who has the 700 IS see if they can hear ANY noise when doing this actions? I may be going back to the store to listen to the store model, but I would like to have some other opinions. Thanks, night_2004</Content>
+	</Post>
+</Thread>

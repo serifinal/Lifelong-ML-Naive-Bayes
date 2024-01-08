@@ -1,0 +1,61 @@
+3g tethering is up and running !!!! -lrb- jailbreak required -rrb- .
+i did not write this but it works and the speeds are great .
+finally an answer to those airport wait times these instructions are for leopard but i would think any windows savvy person could easily translate it to work for them .
+i only used firefox with this but it worked great and i would assume if you followed the rest of the instructions it would pull your mail and everything else .
+i did not install any bsd subsystem i only had installed socks and terminal .
+when you run terminal and type srelay it will give you an error but no worries it still works .
+so i basically ignored # 2 -lrb- except for the jailbreak part -rrb- and # 3 in the `` what you will need '' .
+thanks to www.zdziarski.com for the instructions tethering with the iphone tethering allows you to access your iphone 's mobile data connection through your laptop using wifi .
+this can be very useful for nerd emergencies where the iphone is your only connection to the internet , such as in an airport or in the middle of a corn field .
+these instructions describe how to tether your leopard-based notebook .
+the steps for other operating systems -lrb- such as windows -rrb- are likely different , but should be possible to do .
+note : check your mobile carrier 's terms of service before using .
+some mobile service providers consider it a violation of their terms of service to tether .
+what you will need 1 .
+a wifi-enabled notebook running leopard 2 .
+a jailbroken iphone , running the bsd subsystem 3 .
+my port of bind/dns from here : http://www.zdziarski.com/iphone/ how-to step 1 : create an ad-hoc network leopard has the ability to easily create ad-hoc networks on-the-fly .
+you 'll need to create one of these so that the iphone and your notebook can share a wifi network connection .
+to create an ad-hoc network , click on the airport icon on the menubar in leopard .
+select `` create network ... '' .
+you will be prompted to `` create a computer-to-computer network '' .
+you can name the network anything you like - we will use `` tethering '' .
+once you have named it , click `` ok '' .
+note : the iphone appears to have difficulty connecting to an ad-hoc network that is password-protected -lrb- e.g. wep encrypted -rrb- .
+you 'll want to avoid requiring a password to join the network .
+step 2 : set the notebook 's local ip at this point , your ad-hoc network has been created and your notebook is connected to it , but because your notebook does n't run a dhcp server , a nonroutable ip address will be assigned .
+you 'll need to manually set an ip address and netmask so that the iphone and the notebook can talk to each other .
+the easiest way to do this is by manually configuring the wireless interface from a terminal window .
+open a terminal window and type the following command in leopard : # sudo ifconfig en1 inet 192.168.0.1 netmask 255.255.255.0 the ip address of your wireless interface will now be set to 192.168.0.1 .
+step 3 : connect the iphone to the ad-hoc network now connect your iphone to the ad-hoc network .
+go to settings - > wifi .
+you should see the name of your ad-hoc network on the network list -lrb- in our example , `` tethering '' -rrb- .
+tap the network and you should connect .
+once connected , you 'll need to configure the iphone to have a static address on the network .
+tap the blue disclosure arrow to bring up the iphone 's network settings .
+tap `` static '' to set the information manually .
+now enter : ip address : 192.168.0.2 subnet mask : 255.255.255.0 dns : -lsb- ip of your isp 's dns server -rsb- press the back button -lrb- labeled `` wi-fi networks '' -rrb- for these changes to take effect .
+you should now be able to ping 192.168.0.2 from your notebook .
+if you ca n't , you 've done something wrong .
+go back and repeat these steps .
+step 4 : run socks relay daemon once both devices are connected to the ad-hoc network , you can start up the socks daemon on the iphone .
+if you have the bsd subsystem installed , you should be able to just type ` srelay ' from mobileterminal , or ssh into your iphone and run it from there .
+it will launch into the background .
+to confirm that it is running , you can run : # netstat - an | grep listen you should see : tcp4 0 0 * .1080 * .
+* listen step 5 : set up dns if you are tethering specifically to use firefox , you wo n't need to set up the iphone 's dns server .
+instead , go into firefox 's configuration by typing `` about : config '' into the url window and hitting enter .
+scroll down to find the network.proxy.socks _ remote_dns option and set it to true .
+if you 're using any other applications over our tethered connection , you may need to run a dns server from your iphone to provide name resolution .
+install the bind/dns package from http://www.zdziarski.com/iphone/ and extract it onto the iphone : # cd / # tar - zxvf bind-9.4.2_arm-apple-darwin.tar.gz you should now be able to start the dns server by running : # named - c / var/named/named .
+conf if you have any problems , try running it with the - g argument to run it in the foreground , to display stderr .
+you 'll need to set / etc/resolv .
+conf to use 192.168.0.2 step 6 : configure your applications apple has made some recent changes to leopard so that setting the iphone as a socks server in the network preferences will cause the connection to be lost .
+this means you 'll have to configure your applications individually to use the iphone as a socks proxy .
+some of the more popular applications are below : firefox : go into firefox preferences - > advanced - > network tab .
+click the `` settings ... '' button in the `` connection '' section .
+select `` manual proxy configuration '' .
+for socks host , use 192.168.0.2 port 1080 ssh : use the - l flag in ssh to port forward any ports to the iphone , and then from the iphone to your destination machine .
+this will allow you to tunnel your imap/pop mail and whatnot .
+that 's it - you should be able to connect via socks enjoy before some start with the tos replies for att i just want to point out that i have been tethering for years starting back with flip phones and you are not going to get busted if you are smart about it .
+if you just want to check some email and do a little browsing you are not going to use any more data than you could on the iphone and therefore not draw attention to yourself .
+if you decide to download large files or use something like limewire than expect problems .

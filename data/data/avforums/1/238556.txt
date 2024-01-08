@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>panny for 2011</Title>
+		<Username>marc123</Username>
+		<Datetime>31-07-2011, 1:31 PM</Datetime>
+		<Content>After having my panny 42 inch for 5yrs It's time for an upgrade so what 42 inch panny should I be looking at in the 700 quid range ,I would like internet and as many hdmi as poss also 1080p .cheers in advance .</Content>
+	</Post>
+</Thread>

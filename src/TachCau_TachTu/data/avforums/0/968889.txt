@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>plasmas</Title>
+		<Username>psalliss</Username>
+		<Datetime>28-07-2011, 10:34 PM</Datetime>
+		<Content>hi ive never had a plasma before but bought a 5 inch panasonic plamsa last week and probably have 65 hours use. im just wondering does the picture improve the more use it gets and beds in. the reason i ask is that i keep adjusting the picture settings as the image appears to keep changing plus remember my old dlp sagem got better after several weeks usage.</Content>
+	</Post>
+</Thread>

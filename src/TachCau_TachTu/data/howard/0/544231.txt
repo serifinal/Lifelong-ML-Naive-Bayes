@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Motorola Droid Firmware update to 2.2 Froyo FRG01B and FRG22D</Title>
+		<Username>Schmiggy_JK</Username>
+		<Datetime>07-30-2010 05:53 PM</Datetime>
+		<Content>http://www.engadget.com/2010/07/30/m...2-2-next-week/ awesome news for D1 users. Sounds a lol smoother than the will we ordered won't we offer 2.1. More: http://support.vzw.com/how_to_use/droid_upgrade.html so when will we see the manual upgrade file? ------------------------------------------------ Edit by FAUguy: Please use this thread to talk about the new Android 2.2 Froyo FRG01B and FRG22D firmware updates for the Motorola Droid.</Content>
+	</Post>
+</Thread>

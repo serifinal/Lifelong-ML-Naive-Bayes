@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What's the Difference Between These Two Micro SD Cards?</Title>
+		<Username>manny_fresh</Username>
+		<Datetime>11-05-2009 09:17 PM</Datetime>
+		<Content>Hey guys, These two cards are the same capacity at 16GB however, one is $59..and the other $119.. I want to get one for my 9700 but want to know if there is a difference between the two. Thanks for your help. http://www.bestbuy.ca/catalog/prodde...30&catid=21974 http://www.futureshop.ca/catalog/pro...0126113&catid=</Content>
+	</Post>
+</Thread>

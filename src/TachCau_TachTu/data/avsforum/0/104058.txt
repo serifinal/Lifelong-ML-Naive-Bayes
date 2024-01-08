@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PN42A400 Owners Thread</Title>
+		<Username>Apollyon</Username>
+		<Datetime>11-28-08, 10:40 AM</Datetime>
+		<Content>Since I know several people have purchased or are thinking of purchasing this set given how prominently it was advertised for Black Friday, I figured I'd start a thread for information on this panel. Official Samsung Information Detailed Spec Sheet Tsanga's Settings (originally for Samsung PN50A450) Feel free to post your questions about this model, initial impressions based on the specs, and experiences so far if you have purchased the set. I'll update this OP as more information is available.</Content>
+	</Post>
+</Thread>

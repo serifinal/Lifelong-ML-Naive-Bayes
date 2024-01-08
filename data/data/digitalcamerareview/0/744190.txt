@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Image size PS SD-1200</Title>
+		<Username>homeslots</Username>
+		<Datetime>10-12-2009, 05:43 PM</Datetime>
+		<Content>On my olympus camera you can choose different image sizes like 640 by 480 so you do not have to change the size after taking the pictures and transferring the images to your computer. Does Canon have that option before you take the pictures?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Rebel XT</Title>
+		<Username>jetstar</Username>
+		<Datetime>07-14-2008, 10:59 AM</Datetime>
+		<Content>Hello Does the Canon Rebel XT have optical IS? I found a deal on a Canon Rebel XT for $325 or so, and am considering purchasing it. I know this is a relatively old dSLR. Any input would be appreciated. Thanks!</Content>
+	</Post>
+</Thread>

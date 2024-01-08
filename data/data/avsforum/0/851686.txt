@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>The shirley street theater construction thread</Title>
+		<Username>kiss_alive</Username>
+		<Datetime>06-05-08, 05:05 AM</Datetime>
+		<Content>Heres where i will post updates on my theater. The screen is a used PVC 16x9 screen shortened to 12x8. Its made from 1 1/2 PVC. The 2 legs are 2 inch PVC hammered close to 3 feet deep. The screen frames sits inside the legs and can be removed for storage(the legs stay). The screen will be a canvas drop cloth from either home depot or lowes. I will pick that up tuesday along with a grommet kit. Hopefully if nothing goes wrong and weather permitting i can open the theater. The projector is a boxlight cp-300t and the sound system is a panasonic am/fm turntable stereo with thruster floor speakers by panasonic.heres some pics</Content>
+	</Post>
+</Thread>

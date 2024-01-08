@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone 4, 32GB, BNIB (still sealed), factory unlocked - $1150</Title>
+		<Username>ru4real</Username>
+		<Datetime>07-31-2010 03:42 PM</Datetime>
+		<Content>I think the title says it all; these things are sold out all over the city and I had to wait for hours to get one. iPhone 4, brand new, still in the sealed box and factory unlocked. Comes with receipt and 1 full year of Apple Care (purchased today, July 31) Local face-to-face deals only (Mississauga / GTA), $1150</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Error Message in canon a570</Title>
+		<Username>galitush2005</Username>
+		<Datetime>07-20-2008, 04:50 AM</Datetime>
+		<Content>error message of "Memory Card Error" "Card Locked". The card's tab is not in the locked position. The 16 MB card works fine. i cant access to the card at all all phthos from my vacation to greece are gone. PLEASE HELP!!!!</Content>
+	</Post>
+</Thread>

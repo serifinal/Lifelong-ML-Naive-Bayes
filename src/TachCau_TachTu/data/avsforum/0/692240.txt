@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Design a Home Theater to beat Bose Acoustimass? 10 speaker system</Title>
+		<Username>aa1981</Username>
+		<Datetime>11-23-08, 02:14 PM</Datetime>
+		<Content>I heard the Bose TrueLife demo yesterday at CC. At $1799 it is way out of range but for $999 Acoustimass 10 speaker system sounds ok. My question is: Can I beat this system's sound quality/clarity/Setup/Price by going with other brands like Polk, Klipsch (Onkyo or Pioneer). Please suggest some setups. Anks</Content>
+	</Post>
+</Thread>

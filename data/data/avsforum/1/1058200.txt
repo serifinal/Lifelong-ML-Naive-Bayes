@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HELP!!!Which set should I get Samsung 750 or 650?? Only 2 hours to decide.</Title>
+		<Username>curly2004</Username>
+		<Datetime>10-07-08, 04:47 PM</Datetime>
+		<Content>I currently have the Samsung 630 and I am not to have about the black levels in this tv. The blacks are more like dark grey. I went back to the department store and I have a salemans who said they can sell me the 750 for the same price as the 650. Which is 300.00 more than the 630 I just got. I love the blacks in the 650/750 and the 630 screen reflects just as much as the 650/750. I heard that the 750 are having alot of halo effect problems and the 650 just has a ugly bezel. Can some of guys give me some advice. I have about 2 hours to think on it.</Content>
+	</Post>
+</Thread>

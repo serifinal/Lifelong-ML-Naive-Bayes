@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Cannon Power Shot SX200IS</Title>
+		<Username>LASteve</Username>
+		<Datetime>11-09-2009, 03:48 PM</Datetime>
+		<Content>I am considering buying a Cannon Power Shot SX200IS. When I look at the various retail listings and prices I can find nothing that tells me what comes with the camera (if anything) for the sale price. I think that it would come with a fairly small memory card and that I probably want to upgrade; but what about the USB cable and PC install software? Also, will this camera run off regualr batteries? Also, does anyone know if this camera has a quick responce once the picture button is hit? LASteve</Content>
+	</Post>
+</Thread>

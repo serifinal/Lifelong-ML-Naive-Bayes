@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Re: Recommended Cameras</Title>
+		<Username>elfarra5</Username>
+		<Datetime>04-01-2009, 02:41 AM</Datetime>
+		<Content>Who is looking to buy a camera as a semi proffessional camera mix of SLR and normal digital camera and easy to learn I advice to buy Canon SX1 IS as HD viedo, 2.8 LCD Rotate, 20X zoom and other great options, really a nice camera. I been used before Nikon P80 but when I bought Canon SX1 IS there is no compare between both, with different option's I prefer who is looking to buy a camera try with this.</Content>
+	</Post>
+</Thread>

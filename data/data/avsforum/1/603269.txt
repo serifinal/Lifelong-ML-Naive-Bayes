@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Worth waiting for Black Friday for an HDTV this year?</Title>
+		<Username>MikeWhitis</Username>
+		<Datetime>09-28-08, 01:57 PM</Datetime>
+		<Content>I know it's early, but curious if anyone has any insights or guesses yet as to whether the holiday shopping season will be worth waiting for this year? Our primary TV, a 6 yr old 32" Toshiba CRT died out this week. I had hoped to get another year before switching to HD, but I find myself suddenly in need of a new set. Because of several other things that have hit the past two weeks, I find myself needing to be price conscious, so am wondering if I should pick up a cheap 27" RCA SD in order to hold us over until the end of the year deals start kicking in, or just pick up one of the lower priced models that seem to be floating around right now (37" Westinghouse from buy.com or 42" Panny/Samsung plasmas). Any input appreciated. Thanks, Mike</Content>
+	</Post>
+</Thread>

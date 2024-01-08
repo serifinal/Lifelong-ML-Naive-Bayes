@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>reformat - lost data</Title>
+		<Username>far3871</Username>
+		<Datetime>11-27-2010, 05:28 PM</Datetime>
+		<Content>hi there I am new to this forum..i use a Canon Digital Ixus85IS. Had some great pictures and i reformatted by mistake. Is there any way to get those pictures back, by any chance? thanks</Content>
+	</Post>
+</Thread>

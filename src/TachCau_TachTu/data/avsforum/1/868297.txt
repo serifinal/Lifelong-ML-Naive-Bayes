@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Help me Choose - Toshiba 42XV540 LCD vs Panasonic TH42PX80u Plasma</Title>
+		<Username>upsidedn</Username>
+		<Datetime>12-22-08, 01:43 PM</Datetime>
+		<Content>I posted earlier with a few other models I was considering and now have it down to the two above. I looked at both in the store and had a hard time deciding. The Toshiba was 'brighter' but that may have had as much to do with setting than anything else. A few key facts: I still wath SD television and DVD's I have an RCH Hi Def cable box No Blu Ray or upconverting DVD yet (but eventually will probably have one) No video game system yet (but again, will eventually have one) I usually keep my TV's a LONG time (my current sony 27" CRT is almost 20 years old). I will be watching anywhere between 5 and 9 feet. I am using reward points so that the Panasonic is essentially 1/3 less than the Toshiba (though not in real dollars). I realize the Panasonic is only 720p / 768 but I also believe that that is the same as 1080i. I am still drawn to the Toshiba as it has the latest feature; 1080p, 120 mhz, but not sure if all that matters in real world use. So I am in the same dllemna as others: Plasma vs LCD and 720 vs 1080. Thanks for your help.</Content>
+	</Post>
+</Thread>

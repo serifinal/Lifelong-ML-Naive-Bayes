@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Gray spot on my SD870 screen</Title>
+		<Username>lldod</Username>
+		<Datetime>10-06-2009, 11:29 PM</Datetime>
+		<Content>About 2 weeks ago, a gray spot appeared on the screen of my Canon SD870, which is not quite 2 years old. It started out as a sort of a trapezoid, and expanded at the top and bottom until now it is perfectly circular. It is slowly growing and it's now 8 mm in diameter. There's a yellowish glow around it. A few days after the spot appeared, a grey linear area appeared at the top of the screen, which is about 1 mm deep and extends about the middle third of the screen. I figure that there's probably nothing to be done about it and I'm looking for a new camera, but I'm curious as to what is wrong with it. The camera still takes pictures just fine. I used it to take pictures on a Sunday and the spot wasn't there. I looked at the pictures a day or two later and it had appeared. I didn't drop it or anything like that. There were no magnets nearby (not sure if that would affect it). I was carrying it in my purse. What is happening to the screen? Did I do something that I can avoid in the future? Thanks for any help.</Content>
+	</Post>
+</Thread>

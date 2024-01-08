@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>2.40 masking for 1.85 retractable screen</Title>
+		<Username>goplay912</Username>
+		<Datetime>05-04-08, 02:54 PM</Datetime>
+		<Content>Does anyone have any suggestions on a temporary masking system for a manual retractable screen. I was thinking of maybe using velcro to secure a long strip of black velvet across the top and bottom of the screen, then remove them when I need to retract the screen. This sounds and might look kinda ghetto though. Keith</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Powershot A700-Did I make the right choice?</Title>
+		<Username>Raesull</Username>
+		<Datetime>07-24-2006, 09:02 AM</Datetime>
+		<Content>Having purchased this camera a few weeks ago, I'm disappointed with the 2.5"LCD screen-it seems dull(115,000 pixels)& I'm having a difficult time framing pics....I also have no idea what mode I'm to be in when shooting sports. Finally, I've run into a few people who have mentioned problems with their Canon camera's lenses-this camera has a 6x optical zoom....did I make the wrong choice? The other camera I was considering at the same time was the Panasonic Lumix DMC-TZ1S: I liked the fact it had a 10x zoom & an optical image stabilizer. Their 2.5"screen I believe has 207,000 pixels which sounds like it would be much easier to see. These two cameras were about the same price. The reason the Canon won out was I read several professional reviews of the Panasonic indicating poor image quality & raves about the Canon BUT user reviews rated the Panasonic higher than the Canon. Any feeback about any of this would be helpful-thanks!</Content>
+	</Post>
+</Thread>

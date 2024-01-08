@@ -1,0 +1,15 @@
+problem with d8000 internal tuner -lrb- applies to both led and plasma -rrb- finally solved !! .
+hello i 've noticed that i 'm not alone about using the samsung d8000 's internal tuners , either for terrestrial , cable or satellite .
+there are at least two issues i 'm aware of , and they are fixable by a service technician .
+problem 1 : randomly , picture may break up -lrb- sometimes as often as 1-2 times a minute , other times as rare as 15 minutes between every time -rrb- .
+this seems to be the case for both dvb-t , dvb-c and dvb-s as long as there is a ca-module inserted into the ci-slot .
+problem 2 : not sure how wide spread this one is , but the dvb-s tuner is picking up so much noise that the picture breaks up all the time , particularly on lower frequencies and hd broadcasts are particularly bad .
+this is regardless of whether or not a ca-module is inserted .
+fix for problem 1 : seems to be no other fix than a replacement of the mainboard -lrb- the tuners is a part of that board and can not be changed individually -rrb- fix for problem 2 : a service technician adds a capacitor to the main board , causing noise/spikes to be filtered out .
+if you also suffer from the first problem -lrb- hard to tell unless you 've tried this fix first -rrb- the mainboard also needs replacing .
+i 've now had the board changed on mine , and also applied the noise fix for dvb-s .
+issues with the satellite tuner is now fully gone .
+kinda strange , though , but the signal meter still shows low signal quality and lots of bit errors , but seeing how this works flawlessly now i suspect that signal meter to not function correctly .
+in the end , what matters is what you get on screen , not what those meters are saying .
+anyway , just thought i 'd post this since there was finally a resolution to a problem that some are having and not knowing why .
+hope this can be of help to whomever suffers from either of the two defects above .

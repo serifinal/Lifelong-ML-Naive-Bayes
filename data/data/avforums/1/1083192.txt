@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>YSUS and ZSUS boards</Title>
+		<Username>kbartk</Username>
+		<Datetime>12-07-2011, 11:21 PM</Datetime>
+		<Content>Can someone help with the YSUS and ZSUS boards,like are they reversible,and where,how much it will costs etc.,or where to buy?If someone knows places i n Bulgaria ,Serbia,Greece or Turkey.Thanks in advance...</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer Kuro LX5090 Hdmi Fault.</Title>
+		<Username>ironside</Username>
+		<Datetime>30-12-2011, 8:03 PM</Datetime>
+		<Content>Hi Guys,please help my Kuro 5090 has a HDMI Fault got no picture,having to use scart to view my Sky HD and cannot watch DVD's at all(on all 3 hdmi inputs),does anyone know a desent repairer? think the HDMI Board has burn't out,tried contacting Pioneer and just get a answerphone message,which's Pants,need help desperatly. My Plasma has never been connected to Sky Directly,my HD Box was plugged into a Onkyo Processor then the HDMi lead to the Plasma,has advised on these Forums,any help would be appreciated. Regards, Ironside</Content>
+	</Post>
+</Thread>

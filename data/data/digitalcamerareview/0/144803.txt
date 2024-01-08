@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Sony H20 or DSC-W290?</Title>
+		<Username>hdb</Username>
+		<Datetime>07-01-2009, 07:01 PM</Datetime>
+		<Content>Hi all, I am in the market for a compact point and shoot that has good zoom, a rechargable battery, is easy to use, and takes great pictures. I really like that H20 allows zooming while making movies, but I'm wondering if it's really worth it to spend more for this feature, since it doesn't have wide angle. The DSC W290 and W230 both seem nice, too, but don't allow zoom. Would you recommend getting a cheaper point and shoot and a separate video camera (my total budget is about $300)? Also, would anyone recommend another brand or have any reasons why Sony isn't my best bet. These cameras all seem to have great reviews and the features:value ratio seem great. thanks! Heather</Content>
+	</Post>
+</Thread>

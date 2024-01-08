@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sharp d64u vs Sony W4100 vs Samsung a550</Title>
+		<Username>diving</Username>
+		<Datetime>10-23-08, 08:14 PM</Datetime>
+		<Content>Hi,guys. Im going to get a lcd~~~ for some uses: play video games(PS3), connect with a laptop as a monitor and watching... Here are some lcds i interest. Sharp 46" 64U----$1299(on sale,saving $300, banding issues) Sony 46' w4100-----$1999(i love this one! kinda expensive) Sammy 46' A550-----$1399(on sale.saving $200) Can any body give me some suggestions? any suggestion would be awesome~ by the way, im in Canada.</Content>
+	</Post>
+</Thread>

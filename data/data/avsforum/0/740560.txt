@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title></Title>
+		<Username>Grendell</Username>
+		<Datetime>04-20-08, 01:09 AM</Datetime>
+		<Content>Most of us know Sony cancelled all future SXRD for rear projection... so it appears now the only screen they are producing that is larger than 52" costs over $30,000.00. It seems completely insane to me that they would cancel one technology if they didn't have something better coming to replace it. Does anyone know what this might be? Or did Sony actually deceided to completely get out of the >52" market?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Black bar's above and below picture</Title>
+		<Username>KenL61</Username>
+		<Datetime>21-02-2012, 11:59 AM</Datetime>
+		<Content>Can anyone tell me how to get rid of these please? I have a Thomson Wysiu 42" Plasma connected up to a desktop PC via a VGA plug, the graphics card is a Geforce 4 Ti4200, some video is full screen and some has these black bars, such as when viewing widescreen DVD's, The aspect ratio on the TV is set to 16x9, I put a promo DVD in which says 4X3 and it's full screen, some Youtube is full screen, but the majority has the black bars. The desktop on boot up is full screen. Is there anyway round this or do I have to live with? TIA</Content>
+	</Post>
+</Thread>

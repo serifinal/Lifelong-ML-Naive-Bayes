@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which Kuro?</Title>
+		<Username>TONYELISE</Username>
+		<Datetime>24-05-2011, 8:11 PM</Datetime>
+		<Content>After being told my Sony 55HX923 has just been put back again i have given up on waiting so i am now going for all out p/q.Im replacing a Toshiba 55SV635 direct led backlight,had a couple of Samsung 63c7000's and a Panny 65VT20 last year but after problems give up so which is best 60LX6090 or KRP600m/a ?</Content>
+	</Post>
+</Thread>

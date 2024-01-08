@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>LX5090 - cheesed off</Title>
+		<Username>Darrone</Username>
+		<Datetime>20-04-2011, 6:55 PM</Datetime>
+		<Content>Splashed out £3200 3 years ago on an LX5090, been mildly impressed with picture quality during that time. My father in law has purchased a £600 Samsung and the PQ is a million times better than mine - it's awesome, super sharp. Seriously ****** off man, what the hell is all that about?? Some of you will no doubt say that it's imperative to get it ISF'd but, WHY? As if paying out over £3k on a tv is not enough, I have to spend a further £300 on making it look as good as a £600 set. Not happy man. Waste of money, case in point. Rant over.</Content>
+	</Post>
+</Thread>

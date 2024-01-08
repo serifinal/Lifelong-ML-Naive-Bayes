@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Paradigm Signature v1 vs Studio v4</Title>
+		<Username>drsoggy</Username>
+		<Datetime>10-09-08, 11:27 PM</Datetime>
+		<Content>Has anyone done an a/b comparison of the Paradigm Sig v1's vs the Studio v4's?</Content>
+	</Post>
+</Thread>

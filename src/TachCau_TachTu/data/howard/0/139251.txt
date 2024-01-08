@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>E815: Attempt to access Earthlink Webmail gets "untrusted server certificate" error</Title>
+		<Username>pculrich</Username>
+		<Datetime>04-08-2010 08:12 AM</Datetime>
+		<Content>I just noticed that my Earthlink webmail account has a new mobile link for use on legacy phones: m.webmail.earthlink.net. But when I tried it, I got an error box saying "untrusted server certificate". I presume this is the ancient E815 browser having some kind of an issue. Is there any way around this?</Content>
+	</Post>
+</Thread>

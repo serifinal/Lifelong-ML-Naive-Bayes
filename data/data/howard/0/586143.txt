@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Caliber sch-r860 download mode / emergency? stuck on loop</Title>
+		<Username>dreeed</Username>
+		<Datetime>06-20-2010 08:31 PM</Datetime>
+		<Content>ok my girls caliber is stuck on loop. Samsung screen comes up loads up and then restarts. Hoping to figure out someway to reflash the software / firmware to the phone. googles / searched for info on this and couldnt find any. i figured out how to put it in download mode which i couldnt find that anywhere either. Download emergency mode - Press the TTY button, Volume down button, and Home / center button, and the power button to load into this mode.</Content>
+	</Post>
+</Thread>

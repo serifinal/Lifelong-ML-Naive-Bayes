@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>over-the-air HD chanels - how to use get this on Samsung LN46A750?</Title>
+		<Username>hooked2hdtv</Username>
+		<Datetime>09-06-08, 03:04 PM</Datetime>
+		<Content>my samsung tv has the built-in ATSC tuner but how do i make it work to pick over-the-air HD channels?</Content>
+	</Post>
+</Thread>

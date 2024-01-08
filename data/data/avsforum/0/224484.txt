@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Mitsubishi LT-52144 green dots / vertical line problem</Title>
+		<Username>Penguin Pile</Username>
+		<Datetime>09-01-08, 12:58 PM</Datetime>
+		<Content>I purchased an LT-52144 on February 17, 2008. The picture has been great until this morning. The picture has vertical lines made up of green dots that seem to flow as people move within the scene with some sort of psychedelic screen saver effect - the color of the dot is "Matrix display" old time computer CRT (green screen) color. I have attached a few pictures of the display I tried both the HMDI input and the RGB input to out Wii and both exhibit the same problem. I attempted to adjust the contrast, tint, brightness without any effect. It seems that something has failed within the TV. Other opinions sought for ways to fix this on my own... my assumption is that it is warranty repair time - if I'm right I'm looking for any Mitsubishi warranty repair do's and dont's to get this problem addressed ASAP - the football season just starting!!!!</Content>
+	</Post>
+</Thread>

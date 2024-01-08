@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P50VT20 Picture Settings</Title>
+		<Username>Leopardi</Username>
+		<Datetime>01-01-2012, 12:01 PM</Datetime>
+		<Content>I've had the TX-P50VT20L model for almost 18 months and I'm still in search of picture settings that I'll be happy with. Unfortunately, I've been using the Dynamic mode from the outset, so whenever I try to change to any recommended settings, I convince myself that the loss in overall brightness is decreasing the PQ. I've even set Sharpness and P-NR to max despite reading how ill-advised that is. I would be grateful for any advice regarding this issue. I am utterly clueless when it comes to calibration.</Content>
+	</Post>
+</Thread>

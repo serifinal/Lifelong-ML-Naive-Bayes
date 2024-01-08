@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panny G20 odd lines top and bottom of display</Title>
+		<Username>Zog</Username>
+		<Datetime>28-05-2011, 12:08 PM</Datetime>
+		<Content>Just connected up a Panny EX773 DVD-R to my G20 and when viewing this source (connected up via HDMI) I get odd lines at the top and bottom of the display. I can lose them by activating the 16:9 "Overscan", but this is generally recommended to be turned off for maximum clarity and it cannot be set independantly for each source. Unable to find any way of eradicating this by changing output settings on the DVD-R. Any recomendations ?</Content>
+	</Post>
+</Thread>

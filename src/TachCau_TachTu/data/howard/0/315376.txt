@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does Changing to Family Plan Requires Data Plan?</Title>
+		<Username>|| hugo ||</Username>
+		<Datetime>05-14-2010 06:20 AM</Datetime>
+		<Content>I have a LG Env Touch and it was activated last year. I'm planning to change to the Family Plan from the Individual Plan so I can add my wife. Will the change require the $9.99 monthly data plan for my phone?</Content>
+	</Post>
+</Thread>

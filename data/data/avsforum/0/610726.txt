@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>cable glitch recording to DVD??</Title>
+		<Username>carlor</Username>
+		<Datetime>10-01-08, 03:24 PM</Datetime>
+		<Content>Problem: Two DVD recorders (1 Zenith, 1 JVC) on two branches of the main cable splitter. Both set to record e.g. Letterman at 11:30. Intermittently, *both* stop recording simultaneously after ~5, ~20, ~40 minutes. Some days the whole show records. There's no external evidence of AC abnormalities. Could this be a problem with the cable feed? (Time Warner customer support is so far clueless...)</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problem Downloading Images from Flash card to PC</Title>
+		<Username>Electron John</Username>
+		<Datetime>01-16-2008, 12:44 PM</Datetime>
+		<Content>I have a Canon PowerShot A75 and I am using a new SanDisk UltraII 2GB Compact Flash card. My problem is that I took a number of important images and video clips, birth of my second child, and now my computer does not see them. I can review the images on my camera but when I put the card in the card readers on either of my work computers I get a message that no images are on the card. What is worse is that ever time I try to download the images on the card onto my computer a few more pictures on the card are marked with a "Memory Card Error" when I go back and try to view them on my camera. So what should I do? Is there a place I can take my card to that can download the images safely for me? Thanks for any help you guys can give me. John</Content>
+	</Post>
+</Thread>

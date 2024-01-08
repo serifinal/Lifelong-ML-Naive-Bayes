@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Sharp Aquos or Samsung</Title>
+		<Username>Tracey</Username>
+		<Datetime>09-25-08, 11:40 PM</Datetime>
+		<Content>I purchased a Vizio XZT lcd to and am not happy with the jerky motion I get in movies and some tv shows. I use cable not will not go to HD. I have tried all settings and called tech support to no avail. I am considering Sharp Aquos LC5264U or Samsung 52 in (unsure model). Does any one have a idea which would produce a smother image? I understand these are larger sets and may introduce more problems. Any input greatly appreciated.</Content>
+	</Post>
+</Thread>

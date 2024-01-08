@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>VT30 & USB HDD Recording</Title>
+		<Username>meirion658</Username>
+		<Datetime>29-01-2012, 8:08 PM</Datetime>
+		<Content>Bit of a long one but please bear with me .... Just plugged in and set up my USB powered External HDD to record a BBC1 on freeview. As it was dinner time I let the TV be to carry on. On returning from dinner I went to see if programme had been recorded. Located Media layer but it could not find the USB HDD. I had to un plugged the USB and re plugged and hey presto it had recorded. My question/problem is? 1. Will this happen all the time having to un plug and plug the HDD 2. Am I better off getting a mains power HDD that will not require me to un plug and plug the HDD Hope this makes some sort of sense to you all</Content>
+	</Post>
+</Thread>

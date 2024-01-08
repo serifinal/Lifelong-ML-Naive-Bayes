@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Strom (ugh) to iPhone4</Title>
+		<Username>xwl</Username>
+		<Datetime>06-21-2010 02:06 PM</Datetime>
+		<Content>Heya, So I've finally decided on iPhone, I currently have a BB Storm 1 and I have about 17months left on my contract. I have unlimited data on my BB Storm. I'm thinking of purchasing an iPhone from apple and continuing my contract with telus. Is that possible? ...of course, unless I weasle a subsidized iPhone4 from telus for another 3 years.... cheers.</Content>
+	</Post>
+</Thread>

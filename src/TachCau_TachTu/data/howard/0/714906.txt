@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Damn near switched to Sprint this afternoon</Title>
+		<Username>CellPhoneGod</Username>
+		<Datetime>08-21-2009 07:50 PM</Datetime>
+		<Content>I took a look at my Verizon account and bill and decided that it was time for a change. I went online and look at the Sprint phones and ultimately decided to just a Tour with Sprint and sell my Tour with Verizon. Well I went ahead with the activation and that process alone took damn near an hour. After getting on the phone with Sprint customer care( that was an issue within itself) I finally got set up and was good to go. I took my Verizon Tour home and synced it up and got everything contact wise switched over. I called Sprint customer care again and got hung up on not once, not twice but five times . Anyway I called back again and finally got thru, thank Jesus, and began to attempt to get this number ported over and I thought all was well. Three hours later, the number portability department called me on my Sprint phone telling that it couldn't be done only to find out that the person I gave the info to jotted it down wrong. Being very pissed now I chose to stick it out with Verizon and cancel my line with Sprint. Sprint's customer care really really really needs to get it together. This is my third time this year dealing with Sprint and each and every time has been a headache and a half. This had to be a sign that its meant for me to stay with Verizon. Sorry Sprint folk.</Content>
+	</Post>
+</Thread>

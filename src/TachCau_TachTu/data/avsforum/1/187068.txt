@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>I am interested in getting a projector but I am worried about the day time light</Title>
+		<Username>TheKommissar</Username>
+		<Datetime>12-08-08, 01:12 AM</Datetime>
+		<Content>I live in the on campus apartments at school and wanted to look into a 1080p projector, more than likely the Mitsubishi HC4900. Theres plenty of room to easily have a 100+ inch screen, but I am not too sure how the projector will look during the day. It will be impossible to "black out" the room in the day time, but it gets pretty much pitch black at night so thats not a problem, however the room isn't that bright during the day. Theres just some maybe 4 foot wide by 2 foot windows up near the roof that shines through into the room in the morning and then theres a giant glass sliding door near where I would like to project the image. Do you guys think I would be able to get away with a decent image during the day? Also it would be really awesome if someone has pictures of their home setups playing a movie during the day with natural light coming in. Thank you so much for the help.</Content>
+	</Post>
+</Thread>

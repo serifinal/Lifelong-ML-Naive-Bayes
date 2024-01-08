@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Ways to download shows off of my DVR to my computer?</Title>
+		<Username>PCkid1741</Username>
+		<Datetime>12-22-08, 08:42 PM</Datetime>
+		<Content>Hey Guys, I need to record only certain shows on my Scientific Atlantic Explorer 8240 HDC DVR to my computer. Once the shows are on my computer I need to be able to burn them to blu-rays for archives. Please leave clear and specific direction. Also, list any other equipment needed are where it can be purchased. Thanks</Content>
+	</Post>
+</Thread>

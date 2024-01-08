@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help with getting MMS to work on factory unlocked Iphone from HK</Title>
+		<Username>tsang151</Username>
+		<Datetime>06-08-2010 05:01 PM</Datetime>
+		<Content>I am having issues with sending MMS msgs on my factory unlocked iphone 3g running 3.1.3 on AT&T. I have unlimited data plan and msging on the account but when i send it out i get the dreaded exclamation mark. anyone know a fix? thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Help! Only can see 1080i Video on my TH-37PX25</Title>
+		<Username>tugknight</Username>
+		<Datetime>02-10-2006, 2:23 AM</Datetime>
+		<Content>Greetings, I am totally at the end of my rope. Last night my Panisonic TH-37PX25 got in to a strange "funk." I was watching a football game (American) in HD and after it was over, my wife switched the input to where I have our DirecTV TiVo attached. The video (component) from my DirecTV unit would not display. I can get audio, but no video. So I switched to the input for the DVD player, same story. When I switched to the antenna input, the only video I can get are the channels broadcasting in High Def. The standard def channels are all audio only. I even plugged in an external HD set top I have for another TV, same story, only the HD channels show video. It seems like the TV will only display video in 1080i. I have tried everything I can think of...going through all the setup menus, plugging in another device into one of the componet inputs, switching cables, upgrading the firmware, with no success. I wanted to post this to see if any of you have any ideas before log a service call. This is driving me crazy. Thanks, Doug Knight</Content>
+	</Post>
+</Thread>

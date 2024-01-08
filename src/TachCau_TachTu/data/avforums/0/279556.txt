@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P42G30E plasma - vertical band problem, please help!</Title>
+		<Username>julio74</Username>
+		<Datetime>30-01-2012, 7:18 PM</Datetime>
+		<Content>Hi, some of the experts I can 'tell if the screen of my Panasonic TV TX-P42G30E (purchased a few days ago 14-01-2012) is defective from the attached photos? The photos were taken by placing the TV on AV1 when no signal and raising the brightness'. The screen is not 'uniform and has a large halo in the center bottom of the screen plus a well-defined vertical band. During scarrellate fast (as in football), denotes the band that bears overlapping rather annoying! You might consider the picture I linked is recommended if it is my right to replace the? If yes, how? Also does anyone know if there is a software fix for this problem? I await the answer, thanks! ImageShack® - Online Photo and Video Hosting ImageShack® - Online Photo and Video Hosting ImageShack® - Online Photo and Video Hosting ImageShack® - Online Photo and Video Hosting</Content>
+	</Post>
+</Thread>

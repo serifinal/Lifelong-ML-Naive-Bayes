@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>New Blackberry 2010 named torch?</Title>
+		<Username>waterlillium</Username>
+		<Datetime>06-26-2010 05:02 PM</Datetime>
+		<Content>I've been browsing the internet and reading many articles that are speculating that there will be a new blackberry device called the "torch" which will release in Sept. It promises a better browser and a new look for the blackberry app store... I was wondering if anyone else has more info on this. I want Rim to survive</Content>
+	</Post>
+</Thread>

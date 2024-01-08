@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Problem with Canon SD 600</Title>
+		<Username>Myron</Username>
+		<Datetime>01-13-2009, 10:16 AM</Datetime>
+		<Content>After almost 2 years of heavy use, a problem has come-up with my Canon SD 600. Here is the problem. After shooting a photo, when the Review photo appears for 2 seconds, I now get a large Histogram with the ISO setting, the AWB setting as well as the # of pixels, on the right side of the LCD. That display is so large that it makes viewing the Review impossible. I've gone through all the camera setting for days, but to no avail. The back buttons don't remove it either. What could this be? Thanks.</Content>
+	</Post>
+</Thread>

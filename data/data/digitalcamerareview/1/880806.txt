@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Digic II vs Digic III</Title>
+		<Username>usapatriot</Username>
+		<Datetime>04-15-2007, 09:16 AM</Datetime>
+		<Content>Now im in a stalemate as to which camera to get. The Canon A640 has the Digic II chip. Some other Cannon cameras have the Digic II chip but they dont have the advanced manual features of the A640. What should I do???</Content>
+	</Post>
+</Thread>

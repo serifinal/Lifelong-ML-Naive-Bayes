@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>apple iphone 3gs unlocked jailbroken $550 shipped!</Title>
+		<Username>Myclue</Username>
+		<Datetime>02-01-2010 05:12 PM</Datetime>
+		<Content>Like new iphone 3gs with everything. Unlocked/jailbroken. Would like to get $550 shipped with USPS Priority!</Content>
+	</Post>
+</Thread>

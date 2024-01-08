@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Pro Photo Nation</Title>
+		<Username>MAguln8839</Username>
+		<Datetime>03-19-2009, 09:10 PM</Datetime>
+		<Content>Has anyone ever bought any camera's from Pro Photo Nation. I am looking at the Canon Rebel XSi and there package prices are much lower than most places. If anyone has, were they happy with their transaction?</Content>
+	</Post>
+</Thread>

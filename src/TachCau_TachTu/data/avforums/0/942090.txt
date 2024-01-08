@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>TX-P42GT30 "Mute" Icon</Title>
+		<Username>a l e x</Username>
+		<Datetime>05-01-2012, 11:36 PM</Datetime>
+		<Content>I'm really hoping this is an easy solution but knowing my luck it won't be... One of my activities on my Harmony One mutes the TV... problem is when muted it shows the Mute icon bottom left of the screen... is it at all possible to hide this annoying little icon? Thanks!</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB: Google Nexus One</Title>
+		<Username>Brad33</Username>
+		<Datetime>02-10-2010 05:15 PM</Datetime>
+		<Content>Hey guys, I'm looking for a Nexus one, will pay $510 cash, looking to deal locally. Thanks, Brad</Content>
+	</Post>
+</Thread>

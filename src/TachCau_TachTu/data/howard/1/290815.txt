@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>WTB Canadian Factory Unlocked iPhone 4 32GB</Title>
+		<Username>Topsales</Username>
+		<Datetime>07-30-2010 09:51 AM</Datetime>
+		<Content>I am looking to buy a Canadian factory unlocked iPhone 4 32GB. I will pay up to $1100 USD for it shipped to California. I am PayPal verified. You MUST have positive feedback on eBay, HoFo or some buying/selling site. I can wait, as I expect the market to be flooded with them soon, so if you offer to sell it to me for more than $1100 I will refuse.</Content>
+	</Post>
+</Thread>

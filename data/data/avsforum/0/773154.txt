@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Scawt's HT Build Thread</Title>
+		<Username>Scawt</Username>
+		<Datetime>09-25-08, 07:58 PM</Datetime>
+		<Content>Welcome to Scott's home theater and addition build. Thanks for the great info from the AVS guys, it was definitely a learning experience and still is a work in progress! Updates are on page 3, here is a recent pic of the 2.35 acoustically transparent screenwall in progress pics of the speakers going in</Content>
+	</Post>
+</Thread>

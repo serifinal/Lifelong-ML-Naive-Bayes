@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung ln52a650 & Marantz sr5002</Title>
+		<Username>wdavidow</Username>
+		<Datetime>08-22-08, 10:15 PM</Datetime>
+		<Content>Hey everyone. I've been searching/reading the forums for a while now, but this is my first post! I recently purchased the samsung ln52a650 and a Marantz SR5002 AV receiver. I've hooked everything up, running an hdmi from my xbox to the receiver and the cable box to the receiver. Everything is HDMI. I get video on both the tv and the xbox, but no audio. The Marantz controls are pretty different from other receivers I've owned in the past, and I can't seem to find why my audio isn't working from the tv or the receiver when I have it running that setup. If anyone can tell me what I've done wrong. Perhaps there's a setting that i need to enable, or maybe this receiver just won't work for my setup? Thanks in advance for any help! ~Will</Content>
+	</Post>
+</Thread>

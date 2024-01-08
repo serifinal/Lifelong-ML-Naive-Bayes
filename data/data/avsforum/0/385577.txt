@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Started construction today! Help with projector please.</Title>
+		<Username>timabe</Username>
+		<Datetime>05-08-08, 06:33 PM</Datetime>
+		<Content>FINALLY started construction today. I'm taking the lessons learned from the GREAT members of this site and incorporating as many of the tips as possible into our HT. Now, I need to finally settle on a sub $3,000 projector. HELP! Here are the room specs: 18' X 15'. Ceiling will be 7' 8". The room will be dark as it is in our basement. I am building DIY screen using the highly recommended Goo. I'm thinking the screen should be in the 90-100 inch range. What do you guys suggest for the projector? I'm leaning toward the Epson 1080UB or the BenQ W5000. However, I am basically clueless. Any suggestions? Thanks in advance.</Content>
+	</Post>
+</Thread>

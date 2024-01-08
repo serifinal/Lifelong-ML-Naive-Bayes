@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Telus Theives: Bell, Telus lose rural overpayments appeal</Title>
+		<Username>queensway</Username>
+		<Datetime>09-18-2009 12:11 PM</Datetime>
+		<Content>So Telus tells customers that they need money for one thing and then they don't do it then want to use it for something else - how SCUZZY can a company get? Is that not fraud? http://www.theglobeandmail.com/globe...rticle1292670/ The phone companies themselves also asked for a reversal of the CRTC ruling, because they had earmarked the funds for other purposes. The surpluses, the accumulation of about four years of customer overpayments, followed a 2002 effort by the CRTC to encourage competition in the local phone services market by making monthly rates high enough to attract new entrants. In effect, a cushion was built into the rates, but in return, the country's phone companies were told to park some of the extra money in deferral accounts.</Content>
+	</Post>
+</Thread>

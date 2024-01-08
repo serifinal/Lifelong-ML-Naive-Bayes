@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How do I get HDMI video out from G35 chipset</Title>
+		<Username>markabuckley</Username>
+		<Datetime>08-14-08, 01:03 PM</Datetime>
+		<Content>P5E-VM HDMI Asus connection via VGA perfect connection via HDMI no signal - neither in bios or windows manual shows bios option to enable/disable HDMI but I don't have that option in my bios version 0504 any ideas please</Content>
+	</Post>
+</Thread>

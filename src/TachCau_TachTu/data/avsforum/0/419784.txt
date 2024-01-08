@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung PN50A550 vs Panasonic 50PZ80U</Title>
+		<Username>bavarian06</Username>
+		<Datetime>05-26-08, 02:14 PM</Datetime>
+		<Content>Hi, this is my first post so bare with me. I searched through the AVS threads and there isn't a whole lot of coverage on panasonics more affordable set of 50PZ80U. I know there are polls and user opinions on the 50PZ85U compared to the PN50A550 but not on the 80U. From what I can tell, the 85u has a contrast ratio of 30K:1 compared to that of the 80u 20K:1. The 85U also has a VGA port but that's no big deal to me (using a HDMI to DVI converter). What am I really concerned with is the 10K difference in native contrast ratio found on the 50PZ85U/PN50A550 sets. So with that being said, which is better of two in terms of image quality (taking into consideration of glare, true blacks, color hues/saturation, etc)? The Panasonic 50PZ80u or the Samsung PN50A550?? I originally had my heart set on the Samsung but over this Memorial weekend, I scored a killer deal on the Panasonic in which the price difference is 34% less than the Samsung (more than enough for me to buy a PS3 plus a wall mount with the same allocation of funds). Any help will be appreciated. Cheers...</Content>
+	</Post>
+</Thread>

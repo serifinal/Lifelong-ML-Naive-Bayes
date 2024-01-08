@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="2">
+		<Title>What is YOUR Reference CD or SACD??</Title>
+		<Username>StopTheExcuses</Username>
+		<Datetime>05-18-08, 08:27 PM</Datetime>
+		<Content>Hello all. As I grow older I'm getting more into 2 Channel Stereo than I used to be. I'm now on the hunt to find out the best quality Cd's or Sacd's to "Show off" the best my system can do. I'm really into Acoustic and/or Classical as well as classic rock. So, what I'm asking is, what CD do YOU put in when you want to showcase the best your system can sound or wow one of your neighbors?</Content>
+	</Post>
+</Thread>

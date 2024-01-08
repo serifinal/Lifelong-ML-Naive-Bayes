@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>A couple of questions about upgrading</Title>
+		<Username>trbasil</Username>
+		<Datetime>02-08-2010 12:52 PM</Datetime>
+		<Content>Me and my wife are both currently secondary lines on a 4 line family share (connect) plan with her parents. Me and the wife are due for an upgrade in just over two week, the in-laws are not due till August. I am looking to get a Droid, and the wife is wanting either a EnV touch or a Rouge. I know that I will have to drop down from the connect plan and add the smart phone data plan. I also know that either of the phones that she wants (or any phone that she would want) also require data. 1. What would I drop down to? Would I be able to go down to the now defunct select plan or would I have to go to one of the new "talk and text" plans? (I know the price for a secondary line would end up being the same either way, but I am just wondering.) 2. Would she have to get the new "talk and text" plan and the new add on data, or would we be able to keep her on the Connect plan to cover the data? 3. Would we be able to upgrade these line without the account holder (father in-law) or would he have to be there? 4. If both me and her do have to go to the "talk and text" plan how will that effect the family share account? Would the in-laws have to change to the new plan or could they stay on Connect until they upgrade?</Content>
+	</Post>
+</Thread>

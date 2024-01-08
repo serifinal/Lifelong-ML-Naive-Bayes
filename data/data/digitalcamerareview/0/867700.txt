@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Died - XSi just died - Help</Title>
+		<Username>bbdawg</Username>
+		<Datetime>12-15-2008, 01:06 PM</Datetime>
+		<Content>My new 450d Xsi just died last night. It is only a few weeks old and I am in the NC mountains on vacation. the camera was fine but while transfering pictures to my pc, the camera shut off. I have 4 fully charged bateries and none of them make any difference. there is NO nothing when I turn on the unit. Any ideas for quick help?? I'm in the Banner Elk/Asheville NC area right now and have several picture taking days left. Thanks Randy</Content>
+	</Post>
+</Thread>

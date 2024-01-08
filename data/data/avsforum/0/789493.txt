@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is this the ultimate HTPC? Dell HTPC for $1700 configured.</Title>
+		<Username>yellow360f</Username>
+		<Datetime>03-28-08, 03:11 PM</Datetime>
+		<Content>Isn't it worth the extra few hundreds?</Content>
+	</Post>
+</Thread>

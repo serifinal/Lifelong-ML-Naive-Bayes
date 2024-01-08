@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic 42" - G30 or GT30?</Title>
+		<Username>Mr Cole</Username>
+		<Datetime>21-02-2012, 6:28 PM</Datetime>
+		<Content>Finally decided to replace my old Panasonic 37" PX70 and have narrowed it down to the G30 & GT30. I don't really need 3D currently as it really doesn't float my boat so the G30 would probably more than suffice, though I do prefer the styling and better build quality of the GT30 and I like the fact it has a filter to help bright light (my TV is right next to a window). My main concern is that I see there seem to be many problems regarding the green tinge effect though , but they do seem to be more common on the GT30 (correct me if I'm wrong on this). I suppose my question is more along the lines of which one is less likely to have the green tinge fault, or is it really a lottery on either. Many thanks</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>A720is Zoom query</Title>
+		<Username>bbartlett</Username>
+		<Datetime>02-10-2008, 04:46 AM</Datetime>
+		<Content>Hi Everyone I am trying to decide which of the Canon Powershot models to buy, either the A710 or A720. The only thing I am not sure of is whether it is possible to use the ZOOM lens feature in MOVIE mode on the A720is, as I know you can on the A710? Does anyone know the answer to this query for me? Thanks to all who respond. Brian</Content>
+	</Post>
+</Thread>

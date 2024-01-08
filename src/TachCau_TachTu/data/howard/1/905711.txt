@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>iPhone 4 Factory Unlocked</Title>
+		<Username>dieselboy27</Username>
+		<Datetime>07-29-2010 02:15 PM</Datetime>
+		<Content>Willing to stand in line and get you a fresh factory unlocked iPhone 4 for tomorrow. Contact me ASAP. Looking for $1200 for the 32GB.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Rebel XTI exposure, white balance and framing</Title>
+		<Username>warpdesign</Username>
+		<Datetime>04-14-2008, 10:29 PM</Datetime>
+		<Content>Hi, I recently purchased a Rebel XTI and so far have not been thrilled with the results. I've had a couple of issues that I'm hoping you may be able to help me resolve. The first is the exposure and color of the pictures. I've tried out the different settings on the camera and overall my exposures feel dark to me and the color balance is way too warm. I've uploaded some examples here: http://www.flickr.com/photos/warpdesign/ I've tried changing the ISO and used the simple settings and the more advanced manual settings. I have not played around with the white balance settings yet or tried different metering methods. The other problem I've experienced has to do with focal length and cropping, this is my first experience with a digital SLR so I don't know if this is common. Basically the pictures I take are no where near as zoomed in as when I compose them through the lens. My camera came with a 250mm zoom lens and I wanted to try it out, I zoomed in extremely tight on a subject and basically filled the entire frame but when I looked at the result afterward in the LCD it was not zoomed in as tight. Is this normal?</Content>
+	</Post>
+</Thread>

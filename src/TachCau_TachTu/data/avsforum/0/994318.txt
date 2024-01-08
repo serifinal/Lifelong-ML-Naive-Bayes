@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Onkyo TX-SR706 and TX-SR806 downgrades?</Title>
+		<Username>hoyty</Username>
+		<Datetime>08-17-08, 01:42 PM</Datetime>
+		<Content>I was looking more carefully at the shots of the rear of the x05 and x06 models and noticed some things missing in the new models. I collected all four in one shot below. It appears the 705 was radically redesigned internally in the 706. Almost everything is moved on the rear panel. Also the 706 and 806 rear panels are now identical except for the addition of a 5th HDMI port on the 806. Both still have a jig port for upgrades presumably (if the serial can't be used) but there is only one on the 706 as opposed to two on 705. Some things lost in this model include optical out, a component video input and a switched AC outlet. The first two personally don't bother me, however I would really miss the AC out since I use it to control my rack fan. Also if you look at the pictures of the 805 vs. 876 it looks like the 876 is the new 805 as far as rear panel. The only difference on the rear panels between 805 and 876 is the additional in/out HDMI and moved AM/FM antennas. The 876 maintains the optical out and AC outlet. Also at this point I guess the only reason to go for 805 over 705 is increased power output and an additional HDMI port. 705 Rear Panel 706 Rear Panel 805 Rear Panel 806 Rear Panel 876 Rear Panel</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>slr lenses on dslr cameras</Title>
+		<Username>new dad</Username>
+		<Datetime>12-05-2010, 11:19 AM</Datetime>
+		<Content>I was recently given some canon lenses that were bought for a rebel in '99 and '01. How useful are these to me on a new canon slr? Should I expect to get a lot of use out of them, or are they going to be obviously outdated? Thanks</Content>
+	</Post>
+</Thread>

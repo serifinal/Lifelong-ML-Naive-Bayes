@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TH-42PH9BS, how to connect?</Title>
+		<Username>adam watson</Username>
+		<Datetime>23-05-2011, 11:09 AM</Datetime>
+		<Content>Hi, There is a guy selling TH-42PH9BS just around the corner from me for 185 quid. its a display. I want to connect it to a Sky HD box and DVD player. Without spending a load of money on an HDMI board for it (unless you can point me to a cheap one) how can I do this? What about sound wise? Thanks for the help Adam</Content>
+	</Post>
+</Thread>

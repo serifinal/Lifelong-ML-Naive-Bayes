@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title></Title>
+		<Username>gpalush</Username>
+		<Datetime>11-25-08, 12:10 PM</Datetime>
+		<Content>Hello folks, I am not sure if this is the right folder but I did not see a dedicated installation folder... if it needs to be moved please let me know and I will do so. I bought a Sony Bravia KDL-40V2500 LCD TV and a Monoprice Wallmount for 32-60" tvs and I am having some questions about installing it. I am planning on installing on a wall cut out that is 36 1/4" wide. The tv itself is 38 7/8" wide. By cutout I mean something like below, and the tv will be on the wall marked A. | | B | |---A----| | | |C | The first question is this television too wide for the wall? I am planning on swiveling it at about a 34 degree angle so I believe it should fit within the cutout. The second question is... I believe that there is only one stud in this cutout which is scaring me, and the stud seems to be in the middle of the wall (19 1/2" from C wall). Is this an issue or would I simply apply an anchor to the center and then add screws on the outside as well? Is this a difficult install and should I get this done professionally? Any help would be appreciated... Thanks guys!</Content>
+	</Post>
+</Thread>

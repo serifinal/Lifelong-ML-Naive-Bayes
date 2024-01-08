@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>If you had your choice..... Mitsubishi WD-73736 or Samsung HL67A750.</Title>
+		<Username>tyrant666</Username>
+		<Datetime>06-26-08, 11:59 PM</Datetime>
+		<Content>I'm stuck between these two DLP's. I like them equally. Mits is about $500 more Please help me make up my mind. Will be used mainly to watch Blu-Ray movies and Sports (NFL Football).</Content>
+	</Post>
+</Thread>

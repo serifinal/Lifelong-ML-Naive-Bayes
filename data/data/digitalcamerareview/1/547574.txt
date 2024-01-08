@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>A710is vs. A570is</Title>
+		<Username>Ryno</Username>
+		<Datetime>04-30-2008, 05:28 PM</Datetime>
+		<Content>Hello, I am looking to purchase my first digital camera, and after doing some research I have decided to buy a camera from Canon's Powershot line. My question is this: given very average needs, which is a better buy: the A710 model at around $105 or the A570 model at around $145 I am not really sure how much changed between the two cameras, but the A710 seems to be the better deal? If you could give me any suggestions I would be grateful. Thank you! Ryan</Content>
+	</Post>
+</Thread>

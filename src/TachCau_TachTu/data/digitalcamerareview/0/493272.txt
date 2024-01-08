@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>sd870is - colors look flat?!</Title>
+		<Username>RoBo</Username>
+		<Datetime>03-19-2008, 02:09 PM</Datetime>
+		<Content>is it just me, or do the colors look flat? I've been pretty happy with my new 870is but after uploading the images to my comp for the first time i was a little disappointed. granted they've been indoor shots (mostly florescent lighting though), but i was hoping for something a little punchier. i now started shooting everything with vivid coloring and i hope that will work, but if you guys have any other suggestions i'd really appreciate it.</Content>
+	</Post>
+</Thread>

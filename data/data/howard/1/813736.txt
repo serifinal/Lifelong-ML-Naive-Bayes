@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Samsung vibrant vs. Iphone 3gs!</Title>
+		<Username>bigg12x</Username>
+		<Datetime>07-07-2010 01:46 PM</Datetime>
+		<Content>IM GOIGN TO SIMPLE MOBILE I LOVE THE IPHONE BUT IT WONT GET 3G IT WILL RUN ON EDGE NETWORK, BUT IS THE VIBRANT GOING TO BE WORTH IT, NO FLASH ON CAMERA AND WILL IT BE LIKE THE NEXUS OR WEAKER?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HELP-Canon Powershot A460-Problem in downloading images to PC</Title>
+		<Username>Shareek</Username>
+		<Datetime>03-13-2010, 01:21 AM</Datetime>
+		<Content>Hi, I have been using a Canon Powershot A460 CAM for the last two years without any issues. Since recenlty, I m unable to download pictures from CAM to PC. Eventhough previewing is possible in the camera, when I connect it to the PC and try to download them using various softwares (including Zoombrowser EX), it displays "No Images" in camera LCD and "There are no images in camera or memory card that match download conditions" in my PC. Please help!!! Thanx Shareek</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Digital Camera News, 12/24/07</Title>
+		<Username>David Rasnake</Username>
+		<Datetime>12-24-2007, 02:20 PM</Datetime>
+		<Content>Canon reaches 30 million mark with EOS lineCanon recently announced that it had reach a manufacturing milestone, having now produced more than 30 million of popular EOS digital and film SLRs. In 1987, on the company's 50th anniversary, Canon unveiled the EOS line with the 650 AF film SLR. The first digital EOS camera, the 30D, made its debut in 2000.30D" width="350" height="354" /> EOS digital cameras currently in production include Canon's popular Digital Rebel entry-level SLR series. Nikon releases Coolpix S51/S51c, S700 tutorial videosNikon point-and-shoot users take note: new tutorial videos for Nikon's popular Coolpix S51/S51c and S700 ultra-compacts are now available from Nikon's website.The brief tutorials offer a walk-through of camera features and tips for taking better shots. The S51c video also provides information on setting up the camera's noteworthy WiFi capability.To view both videos, visit the Press Room on Nikon's website at http://forum.digitalcamerareview.com/press.nikonusa.com. Canon updates 1Ds Mark III firmwareThe latest firmware version for Canon's flagship EOS 1Ds Mark III professional digital SLR is now available from Canon's website.Firmware version 1.0.6 improves a communication reliability issue with some Compact Flash cards, and corrects the occassional appearance of vertical lines and color casts in certain types of images.To get the latest version from Canon, head here.</Content>
+	</Post>
+</Thread>

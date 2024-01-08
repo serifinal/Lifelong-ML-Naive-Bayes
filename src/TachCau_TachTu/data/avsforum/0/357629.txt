@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Issues with PT AE2000U - Blue bar on the bottom of the screen</Title>
+		<Username>dvdz</Username>
+		<Datetime>12-13-08, 09:46 PM</Datetime>
+		<Content>Hi Guru's I have an issue with Panasonic PT AE2000U projector recently Before 1 year warranty, so I will be calling Panasonic soon Issue is There is a blue bar on the bottom of the screen where the subtitles displays this issue started recently, 30 days ago, started light blue and getting darker by day. I will take a photo and attach shortly but anyone knows about any solutions that i can fix?</Content>
+	</Post>
+</Thread>

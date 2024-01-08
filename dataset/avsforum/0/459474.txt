@@ -1,0 +1,3 @@
+new official geforce 178.13 whql drivers released by nvidia .
+new official whql certified drivers from nvidia , would be nice to get feedback from nvidia users here .
+http://www.nvidia.com/object/winxp_178.13_whql.html http://www.nvidia.com/object/winxp64_178.13_whql.html http://www.nvidia.com/object/winvist...8.13_whql.html http://www.nvidia.com/object/winvist...8.13_whql.html

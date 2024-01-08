@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Error 99 message</Title>
+		<Username>sbere</Username>
+		<Datetime>12-30-2010, 12:23 PM</Datetime>
+		<Content>I'm a new user of the Rebel XS and continue getting an "error 99" message when taking a photo. Can anyone help with suggestions in correcting this or preventing it? Thanks in advance.</Content>
+	</Post>
+</Thread>

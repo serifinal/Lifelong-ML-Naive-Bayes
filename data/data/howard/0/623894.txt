@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: BNIB Apple iPhone 3GS 16GB Black (Fido)</Title>
+		<Username>str8outtaTO</Username>
+		<Datetime>12-15-2009 12:38 AM</Datetime>
+		<Content>Price: $600 Condition: 10/10 - it's brand new & never used... still in plastic. Opened only to activate (to ensure its not DOA) and remove SIM. Comes with: Everything BNIB except the Fido SIM card. Carrier Lock: It is locked to Fido. This phone has the latest boot rom so if you want to jailbreak, it will have to be tethered jailbreak. Location: Local Meetups only - GTA/Southern Ontario only! Sorry, no shipping. Contact: PM is the preferred method of communication. Thank you for your patience.</Content>
+	</Post>
+</Thread>

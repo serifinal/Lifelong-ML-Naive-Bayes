@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Rack / Cabinet Design - Where to Start?</Title>
+		<Username>PapaToeFuzz</Username>
+		<Datetime>05-28-08, 08:20 PM</Datetime>
+		<Content>I've enjoyed browsing through the various threads of custom rack designs and will be putting something in along these lines but have no idea where to start looking at what's available, best practices, etc. My one requirement (per my wife) is that I lock whatever I put everything into as the neighbor kid (nicknamed Damien by us) tends to wreak havoc on my 'toys' even though he "never touches them". Also, if everything is enclosed or in another room how do you go about transmitting the IR signal for the remote control? I've heard about IR repeaters (or something along those lines) but don't know anything about them and how they work. Again, any help would be greatly appreciated.</Content>
+	</Post>
+</Thread>

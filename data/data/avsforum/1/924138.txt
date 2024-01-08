@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>More power, Yamaha 663 or Pioneer 1018</Title>
+		<Username>blackmax2k1</Username>
+		<Datetime>10-30-08, 11:15 AM</Datetime>
+		<Content>Looking at these two and maybe the HK 254. I have JBL Studio speakers. I have tried the Yamaha and it seems to be underpowered. Do the other two have more beef?</Content>
+	</Post>
+</Thread>

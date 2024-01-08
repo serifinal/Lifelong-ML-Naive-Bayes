@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Pioneer PDP-LX5090 updates</Title>
+		<Username>member 577815</Username>
+		<Datetime>03-01-2012, 4:39 PM</Datetime>
+		<Content>My tv is checking for updates every day but doesn't seem to actually update anything and the message keeps appearing on the screen, which is annoying. What does it actually need to be connected to as at the moment it's just the sky +HD and Blu Ray?</Content>
+	</Post>
+</Thread>

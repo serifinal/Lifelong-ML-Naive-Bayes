@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>Corey Lane Cinema Bar - LSWHO's Theatre Bar</Title>
+		<Username>LSWHO</Username>
+		<Datetime>09-26-08, 10:44 AM</Datetime>
+		<Content>Welcome to the Copper Pub...the still ongoing, still transforming, ever changing home pub build thread. Pull up a chair, have a drink and swap stories, ideas, complaints, & designs with us. Well this is way overdue so I am finally starting my first thread after countless years and hours at a time of viewing and sitting behind the scenes. I first want to thank a few threads that really helped me without really knowing it, some gave me construction ideas, what not to do's, what products they used and most importantly a place to get ideas and pictures. A quick shout out to Heynow^'s, Chinadog, Big E's, Dinger23 and many I can't remember off the top of my head. Thanks to all of you I think I have created a space my family enjoys (although not 100% completed yet) and proud I've done it all myself. I plan on adding numerous pic's in the near future of the build, past -present- future. Any questions don't hestiate to ask. JVC DLA RS1 Denon 3808ci VUTec 123" screen Canton speakers and sub -Canton 650 InWall , -Canton 500 LCR, -4 Canton in-ceiling rear speakers -Canton Sub AS 85 SC HDDVD Toshiba A30 Sony BlueRay DVD player Medius TX-100 remote Cable box - HD Motorola DCH6200 Wii, Xbox 360, PS3 The current look of The Copper Pub Before: After Drywall: After flooring: After Bar framing & Wall cabinets: After Oak panels installed and stained: Bar Top & Bar Rail being installed:</Content>
+	</Post>
+</Thread>

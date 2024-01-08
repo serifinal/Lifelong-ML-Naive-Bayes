@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PowerShot A590IS - Problems when downloading pics</Title>
+		<Username>Sorin</Username>
+		<Datetime>12-05-2010, 01:28 PM</Datetime>
+		<Content>My Canon PowerShot A590IS is not recognized by either Zoom Browser or EOS utility. I uninstalled all Canon utilities, installed the latest version of Zoom Browser (ver. 6.6.ob got from Canon website), but no success. The camera is recognized by Windows (my OS is Windows XP), but not by Zoom Browser. Is any trick that I should know? Thanks in advance for any help --------------------------------------------------------------------------------</Content>
+	</Post>
+</Thread>

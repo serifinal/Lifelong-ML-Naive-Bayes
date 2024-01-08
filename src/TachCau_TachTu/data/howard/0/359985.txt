@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>The Droid Bot lives inside my Motorola Droid...</Title>
+		<Username>Nelson5693</Username>
+		<Datetime>11-07-2009 11:04 AM</Datetime>
+		<Content>I was putting a body shield on my Droid this morning when I noticed something odd... It felt like someone (or something) was watching me... Can you see it? Staring at me? I think it has become self-aware...</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Tweet Tweet -- Verizon Wireless Offers Twitter App to Feature Phones</Title>
+		<Username>Matt_</Username>
+		<Datetime>09-09-2009 02:47 PM</Datetime>
+		<Content>"What Are You Doing Now? TweetTweet App Launches On Your Verizon Wireless Phone" http://news.vzw.com/news/2009/09/pr2009-09-09f.html http://www.phonescoop.com/ by Eric M. Zeman Today Verizon Wireless announced a new Twitter application called Tweet-Tweet that is compatible with its feature phones. The application allows Twitter users to update their status, as well as view and reply to friends, re-tweet and send direct messages. The application can be downloaded by texting "Tweet" to APPS (2-7-7-7). Tweet Tweet works with over 60 handsets, including models that run BREW. The application costs $4 for unlimited Tweets, or $1.50 per month. ..........</Content>
+	</Post>
+</Thread>

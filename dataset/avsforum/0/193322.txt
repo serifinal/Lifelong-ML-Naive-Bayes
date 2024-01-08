@@ -1,0 +1,12 @@
+resolution problems connecting through vga to lcd tv .
+hey there .
+i recently purchased an lg 32lc7d lcd tv and i have my nvidia 8600 gts video card in my computer .
+basically , i 'm connecting the computer to the tv with an dvi to vga adapter from the card and using a vga cable plus a vga extension cable to the tv .
+now , i do n't like nvidia 's control panel at all and it seems that it 's not doing what i want .
+i have a 19 '' full screen lcd monitor hooked up dvi to the computer with a resolution of 1280x1024 and when hooked up to the tv , i want 1366x768 .
+the problem i 'm having is that , if my monitor is fine at 1280x1024 , then my lcd tv is at a bad resolution which makes it pointless to view .
+as well , when i have my lcd tv at 1280x768 -lrb- it might be 1280x720 -rrb- , then it shows great but then my computer monitor shows messed up at 1280x768 which is a resolution i absolutely despise .
+same problem even when i use clone , extended desktop , use my 19 '' monitor as the main display or even the lg 32 '' as the main display .
+i 'm thinking , the problem could be that my main computer monitor is not widescreen and my lcd tv is widescreen , and that might create a conflict , but it should n't , nvidia should let me do a custom display , because nvidia does recognize it as an hdtv .
+is there anyway that i could solve this problem ?
+thanks

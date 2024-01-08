@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>HD2 or Iphone4</Title>
+		<Username>malibuh</Username>
+		<Datetime>06-13-2010 01:16 PM</Datetime>
+		<Content>Hello, i really want a new phone! My current phone: lg Cookie, well i'm tired of it. I gave it a few new interfaces and tweaked it etc, But its not a good phone for me. Now my friend has the HD2, i really like it especially the screen. And also the coming iphone4 i really like. My phone subscription (is that the right english word?) lasts 8more months its from Hi, a Dutch phone-company, in the last 4 months i can get a new phone, but that takes to long. So should i buy an HD2 for 450euro simlock-free and get an extra unlimited internet with it.(10euro/month) Or should i get the new Iphone4+subscription which I don't know the price of yet, but if it's the same as the 3GS now it would cost me 20euro a month(that is+internet) +350euro for the phone, and i still have my old subscription. My friend know all about the HD2 he has about a 100games + many more apps he knows al about different interfaces and other tweaks, and i have a 16gb micro sd card. But ofcourse the Iphone4 has many more apps to offer, and some nice new features and it has 32Gb of space, but a smaller, but higher resolution screen. I personally think that the HD2 screen would fit me better as i'm not looking at the screen so close that I can see the pixels, so i dont see a big advantage in the iphone4 screen, and the HD2 screen is so big and I think its better for the internet or watching movies. What do you recommend me?</Content>
+	</Post>
+</Thread>

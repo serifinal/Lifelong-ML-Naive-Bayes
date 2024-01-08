@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>best ~55" LED tv on picture quality Alone?</Title>
+		<Username>hiohaa</Username>
+		<Datetime>28-12-2011, 1:33 AM</Datetime>
+		<Content>budget - £1800 (though if theres no actual difference in the picture quality/screen between a tv costing 1100 and a tv costing 1800, and the difference is just due to features i dont need, i'll obviously go for the cheaper option!) after the best 50-55" tv, on picture quality alone: - purely for movies - dont care about 'smart tv' and all the other pointless stuff (usb slots, wifi etc...etc...dont need any of it) - all i care about is the picture quality - not considering plasma due to the burn-in/image retention issues, especially as most films i watch are 2.35:1 (unless the latest ones dont suffer from this problem anymore?) - not fussed about 3d - dont care about audio or design - think i've put the emphasis clearly on picture quality alone! - must be LED - FULL ARRAY BACKLIT with local dimming (makes the search very hard....) any recommendations? because of my insistence on full array backlit - im hoping to stumble across 2010 range tv's that are going cheap. I'd rather have a 2010 full array than a 2011 edge lit...</Content>
+	</Post>
+</Thread>

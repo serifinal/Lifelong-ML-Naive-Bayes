@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Droid crashes my WIFI network.</Title>
+		<Username>MxChino79</Username>
+		<Datetime>11-30-2009 07:21 PM</Datetime>
+		<Content>Every single time I use WIFI at home on my droid 30-45 minutes later, my network will crash. I'm using an Apple Airport extreme router. I'm almost positive its my droid thats causing it to crash. I can go days without using my droid on wifi and my network is fine. As soon as I access wifi, it crashes, and I have to reboot my modem and router. Is there certain ports I need to allow access to on my router? Settings I need to change? Any help is appreciated. Thanks.</Content>
+	</Post>
+</Thread>

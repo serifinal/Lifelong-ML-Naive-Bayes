@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Ixus120IS video format?</Title>
+		<Username>wanderintraveler</Username>
+		<Datetime>01-01-2010, 09:06 PM</Datetime>
+		<Content>Hi. Does anyone know if Canon Ixus120 IS can be set to save video in .avi format instead of .mov? I have a Canon Powershot 570 and it saves in avi format. Thanks in advance.</Content>
+	</Post>
+</Thread>

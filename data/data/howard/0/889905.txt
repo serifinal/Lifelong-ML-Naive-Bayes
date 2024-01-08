@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>When Will Bell iPhone 3GS Be Available From Wireless Wave?</Title>
+		<Username>f13dfx</Username>
+		<Datetime>11-23-2009 12:36 PM</Datetime>
+		<Content>The Wireless Wave store I deal with in Vancouver says that the iPhone 3GS is on an "exclusive" deal right now and cannot tell me a date as to when it will be available to their dealers (ie. Wireless Wave). Can someone confirm this as well as maybe give a date as to when they might be available to all of Bell's dealers. Thanks in advance!</Content>
+	</Post>
+</Thread>

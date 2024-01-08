@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Backup NB-5L Battery?</Title>
+		<Username>cogit8r</Username>
+		<Datetime>10-13-2009, 12:02 PM</Datetime>
+		<Content>I search for threads concerning replacement batteries...but saw none. My little Canon SX 200 IS uses the NB-5L battery, and I'm searching for a backup. There are many aftermarket batteries available, but the reviews are spotty. Does anyone have a recommendation for a backup battery? TIA; Dave</Content>
+	</Post>
+</Thread>

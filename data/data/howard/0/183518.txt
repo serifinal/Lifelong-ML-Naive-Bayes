@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Quick questions before upgrading/re-jailbreaking</Title>
+		<Username>Dreamsfolly</Username>
+		<Datetime>04-01-2010 12:27 AM</Datetime>
+		<Content>Currently using a jailbroken 3G, version 3.0, firmware 04.26.08, and ITunes 8. It's been a long time since I've needed to upgrade the software and looking at the forums and some of the guides (till my head was spinning) things have really changed. Don't really care about unlocking the phone so much but definitely need cydia and tethering capability. Couple of hopefully quick and easy questions..... 1) I've download version 3.1.2. Do I need to restore the phone to a clean version of 3.0 first or just restore using 3.1.2 then jailbreak? I know if you did things in the wrong order before you'd lose 500mb or so of space. 2) I used to use qckpwn (sp?) but most of the guides I'm seeing now suggest blackrain. Which is better or does it matter? Any help/suggestions would be appreciated. I've held off upgrading but some of the apps I want just won't work on 3.0 anymore.</Content>
+	</Post>
+</Thread>

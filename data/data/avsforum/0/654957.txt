@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Heroes, Grey's Anatomy, Lost etc. buy seasons now or wait for the complete sets?</Title>
+		<Username>GCBlu101</Username>
+		<Datetime>05-31-08, 02:45 PM</Datetime>
+		<Content>I am not sure what to do ?</Content>
+	</Post>
+</Thread>

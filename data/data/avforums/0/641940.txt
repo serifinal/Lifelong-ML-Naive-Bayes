@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>burn</Title>
+		<Username>murphman1971</Username>
+		<Datetime>28-05-2011, 9:53 PM</Datetime>
+		<Content>I have owned a LG PK350 50inch Plasma for about 3-4 weeks now,and tonight after watching the football in ITVHD -on Sky- i noticed the ITV European Barcelona 3 Man U 1 message seem too stay in the screen-is this normal?Will it dissapear aswell?Also should i change my settings as i have had it on factory settinga since i got it?</Content>
+	</Post>
+</Thread>

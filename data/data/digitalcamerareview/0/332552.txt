@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>What am I doing wrong?</Title>
+		<Username>caseynall</Username>
+		<Datetime>11-11-2009, 08:32 PM</Datetime>
+		<Content>I bought a used Canon Rebel XT SLR that is about 3 or 4 years old that has taken about 5000 pictures by now. My model looks shorter and wider than in real life. Do I need a different lens ( I currently have a EFS 18-55mm)? It also seems to exaggerate this outcome when I turn it sideways.</Content>
+	</Post>
+</Thread>

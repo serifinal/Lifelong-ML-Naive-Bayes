@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Batteries stopped working</Title>
+		<Username>Terabithia</Username>
+		<Datetime>11-03-2007, 06:42 PM</Datetime>
+		<Content>I have a Canon Powershot S410. I got it about 3 years ago, and I have the battery that came with it and also an extra one that I bought at the same time. They used to work fine, but lately I have noticed that they don't seem to hold charge very well. I made sure to charge them fully, but then they only last for a couple pictures before running out. Does this usually happen after a few years? I want to replace them but I want to be sure that it is the batteries that are the cause of the problem, as opposed to the camera itself, or the charger.</Content>
+	</Post>
+</Thread>

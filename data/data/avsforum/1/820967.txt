@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>For those of you who bought Vizio tvs a year ago, are you still happy?</Title>
+		<Username>merij</Username>
+		<Datetime>08-25-08, 12:46 PM</Datetime>
+		<Content>Just wondering if those of you who bought Vizio tv back when the hype was going on are still happy with your purchase. I am considering the VU32L at circuit city. I don't have a lot that I can spend on a tv, and yet I keep hearing "buy quality and cry once" in my head. I checked out the tv in person, and it looks like it would be fine for my needs, which would mostly be SD tv. I just want to know about the reliability of these tvs. thanks!</Content>
+	</Post>
+</Thread>

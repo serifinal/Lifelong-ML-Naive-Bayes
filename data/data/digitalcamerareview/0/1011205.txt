@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>sx120 file numbering Q</Title>
+		<Username>He's Got a Shooter!!</Username>
+		<Datetime>02-15-2011, 05:40 AM</Datetime>
+		<Content>I have the sx120 and I like to dump my images onto my computer after a photo session. The problem is that the image count resets back to 001 on my camera every time. My old Fujifilm would always remember my image count even when interchanging between memory cards. So is there a way to maintain my image count?</Content>
+	</Post>
+</Thread>

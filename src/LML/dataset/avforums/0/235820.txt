@@ -1,0 +1,9 @@
+tx-p50vt20 vieracast connection help needed please . .
+hi all , i 've been off the forum for a while and have scanned through a lot of old topics but ca n't find anything to help i tried to connect wirelessly to the vieracast suite -lrb- despite having owned the panel over a year it 's only just occurred to me to do so -rrb- .
+i am using the supplied wireless dongle and a wps router .
+my panel searches for a wi-fisignal and brings mine -lrb- and all the neighbours -rrb- up .
+i select mine and enter my password and after a few minutes of seeking it then fails to establish a connection .
+i have tried ... .
+pin option wps push button option i have also tried selecting the option on the panel that gives me a key number and going through the ` add service ' option on my router -lrb- netgear wnr2000 -rrb- to no avail .
+i 'm tearing my hair out now as all other wi-fi reliant devices i own are fine -lrb- i also turned them all off whilst trying to connect the plasma -rrb- please help as an extra , has there been any firmware updates as i 've been on panny site and ca n't find a thing .
+running v2 .1 at present .

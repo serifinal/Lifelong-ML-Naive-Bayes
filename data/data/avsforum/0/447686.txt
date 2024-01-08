@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Direct TV dvr to dvd recorder?? Is it possible?</Title>
+		<Username>lcolien</Username>
+		<Datetime>01-03-09, 03:23 PM</Datetime>
+		<Content>I have a HD direct tv dvr and want to get stuff off that onto DVD - can i do that and what type of DVD recorder would i need?</Content>
+	</Post>
+</Thread>

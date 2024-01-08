@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PowerShot SX100 IS -- dead. help!</Title>
+		<Username>ololon</Username>
+		<Datetime>09-22-2009, 01:45 AM</Datetime>
+		<Content>I've got a SX100, 1yr 9m old, that simply won't go on. No damage, no liquid, no nothing -- one day it worked, took a photo, next day wouldn't go on. Only thing that happened in between was I took out the memory card to download the photo I took; standard procedure, no different than any other time I did it. Batteries have been changed, terminals have been cleaned, nothing seems broken. Any ideas? Thanks.</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Cheap'ish anti-reflective plasmas? Need info (also a little about Samsung PS43D450A2W</Title>
+		<Username>Master X</Username>
+		<Datetime>23-01-2012, 1:31 AM</Datetime>
+		<Content>Does anyone have any recommendations? I was looking around at the Samsung PS43D450A2W and its 3D counterpart for a while and it seemed to have something called "Clear Image Panel" but from reviews/opinions it doesn't seem to cut reflections and such down. To make matters worse I went on the Samsung US site for this same TV and it says it has Filterbright technology but clearly the UK version does not. At the moment I have just recieved an LG 42PT353K and I simply cannot stand the reflections. Can anyone help me with a finding a decent priced Plasma with decent antio-reflective please? (And yes, I know, get decent curtains and light shade.)</Content>
+	</Post>
+</Thread>

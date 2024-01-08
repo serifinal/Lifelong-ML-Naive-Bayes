@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How do you get Time Warner to fix bad guide data? Poker after Dark end time bad.</Title>
+		<Username>liquidmetal</Username>
+		<Datetime>12-30-08, 02:47 PM</Datetime>
+		<Content>They think this show is 55 min, so I have to set it every night with padding, instead of using a "season pass" type recording.</Content>
+	</Post>
+</Thread>

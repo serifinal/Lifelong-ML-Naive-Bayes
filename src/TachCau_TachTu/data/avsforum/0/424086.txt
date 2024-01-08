@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>My CIH theater: 148" / Curved Screen / Acoustically Transparent</Title>
+		<Username>popechild</Username>
+		<Datetime>02-26-08, 02:13 PM</Datetime>
+		<Content>My turn (finally). The thread title is a bit misleading, because the masking's not motorized just yet, but as soon as I stick in the Add-a-Motor it should be good to go. Didn't know if I could update the thread title later. Otherwise, here's the details with pics... The room before we moved in: First things first - my mostly DIY rack. I used MA rack rails and shelves, but mounted the rails directly to the wall studs and cut/painted MDF for blanks. Here it is before blanks have been added, with the hinged, velcroed door open: The blank filler panels I created during the painting stage: ...and the finished look: In the next post I'll move on to the fun stuff - the projector and screen wall...</Content>
+	</Post>
+</Thread>

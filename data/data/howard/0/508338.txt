@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Brand New Samsung Galaxy S (i9000)</Title>
+		<Username>FerroFlux</Username>
+		<Datetime>06-21-2010 08:35 AM</Datetime>
+		<Content>Hi, I was recently in Europe and picked up a Samsung Galaxy S while I was there. It is the 8GB model and it brand new, sealed in package. If you have any questions, please ask. I'm asking $725 shipped in Canada (add $10 for Xpresspost). Cheers Note: I have this IN HAND ready to ship, not pre-order!</Content>
+	</Post>
+</Thread>

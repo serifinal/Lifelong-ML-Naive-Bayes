@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>TX-P50U30E service menu</Title>
+		<Username>Topini</Username>
+		<Datetime>26-01-2012, 11:32 PM</Datetime>
+		<Content>Does this tv have any hidden service menus? I would like to see how many hours it has been on. Thanks</Content>
+	</Post>
+</Thread>

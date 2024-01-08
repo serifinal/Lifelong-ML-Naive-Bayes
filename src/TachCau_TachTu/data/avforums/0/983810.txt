@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Very blurry 3D on a PN59D7000 ? Skandinavian model</Title>
+		<Username>TheSleeper</Username>
+		<Datetime>23-06-2011, 8:37 AM</Datetime>
+		<Content>Hi all :0) So i recieved my Samsung PS59D7005 yesterday. (Scandinavia model) Before that i had the Samsung UE55D8005 EDGE Led, but it was suffering from alot of clouding ... I must say that the UE55D8005 had the best picture i have ever seen on any LED / Plasma. It was absolutely amazing picture quality. I was a bit dissapointed when i tried to watch a 3D movie yesterday on the PN59D7000. It was very blurry and seemed out of focus, but it had nice depht. I have tried everything in the settings to try to improve 3D picture quality but with no luck :0(. I found that turning of all sharpness settings helped a little bit, but it is FAR from the 3D quality of the UE55D8000 Edge Led. Im running my movies from a DLNA server could that be a problem with this TV ?. It´s MKV X264 movies Also i can not enable "Cinema Smooth" and that really bothers me, because i like the look i gives to the movies. I have bought this new TV for the 3D experience, but im really disapointed in the picture quality in 3D. PC / PS3 / TV / regular Movies look´s great on this set ! Am i doing something wrong with my setup ? Do i need to install new firmware ? Is there any way to enable "Cinema Smooth" so that i can use it for Movies and TV ? Best regards TheSleeper</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,13 @@
+strom bluetooth problem solved vista/7/xp .
+i eventually got tired of searching and searching for those special blue-tooth drives that let you tether to your desktop and also use it for a/v control and even use your computer as a headset -lrb- comp with mic -rrb- .
+av control will let you use your phone to play it on your computer etc same with videos .
+i dont think i need to go on and explain further .
+if you dont know what it is you dont need it is the way i look at it .
+okay now down to the sweet stuff , after days weeks etc of looking nothing found .
+i had a spur of the moment idea to try broadcoms blue-tooth drivers -lrb- auto find and update program -rrb- .
+it worked perfect .
+i had to do none of that senseless computer management - > ports - > unknown device -lrb- blue-tooth peripheral device -rrb- rim v2 etc here it is the drivers for the strom v1 -lrb- 9530 -rrb- possibly all other blackberries .
+let me know , well let everyone know post back if it works for you or not . ?
+http://www.broadcom.com/support/lice...downloadse.exe must accept licensing agreement :p -rrb- ?
+lite ?
+if this is in the wrong place feel more than free to move it mods

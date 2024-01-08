@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Web store order - calling in to confirm CC #?</Title>
+		<Username>dighn</Username>
+		<Datetime>02-23-2010 02:00 PM</Datetime>
+		<Content>I ordered a phone from the web store over the weekend, and on Monday I received an e-mail from a "Web Store Administrator" saying I need to call in to confirm credit card info and address. Well I did and I gave him the CC # after some hesitation because the timing was perfect and the phone number had an elaborate, "authentic" sounding voice mail system. The original order confirmation e-mail did say they might e-mail/call to confirm credit history or credit card info. So does Telus really do this? Or does this sound like a scam to you? The number I called is a 1-866 number not found on their web site. edit: the number I called was 1-866-488-2709 which seems to be legit judging from this post: http://www.howardforums.com/showthread.php?t=1622445 but seriously, wth?</Content>
+	</Post>
+</Thread>

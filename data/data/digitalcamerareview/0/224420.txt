@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>cannon powershot sx130IS</Title>
+		<Username>rajaroy</Username>
+		<Datetime>08-17-2011, 04:22 PM</Datetime>
+		<Content>hello everyone. how u r doin well with your cameras. a quick questions. i own a cannon sx30IS and it comes with the default 30 frames per second. does anyone know if we can change the frmae rate in that camera?? if yes then how?? thank you for the support</Content>
+	</Post>
+</Thread>

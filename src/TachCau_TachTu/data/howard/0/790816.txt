@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Interviewing at VW retail store, advice?</Title>
+		<Username>swcarignan</Username>
+		<Datetime>05-19-2010 06:28 AM</Datetime>
+		<Content>I'm really excited about it. Anything you could could tell me that may help with the process of interviewing? Also, I've read on this site and others, how Verizon is scaling back pay and even consolidating/eliminating jobs? That quotas are unattainable? Those are the main negatives any truth to these? I'm a little concerned b/c I've never seen VW posting job ads online...they've always had a long list of people that would love to work there. Is there high turnover these days? Quotas getting people fired; if so is it at the Manager's discretion who's let go for performance reasons (as I've read on other sites)? What about the positives, I feel like it would be great to work at VW. I'm at a job that's challenging and limited growth unless you can relocate...I think it would be a great place to start anew.</Content>
+	</Post>
+</Thread>

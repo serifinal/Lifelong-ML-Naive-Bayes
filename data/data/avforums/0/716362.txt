@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Upgrading to Samsung PS51D6900. A few questions...</Title>
+		<Username>Moley UK</Username>
+		<Datetime>27-12-2011, 8:25 AM</Datetime>
+		<Content>Hi all. Hope you all had a great christmas! This is my first post on these forums so I hope i've put it in the right section! I have ordered a Samsung PS51D6900 from JL last night to upgrade from my 4 year old LE52M87BDX. This is my first plasma tv buy, and I bought it "blind". By that I mean I never saw it in the flesh before purchasing! I relied heavilly on pictures and the strength of various reviews I found on the interweb. So I have a few questions i hope can be answered to help me. here goes... 1) Is someone able to help with picture settings? I am a complete and utter novice on this stuff and am completely lost after the usual contrast, brightness etc, so I have no idea what the best settings are. I play a fair bit of games and watch a decent amount of films so I need settings for each of these (if they're different). I read to put it in "PC" mode to get the best refresh rate, but I thought you needed a PC lead to put it in PC mode??? 2) Are there still issues with a FW update? I read on here that a recent update ruined the picture for some reason. How can I find the FW version so I can choose to ignore the update if there are still problems and I find i'm on an older one? (apologies if that makes no sense). 3) Is image retention/burn in still an issue with plasma? I don't want my Gears of war HUD showing up when i'm watching Top Gear! Sorry for rambling on and I hope this makes sense. Thank you for any help/advice you can give.</Content>
+	</Post>
+</Thread>

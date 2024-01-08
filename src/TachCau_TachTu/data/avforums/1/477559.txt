@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Anyone using Panasonic G30 as a PC Monitor?</Title>
+		<Username>lukeyboi89</Username>
+		<Datetime>27-05-2011, 10:33 AM</Datetime>
+		<Content>hi all, ive been looking for a TV to use as a PC monitor to play high end games suc as fps. the problem ive been having is that LCD's have high input lag and/or lots of motion blur so i wouldnt be able to enjoy sports either. this has lead me to a plasma but i have heard of problems with image retention, so has anyone got any experience of this? i came up with the G30 as im not bothered about 3D or TV internet features, and my budget is around £600 and i was looking for at least 40" any info appreciated, cheers, Luke</Content>
+	</Post>
+</Thread>

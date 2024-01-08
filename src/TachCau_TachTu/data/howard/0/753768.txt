@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPhone 4 Black 16GB FACTORY UNLOCKED</Title>
+		<Username>NEvolution</Username>
+		<Datetime>07-30-2010 09:33 PM</Datetime>
+		<Content>Selling iPhone 4 Black 16GB FACTORY UNLOCKED. Not much more I need to say. Price: $900</Content>
+	</Post>
+</Thread>

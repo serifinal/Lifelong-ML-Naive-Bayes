@@ -1,0 +1,6 @@
+strange combination of pcb 's in 42 samsung .
+i was given a 42 ' samsung -lrb- ps42b451bwxxu -rrb- as it wasnt working correctly , the last 3 ' on the right hand side of the screen dont show any sings of life from top to bottom , a bit of research & the samsung service manual for the unit suggested that i replace the ' e buffer board ' , i 've opend the unit to confirm the correct part number etc , strange thing is , the main pcb is for a 50 ' plasma -lrb- part no .
+bn94 02837a -rrb- . .
+i can not find anything saying this is compatable with the 42 ' model , i suspect someone has been in the unit b4 , does anyone think this in itself could be causing the issue or even have damaged the ' e buffer board ' ?
+all help appreciated .
+cheers , gnb ...

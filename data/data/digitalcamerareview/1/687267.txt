@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New Camera Help</Title>
+		<Username>strickland03</Username>
+		<Datetime>12-31-2011, 06:00 PM</Datetime>
+		<Content>Thanks in advance for the opinions! Currently I have a 30D, 4 lenses, and have been very happy with it. I plan on upgrading the Body, but want to eliminate the need for a video camera, and a still camera. Which Canon should I look for trying to balance still and video? I have noticed some of the Canons only allow 12 minute clips? Does this mean that the video card is limited to 4GB for the camera,hold x amount of clips? I guess I just think it will be a pain if every 12 minutes you need to switch cards. I would like to spend around 1K, but if spending 2K is necessary for me, I can. I am no pro, but I enjoy photography, and would say I am about a 6 out of 10 when it comes to camera knowledge.</Content>
+	</Post>
+</Thread>

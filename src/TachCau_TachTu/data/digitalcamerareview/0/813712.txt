@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>sx10 help</Title>
+		<Username>rockhead11</Username>
+		<Datetime>03-07-2009, 08:46 AM</Datetime>
+		<Content>I just bought the new canon sx10 is and would like a little help on how to take good pics with it.(iso, shutter speed, ap,etc.) i am new to the photography world and this is my first real camera. thank you in advance. jake</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung T959 Passed FCC</Title>
+		<Username>Scottish Skyedance</Username>
+		<Datetime>06-15-2010 12:58 PM</Datetime>
+		<Content>Nobody knows whether it's Galaxy S or not, but it'll surely have Band II and IV (all Canadian UMTS carriers covered). http://www.phonescoop.com/phones/fcc...A3L&pc=SGHT959</Content>
+	</Post>
+</Thread>

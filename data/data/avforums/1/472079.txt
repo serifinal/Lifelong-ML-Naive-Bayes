@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>samsung PS42C450 vs panasonic TX-P42C3B</Title>
+		<Username>tvbox</Username>
+		<Datetime>02-07-2011, 1:43 AM</Datetime>
+		<Content>Hi I am looking for a cheap 42 inch secondary tv to go in the dining room, preferably plasma I am in a tug of war between the Samsung PS42c450 and the pana TXP42C3b Both these tvs are selling cheap in many stores. The samsung has lots of connectivity mainly the pc socket is a great addition, as well as being thinner, but the Panasonic has free view HD, and good build quality, looks nice as well as brand loyalty from me . In the living room I currently own a panasonic txp42x10 2009 model which is excellent. Why oh why didn't panasonic make an x30 model this year that had decent connectivity and a vga port? The C3 has just 1 scart socket compared to the previous 2. Alternatively, can you find any decent places to get previous panasonic models such as the x10, P50X10 (to swap with living room), x20, PX80 , etc that are reliable? I know play.com have an x20 for £399, are they any good for TVs? I saw many shops selling the 2009. TX-****10 models even though the '20 models were well out and released. Is there any way you can connect a VGA laptop to a tv that does not have via or s video? The samsung is actually cheaper than the c3 and is actually on par with my x10 in terms of connectivity but will it be on par in terms of PQ and build quality? The only things that drag me towards the c3 are the fact that I will know how to use it straight away and the inclusion of free view HD so I can watch Wimbledon in decent quality while eating my breakfast. If only there was an x30 model this year...</Content>
+	</Post>
+</Thread>

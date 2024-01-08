@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic audio cables - problems</Title>
+		<Username>Pete328</Username>
+		<Datetime>05-06-2011, 8:28 PM</Datetime>
+		<Content>Hi All, I have a panasonic th_46pz81b plasma tv. I have added a Bose speaker system to it for better sound. The audio lead is a jack plug to the Bose and this goes to audio left and right at the back of the tv. My problem is that when connected i cannot control volume from tv remote, it has to be done from the Bose pod which is connected by a lead. I know i am lazy in saying i have to get up to alter the sound, but it is easier to use a remote. A friend suggested using the optical digital audio connection on the tv, but i am afraid that lost me !!! Can anyone shine any light on this problem for me. Is there such a lead that goes from a jack plug to a optical digital audio point on the tv, and would this sort the problem. The bose system is the companion 3 series ll. Many thanks for reading .....</Content>
+	</Post>
+</Thread>

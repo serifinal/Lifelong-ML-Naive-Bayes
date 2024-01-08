@@ -1,0 +1,16 @@
+network problem or iphone hardware issue : idiocy in customer support .
+i 'm currently in kingston , and my 3g connection stopped working around 2pm et today .
+my iphone has the `` 3g '' icon on the status bar , and i have full 5 bars , but whenever i try to connect to the internet , it gives me a `` could not activate cellular data network '' .
+i 've tried rebooting and resetting my network settings to no avail , so i call up fido tech support .
+in the past , they 've always been stellar in troubleshooting network issues , but i 've found them to be wanting recently .
+i spent 40 minutes with two support people and went through the same reboot , reset network connections .
+they `` reset their network code '' on their end several times , but nothing seems to work .
+i was asked to turn off 3g and go on the edge network , and lo-and-behold my data connection works on edge ... just not on 3g .
+a cursory check on the interwebs show that error message is usually connected to network issues , and i tell them as such , but the rep comes back and says it 's my hardware , and i have to restore my firmware .
+i. . .
+was flabbergasted .
+my network was working not just 3 hours ago ... and the troubleshooting point to an error with the network rather than the device .
+i tell them as such , and she said `` i have to refuse your request to investigate further or put in a ticket to investigate network problems '' because i refuse to restore .
+i 'm not at my home computer , so i ca n't restore ... .
+anyone on the fido/rogers network in kingston , on and ca n't access 3g ?
+if so , give them a call maybe they 'll get a clue .

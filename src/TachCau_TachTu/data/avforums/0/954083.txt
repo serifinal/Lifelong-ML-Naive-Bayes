@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plasma TV Problem</Title>
+		<Username>Ogeerster</Username>
+		<Datetime>20-01-2012, 10:34 AM</Datetime>
+		<Content>My LG plasma TV is not powering on via the original remote control or the cable remote control, however when i touch the power button at the base of the TV, it responds and turns on, but now when i turn off the tv by hitting the power button on either remote, it turns off and not on. This is an urgent situation and I cannot figure out what is wrong. If anyone can assist i would greatly appreciate it.</Content>
+	</Post>
+</Thread>

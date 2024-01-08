@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>New Iphone with Data Unlimited on Account</Title>
+		<Username>rex99x</Username>
+		<Datetime>06-02-2010 05:45 PM</Datetime>
+		<Content>Hi All, I have a N82 with data unlimited for $15 a month, which allows for all data usage. Will I be able to get the new iphone whenever it comes out and grandfather my current data plan? Things seem pretty vague now, and Att customer support is just as confused. Thanks, Rex</Content>
+	</Post>
+</Thread>

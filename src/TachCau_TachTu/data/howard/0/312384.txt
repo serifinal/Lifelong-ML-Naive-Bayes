@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Samsung Wave vs Samsung Galaxy S / Vibrant</Title>
+		<Username>silverwolf0</Username>
+		<Datetime>08-15-2010 07:58 AM</Datetime>
+		<Content>Anyone who has a Samsung Wave and a Galaxy S / Vibrant can compare the two? I'm not too concerned about Android vs Bada as I'm not a heavy user. I'm more concerned about other things like the feel and look, camera, battery life, call quality and reception, etc.</Content>
+	</Post>
+</Thread>

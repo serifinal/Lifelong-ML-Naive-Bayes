@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX-P50GT30B Sounds "Tinny"</Title>
+		<Username>Proz</Username>
+		<Datetime>13-08-2011, 6:07 PM</Datetime>
+		<Content>Hi Just recieved the above tv a few days ago but i feel the sound is quite "tinny" compared to the 7 year old plasma I've just replaced ... i quite like a lot of bass and ive looked in the sound menu etc and played around with settings etc but still sounds weak . Ive tried the preset sound choices and the equaliser but still sounds poor to me . Is there something im missing . Thanks Sorry im in the wrong section ... reposted in plasma thread .</Content>
+	</Post>
+</Thread>

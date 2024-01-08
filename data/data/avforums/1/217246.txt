@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>I need a Hitachi AV3000E media box or alternative for my Hitachi Plasma</Title>
+		<Username>look4dave</Username>
+		<Datetime>25-08-2010, 6:40 PM</Datetime>
+		<Content>Hi all I have a Hitachi 32PD5300E Plasma TV given to me by my brother, however I was told I need a AV3000E Multimedia box for it to work properly as at the moment the screen doesn't come on and the light in the bottom right just flashes amber. Has anyone got one for sell or know where I can get one or offer an alternative solution? help anyone</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Does the Droid allow for long text messages?</Title>
+		<Username>jjuiop</Username>
+		<Datetime>11-06-2009 03:54 AM</Datetime>
+		<Content>So I've read about every review site as possible and none have addressed this issue. Went ahead and placed the order and will receive it Monday . My question is does it allow for EMS (receiving messages longer than 160 characters and sending messages longer than 160 characters to other VZ subscribers). All feature phones (aka dumbphones) allow this but I've yet to find a smart phone capable of this. It's not a deal breaker since my BB didn't have it but it certainly would be nice</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Real World Coverage Maps?</Title>
+		<Username>canadiancow</Username>
+		<Datetime>06-07-2010 10:13 PM</Datetime>
+		<Content>Edit: http://www.coveragemapper.com for the maps and application I've been think about this for a while, and I'd like some input. Would anyone here, who's using an Android 2.1+ device, be willing to install an application that stores signal strengths and locations, and uploads it to a server? We could use the data to generate a real coverage map. I see two issues right away: 1. Battery By default, I'd set the application to only run when the device is plugged in, so you'd either risk killing your battery, or you'd need to invest in a car charger. It shouldn't be too power hungry, as it doesn't need the screen, but the GPS and cellular radios would have to be on. 2. Privacy The data I'd collect would be: Signal strength: a value from 0-31, or 99 Operator: 302490 (or whatever network you're on) Latitude: 123.456 (precise to about 100m) Longitude: 123.456 (precise to about 100m) Time: 2010-06-07 23:06 Nothing would be tied back to any individual user. Unfortunately, there's no way for an Android application to do a network scan, which was my original idea, so this will only work for the network your phone is currently registered on. Anyway, with enough people running the application, I should be able to overlay a 0.001 degree x 0.001 degree grid on a map, and colour code each square relative the signal strength. I've got a proof of concept application running on my phone, but it would need a few weeks of work to get it into a usable state. So what are your thoughts? Would you be willing to install and run the application?</Content>
+	</Post>
+</Thread>

@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic vt30b screen burn</Title>
+		<Username>kkhimji2001</Username>
+		<Datetime>26-11-2011, 11:26 PM</Datetime>
+		<Content>I purchased this tv in june and have just realised tonight when viewing an advert with a white background that the sky sports 4 exclusive logo is in the top right corner of the tv, is this image retention or screen burn? it is not noticeable when there are dark colours over it but i am still worried about this. i have 5 year warranty with Panasonic, i bought the tv of amazon of a retailer, can i somehow get a refund or exchange it?</Content>
+	</Post>
+</Thread>

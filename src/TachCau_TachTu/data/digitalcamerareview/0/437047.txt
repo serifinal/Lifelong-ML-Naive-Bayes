@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Newbie w/Canon SD 850 IS and no clue!</Title>
+		<Username>doug100</Username>
+		<Datetime>12-11-2009, 01:31 PM</Datetime>
+		<Content>Hello, I bought a used model of this camera. There was nothing with it. No battery, no manual, no software, etc. I have most of the stuff (I think) to get started. I'd like to physically talk to somebody that actually owns a SD 850, on the telephone, and have them walk me through the drill to get started. I'm retired, so it doesn't make any difference what day, or what time of the day this happens. At your convenience. I will call you. I have unlimited hard line telephone minutes. If anybody out there is interested, please email me: doug100@comcast.net Thank you very much. Doug Pratt</Content>
+	</Post>
+</Thread>

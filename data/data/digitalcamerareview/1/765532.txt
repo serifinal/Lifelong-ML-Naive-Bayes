@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Which should I get; a sd1000 or sd850 IS?</Title>
+		<Username>Havok83</Username>
+		<Datetime>05-14-2007, 07:11 PM</Datetime>
+		<Content>Okay so I have a sd200 and Im going to upgrade bc my screen is cracked. I dont know which camera I should get. Which is better? I assumed that the higher numbers were better, more recent versions, but the numbering here threw me off. I also noticed that the sd1000 is cheaper so Im leaning towards it. Is there a big difference between the cameras?</Content>
+	</Post>
+</Thread>

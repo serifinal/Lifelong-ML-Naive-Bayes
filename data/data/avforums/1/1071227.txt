@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Panasonic TH37PW5-tuner cable</Title>
+		<Username>ABC*</Username>
+		<Datetime>11-12-2011, 5:29 PM</Datetime>
+		<Content>Anyone know where I can get the cable that connects the screen to the tuner box Tu PT600B??It's a 26pin Dsub male to male.</Content>
+	</Post>
+</Thread>

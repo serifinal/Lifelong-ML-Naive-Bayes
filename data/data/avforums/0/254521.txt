@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic TX42g30 plasma - bluray worse than DVD</Title>
+		<Username>stehals</Username>
+		<Datetime>29-06-2011, 1:07 PM</Datetime>
+		<Content>Hi, need some help please. I have tried google but no luck. This forum is the closest I could find. Problem I have is my panasonic plasma. It plays games great, DVDs great, but now I have tried a bluray 'Skyline' through my PS3 and I'm not exaggerating when I say it looks a lot worse than DVD. DVD looks fine like a normal DVD but my bluray looks like a decent youtube video, Its fuzzy, pixelated and has motion blur on faces and things. Maybe I'm being slightly fussy but it seems to make no sense to me to buy a bluray when DVD has much better quality. I know I must be doing something wrong as a DVD shouldnt be better than bluray but I tried messing around with all the options and cant seem to solve it. Any help would be much apprciated.</Content>
+	</Post>
+</Thread>

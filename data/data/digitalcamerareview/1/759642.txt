@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Canon Powershot SX20 IS</Title>
+		<Username>roshantraj</Username>
+		<Datetime>09-08-2009, 07:27 AM</Datetime>
+		<Content>Hi, After long search in internet I decided to buy my first camera - Canon power shot SX10 IS through one of my friend who was in California. But he has bought SX20IS instead of sx10IS for me. I don't know the differences b/w Sx20IS and SX10IS other than the HD video and 12.1 megapixel improvement on the SX20IS version. I heard from forums that voice tagging and voice recording is not supported in SX20IS. Could anyone tell about the difference between sx10is and sx20is and how's the picture clarity. Which camera is better. Thanks and Regards Roshan</Content>
+	</Post>
+</Thread>

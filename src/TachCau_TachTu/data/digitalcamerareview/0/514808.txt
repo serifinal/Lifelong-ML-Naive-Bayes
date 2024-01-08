@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Canon Powershot SD850 IS - problems with video</Title>
+		<Username>mosstin</Username>
+		<Datetime>06-07-2009, 06:54 PM</Datetime>
+		<Content>Whenever I'm using the video function, it only allows me to record just over 2 minutes of footage and then I get a 'flashing hand' warning sign and the camera aves what I've recorded. Frustrating if I'm at a gig recording a song. Is there something I need to change with the settings?</Content>
+	</Post>
+</Thread>

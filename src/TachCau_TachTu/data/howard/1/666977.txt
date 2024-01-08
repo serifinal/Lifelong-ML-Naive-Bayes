@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Nexus One...From An Ex-iPhone 3GS POV</Title>
+		<Username>davistld01</Username>
+		<Datetime>05-28-2010 07:35 AM</Datetime>
+		<Content>I have been seriously considering jumping into the Android pool and replacing my iPhone 3GS with a Nexus One...but I'll admit to being more than a little concerned about jumping to a phone with so small a support base, and one that may or may not be better than my iPhone. I can't very well go to my local Google store and play with one...and it seems there is a lot of buck-passing between Google & HTC over warranty responsibility. Although I'm a phone junkie...I am not really a techie or geek, so all the advantages of the Android OS being "open" compared to the ultimate closed platform of the iPhone OS means little to me. Could I get some good, objective advice for/against the N1 compared to the iPhone 3GS from those of you who have made the switch? Please tell me how they compare in... 1. Fit/finish - quality and solidity of build (hardware)? 2. Volume of earpiece speaker & quality of incoming calls? 3. Consistancy of 3G network connectivity w/AT&T service? 4. Speakerphone performance 5. Battery life Thanks very much in advance!</Content>
+	</Post>
+</Thread>

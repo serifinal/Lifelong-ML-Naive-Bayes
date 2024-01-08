@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic 50"VT30 - Best settings for less judder?</Title>
+		<Username>Mitchlw</Username>
+		<Datetime>15-02-2012, 2:21 PM</Datetime>
+		<Content>Dear Users, I am a proud owner of a Panasonic 50" VT30....love the display and its capabilities but....in some movies/tv shows (i think depends on mixing/mastering of the video) i get annoyed by the juddering.... - Im sitting like 3meters away from my 50", is this too close and therefore i see it much clearly? - Is there a way to make it less visible? Hope you can help me out. Cheers, Mitch.</Content>
+	</Post>
+</Thread>

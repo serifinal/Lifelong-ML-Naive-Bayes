@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>How to determine throw for zooming</Title>
+		<Username>Marc Rumsey</Username>
+		<Datetime>05-19-08, 02:14 PM</Datetime>
+		<Content>If you're considering zooming your projector on a 2.35:1 screen, this might help you out. As I mentioned in an earlier post, calculating the throw range for zooming is different than if you are using an anamorphic lens. When you zoom, you have to be able to hit 2 different screen widths from the same lens-to-screen distance. If you have a Sony VPL-VW60 and a 54" x 127" 2.35:1 screen, you will need to be able to fill a 96" width (54" x 96") for 16:9 content, and also a 127" width for 2.35:1 content. The VW60 has a throw range of 1.4x to 2.4x. So where should you put the projector? First figure the throw for the 127" (2.35:1) width: 1.4 x 127" = 178" minimum 2.4 x 127" = 304" maximum Then figure the throw range for the 96" (16:9) width: 1.4 x 96" = 135" minimum 2.4 x 96" = 230" maximum The overlap is where the projector will be at a usable distance for both widths. As you probably figured, you don't actually need to do all 4 calculations, just these: Multiply your 2.35:1 width by the shortest PJ throw to get your minimum lens to screen distance. Multiply your 16:9 width by the longest PJ throw to get your maximum lens to screen distance. So in our case above, the lens to screen distance should be between 14'-10" and 19'-2" (between 178" and 230"). And as I've mentioned in previous posts, it's a good idea to leave yourself a little bit of a fudge factor. I would narrow this range by a few inches just to be on the safe side.</Content>
+	</Post>
+</Thread>

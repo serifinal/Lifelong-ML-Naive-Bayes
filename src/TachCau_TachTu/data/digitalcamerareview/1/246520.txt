@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What can I do to improve Recharge Flash Time</Title>
+		<Username>Jessicatrb</Username>
+		<Datetime>08-19-2009, 08:49 PM</Datetime>
+		<Content>Hi: I bought a Canon SX110 IS a month ago. I noticed that when using the flash, the camera blinks an orange light (for a few seconds) until is it ready for the next picture. I read that this is the flash recharging. The question is: What can I do to improve this time (usually takes 5-7 secs). I read that other batteries would not make a significant difference (1-2 secs less) What about buying a External Speedlight, would that help? Can I buy an external flash for this camera? I have an upcoming event and I need better time that 5-7 secs waiting for the flash to recharge. Please Advise, Thanks,</Content>
+	</Post>
+</Thread>

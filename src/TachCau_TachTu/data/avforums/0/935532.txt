@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>freeview hd channels on panasonic 50S20</Title>
+		<Username>toledo01</Username>
+		<Datetime>04-06-2011, 9:15 AM</Datetime>
+		<Content>Hi I recently bought a panny 50s20 and freeview website says I should be able to receive hd channels from april this year but I can't seem to get them. On the other digital channels my signal strength and quality are at about 8 so I think the aerial is ok. I have tried re scanning for channels but they don't appear on my channel list. Does anyone have any ideas? Am i doing anything wrong? Any suggestions would be appreciated. Thank you</Content>
+	</Post>
+</Thread>

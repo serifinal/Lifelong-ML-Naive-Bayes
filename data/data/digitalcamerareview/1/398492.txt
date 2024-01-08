@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>SD850 vs A590</Title>
+		<Username>rahmed</Username>
+		<Datetime>05-12-2008, 10:27 PM</Datetime>
+		<Content>Any idea how the pictures from these two camera compare specially indoors using flash? Both of them have 4x zoom and same 35mm range. I know that they are of different size and price range and both are among the best in their categories but I want to know if 590 will take better pictures than 850 under the same conditions.</Content>
+	</Post>
+</Thread>

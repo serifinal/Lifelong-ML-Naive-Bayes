@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>FS: Two Android Phones- Motorola Droid (Verizon) and HTC Droid Eris (Cricket)</Title>
+		<Username>qipengart</Username>
+		<Datetime>05-01-2010 09:46 AM</Datetime>
+		<Content>Here are two Android phones for sale: 1) HTC Droid Eris full flash to Cricket- Internet working and ESN is clear. with hard case and soft case, also ClearPro shield installed on it. Asking for $300 for phone and accessories Condition is excellent, a few very tiny scratches. and 2) Motorola Droid on Verizon (not flashed)- everything works and ESN is clear. with hard case and no shield. Asking for $450 for phone and case Condition is near mint! All prices are negotiable here and please discuss. Payment by Paypal only. I will add on Paypal fee plus S&H to the final price. Please email me at qi0peng@gmail.com or PM me privately for offers. Thanks!</Content>
+	</Post>
+</Thread>

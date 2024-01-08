@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="3">
+		<Title>PSP & Me : Progressive Output</Title>
+		<Username>essell55</Username>
+		<Datetime>09-12-08, 07:12 AM</Datetime>
+		<Content>hi guys... my psp only outputs progressive content by component cable, but my tv only supports interlaced... what to do? (this is for gaming so the more responsive solution the better - no delay) Thx in Advance</Content>
+	</Post>
+</Thread>

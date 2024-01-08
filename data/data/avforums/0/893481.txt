@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>No sound on component channel</Title>
+		<Username>wardie83</Username>
+		<Datetime>05-06-2011, 7:17 PM</Datetime>
+		<Content>Hi, I have just bought a pioneer pdp 507xd tv and am trying to hook up my xbox 360 via the component channel. I have managed to get the picture, but there is no sound even though i have plugged in the red and white connecters from the 360 into the sound section on the back of the tv. Any ideas please???</Content>
+	</Post>
+</Thread>

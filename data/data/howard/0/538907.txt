@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>iPad Micro SIM is Apparently Different Than iPhone 4 Micro SIM</Title>
+		<Username>azanoncello</Username>
+		<Datetime>08-09-2010 05:25 PM</Datetime>
+		<Content>I just tried to switch from a normal sim to a micro sim that I ordered online last week but Bell's website wouldn't accept the serial number. I called in to find out that apparently this micro sim card can't be used in a phone because it is provisioned for an iPad. They told me I should go to a bell store and buy another micro sim card designed for the phone. Anyone know how they could be different or how you can tell the difference? Why I'm doing this is because I want to use the micro sim card in my 3gs (with an adaptor) and put it in my iPad on long trips (obviously only for data).</Content>
+	</Post>
+</Thread>

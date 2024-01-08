@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Scholastic and Shutterfly Collaborate on Picture Perfect Learning Arts Curriculum</Title>
+		<Username>Ben Stafford</Username>
+		<Datetime>10-12-2006, 01:00 PM</Datetime>
+		<Content>Scholastic and Shutterfly today launched the Picture Perfect Learning Arts curriculum. This curriculim is a national, standards-based curriculum gives teachers new ways to build students' skills in languaged arts through the medium of photos. The six lessons in the curriculum cover a range of topics, from building classroom communinity and embracing diversity to collaborating on classroom rules and story telling. The lessons give teachers a way to use digital photography to enforce classroom work. You can find lessons, including student reproducibles, at www.scholastic.com/shutterfly. Teachers can also create their own classroom photo-sharing web address with Shutterfly Collections, a free service that lets members create their own web address for picture sharing. Password protection keeps the personalized web address safe and allows for parents, students and teachers to collaborate and share in the classroom experience by adding photos or comments. Parents can also order prints from the Collection. To start a classroom Collection or to browse recommended photo activities, visit www.shutterfly.com/inschool</Content>
+	</Post>
+</Thread>

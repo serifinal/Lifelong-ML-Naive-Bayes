@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Needs advice between 720p and 1080p on a 32" - is there a significant difference?</Title>
+		<Username>jackalei</Username>
+		<Datetime>11-29-08, 11:31 AM</Datetime>
+		<Content>I'm a layman who needs advice on the actual difference between 720p and 1080p. I am planning to buy a 32" LCD HDTV. Now I have two models finally in my mind 1. Vizio VO32LF which is 1080p capable 2. Sony KDL-32L4000 which is 720p While my mind leans towards Sony considering their brand image, I am seriuosly concerned about its limited 720p. Is it actually a limitation on a 32"? Will Vizio outperform Sony (between 2 given models)? Is Vizio yet a reliable brand in terms of durability? Is there a significant difference in terms of common TV usage between 720p and 1080p?</Content>
+	</Post>
+</Thread>

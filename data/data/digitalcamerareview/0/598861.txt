@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Can't DL images</Title>
+		<Username>flyers</Username>
+		<Datetime>10-12-2007, 11:52 PM</Datetime>
+		<Content>Bought a brand new S2. Installed software twice (V 24.0) and rebooted. Selected image(s) (they appear on both LCD and PC) and software hangs when I try to DL then says "Camera can not be found" and software crashes. Tried two different memory cards with same result. Using XP/SP2, Athlon XP 2700, ABIT VA-10 mobo. Any suggestions?</Content>
+	</Post>
+</Thread>

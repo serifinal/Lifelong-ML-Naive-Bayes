@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Panasonic P50G10B flickering over HDMI</Title>
+		<Username>DVD-Man</Username>
+		<Datetime>13-07-2011, 8:07 PM</Datetime>
+		<Content>Anyone got an idea what this problem is? YouTube - &#x202a;Panny P50G10B Flickering fault&#x202c;&rlm; The TV is fed over HDMI from a Home Theatre PC which runs W7MC. The sound is constant as the sound is output to the 2.1 System from the PC. I'm not touching the remote or fiddling with any sources it just does this randomly, I thought it was the A Board, the TV guy doesn't think so as it won't do it with their BR player or on Freeview. It's been at the TV Repair agent, they say they can't recreate the fault but the loan set they left doesn't display the fault which leads me to believe my HTPC is OK.</Content>
+	</Post>
+</Thread>

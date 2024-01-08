@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>HTC Incredible. INCREDIBLE number of dropped calls.</Title>
+		<Username>radzer0</Username>
+		<Datetime>04-28-2010 05:55 PM</Datetime>
+		<Content>Has anybody else noticed this? MY TP2 worked fine and nobody else here is having any other problems i cant even update roaming.</Content>
+	</Post>
+</Thread>

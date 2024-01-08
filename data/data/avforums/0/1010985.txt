@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>panasonic txp50s20b audio problem</Title>
+		<Username>dontbenosiy</Username>
+		<Datetime>01-06-2011, 3:39 PM</Datetime>
+		<Content>hi folks, need a bit of advice....have recently bought as panasonic txp50s20b...very happy with the picture..outstanding through sky,blu-ray and even freeview but the audio is causing some concern. dont have a stand alone av set up at the moment so am currently limited to the onboard sound..which i am having major issues with basically cannot hear speech without having to crank up the volume to such a level that the effects overpower the room. this is especially true with blu-ray and sky have tried different leads and settings and even had a panasonic engineer out who, though acknowledged the problem, stated that the machine was operating within factory specs,,therefore no problem... does this ring a bell with anyone else many thanks in advance</Content>
+	</Post>
+</Thread>

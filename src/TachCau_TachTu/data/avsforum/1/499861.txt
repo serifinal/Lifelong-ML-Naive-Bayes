@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Looking for 720 p 42" LCD</Title>
+		<Username>foycur</Username>
+		<Datetime>11-28-08, 07:30 PM</Datetime>
+		<Content>I've read threads, collected information until my eyes have bled, and have narrowed my choices down to several sets in the Sharp, Toshiba, and LG lines. Samsung doesn't make a 42" set (although I love their 40" 650 series) and Sony just appears to be more expensive than it's really worth (if someone feels differently, let me know). My big decision tree comes at the 720p vs 1080p level. I plan on using it to watch DirecTV with a regular old DVD player, but would not rule out HDTV package or Blu-Ray in the future. Right now I don't game, but as the boys get older I might look at getting something for us to play. Don't have any intention of hooking up a computer to it. I'm sitting around 8-10 feet away from the set. I spent HOURS in stores looking at sets, and sometimes I see a difference between the 720p/1080p and sometimes I don't. I have heard that a SD signal on a 1080p set can actually look worse than on a 720 set. I'm wondering if there's a reason to buy a 1080p resolution on a set this small. If there's a sticky on here that points me to the discussion, please send it to me. I'm wondering if these newer 1080p sets look better because of OTHER features, and not simply the resolution.</Content>
+	</Post>
+</Thread>

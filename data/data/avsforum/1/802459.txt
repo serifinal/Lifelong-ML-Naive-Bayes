@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Recommend Me A Fixed Screen Please!</Title>
+		<Username>PUREVIL</Username>
+		<Datetime>11-24-08, 03:41 AM</Datetime>
+		<Content>Instead of searching through 1000s of threads I decided to post my own. I just installed my Panny AE3000 and I was going to install a 120 Sarria screen thats motorized... but after testing the panny against the wall, I decided I need something between 125 to 130inch. So what manufacturers do you guys recommend and how much should a screen of that size cost me? Im still kind of new to this whole projector scene. But I want the best bang for my buck, thanks!!!!</Content>
+	</Post>
+</Thread>

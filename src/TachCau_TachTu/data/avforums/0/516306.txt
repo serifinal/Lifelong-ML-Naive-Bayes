@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PS51D6900 + 1920x1080@60Hz in "DVI PC" mode = blue overlay</Title>
+		<Username>noikz</Username>
+		<Datetime>24-05-2011, 4:28 PM</Datetime>
+		<Content>I've posted this within the PS51D6900 and PS59D6900 threads already but I thought it may get lost in those threads. I've now tested this on 3 different sets with identical results each time with Samsung spouting the same "get a replacement from your retailer" reply. It obviously needs a fix via a firmware update, I've seen the same fault with both v1007 and the most current 1009 updates. If you connect a PC (outputting 1920x1080@60Hz) to HDMI1/DVI and label it as either "DVI PC" or "PC", the TV will intermittently apply a blue overlay to the display. I've tried it with a PS3 also just to check it's not the 3 different PCs that I've used, and the PS3 was the same. It never does it if the input is labelled as something else (BluRay, Satellite etc), but then that doesn't enable "PC mode" with smooth text and no over scan etc. To reproduce: Attach a PC via HDMI 1/DVI Label the source as PC or DVI PC Select a source on HDMI 2, 3 or 4 Turn off TV Turn TV on (TV should be on the HDMI source you selected before powering off) Switch to HDMI1/DVI (a blue tint should now be covering the entire screen) Cycle the power again to get rid of it</Content>
+	</Post>
+</Thread>

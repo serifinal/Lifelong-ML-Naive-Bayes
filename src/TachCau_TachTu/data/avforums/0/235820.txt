@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>TX-P50VT20 VieraCast connection help needed please.</Title>
+		<Username>Cybermanc</Username>
+		<Datetime>16-05-2011, 5:04 PM</Datetime>
+		<Content>Hi all, I've been off the forum for a while and have scanned through a lot of old topics but can't find anything to help I tried to connect wirelessly to the VieraCast suite (despite having owned the panel over a year it's only just occurred to me to do so). I am using the supplied wireless dongle and a WPS router. My panel searches for a wi-fisignal and brings mine (and all the neighbours) up. I select mine and enter my password and after a few minutes of seeking it then fails to establish a connection. I have tried.... PIN option WPS Push Button option I have also tried selecting the option on the panel that gives me a key number and going through the 'add service' option on my router (Netgear WNR2000) to no avail. I'm tearing my hair out now as all other wi-fi reliant devices I own are fine (I also turned them all off whilst trying to connect the plasma) Please help As an extra, has there been any firmware updates as I've been on Panny site and can't find a thing. Running v2.1 at present.</Content>
+	</Post>
+</Thread>

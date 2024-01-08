@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>PowerShot S3IS problems</Title>
+		<Username>jeremycohn</Username>
+		<Datetime>05-19-2009, 11:34 PM</Datetime>
+		<Content>I've had a Canon PowerShot S3IS for a while now.... it's been a great camera, but I'm having some problems with it and am just about ready to replace it. Here's the situation.... It seems to drain batteries, or, not turn on at all. I was using Energizer 2500 mAh rechargeables which worked fine until recently. I decided to replace the batteries since they were getting old. The new ones suffer from basically the same problem - right after a recharge, the camera either doesn't turn on, or turns on but if left for a couple of days will not turn back on again. I've also tried to charge it with a different charger - no difference. Any ideas would be appreciated!</Content>
+	</Post>
+</Thread>

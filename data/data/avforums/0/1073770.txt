@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Is this a good deal for a Panasonic TX-P42S30 Plasma?</Title>
+		<Username>AngryDog1981</Username>
+		<Datetime>23-01-2012, 11:13 AM</Datetime>
+		<Content>I can get a Panasonic TX-P42S30 Plasma from a local retailer for £545 including the 5 year warranty, plus they also offer a TV swap out service. Is this any better than the normal Panasonic warranty? Is the swap out service really worth while? I have a spare TV to use should any new tv fail.. Cheers.</Content>
+	</Post>
+</Thread>

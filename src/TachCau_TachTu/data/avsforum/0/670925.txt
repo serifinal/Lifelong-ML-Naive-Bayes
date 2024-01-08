@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Flexible Recording - what does these lights mean?</Title>
+		<Username>80sGuy</Username>
+		<Datetime>06-09-08, 06:18 PM</Datetime>
+		<Content>I pretty much record everything in FR mode now since there's always 17-18HR of free space and the materials (I assume) would record in XP mode anyway since space is not limited on the HDD. But there's one thing that always puzzles me whether I'm recording to the drive or burn into a DVD; all the modes from the display lights up in this order: XP, SP, LP EP in red - except for SP; which only lit in white. What does this mean, is SP not not being utilize when recorded in FR mode? update: the recorder is a Panasonic DMR-EH55 (200GB)</Content>
+	</Post>
+</Thread>

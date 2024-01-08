@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Plex for Samsung download site not working</Title>
+		<Username>maxwell4321</Username>
+		<Datetime>20-11-2011, 11:02 AM</Datetime>
+		<Content>been trying to get a copy of Plex for use with my PS59D6900 but the download site just comes up with a login page and no way to register. Anyone got a copy they could email me please (note to mods -this is a free app) Cheers</Content>
+	</Post>
+</Thread>

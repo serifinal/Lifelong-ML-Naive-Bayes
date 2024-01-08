@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>LG 50PZ550 vs Panasonic TX-P50G30Y</Title>
+		<Username>Celestrian</Username>
+		<Datetime>26-07-2011, 9:57 PM</Datetime>
+		<Content>I'm trying to figure out which tv to buy. I think I've settled on a plasma 50" (or there about), and I will mostly use the tv for movies, tv and some gaming. I haven't quite decided on going for 3d or 2d. So one question first concerning that. Is it possible to download a 3d movie and play it (through network) in 3d on the tv? Can the tv convert "regular" tv into 3d? Or do I have to have specific 3d-blu-rays to enjoy 3d at all? In any case, I've read that the P50G30 from Panasonic are really good tvs, although they do not have 3d. But I also see that the LG 50PZ550 is offered at a low price so I consider going for that instead, as it includes 3d, but I really want the picture quality to be the first and foremost priority. I can now get the Panasonic for about £1050 and the LG for about £750 (I'm Norwegian, so the prices are probably a bit different here that what you're used to). I would have gone for either of the 3d Panasonic models, but they're a tad outside my budget, unfortunately. Any advice on which to go for (or other suggestions/comments for that matter)?</Content>
+	</Post>
+</Thread>

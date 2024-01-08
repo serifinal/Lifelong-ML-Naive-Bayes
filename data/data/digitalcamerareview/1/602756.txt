@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>Flash Recycle Times in SX110 IS</Title>
+		<Username>T. Allen</Username>
+		<Datetime>01-05-2009, 04:53 PM</Datetime>
+		<Content>I need to replace my old fave, the Canon A75, and have checked out the 720 IS, 590 IS, and SX10, before getting the SX110 IS. My main purpose is to photograph my toddler son. Because of those fleeting moments when it comes to toddlers, I need a reliable point-and-shoot camera that will allow me to take pictures indoors that require a flash, but be able to do so without missing any shots. The SX110 IS has a really long flash recycle time. I believe I've managed to address the shutter lag time by getting a 16GB 150X-speed SD card. However, despite using two 2500 mAh NIMH batteries, I am still quite disappointed with how long the flash recycle times are. I know I can add an external flash to the SX110 (and the SX10 for that matter), but I don't think a brighter flash will solve the recycle time issue (i.e., the period during which the LCD is blacked-out, before I can take the next shot). The SX110 IS only takes two AA batteries. I'm wondering if Canon cameras with 4 AA batteries would solve my problem. Can anybody out there recommend another Canon Powershot camera that I should get? Is my only option getting a DSLR? Thanks in advance for any input!</Content>
+	</Post>
+</Thread>

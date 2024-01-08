@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Bell is Getting the Samsung Galaxy S Vibrant?</Title>
+		<Username>ano50</Username>
+		<Datetime>06-30-2010 02:59 PM</Datetime>
+		<Content>I thought Vibrant is for T-mobile and it works on Wind's network, not Bell's. But now I see this. Are there different versions of Vibrant? http://galaxys.bell.ca/</Content>
+	</Post>
+</Thread>

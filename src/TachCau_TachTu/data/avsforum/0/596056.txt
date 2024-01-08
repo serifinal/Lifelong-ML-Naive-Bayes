@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="0">
+		<Title>Arcsoft TMT and Philips SRM7500 VMC remote?</Title>
+		<Username>dvdmonster</Username>
+		<Datetime>07-20-08, 06:05 PM</Datetime>
+		<Content>Hi, I'm using a Philips SRM7500 RF remote with Vista Media Center, and I just installed Arcsoft TotalMedia Theater in order to be able to watch HDDVD/Bluray. The problem is, when I start Arcsoft from inside VMC, the buttons on the remote don't work. I know is most likely as issue with the Philips remote software that is very Mediacenter specific, but I was wondering is anyone uses this remote and has this working before i waste alot of time on trying to get this working. Thanks in advance.</Content>
+	</Post>
+</Thread>

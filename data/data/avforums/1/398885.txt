@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="1">
+		<Title>What glass?</Title>
+		<Username>TONYELISE</Username>
+		<Datetime>26-05-2011, 12:12 PM</Datetime>
+		<Content>I am now looking for a pioneer LX6090 but have had no luck on e-bay there is a fully working set that has had just the outside glass cracked the panel is fine it still works properly so can anyone tell me what type of glass is used and where or if could i get a replacement from?I would like a fully working set but might look down this route if worth it money wise.</Content>
+	</Post>
+</Thread>
