@@ -15,6 +15,7 @@ public class Library {
 
     }
 
+    //Kiểm tra kí tự đúng
     private boolean isACorrectWord(String str) {
         //Nếu chuỗi là kí tự đặc biệt
         List<String> deleteWords = Arrays.asList(
@@ -39,7 +40,7 @@ public class Library {
         return !(str.contains("-") || str.contains(":") || str.contains("%") || str.contains(".") || str.contains("#") || str.contains("?") || str.contains(",") || str.contains("`"));
     }
 
-    //n-grams
+    //Đọc văn bản để lấy ra n-grams
     public Document readDocument(File file) {
         Scanner scanner;
         MyHashMap listWord = new MyHashMap();
@@ -77,6 +78,7 @@ public class Library {
         return document;
     }
 
+    //Đọc tất cả dữ liệu lấy ra n-grams và thêm vào domain
     public DomainData[] readAllDomainData() {
         DomainData[] domainData = new DomainData[4];
 
@@ -89,12 +91,15 @@ public class Library {
                 String pathFolderLabel = pathFolder + "/" + j;
                 File folder = new File(pathFolderLabel);
                 for (File file : folder.listFiles()) {
+                    //Lấy ra n-grams
                     Document document = readDocument(file);
                     document.setDocumentLabel(j);
                     document.setFilePath(file.getPath());
                     if (j == 0) {
+                        //Thêm văn bản nhãn âm vào domain
                         domainData[i].getListNegativeDocument().add(document);
                     } else {
+                        //Thêm văn bản nhãn dương vào domain
                         domainData[i].getListPositiveDocument().add(document);
                     }
                 }

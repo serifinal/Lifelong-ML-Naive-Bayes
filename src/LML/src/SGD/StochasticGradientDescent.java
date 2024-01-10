@@ -38,9 +38,9 @@ public class StochasticGradientDescent {
     public void run() {
         double learningRate = 0.01;
         for (int loop = 1; loop <= 10; loop++) {
-            // Shuffle data:
+            // Trộn dữ liệu
             Collections.shuffle(trainData);
-            // Update:
+            // Cập nhật theo SGD
             for (Document document : trainData) {
                 if (document.getDocumentLabel() == 1) {
                     updateWeight(document, learningRate);
@@ -103,22 +103,30 @@ public class StochasticGradientDescent {
         }
     }
 
-    //Đạo hàm f(+,x) theo x(+,u)
+    //Đạo hàm f(+,i) theo x(+,u)
     private double dh_f_plus_i_x_plus_u(String word, Document di) {
+        //Nếu word xuất hiện trong văn bản di
         if (di.getListWord().get(word) > 0) {
+            // -n(u,d_i) / (1 + X(+,u))
             double p1 = -di.getListWord().get(word) / (1 + xPos.get(word));
+            // n(u,d_i) / (|V| + sum(X(+,v)))
             double p2 = di.getListWord().get(word) / (dicSize + sumPos);
+
             double p3 = di.need();
+            //n(w,d_i) = n(all) - n(w,d_u)    w!=u
             p3 = p3 - di.getListWord().get(word);
+            // n(w,d_i) / (|V| + sum(X(+,v)))
             p3 = p3 / (dicSize + sumPos);
             return p1 + p2 + p3;
         }
         return 0.00;
     }
 
-    //Đạo hàm f(+,x) theo x(-,u)
+    //Đạo hàm f(+,i) theo x(-,u)
     private double dh_f_plus_i_x_minus_u(String word, Document di) {
+        //Nếu word xuất hiện trong văn bản di
         if (di.getListWord().get(word) > 0) {
+            //n(u,d_i)
             double p1 = di.getListWord().get(word) / (1 + xNeg.get(word));
             double p2 = -di.getListWord().get(word) / (dicSize + sumNeg);
             double p3 = -di.need();
@@ -129,12 +137,12 @@ public class StochasticGradientDescent {
         return 0.00;
     }
 
-    //Đạo hàm f(-,x) theo x(+,u)
+    //Đạo hàm f(-,i) theo x(+,u)   = -f(+,i) theo x(+,u)
     private double dh_f_minus_i_x_plus_u(String word, Document di) {
         return -dh_f_plus_i_x_plus_u(word, di);
     }
 
-    //Đạo hàm f(-,x) theo x(-,u)
+    //Đạo hàm f(-,i) theo x(-,u)  = -f(+,i) theo x(-,u)
     private double dh_f_minus_i_x_minus_u(String word, Document di) {
         return -dh_f_plus_i_x_minus_u(word, di);
     }

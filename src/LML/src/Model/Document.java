@@ -6,8 +6,9 @@ public class Document {
 
     private MyHashMap listWord;
 
-    //Nhãn dữ liệu
+    //Nhãn văn bản
     private int documentLabel;
+    //Số lượng từ trong một văn bản
     private long size;
     private String filePath;
     private double need;
@@ -64,6 +65,7 @@ public class Document {
             ans += listWord.get(str);
         }
         return ans;
+//        return listWord.getSumAllValues();
     }
 
 }

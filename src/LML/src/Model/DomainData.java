@@ -6,9 +6,9 @@ import java.util.List;
 
 public class DomainData {
 
-    //Danh sách dữ liệu mang nhãn dương
+    //Danh sách văn bản mang nhãn dương
     private List<Document> listPositiveDocument;
-    //Danh sách dữ liệu mang nhãn âm
+    //Danh sách văn bản mang nhãn âm
     private List<Document> listNegativeDocument;
 
     public DomainData() {
@@ -30,22 +30,30 @@ public class DomainData {
         List<Document> testData = new ArrayList<>();
         List<Document> trainData = new ArrayList<>();
 
-        //Duyệt qua những dữ liệu mang nhãn dương
+        //Duyệt qua những văn bản mang nhãn dương
         for (Document document : listPositiveDocument) {
+            //Nếu trong list path file train có chứa thì thêm vào train data
             if (lfTrain.contains(document.getFilePath())) {
+                //Thêm văn bản vào dữ liệu huấn luện
                 trainData.add(document);
             }
+            //Nếu trong list path file test có chứa thì thêm vào test data
             if (lfTest.contains(document.getFilePath())) {
+                //Thêm văn bản vào dữ liệu kiểm thử
                 testData.add(document);
             }
         }
 
-        //Duyệt qua những dữ liệu mang nhãn âm
+        //Duyệt qua những văn bản mang nhãn âm
         for (Document document : listNegativeDocument) {
+            //Nếu trong list path file train có chứa thì thêm vào train data
             if (lfTrain.contains(document.getFilePath())) {
+                //Thêm văn bản vào dữ liệu huấn luện
                 trainData.add(document);
             }
+            //Nếu trong list path file train có chứa thì thêm vào test data
             if (lfTest.contains(document.getFilePath())) {
+                //Thêm văn bản vào dữ liệu kiểm thử
                 testData.add(document);
             }
         }

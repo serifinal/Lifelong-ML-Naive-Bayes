@@ -18,9 +18,9 @@ public class CombineData {
 
     private DomainData[] domainData;
     private PastInformationStore[] pis;
-    private MyHashMap xPos;
-    private MyHashMap xNeg;
-    private MyHashMap dictionary;
+    private MyHashMap xPos; //Các từ w và số lần xuất hiện trong nhãn (+) ở thời điểm hiện tại
+    private MyHashMap xNeg; //Các từ w và số lần xuất hiện trong nhãn (-) ở thời điểm hiện tại
+    private MyHashMap dictionary; // Từ điển
     private double sumPos;
     private double sumNeg;
     private long numPositiveDocument; //Số lượng dữ liệu nhãn dương
@@ -39,7 +39,7 @@ public class CombineData {
         }
     }
 
-    private List<String> readLF(File f) throws FileNotFoundException {
+    public List<String> readLF(File f) throws FileNotFoundException {
         List<String> ans = new ArrayList<>();
         Scanner scanner = new Scanner(f);
         while (scanner.hasNext()) {
@@ -68,7 +68,7 @@ public class CombineData {
         testing(testData);
     }
 
-    private void buildModel(List<Document> trainData, int targetDomain) {
+    public void buildModel(List<Document> trainData, int targetDomain) {
         numPositiveDocument = 0;
         numNegativeDocument = 0;
         xPos.clear();
@@ -121,13 +121,13 @@ public class CombineData {
     }
 
     //Tính Precision, Recall, F1
-    private void testing(List<Document> testData) {
+    public void testing(List<Document> testData) {
 
         int tp = 0, fn = 0, fp = 0;
 
         for (Document document : testData) {
 
-            // Use aggregate function:
+            // Naive Bayes
             int predict = predictLabel(document);
 
             //Dự đoán là positive nhưng kết quả thực tế là negative (FP)
@@ -179,12 +179,12 @@ public class CombineData {
     }
 
     //P(x_i|+) laplace
-    private double getpPos(String word, double sumPos) {
+    public double getpPos(String word, double sumPos) {
         return Math.log(1 + xPos.get(word)) - Math.log(dictionary.size() + sumPos);
     }
 
     //P(x_i|-) laplace
-    private double getpNeg(String word, double sumNeg) {
+    public double getpNeg(String word, double sumNeg) {
         return Math.log(1 + xNeg.get(word)) - Math.log(dictionary.size() + sumNeg);
     }
 

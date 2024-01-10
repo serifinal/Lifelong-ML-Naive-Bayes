@@ -17,7 +17,7 @@ public class MyHashMap {
         hashMap.put(key, value);
     }
 
-    //Thêm số lần xuất hiện
+    //Cập nhật số lần xuất hiện
     public void putAdd(String key, Double value) {
         putChange(key, value + get(key));
     }
@@ -47,14 +47,18 @@ public class MyHashMap {
             keySet.add(key);
         }
         return keySet;
+//        return hashMap.keySet();
     }
 
-    //Tổng hợp
+    //Tổng hợp từ điển các văn bản
     public void combine(MyHashMap hashMap2) {
         Set<String> keySet2 = hashMap2.getListKeys();
         for (String key : keySet2) {
             this.putAdd(key, hashMap2.get(key));
         }
+//        for (String key : hashMap2.hashMap.keySet()) {
+//            this.putAdd(key, hashMap2.get(key));
+//        }
     }
 
     public void clear() {
