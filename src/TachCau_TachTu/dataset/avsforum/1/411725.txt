@@ -1,6 +1,6 @@
 asus xonar hdav1 .3 vs xona d2 .
 i just picked up a xonar d2 on line for under $ 150 .
-for hd-dvd & bluray playback i use tmt & nero .
+for hd - dvd & bluray playback i use tmt & nero .
 my receiver hk520 no hdmi , so i use analog inputs .
 i feed my sony 42e200 from a msi 8600gts by hdmi .
 arcsoft will be supporting dts master audio hd in the next release .

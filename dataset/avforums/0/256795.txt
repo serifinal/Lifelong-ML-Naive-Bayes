@@ -1,7 +1,0 @@
-how to stop tv auto switching to hdmi av input source that has been powered on ? .
-i have a panasonic 50pz80 .
-its connected to a freesat box and wdtv via hdmi .
-freesat connected to hdmi 1 port .
-at night i unplug everything at the mains , so in the morning when i switch the mains back on it turns on my freesat box automatically , which also switches my tv to this input automatically .
-obviously the tv is detecting the freesat box is being switched on and auto switching to this input ... anyway to stop this ?
-cheers

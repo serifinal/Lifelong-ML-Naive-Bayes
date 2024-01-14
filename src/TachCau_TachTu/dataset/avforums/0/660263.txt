@@ -1,5 +1,5 @@
-t-valdeuc-3009 .2 .
-new samsung firmware is released : t-valdeuc-3009 .2 1 .
-title 2010 pdp c65 ** & 7 *** firmware for sefl-upgrade 2 .
+t - valdeuc - 3009.2 .
+new samsung firmware is released : t - valdeuc - 3009.2 1 .
+title 2010 pdp c65 ** & 7 *** firmware for sefl - upgrade 2 .
 applicable model ps ** c6000 7000 series 3 .
-description t-valdeuc-3009 .2 - optimization to find the service channel for skyd -lrb- germany , austria , swiss region -rrb- - improve '' 11 skype -lrb- moip -rrb- camera screen is not showed - when turning off and on after recording guide plus -lrb- only italy -rrb- - improve samsung digital camera '' s specific mjpeg movie clip is not playbacked anyone brave enough to test if this gives a better 3d experience : - -rrb-
+description t - valdeuc - 3009.2 - optimization to find the service channel for skyd ( germany , austria , swiss region ) - improve '' 11 skype ( moip ) camera screen is not showed - when turning off and on after recording guide plus ( only italy ) - improve samsung digital camera '' s specific mjpeg movie clip is not playbacked anyone brave enough to test if this gives a better 3d experience : - )

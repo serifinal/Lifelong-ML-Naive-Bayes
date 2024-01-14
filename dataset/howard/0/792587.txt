@@ -1,5 +1,0 @@
-motorola droid software and hardware tracking thread .
-use this thread to post your motorola droid 's software and hardware versions .
-this way we can keep track if something new comes along .
-in the settings menu , scroll down to about phone , then scroll down in the new screen .
-firmware version : 2.0 baseband version : c_01 .3 b. 01p kernel version : 2.6.29-omap1-g04df51f android-build@apa26 # 477 build number : esd20 on the large back label : hw a , 39/09 -lrb- manufactured week/year -rrb- on the smaller back label -lrb- batch info -rrb- ta40403q16 ntj te6 b10 sjug5546aa 0101

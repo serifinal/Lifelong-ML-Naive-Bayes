@@ -1,10 +1,10 @@
-does panasonic vt30 support mhl/mobile high-def link ? .
-mhl/mobile high-definition link is an interface for phones such as samsung galaxy s2 allowing direct connection to the tv by way of mini usb to hdmi .
+does panasonic vt30 support mhl / mobile high - def link ? .
+mhl / mobile high - definition link is an interface for phones such as samsung galaxy s2 allowing direct connection to the tv by way of mini usb to hdmi .
 there 's some variants of this , such as mini usb to hdmi adapter then an hdmi lead to the tv but these invariably need a power source plugged into the adapter - more power points to find , more clutter , more hassle .
 the beauty of mhl is simultaneous charging of the phone via the tv .
 i guess , if this really takes off as an industry standard , then the tv remote will probably control media etc on the phone but this is just wild speculation on my part i love watching youtube on a tv but hate the watered down , censored , crippled , standard def crap we have to put up with via viera connect .
 also panasonic made the tv dlna compatible but helpfully did n't bother supporting the most obvious use for dlna - streaming 1080p recordings from a smartphone .
 great .
-i figured mhl would be a simple way to overcome both of these hurdles so my question to you : is the panasonic vt30 -lrb- b -rrb- mhl ready ?
+i figured mhl would be a simple way to overcome both of these hurdles so my question to you : is the panasonic vt30 ( b ) mhl ready ?
 ... or is my tv already out of date ?
 lol cheers

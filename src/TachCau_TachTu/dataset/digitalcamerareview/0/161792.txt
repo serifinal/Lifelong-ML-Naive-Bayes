@@ -5,4 +5,4 @@ does that mean if it focuses on something to the right , it wo n't focus on what
 2 .
 i thought this has face detection .
 i mean it does , but i do n't know how to activate it . .
-it does n't do the white/gray boxes over faces , how do i do that ?
+it does n't do the white / gray boxes over faces , how do i do that ?

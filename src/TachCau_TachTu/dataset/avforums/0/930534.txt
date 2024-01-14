@@ -1,13 +1,13 @@
 tv image flickers p42g10 with ps3 .
-for a little while i noticed my panasonic plasma 42 flickered whilst on the ps3 -lrb- input via hdmi -rrb- , but never off the panny dvd player or sky -lrb- input by scart -rrb- .
+for a little while i noticed my panasonic plasma 42 flickered whilst on the ps3 ( input via hdmi ) , but never off the panny dvd player or sky ( input by scart ) .
 therefore wasn?t sure if it was the ps3 doing it , or the hdmi ports in the tv .
 well , last night enough was enough because the flickering went from one each hour to happening every minute , sometimes twice a minute .
 i originally thought its maybe the tv being the cause , as often when it jumps , it doesn?t just judder the picture but it also forces an aspect ratio change .
-i have my tv set to 16:9 -lrb- not wide or auto -rrb- .
-but the problem occurs often whereby it changes the aspect by its self ; going from 16:9 to wide -lrb- possibly caused by bad information sent by ps3 ? -rrb- .
-in doing so , it takes about 1.5 seconds , and gives me a blank black screen ; so obviously impossible to game or watch bluray-dvd 's .
+i have my tv set to 16:9 ( not wide or auto ) .
+but the problem occurs often whereby it changes the aspect by its self ; going from 16:9 to wide ( possibly caused by bad information sent by ps3 ? ) .
+in doing so , it takes about 1.5 seconds , and gives me a blank black screen ; so obviously impossible to game or watch bluray - dvd 's .
 but coincidently i noticed my dad?s brand new panny 46 ?
--lrb- 400hz s10 -rrb- also jumps about aspect ratio when playing dvd?s that income from hdmi via an arcam amp -lrb- but only does so very rarely -rrb- ; so maybe it is the tv .
+( 400hz s10 ) also jumps about aspect ratio when playing dvd?s that income from hdmi via an arcam amp ( but only does so very rarely ) ; so maybe it is the tv .
 my tv is less than 1 year old .
 on the title screen of the ps3 ?
 a static image ?

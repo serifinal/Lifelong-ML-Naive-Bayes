@@ -1,14 +1,14 @@
 vmc - is there any way to have theatertek default to dvd 's and powerdvd default to ... .
 i just finished setting up my new htpc with theatertek and ffdshow ... and i love it !
 i have it set to play as the default player within vmc using the mymovies plugin .
-i have it set up to play my ripped dvd iso 's and ripped dvd mkv 's -lrb- not so many mkv 's though ... taking 4-6 hours per dvd was worth it for me after a couple days of backing up -rrb- .
-anyways , i wanted to back up my blu-ray movies as well as make accessing them easier -lrb- easier as in not getting up from the couch to open up a case -rrb- .
+i have it set up to play my ripped dvd iso 's and ripped dvd mkv 's ( not so many mkv 's though ... taking 4 - 6 hours per dvd was worth it for me after a couple days of backing up ) .
+anyways , i wanted to back up my blu - ray movies as well as make accessing them easier ( easier as in not getting up from the couch to open up a case ) .
 i used anydvd hd to rip the files to the hard drive .
 i took the main .
 m2ts file and put that on my media server along with my other iso dvd rips .
 so ... is there a way i can have vista media center default to playing my m2ts files with powerdvd ultra instead of loading theatertek ?
 i 'm looking for a remote only setup here .
-also , it would confuse the wife if she chose a movie with the mymovies app and some of them play -lrb- iso 's -rrb- but some do n't -lrb- blu-ray -rrb- .
+also , it would confuse the wife if she chose a movie with the mymovies app and some of them play ( iso 's ) but some do n't ( blu - ray ) .
 she wo n't know the difference between the files ... she just wants to press a button on the remote and have the movie start right away .
 i 've been doing some searching and i could n't find anything to answer my question .
-i see a number of people use theatertek -lrb- or zoomplayer -rrb- for sd dvds and powerdvd -lrb- or tmt -rrb- for hd/blu-ray dvd 's -rrb- ... i 'm just wondering if any of those people are able to have the right player open automatically from within the mymovies area of vista media center .
+i see a number of people use theatertek ( or zoomplayer ) for sd dvds and powerdvd ( or tmt ) for hd / blu - ray dvd 's ) ... i 'm just wondering if any of those people are able to have the right player open automatically from within the mymovies area of vista media center .

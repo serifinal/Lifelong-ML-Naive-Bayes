@@ -1,6 +1,6 @@
 .
-i just replaced the color wheel on my samsung 46 '' dlp .
+i just replaced the color wheel on my samsung 46 " dlp .
 i appear to be having the famous color shadowing issue that has become synonymous with this replacement .
-i updated the cca values -lrb- x , y -rrb- based on the sticker that came with the new wheel , but there were also lv values that i was unable to locate in the service menu .
+i updated the cca values ( x , y ) based on the sticker that came with the new wheel , but there were also lv values that i was unable to locate in the service menu .
 as a result the color and shadowing still looks bad .
 attached is the sticker that i received .

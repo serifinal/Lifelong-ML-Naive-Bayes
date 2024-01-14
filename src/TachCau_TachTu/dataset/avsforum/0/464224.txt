@@ -39,18 +39,18 @@ this wall also has a soffit , which feeds into the duct at the front .
 the back wall has a door to enter a storage area ; the rest of the wall is again attached directly to furring strips on the cinder block .
 there is no door between the basement and first floor and the stairs kind of open into the room to make it less claustrophobic .
 overall not ideal conditions , but it is what it is and the room will have to do for 1.0 .
-the rendering i did below shows the scene -lrb- the screen seems so gigantic because of the ?
+the rendering i did below shows the scene ( the screen seems so gigantic because of the ?
 fisheye ?
-perspective to get it all in and the crazy pattern on the floor is to help me estimate lighting -rrb- .
-i had 3 contractors out to take a look , but none really seemed to understand what i was going for -lrb- although the latest guy offered up ?
-resilient channels ? -rrb- .
+perspective to get it all in and the crazy pattern on the floor is to help me estimate lighting ) .
+i had 3 contractors out to take a look , but none really seemed to understand what i was going for ( although the latest guy offered up ?
+resilient channels ? ) .
 their responses gave me the excuse to take the approach i wanted to do in the first place ?
 diy !
 the plan ?
 ideally , my screen would have been on the back wall to give me more of a throw distance and to allow more space between the screen and the seats .
-this was the original plan , but the door on the back wall really seemed to make everything way off center -lrb- and it only left a 92 ?
-wall -rrb- .
-with the current layout , i?m sitting about 10-11 ?
+this was the original plan , but the door on the back wall really seemed to make everything way off center ( and it only left a 92 ?
+wall ) .
+with the current layout , i?m sitting about 10 - 11 ?
 from the screen and my throw distance is only ~ 11 ? .
 i am planning to go with ??
 double drywall w / green glue on all walls in this room .
@@ -63,14 +63,14 @@ cans in the main room and one 4 ?
 can at the entry , all dimmable .
 i?m also considering rope lighting on a different dimmer to add to the effect .
 i will have 7.1 , 1080p with ~ 100 ?
--lrb- depending on pj -rrb- diy screen , although i?m considering carada .
-a diy equipment rack will be in the back of the room -lrb- top left of first drawing -rrb- .
+( depending on pj ) diy screen , although i?m considering carada .
+a diy equipment rack will be in the back of the room ( top left of first drawing ) .
 coax , cat6 , and one outlet of a dedicated ?
 theater circuit ?
 run to that location .
 from the rack , i am running component , coax , and ir extenders to two other locations in the house ?
 a bedroom and a living room .
-also , i?m running hdmi , cat5 , component , and a separate conduit -lrb- thanks britinva -rrb- to the pj as well as ir to the front of the room .
+also , i?m running hdmi , cat5 , component , and a separate conduit ( thanks britinva ) to the pj as well as ir to the front of the room .
 the pj will be powered by a diy ?
 powerbridge ?
 from the rack ups as described in the countless threads spread around here .

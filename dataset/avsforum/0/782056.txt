@@ -1,5 +1,0 @@
-latest firmware .
-hi all , i want open separate thread only about + open source firmware modifications + firmware compiling issues + unofficial firmware develepment talk and all about unofficial firmware develepment the main thread is place where people talking cross over a lot of topics / upgrade issues/remuxing/etc ... this is the key reason why i want open this thread .
-i hope this will help to people from wd/and another open source firmware developers share own knowledge more efficient if you need to know somethink about wdtv you should go to this thread new * western digital - wd tv hd media player bugs reports for official firmware you can post here ... .
-http://www.avsforum.com/avs-vb/showthread.php?t=1100499 new wdtv developers wiki old location not updated from 28 .
-march 2009 is here and currently is down

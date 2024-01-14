@@ -1,6 +1,6 @@
 env3 , lg outlook sync , outlook 2002 .
 my phone : env3 with v05 firmware my computer : xp 64 bit with all service packs outlook 2002 lg outlook sync issue : i am able to use bitpim to successfully push calendar and contacts down to the phone from the computer .
-i would like to try and use the lg outlook sync software so i can have true `` sync '' between the phone and the computer .
+i would like to try and use the lg outlook sync software so i can have true " sync " between the phone and the computer .
 when going through the install procedure , all appears to be go properly , but when i complete the install and re-open outlook , the sync button never shows up .
 i have done re-boots and re-installs to no avail .
 anyone else seen this problem and discovered a solution ?

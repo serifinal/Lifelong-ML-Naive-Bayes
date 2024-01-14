@@ -1,6 +1,0 @@
-group sms sending as group mms in 3.0 on 3gs .
-i just noticed what i think is a bug in 3.0 on the 3gs .
-i have mms enabled on my phone which works just great .
-but i just noticed that now when i send a group sms it sends it as a group mms .
-that really puts a hamper on other iphone people i send in that group sms who do n't have mms installed .
-is there a setting i am missing , or did i find a bug ?

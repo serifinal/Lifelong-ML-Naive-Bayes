@@ -1,9 +1,0 @@
-digital tv signal lost when hdmi is plugged in .
-hi , i have a samsung ps50b530 that had a pc hooked up to it via the analog dsub .
-i recently upgraded the pc to one that has hdmi out on it .
-when the computer is connected via hdmi but not active on the screen , the digital freeview signal becomes choppy and unwatchable .
-disconnect the hdmi cable and the digital tv signal comes back immediately .
-if the hdmi cable is plugged into the tv , but nothing at the other end , digital tv works fine , so it 's the signal from the computer that is causing it , but i could n't imagine why .
-i 've tried both hdmi ports ... anyone know what the problem could be , or has come across this before ?
-it 's a pain having to disconnect and reconnect every time i want to watch tv !
-cheers !

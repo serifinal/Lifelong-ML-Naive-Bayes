@@ -1,8 +1,0 @@
-ps51d550 `` screen fit '' or `` 16:9 '' .
-hi guys , i have the samsung ps51d550 51 '' 3d pdp and was wondering what is the correct screen setting .
-when i say correct , i mean without having to `` strech '' or `` shrink '' the original movie source .
-or should i say sacrifice the quality of the encoding .
-i have noticed that with `` screen fit '' the image is slightly narrower than when using the `` 16:9 '' .
-this case applies to both , original bluray source and encoded mkv .
-could someone please explain the difference to me and what the correct settings should be ?
-thanks tomas

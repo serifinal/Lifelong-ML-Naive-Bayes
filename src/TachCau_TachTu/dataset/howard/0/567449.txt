@@ -1,32 +1,32 @@
-the * official * 5 gb data usage `` soft cap '' discussion thread ! .
+the * official * 5 gb data usage " soft cap " discussion thread ! .
 this is a topic i 've been needing to discuss for a few weeks now , and despite the fact that it gets mentioned in various threads , i was quite surprised to find out that it does not have a dedicated thread of its own !
 thus , i am starting one .
-the purpose of this thread is to discuss cricket 's data usage `` soft cap '' , which is currently set at 5 gb .
-if you are using a cricket 3g wireless broadband modem , or a 3g phone used as a tethered modem , and are unfortunate enough to use more than 5 gb in a one month -lrb- 30 day -rrb- period , cricket can and will throttle your download speed severely !
-instead of the zippy dsl-style speeds you normally enjoy , you will be given soul-crushing , internet crippling speeds in the 100 kbps range !
+the purpose of this thread is to discuss cricket 's data usage " soft cap " , which is currently set at 5 gb .
+if you are using a cricket 3g wireless broadband modem , or a 3g phone used as a tethered modem , and are unfortunate enough to use more than 5 gb in a one month ( 30 day ) period , cricket can and will throttle your download speed severely !
+instead of the zippy dsl - style speeds you normally enjoy , you will be given soul - crushing , internet crippling speeds in the 100 kbps range !
 worse still is how they implement this policy in regards to how long you have to put up with these crippled speeds !
 back around the beginning of october , i had to download a few fairly large files , and i exceeded 5 gb of usage .
 cricket wasted no time in throttling my speeds to a snail 's pace .
-most carriers , on a policy like this , would reset your `` usage meter '' , and thus your speed , at the start of the next billing period .
+most carriers , on a policy like this , would reset your " usage meter " , and thus your speed , at the start of the next billing period .
 since my billing period starts over on the 15th of the month , i put up with these dog a $ $ slow speeds for about 2 weeks , waiting patiently for the 15th to arrive .
 and when it did ... nothing .
 i was still experiencing horribly crippled speeds !!!
 so , i called customer service ... and that 's when the other shoe dropped .
 that 's when i discovered the dirty secret to cricket 's implementation of this policy : they do n't enforce it based on your billing cycles .
-according to the cs guy i got , it 's based on a rolling 30-day cycle .
+according to the cs guy i got , it 's based on a rolling 30 - day cycle .
 what does that mean ?
 if they look at the last 30 days of usage , from today back , and see over 5 gb of usage , you get the crippled speeds !
 does n't matter how long ago you exceeded 5 gb , that does n't count with them .
-so , after what feels like forever , i still do n't have my full speed , the speed i pay 40 hard-earned dollars a month for , back !!!
+so , after what feels like forever , i still do n't have my full speed , the speed i pay 40 hard - earned dollars a month for , back !!!
 if i wanted to be stuck with edge speeds , i would have kept using my edge blackberry as a tethered modem !!!
-next month , t-mobile is finally releasing their long-overdue 3g blackberry .
+next month , t - mobile is finally releasing their long - overdue 3g blackberry .
 i wo n't be eligible for upgrade until january , though .
 but when january comes around , if i 'm still having to put up with this 100 kbps crippled speed bs , i 'm dropping cricket like a bad habit and just using the 3g blackberry as a tethered modem !
-at least t-mobile 's smart phone plans have a 10 gb `` soft cap '' , instead of this idiotic 5 gb crap that all the carriers pull on their air cards !
-and yes , i know there 's now a $ 60 a month , 10 gb plan for `` heavy '' users .
+at least t - mobile 's smart phone plans have a 10 gb " soft cap " , instead of this idiotic 5 gb crap that all the carriers pull on their air cards !
+and yes , i know there 's now a $ 60 a month , 10 gb plan for " heavy " users .
 but i came to cricket because i did not want to pay $ 60 a month for wireless broadband service !
 if i 'd wanted to pay that much , i would have gone with one of the big 4 for my 3g service !
-so , anyone else care to share their thoughts on this data usage `` soft cap '' ?
+so , anyone else care to share their thoughts on this data usage " soft cap " ?
 care to share your horror stories about your own encounters with it ?
 care to share a dealer 's perspective on it ?
 well , the thread is now open for your comments .

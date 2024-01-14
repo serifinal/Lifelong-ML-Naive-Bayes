@@ -1,8 +1,0 @@
-<Thread>
-	<Post id="0" class="0">
-		<Title>Panasonic GT30 Calibration & Settings Thread.</Title>
-		<Username>tele1962</Username>
-		<Datetime>15-07-2011, 5:02 PM</Datetime>
-		<Content>Anyone who wants to post their settings etc here is the thread for you. I am particularly interested in the Contrast setting on the GT i have heard everything from maxed out to default? PS Plus it gives me something to think about for the next couple of weeks................</Content>
-	</Post>
-</Thread>

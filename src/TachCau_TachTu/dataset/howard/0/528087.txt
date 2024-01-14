@@ -1,8 +1,8 @@
 bell samsung galaxy s , kies , sync outlook .
-i use outlook for corporate email -lrb- the email server is mdaemon , not exchange : i use an app called outlook connector for mdaemon and outlook is fully functional -rrb- .
+i use outlook for corporate email ( the email server is mdaemon , not exchange : i use an app called outlook connector for mdaemon and outlook is fully functional ) .
 i want to sync my contacts and calendar to the galaxy .
 from another thread here , i know there is a way to get gmail and outlook working together but i 'm not pursuing that right away .
-so far i can not find a reliable syncml app for the android-based smartphone , so an `` over-the-air '' sync is not in the picture .
+so far i can not find a reliable syncml app for the android - based smartphone , so an " over-the-air " sync is not in the picture .
 if you know of an app that works , please post !
 meantime , i will try to use kies as the intermediary between outlook and the galaxy .
 wondering if any of you have installed and run kies and successfully got a sync going with outlook ?

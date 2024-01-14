@@ -5,6 +5,6 @@ i go to the top status section on the phone , pull it down , turn on bluetooth ,
 it turns green when it 's connected properly .
 the s9 manual says to hold the power button on until the blue light flashes three times , then it goes into discover mode and from there , the phone should pick it up .
 but alas , no go .
-it just stays blue -lrb- not seeing the phone or visa versa -rrb- can anyone help me here ?
+it just stays blue ( not seeing the phone or visa versa ) can anyone help me here ?
 am i doing something wrong ??
 thanks in advance !!

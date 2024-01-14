@@ -1,4 +1,4 @@
 hdmi 1.3 for htpc - how is niveus media doing it ? .
 i 'm dying to setup an hd htpc , but i 've decided to hold off until hardware support for hdmi 1.3 is available .
-i 've learned about the asus and auzentech sound card solutions that claim to support hdmi 1.3 -lrb- route video through another card - no thanks ! -rrb-
+i 've learned about the asus and auzentech sound card solutions that claim to support hdmi 1.3 ( route video through another card - no thanks ! )
 , but wanted to know if anyone knows how the newly announced denali htpc from niveus media is pulling off hdmi 1.3 .

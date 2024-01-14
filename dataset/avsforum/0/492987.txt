@@ -1,4 +1,0 @@
-escient video chipset ?
-anyone know what it is ??! .
-hi , does anyone know what upscaling/deinterlacing chipset the escient vc-1 client or vs-100 / 200 servers use ?
-mark

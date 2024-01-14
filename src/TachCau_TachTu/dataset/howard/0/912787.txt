@@ -8,8 +8,8 @@ when i try and send the out going email i ca n't .
 is ms office outlook an exchange account ?
 how do i tell ?
 or is it imap or pop3 ?
-to add to my ignorance - at home i connect to ms office outlook account via the internet at home , -lrb- webaccess.si.edu -rrb- + password , that is how i set up the account .
+to add to my ignorance - at home i connect to ms office outlook account via the internet at home , ( webaccess.si.edu ) + password , that is how i set up the account .
 is that correct ?
 i tried to talk to my it guys and they would n't help .
--lrb- we do not support smartphone email usage they said -rrb- .
+( we do not support smartphone email usage they said ) .
 thank you ,

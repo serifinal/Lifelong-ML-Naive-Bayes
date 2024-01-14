@@ -2,6 +2,6 @@ getting tired .
 ok , so i exchanged the blackberry for the rumor touch thinking at least i 'd have a twitter app .
 so i downloaded the twitter app and opera mini 5 .
 opera mini works fine .
-the twitter app just loads and says '' a network error has occured .
+the twitter app just loads and says " a network error has occured .
 please try again later could not connect .
 anyone else have the twitter app working on the rumor touch ?

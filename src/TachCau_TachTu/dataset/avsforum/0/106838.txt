@@ -1,15 +1,15 @@
-help with using my pioneer vsx-92txh 's ir in jack , and the ir out .
-i have a pioneer elite vsx-92txh which is partially obscured by the cabinet it sits in .
+help with using my pioneer vsx - 92txh 's ir in jack , and the ir out .
+i have a pioneer elite vsx - 92txh which is partially obscured by the cabinet it sits in .
 oddly enough the cabinet door is partially glass , but the beam of wood which runs in the middle of it obscures the ir receiver on the front .
 so , i 'd like to run an external ir receiver out of the cabinet near the tv .
 now i thought this would be pretty easy , since the receiver provides an ir in jack in the back in the form of a 3.5 mm plug .
-so i bought a speakercraft irc-2 .0 since it 's nice and small and relatively cheap .
+so i bought a speakercraft irc - 2.0 since it 's nice and small and relatively cheap .
 it has a four conductor 3.5 mm jack .
 however , this does n't work at all to control the receiver .
-it does not receive any commands , and it does not even shut off the front panel input -lrb- something the manual indicated it would , or at least take precedence over -rrb- .
-i also happen to have a smarthome ir linc : http://www.smarthome.com/2411r/irlin...nverter/p.aspx this also happens to have a 3.5 mm 3 conductor ir receiver attached to it , so i tried that one on the vsx-92txh as well .
+it does not receive any commands , and it does not even shut off the front panel input ( something the manual indicated it would , or at least take precedence over ) .
+i also happen to have a smarthome ir linc : http://www.smarthome.com/2411r/irlin...nverter/p.aspx this also happens to have a 3.5 mm 3 conductor ir receiver attached to it , so i tried that one on the vsx - 92txh as well .
 no luck there either .
-pioneer was no help in this matter , the cs agent would not even tell me what the correct pin out for the jack was -lrb- !? -rrb-
+pioneer was no help in this matter , the cs agent would not even tell me what the correct pin out for the jack was ( !? )
 and could not tell me any particular brand or model of ir receiver that would work .
 i know i could go all out and get a ir terminator block and repeaters and probably get it working that way , but that seems like a lot of extra cost and clutter i could avoid of i could just get my receiver to function as it does in the manual .
 anyone have any advice they could give me ?

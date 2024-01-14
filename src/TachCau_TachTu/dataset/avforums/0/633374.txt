@@ -2,10 +2,10 @@ panasonic gt30 , sky and sc btt370 - how can i get them to come on together .
 hi all hope this is in the right place , otherwise mods please move .
 i 've got a 46gt30 which i 've had for 3 months and very happy with it but i do n't think i have it connected up correctly as it 's a bit fiddly to switch it all on and i wondered if there was a better way .
 into my btt370 home cinema i have the sky box in hdmi 1 and the xbox into hdmi 2 .
-i then have the btt370 connected into the tv through hdmi 2 -lrb- arc -rrb- socket .
-when i press the on button , the tv and the home cinema come on together , great , but it says there is no signal -lrb- i do n't have a separate aerial -rrb- .
+i then have the btt370 connected into the tv through hdmi 2 ( arc ) socket .
+when i press the on button , the tv and the home cinema come on together , great , but it says there is no signal ( i do n't have a separate aerial ) .
 i switch on the sky box but the tv still says no signal .
-to get the picture i press the av button on the remote and make sure it 's on hdmi 2 , this then changes the screen to show the arc blue screen , i then have to press ` return ' to get to the home cinema screen , then up to av -lrb- i think -rrb- and select hdmi 1 -lrb- i.e. the sky socket -rrb- and everything works ok .
+to get the picture i press the av button on the remote and make sure it 's on hdmi 2 , this then changes the screen to show the arc blue screen , i then have to press ' return ' to get to the home cinema screen , then up to av ( i think ) and select hdmi 1 ( i.e. the sky socket ) and everything works ok .
 surely there must be an easier way than this ?
 i 'm sure when i first had it connected it used to automatically switch to sky but i ca n't remember and i have n't changed anything ?
 if i want to use the xbox i have to do the same thing but change the hdmi selector to hdmi 2 on the home cinema but do n't mind for the odd times i use the xbox but would prefer if when wanting to watch tv i could press 2 buttons on the sky remote to switch the tv , home cinema and sky on and be ready to go .

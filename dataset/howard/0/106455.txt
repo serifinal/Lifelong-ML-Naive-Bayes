@@ -1,7 +1,0 @@
-new solutions to the old question : can the camera flash be used as a torch ? .
-hi guys , it 's quite obvious to mobile phone users that the powerful flash that their phones are equipped with can come very handy in the dark , if used as a flash .
-i know people have been looking for ways to do this on nokia phones , where usually this is not a built-in function .
-i also know there are several symbian/java applications out there that claim to be able to do this .
-however the ones that i have tried -lrb- ntorch , besttorch , spoton -rrb- are either only able to use the * screen * for lighting , instead of the flash , or only able to turn on the red , low-powered light in the flash .
-does anyone have a solution that will actually use the full power of the flash ?
-thanks in advance for any suggestions .

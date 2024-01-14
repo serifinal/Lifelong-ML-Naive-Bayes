@@ -1,9 +1,9 @@
-panasonic vt30 & sc-btt775ebk arc link with sky+hd and xbox 360 .
-i seek confirmation that my set-up is working properly .
-i have a panasonic vt30 & sc-btt775ebk blu-ray home theatre connected via arc with sky+hd and xbox 360 .
-sc-btt775ebk has two hdmi inputs : sky + hd -lrb- hdmi 1 -rrb- xbox 360 -lrb- hdmi 2 -rrb- sc-btt775ebk has one hdmi output : hdmi - hdmi 2 on vt30 the good news is that everything works and i am happy .
+panasonic vt30 & sc - btt775ebk arc link with sky+hd and xbox 360 .
+i seek confirmation that my set - up is working properly .
+i have a panasonic vt30 & sc - btt775ebk blu - ray home theatre connected via arc with sky+hd and xbox 360 .
+sc - btt775ebk has two hdmi inputs : sky + hd ( hdmi 1 ) xbox 360 ( hdmi 2 ) sc - btt775ebk has one hdmi output : hdmi - hdmi 2 on vt30 the good news is that everything works and i am happy .
 my only concern is that if i 'm watching freesat and turn on the sky box the tv input does n't automatically switch to sky .
-instead -lrb- using blu-ray remote -rrb- i browse to the home menu on sc-btt775ebk and select hdmi 1 and then -lrb- using tv remote -rrb- i change tv input to hdmi 2 .
+instead ( using blu - ray remote ) i browse to the home menu on sc - btt775ebk and select hdmi 1 and then ( using tv remote ) i change tv input to hdmi 2 .
 this seems a bit fiddly to me and not only that the wife keeps phoning me cos she does n't quite grasp it !
 i was sort of expecting the tv to automatically switch to sky input the moment the sky box is switched on .
 is this not the case ?

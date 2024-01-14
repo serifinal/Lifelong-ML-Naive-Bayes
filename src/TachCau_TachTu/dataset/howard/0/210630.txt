@@ -1,9 +1,9 @@
 mt3g tips & tricks .
 shouldnt we have this by now ?
-1st tip : reboot : `` end key + call key + menu '' 2nd : android power saver mode ------------------------- 1 .
-screen brightness 10 % -15 % 2 .
+1st tip : reboot : " end key + call key + menu " 2nd : android power saver mode ------------------------- 1 .
+screen brightness 10 % - 15 % 2 .
 wifi = off 3 .
 gps = off 4 .
-auto-sync = off 5 .
+auto - sync = off 5 .
 background data usage = off 6 .
 use only 2g networks = yes

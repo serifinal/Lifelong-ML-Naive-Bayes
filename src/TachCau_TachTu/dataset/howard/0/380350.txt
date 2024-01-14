@@ -1,5 +1,5 @@
 default location of icons .
 trying to find out where the default location of icons are located on the phone .
-rather than use a theme , i was wonder if its possible to ssh and update the icon/apps that i have .
-i know using winterboard when a theme is selected it is located in / var/stash/theme / is there a location that i can upload icons if i am not using winterboard ??? winterboard slows the phone down so much .
+rather than use a theme , i was wonder if its possible to ssh and update the icon / apps that i have .
+i know using winterboard when a theme is selected it is located in / var / stash / theme / is there a location that i can upload icons if i am not using winterboard ??? winterboard slows the phone down so much .
 thanks and any help is appreciated !

@@ -1,4 +1,0 @@
-stoppingdisplay of text messages on main screen of iphone 3gs .
-hi , is there a method to make text message not appear on the main screen of a password protected iphone 3gs . .
-prioring eyes can still see a text message even the the password is enabled . .
-thanks

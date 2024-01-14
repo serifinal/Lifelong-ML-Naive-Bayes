@@ -1,9 +1,9 @@
-panasonic tx-p65vt30e / using sd card .
-has anyone already tried using sandisk extreme pro 32 gb sdhc uhs-i cards in our tx-p65vt30e ?
-is latest tx-p65vt30e firmware update full compatible with uhs-i thecnologie ?
-this is because i am intending to save all my full hd videos and full hd slideshows mp4 files in such cards and play them directly on tx-p65vt30 .
+panasonic tx - p65vt30e / using sd card .
+has anyone already tried using sandisk extreme pro 32 gb sdhc uhs - i cards in our tx - p65vt30e ?
+is latest tx - p65vt30e firmware update full compatible with uhs - i thecnologie ?
+this is because i am intending to save all my full hd videos and full hd slideshows mp4 files in such cards and play them directly on tx - p65vt30 .
 will it work smooth ?
-problem is : i already tried to play a slideshow mp4 file saved on a sd card -lrb- not a sdhc uhs-i -rrb- and i can see that audio is not synchronized with video -lrb- audio comes out before video ! -rrb-
+problem is : i already tried to play a slideshow mp4 file saved on a sd card ( not a sdhc uhs - i ) and i can see that audio is not synchronized with video ( audio comes out before video ! )
 , last seconds of video are mute !
 however , playing this same sd card on my computer , audio is 100 % sync with video .
 what should be the problem ?

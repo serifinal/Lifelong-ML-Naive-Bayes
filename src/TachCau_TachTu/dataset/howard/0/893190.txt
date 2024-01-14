@@ -1,4 +1,4 @@
-tutorial : making album art work -lrb- most lg phones -rrb- .
+tutorial : making album art work ( most lg phones ) .
 ok , so i have seen a lot of people complaining that their album art doesn?t display , etc. , etc. .
 i?ve never had problems with my mp3s on my phones , so i am going to set out to write a little guide on how i do it .
 this guide is for you if : you own an lg vcast phone ?
@@ -7,9 +7,9 @@ you want your album art to work .
 you don?t mind doing things yourself ... including thinking .
 what i?ll be using : hardware : my phone ?
 lg voyager memory card ?
-this is in the phone , mine is 4 gig -lrb- more storage than all of my first 10 computers put together ? -rrb-
+this is in the phone , mine is 4 gig ( more storage than all of my first 10 computers put together ? )
 usb data cable ?
-came in the box software : windows xp mce sp3 -lrb- this is a fancy way of saying i don?t own vista -rrb- don?t forget to install the drivers for your phone !!!! if you want to sync , you will fail without drivers !!!
+came in the box software : windows xp mce sp3 ( this is a fancy way of saying i don?t own vista ) don?t forget to install the drivers for your phone !!!! if you want to sync , you will fail without drivers !!!
 1111oneone windows media player 10 - yes , windows media .
 i don?t use itunes , i don?t want itunes , i don?t like itunes .
 - yes , v10 . .
@@ -19,7 +19,7 @@ i don?t remember . .
 i just have n't tried - vcast music player appears to be very similar to wmp , but i never use it because it?s bloated and poorly written .
 ok . .
 got that stuff out of the way ?
-so let?s assume you have figured out how to rip music off a cd and/or you already have a library of music ?
+so let?s assume you have figured out how to rip music off a cd and / or you already have a library of music ?
 or you are downloading music from your favorite torrent tracker .
 anyways , you have a folder with music in it .
 like this one : this is a great cd ?
@@ -31,7 +31,7 @@ good for you , your phone will play them . .
 but i prefer mp3 because of the portability , compatibility , etc. .
 if you happened to download music in wma format , but you prefer mp3 . .
 just google for a program to batch convert them .
-xp media center edition -lrb- mce -rrb- comes with a built in audio converter . .
+xp media center edition ( mce ) comes with a built in audio converter . .
 it works well .
 you can download a program called switch , or any other number of methods to convert .
 wma to .
@@ -46,7 +46,7 @@ select it all , and then right click on one of the tracks .
 in the context menu you get two options on how to do this .
 first , you can click on ?
 find album info ?
-you can also have wmp set to find this info automatically -lrb- if available , and you are online -rrb- at the time you rip the album .
+you can also have wmp set to find this info automatically ( if available , and you are online ) at the time you rip the album .
 again , that 's great , it makes things easy .
 now this will work great if you listen to mainstream music .
 you know , what everyone else listens to .
@@ -81,7 +81,7 @@ add ?
 and then browse for your picture .
 open in , and you should see it associated with your track now .
 just choose its type as ?
-cover -lrb- front -rrb- ? .
+cover ( front ) ? .
 and click ok .
 make sure , while you are doing this , that the track numbers are all in place as well .
 now , let?s add this to our phone .
@@ -104,7 +104,7 @@ sync ?
 tab in wmp now lists all of your shiny new tracks there , but no device .
 you have to put your phone into sync mode .
 some phones are set to do this automatically when you plug them in , or to give a little dialogue like this one : if you see this screen , just choose sync music .
-if not , go to menu - > get it now -lrb- or media center -rrb- - > music & tones - > sync music after a few seconds of ?
+if not , go to menu - > get it now ( or media center ) - > music & tones - > sync music after a few seconds of ?
 connecting ?
 and ?
 initializing ?

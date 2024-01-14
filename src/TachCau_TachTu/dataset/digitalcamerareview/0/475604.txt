@@ -2,15 +2,15 @@ how to view pics if i forgot to format the memory card ? .
 i shoot with a canon rebel xsi , and i shoot raw .
 during a trip just last week , i changed my memory card while taking pictures , and accidentaly put in a new memory card that was not yet formatted , and continued shooting .
 even if the card was not formatted , i had no indication that anything was wrong .
-the pics showed on my screen , no problem , and i was able to download them to a portable hard-drive at the end of the day .
+the pics showed on my screen , no problem , and i was able to download them to a portable hard - drive at the end of the day .
 only when i was dowloading did i notice a problem .
-after the download my camera screen said `` card not formatted '' .
-anyway , now the pics are on my portable hard-drive , but i can not view them .
+after the download my camera screen said " card not formatted " .
+anyway , now the pics are on my portable hard - drive , but i can not view them .
 i try with the two programs i can use on my computer to view cr2 or raw files , and they both say that the format is not supported or the file is corrupted .
 the file extension is .
 cr2 , and in everyway these files have all the same properties as the others , but i can not view or open them .
 any suggestion on what i could do ?
 i have tried about 5 or 6 different file recovery software but none of them seem to help .
-by the way , my memory card was a promaster 4gb .
+by the way , my memory card was a promaster 4 gb .
 looking forwards to hearing advice , to recover these 250some pics !
 gaston

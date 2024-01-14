@@ -1,5 +1,5 @@
-sharp aquos lc-62c42u problem .
-was watching my aquos lc-62c42u today when the picture went blank .
+sharp aquos lc - 62c42u problem .
+was watching my aquos lc - 62c42u today when the picture went blank .
 the power & opc led 's blink twice , then the opc led blinks three times .
 tried turning off & on again , and unplugged the set for about an hour to no avail .
 any ideas ?

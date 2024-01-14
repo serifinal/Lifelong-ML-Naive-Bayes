@@ -1,7 +1,0 @@
-powershot sx30 lcd help ! .
-i bought a canon powershot sx30 and the lcd randomly inverts the colours -lrb- i.e. all blacks turn white , reds turn blue , etc. . . -rrb- .
-if i turn off the camera and turn it on again it 's fine .
-also , periodically , the lcd stops working properly , as in if i am trying to scroll through photos , or even take a photo , only the top 1/4 inch refreshes with the new image .
-the rest stays frozen -lrb- sometimes inverting the colours as well -rrb- .
-this seems like a real problem , but could it be a random setting that i accidentally hit ?
-i have n't changed any settings since i took it out of thte box other than put it into shutter priority !

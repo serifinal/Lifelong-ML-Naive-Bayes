@@ -1,5 +1,0 @@
-lx3 flash question ? .
-hi .
-i 'm using the lx3 that arrived today with some radio triggers to trigger external flashes .
-is there a way to set the inbuilt flash so that it fires only one flash -lrb- instead of the two it currently does -rrb- so i can use optical triggers ?
-well .

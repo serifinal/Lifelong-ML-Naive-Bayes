@@ -8,12 +8,12 @@ the ceiling is 8 feet .
 i 'll place the equipment rack underneath the stairs and i &#8217; ll access it from behind the seating area .
 the room is below the children &#8217; s bedrooms so sound isolation is my primary concern .
 in fact , i plan to use as much of my current equipment as possible and use the majority of my budget for isolation and acoustics .
-i plan to use dri-core for the subfloor and to stagger stud one wall -lrb- the rest are concrete , all will be dd+gg -rrb- and decouple the ceiling with -lrb- rsic , dd , gg -rrb- .
+i plan to use dri - core for the subfloor and to stagger stud one wall ( the rest are concrete , all will be dd+gg ) and decouple the ceiling with ( rsic , dd , gg ) .
 i also plan to use integrity gasket .
 i &#8217; m planning two rows with a riser for seating .
 the first row will be about 10.5 &#8217; from the screen and the second row will be 16.5 &#8217; .
-based on seating and room dimensions , i &#8217; m tentatively planning for a 110 &#8221; -115 &#8221; wide scope screen .
-i plan to use a grafik eye -lrb- 3106 or qs -rrb- for lighting control .
+based on seating and room dimensions , i &#8217; m tentatively planning for a 110 &#8221; - 115 &#8221; wide scope screen .
+i plan to use a grafik eye ( 3106 or qs ) for lighting control .
 other than research and planning , the only tasks we &#8217; ve completed are to clear out the room , secure a building permit , hvac rough in and recently , electrical rough in , so this thread is beginning at the &#8230; beginning .
 we started out wanting to clean up the front wall of our current family room set up , but after many months of research , we decided to go with a dedicated room .
 the room will be in the basement .
@@ -27,9 +27,9 @@ thanks to chinadog , jamis , oman , guam and queendvd for the idea .
 i hope it &#8217; s helpful .
 index &#8211; last edited on 2/26/10 1 .
 building permit , hvac and electric rough in 2 .
-low voltage/conduit plan 3 .
+low voltage / conduit plan 3 .
 frame electric breaker , telecom panels , lv rough in , integrity gasket and insulation 4 .
-rsic clips , hat channel and sump pump rerouting , battery back-up and alarm 5 .
+rsic clips , hat channel and sump pump rerouting , battery back - up and alarm 5 .
 solid core doors , jamb extensions and the 1st layer of drywall 6 .
 sound isolation boxes for the screen wall utility light and smoke detector and gg and 2nd layer of drywall 7 .
 rope caulk and spray insulation 8 .
@@ -57,10 +57,10 @@ solid core doors and ceiling rope light install 28 .
 minimalist screen wall 29 .
 chairs are in 30 .
 diy 111.5 &#8221; wide top hinged 2.35:1 scope screen build 31 .
-false wall/proscenium panel build and install 32 .
+false wall / proscenium panel build and install 32 .
 screen wall acoustic treatment with acoustic foam wedges 33 .
 equipment rack 34 .
 screenwall shots 35 .
 bd and hd screen shots 36 .
 finished room shots 37 .
-ed diy p7s-650 sub build finished room details dimensions &#8211; 11 &#8217; w -lrb- 13 &#8217; 2 &#8221; w in seating area -rrb- x 18 &#8217; 6 &#8221; l x 7 &#8217; 9 &#8221; h with 39 &#8221; behind false wall audio fronts &#8211; infinity beta 20 center &#8211; infinity beta 360 surrounds &#8211; axiom qs4 -lrb- 4 -rrb- subwoofers &#8211; ed p7s-650 ; infinity csw10 -lrb- 2 -rrb- video projector &#8211; jvc rs25 screen &#8211; diy seymour av 2.35:1 at 111.5 &#8221; wide electronics rack -lrb- top to bottom -rrb- avr &#8211; sony str-da3400es hdtv &#8211; directv hd20 media player &#8211; oppo bdp-83 power center &#8211; monsterpower hts2600 buttkicker amp &#8211; buttkicker bka 1000n -lrb- 2 -rrb- 7-channel amp &#8211; emotiva upa-7 accessories seating &#8211; 8 berkline 13175s in brown leather w / bks equipment rack &#8211; studiotech pa &#8211; 6 rack remote control &#8211; logitech harmony 900 lighting control &#8211; lutron graphik eye qs &#8211; 6 w / entrance switch acoustic treatment &#8211; foam factory acoustic wedges and bass traps current pictures added 09/20/09
+ed diy p7s - 650 sub build finished room details dimensions &#8211; 11 &#8217; w ( 13 &#8217; 2 &#8221; w in seating area ) x 18 &#8217; 6 &#8221; l x 7 &#8217; 9 &#8221; h with 39 &#8221; behind false wall audio fronts &#8211; infinity beta 20 center &#8211; infinity beta 360 surrounds &#8211; axiom qs4 ( 4 ) subwoofers &#8211; ed p7s - 650 ; infinity csw10 ( 2 ) video projector &#8211; jvc rs25 screen &#8211; diy seymour av 2.35:1 at 111.5 &#8221; wide electronics rack ( top to bottom ) avr &#8211; sony str - da3400es hdtv &#8211; directv hd20 media player &#8211; oppo bdp - 83 power center &#8211; monsterpower hts2600 buttkicker amp &#8211; buttkicker bka 1000n ( 2 ) 7 - channel amp &#8211; emotiva upa - 7 accessories seating &#8211; 8 berkline 13175s in brown leather w / bks equipment rack &#8211; studiotech pa &#8211; 6 rack remote control &#8211; logitech harmony 900 lighting control &#8211; lutron graphik eye qs &#8211; 6 w / entrance switch acoustic treatment &#8211; foam factory acoustic wedges and bass traps current pictures added 09/20/09

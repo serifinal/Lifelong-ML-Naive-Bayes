@@ -1,7 +1,7 @@
-panasonic txp42g30 mkv/mp4 playback video lag .
+panasonic txp42g30 mkv / mp4 playback video lag .
 hi everyone , just got my brand new g30 2 weeks ago and starting to watch some full hd rips from external hard drive on usb input .
-problem is , on some 1080p/i movies i get lags during playback ; sometimes only video , sometimes video and audio .
-so i am wondering if the tv can actually manage to decode such heavy movies -lrb- more than 8000kpbs for video bandwidth -rrb- .
+problem is , on some 1080p / i movies i get lags during playback ; sometimes only video , sometimes video and audio .
+so i am wondering if the tv can actually manage to decode such heavy movies ( more than 8000kpbs for video bandwidth ) .
 or will there be an update maybe doing with the firmware which will correct this ?
 i am currently thinking of buying a multimedia hd for fixing this .
 thanks for the help !

@@ -4,7 +4,7 @@ now she hates the iphone and wants her bb back .
 so today we swapped the sims and gave my wife the 3g .
 my question is this , she only uses data at home on the wifi and is a real technophobe .
 we do n't want to add the $ 30 data plan since she will never use it .
-are we running a risk of the phone `` calling home '' and using data when not on wifi .
+are we running a risk of the phone " calling home " and using data when not on wifi .
 last thing we want is to unknowingly incur a $ 100 + data charge .
 is there a way to turn off data usage when not on wifi ?
--lrb- already turned off location services , deactivated all mail and push notifications -rrb-
+( already turned off location services , deactivated all mail and push notifications )

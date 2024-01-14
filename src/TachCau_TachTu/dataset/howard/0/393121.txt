@@ -1,5 +1,5 @@
-ca n't sync outlook calendar to t-749 . .
-samsung sgh-t749 using new pc studio ver .
+ca n't sync outlook calendar to t - 749 . .
+samsung sgh - t749 using new pc studio ver .
 1.2.0 iec .
 when i try to sync outlook calendar with the phone calendar it runs out of memory .
 i do n't know if it is using the internal mem. , but i do n't see a way to direct it to use the sd card .

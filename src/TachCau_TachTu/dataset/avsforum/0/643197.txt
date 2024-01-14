@@ -1,5 +1,5 @@
 .
-i know that multi-channel pcm is technically the best solution for blu-rays because it allows full lossless 7.1 sound and it doesn &#8217; t have the &#8220; affects sound mixing &#8221; limitations that bit streaming does .
+i know that multi-channel pcm is technically the best solution for blu - rays because it allows full lossless 7.1 sound and it doesn &#8217; t have the &#8220; affects sound mixing &#8221; limitations that bit streaming does .
 however , is it also the best solution for gamers ?
 currently , you can use optical output with games and that will allow 2 channel pcm from stereo games and dd from games with dd .
 you can also allow the soundcard to use dd live to encode everything into dd .
@@ -8,8 +8,8 @@ you can also use 7.1 channel analog outputs .
 however , that will not allow you to use any of the affects in your receiver .
 your sound card would have to do all of the surround processing and any bass management .
 so would 7.1 channel pcm be ideal for games ?
-you could get lossless 2 channel pcm from stereo games and allow your receiver to do the surround processing with pliix or dts-neo .
-then for dd,dts,dd-truehd , and dts-ma you could just send the muti-channel pcm straight to the receiver with no quality loss .
+you could get lossless 2 channel pcm from stereo games and allow your receiver to do the surround processing with pliix or dts - neo .
+then for dd,dts,dd - truehd , and dts - ma you could just send the muti - channel pcm straight to the receiver with no quality loss .
 finally , if you have a game or movie in multi-channel pcm you could send that to the receiver with no quality loss .
 wouldn &#8217; t the new ati 4870 cards be the ideal solution even for the gamers out there ?
 it offers lossless audio for every situation and hdmi video for every situation .

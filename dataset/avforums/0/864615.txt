@@ -1,3 +1,0 @@
-hitachi 42pd7500 plasma fault .
-hi had a problem with my tv and thanks to forum replaced r003 on pcb which i found had gone open circuit .
-now i have no sound and digital tunner any ideas of other problems or have i forgotten to reconnect a plug to a pcb ?

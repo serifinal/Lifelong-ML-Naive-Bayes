@@ -1,4 +1,4 @@
 port blocking and blocking content is illegal with wireless as per crtc ruling .
-on june 30th 2010 the crtc ruled on telecom decision crtc 2010-445 this means port blocking is illegal .
-it is also illegal for wireless providers to slow -lrb- throttle -rrb- time sensitive data like voip or video conferencing ect . .
+on june 30th 2010 the crtc ruled on telecom decision crtc 2010 - 445 this means port blocking is illegal .
+it is also illegal for wireless providers to slow ( throttle ) time sensitive data like voip or video conferencing ect. .
 http://arstechnica.com/tech-policy/n...e-data-too.ars http://www.crtc.gc.ca/eng/archive/2010/2010-445.htm

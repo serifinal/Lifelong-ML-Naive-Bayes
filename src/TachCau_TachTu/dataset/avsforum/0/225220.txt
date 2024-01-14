@@ -1,6 +1,6 @@
 hdmi and svideo output at same time .
-i have two tvs , and old 32 '' crt with s-video in , and my mitsubishi 720p 1500 projector with hdmi in .
-i want my upcoming htpc -lrb- assuming it will be mythbuntu -rrb- to drive them both , because i try to limit using the projector .
+i have two tvs , and old 32 " crt with s - video in , and my mitsubishi 720p 1500 projector with hdmi in .
+i want my upcoming htpc ( assuming it will be mythbuntu ) to drive them both , because i try to limit using the projector .
 and my kids watch all their stuff on the 32 .
 is there a vid card with both hdmi and svid out that will work ?
 hopefully something that can display on both at the same time .

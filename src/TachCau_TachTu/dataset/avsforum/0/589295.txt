@@ -1,6 +1,6 @@
 how to acheive lpcm output over hdmi .
-i am running a asus p5n7a-vm and with the integrated nvidia 9300 i have been able to get hdmi audio working -lrb- nvidia 180.11 drivers and alsa 1.0.18 a -rrb- .
-however i can not get my setup to pass lpcm , 6-channel , to my reciever .
+i am running a asus p5n7a - vm and with the integrated nvidia 9300 i have been able to get hdmi audio working ( nvidia 180.11 drivers and alsa 1.0.18 a ) .
+however i can not get my setup to pass lpcm , 6 - channel , to my reciever .
 when playing a video with a 6 channel flac file in xbmc i am only getting 2 channels on my receiver .
 i have spent the last few days poking around the internet to see if anyone has successfully been able to pass lpcm in linux with the new nvidia integrated mobos like mine but i have n't been able to find any useful information .
 any suggestions on how to solve this problem ?

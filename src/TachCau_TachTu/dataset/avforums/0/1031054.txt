@@ -1,5 +1,5 @@
 samsung ps50c680 problem .
-hi , recently i entered the hotel mode mute-1-1-9-enter and followed the steps online to enter the extended menus .
-i enabled the 24p thingy and also srs tru sound/equalizer .
-i exited that setup menu , powered off the tv and then powered back on and now i have a problem with my remote ... arghhhh the numeric buttons dont function , either does source , prog up/down and ch list , although the tv picks up the ir signal from those buttons indicated by the light on the tv .
+hi , recently i entered the hotel mode mute -1-1-9-enter and followed the steps online to enter the extended menus .
+i enabled the 24p thingy and also srs tru sound / equalizer .
+i exited that setup menu , powered off the tv and then powered back on and now i have a problem with my remote ...... arghhhh the numeric buttons do nt function , either does source , prog up / down and ch list , although the tv picks up the ir signal from those buttons indicated by the light on the tv .
 please can someone help with this issue

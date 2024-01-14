@@ -1,7 +1,7 @@
-mms -lrb- picture messaging -rrb- on tmobile samsung galaxy s vibrant .
+mms ( picture messaging ) on tmobile samsung galaxy s vibrant .
 hey guys , set up my apn or wind mms and data .
 data works , mms does n't .
-pictures are stuck , saying `` sending ... '' or `` downloading ... '' .
+pictures are stuck , saying " sending ... " or " downloading ... " .
 as i try resending , some eventually say failed .
-apparently this is a vibrant-specific problem .
+apparently this is a vibrant - specific problem .
 anyone know how to resolve this ?

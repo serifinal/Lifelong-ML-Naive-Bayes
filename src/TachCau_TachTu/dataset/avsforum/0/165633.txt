@@ -1,20 +1,20 @@
 need help with antenna in remote area .
 we have a channel master cm3671 and cm7778 set up on our property near clare michigan to get the football games etc. when we 're up there camping .
-we have a 19 '' hdtv and an old voom satellite box that we use as a digital tuner .
+we have a 19 " hdtv and an old voom satellite box that we use as a digital tuner .
 it all runs on a generator as there is no electricity , plumbing , buildings , anything .
 we do have the basics though ... food , shelter , tv .
 this was all put together on the cheap as it gets used on a limited basis .
 we 've lived with mostly analog for a few of the big networks but that needs to change or we have to find an alternative .
-the cost of the solution has to be considerably cheaper than the backup plan which is to buy a satellite dish/box and pay for service a couple months out of the year .
+the cost of the solution has to be considerably cheaper than the backup plan which is to buy a satellite dish / box and pay for service a couple months out of the year .
 we 're very close to getting the major networks out of flint .
 which is about 55 miles to the south east .
 we can watch abc in full hd glory but the signal drops out so much that it 's actually better to watch it in analog .
 i think our problems are twofold .
 first , the antenna is only about 8 ' above the ground .
-we 've attached a 10 ' piece of 1 1/2 '' conduit to a post that was already there .
+we 've attached a 10 ' piece of 1 1/2 " conduit to a post that was already there .
 it 's very stable but not very tall .
 second , there is a stand of at least 40 ' pine trees 75 ' to the west .
-it 's about 100 ' wide and about a 1/4 mile long , running north-south .
+it 's about 100 ' wide and about a 1/4 mile long , running north - south .
 it 's essentially a wall of trees .
 from what i 've been reading , i 'm thinking there might be some multi-path interference from the trees .
 i 'm planning on being up there next weekend with the intention of doing something about the antenna .

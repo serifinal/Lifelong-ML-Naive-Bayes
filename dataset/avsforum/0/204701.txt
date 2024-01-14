@@ -1,8 +1,0 @@
-intel g35 chipset doesnt have 1280x960 and 1280x720 .
-i have purchased a asus p5e-wv hdmi motherboard with the intel g35 chipset and have connected it to a lg 42px5d 42 '' plasma tv .
-the ideal resolutions to get the best output from my tv are 1366x768 or 1280x768 .
-however , i do not have the option to select these resolutions and the closest is 1280x960 and 1280x720 which are not compatbiel with my tv .
-1280x720 is not compatible with plasma so i 'm currently using 1280x960 .
-i have downloaded the latest drivers and installed winvista_1582bb.exe but still do n't have these resolutions avaialable .
-i have tried unticking `` hide modes that this monitor does not support '' and have tried `` list all modes '' to no avail .
-could anyone please help me and tell me how to add these resolutions ?

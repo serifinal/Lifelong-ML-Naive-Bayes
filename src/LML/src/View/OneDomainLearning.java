@@ -29,11 +29,11 @@ public class OneDomainLearning {
         xNeg = new MyHashMap();
         dictionary = new MyHashMap();
         Library library = new Library();
-        //Đọc dữ liệu từ dataset rồi lưu vào các domain
+        //Đọc dữ liệu từ folder dataset rồi lưu vào domain
         domainData = library.readAllDomainData();
     }
 
-    //Đọc nội dung trong file rồi lưu list path
+    //Đọc nội dung file chia fold rồi lưu list path
     public List<String> readLF(File f) throws FileNotFoundException {
         List<String> ans = new ArrayList<>();
         Scanner scanner = new Scanner(f);
@@ -48,17 +48,18 @@ public class OneDomainLearning {
         File fTrain = new File("testing//" + test + "_Train.txt");
         File fTest = new File("testing//" + test + "_Test.txt");
 
-        //List các file path dùng để train
+        //List path các file dùng để train
         List<String> lfTrain = readLF(fTrain);
-        //List các file path dùng để test
+        //List path các file dùng để test
         List<String> lfTest = readLF(fTest);
 
         System.out.print("TEST DOMAIN: " + targetDomain + " / FOLD: " + fold + " : ");
-        //Lấy ra cặp file train và file test
+        //Lấy ra cặp List file train và test theo fold
         Pair<List<Document>, List<Document>> pair = domainData[targetDomain].getDataFoldDivide(lfTrain, lfTest);
-        //Lấy file train
+
+        //List các file dùng để train
         List<Document> trainData = pair.getSecond();
-        //Lấy file test
+        //List các file dùng để test
         List<Document> testData = pair.getFirst();
 
         // Build model
@@ -77,24 +78,24 @@ public class OneDomainLearning {
 
         for (Document document : trainData) {
             if (document.getDocumentLabel() == 0) {
-                //Thêm số văn bản (-)
+                //Đếm số văn bản mang nhãn âm (-)
                 ++numNegativeDocument;
             } else {
-                //Thêm số văn bản (+)
+                //Đếm số văn bản mang nhãn dương (+)
                 ++numPositiveDocument;
             }
             for (String word : document.getListWord().getListKeys()) {
                 if (document.getDocumentLabel() == 0) {
-                    //Cập nhật xNeg
+                    //Thêm xNeg
                     xNeg.putAdd(word, document.getListWord().get(word));
                 } else {
-                    //Cập nhật xPos
+                    //Thêm xPos
                     xPos.putAdd(word, document.getListWord().get(word));
                 }
             }
         }
 
-        //Trích chọn đặc trưng
+        //Trích chọn đặc trưng trong train data
         FeatureSelection featureSelection = new FeatureSelection(trainData, 1500);
         //List lưu 1500 đặc trưng tốt nhất
         List<String> listFeatureSave = featureSelection.getListFeatureSave();
@@ -165,17 +166,17 @@ public class OneDomainLearning {
 
     //Naive Bayes
     public int predictLabel(Document di) {
-        //P(+) = (N+) / (N)
+        //log P(+) = log (N+) - log(N)
         double pPos = Math.log(numPositiveDocument) - Math.log(numPositiveDocument + numNegativeDocument);
-        //P(-) = (N-) / (N)
+        //log P(-) = log(N-) - log(N)
         double pNeg = Math.log(numNegativeDocument) - Math.log(numPositiveDocument + numNegativeDocument);
         for (String word : di.getListWord().getListKeys()) {
             if (dictionary.get(word) > 0) {
                 //Số lần xuất hiện của 1 từ trong văn bản d1
                 long numWord = (long) di.getListWord().get(word);
-                //Xác suất để di mang nhãn dương
+                //Xác suất để di mang nhãn dương : log P(+) + sum logP(x_i|+)
                 pPos = pPos + numWord * getpPos(word, sumPos);
-                //Xác suất để di mang nhãn âm
+                //Xác suất để di mang nhãn âm : log P(-) + sum logP(x_i| -)
                 pNeg = pNeg + numWord * getpNeg(word, sumNeg);
             }
         }

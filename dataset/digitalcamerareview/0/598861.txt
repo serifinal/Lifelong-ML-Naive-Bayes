@@ -1,7 +1,0 @@
-ca n't dl images .
-bought a brand new s2 .
-installed software twice -lrb- v 24.0 -rrb- and rebooted .
-selected image -lrb- s -rrb- -lrb- they appear on both lcd and pc -rrb- and software hangs when i try to dl then says `` camera can not be found '' and software crashes .
-tried two different memory cards with same result .
-using xp/sp2 , athlon xp 2700 , abit va-10 mobo .
-any suggestions ?

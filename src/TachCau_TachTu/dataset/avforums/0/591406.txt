@@ -1,6 +1,6 @@
-pioneer pdp-5040hd shuts off when receiver is plugged in .
-someone gave me a pdp-504pu / pdp-5040hd without the receiver .
-i found a pdp-r03u on craigslist without reading that they might not work together .
+pioneer pdp - 5040hd shuts off when receiver is plugged in .
+someone gave me a pdp - 504pu / pdp - 5040hd without the receiver .
+i found a pdp - r03u on craigslist without reading that they might not work together .
 will this receiver work with my display ?
 the problem i 'm having is that when i have the system cables connected and i plug the power cable for the receiver into the wall , the standby light on the tv turns off and wo n't turn on .
 any suggestions ?

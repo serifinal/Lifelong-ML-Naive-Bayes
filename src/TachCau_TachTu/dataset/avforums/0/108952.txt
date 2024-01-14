@@ -1,41 +1,41 @@
 showing sub-titles on panasonic vt30 .
-i am using the media player / dlna link to `` stream '' content from my mac .
+i am using the media player / dlna link to " stream " content from my mac .
 now , with .
 mkv format files , sub-titles play just fine .
-the sub-title file -lrb- s -rrb- appear in the panny `` option '' menu , i can select them , they just work as they should .
+the sub-title file ( s ) appear in the panny " option " menu , i can select them , they just work as they should .
 however , when i try the same thing with a .
-mp4 -lrb- .
-m4v -rrb- file , it just does n't does n't work .
+mp4 ( .
+m4v ) file , it just does n't does n't work .
 the sub-titles files are .
 srt files and stored in same folder , with same filename , just the file extension is changed from .
 mp4 to .
 srt note also i have tried experimenting with putting the files on an sd card .
-exactly same result i.e. 1 -rrb- .
-mkv files show sub-titles perfectly 2 -rrb- .
-mp4 -lrb- .
-m4v -rrb- files refuse to ever show sub-titles , they never appear in option menu .
+exactly same result i.e. 1 ) .
+mkv files show sub-titles perfectly 2 ) .
+mp4 ( .
+m4v ) files refuse to ever show sub-titles , they never appear in option menu .
 i have latest firmware on the panny .
 the only conclusion i can draw is that the panny can not show sub-titles for .
-mp4 format files ... .
+mp4 format files ..... .
 but that sounds so stupid ... .
 it just ca n't be true .
 but i have tried every option i can think of , and never been able to show sub-titles on .
-mp4 -lrb- .
-m4v -rrb- content , and with .
+mp4 ( .
+m4v ) content , and with .
 mkv , it works every time .
-this is a really unfortunate state of affairs for me because : a -rrb- all my content is in .
+this is a really unfortunate state of affairs for me because : a ) all my content is in .
 mp4 format , and that was a deliberate choice because of playback issues on other devices i have .
 i would hate to have to re-encode all content i need sub-titles on in .
 mkv format .
-b -rrb- i really really need sub-titles .
+b ) i really really need sub-titles .
 a lot of my friends are thai and are happy to watch content in english , as long as the thai text pops up at the bottom of the screen so what to do ?
 has anyone actually got sub-titles showing on .
 mp4 content via sd card or dlna ?
 this is driving me bonkers !!!
-and my only only issue with the tv , its just perfect apart from this issue , so maybe i should count myself lucky after reading so much apart `` green blobs '' etc. .
+and my only only issue with the tv , its just perfect apart from this issue , so maybe i should count myself lucky after reading so much apart " green blobs " etc. .
 any help / ideas / welcome .
 forgot to mention : when playing .
 mp4 files locally on mac using vlc or similar , the sub-titles show up just fine .
 there is nothing wrong with the .
 srt files .
-love to hear from panasonic on this ...
+love to hear from panasonic on this .....

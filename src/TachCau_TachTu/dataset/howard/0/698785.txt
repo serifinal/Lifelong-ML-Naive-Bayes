@@ -1,4 +1,4 @@
-change default save location on samsung gravity -lrb- sgh-t469 -rrb- .
+change default save location on samsung gravity ( sgh - t469 ) .
 i recently gave my mom a gravity , and am having trouble figuring out how to set her camera to save to the sd card by default .
-is this feature/setting missing from this phone ?
+is this feature / setting missing from this phone ?
 anything i can do about it ?

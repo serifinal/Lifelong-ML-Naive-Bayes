@@ -1,9 +1,0 @@
-panasonic 42c3 3 vs 0 me .
-good day , i heard about this forum from a friend and hopefully you guys will be able to provide me some help , because i almost went mental this weekend .
-i just bought a panasonic 42c3 plasma tv and when i tried to connect it to my pc it did not work .
-i bought a minihdmi - hdmi adapter , hdmi cable .
-basically everything i need to get the job done .
-when i try to connect to it with my pc it will not find it .
-i should specify that the video card i am trying to connect the plasma is an asus nvidia gtx470 , and the operating system is windows 7 on 64 bit .
-hopefully you can help me out of this jam .
-thank you for your time .

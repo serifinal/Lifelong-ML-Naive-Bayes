@@ -1,7 +1,7 @@
 port blocking status ? .
 can anyone tell me the status on the port blocking issue ?
 i have n't seen anything on it for a while and am wondering whether i simply missed it .
-last i heard -lrb- quite a while ago -rrb- wind was taking a white list approach -lrb- which we all seemed to agree was the incorrect approach -rrb- , and there were still a number of applications having problems due to this .
+last i heard ( quite a while ago ) wind was taking a white list approach ( which we all seemed to agree was the incorrect approach ) , and there were still a number of applications having problems due to this .
 is that still the case ?
-is wind hell-bent on continuing with a white-list approach ?
-has wind even explained why it needs to do this -lrb- which we all seem to agree is unnecessary from a security point of view -rrb- .
+is wind hell - bent on continuing with a white - list approach ?
+has wind even explained why it needs to do this ( which we all seem to agree is unnecessary from a security point of view ) .

@@ -1,6 +1,6 @@
 google nexus one : 3g for wind only .
-for those interested in the highly anticipated `` google phone '' .
-the specs were a bit fuzzy before , but it 's been confirm that it only has 3g for aws -lrb- t-mobile us and wind -rrb- .
-so it wo n't work on telus or bell at all and only 2g on rogers/fido and at&t .
+for those interested in the highly anticipated " google phone " .
+the specs were a bit fuzzy before , but it 's been confirm that it only has 3g for aws ( t - mobile us and wind ) .
+so it wo n't work on telus or bell at all and only 2g on rogers / fido and at&t .
 it 's also missing multi-touch .
 http://androidcommunity.com/google-n...maps-20091218/ http://www.engadget.com/2009/12/18/g...ks-multitouch/

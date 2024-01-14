@@ -1,9 +1,9 @@
 i made diy 2.40:1 masking for my 1.85:1 screen .
 this is my second home theater .
 in my first i made my screen in a 4:3 aspect ratio but quickly discovered that i was waching a lot of dvd 's and converted it to 1.85:1 .
-this was great if movies were in that ratio but the black space above and below the image -lrb- actually gray space -rrb- was always something that i could do without .
+this was great if movies were in that ratio but the black space above and below the image ( actually gray space ) was always something that i could do without .
 in my current ht i made a 1.85:1 screen to maximize the image size when watching hdtv , something i did not have to consider on my first ht 5 years ago .
-now that i have a 1.85:1 screen i love it with hdtv and blu-rays and dvd 's that are in that ratio .
+now that i have a 1.85:1 screen i love it with hdtv and blu - rays and dvd 's that are in that ratio .
 but as you all know most movies these days are 2.35:1 or it seems even more common 2.40:1 .
 so for the last year i have been thinking of ways i could maintain my 1.85:1 screen for hdtv and movies in that ratio but also rid myself of the gray space above and below the image when viewing 2.35 or 2.40:1 movies .
 today i finally solved my problem .
@@ -23,7 +23,7 @@ i would cut each of the 2 masks from each of the 2 long ends of the foam , that 
 but how would i keep these masks in place ?
 my first thought was that it would be great if they fit inside my screen frame tightly by friction alone .
 i grabbed some velcro just in case and then got a roll of masking tape to secure the velvet onto the foam , and a utility knife to cut the foam .
-i got home and projected a 2.40:1 blu-ray on to my screen and measured the bars , they were approximately 5 inches tall each .
+i got home and projected a 2.40:1 blu - ray on to my screen and measured the bars , they were approximately 5 inches tall each .
 so i cut the 2 masks to 5 1/4 inches tall each and exactly 77 3/4 wide which is the inside dimensions of my frame .
 i figured the velvet on top of the foam would ensure a tight fit even if i made the mask the exact same width as the inside dimension of the frame .
 next i covered the mask with the velvet left over from covering the frame when i made this screen , of course this added the additional benefit of the masks matching the frame exactly .
@@ -43,7 +43,7 @@ would i change anything or do anything different ?
 well the velvet does not fit as tight around the masks as i would ideally like .
 this is due to the fact that i had to use masking tape to secure it , i could not think of a better way to attach velvet to foam .
 still it looks 95 % great with a few areas along the edges of the mask that are less than perfectly sharp .
-overall i am thrilled with this mod/upgrade and highly recommend it to all diy screen builders .
+overall i am thrilled with this mod / upgrade and highly recommend it to all diy screen builders .
 total cost for this upgrade was $ 7.50 for the foam , $ 2.50 for the masking tape , $ 1.96 for the utility knife and the original cost of the velvet that i bought a year ago .
 so i guess i spent about $ 20 total including the velvet but i think i am overestimating .
 photos : this is the screen as it was in 1.85:1 ratio with no masks .

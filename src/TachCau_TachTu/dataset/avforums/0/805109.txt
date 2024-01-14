@@ -1,6 +1,6 @@
-tx-p42s30b overscan + freeview tuner/hdmi issue .
+tx - p42s30b overscan + freeview tuner / hdmi issue .
 just got the tv setup and have been going quickly through the menus setting everything up .
-on my last set -lrb- th-50pz80b -rrb- i had overscan on for sd content and off for hd content on sky , as with it off , hd content perfectly filled the screen .
+on my last set ( th - 50pz80b ) i had overscan on for sd content and off for hd content on sky , as with it off , hd content perfectly filled the screen .
 but with this set , once i switch overscan off i 'm left with a half centimetre gap all the way around the screen edge which is very noticeable compared to my own set .
 not least because you see horrible edge artifacts amongst other things .
 is there a way to adjust this further , as it just does n't seem right at the moment .

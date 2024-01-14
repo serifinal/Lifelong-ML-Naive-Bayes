@@ -1,4 +1,0 @@
-panasonic viera clock display .
-i need the clock to be displayed at all times the unit is turned on .
-how can i get the clock to be displayed and only the clock ?
-thanks , dan

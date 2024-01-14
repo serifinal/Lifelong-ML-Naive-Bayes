@@ -1,4 +1,4 @@
 panasonic th42pz80 screen colour fault .
 hi , i know its not the latest model but does anyone know what may be causing my pz80 to randomly have colour issues ?
 its done in 2 times in the past few weeks , the first time just for 30 seconds or so but yesterday it stayed like it but is back to normal today .
-its like this picture taken from another thread -lrb- its ok at the moment so ca n't get a picture of mine buts its the same -rrb- things are green when they are usually blue or black and similar .
+its like this picture taken from another thread ( its ok at the moment so ca n't get a picture of mine buts its the same ) things are green when they are usually blue or black and similar .

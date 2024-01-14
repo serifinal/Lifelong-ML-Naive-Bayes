@@ -1,17 +1,17 @@
 arcsoft tmt and mymovies = great !!! .
-just want to share with everyone that has vmce and my movies and it thinking of going blu-ray/hd-dvd soon to just do it .
+just want to share with everyone that has vmce and my movies and it thinking of going blu - ray / hd - dvd soon to just do it .
 arcsoft made what i have been looking for all along .
-i now am streaming my blu-ray movies to two of my other rooms from my server with no problems .
+i now am streaming my blu - ray movies to two of my other rooms from my server with no problems .
 i have been working on the best way for a while now .
 at first i used power dvd and mounted the iso 's but it was n't as easy and did n't have the intergraded look i wanted .
-then i took out the dvd players and converted my blu-ray movie to .
+then i took out the dvd players and converted my blu - ray movie to .
 mkv and used codec?s .
 that was a nightmare .
 i know some people have had no problems but i did .
 today i installed acrsoft tmt and updated with the latest update and everything is running super smooth .
-i can stream blu-ray to both rooms at the same time no problem .
-as for cpu usage my bedroom htpc has a 2.0 ghz intel dual core with an 8600gt card running at 10-15 % cpu only .
-my living room htpc is an amd dual core @ 2.5 ghz with an older 7900gt running about 15-20 % cpu usage .
+i can stream blu - ray to both rooms at the same time no problem .
+as for cpu usage my bedroom htpc has a 2.0 ghz intel dual core with an 8600gt card running at 10 - 15 % cpu only .
+my living room htpc is an amd dual core @ 2.5 ghz with an older 7900gt running about 15 - 20 % cpu usage .
 i am so happy everything is working so great .
 i will recommend arcsoft tmt to everybody i know .
 hope this helps some of you who were ready to jump ship .

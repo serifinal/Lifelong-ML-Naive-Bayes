@@ -1,8 +1,8 @@
-samung 4095 1080 display issue w/pics .
+samung 4095 1080 display issue w / pics .
 hey all , i purchased the samsung 4095 40 inch 1080p set about 18 months ago and all was well until about 30 days or so ago i noticed that there was some discoloration present on the screen .
 the discoloration appears as a green haze on the screen depending on what is displayed .
 it appears to move / sparkle depending what is being displayed .
-it also is most noticeable on dark-black screens .
+it also is most noticeable on dark - black screens .
 this seemed to be hit or miss for a while and i had a hard time reproducing it .
 but time has changed that and now i can get it to display the discoloration most of the time .
 it is input independent and i have duplicated over hdmi and coax inputs .

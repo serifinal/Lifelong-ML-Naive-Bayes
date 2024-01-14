@@ -1,4 +1,0 @@
-nvidia 177.66 with video level adjustment .
-it looks like a new nvidia driver for all cards is out with video level adjustments in the control panel is available .
-would anyone care to try it out ?
-direct link : http://www.tcmagazine.com/comments.p...=20802&catid=3 thread : http://www.nvnews.net/vbulletin/showthread.php?t=116222

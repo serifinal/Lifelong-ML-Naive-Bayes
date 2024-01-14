@@ -5,7 +5,7 @@ please report how much faster the browser is compared to ipad , iphone 3gs . .
 thanks want to upgrade manually yourself ?
 download the android 2.2 firmware for the nexus one ?
 here is the link to download http://bit.ly/acdbwh rename the file update.zip and copy it to your microsd card via usb .
--lsb- note : make sure the file is named update.zip and not update.zip.zip . -rsb-
+[ note : make sure the file is named update.zip and not update.zip.zip . ]
 power down your nexus one hold down the ?
 volume down ?
 button as you power the phone back on .

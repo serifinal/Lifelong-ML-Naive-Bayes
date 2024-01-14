@@ -6,17 +6,17 @@ somewhere we can read about more subfields and more levels , somewhere we can re
 so , in the absence of accurate information , i decided to make a timewarp of one pdp to find out .
 i want to point out that i made it just out of curiosity , because i 'm a kind of technical guy , and not to start a war lcd against pdp .
 i 'm quite satisfied with the tv , i just wanted to find out how it works .
-in this case , it was panasonic tx-p42ut30e .
-it 's an european model , placed below gt30 , lacking recording and color management options -lrb- compared to gt30 -rrb- , but featuring g14 panel , 3d etc. .
-a timewarp was performed using quite cheap equipment , on old canon 400d dslr , using its mechanical rolling shutter feature to record individual subframes on red , green and blue gradient , displayed on the tv at 24fps using built-in media player .
-in that case , it is displayed at refresh rate 60 hz , using 3:2 pulldown , as it seems that tv ca n't display 24p video using 48 or 96 hz from built-in player -lrb- so 24p smooth movie feature is not available -rrb- .
-made about a hundred photos in 3fps burst mode , using the shortest exposure of 1/4000 -lrb- for blue -rrb- or 1/2000 -lrb- for red and green -rrb- and stitched them all together in one big image -lrb- hence some imperfections -rrb- illustrating how a single frame is actually displayed .
+in this case , it was panasonic tx - p42ut30e .
+it 's an european model , placed below gt30 , lacking recording and color management options ( compared to gt30 ) , but featuring g14 panel , 3d etc. .
+a timewarp was performed using quite cheap equipment , on old canon 400d dslr , using its mechanical rolling shutter feature to record individual subframes on red , green and blue gradient , displayed on the tv at 24 fps using built - in media player .
+in that case , it is displayed at refresh rate 60 hz , using 3:2 pulldown , as it seems that tv ca n't display 24p video using 48 or 96 hz from built - in player ( so 24p smooth movie feature is not available ) .
+made about a hundred photos in 3 fps burst mode , using the shortest exposure of 1/4000 ( for blue ) or 1/2000 ( for red and green ) and stitched them all together in one big image ( hence some imperfections ) illustrating how a single frame is actually displayed .
 on attached picture , x-axis is duration of one 60 hz frame .
 y axis is intensity of displayed color , with black on the top and maximum intensity at the bottom , so it 's evident which subfields are used to display various intensities of red , green and blue .
 contrast was set to maximum and eco mode was off , so tv produced maximum available brightness well ... it turned out that engineers in panasonic did an excellent good job , because a really good picture coming from this tv is achieved by only several thousand possible colors per one 60 hz frame , as nobody noticed that .
 also , i ca n't find expected ten subframes .
 there are 8 subframes for red and green , and 7 for blue - at least to display a full range of individual red , green and blue color at 60 hz refresh rate .
 also , it 's evident that only a small part of combinations of that subfields are actually used , so number of total colors within a single frame is several thousand at best .
-everything else is achieved by strong usage of temporal and spatial dithering , which is clearly visible on the photos -lrb- evident from the enlarged photo of one green subfield -rrb- it 's interesting that usage of subrafmes is quite different when reproducing 25 or 50 hz pal video , with even less possible colors .
+everything else is achieved by strong usage of temporal and spatial dithering , which is clearly visible on the photos ( evident from the enlarged photo of one green subfield ) it 's interesting that usage of subrafmes is quite different when reproducing 25 or 50 hz pal video , with even less possible colors .
 i did n't test 3d mode , but according to panasonic brochure , in 3d modes subframes are reversed , with longest first and shortest last , to reduce ghosting caused by phosphor decay also , it 's visible that there is still a big difference in decay time between red , green and blue phosphor , with green being the slowest .
 alex

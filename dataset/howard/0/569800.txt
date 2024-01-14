@@ -1,6 +1,0 @@
-wind mms settings ? .
-i tested a new wind bb 9700 and i was able to send an mms from it to a rogers phone .
-however , i am unable to do so with my nexus one .
-i added mms.windmobile.ca to the mms apn - but that did n't make it work .
-does anyone have the settings ?
-thanks .

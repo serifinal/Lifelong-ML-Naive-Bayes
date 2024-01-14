@@ -1,7 +1,7 @@
 file size of photos .
 i bought a canon sx110 a couple of weeks ago and i noticed that the first bunch of pictures i took had a .
-jpg file size of between 1.8 mb to 2.5 mb ... .
-and then after i fiddles with things a bit the file sizes are much larger now , bgetting up over 5mb .
+jpg file size of between 1.8 mb to 2.5 mb .... .
+and then after i fiddles with things a bit the file sizes are much larger now , bgetting up over 5 mb .
 is this normal ?
 the sizes seem kinda large to me .
 taking a variety of color and b&w fotos with different zooms .

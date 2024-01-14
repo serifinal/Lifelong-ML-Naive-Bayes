@@ -1,37 +1,36 @@
-motorola droid faq & tips-and-tricks .
+motorola droid faq & tips - and - tricks .
 post your questions and tip here . .
 use this thread to post questions , answers , and tips about using the motorola droid .
-such as `` how do i sync contacts '' or `` here 's a suggestion ... '' ----------------- updated : going into the programming menu : dial ## program , send , enter 000000 , verify 1-for pictures , they 'd go best in the dcim folder .
-inside that you can keep your images organized however you want and they 'll retain that organization in your `` gallery '' folder .
-2-for music , you can put them wherever you want -lrb- i made a `` music '' folder -rrb- .
-3-to set any audio file as a ringtone , open it in the `` music '' player and push the menu button .
+such as " how do i sync contacts " or " here 's a suggestion ... " ----------------- updated : going into the programming menu : dial ## program , send , enter 000000 , verify 1 - for pictures , they 'd go best in the dcim folder .
+inside that you can keep your images organized however you want and they 'll retain that organization in your " gallery " folder .
+2 - for music , you can put them wherever you want ( i made a " music " folder ) .
+3 - to set any audio file as a ringtone , open it in the " music " player and push the menu button .
 you 'll have an option to set it as a ringtone .
-4-if you want custom `` notifications '' -lrb- for mms/sms/e-mail -rrb- you 'll need to create a `` notifications '' folder and drop the audio files in there .
+4 - if you want custom " notifications " ( for mms / sms / e-mail ) you 'll need to create a " notifications " folder and drop the audio files in there .
 they 'll then show up on the list in your settings .
 -------------------- home screen icons press and hold on screen to add icons , shortcuts , widgets or to remove them b dragging to trash at the bottom .
-application switcher press and hold on the home button speed dial tip http://howardforums.com/showpost.php...74&postcount=7 battery tips http://howardforums.com/showpost.php...2&postcount=24 message alert tones http://howardforums.com/showpost.php...5&postcount=26 setting up yahoo! http://howardforums.com/showpost.php...6&postcount=95 adding folders http://howardforums.com/showpost.php...&postcount=108 sdcard setup for file locations http://howardforums.com/showpost.php...&postcount=180 assign ringtone to contact http://howardforums.com/showpost.php...&postcount=210 sms/mss to email http://howardforums.com/showpost.php...&postcount=211 change voicemail * 86 http://howardforums.com/showpost.php...&postcount=237 ------------------------------------ for those of you haveing mms problems : i was in the same boat earlier today -lrb- when i tried to send one for the first time -rrb- .
+application switcher press and hold on the home button speed dial tip http://howardforums.com/showpost.php...74&postcount=7 battery tips http://howardforums.com/showpost.php...2&postcount=24 message alert tones http://howardforums.com/showpost.php...5&postcount=26 setting up yahoo! http://howardforums.com/showpost.php...6&postcount=95 adding folders http://howardforums.com/showpost.php...&postcount=108 sdcard setup for file locations http://howardforums.com/showpost.php...&postcount=180 assign ringtone to contact http://howardforums.com/showpost.php...&postcount=210 sms / mss to email http://howardforums.com/showpost.php...&postcount=211 change voicemail * 86 http://howardforums.com/showpost.php...&postcount=237 ------------------------------------ for those of you haveing mms problems : i was in the same boat earlier today ( when i tried to send one for the first time ) .
 i could receive but not send .
 i called vzw tech support and ended up figuring out the problem for him ... lol .
 for some reason i was able to send him a mms but none of my contacts .
 that was the connection .
-my contacts as exported through gmail from windows mobile had a number format like 1 -lrb-123-rrb- 123-1234 .
+my contacts as exported through gmail from windows mobile had a number format like 1 (123) 123-1234 .
 they worked fine for calling and text messaging so you 'd think they 'd work for mms too right ?
 nope .
 i picked up on this because i put in the verizon tech support guys number like 1231231234 .
-after deleting one of my contacts and entering the number in like this ... it still did n't work ... for some reason the phone remembered that it had been a contact .
+after deleting one of my contacts and entering the number in like this ..... it still did n't work .... for some reason the phone remembered that it had been a contact .
 after clearing the message thread and restarting the phone it worked .
 so to get your mms working , give this a try .
 1 .
 delete any saved message thread , including sms ones , for the contatct you would like to try to mms .
 2 .
 then go to edit your contacts phonenumber .
-just enter the 10 digit number whout a leading 1 and without any parenthesis ... let the phone put the dashes in for you .
+just enter the 10 digit number whout a leading 1 and without any parenthesis .... let the phone put the dashes in for you .
 3 .
--lrb- if you did n't have to delete a previous thread skip this step -rrb- restart your phone .
+( if you did n't have to delete a previous thread skip this step ) restart your phone .
 4 .
 try mms .
 it worked for me and now i 'm going back through all my contacts to fix the number format on all of them .
------------------- here is what worked for me , but we are a small business with an exchange 2003 server : domain \ username : abc-corp \ jsmith -lrb- server domain plus my server username -rrb- password : ******* -lrb- server password -rrb- exchange server : mail.abc-corp .
-com -lrb- after trying a few things that did n't work i gave up and simply directed it to mail at our domain and then the emails started rolling in -rrb- it was seriously so easy that it only took me a couple of hours to realize it with the help of this thread .
+------------------ here is what worked for me , but we are a small business with an exchange 2003 server : domain \ username : abc - corp \ jsmith ( server domain plus my server username ) password : ******* ( server password ) exchange server : mail.abc-corp.com ( after trying a few things that did n't work i gave up and simply directed it to mail at our domain and then the emails started rolling in ) it was seriously so easy that it only took me a couple of hours to realize it with the help of this thread .
 i was unable to get in contact with our outside it people today and the new phone-itis was driving me crazy .
 hopefully , you will find your work around soon .

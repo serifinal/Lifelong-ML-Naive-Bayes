@@ -1,4 +1,4 @@
-fs : google nexus one -lrb- 850/1900 3g bands -rrb- .
+fs : google nexus one ( 850/1900 3g bands ) .
 i have an unlocked nexus one with unlocked bootloader in excellent condition for sale .
 it comes with original box and accessories .
 it has the original shipping firmware installed .

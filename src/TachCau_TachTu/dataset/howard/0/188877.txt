@@ -1,2 +1,2 @@
 e66 torch .
-any apps that turns on the flash as a torch , ive tried brightlight , didnt even launch and s60 torch , it only turns on the light halfway
+any apps that turns on the flash as a torch , ive tried brightlight , did nt even launch and s60 torch , it only turns on the light halfway

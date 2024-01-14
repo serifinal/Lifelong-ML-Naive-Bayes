@@ -1,8 +1,8 @@
-ps51d6900 and poor scaling -lrb- compared to d8000 -rrb- .
+ps51d6900 and poor scaling ( compared to d8000 ) .
 good morning !
 on hdtvtest the d6900 does n't get any compliments , when it comes to scaling of standard definition .
 especially compared to the d8000 ... is it really that bad ?
-or was it a software/firmware problem and is already solved ?
-is anybody in the position , to compare the scaling of the d6900 with the d8000 -lrb- or d7000 -rrb- ?
+or was it a software / firmware problem and is already solved ?
+is anybody in the position , to compare the scaling of the d6900 with the d8000 ( or d7000 ) ?
 thx for ur help !
 i would like to buy the d6900 , but most of my contend is still standard definition and the tv should be able to handle it !

@@ -1,4 +1,0 @@
-bell 's apn 's .
-so my 9700 was set to pda.bell.ca , ran a few speed tests and ranged from 2600-4600kbs tried pda2.bell.ca as i saw that on a recent post here and my speeds are 6400-8300kbs .
-is this pda2.bell.ca a test apn or is it being used by the public ?
-thanks

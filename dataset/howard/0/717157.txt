@@ -1,7 +1,0 @@
-receiving old text messages .
-hello , a friend of mine has an iphone and i regularly send text messages to him via xxxxxxxxxx@txt.att.net, from my work email server .
-last weekend or so i received failure notices from cingularme.com .
-now he receives several old text -lrb- maybe 3 months old -rrb- every time i send a new text from my email .
-i suspect some changes were made on att side and now he has some old texts that are stuck on his account .
-i am the email administrator for my domain and things look fine on my exchange server .
-any ideas on how to correct this issue ?

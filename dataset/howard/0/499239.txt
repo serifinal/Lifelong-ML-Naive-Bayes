@@ -1,7 +1,0 @@
-blackberry torch 9800 .
-so far there has been word that bell , telus and rogers will get the bb torch -lrb- portrait slider keyboard + touch screen -rrb- eventually , while at&t will get some period of us exclusivity and an early launch .
-i have reliable information that the 9800 radio is identical to the 9700 's .
-at time of manufacturing , an irreversible firmware change is made that locks it into either umts 850/1900/2100 or umts 900/aws/2100 .
-except in the case of dev phones which can be set to penta-band , or can be reflashed to the other bands .
-so ... it is technically feasible for an aws-compatible torch to come out on wind .
-any chance it 'll happen ?

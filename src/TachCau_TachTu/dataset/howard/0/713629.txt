@@ -1,8 +1,8 @@
-mobileburn : t-mobile hspa + vs wimax in philly , the webconnect rocket & more .
-originally posted by mobileburn.com over the course of the past month i 've been testing out the beta 21mbps hspa + -lrb- info -rrb- network that t-mobile is running in the philadelphia area .
-my goal was to test out currently available hspa -lrb- info -rrb- devices like the t-mobile webconnect usb modem and motorola cliq smartphone as well as upcoming hspa + devices like the webconnect rocket to see what kind of speed consumers can expect .
+mobileburn : t - mobile hspa + vs wimax in philly , the webconnect rocket & more .
+originally posted by mobileburn.com over the course of the past month i 've been testing out the beta 21 mbps hspa + ( info ) network that t - mobile is running in the philadelphia area .
+my goal was to test out currently available hspa ( info ) devices like the t - mobile webconnect usb modem and motorola cliq smartphone as well as upcoming hspa + devices like the webconnect rocket to see what kind of speed consumers can expect .
 i even ran a few tests on a sprint overdrive 4g wimax modem to compare .
-as t-mobile was quick to point out , and as at&t 's overloaded data network has proven to many , there is more to 3g speed than just the connection between the phone and the local cell tower .
-without proper backhaul connections to the rest of the network -lrb- and the internet -rrb- , those blazing speeds to the tower are not of much use .
-t-mobile claims that it has spent a lot of time and effort running fiber across its network and adding frequency spectrum to its towers to ensure that there is enough capacity and high-speed backhaul connectivity to see that data gets to where it needs to go quickly .
+as t - mobile was quick to point out , and as at&t 's overloaded data network has proven to many , there is more to 3g speed than just the connection between the phone and the local cell tower .
+without proper backhaul connections to the rest of the network ( and the internet ) , those blazing speeds to the tower are not of much use .
+t - mobile claims that it has spent a lot of time and effort running fiber across its network and adding frequency spectrum to its towers to ensure that there is enough capacity and high - speed backhaul connectivity to see that data gets to where it needs to go quickly .
 delicious the rest is here : http://www.mobileburn.com/review.jsp?id=8641

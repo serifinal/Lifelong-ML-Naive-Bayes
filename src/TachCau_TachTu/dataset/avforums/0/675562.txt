@@ -1,7 +1,7 @@
 samsung ps59d6900 to onkyo 609 , trying to get arc to work ... .
 hi all , as above im trying to get the arc function to work between tv and amp .
-have amp set : hdmi control = on arc function = auto hdmi -lrb- high speed -rrb- lead between hdmi 2 of tv and hdmi output of amp .
+have amp set : hdmi control = on arc function = auto hdmi ( high speed ) lead between hdmi 2 of tv and hdmi output of amp .
 anynet + set to on on tv .
 getting no sound whatsoever .
-using the tv remote to turn the volume up/down does actually alter the volume on the amp and a pop up box appears on the screen with the amp name and volume , but no sound .
+using the tv remote to turn the volume up / down does actually alter the volume on the amp and a pop up box appears on the screen with the amp name and volume , but no sound .
 anything im doing wrong ?!

@@ -1,9 +1,0 @@
-panasonic tx-p46gt30b - picture freeze .
-hi , i recently bought a panasonic tx-p46gt30b and have been using the media centre to stream hd videos .
-on occasion , whenever playing an mkv file , the picture will freeze and the following scenes will continue to play behind , wiping the frozen image out .
-this error consistently occurs in the same places on the file playback .
-also , when playing back on my pc , the error is not there - which indicates that the file is fine .
-i am streaming the file from my nas drive and both the tv and nas are wired to my my router .
-as far as i am aware i am running the latest firmware .
-is there anything i am able to do to fix this problem ?
-thank you ,

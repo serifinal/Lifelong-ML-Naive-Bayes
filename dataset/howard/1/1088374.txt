@@ -1,5 +1,0 @@
-bell samsung vibrant on rogers ? .
-now that the unlock issue has been solved i am seriously considering getting a vibrant from bell , unlocking it and using it on rogers for a number of reasons : * i like the styling better * 2 cameras * fm radio * money does not go to rogers main concern is that the bell version seems to have 3g 900/1900/2100 whereas rogers is 850/1900 .
-how big a coverage issue is this going to be .
-is there any way to breakout the rogers 3g coverage maps by frequency ?
-i am assuming 2g is not going to be an issue -lrb- i am assuming quad band gsm as all the galaxy s models i can find info for seem to be gsm 850 / 900 / 1800 / 1900 -rrb- .

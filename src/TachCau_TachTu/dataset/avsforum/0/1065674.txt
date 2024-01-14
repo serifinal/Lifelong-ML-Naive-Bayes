@@ -1,14 +1,14 @@
 calling all xa2 experts , please help me figure out what kind of hd dvd player i have .
-i purchased a refurbished xa2 from bidtopia -lrb- read : bargainland -rrb- in 3/08 .
+i purchased a refurbished xa2 from bidtopia ( read : bargainland ) in 3/08 .
 it has played flawlessly since i got it .
-i was going to update it to version 2.7 and that is when i noticed that mine is version 2.0 -lrb- see screenshot -rrb- .
+i was going to update it to version 2.7 and that is when i noticed that mine is version 2.0 ( see screenshot ) .
 the thing is i did n't know there was a version 2.0 for the xa2 .
 i burned the 2.7 disk myself but the machine would n't update .
 i thought i burned a coaster so i tried to update to 2.8 with a factory toshiba disc .
 it would get to step 2/5 then flash an error code and eject the disk .
 i called toshiba and they sent me another 2.8 update disc thinking the first one was bad .
 same problem as before .
-then , toshiba refused to exchange the xa2 for another refurb because bidtopia is not an approved seller/reseller .
+then , toshiba refused to exchange the xa2 for another refurb because bidtopia is not an approved seller / reseller .
 at a loss , i compared the setup menu between my bidtopia xa2 and my ubid xa2 that i had and noticed they were different .
 the outside , back , remote , box etc. are identical to my ubid xa2 but the setup menus are different .
 what gives ?

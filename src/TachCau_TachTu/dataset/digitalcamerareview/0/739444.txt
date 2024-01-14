@@ -1,5 +1,5 @@
 canon digital isux500 wont connect with computer .
-i have installed the software -lrb- twice -rrb- and yet still my camera wont connect with the laptop -lrb- laptop is running vista -rrb- .
+i have installed the software ( twice ) and yet still my camera wont connect with the laptop ( laptop is running vista ) .
 camera is not being found at all even when i try to do add hardware device .
 i have made sure the cable is firmly connected between the two and the camera is switched and in playback mode but still the laptop wont pick up the camera at all what could be the problem .
 am desperate

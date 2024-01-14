@@ -1,6 +1,0 @@
-droid battery improvement .
-this is obvious but i thought share my experience with increasing droid battery life .
-turning off auto brightness and setting to about 40 % decreased battery life consumption from 70 % of battery usage for one day to 39 % the next day .
-normally my battery is at 15 % at this time of the day .
-its at 40 % today .
-so this one setting is huge improvement and the screen is still plenty bright enough .

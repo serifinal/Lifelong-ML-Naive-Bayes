@@ -1,6 +1,6 @@
 will any lg micro-usb data cable work .
 i am looking on ebay for a data transfer cable to use with bitpim or datapilot for reading the contacts off the phone .
-but i 've noticed that if i search for -lrb- ax155 , `` ax 155 '' -rrb- -lrb- data , transfer , usb , cable -rrb- the prices are -lrb- naturally -rrb- higher than a search for -lrb- microusb , `` micro usb '' -rrb- -lrb- data , transfer , usb , cable -rrb- .
+but i 've noticed that if i search for ( ax155 , " ax 155 " ) ( data , transfer , usb , cable ) the prices are ( naturally ) higher than a search for ( microusb , " micro usb " ) ( data , transfer , usb , cable ) .
 but will pretty much any data cable work ?
 especially if it mentions it 's compatible with a similar lg phone ?
 also what software works with the ax * phones ?

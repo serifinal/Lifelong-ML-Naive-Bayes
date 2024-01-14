@@ -2,7 +2,7 @@ panasonic plasma g30 skin blurring problem .
 hi everyone , can anyone help me out there ?
 bought a panny g30 50 inch last week .
 what 's going on with skin tones ??
-there is a very noticeable `` blurring '' every time a character turns their head .
+there is a very noticeable " blurring " every time a character turns their head .
 i previously had a g10 and noticed the same issue , albeit to a lesser degree .
 can anyone tell me what this is , will it go away through time , is their an ideal picture setting to minimise it ?
 any replies greatly appreciated

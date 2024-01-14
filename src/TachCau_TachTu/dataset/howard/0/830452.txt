@@ -1,7 +1,7 @@
 using old phone as itouch and had to restore ... need help with backup .
-i got a new 3gs and my husband has been using my old 2g -lrb- without sim card -rrb- as an itouch .
+i got a new 3gs and my husband has been using my old 2g ( without sim card ) as an itouch .
 today i tried to upgrade the 2g to 3.1 and ended up with the dreaded error box and the front screen symbol with the usb pointing towards itunes and had to do a restore .
 now the phone says i need a sim card to activate .
 i do n't want to activate , i just want to back up so he can continue to use the 2g as an itouch .
-i have checked in itunes -lrb- edit , preferences , devices -rrb- and it shows the backup on the 2g -lrb- as of this morning -rrb- .
+i have checked in itunes ( edit , preferences , devices ) and it shows the backup on the 2g ( as of this morning ) .
 please ... can someone tell me if i how to back it up so he can use it , or is it dead now that i 've had to restore ?

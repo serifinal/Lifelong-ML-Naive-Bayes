@@ -1,8 +1,8 @@
-canon liion battery storage -lrb- how to find out % charge -rrb- .
+canon liion battery storage ( how to find out % charge ) .
 hi , just a brief question .
-does anyone know if there is a way to find out the % charge left in a canon liion battery -lrb- specifically for the powershot g9 -rrb- ?
+does anyone know if there is a way to find out the % charge left in a canon liion battery ( specifically for the powershot g9 ) ?
 i have two batteries and i need to store them for longer periods of time .
-the best charge level to store a liion battery is 43 % -lrb- 40-50 % will do -rrb- .
-the charge indicator on my g9 is really imprecise -lrb- i just get 3 lines which can be empty or full ... and i do n't even know if the scale is linear , for instance once i go from 2 to 1 line left , the battery does n't last much longer -rrb- .
+the best charge level to store a liion battery is 43 % ( 40 - 50 % will do ) .
+the charge indicator on my g9 is really imprecise ( i just get 3 lines which can be empty or full ... and i do n't even know if the scale is linear , for instance once i go from 2 to 1 line left , the battery does n't last much longer ) .
 so it 's really guesswork on when i get to 50 % ... if there is no way to read % , even some suggestions on how to do the guesswork will be appreciated .
--lrb- btw : the manual says discharge fully then store , which is dumb , this regime harms liion batteries -rrb- thanks .
+( btw : the manual says discharge fully then store , which is dumb , this regime harms liion batteries ) thanks .

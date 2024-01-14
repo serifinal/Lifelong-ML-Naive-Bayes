@@ -1,12 +1,12 @@
-random ` lines ' in images .
+random ' lines ' in images .
 i have a canon sd750 .
-i use a 1gb sd card and an addonics 4in1 digiadapter expresscard34 to import my photos onto my macbook pro .
-everytime i import photos , i have some pictures that are fine , and some pictures that are randomly `` not fine '' .
-by ` not fine ' i mean that they will have horizontal or vertical ` lines ' in them -- not actually lines but an imaginary line where the photo is lighter or greener or more saturated or whatever on one side than the other , or maybe shifted a few pixels .
+i use a 1 gb sd card and an addonics 4in1 digiadapter expresscard34 to import my photos onto my macbook pro .
+everytime i import photos , i have some pictures that are fine , and some pictures that are randomly " not fine " .
+by ' not fine ' i mean that they will have horizontal or vertical ' lines ' in them -- not actually lines but an imaginary line where the photo is lighter or greener or more saturated or whatever on one side than the other , or maybe shifted a few pixels .
 if i pull the card out and put it back in , the location of the line usually moves , and the quality of the problem changes , and if i do it a half dozen times , i can usually get a version of that photo that is perfect .
-of the photos that are ok sometimes , their ` badness ' seems to remain constant ... so photo x will always have a ` slight ' problem when it has a problem and photo y will always have a severe problem when it has a problem .
-the fact that the photo is sometimes ok , makes me think the camera is fine -lrb- ?? -rrb-
-and that its encoded properly on the sd card -lrb- ?? -rrb-
+of the photos that are ok sometimes , their ' badness ' seems to remain constant ... so photo x will always have a ' slight ' problem when it has a problem and photo y will always have a severe problem when it has a problem .
+the fact that the photo is sometimes ok , makes me think the camera is fine ( ?? )
+and that its encoded properly on the sd card ( ?? )
 -- that the problem is with the expresscard34 or the macbook pro .
 has anyone heard of this before ?
 i do n't know what to google to look it up .

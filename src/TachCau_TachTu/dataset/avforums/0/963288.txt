@@ -1,6 +1,6 @@
-enable `` cinema smoot '' ? .
+enable " cinema smoot " ? .
 hi all ... recieved my samsung ps59d7005 two days ago , but im really missing this feature !
-is it possible to enable `` cinema smooth '' in the service menu ?
-i play movie ´ s from a dlna server -lrb- serviio -rrb- and the option is greyd out under options ... i know that the tv wants a 24p signal before it ´ sactivated , but i read somewhere it was possible to enable it in the service menu , so it could be used for regular tv and mkv x264 movies ?
-hope someone can help me out :0 -rrb- ps .
+is it possible to enable " cinema smooth " in the service menu ?
+i play movie ´s from a dlna server ( serviio ) and the option is greyd out under options ... i know that the tv wants a 24p signal before it ´ sactivated , but i read somewhere it was possible to enable it in the service menu , so it could be used for regular tv and mkv x264 movies ?
+hope someone can help me out : 0 ) ps .
 i have tried to get an answer in the other threads , but no luck ...

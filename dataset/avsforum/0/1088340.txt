@@ -1,7 +1,0 @@
-fix overscan on toshiba 53h71 .
-hi there , i have a toshiba 53h71 53 '' rear projection tv , and am getting way too much overscan .
-it 's particularly noticable when playing games on my xbox360 ; often i 'm unable to read any text that 's near the top of the screen .
-i 'm having difficulty finding any image adjustment settings in the tv menus , and figure that it 's probably something that needs to be changed in the service menu .
-i 'm also unsure what the code is to get into the service menu .
-does anyone have any tips for reducing or eliminating this problem ?
-thanks !

@@ -1,7 +1,7 @@
 outgoing mail server for telus on wind mobile .
 hi all , i 'll appreciate some advice on how to deal with the issue of not being able to send emails .
-i have a nokia n900 and voice/data plan with wind mobile .
-i have been successfully able to retrieve email messages from my telus email account both via wi-fi and now on cellular data .
+i have a nokia n900 and voice / data plan with wind mobile .
+i have been successfully able to retrieve email messages from my telus email account both via wi - fi and now on cellular data .
 but i ca n't send emails , no matter what i tried for outgoing server setting .
 telus email account is not mobile , it is what comes with my home internet .
-any advice/help will be much appreciated !
+any advice / help will be much appreciated !

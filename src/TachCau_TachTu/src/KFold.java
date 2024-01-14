@@ -30,7 +30,7 @@ public class KFold {
 
     public static void main(String[] args) throws IOException {
         File file = new File("dataset");
-        File out = new File("testing");
+        File out = new File("testing1");
         out.mkdirs();
 
         int k=0;

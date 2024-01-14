@@ -1,7 +1,0 @@
-vx100 frame interpolation .
-supposing to use vx100 with radiance xs , i put my vx100 in external scaler mode .
-reading the new vx300 review there is a part where the reviewer said that you have to turn off the frame interpolation to get the best result .
-i ca n't find this setting in my vx100 menu .
-if i go to signal menu i see what i attach .
-can someone help me ?
-thanks

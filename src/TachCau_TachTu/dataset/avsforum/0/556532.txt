@@ -2,7 +2,7 @@ toshiba 52hm84 ballast issue ? .
 i have a toshiba 52hm84 , i bought used .
 of course it does n't work .
 the seller did test the bulb in another 52hm84 and it works .
-when i turn it on , the tv powers on , have audio for about 10-15secs , then pwrs off .
+when i turn it on , the tv powers on , have audio for about 10 - 15secs , then pwrs off .
 then it cycles about 10 times , i can hear the color wheel spin up each time .
 and there are a series of clicks coming from what sounds like the tuner board , and eventually halts .
 the red led stays on , green flashes .

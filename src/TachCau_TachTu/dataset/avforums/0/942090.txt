@@ -1,3 +1,3 @@
-tx-p42gt30 `` mute '' icon .
+tx - p42gt30 " mute " icon .
 i 'm really hoping this is an easy solution but knowing my luck it wo n't be ... one of my activities on my harmony one mutes the tv ... problem is when muted it shows the mute icon bottom left of the screen ... is it at all possible to hide this annoying little icon ?
 thanks !

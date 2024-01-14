@@ -2,4 +2,4 @@ plasma tv sound problem .
 i have a ps3 connected to my samsung d6900 tv via hdmi .
 the same ps3 and cable were previously connected to my sony tv without any problems .
 with the samsung , the volume keeps fading up and down .
-is this likely to be a fault with the tv , the hdmi socket , the cable/ps3 -lrb- which were fine before -rrb- or something else i have n't yet considered ?
+is this likely to be a fault with the tv , the hdmi socket , the cable / ps3 ( which were fine before ) or something else i have n't yet considered ?

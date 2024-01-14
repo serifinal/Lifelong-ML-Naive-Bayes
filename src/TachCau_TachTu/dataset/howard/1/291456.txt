@@ -1,4 +1,4 @@
 samsung galaxy s .
-thinking about importing one of these in the next week or so , noting that the spec sheet says it will have hsdpa 900/1900/2100 .
+thinking about importing one of these in the next week or so , noting that the spec sheet says it will have hsdpa 900 / 1900/2100 .
 i 've been trying to find on the internet att 3g coverage maps by 850 and 1900 to see if i 'll get 1900 coverage in houston , but ca n't seem to find that anywhere .
 it seems that att 3g coverage has migrated primarily to 850 though , so will it be useless for me to import the first release and instead wait for a release with 850 ?

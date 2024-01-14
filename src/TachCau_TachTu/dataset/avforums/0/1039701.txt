@@ -1,4 +1,4 @@
-panasonic p50vt20 turning off/on by itself .
+panasonic p50vt20 turning off / on by itself .
 my p50vt20 has started turning off and back on again by itself , seems to happen completely randomly but at times it is almost not possible to get it to stay on for longer than 10 seconds .
 yet other times it runs for hours with no problems .
 i have removed all connections from it and tried different wall sockets .

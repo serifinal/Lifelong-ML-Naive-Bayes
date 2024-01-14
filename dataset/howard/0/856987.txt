@@ -1,7 +1,0 @@
-group sms = group mms -lrb- group sms not allowed !? -rrb- .
-i 'm on t-mobile usa , iphone 3gs , using the mms hack allowing me to send and receive mms .
-for some reason , when i want to send a group sms , once i add a second person in the messaging app , it automatically says `` group mms '' at the top .
-when i send them , the other people receive the message as a mms .
-is this a known bug with 3.0 or an issue if you are using the mms hack ?
-anyone have this happen ?
-thanks

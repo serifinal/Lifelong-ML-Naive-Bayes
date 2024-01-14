@@ -1,5 +1,0 @@
-sd850 - max video length 60 mins ? .
-i have a canon sd850 with 8gb sdhc card and am trying to record video for more than 60 minutes .
-i currently have my movie mode set at 320x240 @ 15 fps , and the display says i can record 272 min 45 sec .
-however when i press record the most i ever get is 60 min .
-anybody else notice this problem ?

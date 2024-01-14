@@ -2,18 +2,18 @@ optimum throw distance .
 i 'm considering a phased approach to cih , starting with zoom now and adding a lens later .
 i 'd like to mount the projector just once if possible .
 the room is 14 ' x 22 ' .
-i 'm currently planning for a 1:2.35 screen width of 125 '' -lrb- about 10 ' -rrb- , and i 'm strongly considering the panasonic ae-2000 .
+i 'm currently planning for a 1:2.35 screen width of 125 " ( about 10 ' ) , and i 'm strongly considering the panasonic ae - 2000 .
 the screen would be a fixed screen on the front wall .
 i can mount the projector on the 10 ' ceiling at any distance in the room out to about 21 ' .
-before i started thinking cih , i planned to mount the projector at about 14 ' -lrb- throw ratio of about 1.8 -rrb- to optimize brightness .
+before i started thinking cih , i planned to mount the projector at about 14 ' ( throw ratio of about 1.8 ) to optimize brightness .
 now i 'm considering pushing that back to a throw ratio of 2.0 at about 16 ' to consider other apects of picture geometry through a lens .
 questions : 1 .
-will zooming to 2.35 -lrb- before adding a lens -rrb- also involve/require lens shift adjustments ?
+will zooming to 2.35 ( before adding a lens ) also involve / require lens shift adjustments ?
 2 .
 how do i choose an optimum throw distance for my phased approach to cih ?
 3 .
-do i measure throw distance to the front of the lens or to the panel in the projector -lrb- or something else -rrb- ?
+do i measure throw distance to the front of the lens or to the panel in the projector ( or something else ) ?
 4 .
-with the ae-2000 at these distances -lrb- 14 ' - 16 ' -rrb- , what screen gain is optimum ?
+with the ae - 2000 at these distances ( 14 ' - 16 ' ) , what screen gain is optimum ?
 thanks for your help .
 bob

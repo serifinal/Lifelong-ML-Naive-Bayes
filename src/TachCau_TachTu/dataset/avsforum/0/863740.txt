@@ -1,16 +1,16 @@
-official lnxxa650 calibration/settings thread .
+official lnxxa650 calibration / settings thread .
 hey all , wanted to start a calibration thread for this bad boy .
 i am not an expert and there is n't that many owners yet .
 but i guess i could get the ball rolling so here are my settings as of now .
 i am not an expert and please feel free to critique my settings as much as possible .
-just be nice about it , i hurt easily lol movie mode backlight - 5 contrast - 92 brightness - 45 sharpness - 0-20 depends for me .
-color - 54 tint - g52/r48 detailed settings black adjust - medium dynamic contrast-low gamma-0 color space-native for now .
+just be nice about it , i hurt easily lol movie mode backlight - 5 contrast - 92 brightness - 45 sharpness - 0 - 20 depends for me .
+color - 54 tint - g52 / r48 detailed settings black adjust - medium dynamic contrast - low gamma - 0 color space - native for now .
 this is where i will need help with .
 seems like their is a lot of tweaking you can do here .
-white balance-all default for now .
+white balance - all default for now .
 need help with this also .
-flesh tone - -2 edge enhancement - on picture options color tone - cool 1 size-just scan .
--lrb- you can adjust the screen position with just scan .
+flesh tone - -2 edge enhancement - on picture options color tone - cool 1 size - just scan .
+( you can adjust the screen position with just scan .
 well a little bit of adjustment .
 digital nr - off hdmi black level - low amp 120hz - high set up energy saving - low there you go guys .
 these numbers will be changing a lot i 'm sure lol ps yeah i mispelled settings lol pss i am a noob , fixed title name .

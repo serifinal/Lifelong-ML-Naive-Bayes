@@ -1,26 +1,26 @@
 .
-guys , i need your advice regarding setting up a pc to lcd tv system to watch hd-dvds and blu-rays .
+guys , i need your advice regarding setting up a pc to lcd tv system to watch hd - dvds and blu - rays .
 i shall explain my situation .
-two months back i bought an lg ggc-h20l blu-ray hd-dvd combo drive for pc .
-since then i have been watching movies on these high-def formats , on my acer al1916w 19 '' lcd widescreen pc monitor .
-i also had to upgrade my graphics card to geforce 9600 gt 512mb so that i can watch hd movies smoothly using nvidia purevideo hd acceleration .
-i have a pretty good 6 channel digital speaker set connected to my pc - logitech z-5500 .
+two months back i bought an lg ggc - h20l blu - ray hd - dvd combo drive for pc .
+since then i have been watching movies on these high - def formats , on my acer al1916w 19 " lcd widescreen pc monitor .
+i also had to upgrade my graphics card to geforce 9600 gt 512 mb so that i can watch hd movies smoothly using nvidia purevideo hd acceleration .
+i have a pretty good 6 channel digital speaker set connected to my pc - logitech z - 5500 .
 at present it is positioned correctly and i am really enjoying it .
 so , other than the small display , the setup is good for me .
 though i am happy with the present setup , i feel the hd experience will be complete only when the display is bigger than my present one .
-but i ca n't go out and buy a 50 '' or 60 '' monster due to budget and space constraints .
+but i ca n't go out and buy a 50 " or 60 " monster due to budget and space constraints .
 i have a wall right behind my computer table .
 i am thinking of buying an lcd tv and positioning it above and behind the pc monitor , on to the wall .
 in that way , i can connect with a dvi to hdmi convertor , from geforce to the tv and enjoy hd visuals .
 also i can maintain the sound system in tact as the playback will continue from pc only .
 the width of the room is about 10 ft , wall to wall .
-so , when i mount the tv on the wall , the maximum distance i can sit back is about 7 ft. therefore i think a 32 '' lcd tv should be suitable for me as it fits my pocket and the viewing distance perfectly .
+so , when i mount the tv on the wall , the maximum distance i can sit back is about 7 ft. therefore i think a 32 " lcd tv should be suitable for me as it fits my pocket and the viewing distance perfectly .
 now here are my doubts .
-1 -rrb- 720p or 1080p .
-i know 1080p produces the best visuals but i also heard the noticable difference between 720p and 1080p starts when the tv is bigger than like 50 '' -lrb- the video source will be always dvd or hd-dvd/blu-ray for me -rrb- .
+1 ) 720p or 1080p .
+i know 1080p produces the best visuals but i also heard the noticable difference between 720p and 1080p starts when the tv is bigger than like 50 " ( the video source will be always dvd or hd - dvd / blu - ray for me ) .
 whats your opinion on this ?
-2 -rrb- geforce 9600 gt supports hdmi .
+2 ) geforce 9600 gt supports hdmi .
 but the output is dvi .
 so if i use a dvi to hdmi converter cable , will it reduce the image quality in anyway ?
-also will the converter result in slow data transfer which might in turn result in hd video -lrb- blu-ray and hd-dvd discs -rrb- playing in slow motion or going out of sync with the audio ?
+also will the converter result in slow data transfer which might in turn result in hd video ( blu - ray and hd - dvd discs ) playing in slow motion or going out of sync with the audio ?
 please post your suggestions .

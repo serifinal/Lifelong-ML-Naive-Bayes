@@ -1,6 +1,0 @@
-android 2.1 pre-update thread for motorola droid .
-when can we expect the update ??
----------------------------- edit updated originally posted by humpa http://support.vzw.com/pdf/system_update/moto_droid.pdf thanks to indohan for posting that link in the 2.1 pre-release thread .
-it looks like the ese53 that was leaked is the actuall droid update to 2.1 .
-i assume they removed the adb root -lrb- development root -rrb- , but the number is the same as i already have on my ese53 droid -lrb- c_01 .3 e. 03p -rrb- .
-so we 're done here - now we can start threads about froyo .

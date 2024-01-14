@@ -1,20 +1,21 @@
 .
 previous threads : http://www.avsforum.com/avs-vb/showthread.php?t=865415 http://www.avsforum.com/avs-vb/showthread.php?t=1028018 this one is just to focus on every high def version , ignoring the dvd transfers as we 've seen enough of them .
-this first set of caps is duplicating my previous choice of frames but all decoded using ffdshow and displaying overlay info now - and finally including the german `` ultimate '' steelbook hd dvd release .
+this first set of caps is duplicating my previous choice of frames but all decoded using ffdshow and displaying overlay info now - and finally including the german " ultimate " steelbook hd dvd release .
 this time i 'm linking them directly since that seems to be what people prefer .
-i intend to do more and include the french blu-ray when it arrives -lrb- fr/uk bd disc 1 = fr/uk/au hd dvd disc 1 but there should be a second disc with the theatrical cut like the fr hd dvd -rrb- .
-i 'll also post caps of the announced japanese blu-ray in this thread once i get that -lrb- i believe release date is in december ? -rrb- .
-i do n't have time to do a comprehensive overview -lrb- at the moment anyway -rrb- , so i 'm just posting the pics quick so you can all judge for yourselves which release is best and why .
-pq/included cut -lrb- s -rrb- / extras/audio specs/cover art/etc ... unfortunately no release has the best of everything yet .
-the other bitrates have been posted previously , so i 'll just say for now that the avbr of the german vc-1 is 12.01 mbps .
--lrb- this is my favorite movie -rrb- update nov 9 2008 : added french blu-ray release .
+i intend to do more and include the french blu - ray when it arrives ( fr / uk bd disc 1 = fr / uk / au hd dvd disc 1 but there should be a second disc with the theatrical cut like the fr hd dvd ) .
+i 'll also post caps of the announced japanese blu - ray in this thread once i get that ( i believe release date is in december ? ) .
+i do n't have time to do a comprehensive overview ( at the moment anyway ) , so i 'm just posting the pics quick so you can all judge for yourselves which release is best and why .
+pq / included cut ( s ) / extras / audio specs / cover art / etc. . .
+unfortunately no release has the best of everything yet .
+the other bitrates have been posted previously , so i 'll just say for now that the avbr of the german vc - 1 is 12.01 mbps .
+( this is my favorite movie ) update nov 9 2008 : added french blu - ray release .
 specs are here .
 disc 1 is unfortunately locked to region b !
 and just like the french hd dvd release , if you choose the english audio option , french subtitles are forcibly overlayed .
-it 's a vc-1 encode of the theatrical cut at 20.79 mbps .
+it 's a vc - 1 encode of the theatrical cut at 20.79 mbps .
 disc 2 duplicates optimum 's uk release that will also be released in other countries , so i have n't bothered to post identical screencaps of it .
-still waiting on the `` premium '' 2-disc japanese that 's coming out dec 5 .
+still waiting on the " premium " 2 - disc japanese that 's coming out dec 5 .
 too bad that one still is n't bothering to use seamless branching .
-the special edition cut is again the main disc - it will be available separately and cheaper than the 2-disc set .
-update jan 13 2008 : added both discs of japanese blu-ray release .
+the special edition cut is again the main disc - it will be available separately and cheaper than the 2 - disc set .
+update jan 13 2008 : added both discs of japanese blu - ray release .
 specs are here and here .

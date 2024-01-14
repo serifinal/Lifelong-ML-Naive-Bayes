@@ -2,27 +2,27 @@ powershot g9 impressions .
 hi , i had this camera for about a week now , so i 'd thought i 'd share some first impressions .
 the full review is available , so i do n't aim to make this any kind of review image quality is quite good , although the effect of noise is visible .
 this is to be expected because 12 million pixels are thrown together on an area about 1 square centimeter in size .
-at iso80 , the graininess due to noise is only visible at pixel-level zoom on certain even color surfaces such as deep blue sky .
+at iso80 , the graininess due to noise is only visible at pixel - level zoom on certain even color surfaces such as deep blue sky .
 the performance is similar up until iso 200 .
 at iso 400 , the noise already becomes quite noticeable , although it wo n't be too disturbing in a 4x6in print nor perhaps in fullscreen view .
 iso 800 and beyond are not to be used for any quality shot .
 my older canon powershot a95 is better at handling noise : there is no hint of graininess on the image at normal iso settings , no matter how hard you look and how the colors are .
-also , it handles low-light conditions better .
+also , it handles low - light conditions better .
 the reason for these advantages : 5mp instead of 12 , on an only slightly smaller sensor area .
 the effect diminishes very slightly as the resolution is decreased ; the good news is that at 5mp the image at iso80 is of the same quality as my a95 ; so at least i did n't take a step down in image quality other than noise which is the main concern , color fringing is visible at pixel level zoom in some situations .
 nothing to be concerned about .
-soft corners and vignetting are present , but are minimal -lrb- at most 3-4 % of the total image area is affected , and that is only visible in very special conditions -rrb- .
+soft corners and vignetting are present , but are minimal ( at most 3 - 4 % of the total image area is affected , and that is only visible in very special conditions ) .
 by the way , there 's no visible vignetting or softness in my a95 .
-the interface is very well-designed , you can do almost anything you want with a shot using just one or two button pushes -lrb- although the buttons are sometimes difficult to reach , especially if you want to do things one-handed -rrb- .
+the interface is very well - designed , you can do almost anything you want with a shot using just one or two button pushes ( although the buttons are sometimes difficult to reach , especially if you want to do things one - handed ) .
 what i like best is the semi-professional features this camera offers .
-just a few examples : - auto exposure bracketing and auto focus bracketing -lrb- taking 3 pictures in a row , one with chosen focus , one with focus nearer , one with focus farther ; the steps can be adjusted ; this virtually ensures that at least one image is usable , in difficult focusing conditions -rrb- - safety digital zoom which uses only a portion of the sensor when the image is downsampled , and therefore avoids loss of image quality even when digital zoom is used , this can enable for instance up to 9.4 zoom at 5 megapixels -lrb- the lens does 6x of that -rrb- - safety manual focus which adjusts the manual focus slightly to ensure better focus of the image , - exposure lock which allows , given the auto-selected exposure , selecting the aperture / shutter speed combination that suits you best - 1st curtain / 2nd curtain / slow flash sync , useful to take nice night shots and many others .
+just a few examples : - auto exposure bracketing and auto focus bracketing ( taking 3 pictures in a row , one with chosen focus , one with focus nearer , one with focus farther ; the steps can be adjusted ; this virtually ensures that at least one image is usable , in difficult focusing conditions ) - safety digital zoom which uses only a portion of the sensor when the image is downsampled , and therefore avoids loss of image quality even when digital zoom is used , this can enable for instance up to 9.4 zoom at 5 megapixels ( the lens does 6x of that ) - safety manual focus which adjusts the manual focus slightly to ensure better focus of the image , - exposure lock which allows , given the auto - selected exposure , selecting the aperture / shutter speed combination that suits you best - 1st curtain / 2nd curtain / slow flash sync , useful to take nice night shots and many others .
 and , of course , there 's the looks .
-all-black and business-like , a bit squarish and retro , reminds of some older analog photo cameras nothing shiny or silvery , no stickers .
+all - black and business - like , a bit squarish and retro , reminds of some older analog photo cameras nothing shiny or silvery , no stickers .
 the camera is also built like a tank .
 another main thing that i like is the compactness of this camera .
 it 's basically as big as my a95 with so much more to offer .
-i could even use my old carrying case -lrb- saving 30eur in the process -rrb- .
+i could even use my old carrying case ( saving 30 eur in the process ) .
 a downside is that the battery does n't last too much .
-you need to buy at least one extra batt for any serious shooting -lrb- like a half-day trip , for instance -rrb- .
+you need to buy at least one extra batt for any serious shooting ( like a half - day trip , for instance ) .
 oh by the way the camera is very fast for a point and shoot .
 so , in brief , scores out of 10 points : image quality : 8 looks & build : 10 features and usability : 9.5 battery life : 6 speed : 9 hoping this helps some prospective buyers , e.b.e.

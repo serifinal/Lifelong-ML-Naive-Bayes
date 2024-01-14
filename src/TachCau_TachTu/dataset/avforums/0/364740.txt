@@ -1,4 +1,4 @@
-panasonic tx-p46st30b yellow ghosting/intrusion .
+panasonic tx - p46st30b yellow ghosting / intrusion .
 just get this tonight and whilst watching bright scenes there seems to be a yellowing ghosting intrusion visible around objects in the scene .
 most noticeable on the bright scene when you move your eyes around the scene and blink , can still be seen whilst trying to keep eyes steady on the scene .
 seems to vanish when doing the 2d to 3d conversion .

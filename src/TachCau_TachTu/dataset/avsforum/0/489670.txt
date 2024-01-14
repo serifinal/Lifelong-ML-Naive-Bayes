@@ -1,102 +1,102 @@
 ati radeon hd 4600 & 4800 series support 7.1 channel hdmi audio ! .
-last updated on march 13th , 2009 table of contents ati radeon hd 4800 seriessupports multichannel lpcm hdmi audio , up to 7.1 channel/32 bit/192 khz audio downsampled to 16 bit , 48 khz by commercial bd players specifications 3d performance availability and prices enabling hdmi audio &#8211; you need the `` ati hdmi audio device '' driver !!
-the ati proprietary dvi-hdmi adapter download and install `` ati hdmi audio device '' driver configure the sound dialog box configure powerdvd/totalmedia theater managing 5.1 channel sources with 7.1 channel speakers bit perfect sounds by wasapi exclusive mode current solutions for multichannel lpcm hdmi audio protected audio path -lrb- pap -rrb- audio from premium contents downsampled to 16bit/48khz without pap !
-another reason for downsampling : player bug puma and pap hardware and software player must work together protected video path -lrb- pvp -rrb- hdmi sound cards &#8211; proprietary pap solutionsauzentech x-fi hometheater hd and cyberlink powerdvd asus xonar hdav1 .3 and arcsoft totalmedia theater mkv and flac &#8211; a solution for full-resolution audio without pap _______________________ ati radeon hd 4800 series ??????????????????????? supports multichannel lpcm hdmi audio , up to 7.1 channel/32 bit/192 khz according to a couple of sources , the upcoming ati radeon hd 4800 series graphics cards will support multichannel lpcm hdmi audio -lrb- actually up to 7.1 channel/32 bit/192 khz -rrb- .
-for example , - tg daily - ati radeon 4800 launch details : meet -lrb- terry -rrb- makedon and trojan -lrb- horse -rrb- -lrb- may 14 , 2008 -rrb- quote : the radeon 4800 series also includes 7.1 channel-via-hdmi support - tom 's hardware - &#26377; &#22294; &#26377; &#30495; &#30456; &#65281; amd/ati radeon hd 4800 &#31995; &#21015; &#29031; &#29255; &#26333; &#20809; -lrb- may 26 , 2008 -rrb- audio downsampled to 16 bit , 48 khz by commercial bd players however it is unclear if hd 4800 series supports pap or not .
-without pap , audio from every aacs-encrypted content will be downsampled to 16 bit , 48 khz .
-surely the cards will not support dolby truehd/dts-hd master audio bitstreams .
-specifications the below is data of the cards collected in february -lrb- so may not be correct -rrb- : source : - amd to launch radeon hd 4000 series in june ?
-- rv770 , rv740 and rv710 video chip for your reference 3d performance basically geforce 8800 gt -lrb- = 9800 gt -rrb- < radeon hd 4850 < geforce 9800 gtx < radeon hd 4870 = geforce gtx 260 < geforce 9800 gx2 availability and prices - hd 4850 -lrb- rv770 pro -rrb- : $ 199 , released on june 18 , 2008 - hd 4870 -lrb- rv770 xt -rrb- : $ 299 , released on june 25 , 2008 rv730 and rv710 to launch in september - hd 4670 -lrb- rv730 xt -rrb- : $ 79 , released on september 10 , 2008 - hd 4650 -lrb- rv730 pro -rrb- : $ 69 , released on september 10 , 2008 - hd 4550 -lrb- rv710 xt -rrb- : $ 39 - $ 49 -lrb- 256mb -rrb- , $ 49 - $ 59 -lrb- 512mb -rrb- , released on september 30 , 2008 - hd 4350 -lrb- rv710 pro -rrb- ___________________________________________________________ enabling hdmi audio &#8211; you need the `` ati hdmi audio device '' driver !!
-??????????????????????????????????????????????????????????? the ati proprietary dvi-hdmi adapter enabling hdmi audio in a radeon hd 4xxx card is a bit confusing .
-first you have to use the ati proprietary dvi-hdmi adapter -lrb- unless your card has a native hdmi connector -rrb- .
+last updated on march 13th , 2009 table of contents ati radeon hd 4800 seriessupports multichannel lpcm hdmi audio , up to 7.1 channel / 32 bit / 192 khz audio downsampled to 16 bit , 48 khz by commercial bd players specifications 3d performance availability and prices enabling hdmi audio &#8211; you need the " ati hdmi audio device " driver !!
+the ati proprietary dvi - hdmi adapter download and install " ati hdmi audio device " driver configure the sound dialog box configure powerdvd / totalmedia theater managing 5.1 channel sources with 7.1 channel speakers bit perfect sounds by wasapi exclusive mode current solutions for multichannel lpcm hdmi audio protected audio path ( pap ) audio from premium contents downsampled to 16bit / 48khz without pap !
+another reason for downsampling : player bug puma and pap hardware and software player must work together protected video path ( pvp ) hdmi sound cards &#8211; proprietary pap solutionsauzentech x-fi hometheater hd and cyberlink powerdvd asus xonar hdav1 .3 and arcsoft totalmedia theater mkv and flac &#8211; a solution for full - resolution audio without pap _______________________ ati radeon hd 4800 series ??????????????????????? supports multichannel lpcm hdmi audio , up to 7.1 channel / 32 bit / 192 khz according to a couple of sources , the upcoming ati radeon hd 4800 series graphics cards will support multichannel lpcm hdmi audio ( actually up to 7.1 channel / 32 bit / 192 khz ) .
+for example , - tg daily - ati radeon 4800 launch details : meet ( terry ) makedon and trojan ( horse ) ( may 14 , 2008 ) quote : the radeon 4800 series also includes 7.1 channel - via - hdmi support - tom 's hardware - &#26377; &#22294; &#26377; &#30495; &#30456; &#65281; amd / ati radeon hd 4800 &#31995; &#21015; &#29031; &#29255; &#26333; &#20809; ( may 26 , 2008 ) audio downsampled to 16 bit , 48 khz by commercial bd players however it is unclear if hd 4800 series supports pap or not .
+without pap , audio from every aacs - encrypted content will be downsampled to 16 bit , 48 khz .
+surely the cards will not support dolby truehd / dts - hd master audio bitstreams .
+specifications the below is data of the cards collected in february ( so may not be correct ) : source : - amd to launch radeon hd 4000 series in june ?
+- rv770 , rv740 and rv710 video chip for your reference 3d performance basically geforce 8800 gt ( = 9800 gt ) < radeon hd 4850 < geforce 9800 gtx < radeon hd 4870 = geforce gtx 260 < geforce 9800 gx2 availability and prices - hd 4850 ( rv770 pro ) : $ 199 , released on june 18 , 2008 - hd 4870 ( rv770 xt ) : $ 299 , released on june 25 , 2008 rv730 and rv710 to launch in september - hd 4670 ( rv730 xt ) : $ 79 , released on september 10 , 2008 - hd 4650 ( rv730 pro ) : $ 69 , released on september 10 , 2008 - hd 4550 ( rv710 xt ) : $ 39 - $ 49 ( 256 mb ) , $ 49 - $ 59 ( 512 mb ) , released on september 30 , 2008 - hd 4350 ( rv710 pro ) ___________________________________________________________ enabling hdmi audio &#8211; you need the " ati hdmi audio device " driver !!
+??????????????????????????????????????????????????????????? the ati proprietary dvi - hdmi adapter enabling hdmi audio in a radeon hd 4xxx card is a bit confusing .
+first you have to use the ati proprietary dvi - hdmi adapter ( unless your card has a native hdmi connector ) .
 otherwise you wo n't get audio through hdmi .
 the adapter is sometimes bundled with the card .
 if your card does not come with the adapter , you have to buy it , for example , from here .
-download and install `` ati hdmi audio device '' driver you will need to install not only ati radeon video card driver , but also ati hdmi audio device driver .
+download and install " ati hdmi audio device " driver you will need to install not only ati radeon video card driver , but also ati hdmi audio device driver .
 - if you are a windows xp user , then download the ati hdmi audio driver from the amd website .
-- if you are a windows vista/7 user , then download the ati hdmi audio driver from the realtek website .
--lrb- why realtek ?
-a reasonable guess is that ati lacks proper audio technology and ati relies on realtek for the whole audio part of the gpu . -rrb-
+- if you are a windows vista / 7 user , then download the ati hdmi audio driver from the realtek website .
+( why realtek ?
+a reasonable guess is that ati lacks proper audio technology and ati relies on realtek for the whole audio part of the gpu . )
 configure the sound dialog box after you installed the driver , you have to enable the ati hdmi audio device in the sound dialog box .
 here are some screenshots of the dialog box .
 first you have to select the correct playback device : realtek hdmi output .
--lrb- the motherboard was ga-e7aum-ds2h geforce 9400 mgpu , so you can see `` nvidia hdmi output '' too -lsb- disabled because an nvidia gpu ca n't work simultaneously with an ati card under vista -rsb- . -rrb-
-click the `` configure '' button and open `` speaker setup '' .
+( the motherboard was ga - e7aum - ds2h geforce 9400 mgpu , so you can see " nvidia hdmi output " too [ disabled because an nvidia gpu ca n't work simultaneously with an ati card under vista ] . )
+click the " configure " button and open " speaker setup " .
 then select the correct speaker setting .
-click the `` properties '' button and click the `` supported formats '' tab , where you can select supported formats .
+click the " properties " button and click the " supported formats " tab , where you can select supported formats .
 click the test button and select all the supported formats .
-in the `` advanced '' tab , select the sample rate and bit depth .
-vista audio engine will downsample/upsample audio to that sample rate/bit depth .
-so you should choose the highest rate/depth here .
-configure powerdvd/totalmedia theater powerdvd 8 ultra dd/dts pass-through : - speaker environment > use hdmi - output mode > ac3/dts pass-through multichannel pcm -lrb- including the one decoded from hd audio codecs/dd/dts -rrb- : - speaker environment > use hdmi - output mode > pcm output or - speaker environment > 6 speaker -lrb- or 8 speaker -rrb- - output mode > no effect -lrb- or whatever effect you like -rrb- totalmedia theater dd/dts pass-through : - audio output mode > s/pdif multichannel pcm -lrb- including the one decoded from hd audio codecs/dd/dts -rrb- - audio output mode > 5.1 channels -lrb- or 7.1 channels -rrb- managing 5.1 channel sources with 7.1 channel speakers suppose that you use a 7.1 speaker system and select `` 7.1 surround '' in the sound dialog box .
+in the " advanced " tab , select the sample rate and bit depth .
+vista audio engine will downsample / upsample audio to that sample rate / bit depth .
+so you should choose the highest rate / depth here .
+configure powerdvd / totalmedia theater powerdvd 8 ultra dd / dts pass - through : - speaker environment > use hdmi - output mode > ac3 / dts pass - through multichannel pcm ( including the one decoded from hd audio codecs / dd / dts ) : - speaker environment > use hdmi - output mode > pcm output or - speaker environment > 6 speaker ( or 8 speaker ) - output mode > no effect ( or whatever effect you like ) totalmedia theater dd / dts pass - through : - audio output mode > s / pdif multichannel pcm ( including the one decoded from hd audio codecs / dd / dts ) - audio output mode > 5.1 channels ( or 7.1 channels ) managing 5.1 channel sources with 7.1 channel speakers suppose that you use a 7.1 speaker system and select " 7.1 surround " in the sound dialog box .
 this is fine as long as you play 7.1 audio sources .
-howerver , when you play a 5.1 audio source , there will be no side or rear -lrb- depending on your player -rrb- surround sounds and you ca n't upconvert 5.1 to 7.1 using , for example , dolby pro logic iix , in your receiver -lrb- as the receiver gets mute signals for the side or rear surround speakers -rrb- .
-a workaround is switch between `` 7.1 surround '' and `` 5.1 surround '' according to the numbe of channels in the audio source and then upconvert 5.1 to 7.1 in your receiver for a 5.1 source .
+howerver , when you play a 5.1 audio source , there will be no side or rear ( depending on your player ) surround sounds and you ca n't upconvert 5.1 to 7.1 using , for example , dolby pro logic iix , in your receiver ( as the receiver gets mute signals for the side or rear surround speakers ) .
+a workaround is switch between " 7.1 surround " and " 5.1 surround " according to the numbe of channels in the audio source and then upconvert 5.1 to 7.1 in your receiver for a 5.1 source .
 this can be done by hotkeys .
-another easier workaround is use dolby pro logic iix built in powerdvd -lrb- the picture below -rrb- and use custom matrix in the mixer tab of ffdshow audio decoder for directshow players .
-if you set mixer as is , the source frontl , center , frontr , backl , backr , lfe -lrb- subwoofer -rrb- is mapped into the speaker frontl , center , frontr , backl , backr , lfe -lrb- subwoofer -rrb- respectively .
-speakerfrontlcenterfrontrsidelsiderbacklbackrlfe sourcefrontlcenterfrontr -- backlbackrlfe targetfrontlcenterfrontr -- backlbackrlfe you can use `` custom matrix '' so that sidel speaker is a mixture of sidel and backl , and sider speaker is a mixture of sider and backr .
+another easier workaround is use dolby pro logic iix built in powerdvd ( the picture below ) and use custom matrix in the mixer tab of ffdshow audio decoder for directshow players .
+if you set mixer as is , the source frontl , center , frontr , backl , backr , lfe ( subwoofer ) is mapped into the speaker frontl , center , frontr , backl , backr , lfe ( subwoofer ) respectively .
+speakerfrontlcenterfrontrsidelsiderbacklbackrlfe sourcefrontlcenterfrontr -- backlbackrlfe targetfrontlcenterfrontr -- backlbackrlfe you can use " custom matrix " so that sidel speaker is a mixture of sidel and backl , and sider speaker is a mixture of sider and backr .
 for a 5.1 source , you will hear backl from both of the sidel speaker and the backl speaker .
-for a 7.1 source , you will hear sidel + backl from the sidel speaker -lrb- you will need to compromise -rrb- .
+for a 7.1 source , you will hear sidel + backl from the sidel speaker ( you will need to compromise ) .
 speakerfrontlcenterfrontrsidelsiderbacklbackrlfe sourcefrontlcenterfrontrsidelsiderbacklbackrlfe targetfrontlcenterfrontrsidel + backlsider + backrbacklbackrlfe _____________________________________ bit perfect sounds by wasapi exclusive mode ????????????????????????????????????? here bit perfect audio means audio streaming bypassing windows vista audio engine , thus no other application 's audio will play and signal processing has no effect .
-this is achieved when the audio renderer selects the wasapi -lrb- windows audio session api -rrb- exclusive mode -lrb- as opposed to the shared mode -rrb- .
-basic flow of audio streams is shared mode : audio source - > decoder - > ds renderer - > wasapi - > audio engine - > audio driver - > hdmiexclusive mode : audio source - > decoder - > reclock - > wasapi - > audio driver - > hdmiunfortunately there are only a couple of players/renderers that support the wasapi exclusive mode , and for movie playback , reclock -lrb- since 1.8.3.7 -rrb- is the only solution right now .
+this is achieved when the audio renderer selects the wasapi ( windows audio session api ) exclusive mode ( as opposed to the shared mode ) .
+basic flow of audio streams is shared mode : audio source - > decoder - > ds renderer - > wasapi - > audio engine - > audio driver - > hdmiexclusive mode : audio source - > decoder - > reclock - > wasapi - > audio driver - > hdmiunfortunately there are only a couple of players / renderers that support the wasapi exclusive mode , and for movie playback , reclock ( since 1.8.3.7 ) is the only solution right now .
 please read wasapi support for details of reclock wasapi support .
-here are tables summarizing supported audio formats in the wasapi exclusive mode with reclock and foobar2000 + wasapi output plug-in .
-i tested with various stereo/5 .1 / 7.1 channel , 16/24 bit , 44.1 / 48/96/192 khz , flac and wav files .
+here are tables summarizing supported audio formats in the wasapi exclusive mode with reclock and foobar2000 + wasapi output plug - in .
+i tested with various stereo / 5.1 / 7.1 channel , 16/24 bit , 44.1 / 48/96/192 khz , flac and wav files .
 hdmi audio driver is r2 .18 .
-reclock 44.1 khz48 khz96 khz192 khz16 bityyyy24 bitnnnn32 bityyyy32 bit ieee floatnnnnfoobar2000 44.1 khz48 khz96 khz192 khz8 bitnnnn16 bityyyn24 bityyyn32 bitnnnnremarks - `` buffer length '' in foobar2000 needs to be < ~ 900 ms. - dts on wav is supported only when stereo is selected in the `` sound '' dialog box of the windows control panel for both reclock and foobar2000 .
+reclock 44.1 khz48 khz96 khz192 khz16 bityyyy24 bitnnnn32 bityyyy32 bit ieee floatnnnnfoobar2000 44.1 khz48 khz96 khz192 khz8 bitnnnn16 bityyyn24 bityyyn32 bitnnnnremarks - " buffer length " in foobar2000 needs to be < ~ 900 ms. - dts on wav is supported only when stereo is selected in the " sound " dialog box of the windows control panel for both reclock and foobar2000 .
 read the thread ati 45xx , bit perfect , and vista .
-___________________________________________ current solutions for multichannel lpcm hdmi audio ??????????????????????????????????????????? so we have plenty of choices for multichannel lpcm over hdmi : igp - intel g965 , g33 and g35 with sdvo hdmi device -lrb- since 2006 -rrb- - intel g45 - geforce 8200 & 8300 , nforce 750a & 780a sli mgpu for amd - geforce 9300 & 9400 mgpu for intel discrete graphics card - ati radeon hd 4350/4550/4600 series/4800 series all the above solutions lack pap -lrb- and software -rrb- hence , audio from premium contents is downsampled to 16bit/48khz .
-none of them supports dolby truehd and dts-hd master audio bitstreaming .
-sound card - asus xonar hdav1 .3 - auzentech auzen x-fi hometheater hd they are the only solutions that supports full-resolution lpcm and dolby truehd and dts-hd master audio bitstreaming .
-_______________________ protected audio path -lrb- pap -rrb- ??????????????????????? audio from premium contents downsampled to 16bit/48khz without pap !
+___________________________________________ current solutions for multichannel lpcm hdmi audio ??????????????????????????????????????????? so we have plenty of choices for multichannel lpcm over hdmi : igp - intel g965 , g33 and g35 with sdvo hdmi device ( since 2006 ) - intel g45 - geforce 8200 & 8300 , nforce 750a & 780a sli mgpu for amd - geforce 9300 & 9400 mgpu for intel discrete graphics card - ati radeon hd 4350 / 4550/4600 series / 4800 series all the above solutions lack pap ( and software ) hence , audio from premium contents is downsampled to 16bit / 48khz .
+none of them supports dolby truehd and dts - hd master audio bitstreaming .
+sound card - asus xonar hdav1 .3 - auzentech auzen x-fi hometheater hd they are the only solutions that supports full - resolution lpcm and dolby truehd and dts - hd master audio bitstreaming .
+_______________________ protected audio path ( pap ) ??????????????????????? audio from premium contents downsampled to 16bit / 48khz without pap !
 the support for multichannel lpcm is only half of the story , however .
-protected audio path -lrb- pap -rrb- is essential for full resolution audio , without which audio from every aacs-encrypted content will be downsampled to 16bit/48khz .
-pap is also necessary for dolby truehd / dts-hs master audio bitstreams .
-quote : a licensed player shall not pass , or direct to be passed decrypted aacs content to a digital output except : 1.4.1 a digital output of audio , or of the audio portion of other forms of decrypted aacs content , in compressed audio format -lrb- such as ac3 -rrb- or in linear pcm format in which the transmitted information is sampled at no more than 48 khz and no more than 16 bits .
-1.4.2 an output delineated in table d1 , aacs authorized digital outputs , in accordance with any associated restrictions and obligations specified therein ; another reason for downsampling : player bug non-premium contents need not be downsampled , but as a matter of fact are downsampled to 16-bit/48khz by powerdvd .
-this a bug cyberlink acknowledged -lrb- bit-tech - powerdvd audio downsampling explained -lrb- by richard swinburne ; october 8 , 2007 -rrb- -rrb- .
-quote : when asked why powerdvd downsamples hd audio from both blu-ray and hd dvd discs to 48khz / 16-bit , chen responded by saying that `` digital output without protection is not possible due to aacs requirement .
-digital and analogue output with protection -lrb- hdmi -rrb- is also not possible due to lack of an internal secure audio path in a windows pc . ''
-`` we are currently working with realtek to support their proprietary interface for encryption of audio bus .
+protected audio path ( pap ) is essential for full resolution audio , without which audio from every aacs - encrypted content will be downsampled to 16bit / 48khz .
+pap is also necessary for dolby truehd / dts - hs master audio bitstreams .
+quote : a licensed player shall not pass , or direct to be passed decrypted aacs content to a digital output except : 1.4.1 a digital output of audio , or of the audio portion of other forms of decrypted aacs content , in compressed audio format ( such as ac3 ) or in linear pcm format in which the transmitted information is sampled at no more than 48 khz and no more than 16 bits .
+1.4.2 an output delineated in table d1 , aacs authorized digital outputs , in accordance with any associated restrictions and obligations specified therein ; another reason for downsampling : player bug non-premium contents need not be downsampled , but as a matter of fact are downsampled to 16 - bit / 48khz by powerdvd .
+this a bug cyberlink acknowledged ( bit - tech - powerdvd audio downsampling explained ( by richard swinburne ; october 8 , 2007 ) ) .
+quote : when asked why powerdvd downsamples hd audio from both blu - ray and hd dvd discs to 48khz / 16 - bit , chen responded by saying that " digital output without protection is not possible due to aacs requirement .
+digital and analogue output with protection ( hdmi ) is also not possible due to lack of an internal secure audio path in a windows pc . " "
+we are currently working with realtek to support their proprietary interface for encryption of audio bus .
 once completed , we will not longer need to downsample the audio .
-this will be provided for free to end-user for upgrade . ''
+this will be provided for free to end - user for upgrade . "
 this did n't really clear up the downsampling situation though because , as far as we 're aware all audio , regardless of encryption , is downsampled .
-we therefore pressed chen to clear up the speculation .
-`` i think this is a mistake , '' he said , `` we never intended to pass this message .
+we therefore pressed chen to clear up the speculation . "
+i think this is a mistake , " he said , " we never intended to pass this message .
 i think there might be some bug in our program that downsamples everything .
 that is not our intent .
-we only need to down-sample premium content -lrb- aacs , cprm , etc -rrb- . ''
+we only need to down - sample premium content ( aacs , cprm , etc ) . "
 this prompted us to ask whether there is a requirement for aacs in a pc when a disc or file is not encrypted .
 chen told us that the unencrypted scenario is not mandated by aacs so should n't be included in the downsampling .
-we inquired further about the `` secure internal audio path '' : is this because of microsoft not providing one and/or sound card companies not providing a compatible driver ?
-chen informed us that there is n't an industry standard -lrb- defined by microsoft or someone else -rrb- that makes the encryption/decryption path between software and audio driver secure .
+we inquired further about the " secure internal audio path " : is this because of microsoft not providing one and / or sound card companies not providing a compatible driver ?
+chen informed us that there is n't an industry standard ( defined by microsoft or someone else ) that makes the encryption / decryption path between software and audio driver secure .
 cyberlink have to enable one chip after another which takes a considerable amount of time working with sound card providers , microsoft and checking that it satisfies the aacs mandate .
-the above bug applies to not only 7.3 but also 8 -lrb- bit-tech - cyberlink powerdvd 8 & media show 4 -lrb- by richard swinburne ; march 24 , 2008 -rrb- -rrb- .
-quote : the lossless audio support that we first covered a while back has been put back to the release of 8.5 at around the august-september time frame .
+the above bug applies to not only 7.3 but also 8 ( bit - tech - cyberlink powerdvd 8 & media show 4 ( by richard swinburne ; march 24 , 2008 ) ) .
+quote : the lossless audio support that we first covered a while back has been put back to the release of 8.5 at around the august - september time frame .
 again , cyberlink was keen to stress that this will be a free update if you already own powerdvd 8 .
-this delay can be significant issue for those wanting to use powerdvd 8 with blu-ray disks , but after discussing this with both dolby -lrb- truehd -rrb- and cyberlink , as well as various motherboard vendors -lrb- gigabyte boards that use the realtek alc889a and features &#8220; content protection &#8221; -rrb- and even amd -lrb- in reference to its 780g and its audio limitation to s/pdif pass-through under hdmi -rrb- during cebit , all we can conclude is that hdcp for full quality audio is just a complete mess .
-btw `` a free update '' is questionable because there may not be `` powerdvd 8.5 '' : bit-tech - cyberlink to launch new truetheatre technologies -lrb- by richard swinburne ; may 30 , 2008 -rrb- .
-quote : another thing worth noting though is that powerdvd 9 -lrb- formerly 8.5 -rrb- will be available in a q3 to q4 timeframe this year puma and pap if you are interested in pap , the following document will be helpful to understand the current situation .
-- output content protection and windows vista -lrb- april 27 , 2005 -rrb- quote : 4 protected user mode audio : puma 4.3 puma -lrb- protected user mode audio -rrb- security architecture this section examines the components in the puma engine concerned with security .
-aside from the virtual audio server -lrb- vas -rrb- receiving component , the puma architecture includes three protection-related component types of interest : virtual protected output -lrb- vpo -rrb- module protected output controller -lrb- poc -rrb- output encryption audio processing object -lrb- apo -rrb- 4.3.2 output encryption apo the output encryption apo is the module that will provide encryption of the audio data , if it becomes necessary in the future .
+this delay can be significant issue for those wanting to use powerdvd 8 with blu - ray disks , but after discussing this with both dolby ( truehd ) and cyberlink , as well as various motherboard vendors ( gigabyte boards that use the realtek alc889a and features &#8220; content protection &#8221; ) and even amd ( in reference to its 780g and its audio limitation to s / pdif pass - through under hdmi ) during cebit , all we can conclude is that hdcp for full quality audio is just a complete mess .
+btw " a free update " is questionable because there may not be " powerdvd 8.5 " : bit - tech - cyberlink to launch new truetheatre technologies ( by richard swinburne ; may 30 , 2008 ) .
+quote : another thing worth noting though is that powerdvd 9 ( formerly 8.5 ) will be available in a q3 to q4 timeframe this year puma and pap if you are interested in pap , the following document will be helpful to understand the current situation .
+- output content protection and windows vista ( april 27 , 2005 ) quote : 4 protected user mode audio : puma 4.3 puma ( protected user mode audio ) security architecture this section examines the components in the puma engine concerned with security .
+aside from the virtual audio server ( vas ) receiving component , the puma architecture includes three protection - related component types of interest : virtual protected output ( vpo ) module protected output controller ( poc ) output encryption audio processing object ( apo ) 4.3.2 output encryption apo the output encryption apo is the module that will provide encryption of the audio data , if it becomes necessary in the future .
 for the initial release of windows vista , it is planned that just the interfaces to the module will exist , rather than any actual modules .
 the planned implementation is that the audio system will request an output encryption apo from the poc .
 the audio policy will set up the audio engine such that the output encryption apo will be called as the last processing element for the audio data , before the data is passed to the driver .
 this allows the output encryption apo to encrypt the data according to the current protection policy .
-the poc will choose to not load an output encryption apo if encryption is not necessary -lrb- which it isn &#8217; t in 2006 -rrb- .
-4.7 pcie bus and puma in the same way as with video , the pcie bus could become a problem for premium audio , because content owners might regard it as a user-accessible bus .
+the poc will choose to not load an output encryption apo if encryption is not necessary ( which it isn &#8217; t in 2006 ) .
+4.7 pcie bus and puma in the same way as with video , the pcie bus could become a problem for premium audio , because content owners might regard it as a user - accessible bus .
 the issue affects the use of a discrete audio card or a discrete graphics card that has audio capabilities .
 while there might not be many discrete audio cards in 2006 , there more than likely will be hdmi discrete graphics cards that have hd audio controllers .
-the important scenario is the play back of hd-dvds and blu-ray dvds .
+the important scenario is the play back of hd - dvds and blu - ray dvds .
 in this case , the video is considered premium and the audio may also be .
-there is no problem with the video , because pvp-uab -lrb- protected video path - user accessible bus -rrb- protects the video over the pcie bus , but there is currently no equivalent protection available in the audio world .
+there is no problem with the video , because pvp - uab ( protected video path - user accessible bus ) protects the video over the pcie bus , but there is currently no equivalent protection available in the audio world .
 the pcie bus may be defined in some content industry agreements as a user accessible bus .
-it is further defined in some content industry agreements that premium audio is not allowed to pass over a user-accessible bus in unprotected form .
-in spite of pc industry push-back on this requirement , it is not certain which way the decision will fall .
-realistically , any concession in this area would only be valid for a small number of years , so the pc industry needs to address this issue in the not-too-distant future .
-microsoft plans to address this as part of the pap -lrb- protected audio path -rrb- project that will be a number of years after the initial release of windows vista .
+it is further defined in some content industry agreements that premium audio is not allowed to pass over a user - accessible bus in unprotected form .
+in spite of pc industry push - back on this requirement , it is not certain which way the decision will fall .
+realistically , any concession in this area would only be valid for a small number of years , so the pc industry needs to address this issue in the not - too - distant future .
+microsoft plans to address this as part of the pap ( protected audio path ) project that will be a number of years after the initial release of windows vista .
 when the pc industry does pap , there will be a way of encrypting audio over the pcie bus .
 for discrete graphics manufacturers , the easiest mechanism to use would be pvp , because their graphics chip hardware will already be able to decrypt this .
 the encryption would be done in an output encryption apo module in the audio engine in the protected environment .
@@ -105,25 +105,25 @@ even in the initial version of windows vista , however , a third party could wri
 this would need to establish a separate session key , because there is no robust way of getting the session key from the graphics stack to the audio stack .
 we hope to be successful with the amendment to the content industry agreements , so that using an encrypting output encryption apo module can be deferred for a few years .
 in summary , microsoft 's pap in vista was left unfinished and this is likely to be the origin of the current chaotic situation of downsampled audio .
-hardware and software player must work together pap involves encryption/decryption process and requires the support by both hardware and software player , just like pvp -lrb- protected video path -rrb- .
+hardware and software player must work together pap involves encryption / decryption process and requires the support by both hardware and software player , just like pvp ( protected video path ) .
 quote : 5 protected audio path : pap possible pap architecture think about pap is as a collection bucket where we store future ideas about audio content protection .
-current thinking is that pap would provide protection all the way to the codec chip that has the digital-to-analog converter that makes the sounds -lrb- * my comment : replace it by hdmi transmitter -rrb- .
+current thinking is that pap would provide protection all the way to the codec chip that has the digital - to - analog converter that makes the sounds ( * my comment : replace it by hdmi transmitter ) .
 this might include protecting over whatever physical and wireless cables are in use in that future timeframe .
-the most likely encryption candidate would be aes 128-bit counter mode , just like pvp .
+the most likely encryption candidate would be aes 128 - bit counter mode , just like pvp .
 instead of the protecteddxva component doing the encryption , the encryption would be done in an output encryption apo in puma .
 in both the audio and video cases , the important thing is that the encryption is done inside the protected environment .
 the proposed plan is that the hardware aes engine that does the decryption would be in the codec chip .
 this is a harder than in the case of a graphics chip , because codecs have far fewer gates and are also more price sensitive .
 the desire to not over burden codec chips is a contributing factor in not pushing to introduce audio encryption quickly .
 adding aes engines to codec chips would at best take many years , and might turn out not to be feasible .
--lrb- * for discrete graphics manufacturers , the easiest mechanism to use would be pvp , because their graphics chip hardware will already be able to decrypt this . -rrb-
+( * for discrete graphics manufacturers , the easiest mechanism to use would be pvp , because their graphics chip hardware will already be able to decrypt this . )
 establishing a session key is the hardest problem .
 it is not practical for an audio codec chip to do diffie hellman , because there is no natural math capability as there is in the case of graphics chip programmable shaders .
 providing robust hardware authentication is a big part of what pap is about .
-as in the case of pvp , hfs -lrb- * hardware functionality scan -rrb- can be used for hardware authentication .
+as in the case of pvp , hfs ( * hardware functionality scan ) can be used for hardware authentication .
 a codec chip is not as complex as a graphics chip , but even so there is enough sophistication that can be used in the hfs process .
-for pap , the authentication would likely be done using a codec-specific user-mode authentication module that would plug into the poc component in the puma engine .
-even though the user-mode module would be specific to a particular hardware manufacturer , the microsoft class driver can still be used .
+for pap , the authentication would likely be done using a codec - specific user - mode authentication module that would plug into the poc component in the puma engine .
+even though the user - mode module would be specific to a particular hardware manufacturer , the microsoft class driver can still be used .
 that still leaves the problem of how to establish a session key .
 tentative plans address how to extend the hfs process to also generate a key at both ends of the wire .
 for want of a better name , this process is called mkey .
@@ -131,18 +131,18 @@ the session key established between the output encryption apo and the audio code
 it is the content key that the output encryption apo would use to encrypt the content .
 as stated , the requirement to encrypt audio data is still many years away , and there is certainly no specification for how to do this yet .
 having said that , microsoft is eager to work with manufacturers of codec chips to plan for the future .
-puma -lrb- protected user mode audio -rrb- architecture possible pap architecture here is a slide created by realtek .
+puma ( protected user mode audio ) architecture possible pap architecture here is a slide created by realtek .
 this is basically a simplified version of the microsoft slide above .
-protected video path -lrb- pvp -rrb- btw pap architecture is similar to pvp -lrb- protected video path -rrb- architecture .
-pvp-opm -lrb- output protection management -rrb- architecture pvp-uab -lrb- user accessible bus -rrb- architecture ______________________________________ hdmi sound cards &#8211; proprietary pap solutions ?????????????????????????????????????? since microsoft is not going to finish the unfinished project pap , several software and hardware manufacturers are developing its own protected audio path and a sound device supporting it .
-right now the following two solutions are available -lrb- soon -rrb- .
-auzentech x-fi hometheater hd and cyberlink powerdvd - tweaktown - cyberlink interview for the htpc hd fans -lrb- april 10 , 2008 -rrb- cyberlink said there are two reasons why they need a proprietary interface : uncompressed audio data would be interfered by vista os -lrb- mixing with other audio streams , down mix and so on -rrb- , which would cause incorrect results while decrypting protected data in audio hw/driver -rrb- .
-microsoft has not defined a new interface to pass new compressed audio formats supported in hdmi 1.3 -lrb- dolby truehd , dts-hd ma , dd + -rrb- .
-the basic flow of audio -lrb- lpcm , dd + , dolby truehd , dts-hd ma -rrb- is : powerdvd -- > proprietary api -lrb- no winmm/media foundation/directx/vista audio engine -rrb- -- > audio driver -- > audio device -lrb- analog or hdmi -rrb- powerdvd encrypts data and send it to the audio driver/device via a proprietary api .
+protected video path ( pvp ) btw pap architecture is similar to pvp ( protected video path ) architecture .
+pvp - opm ( output protection management ) architecture pvp - uab ( user accessible bus ) architecture ______________________________________ hdmi sound cards &#8211; proprietary pap solutions ?????????????????????????????????????? since microsoft is not going to finish the unfinished project pap , several software and hardware manufacturers are developing its own protected audio path and a sound device supporting it .
+right now the following two solutions are available ( soon ) .
+auzentech x-fi hometheater hd and cyberlink powerdvd - tweaktown - cyberlink interview for the htpc hd fans ( april 10 , 2008 ) cyberlink said there are two reasons why they need a proprietary interface : uncompressed audio data would be interfered by vista os ( mixing with other audio streams , down mix and so on ) , which would cause incorrect results while decrypting protected data in audio hw / driver ) .
+microsoft has not defined a new interface to pass new compressed audio formats supported in hdmi 1.3 ( dolby truehd , dts - hd ma , dd + ) .
+the basic flow of audio ( lpcm , dd + , dolby truehd , dts - hd ma ) is : powerdvd --- > proprietary api ( no winmm / media foundation / directx / vista audio engine ) --- > audio driver --- > audio device ( analog or hdmi ) powerdvd encrypts data and send it to the audio driver / device via a proprietary api .
 the audio device decrypts and analog : renders and output it .
-hdmi : mux with video and output it via a hdmi transmitter/hdcp .
+hdmi : mux with video and output it via a hdmi transmitter / hdcp .
 the product is expected in q1 2009 .
 asus xonar hdav1 .3 and arcsoft totalmedia theater the following is an early report on this solution .
-- computex 2008 - asus hdav 1.3 update quote : asus , with assistance from c-media and arcsoft , has been able to adhere to the paps and aacs content schemes without having to downmix the audio sources -lrb- resulting in 16-bit/48khz dvd quality audio -rrb- or even dropping support for dts-hd and dolby truehd altogether .
-i will leave the details to the official thread : * official * asus xonar hdav1 .3 thread _____________________________________________________ mkv and flac &#8211; a solution for full-resolution audio without pap ????????????????????????????????????????????????????? you can remove aacs encryption by anydvd hd and create your own mkv files with full-resolution lossless audio track -lrb- flac -rrb- with eac3to and then play them in full quality with any of the multichannel lpcm solutions .
-a nice thread on this topic is here : - hd to mkv ... the options are endless !!!!
+- computex 2008 - asus hdav 1.3 update quote : asus , with assistance from c - media and arcsoft , has been able to adhere to the paps and aacs content schemes without having to downmix the audio sources ( resulting in 16 - bit / 48khz dvd quality audio ) or even dropping support for dts - hd and dolby truehd altogether .
+i will leave the details to the official thread : * official * asus xonar hdav1 .3 thread _____________________________________________________ mkv and flac &#8211; a solution for full - resolution audio without pap ????????????????????????????????????????????????????? you can remove aacs encryption by anydvd hd and create your own mkv files with full - resolution lossless audio track ( flac ) with eac3to and then play them in full quality with any of the multichannel lpcm solutions .
+a nice thread on this topic is here : - hd to mkv ..... the options are endless !!!!

@@ -1,7 +1,0 @@
-xbox 360 reference settings with sony kdl-52w4100 .
-hello , i bought the sony last week and am trying to setup the correct xbox360 video settings .
-i connected the 360 to the lcd tv via hdmi .
-in the xbox console video settings , i see reference levels ` standard ' , ` intermediate ' , ` expanded ' .
-i have no idea what these mean . .
-can someone help ?
-thanks , fizz

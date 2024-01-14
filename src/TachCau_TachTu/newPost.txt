@@ -1,0 +1,8 @@
+<Thread>
+	<Post id="0" class="">
+		<Title>Help me</Title>
+		<Username>lecongminh</Username>
+		<Datetime>13-01-2024, 4:21 PM</Datetime>
+		<Content>Help me, i need a new TV to watch Netflix, can u guys suggest a good one. Around 120$ is good for me.</Content>
+	</Post>
+</Thread>

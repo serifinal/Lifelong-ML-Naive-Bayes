@@ -1,3 +1,0 @@
-rogers 21mbps hspa + stick is fido unlocked .
-upon entering fido sim , no error message -lrb- it was a dead sim -rrb- .
-upon entering a tmobile sim , invalid sim enter unlock code -lrb- it was a dead sim -rrb-

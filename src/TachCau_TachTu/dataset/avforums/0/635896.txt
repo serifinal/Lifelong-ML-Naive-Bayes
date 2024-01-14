@@ -1,6 +1,6 @@
 panasonic pv500 series known faults summary .
 i am having my th37pv500 being delivered by the end of the week .
-there are many posts related to pv500 faults and i think it would be a great idea to have a summary of these possible faults , how to detect them with a simple test , if it is a question of settings or just part of the set -lrb- comment any official support answer you may have received -rrb- and if some of you have sent your set back because of a particular fault .
+there are many posts related to pv500 faults and i think it would be a great idea to have a summary of these possible faults , how to detect them with a simple test , if it is a question of settings or just part of the set ( comment any official support answer you may have received ) and if some of you have sent your set back because of a particular fault .
 it could be helpful as a quick guide to faulty unit detection for everyone in the same situation .
 i 've read about these main three faults : - buzzing - horizontal line - contrast changes by itself - other ones ?
 please , comment : fault description - simple detection test - possible solving - official support answer - did you send it back ?

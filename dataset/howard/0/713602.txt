@@ -1,4 +1,0 @@
-motorola droid x firmware update -lrb- .604 -rrb- and hardware tracking thread .
-use this thread to post the software version and date code of your droid x .
-the x should come with firmware 1.13.516 but there is an over-the-air-update that -lrb- should -rrb- update it to .604 firmware .
-if it does n't update you might want to try a factory reset , then have it check for the update you guys can post the date code on the back label if it differs from 25/10 -lrb- week/year -rrb- .

@@ -1,12 +1,12 @@
 n82 firmwares .
 are there still product codes for the n82 stuck on v20 firmware ?
 i recently found my usb cable but have n't used it .
-however about 3 - 4 months ago i tried and my product code -lrb- taiwan -rrb- is still stuck on v20 .
+however about 3 - 4 months ago i tried and my product code ( taiwan ) is still stuck on v20 .
 booo .
 so i can hope that maybe v31 is finally out for me , but if that fails , what 's the best way to deal with this .
 change to another product code ?
 if so , what software do i use ?
 nss ?
 where to get that ?
-ok , now next step assuming i change my product code , will a firmware update now wipe everything out -lrb- my apps -rrb- ?
+ok , now next step assuming i change my product code , will a firmware update now wipe everything out ( my apps ) ?
 why is n't there like a definitive firmware upgrade guide on this forum ... sigh .

@@ -1,5 +1,5 @@
 flexible recording - what does these lights mean ? .
-i pretty much record everything in fr mode now since there 's always 17-18hr of free space and the materials -lrb- i assume -rrb- would record in xp mode anyway since space is not limited on the hdd .
+i pretty much record everything in fr mode now since there 's always 17 - 18 hr of free space and the materials ( i assume ) would record in xp mode anyway since space is not limited on the hdd .
 but there 's one thing that always puzzles me whether i 'm recording to the drive or burn into a dvd ; all the modes from the display lights up in this order : xp , sp , lp ep in red - except for sp ; which only lit in white .
 what does this mean , is sp not not being utilize when recorded in fr mode ?
-update : the recorder is a panasonic dmr-eh55 -lrb- 200gb -rrb-
+update : the recorder is a panasonic dmr - eh55 ( 200 gb )

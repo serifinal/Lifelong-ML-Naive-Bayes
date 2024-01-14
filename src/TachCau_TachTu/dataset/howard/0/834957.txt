@@ -3,9 +3,9 @@ not exactly sure where to post this , so mods feel free to move .
 anyway , does anyone know of there is a way to use a cradlepoint router with an android phone ?
 specifically , i 'm using a samsung vibrant .
 i know that with the htc incredible , it asks what type of connection you want when you plug it into the router 's usb .
-one of the options is `` mobile broadband '' which allows the router to dial a connection and connect .
+one of the options is " mobile broadband " which allows the router to dial a connection and connect .
 but , on the vibrant that option is not available .
-only `` mass storage '' , `` music player '' , and `` samsung kies '' show up as options .
+only " mass storage " , " music player " , and " samsung kies " show up as options .
 none of these connect obviously .
 any help would be appreciated .
 thanks .

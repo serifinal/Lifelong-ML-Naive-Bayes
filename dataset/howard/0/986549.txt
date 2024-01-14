@@ -1,4 +1,0 @@
-add/remove mobile broadband connect -lrb- mbb -rrb- feature online ? .
-i ca n't seem to find a way to add/remove mobile broadband connect from my features when logging onto vzw.com .
-i talked to a rep today and he said i should be able to ... but he could n't tell me how exactly .
-anyone here been able to do that ?

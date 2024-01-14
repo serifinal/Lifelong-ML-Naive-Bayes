@@ -1,4 +1,0 @@
-identifying applications installed to removable memory .
-how do i quickly/easily identify what applications are installed to the microsd card on a n85 or n86 ?
-firing up the nokia application installer via pc suite on a windows pc , just shows the list of installed applications but does n't distinguish if they are installed on the phone memory or the removable memory .
-i need to reformat the memory card , hence trying to list apps installed so i can re-install them .

@@ -1,5 +1,5 @@
 enhancing optik tv in limited regions .
-now , some new optik tv and optik high speed clients will be able to watch or record4 live tv programs at the same time , with 3 hd & 1 standard definition -lrb- sd -rrb- .
+now , some new optik tv and optik high speed clients will be able to watch or record4 live tv programs at the same time , with 3 hd & 1 standard definition ( sd ) .
 initial coverage of this service profile is limited , but growing to cover a substantial portion of the network over the next year .
 at time of installation , clients will be provisioned with the best tv available in their area .
 the coverage for the 3hd profile will initially be very limited but growing to alarge % of alberta and bc within the next year .

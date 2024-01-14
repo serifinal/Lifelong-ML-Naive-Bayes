@@ -1,7 +1,0 @@
-panasonic viera link sound problem .
-hi everybody , i 'm hoping somebody can help me resolve an issue i have had with 2 different panasonic viera tv 's and the panasonic pt480 home cinema system .
-basically everything is ok unless i use the tv to run the home cinema surround sound and the system automatically connects to arc .
-at this point the tv sound mutes but no sound comes on via the surround sound .
-currently i have auxiliary leads connected so can listen but with no stereo or 5.1 .
-everything is connected via hdmi and i have also tried with a scart cable .
-when watching a movie on the dvd player the surround sound works fine as does my xbox which is connected via a digital lead so works via d-in any advice welcomed

@@ -1,6 +1,6 @@
 eos rebel loss of image quality problem .
 i have a eos digital rebel that is about 2 years old .
-i always set my camera image quality to large/fine which saves images at 300dpi .
-for some reason my images are now saving at 180dpi - but the setting is still large/fine .
+i always set my camera image quality to large / fine which saves images at 300dpi .
+for some reason my images are now saving at 180dpi - but the setting is still large / fine .
 has anyone had a similiar problem ?
 how can i get back to a high resolution image ?

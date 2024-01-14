@@ -1,2 +1,0 @@
-panasonic vt30b 's ethernet port . .
-can someone tell me if it is a fast ethernet -lrb- 100 -rrb- or a gigabit -lrb- 1000 -rrb- port thank you .

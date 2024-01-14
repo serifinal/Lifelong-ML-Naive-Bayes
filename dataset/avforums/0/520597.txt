@@ -1,6 +1,0 @@
-pioneer plasma 504hde stuck in standby .
-moved my pioneer 504 hde to another room the weekend , but now it wo n't come out of standby even with button on side of tv .
-media box powers on with fan but after 10 secs a relay kicks in and both red and green leds just stay stuck on solid .
-red standby led on tv is on solid and flashes if i power off media box as expected , but if i power off the tv no leds flash on media box .
-if i disconnect all inputs to media box i.e.system cables , scart from sky box and aerial cable it does the same .
-any suggestions please ?

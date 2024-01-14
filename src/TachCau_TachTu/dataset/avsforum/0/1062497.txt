@@ -1,16 +1,15 @@
 .
-the foundational and primary goal of display calibration is image fidelity -lrb- faithfulness to the original program -rrb- .
+the foundational and primary goal of display calibration is image fidelity ( faithfulness to the original program ) .
 video is a mass communication medium .
 the objective of any communication medium is to convey an original message as accurately and completely as possible .
 any alteration of the message becomes a distortion of the original intent .
 example : the parlor game where a circle of people pass a whispered message , delivered to the first person in the circle , then whispered to the next , on around the circle , and finally the last person announces what he thinks the message was .
 invariably , each person alters the message slightly until the final recipient announces a garbled version that typically bears little resemblance to the original .
-the video industry is governed and guided by standards , engineering guidelines , and recommended practices , defined by organizations such as : the society of motion picture and television engineers -lrb- smpte -rrb- , the international organization for standardization -lrb- iso -rrb- , the international telecommunications union -lrb- itu -rrb- , the advanced television systems committee -lrb- atsc -rrb- , etc. .
-these standards and practices are intended to encourage and preserve : signal , equipment , and program accuracy , integrity , unity , consistency , and repeatability , all along the chain from program production , through post-production , to exhibition/broadcast/tape / dvd/etc .
-, and finally to the audience -lrb- consumer -rrb- .
+the video industry is governed and guided by standards , engineering guidelines , and recommended practices , defined by organizations such as : the society of motion picture and television engineers ( smpte ) , the international organization for standardization ( iso ) , the international telecommunications union ( itu ) , the advanced television systems committee ( atsc ) , etc. .
+these standards and practices are intended to encourage and preserve : signal , equipment , and program accuracy , integrity , unity , consistency , and repeatability , all along the chain from program production , through post-production , to exhibition / broadcast / tape / dvd / etc. , and finally to the audience ( consumer ) .
 if at any step along this path , industry standards are deviated from , the program can become dist0rteddd .
 video displays used by program professionals are designed , manufactured and calibrated to tightly adhere to industry standards .
-they include in their design certain features that allow technicians to adjust them periodically -lrb- sometimes each day -rrb- , using reference test signals , to insure picture accuracy .
+they include in their design certain features that allow technicians to adjust them periodically ( sometimes each day ) , using reference test signals , to insure picture accuracy .
 such professional video monitors cost up to tens of thousands of dollars for relatively small sized screens .
 they must perform reliably for years , sometimes operating around the clock .
 consumer displays typically are designed , manufactured and adjusted at the factory to appeal to focus groups and the uninformed masses .
@@ -29,7 +28,7 @@ uncalibrated consumer displays can not convey faithfully what the program origin
 a distorted picture is the result .
 artistic integrity is lost .
 distortion reduces the value of any program and prevents the owner of the equipment from fully enjoying the capabilities of the display device they have purchased .
-the picture may be `` watchable '' and even enjoyable to an individual viewer - up to a point .
+the picture may be " watchable " and even enjoyable to an individual viewer - up to a point .
 most consumers are never aware just how much better their programs can look if they were able to experience the picture the originator of the program envisioned .
 some consumers may actually prefer a distorted picture .
 for more discriminating viewers , there are resources available that help bring correct imaging into their home .
@@ -39,11 +38,11 @@ these programs are limited , however .
 the most complete resource for optimizing consumer displays is available in the form of professional calibration services .
 such services can be performed by consumers , but only after much study , investment in technical instruments , suitable aptitude , and perseverance .
 hiring a trained professional is much less daunting to the average display owner .
-in any case , the display owner must keep in mind that the goal of calibration is not to achieve any individual 's preconceived notion of what a `` good '' image should look like .
+in any case , the display owner must keep in mind that the goal of calibration is not to achieve any individual 's preconceived notion of what a " good " image should look like .
 the originator of a given video program is the one responsible for determining how the image is supposed to appear .
 the goal of calibration is to make the display behave as much like a professional monitor as possible .
 ideally , the display should serve as a neutral and accurate communicator of the video signals delivered for the viewer .
 only then can artistic integrity , display accuracy , and image fidelity be completely enjoyed .
 in the end , it 's really all about correctly communicating the art .
 best regards and beautiful pictures , g. alan brown , president cinemaquest , inc. .
-a lion av consultants affiliate `` advancing the art and science of electronic imaging ''
+a lion av consultants affiliate " advancing the art and science of electronic imaging "

@@ -1,5 +1,0 @@
-i need a simple guide on how to set up tethering on an s60v5 phone .
-i 'm in need of a site which lays out the steps or someone who 's willing to write down the steps as my parents need to use this feature right now .
-i would just tell them how to do it , but i do n't have an s60 phone in front of me nor is google giving me anything that does n't have to do with isync -lrb- they 're using a pc -rrb- or lays it out in simple steps .
-i want to say they just have to download pc suite and it should be in there ... what am i missing ?
-can anyone help ?

@@ -1,10 +1,10 @@
 help needed for repairs to philips 42pf9964 .
-we have a 42pf9964 which we purchased from sevenoaks sound and vision in january 2003 , for just under # 4,300 , and have experienced a continual problem with the on/off switch .
+we have a 42pf9964 which we purchased from sevenoaks sound and vision in january 2003 , for just under £ 4,300 , and have experienced a continual problem with the on / off switch .
 when i switch the tv on , it appears as though it is going to start i.e the green light comes on , then after about 10 seconds it switches itself off and the standby light flashes red .
 it takes 10 / 12 times before it starts and eventually does not work at all .
 apparently , the problem is caused by three faulty capacitors - 2663 , 2664 both 100µ / 25v and 2662,1000 µ / 25v .
 the problem first occurred early in 2005 and eventually rendered the set unusable in april of that year .
-when i first contacted the manager of the shop from whom i purchased the unit he said that he would speak to philips and get somebody there to contact me - this never happened and after several more calls he told me that they could arrange an out of warranty repair for around # 400 !
+when i first contacted the manager of the shop from whom i purchased the unit he said that he would speak to philips and get somebody there to contact me - this never happened and after several more calls he told me that they could arrange an out of warranty repair for around £ 400 !
 after a lot of telephone calls emails and letters to sevenoaks , enclosing a copy of the sale of goods act , ending with the assistant to the md , philips arranged for the machine to be repaired in july 2005 , completely free of charge !
 however , the same fault developed again in february of this year but , whilst deciding what to do , we were able to get around the problem by leaving the unit switched on and connected to the pc screensaver when not in use .
 unfortunately , we experienced a power cut earlier this month and although it only lasted about 15 minutes it was enough to put the unit completely out of action .

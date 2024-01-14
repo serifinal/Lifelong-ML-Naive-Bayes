@@ -1,7 +1,0 @@
-arcsoft tmt - dd over spdif with mkv or m2ts .
-all , does anyone have dolby digital + or dolby digital correctly sent via spdif to their receivers ?
-tmt always downgrades to 2 channell sterio for me and only passed 5.1 when i tried using a dvd rip with dolby digital ex on it .
-what am i missing ?
-what am i doing wrong ?
-i have spdif selected in the drop down and i have tried both enable mixer and disable mixer .
-thanks

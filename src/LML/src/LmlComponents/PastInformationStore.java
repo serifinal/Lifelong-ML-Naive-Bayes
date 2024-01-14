@@ -9,13 +9,14 @@ import FeatureSelection.FeatureSelection;
 
 public class PastInformationStore {
 
-    private MyHashMap xPos;
-    private MyHashMap xNeg;
-    private long numPositiveDocument;
-    private long numNegativeDocument;
-    private MyHashMap dictionary;
-    private double sumPos;
-    private double sumNeg;
+    private MyHashMap xPos; //Các từ w và số lần xuất hiện trong nhãn (+) ở thời điểm hiện tại N(t^)
+    private MyHashMap xNeg; //Các từ w và số lần xuất hiện trong nhãn (-) ở thời điểm hiện tại N(t^)
+    private long numPositiveDocument; //Số lượng dữ liệu nhãn dương
+    private long numNegativeDocument; //Số lượng dữ liệu nhãn âm
+    private MyHashMap dictionary; //Từ điển
+    private double sumPos; //Tổng số từ xuất hiện trong các văn bản nhãn (+)
+    private double sumNeg; //Tổng số từ xuất hiện trong các văn bản nhãn (-)
+    // Các dữ liệu huấn luyện đến thời điểm hiện tại
     private List<Document> trainData;
 
     public PastInformationStore() {
@@ -25,8 +26,9 @@ public class PastInformationStore {
         trainData = new ArrayList<>();
     }
 
+    //Thêm thông tin cần thiết vào domain
     public void addDomainData(DomainData domainData) {
-        // add positive document:
+        // Thêm văn bản nhãn dương
         for (Document document : domainData.getListPositiveDocument()) {
             trainData.add(document);
             ++numPositiveDocument;
@@ -34,7 +36,7 @@ public class PastInformationStore {
                 xPos.putAdd(word, document.getListWord().get(word));
             }
         }
-        // add negative document:
+        // Thêm văn bản nhãn âm
         for (Document document : domainData.getListNegativeDocument()) {
             trainData.add(document);
             ++numNegativeDocument;
@@ -43,16 +45,18 @@ public class PastInformationStore {
             }
         }
 
-        // feature selection:
+        //Trích chọn đặc trưng
         FeatureSelection fs = new FeatureSelection(trainData, 1500);
         List<String> listFeatureSave = fs.getListFeatureSave();
 
-        // Clear:
+        //Bỏ đi những đặc trưng trong văn bản nhãn dương không có trong list save
         for (String word : xPos.getListKeys()) {
             if (!listFeatureSave.contains(word)) {
                 xPos.remove(word);
             }
         }
+
+        //Bỏ đi những đặc trưng trong văn bản nhãn âm không có trong list save
         for (String word : xNeg.getListKeys()) {
             if (!listFeatureSave.contains(word)) {
                 xNeg.remove(word);
@@ -66,14 +70,6 @@ public class PastInformationStore {
         // Find sumPos and sumNeg:
         sumPos = xPos.getSumAllValues();
         sumNeg = xNeg.getSumAllValues();
-    }
-
-    public double getpPos(String word) {
-        return Math.log(1 + xPos.get(word)) - Math.log(dictionary.size() + sumPos);
-    }
-
-    public double getpNeg(String word) {
-        return Math.log(1 + xNeg.get(word)) - Math.log(dictionary.size() + sumNeg);
     }
 
     public List<Document> getTrainData() {

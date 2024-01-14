@@ -1,5 +1,5 @@
 panasonic g20 subtitles ono bbc 1 hd .
-if i watch bbc1 hd on freesat with subtitles on and ` mute ' enabled , my g20 -lrb- bought 11/2010 -rrb- locks up and has to be power cycled .
+if i watch bbc1 hd on freesat with subtitles on and ' mute ' enabled , my g20 ( bought 11/2010 ) locks up and has to be power cycled .
 interestingly turning the sound down instead of pressing mute avoids the problem !
 does any one else get this ?
 i have the latest software i think simon

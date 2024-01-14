@@ -4,10 +4,10 @@ while i was in tanzania recently , i filled one of the sd cards up with videos a
 bad move .
 when i tried to do this , it told me the dvd had burned but then there was no sign of any data on the dvd .
 i did not delete the data from the card , only copied it .
-when i put the card back in the camera and tried to take a picture , it said ` unable to create folder ' -lrb- or words to that effect -rrb- and then said ` no image ' when i tried viewing any of the pics .
+when i put the card back in the camera and tried to take a picture , it said ' unable to create folder ' ( or words to that effect ) and then said ' no image ' when i tried viewing any of the pics .
 i did nothing more with that card after that until i got home yesterday and put it in my home pc .
 i opened it in windows explorer and momentarily saw the usual dcim and misc folders , then immediately the mcafee anti virus software told me it had intercepted 2 viruses on the card .
 now , viewing it in windows explorer , i can see no data on the card and neither can i see the dcim or misc folders .
 but when i right click on properties , it tells me the card remains full almost to capacity .
-how can i get the pics/videos back ?
+how can i get the pics / videos back ?
 thanks mark

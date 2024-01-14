@@ -1,8 +1,0 @@
-.
-i have a sony hdr-v1 and have been using it with no problems on my 17 '' macbook pro 2.4 ghz -lrb- 10.5.4 -rrb- for almost two years now .
-just recently , in the last few weeks i 've noticed everything i 've recorded -lrb- and transferred to my mbp -rrb- has shown severe pixelation and artifacts whenever there is sudden or fast movement or panning with the camera .
-artifacts also show up when there is a bright flash of light .
-these issues do not show up while recording and it only appears to be in playback .
-i 've updated osx to all latest updates and am using final cut pro & os x leopard 10.5.4 .
-what i 'm getting at here is ; is the camera **** ed ?
-its a year out of warranty and i know sony are gon na hit me where it hurts to fix this ... below is a screenshot i took of the issue :

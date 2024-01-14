@@ -1,9 +1,8 @@
 news bits : sandisk and sony developing memory stick pro-hg , olympus bioscapes imaging competition winners .
 sandisk and sony working on new memory stick pro-hgsandisk and sony have announced that they 're working on a new memory stick pro-hg format that improves upon the memory stick pro format .
-to acommodate the ever increasing storage capacities , they have made improvements to speed up the data transfer to and from the memory card.an enhanced 8-bit parallel interface , in addition to the standard serial and 4-bit parallel interface , along with a clock speed increase up to 60mhz -lrb- from 40 mhz -rrb- , allow transfer rates up to 60mb/second .
+to acommodate the ever increasing storage capacities , they have made improvements to speed up the data transfer to and from the memory card.an enhanced 8 - bit parallel interface , in addition to the standard serial and 4 - bit parallel interface , along with a clock speed increase up to 60 mhz ( from 40 mhz ) , allow transfer rates up to 60mb / second .
 this transfer rate is three times the speed of the current memory stick pro format .
-the minimum write speed across the 8-bit parallel interface is 15mb/second .
-the new pro-hg format will work in new pro-hg compliant devices as well as devices that can handled the standard memory stick pro format .
+the minimum write speed across the 8 - bit parallel interface is 15mb / second.the new pro-hg format will work in new pro-hg compliant devices as well as devices that can handled the standard memory stick pro format .
 likewise , memory stick pro format will work in memory stick pro-hg compliant devices.the new memory stick pro-hg memory will be available in 2007 .
 winners announced in olympus bioscapes imaging competitionthe olympus bioscapes imaging competition has recently announced it 's winners from the 2006 competition .
 the contest awards images and videos of plant , animal , and human subjects captured through light microscopes .
@@ -16,4 +15,4 @@ deerinck is a researcher at the national center for microscopy and imaging resea
 21 of the images will be on display from december 12 , 2006 to march 5 , 2007 at the san diego natural history museum .
 after leaving san diego , the photographs will tour museums throughout the u.s. as part of a program developed in tandem with natural history magazine .
 tour stops include los angeles , woods hole , mass. , ann arbor , mich. , new york city and philadelphia .
-additional bioscapes exhibits will tour st. louis , allentown , penn. , dallas and suburban washington , d.c. read more ... -lsb- olympus press release -rsb- see more ... -lsb- olympus bioscapes website -rsb-
+additional bioscapes exhibits will tour st. louis , allentown , penn. , dallas and suburban washington , d.c. read more ... [ olympus press release ] see more ... [ olympus bioscapes website ]

@@ -1,12 +1,12 @@
 panasonic th42pz80 pc connection missing .
 trying to help a friend connect his laptop to a panasonic plasma tv th42pz80 .
-we used an standard analogue `` sub-d '' cable used to connect pc monitors to pc 's .
+we used an standard analogue " sub-d " cable used to connect pc monitors to pc 's .
 this was plugged into the socket marked pc on the back of the tv .
-from the remote we pressed `` av '' and a list of av connections was displayed .
-the manual states that there should be an entry entitled `` pc '' , but there was n't -lrb- ? -rrb-
+from the remote we pressed " av " and a list of av connections was displayed .
+the manual states that there should be an entry entitled " pc " , but there was n't ( ? )
 needless to say we could not display the laptop screen on the tv .
-the `` hdmi3 '' connection was also missing from the list despite there being a socket so marked .
-tried different power up sequences -lrb- tv - laptop ; laptop - pc -rrb- but to no avail .
+the " hdmi3 " connection was also missing from the list despite there being a socket so marked .
+tried different power up sequences ( tv - laptop ; laptop - pc ) but to no avail .
 i have used this type of cable to connect laptops and pc 's to sony tv 's via the sub-d connector and they worked fine first time .
 any thoughts ?
 does your th42pz80 show a pc connection on the av list ?

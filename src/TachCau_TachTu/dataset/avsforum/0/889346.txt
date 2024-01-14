@@ -1,5 +1,5 @@
 sony xbr6 and similar w4100 wl140 etc hack ? .
-i assume that sony -lrb- as most other manuf . -rrb-
+i assume that sony ( as most other manuf . )
 does not produce dozens of chip sets - but the model differences are done thru software only .
 it could possibly mean that same family models can be hacked , by implanting software from the better model into the lesser model .
 usually it is done by substituting headers in firmware update so the given hardware accepts the update .

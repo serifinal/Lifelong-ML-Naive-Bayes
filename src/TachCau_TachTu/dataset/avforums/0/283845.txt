@@ -1,5 +1,5 @@
 cant see panasonic g20 on pc network ! .
-ive been having trouble playing back movies and according to teh support guys -lrb- who i believe as i has already suspected it -rrb- apparently its due to my movies being on my nas box , the pc running the software and then trying to stream it back to the tv !
+ive been having trouble playing back movies and according to teh support guys ( who i believe as i has already suspected it ) apparently its due to my movies being on my nas box , the pc running the software and then trying to stream it back to the tv !
 so , i 've moved the movies onto my pc to reduce network traffic and aim to play them from there .
 i can see the nas box just fine on the tv but for teh life of me i have no idea how to get the pc to show up .
-i actualy read the manual but its broddy ueless -lrb- or is it me -rrb- so can some kind soul please point me in teh right direction ?
+i actualy read the manual but its broddy ueless ( or is it me ) so can some kind soul please point me in teh right direction ?

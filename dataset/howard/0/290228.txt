@@ -1,3 +1,0 @@
-media net settings for samsung gravity .
-does anyone have a step-by-step procedure for enabling at&t 's media net on a t-mobile samsung gravity ?
-from my reading , access to profiles seems to be : * # 87927 # then it gets a little dicey .

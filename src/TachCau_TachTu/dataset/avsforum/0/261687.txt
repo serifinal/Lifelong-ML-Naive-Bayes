@@ -1,4 +1,4 @@
-toshiba 52hm84 ballast replacement -lrb- with large pics ! -rrb- .
+toshiba 52hm84 ballast replacement ( with large pics ! ) .
 first , many thanks to those of you who have done this before me and posted elsewhere .
 there was a request for pics of the ballast board install , so here it is .
 full disclosure and warning : you are on your own and i warrant nothing from these procedures .
@@ -17,7 +17,7 @@ the toshiba service manual .
 refer to it often if you get lost .
 - download it here .
 4 .
-the ballast board -lrb- toshiba part number : 23122468 -rrb- .
+the ballast board ( toshiba part number : 23122468 ) .
 i got mine from conn 's in flordia here .
 5 .
 some tape or a marker to label some of the cables so you do n't forget what went where .
@@ -36,7 +36,7 @@ it should look like this : 3 .
 to get an idea of where we 're going , as you look at the back of the tv , just behind the fan and lamp assembly is the ballast board , looks like this : 4 .
 next , remove the screws from the silver brace arm in the middle and the bronze screws that hold the light engine assembly .
 this brace is attached to the ribbon cable by a zip tie ; you do not have to cut the zip tie if you do n't want to .
-refer to the service manual if the pic below does n't show the screws clearly , but it will be obvious when you are looking at the `` light engine sled '' .
+refer to the service manual if the pic below does n't show the screws clearly , but it will be obvious when you are looking at the " light engine sled " .
 5 .
 remove the bronze screw holding the plastic shield that angles down to the lamp .
 this screw is kind of hard to see just looking at the back of the tv , it is located up and above the ribbon cable attached to the back av board .
@@ -54,9 +54,9 @@ slowly and carefully , pull out the light engine assembly .
 there are 2 yellow leads that power the lamp assembly that you can remove if needed .
 to remove them , slide the rubber footing off , and you will see a very small clip , push the clip back while pulling on the lead and it will come off .
 if you do take the leads off , be sure to label them with a marker or some tape .
-mine were quite stubborn in letting go -lrb- i did n't see the clips under the rubber footing before this posted -rrb- , so i left them on .
+mine were quite stubborn in letting go ( i did n't see the clips under the rubber footing before this posted ) , so i left them on .
 if you do leave them on , be carefull of the stress on the cable going around the lens assembly .
-i removed the cables from the plastic do-hickey holding onto them and moved the yellow cables to the front of the lens assembly .
+i removed the cables from the plastic do - hickey holding onto them and moved the yellow cables to the front of the lens assembly .
 9 .
 next , slowly pull out the light engine sled and turn it so that you have access to the ballast assembly , like so : 10 .
 noticing how filthy your ballast board probably is , remove the two screws holding the ballast board .

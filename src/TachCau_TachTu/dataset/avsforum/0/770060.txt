@@ -1,6 +1,6 @@
 disappointing dark scenes with vmr9 .
 i 'm running xp pro with nvidia 8600gt .
-most of the content i watch is 720p mkv files -lrb- to play them i use the latest coreavc codec with haali -rrb- when i run these files with the default renderer of media player classic , dark scenes look great on my plasma screen .
-when i use the vmr9 -lrb- renderless -rrb- renderer instead , there is a noticeable improvement of the overall picture in terms of sharpness , depth and better look .
+most of the content i watch is 720p mkv files ( to play them i use the latest coreavc codec with haali ) when i run these files with the default renderer of media player classic , dark scenes look great on my plasma screen .
+when i use the vmr9 ( renderless ) renderer instead , there is a noticeable improvement of the overall picture in terms of sharpness , depth and better look .
 but , when using vmr9 , dark scenes just do n't show all the details , the separation is bad , i get a much better view with the default renderer .
-since i like the overall picture received with the vmr9 , i want to ask if there is something i can do in order to improve the visibilety of dark scenes with this renderer -lrb- or maybe you have a different suggestion -rrb- .
+since i like the overall picture received with the vmr9 , i want to ask if there is something i can do in order to improve the visibilety of dark scenes with this renderer ( or maybe you have a different suggestion ) .

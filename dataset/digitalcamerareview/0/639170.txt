@@ -1,3 +1,0 @@
-superfine vs fine jpeg file format .
-with the powershot a610 : can anyone tell me if there is any benefit when using superfine jpeg compression instead of fine compression .
-under what circumstances should i use the superfine setting ?

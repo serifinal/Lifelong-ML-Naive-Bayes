@@ -1,9 +1,9 @@
 amazing dj 's livingroom progress .
 i am building a home theater into the end of a livingroom .
 thanks to all in this forum for ideas .
-this is a low-budget project .
-here is the `` before '' photo showing the room just before we moved into the house ... and here is what the setup presently looks like with a friggin huge screen .
-the screen was built with $ 13 worth of curtain backing from jo-ann fabrics .
+this is a low - budget project .
+here is the " before " photo showing the room just before we moved into the house ... and here is what the setup presently looks like with a friggin huge screen .
+the screen was built with $ 13 worth of curtain backing from jo - ann fabrics .
 the material was tightly stretched across some furring strips and then stapled down .
 then i created a simple black frame by nailing some wooden baseboard mouldings over the top ... it is my own design utilizing mdf fiberboard from lowe 's .
 here is a front view of the console i built .
@@ -12,16 +12,16 @@ the console looks heavy , but can slide across the carpet easily for any wiring 
 it sits on flat furniture sliders , making it very easy to move .
 i 've noticed that some people make the mistake of putting their screens too high above eye level .
 when seated , your eyes are supposed to be looking straight ahead to the bottom third of the screen .
-to accomplish that , i built this low-profile shelving unit to house the electronics .
-side view from right-to-left has one of the sony 5.1 speakers , and a multitech usb voice/faxmodem .
-this gives amazing pop-up caller id on the mce screen .
+to accomplish that , i built this low - profile shelving unit to house the electronics .
+side view from right - to - left has one of the sony 5.1 speakers , and a multitech usb voice / faxmodem .
+this gives amazing pop - up caller id on the mce screen .
 the caller id is via a program called tapirex which displays the name and photo of the caller , in addition to speaking their name through the livingroom speakers !
-i have the computer-synthesized voice programmed to say silly phrases such as `` heavens to mergatroid ! ''
-... this is the midsection of the do-it-yourself hdtv projection entertainment system .
-the blue lighted thing in the center is a thermaltake 4-fan controller from fry 's electronics .
-it controls the four 120mm fans on the deck above that are cooling the hpz560 computer .
+i have the computer - synthesized voice programmed to say silly phrases such as " heavens to mergatroid ! "
+... this is the midsection of the do - it - yourself hdtv projection entertainment system .
+the blue lighted thing in the center is a thermaltake 4 - fan controller from fry 's electronics .
+it controls the four 120 mm fans on the deck above that are cooling the hpz560 computer .
 the fan controller has an automatic speed setting which is set by unseen temperature sensors hanging above the hp unit .
-the 120mm fans guarantee that the hp stays cool .
+the 120 mm fans guarantee that the hp stays cool .
 the grilles are made by bitspower , called mesh radguard 240 .
 initially , the blue led fans were too bright .
 they were casting a blue glow onto the screen .
@@ -30,16 +30,16 @@ it was a simple task to put a flat black dab of paint over each led .
 that made the fan plastic glow blue without throwing blue light upwards from the fan area .
 the thermaltake controller and fans are powered by a separate recycled computer power supply which hides behind my dvd cases ... .
 here is a closeup of the antec tri-cool led fans i came up with which are covered with mesh radguard 240 grilles ... you ca n't buy this .
-being new to the home theater scene , i did n't rush out and buy an expensive ceiling-mounted projector holder .
-instead , i used a cast-off equipment rack i found leaning against a dumpster .
+being new to the home theater scene , i did n't rush out and buy an expensive ceiling - mounted projector holder .
+instead , i used a cast - off equipment rack i found leaning against a dumpster .
 i painted it to match my green wooden furniture .
 then i added some chrome adhesive trim to dress it up .
 the rack is sturdy and is screwed to the floor with drywall screws .
 i made this stand for the cost of a can of spray paint !
-the projector is a mitsubishi hc1500 hd dlp unit which is secured upside-down for proper throw angle to the screen which is 12 feet away .
+the projector is a mitsubishi hc1500 hd dlp unit which is secured upside - down for proper throw angle to the screen which is 12 feet away .
 the couch was recently upgraded with some bass shakers underneath .
-the 4 tactile transducers give a vibrating `` feel '' to each movie or videogame .
-some woon bass shakers are driven by a dayton 400-watt subwoofer amp .
+the 4 tactile transducers give a vibrating " feel " to each movie or videogame .
+some woon bass shakers are driven by a dayton 400 - watt subwoofer amp .
 later , i 'll get some pics posted of the custom amp housing i made ... this is a dramatic curved top shelf that is attached above the top of the screen frame .
 the shelf holds a nice sony center channel speaker which i found cheap on ebay for about $ 30 .
 the shelf also had room for a couple of decorative diecast pontiac gtos from 1968 and 1969 .
@@ -48,11 +48,11 @@ there are four pieces held together with drywall screws .
 all the holes and joints were filled with wood putty and sanded smooth .
 once completed , this shelf is held up with drywall screws into the wall studs ... .
 for my setup i was shopping for some of those big dolby digital or pl2 plaques that hang in a home theater .
-i did n't like how large the ready-made plaques were .
-so i made these chrome-like emblems myself .
+i did n't like how large the ready - made plaques were .
+so i made these chrome - like emblems myself .
 they were printed from vector artwork found on the web .
-they are affixed to metal-film tape to give it a `` manufactured '' look .
-you are looking at home-made stickers affixed to a wooden screen frame .
+they are affixed to metal - film tape to give it a " manufactured " look .
+you are looking at home - made stickers affixed to a wooden screen frame .
 how do you think they turned out ?
 ... here is a photo of the construction of the console .
 tip : if you want to put screws into mdf wood , you must pre-drill each and every hole or the mdf will split like plaster .
@@ -61,7 +61,7 @@ also , be careful not to overtighten screws in mdf .
 if you do , the screws strip quite easily .
 another tip about mdf is the stinky smell .
 so paint or seal it with at least three coats of paint .
-note how the back -lrb- rightside -rrb- is set back a little bit ?
+note how the back ( rightside ) is set back a little bit ?
 that feature leaves room for the cords to run between video components so they 're not smashed against the wall ... another view of the console .
 the shelf sections are notched out .
 it all fits together like a simple jigsaw puzzle .

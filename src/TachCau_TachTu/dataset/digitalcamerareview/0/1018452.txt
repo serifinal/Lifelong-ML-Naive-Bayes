@@ -1,6 +1,6 @@
 transfer images back to memory card .
 hi , i have canon power shot sx110 is .
-when i try to transfer images back to memory card i got message that `` the image is a jpeg that can not be displayed on the camera '' .
+when i try to transfer images back to memory card i got message that " the image is a jpeg that can not be displayed on the camera " .
 i have the same message even when i tried to transfer images taken by this camera .
 can please anyone advise how to fix this issue .
 thanks

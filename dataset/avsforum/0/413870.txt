@@ -1,7 +1,0 @@
-powerdvd 8 or arcsoft tmt - which better for vista m.c. / mymovies ? .
-i 'm pretty disappointed with the totally disjointed and -lrb- un -rrb- seamless integration between powerdvd and mymovies 2.46 when playing bluray iso 's for example .
-i am about to try arcsoft tmt but wondered what others ' experiences were .
-it 's frequent that i get `` stuck '' in powerdvd after launching and playing a bluray title from mymovies , and i ca n't get back to media center interface with my media center remote , forcing me to get up and and fiddle with the mouse/keyboard , and basically killing the 10 ' experience .
-when purevideo was doing mpeg2 decoding , that integration was seamless with no annoying spawning of a separate player app .
-i wonder if we 'll ever get to that same level of integration with vista media center ?
-anyone have a tip on how the heck i exit the powerdvd app with my media center remote after i 've hit stop on bluray playback ?

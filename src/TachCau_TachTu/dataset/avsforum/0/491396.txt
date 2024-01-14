@@ -2,24 +2,24 @@
 you are in the wrong section of the forum if you want to copy or share display menu settings .
 try the display owners section that corresponds to your model .
 copying settings is not calibration .
-this is the ` display calibration ' section of the forum .
-all that such foolishness will get you is a tv picture that might look a little like someone else 's tv -lrb- which you have likely never seen -rrb- .
+this is the ' display calibration ' section of the forum .
+all that such foolishness will get you is a tv picture that might look a little like someone else 's tv ( which you have likely never seen ) .
 then again , it might not look anything at all like theirs .
 how do you know your viewing environment conditions will be identical ?
 will you also insist that they used the same dvd player that had its picture options menu set the same as yours ?
-some basic `` picture modes '' may be superior on certain displays .
+some basic " picture modes " may be superior on certain displays .
 these can be used in common for better performance , but actual picture adjustment values can vary significantly .
-electronic component tolerances used in consumer tvs and source components are very loose and imprecise -lrb- + / - 10 % or worse -rrb- .
+electronic component tolerances used in consumer tvs and source components are very loose and imprecise ( + / - 10 % or worse ) .
 because these tolerances are so imprecise , two samples of tv can come off the same assembly line and require very different picture settings to look near the same .
 i vividly experienced this last year when i was called in as an image quality analysis consultant for one of the largest national cable tv companies .
-they were doing a research project , using three new higher-end panasonic 50 '' plasmas of the same model , and set up in ideal viewing conditions .
+they were doing a research project , using three new higher - end panasonic 50 " plasmas of the same model , and set up in ideal viewing conditions .
 their engineers had gone over the picture settings on each display and set the menu items all identically .
-two of the plasmas looked nearly like each other -lrb- still not identical -rrb- , but the third one obviously looked quite different .
-widely respected professional calibrators , who have aligned thousands of consumer and professional displays in their careers , agree on this point -lsb- example : http://www.avsforum.com/avs-vb/showt...2#post16121112 -rsb- .
+two of the plasmas looked nearly like each other ( still not identical ) , but the third one obviously looked quite different .
+widely respected professional calibrators , who have aligned thousands of consumer and professional displays in their careers , agree on this point [ example : http://www.avsforum.com/avs-vb/showt...2#post16121112 ] .
 the only way to reliably attain a more accurate image from any consumer display is to use reference test signals , not another display 's settings .
 at minimum , use a calibration dvd on your player , to adjust your television , follow the tutorial instructions , set the picture controls for your viewing environment conditions , and learn something from the experience .
 the simplest remedy is to hire a professional .
 excellence in any endeavor requires extra effort .
 copying others ' work on another device is a fool 's errand , with no assurance of improvement .
 best regards and beautiful pictures , g. alan brown , president cinemaquest , inc. .
-a lion av consultants affiliate `` advancing the art and science of electronic imaging ''
+a lion av consultants affiliate " advancing the art and science of electronic imaging "

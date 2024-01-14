@@ -1,5 +1,5 @@
 email issue on motorola droid .
-when i first got my droid -lrb- not long ago -rrb- it would notify throughout the day that a new email had arrived .
+when i first got my droid ( not long ago ) it would notify throughout the day that a new email had arrived .
 similar to the way an sms text arrives , the phone beeped , an entry for the new email showed up along the top , etc. .
 for the past week or so this no longer occurs .
 if i go to my email and click refresh , all the new messages appear that were received since last time i manually refreshed .

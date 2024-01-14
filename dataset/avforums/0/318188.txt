@@ -1,5 +1,0 @@
-vt20 - thx mode problems .
-whenever i use thx mode -lrb- when watching sky -rrb- i get a thin black and white striped line at the top of the screen .
-anyone know why this is ?
-and how i can correct it ?
-thanks

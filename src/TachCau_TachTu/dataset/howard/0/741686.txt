@@ -1,6 +1,6 @@
 page plus , outgoing smtp server .
 i understand that google 's smtp server could be used , but i 'm wondering if there are any other options .
-there seem to be few discussions of this here -lrb- if you search for smpt in the pageplus forums anyway -rrb- .
-my current email provider does n't allow outgoing mail unless i 'm on their network -lrb- which i suppose i could do via dialup -rrb- .
+there seem to be few discussions of this here ( if you search for smpt in the pageplus forums anyway ) .
+my current email provider does n't allow outgoing mail unless i 'm on their network ( which i suppose i could do via dialup ) .
 is there a reliable smtp gateway for pageplus that does n't involve google ?
 regards , hans

@@ -1,14 +1,14 @@
-optical audio problem on panasonic tc-50ps14 .
+optical audio problem on panasonic tc - 50ps14 .
 recently i had a soundbar go out on me .
-this was connected to my tv -lrb- panasonic viera 50 '' plasma -rrb- via the optical audio out on the back of the tv .
+this was connected to my tv ( panasonic viera 50 " plasma ) via the optical audio out on the back of the tv .
 when replacing my soundbar , i ran the optical audio cable back into the back of the soundbar but got nothing .
 thinking it was a shoddy connection , i decided to fiddle with the connection , cleaning it out , etc. .
 still nothing .
-however , as i unplugged the cable and replugged it , i got about 0.5-1 second of audio before it just cut out on me .
+however , as i unplugged the cable and replugged it , i got about 0.5 - 1 second of audio before it just cut out on me .
 the analog inputs on the soundbar worked just fine if i connected my cable box directly to the soundbar , but it would n't receive the optical signal from the tv .
 i ordered a new optical cable and still had the same problem thinking it was the soundbar , i returned it and got a new one .
 i have the same problem with this new soundbar , so i figure it was the tv .
 to verify , i unplugged the optical cable from the back of the tv and plugged it into my xbox 360 .
 this worked just fine , the soundbar had no problems receiving the digital signal from the xbox .
-it just does n't want to receive a signal from the tv even though a signal is coming from it -lrb- the end of the cable is lit red -rrb- .
+it just does n't want to receive a signal from the tv even though a signal is coming from it ( the end of the cable is lit red ) .
 i could n't find a way to really mess with the audio settings on the tv itself and how it outputs the audio signal .

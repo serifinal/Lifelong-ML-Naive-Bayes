@@ -1,8 +1,0 @@
-plasma `` looses '' audio signal ? .
-hi all i have a panasonic dmp-bd65 bluray player connected -lrb- hdmi -rrb- to my tx-p37x10b plasma , via a sony str-dg820 receiver .
-my humax foxsat hdr is connected directly to the plasma -lrb- hdmi -rrb- for general tv viewing .
-the problem occurs when we 've finished watching a film on the bluray and switch back to tv viewing via the humax , there is picture but no sound .
-i 've tried switching the receiver off , selecting the av source on the plasma to hdr , but neither work , the only way i 've found to correct the problem is to switch the plasma off , wait a few seconds and switch it back on , then the sound returns ?
-now i 'm not sure whether this is a issue with my av amp or the plasma .
-does anyone have any ideas where i should be looking to correct this .
-thanks all

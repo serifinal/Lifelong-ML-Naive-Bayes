@@ -8,7 +8,7 @@ i tried connecting a cable that is component video on one side and svga on the o
 the component video inputs on the back of the tv only go to 480 .
 directv had no solution for the problem , they told me to get a new tv .
 rca had no solution as well .
-i am not sure if i am having an analog/digital compatibilty issue .
+i am not sure if i am having an analog / digital compatibilty issue .
 rca informed me that the svga2 input is a digital input .
 i am not sure what to do .
 any help would be greatly appreciated as the tv works great and has a great picture .

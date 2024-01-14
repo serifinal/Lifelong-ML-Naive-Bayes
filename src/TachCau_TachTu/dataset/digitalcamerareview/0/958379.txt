@@ -1,5 +1,5 @@
 powershot sx20 rotation display problem .
-when i take a picture in landscape mode -lrb- horizontal -rrb- , i can see through the display screen .
+when i take a picture in landscape mode ( horizontal ) , i can see through the display screen .
 when i turn it to take a picture vertically , i can no longer see the display screen .
 i have hit the display button several times and am unable to view through it .
 thanks for your help !

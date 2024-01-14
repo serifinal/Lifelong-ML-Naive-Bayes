@@ -5,5 +5,5 @@ i can view the pc but the screen bleeds over past the edge of the screen , i can
 i have tried intel , nivida , and ati cards all with the same result .
 i do not have the remote for this tv to reset it to defaults . .
 any help would be appreciated .
-i am connecting the pc through the dvi port -lrb- which works with my xbox 360 hdmi > dvi cable and looks great -rrb- i have not yet tried through the component cable since i will have to buy the dongle to send component out of my video card .
+i am connecting the pc through the dvi port ( which works with my xbox 360 hdmi > dvi cable and looks great ) i have not yet tried through the component cable since i will have to buy the dongle to send component out of my video card .
 any thoughts on this ?

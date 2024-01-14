@@ -1,7 +1,7 @@
 outlook business contact manager - best device ? .
-i use outlook 2007 business contact manager -lrb- bcm -rrb- to track contacts , vendors and related e-mails .
-i must be able to link e-mails to a specific client/contact .
+i use outlook 2007 business contact manager ( bcm ) to track contacts , vendors and related e-mails .
+i must be able to link e-mails to a specific client / contact .
 which brand of smartphone offers the easiest syncing between bcm on my computer and the smartphone .
-so far i 'm finding `` ca n't do that but here 's a workaround '' .
+so far i 'm finding " ca n't do that but here 's a workaround " .
 does anyone use bcm and have a smartphone they 're happy with with reasonable sync ?
 thanks

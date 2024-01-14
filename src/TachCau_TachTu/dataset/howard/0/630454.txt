@@ -11,12 +11,12 @@ sometimes apps go rogue and go mad .
 speedtest.net once tried to keep getting a gps signal in my building to figure out what server you use .
 with no exit button it kept going .
 had to kill it to prevent my battery from dying .
-and maybe rarely -lrb- since android tries to manage memory quite well -rrb- , you might need to free up memory .
+and maybe rarely ( since android tries to manage memory quite well ) , you might need to free up memory .
 for those of you complaining about programs randomly being in memory , there 's a difference between a program running in the background and one that 's loaded into memory .
 talk to a linux dev and you might understand a little better , but this is typically how things work there .
-anyway , the pause/resume tactic of windows mobile 7 is n't that bad to me .
+anyway , the pause / resume tactic of windows mobile 7 is n't that bad to me .
 it makes sense .
-you do n't have a 24 '' widescreen monitor with your phone .
+you do n't have a 24 " widescreen monitor with your phone .
 you do n't really need 10 apps running at a time .
 what for ?
 if you can save state , that 's all you really need .
@@ -40,7 +40,7 @@ we want background notifications like the iphone .
 one thing we lack right now is im that has push , and there 's been a lot of talk about it for meebo .
 it 's a lot better than having an app open just for the sake of being able to im .
 why waste your battery ?
-i find it funny people want multitasking so they can chat and surf at the same time -lrb- what many people mentioned on this s60 board before -rrb- , yet its ironic that push notifications will do the trick and save battery -lrb- not to mention your best im app on s60 is still trash compared to the worst im app on android/iphone -rrb- .
+i find it funny people want multitasking so they can chat and surf at the same time ( what many people mentioned on this s60 board before ) , yet its ironic that push notifications will do the trick and save battery ( not to mention your best im app on s60 is still trash compared to the worst im app on android / iphone ) .
 so i feel unless you can have 2 apps side by side , it 's quite pointless to scream about multitasking .
 i think we need it to some degree , and maybe future oses will provide a better balance .
 windows mobile 7 is certainly going in a better direction than iphone 3.0 right now ... .

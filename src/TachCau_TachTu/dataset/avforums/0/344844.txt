@@ -1,7 +1,7 @@
 panasonic vt20 white brightness reduction .
 hey guys , first time posting here .
 i bought a panasonic 54inch vt20 about a week ago and i am loving it so far .
-i just have one question about an `` issue '' i am having , it does n't really bother me that much but i 'd like to try and see if there 's a fix for it .
+i just have one question about an " issue " i am having , it does n't really bother me that much but i 'd like to try and see if there 's a fix for it .
 basically if the whole screen has mostly white , it will reduce the overall brightness of the display .
 i have turned off eco mode and power save , tried different display presets and it does the same thing .
 there 's a youtube video i found of a kuro doing the same thing here : youtube - & #x202a ; plasma screen overall brightness reduces as input frame brightness is increased & #x202c ; & rlm ; does anyone know a way you can fix this or is it normal for all tvs ?

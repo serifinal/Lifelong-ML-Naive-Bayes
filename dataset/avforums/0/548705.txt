@@ -1,8 +1,0 @@
-panasonic g20 - ca n't play some .
-avi files .
-so , i seem to have a returning problem .
-some of my films can easily be played -lrb- .
-avi files -rrb- , but some other -lrb- also .
-avi files -rrb- wo n't play at all .
-it 'll tell me that it ca n't read the file , why ?
-i 'm using dlna , but it does the same thing with my sdhc card .

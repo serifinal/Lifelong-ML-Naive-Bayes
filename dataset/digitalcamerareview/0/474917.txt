@@ -1,6 +1,0 @@
-camera window on powershot model .
-hi there i just bought a powershot 4500 and i use the camera window programm to download pictures onto my hard drive .
-the problem is , when i connect by usb , it doesnt give me the option to start up camera window .
-i need to manually open the program -lrb- through start -- > program -rrb- in order to download .
-is there a way to have the computer connect via usb to the camera and have the pop-up show the camera window program ?
-thanks !

@@ -1,4 +1,4 @@
-video chat -lrb- facetime -rrb- an api ? .
+video chat ( facetime ) an api ? .
 can video chat on iphone4 be used for 3rd party apps as well ?
 an api for other developers to embed into their apps such as skype , beejive & yahoo messenger ?
 also , what are the other new features with iphone4 that are apis for 3rd party developers ?

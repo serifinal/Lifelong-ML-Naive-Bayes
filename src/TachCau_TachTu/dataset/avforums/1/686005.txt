@@ -1,10 +1,10 @@
 panasonic 42gt30 hdmi input madness . .
-ok i have a panny 42gt30 and an onkyo avr -lrb- nr609 -rrb- .
-all is good and i have got the arc working when the tv is in net mode -lrb- bbc iplayer and the like -rrb- .
-problem : when the tv starts up , it starts in `` internal freesat '' mode .
+ok i have a panny 42gt30 and an onkyo avr ( nr609 ) .
+all is good and i have got the arc working when the tv is in net mode ( bbc iplayer and the like ) .
+problem : when the tv starts up , it starts in " internal freesat " mode .
 i have changed the prefered mode from tv to av and this works every now and then .
-in the manual it says the av will be prefered when a signal is present -lrb- there definitely is -rrb- .
+in the manual it says the av will be prefered when a signal is present ( there definitely is ) .
 any ideas anyone ?
 is there any way to force the tv to start on the last used input ?
-tbh it seems a strange way to do things e.g. have the tv default to a freesat internal , rather than default to a `` last used '' input .
-lets be right who is going to pay # 1,000 + for a plasma hd 3d tv to watch freesat ?!?!?!? thanks
+tbh it seems a strange way to do things e.g. have the tv default to a freesat internal , rather than default to a " last used " input .
+lets be right who is going to pay £ 1,000 + for a plasma hd 3d tv to watch freesat ?!?!?!? thanks

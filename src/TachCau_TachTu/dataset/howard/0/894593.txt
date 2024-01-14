@@ -1,5 +1,5 @@
 port blocking .
-so i 've been hearing that wind is getting some criticism for `` port blocking '' .
+so i 've been hearing that wind is getting some criticism for " port blocking " .
 i do n't really know what the heck that is .
 from what i gather , certain web servers wo n't be accessible ?
 i 'm mainly just curious .

@@ -1,9 +1,9 @@
 pay & talk : question about unlimited calling feature .
-i just activated my telus prepaid account yesterday -lrb- cdma -rrb- for one reason , to use the $ 7 unlimited caling to one number .
+i just activated my telus prepaid account yesterday ( cdma ) for one reason , to use the $ 7 unlimited caling to one number .
 my set up is quite simple : i have a vbuzzer voip number that people will call me through it is forwarded to my telus prepaid account therefore , i have unlimited incoming calling .
 sounds simple right ?
 i test out the call and it charges me .
-i turned the caller id pass-through off and it still charges me .
+i turned the caller id pass - through off and it still charges me .
 i tried 4 different configurations , all of them charged me !
 does telus have a system in place that knows i am forwarding a call via that number ?
 is there any way around this ?

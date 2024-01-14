@@ -1,5 +1,5 @@
-dropping 3g/hsdpa connection .
-i 've had my htc magic from rogers -lrb- 32a -rrb- for about 3 weeks now .
+dropping 3g / hsdpa connection .
+i 've had my htc magic from rogers ( 32a ) for about 3 weeks now .
 i live in the us but no matter what rom i use the connection keeps disconnecting .
 so the way it happens is that i start the phone , all is fine , i can browse then a few minutes later i can not ping nor browse it seems as the data connection just dies .
 i 've tried the hofo rom , stock rogers rom , hero roms , and all of them have the same issue .

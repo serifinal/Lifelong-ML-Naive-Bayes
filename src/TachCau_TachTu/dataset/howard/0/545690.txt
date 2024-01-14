@@ -1,4 +1,4 @@
-remove locked apps from at & t e71x -lrb- not demos but main menu icons -rrb- .
+remove locked apps from at & t e71x ( not demos but main menu icons ) .
 i just got the e71x the other day and so far i 'm really happy with it .
 i got a developer 's certificate so i can sign apps , i installed x-plore and removed all the demo apps just fine .
 there are a few at & t icons in the main menu that seem to be stuck with no option to move them or delete them .

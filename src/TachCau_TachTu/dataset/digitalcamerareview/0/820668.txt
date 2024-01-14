@@ -1,13 +1,13 @@
 digital camera news : kodak delays easyshare one , thin lens technology .
 printing from a camera phone .
-kodak delays shipment of easyshare one the wall street journal is reporting that kodak is delaying the shipping date of the kodak easyshare one wifi-equipped digital camera .
+kodak delays shipment of easyshare one the wall street journal is reporting that kodak is delaying the shipping date of the kodak easyshare one wifi - equipped digital camera .
 the camera will now be shipping in october instead of the previously announced june roll out .
-kodak has not given a specific reason for the delay , saying only that they 're `` taking the time to do it right '' .
+kodak has not given a specific reason for the delay , saying only that they 're " taking the time to do it right " .
 the delay of the $ 699 camera will not affect kodak 's earnings since it will ship before the holiday season .
 lenses five times thinner than a sheet of paper researchers in quebec have devised a process that can create extremely thin lenses .
 they claim that the advances in the lenses will allow pictures to be taken very clearly by not having to resort to digital zoom .
 also , it will change the form factor of small cameras and camera phones .
-from an article at the register : the researchers added a small amount of a light-sensitive monomer to the liquid crystal in a conventional electro-optic cell .
+from an article at the register : the researchers added a small amount of a light - sensitive monomer to the liquid crystal in a conventional electro - optic cell .
 when the liquid crystal is stimulated by a laser , the monomers are stimulated to form a polymer network , with a density proportional to the amount of light falling on the surface .
 this also affects the orientation of the liquid crystals , and the refractive index of the cell .
 by precisely controlling the laser profile , the researchers are able to make the cell act like a lens .
@@ -15,15 +15,15 @@ varying the voltage across the lens , the researchers could change the focal len
 by increasing the applied voltage from 1.5 to 4.5 volts , the team was able to vary the focal length by a factor of five .
 rollei announces the prego dp6000 digital camera the big news about the prego dp6000 digital camera is that it features a large 2.5 inch lcd and an optical viewfinder that has a diopter adjustment .
 the rugged camera also has a 6.35 megapixel ccd , 3x optical zoom , and 4.4 x digital zoom .
-the macro mode allows you to get as close as 9 cm to your subject and the auto-focus functions from 0.8 cm to infinity .
-this camera also allows you to record images on the sd memory in tiff format -lrb- at 2816 x 2112 pixels -rrb- .
-manual options include single-frame or continuous shooting -lrb- five frames -rrb- , bracketing -lrb- 0.67 ev -rrb- or self-timer with 2 or 10-second delay .
-shooting modes range from programmed ae or av and tv to manual , portraits , action or night program.the built-in flash unit has an effective range of 0.6 -- 3.0 m -lrb- wide/iso 200 -rrb- and can be set to either auto , off , forced or red-eye reduction .
-for natural color rendition even in critical lighting conditions , the prego dp600 offers white-balance options of auto , manual , daylight , cloudy , tungsten as well as fluorescent 1 and 2 .
+the macro mode allows you to get as close as 9 cm to your subject and the auto - focus functions from 0.8 cm to infinity .
+this camera also allows you to record images on the sd memory in tiff format ( at 2816 x 2112 pixels ) .
+manual options include single - frame or continuous shooting ( five frames ) , bracketing ( 0.67 ev ) or self - timer with 2 or 10 - second delay .
+shooting modes range from programmed ae or av and tv to manual , portraits , action or night program.the built - in flash unit has an effective range of 0.6 -- 3.0 m ( wide / iso 200 ) and can be set to either auto , off , forced or red - eye reduction .
+for natural color rendition even in critical lighting conditions , the prego dp600 offers white - balance options of auto , manual , daylight , cloudy , tungsten as well as fluorescent 1 and 2 .
 exposure compensation can likewise be controlled automatically or manually in 1/3 incremetns over 2.0 ev .
-recommended retail price : euro 279 , incl .
-vatavailability : early june 2005 pma report on printing from camera phones the photo marketing association will soon be releasing a report titled : `` 2005 pma u.s. consumer photo buying report '' .
+recommended retail price : euro 279 , incl. .
+vatavailability : early june 2005 pma report on printing from camera phones the photo marketing association will soon be releasing a report titled : " 2005 pma u.s. consumer photo buying report " .
 for now , we just get a taste .
 at the end of 2004 , 10.2 percent of households owned a camera phone .
 however , they were not using camera phones to print as much as camera manufacturers and cellular data providers would like .
-the top reasons for not printing pictures from the camera phone were : no need to print -lrb- 44 % -rrb- just wanted to look at the camera screen -lrb- 42 % -rrb- picture quality too poor -lrb- 35 % -rrb- prefer my regular camera -lrb- 27 % -rrb- see the pma website for the full article .
+the top reasons for not printing pictures from the camera phone were : no need to print ( 44 % ) just wanted to look at the camera screen ( 42 % ) picture quality too poor ( 35 % ) prefer my regular camera ( 27 % ) see the pma website for the full article .

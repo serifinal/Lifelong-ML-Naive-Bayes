@@ -1,4 +1,0 @@
-nvidia geforce 180.48 whql drivers .
-new whql certified drivers .
-they only support a limited set of products for now , please check the products supported list before you download and install .
-http://www.nvidia.com/object/winxp_180.48_whql.html http://www.nvidia.com/object/winxp64_180.48_whql.html http://www.nvidia.com/object/winvist...0.48_whql.html http://www.nvidia.com/object/winvist...0.48_whql.html

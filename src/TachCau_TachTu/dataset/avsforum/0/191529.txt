@@ -2,18 +2,18 @@ looking for some advice from the veteran htpc folks on a new machine .
 my previous computer having died months prior , i recently began work on a replacement .
 i?m hoping that some of you could lend your experience and knowledge to help me get it up and running .
 i?ll try to be as thorough as possible .
-my uses for the previous computer were : - viewing of video files - encoding cds into lossless and playing back via itunes - ripping and storage of dvds via dvd decryptor - playback of dvds and stored dvds - using microsoft office and other apps to work at home and prepare teaching materials - occasional playing of games -lrb- mostly city of heroes -rrb- things i would like the new computer to be able to do as well : - playback of blu ray and hd dvd -lrb- yes , despite its recent demise -rrb- - ripping and storage of blu ray and hd dvds - decoding of dolby truehd and dts-hd ma for blu ray and hd dvd playback - improved graphics for games -lrb- most of which are 5 + years old -rrb- - quick and dependable use for office applications such as power point and photoshop - quiet enough to not be distracting - easy to use - compatible with the logitech harmony series remotes -lrb- to make it easier to use -rrb- despite the note about playing games , i am not interested in building a gaming pc .
+my uses for the previous computer were : - viewing of video files - encoding cds into lossless and playing back via itunes - ripping and storage of dvds via dvd decryptor - playback of dvds and stored dvds - using microsoft office and other apps to work at home and prepare teaching materials - occasional playing of games ( mostly city of heroes ) things i would like the new computer to be able to do as well : - playback of blu ray and hd dvd ( yes , despite its recent demise ) - ripping and storage of blu ray and hd dvds - decoding of dolby truehd and dts - hd ma for blu ray and hd dvd playback - improved graphics for games ( most of which are 5 + years old ) - quick and dependable use for office applications such as power point and photoshop - quiet enough to not be distracting - easy to use - compatible with the logitech harmony series remotes ( to make it easier to use ) despite the note about playing games , i am not interested in building a gaming pc .
 i want to put something together that will fit in with my other home theater equipment and be unobtrusive visually and aurally , so an htpc is the goal here .
-it will be used with a panasonic th-ae500 projector -lrb- same as pt-l500u , but includes a d4 input in addition to the inputs on the us model -rrb- with the audio being sent to both a denon avc-1920 receiver for movie playback and a rotel rsp 985 processor amped through a hafler p3000 stereo amplifier for stereo music playback .
+it will be used with a panasonic th - ae500 projector ( same as pt - l500u , but includes a d4 input in addition to the inputs on the us model ) with the audio being sent to both a denon avc - 1920 receiver for movie playback and a rotel rsp 985 processor amped through a hafler p3000 stereo amplifier for stereo music playback .
 the hardware has been pretty simple to figure out .
-the system thus far is a q6600 core 2 duo quad core processor on a biostar gf 7050v-m7 motherboard with 1 stick of 2gb memory .
-for audio i have installed an onkyo se200pci , which is phenomenal for audio playback and does 7.1 analog audio out , so if i can get dolby truehd and dts-hd ma decoding on the htpc itself , then i can output it to the denon through the pre inputs on the receiver .
-the optical drive i am using is the lg ggw-h20n blu-ray/hd dvd drive -lrb- same as us ggw-h20l -rrb- .
+the system thus far is a q6600 core 2 duo quad core processor on a biostar gf 7050v - m7 motherboard with 1 stick of 2 gb memory .
+for audio i have installed an onkyo se200pci , which is phenomenal for audio playback and does 7.1 analog audio out , so if i can get dolby truehd and dts - hd ma decoding on the htpc itself , then i can output it to the denon through the pre inputs on the receiver .
+the optical drive i am using is the lg ggw - h20n blu - ray / hd dvd drive ( same as us ggw - h20l ) .
 i ran the advisor after installing and it verified what i had expected , that the onboard video on the motherboard wouldn?t be capable of blu ray and hd dvd playback .
-i had been intending to pick up a sapphire hd 3870 ultimate , but may opt for the gigabyte gv-rx387512h radeon hd 3870 instead , depending on availability of the sapphire card and the loudness of the gigabyte card .
+i had been intending to pick up a sapphire hd 3870 ultimate , but may opt for the gigabyte gv - rx387512h radeon hd 3870 instead , depending on availability of the sapphire card and the loudness of the gigabyte card .
 i also plan on replacing my current wireless mouse and keyboard with an apple wireless keyboard and logitech v470 bluetooth mouse .
-i would also like to change my basic case that i am using for now with an antec fusion 430 case and replacing the current system disc with either one or two -lrb- striped -rrb- western digital raptor 74gb drives .
-i?ll also be adding another 2 gig stick and possibly swapping out the motherboard for something that doesn?t require a pci card for gigabit ethernet -lrb- allowing a tuner card -rrb- ?
+i would also like to change my basic case that i am using for now with an antec fusion 430 case and replacing the current system disc with either one or two ( striped ) western digital raptor 74 gb drives .
+i?ll also be adding another 2 gig stick and possibly swapping out the motherboard for something that doesn?t require a pci card for gigabit ethernet ( allowing a tuner card ) ?
 i haven?t decided yet .
 i think i?ve got a pretty good handle on the hardware side of things , but i?m finding myself a bit perplexed on the software side .
 to begin with , i?m really not sure what os this thing should be running .
@@ -23,13 +23,13 @@ it sounds like mce has gotten pretty solid though , and i?m interested .
 is it an easier to use interface than xp ?
 i had been worried about itunes , but mcetunes takes care of that hiccup , right ?
 the issue of blu ray and hd dvd playback and usage is also a matter of concern .
-i prefer storing my media on attached storage for convenience and damage-prevention purposes , and from what i?ve seen anydvd hd will allow me to do that with blu ray and hd dvd discs .
+i prefer storing my media on attached storage for convenience and damage - prevention purposes , and from what i?ve seen anydvd hd will allow me to do that with blu ray and hd dvd discs .
 are there any other or preferable options ?
 is dvd decryptor still a viable option for dvds ?
-once i remove the region coding -lrb- my film collection is multi-region -rrb- , can i pull all 3 formats into mymovies ?
+once i remove the region coding ( my film collection is multi-region ) , can i pull all 3 formats into mymovies ?
 is there a better option for organizing store discs at this point ?
 also , once the discs have been ripped , what?s the best option for playback ?
-my drive came with cyberlink powerdvd , and from what i?ve read it seems to cover dolby truehd and dts-hd ma decoding and handle most of what?s out there , but i?ve read a lot of threads here full of complaints about the software .
+my drive came with cyberlink powerdvd , and from what i?ve read it seems to cover dolby truehd and dts - hd ma decoding and handle most of what?s out there , but i?ve read a lot of threads here full of complaints about the software .
 is there a better option ?
 any advice you can give will be greatly appreciated .
 thanks in advance !

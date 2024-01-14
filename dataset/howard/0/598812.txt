@@ -1,4 +1,0 @@
-micro card .
-lg env3 slate blue - i 'm using a micro-card that i was using in another phone and need to format it before using it in the env3 .
-the different formats are fat , fat32 and ntfs .
-which should i format the card to ?

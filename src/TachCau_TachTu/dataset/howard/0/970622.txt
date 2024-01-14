@@ -10,11 +10,11 @@ it 's so frustrating .
 i miss my bb storm so much right now now , this is what i notice .
 when i dial out it 's not in 3g , it just shows the bars .
 so when i am talking it 's still has the bars and no 3g .
-but when the phone switches to 3g mode that 's when it drops ... it does that everytime , when it swtiches to 3g i get disconnected .
+but when the phone switches to 3g mode that 's when it drops .... it does that everytime , when it swtiches to 3g i get disconnected .
 the firmware is still 2.0.1 .
 it asked to update to 2.1 and i said yes .
 it went through the process of downloading and shutting down but it 's still on 2.0.1 .
-my baseband version is still c_01 .3 e. 01p .
+my baseband version is still c_01.3 e. 01p .
 i tried switching the mode network type to evdo for 1x service but it switches back to 3g and it still drops my calls ... .
 any suggestion ?
 anyone encounter this ?

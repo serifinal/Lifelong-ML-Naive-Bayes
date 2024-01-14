@@ -1,12 +1,12 @@
 digital camera news , 12/29/07 .
-atp provides details about new photo geotaggerfor those interested in the possibilities offered by geotagging -- where coordinate data specifying where a photo was taken is embedded into the image file -- a universally compatible solution appears to be close at hand.memory maker atp announced on friday that its gps photo finder , a portable photo accessory that allows for convenient geotagging of digital photos taken by any camera , is nearing mass production .
-a stand-alone device that works with images from basically any digicam , the photo finder has a built in card reader and usb port : simply insert a supported memory card containing the jpegs you wish to tag and the unit adds location information automatically.some image management and editing software , including google 's picasa , already support geotagging , allowing users to store and sort photos by location .
-`` with new applications such as photo-enabled gps navigation around the corner , '' said michael plaksin , atp vp of sales , `` this technology will see significant growth in the next few years .
-`` we 'll see if that prediction holds , but it 's an interesting idea either way .
+atp provides details about new photo geotaggerfor those interested in the possibilities offered by geotagging &ndash; where coordinate data specifying where a photo was taken is embedded into the image file &ndash; a universally compatible solution appears to be close at hand.memory maker atp announced on friday that its gps photo finder , a portable photo accessory that allows for convenient geotagging of digital photos taken by any camera , is nearing mass production .
+a stand - alone device that works with images from basically any digicam , the photo finder has a built in card reader and usb port : simply insert a supported memory card containing the jpegs you wish to tag and the unit adds location information automatically.some image management and editing software , including google 's picasa , already support geotagging , allowing users to store and sort photos by location . "
+with new applications such as photo - enabled gps navigation around the corner , " said michael plaksin , atp vp of sales , " this technology will see significant growth in the next few years . "
+we 'll see if that prediction holds , but it 's an interesting idea either way .
 no information was provided on pricing , but the photo finder should be available for purchase in the next few months .
 nikon d40x to see replacement in 2008 ?
-the latest hearsay , courtesy of a source translation obtained by photography bay , is that nikon intends to replace the step-up d40x digital slr with an all-new d60 in early 2008 .
+the latest hearsay , courtesy of a source translation obtained by photography bay , is that nikon intends to replace the step - up d40x digital slr with an all - new d60 in early 2008 .
 apparently , the rumor is based on credible reports that d40x manufacturing is being closed down .
-from all indications , the original 6 megapixel d40 will remain in production for the foreseeable future.if the information proves well sourced , earlier rumors of a d80x/d90 replacement for the d80 may not pan out after all .
-whether this means that the aging d70/d80 line gets dropped altogether is not clear .
+from all indications , the original 6 megapixel d40 will remain in production for the foreseeable future.if the information proves well sourced , earlier rumors of a d80x / d90 replacement for the d80 may not pan out after all .
+whether this means that the aging d70 / d80 line gets dropped altogether is not clear .
 see the link to the full story here .

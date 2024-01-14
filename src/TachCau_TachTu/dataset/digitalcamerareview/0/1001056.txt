@@ -1,28 +1,28 @@
 digital camera news : nikon encryption updates , kodak financials , women prefer kodak , target yahoo! photos site , nikon d50 drawing .
-nikon encryption news update -lrb- reverse-engineered and nikon `` clarification '' -rrb- this saga continues ... the author of the dcraw utility , dave coffin , announced that he has reverse-engineered nikon 's white balance data encryption , reported earlier this week .
+nikon encryption news update ( reverse - engineered and nikon " clarification " ) this saga continues ... the author of the dcraw utility , dave coffin , announced that he has reverse - engineered nikon 's white balance data encryption , reported earlier this week .
 also bibble labs has also decrypted the data in the latest version of their imaging software .
-nikon has also offered a `` clarification '' that really is n't much of a clarification .
+nikon has also offered a " clarification " that really is n't much of a clarification .
 to see the full text of the statement from nikon , check this article at photography blog .
-to me , the statement seems to say that since the nef format has always been `` propietary '' , nikon can do whatever they want with the format .
-nikon also clarified that the nef format -lrb- along with their software -rrb- was developed as part of a sytem that : `` faithfully saved image files that represent the camera settings made manually or automatically by the photographer at the time a picture was taken . ''
-also , nikon has stressed that they make an sdk available for free -lrb- after an application -rrb- that allows third party developers to handle nef files .
-kodak first quarter financial news the eastman kodak company has reported a first quarter net loss of 50 cents per share on a revenue decrease of 3 % .
-`` while the first quarter 's performance was disappointing , such short-term volatility is to be expected as we transform kodak into a digital company , '' said kodak chairman and chief executive officer daniel a. carp .
-`` we remain committed to increasing the value of the company over the long-term by delivering on our annual plans .
-we expect to do that in 2005 and beyond . ''
-from the press release : `` digital & film imaging systems segment sales totaled $ 1.801 billion , down 9 % .
+to me , the statement seems to say that since the nef format has always been " propietary " , nikon can do whatever they want with the format .
+nikon also clarified that the nef format ( along with their software ) was developed as part of a sytem that : " faithfully saved image files that represent the camera settings made manually or automatically by the photographer at the time a picture was taken . "
+also , nikon has stressed that they make an sdk available for free ( after an application ) that allows third party developers to handle nef files .
+kodak first quarter financial news the eastman kodak company has reported a first quarter net loss of 50 cents per share on a revenue decrease of 3 % . "
+while the first quarter 's performance was disappointing , such short - term volatility is to be expected as we transform kodak into a digital company , " said kodak chairman and chief executive officer daniel a. carp . "
+we remain committed to increasing the value of the company over the long - term by delivering on our annual plans .
+we expect to do that in 2005 and beyond . "
+from the press release : " digital & film imaging systems segment sales totaled $ 1.801 billion , down 9 % .
 earnings from operations for the segment were $ 4 million , compared with $ 25 million a year ago .
 included in the 2005 earnings is a non-recurring charge of $ 16 million to terminate a consumer photofinishing contract .
 highlights for the quarter include a 68 % increase in the sales of kodak picture maker kiosks and related media ; a 42 % increase in kodak printer docks and related media ; and a 24 % increase in consumer digital capture sales , which includes the kodak easyshare line of cameras .
 on the traditional side , kodak 's sales of consumer film to dealers fell 29 % worldwide and 17 % in the u.s. , reflecting temporary inventory reductions among retailers , especially in china .
-the company 's view of the industrywide consumer film decline in 2005 , on a volume basis , remains 20 % worldwide and 30 % in the u.s. sales of motion-picture origination and print film grew 6 % . ''
+the company 's view of the industrywide consumer film decline in 2005 , on a volume basis , remains 20 % worldwide and 30 % in the u.s. sales of motion - picture origination and print film grew 6 % . "
 full press release kodak brand preferred by women survey results from lyra research showed that more than 20 % of women that owned a digital camera owned the kodak brand , while only 10 % of male digital camera owners owned the same brand .
 the survey showed that men prefer the canon brand .
-the primary goal of the survey was to examine the photo-printing behavior of a representative sample of digital camera users in the us .
+the primary goal of the survey was to examine the photo - printing behavior of a representative sample of digital camera users in the us .
 some other differences between genders : women typically own less equipment than men women prefer printing directly from the camera women prefer cameras that are technologically simpler full press release target yahoo! photos - online photo service target arnd yahoo! have introduced a new digital photo resource called target yahoo! photos , affirming again the high growth of digital printing .
 the service will allow customers to upload an unlimited number of photos to store , print , and share photos from digital cameras and camera phones .
 users can choose to order prints online and have them delivered to various recipients , but can also choose to pick up the pictures within a few hours from a local target store .
-the target yahoo! photos service will allow albums to be shared via a public website , and also in real-time using yahoo! messenger or a mobile phone .
+the target yahoo! photos service will allow albums to be shared via a public website , and also in real - time using yahoo! messenger or a mobile phone .
 target yahoo! photos will also offer a variety of products including mugs , aprons and magnets .
 for more information , please visit : http://www.target.com/yahoophotos nikon d50 contest for uk and ireland nikon uk is holding a drawing for the recently announced nikon d50 .
 the drawing is open to residents of the uk and the republic of ireland who answer a very simple question correctly .

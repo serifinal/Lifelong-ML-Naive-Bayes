@@ -1,9 +1,0 @@
-canon software bug creating folders .
-i noticed this problem : if you set your canon camera -lrb- several of the latest a models -rrb- to auto create folders , then when you connect the camera to the pc using the usb cable , the folders wo n't appear , you will be able to see just the pictures in the last folder .
-and worse than that if you have more than one picture with the same name in different folders , my god you `` ll see several pictures with the same name , and if you open them you will see the same picture all the time , -lrb- you will never see the pictures not in the last folder -rrb- .
-a real mess !!
-the only way to see correctly all the pictures is connecting the sd card directly to the pc .
-i tested several machines in the retailer today , and they do n't have any solution to provide , has any of you noticed this problem ?
-i ca n't be the first ... thank you in advance for your replies .
-brad .
--

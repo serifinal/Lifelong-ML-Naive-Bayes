@@ -1,3 +1,0 @@
-3g unrestrictor on ios 4/iphone 4 for facetime .
-any of the developers out there that know if 3g unrestrictor will work on ios 4 , and possibly allow us to use video calling -lrb- facetime -rrb- over the 3g network on the new iphone ?
-seems like with a decent signal , this should be possible .

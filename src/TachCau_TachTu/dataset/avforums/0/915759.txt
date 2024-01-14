@@ -3,6 +3,6 @@ is anyone successfully streaming 1080p mkv 's or m2ts files to their gt30 ?
 i 've been trying all afternoon and get close to it but ultimately the result is always quite jerky .
 i 'm primarily using mezzmo as the server on my pc but have also used ms media player and even my popcorn hour and still i get same result .
 i 've changed routers , switches and eventually went direct cable between pc and tv and still not quite perfect .
-my etherent adapter is 100mbps .
+my etherent adapter is 100 mbps .
 anyway , would be good to know if you 've been sucessful and if so what streaming app did you use and what connection .
 many thanks ,

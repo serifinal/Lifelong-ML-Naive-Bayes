@@ -1,6 +1,6 @@
-bell turbo hub -lrb- w35 -rrb- speed issue .
+bell turbo hub ( w35 ) speed issue .
 any one have data speed issues ?
-i use to get 4 - 5 mb down and 1.2-2 .3 mb up .
+i use to get 4 - 5 mb down and 1.2 - 2.3 mb up .
 now i have a hard time to pass 2mb down and .5 up !!!
 same signal strenth checked my external antenna all seem well .
 i think they are testing hspa +4 x mb i wonder if it can be that .

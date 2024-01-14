@@ -9,10 +9,10 @@ the bug happened only with certain apps : betterlists , cardstar , pandorabox , 
 the same problem happened also on my pc 's itunes with the same applications so i do n't think the problem is in the phone itself .
 i could be either within appstore or the applications themselves i emailed appstore support and they said it is not their problem .
 i asked them to forward it to the right support department and all i get back is the same prewritten statement that this is not their problem .
-i called iphone tech support and they were going to charge me a fee for the call -lrb- i 'm out of the 90 days free support -rrb- but they gave me a one time courtesy free support .
+i called iphone tech support and they were going to charge me a fee for the call ( i 'm out of the 90 days free support ) but they gave me a one time courtesy free support .
 they said the problem is within the applications not sending to the appstore the correct version info after updates .
 they said the only way to correct that would be to delete the application and reinstall it fresh .
-i did that and it worked for 3 of the 4 apps in question -lrb- except for pandorabox -rrb- , but that way i lost all the personal info on the app and i needed to enter everything from scratch ... pain in the neck .
+i did that and it worked for 3 of the 4 apps in question ( except for pandorabox ) , but that way i lost all the personal info on the app and i needed to enter everything from scratch ... pain in the neck .
 i contacted the applications authors and they said that the problem is not in their applications and it must be an appstore problem .
 so go figure .
 any insight would be appreciated .

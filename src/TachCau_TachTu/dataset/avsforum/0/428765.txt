@@ -1,20 +1,20 @@
 arcsoft tmt scaling artifacts and overscan .
-i 've been setting up a new build using arcsoft tmt for blu-ray playback , and i noticed something odd .
-the video card is geforce 8600gt-based , using dvi - > hdmi to a sony kds-60a2000 sxrd rear-projection -lrb- 1080p -rrb- .
-in beyondtv , i was in the habit of setting my resolution to native monitor resolution -lrb- 1920x1080 in this case -rrb- , and using the overscan compensation in beyondtv to fit to the screen .
+i 've been setting up a new build using arcsoft tmt for blu - ray playback , and i noticed something odd .
+the video card is geforce 8600gt - based , using dvi - > hdmi to a sony kds - 60a2000 sxrd rear - projection ( 1080p ) .
+in beyondtv , i was in the habit of setting my resolution to native monitor resolution ( 1920x1080 in this case ) , and using the overscan compensation in beyondtv to fit to the screen .
 this gave me 1:1 pixel mapping in the past .
 ota atsc video looked great , with no softness or visible scaling artifacts .
 this still seems to work fine for beyondtv in this new build .
-however , when i set the res to 1920x1080 , arcsoft tmt shows some artifacts of upscaling , using really bad sampling -lrb- nearest neighbour -rrb- .
-for example , i can see this clearly on the opening titles of the departed bluray , which has high-contrast white-on-black letters in the titles .
+however , when i set the res to 1920x1080 , arcsoft tmt shows some artifacts of upscaling , using really bad sampling ( nearest neighbour ) .
+for example , i can see this clearly on the opening titles of the departed bluray , which has high - contrast white - on - black letters in the titles .
 the diagonal lines in the letters have all kinds of nasty jaggies .
-this seems to happen regardless of whether `` hardware acceleration '' is turned on in tmt or not .
-if i use a reduced res -lrb- eg , 1840x1035 -rrb- , the nasty artifacts go away .
-since arcsoft tmt does n't have any overscan compensation -lrb- someone correct me if i 'm wrong -rrb- , i have to do this anyway , otherwise the ui does n't all fit on the screen .
+this seems to happen regardless of whether " hardware acceleration " is turned on in tmt or not .
+if i use a reduced res ( eg , 1840x1035 ) , the nasty artifacts go away .
+since arcsoft tmt does n't have any overscan compensation ( someone correct me if i 'm wrong ) , i have to do this anyway , otherwise the ui does n't all fit on the screen .
 so although i 'm forced to use this solution for now , i 'm concerned that beyondtv may now do some unwanted downscaling .
 the question is , why is tmt doing any scaling at all ?
 this seems backwards to me .
 should n't 1920x1080 show no scaling artifacts , since it 's displaying 1:1 , and the reduced res force downscaling to occur ?
-or is the actual pixel rectangle of blu-ray video smaller than 1920x1080 ?
-and -lrb- this question only for the graphics ubernerds in the crowd -rrb- , even if it does have to use scaling , why is it doing nearest neighbour ?
+or is the actual pixel rectangle of blu - ray video smaller than 1920x1080 ?
+and ( this question only for the graphics ubernerds in the crowd ) , even if it does have to use scaling , why is it doing nearest neighbour ?
 should n't it be doing bilinear filtering at a minimum , or hopefully bicubic ?

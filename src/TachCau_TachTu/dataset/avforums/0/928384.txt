@@ -1,8 +1,8 @@
-panasonic tx-p50vt30 ; screen offset problem ? .
+panasonic tx - p50vt30 ; screen offset problem ? .
 hi all , today i installed my p50vt30 , first experiences on image quality are very positive .
-although i have something strange , the image starts about 5cm from the left of the effective part of the screen .
+although i have something strange , the image starts about 5 cm from the left of the effective part of the screen .
 in the setup menu a part of the text is missing on the left side , i restorend to factory settings and went through all setup options but ca n't get it covered .
-from a user point of view it looks like the first 5cm -lrb- horizontal -rrb- of the screen are not used / active .
-i tried all aspect ratio 's but since the menu -lrb- from initial setup on -rrb- also shows the same problem , i think it 's not the aspect ratio -lrb- in all ratio 's the same around 5cm are black / unused -rrb- .
+from a user point of view it looks like the first 5 cm ( horizontal ) of the screen are not used / active .
+i tried all aspect ratio 's but since the menu ( from initial setup on ) also shows the same problem , i think it 's not the aspect ratio ( in all ratio 's the same around 5 cm are black / unused ) .
 here are some pictures : http://www.sierracosworth.nl/img/tx-p50vt30/ does someone recognise this problem ?
-regards , cris -lrb- netherlands -rrb-
+regards , cris ( netherlands )

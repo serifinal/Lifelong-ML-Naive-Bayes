@@ -1,5 +1,5 @@
 iphones and hacking them with different firmwares .
 just to clarify this for everyone : ziphone , and iliberty + are only made for iphones running 1.1.4 and lower firmware .
 winpwn , pwnage tool , and quickpwn are only for iphones running 2.0 and higher firmwares .
-i feel this should be clarified because there are so many people making threads about how they are on a 2.0 firmware and used ziphone to jailbreak/unlock their and the phone end up bricking the phones .
+i feel this should be clarified because there are so many people making threads about how they are on a 2.0 firmware and used ziphone to jailbreak / unlock their and the phone end up bricking the phones .
 programs like ziphone and iliberty + have never been updated eversince the release of the 2.0 firmware and i feel everyone should know this before they decide to jailbreak and or unlock their iphones .

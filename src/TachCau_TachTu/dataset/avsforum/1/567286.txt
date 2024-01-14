@@ -1,5 +1,5 @@
-discrete input hex codes for insignia ns-42pdp .
-hi everyone , i 'm looking for the discrete input hex codes for my insignia 42 '' plasma tv .
+discrete input hex codes for insignia ns - 42pdp .
+hi everyone , i 'm looking for the discrete input hex codes for my insignia 42 " plasma tv .
 i am using a harmony 880 remote and logitech informed me that if i can get the hex codes they will update their database .
 if anyone one has them or knows where they can be found it would be appreciated .
 thanks craig

@@ -1,8 +1,8 @@
 samsung ps42a456p2d - sound but no picture .
-hi everyone , i know there are lots of sound but no picture threads but mine is a little different -lrb- i think -rrb- .
+hi everyone , i know there are lots of sound but no picture threads but mine is a little different ( i think ) .
 i have never had any issues with my plasma tv until this point .
 2 days ago there was a power cut and when i tried to turn my tv back on there was sound but no picture .
-the weird thing -lrb- which may help narrow down what the cause -rrb- is that on the normal tv / av / hdmi channels i can see faint outlines of a picture with no colour .
+the weird thing ( which may help narrow down what the cause ) is that on the normal tv / av / hdmi channels i can see faint outlines of a picture with no colour .
 i decided to play with the menu and discovered i can set the picture display to warm / cool colour , this will display the picture fine but in pure red / blue respectively .
 so this leads me to believe it is not an issue with the plasma deteriorating but a circuit problem .
 it also confuses me that if i have both blue and red i should be able to display at least some spectrum of colour .
@@ -10,11 +10,11 @@ as mentioned before this is what happens for tv / av / hdmi , but if i go onto t
 i memorised the menu layout and follow the same steps but it does not change the picture .
 i know for a fact the menu layout is the same as i tried the combination to change the input and this works fine .
 there is also no faint outline like the other modes , so this must be treated completely different .
-so i guess my questions are : 1 -rrb- what could cause this to happen ?
-2 -rrb- why is the digital picture treated differently ?
-3 -rrb- is there anyway i could fix this myself .
+so i guess my questions are : 1 ) what could cause this to happen ?
+2 ) why is the digital picture treated differently ?
+3 ) is there anyway i could fix this myself .
 i tried ringing samsung but as my tv is 3 years old they refuse to help me .
-they ` kindly ' referred me to a local repair place , but they claim they can not work out the problem from the description and it would be a # 90 call out fee which i unfortunately can not afford .
+they ' kindly ' referred me to a local repair place , but they claim they can not work out the problem from the description and it would be a £ 90 call out fee which i unfortunately can not afford .
 thanks in advanced for any help .
 if you need any further information feel free to ask .
 kind regards , elliott

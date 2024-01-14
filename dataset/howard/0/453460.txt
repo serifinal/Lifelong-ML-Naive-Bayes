@@ -1,5 +1,0 @@
-samsung vibrant - t-mobile * and * att 3g-capable ! .
-according to a thread over at xda-developers , the samsung vibrant for t-mobile supports 1900mhz umts/3g .
-this would be the first phone sold by t-mobile that supports att 3g as well as on its own aws band .
-i did n't believe it when it was first posted , but it seems to hold up to scrutiny , as the user posted a screenshot of a speed test result which includes an att -lrb- cingular -rrb- ip address for the device , as well as 3g speeds and att 's trademark high 3g latency .
-further proof : http://www.vimeo.com/13641477 so , now the question is : if the vibrant and captivate are practically identical hard-ware wise , is it possible that the captivate is using the same radio , and itself supports t-mobile 3g on the aws -lrb- 1700 -rrb- band ?

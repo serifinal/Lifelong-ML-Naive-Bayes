@@ -1,4 +1,0 @@
-problems with ovisuite + microsoft outlook 2010 sync .
-if anyone is using the new ovi suite by nokia , and use microsoft outlook for calendar and tasks , i am getting an error that i can not sync my calendar and tasks .
-what is the remedy to this problem ?
-i use microsoft outlook 2010 beta .

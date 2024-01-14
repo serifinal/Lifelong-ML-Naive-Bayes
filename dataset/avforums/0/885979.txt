@@ -1,5 +1,0 @@
-ps59d7000 chip ? .
-hello , reading following review http://www.hdtvtest.co.uk/news/samsu...ge=performance it seems ps64d8000 has a different chip -lrb- samsung chip -rrb- with respect to other models .
-do you know if ps59d7000 has the same chip or an mstar one ?
-and what about 51d8000 ?
-regards , marco

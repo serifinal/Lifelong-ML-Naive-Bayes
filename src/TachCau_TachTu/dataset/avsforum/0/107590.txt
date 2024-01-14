@@ -1,11 +1,11 @@
 original replaytv hard drive not recognized .
-ok , if someone is able to help me recover my mother-in-law 's replay shows , she 'll be very happy .
+ok , if someone is able to help me recover my mother - in - law 's replay shows , she 'll be very happy .
 she may even seek you out and give you a kiss or two !
-my mil 's 5516 experienced the dreaded `` please wait ... '' coma and i 've been asked to help since i know a thing or two about them thar peecees .
-i referenced the handful of helpful replay tv sites -lrb- planet replay , replaytv upgrades , replay faqs , etc. -rrb- and attempted to grab the tv shows off of the replay drive , if at all possible .
-here 's what i did to reach this point of desperation : - i attached the drive to my test xp machine to the master channel of the secondary ide ; drive sounds like it booted , no grinds or clicks to wince at - ran the latest extract_rtv5.exe -lrb- v75 -rrb- , but it did not find a replaytv drive - peeked into windows disk management utility to see if the drive was hooked up ... yep , it 's listed as `` disk 2 , basic , 152.66 gb , online , unallocated '' - googled around and said , `` son of ... '' after i discovered that the above step was highly unrecommended .
-- ran rtvpatch_2 .5.3 and saw that the drive was listed , but with a yellow exclamation point and the discouraging words , `` not a replaytv disk '' .
-- found a post on the avs archive that describes a painful , gut-wrenching , linux-lingo-laden process to repair the replay partition if the above takes place .
+my mil 's 5516 experienced the dreaded " please wait ... " coma and i 've been asked to help since i know a thing or two about them thar peecees .
+i referenced the handful of helpful replay tv sites ( planet replay , replaytv upgrades , replay faqs , etc. ) and attempted to grab the tv shows off of the replay drive , if at all possible .
+here 's what i did to reach this point of desperation : - i attached the drive to my test xp machine to the master channel of the secondary ide ; drive sounds like it booted , no grinds or clicks to wince at - ran the latest extract_rtv5.exe ( v75 ) , but it did not find a replaytv drive - peeked into windows disk management utility to see if the drive was hooked up ... yep , it 's listed as " disk 2 , basic , 152.66 gb , online , unallocated " - googled around and said , " son of ... " after i discovered that the above step was highly unrecommended .
+- ran rtvpatch_2.5 .3 and saw that the drive was listed , but with a yellow exclamation point and the discouraging words , " not a replaytv disk " .
+- found a post on the avs archive that describes a painful , gut - wrenching , linux - lingo - laden process to repair the replay partition if the above takes place .
 is there any way to fix the replay drive without having to resort to using linux ??
 i have zero experience with linux and do n't really feel like experimenting with at this point , but , if it 's the only choice ... so , is there any hope with a windows based solution here or is linux the only way to go ?
 thanks , jawgee

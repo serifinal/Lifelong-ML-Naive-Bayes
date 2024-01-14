@@ -1,6 +1,0 @@
-bell 's vibrant via bluetooth .
-so i connected my bell vibrant to my win7 x64 pc via bluetooth , and all sorts of funny issues happen when attempting to control dialing from my pc , and use my computer as a speakerphone .
-to begin with , the `` hangup '' button does n't work , plus whenever i press the `` connect '' button to `` use this computer as a headset or speakerphone for calls on your phone -lrb- galaxy s -rrb- , '' the phone starts dialing the number written in the `` make a call to this number : '' field -lrb- when there 's a number written there -- otherwise it would start dialing the latest dialed number -rrb- without my having to press the `` connect '' button .
-ai n't that funny ?
-anyone else going through this ?
-see also attached screenshot .

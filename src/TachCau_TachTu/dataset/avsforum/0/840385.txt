@@ -1,11 +1,11 @@
 .
-i have just built a new htpc and connected it to my onkyo sr674 amp via a dvi-hdmi cable which is subsequently connected to my sd plasma via a component to vga cable .
-even after setting the input for hdmi1 -lrb- which is the port the cable is plugged into -rrb- , the amp still says ?
+i have just built a new htpc and connected it to my onkyo sr674 amp via a dvi - hdmi cable which is subsequently connected to my sd plasma via a component to vga cable .
+even after setting the input for hdmi1 ( which is the port the cable is plugged into ) , the amp still says ?
 no signal ? .
-however , if i put an hdmi-dvi adapter on the end of the same cable and plug it into a 17 ?
+however , if i put an hdmi - dvi adapter on the end of the same cable and plug it into a 17 ?
 tft computer monitor i get a display fine , so i don?t know what to set on the amp to get it to read the signal that the htpc is sending to it .
-to further frustrate , i have also bought a dvi-component cable , plugging the dvi into the video out on the htpc and the same result -lrb- even though dvi-dvi from the htpc to monitor also works perfectly -rrb- .
+to further frustrate , i have also bought a dvi - component cable , plugging the dvi into the video out on the htpc and the same result ( even though dvi - dvi from the htpc to monitor also works perfectly ) .
 so i then go and buy a vga - > component video cable and set the amp to component input on the dvd input section .
-when i turn the htpc on , the bios slash screen shows -lrb- albeit with a red tint -rrb- then when it disappears , i get nothing on the screen .
+when i turn the htpc on , the bios slash screen shows ( albeit with a red tint ) then when it disappears , i get nothing on the screen .
 removing the vga cable from the htpc and plugging in a normal monitor and the display is fine , so the vga is definitely outputting a valid signal .
 again , if i plug the vga into both the htpc and directly to the plasma , it works perfectly , but obviously i want it going through the amp can anyone suggest what could be wrong as i 'm pulling my hair out with the time and money wasted on this !!!

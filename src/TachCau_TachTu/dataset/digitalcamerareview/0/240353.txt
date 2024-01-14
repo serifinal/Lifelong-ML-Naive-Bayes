@@ -1,9 +1,9 @@
 canon sd1200 - program the old auto ? .
 i have a question about the canon sd1200 's program mode .
-is it really the old auto mode that i had in my previous camera -lrb- canon a710 -rrb- ?
+is it really the old auto mode that i had in my previous camera ( canon a710 ) ?
 for example , if i were to leave the camera in program mode with the iso and awb set to auto and no particular scene selected , would it essentially be the same as auto mode on my previous camera ?
 the sd1200 's auto mode is really a smart auto mode , where in addition the normal automatic settings that i 've been used to , it also selects a scene setting .
-the auto mode also operates the image stabelization continuously -lrb- i had it set to shoot only on my previous camera , which i can still do in program mode now -rrb- .
+the auto mode also operates the image stabelization continuously ( i had it set to shoot only on my previous camera , which i can still do in program mode now ) .
 i 've noticed that while in auto mode , the camera makes a lot of adjustments between photos , and i hear a lot of little mechanical sounds .
 it does n't seem to do that in program mode until i half way press the shutter button to compose the photo .
 so , i 'm thinking that program mode might save battery life too .

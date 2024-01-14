@@ -1,8 +1,8 @@
-pc - > tv : pq of content streamed via network vs pq of content sent via ` monitor cable ' .
+pc - > tv : pq of content streamed via network vs pq of content sent via ' monitor cable ' .
 hi videophiles - first time poster here .
-just got my first-ever flat screen -lrb- samsung ps51d550 -rrb- and have connected it to a recently-built pc .
--lrb- this connexion will shortly be via hdmi . -rrb-
-when i have some content on blu-ray i 'll use my computer 's bd-rom to access it .
-what i 'm wondering is whether i 'm better off streaming content on blu-ray to the tv via the network the set 's plugged in to , or better off using any old media playing-application to play the content on the default computer monitor -lrb- which happens to be the plasma tv -rrb- .
-the ` picture mode ' changes from ` movie ' to ` entertain ' when changing source from ` tv ' to ` pc ' , and this has me thinking -lrb- until i investigate calibration , at least -rrb- that i 'd be better off streaming .
+just got my first - ever flat screen ( samsung ps51d550 ) and have connected it to a recently - built pc .
+( this connexion will shortly be via hdmi . )
+when i have some content on blu - ray i 'll use my computer 's bd - rom to access it .
+what i 'm wondering is whether i 'm better off streaming content on blu - ray to the tv via the network the set 's plugged in to , or better off using any old media playing - application to play the content on the default computer monitor ( which happens to be the plasma tv ) .
+the ' picture mode ' changes from ' movie ' to ' entertain ' when changing source from ' tv ' to ' pc ' , and this has me thinking ( until i investigate calibration , at least ) that i 'd be better off streaming .
 appreciate any advice sent this newbie 's way !

@@ -1,8 +1,0 @@
-samsung behold ii -lrb- probably vibrant -rrb- usb tethering guide .
-this is confirmed to work with behold ii , but it should work with vibrant too .
-here is the steps : 1 .
-download and install samsung kies suite http://org.downloadcenter.samsung.co...1.10071_32.exe 2 .
-change usb mode to samsung studio -lrb- or kies on vibrant -rrb- when you 're ready 3 .
-setup dial-up networking modem : samsung mobile modem number : * 99 # 4 .
-connect if you use 3g router , you just run step 2 and connect to router -lrb- you may need to do some extra steps in router setup by using epc.tmobile.com or internet2.voicestream.com as apn .
-here is speedtest.net result when using t939 -lrb- behold ii -rrb- as modem using webconnect sim the speed is definitely hspa 7.2 / 2.0 -lrb- after 3 tests -rrb- .

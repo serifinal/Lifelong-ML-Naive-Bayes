@@ -1,6 +1,0 @@
-sx230 high speed burst only gives the first photo .
-when i use `` high speed burst '' and shoot a half-dozen photos , then look at the pictures , only the first picture is shown .
-i switched `` group images '' to `` off . ''
-i downloaded the photos to iphoto and only the first photo of each burst downloads .
-i read the manual and followed the steps but i ca n't get this feature to work .
-any suggestions ?

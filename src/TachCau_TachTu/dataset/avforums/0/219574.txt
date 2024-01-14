@@ -3,11 +3,11 @@ i 've had a bit of a search on this but ca n't find anything that answers my que
 i have some divx avi 's on my computer and want to dlna them to my gt30 .
 all the divx avi 's i have tried either flat out do n't work or are jumpy , grey and blocky and stop after 15/20 seconds .
 by stop i mean the player acts as if it is playing but it is silent and blank screen .
-i have tried a few different dlna servers on my pc -lrb- win 7 ultimate 64 -rrb- serviio , tversity , wmp , mezzmo .
+i have tried a few different dlna servers on my pc ( win 7 ultimate 64 ) serviio , tversity , wmp , mezzmo .
 all have exactly the same end results .
 the avi 's work fine in vlc and wmp on my pc .
-the tv and computer are connected via 200mb/s home plugs .
+the tv and computer are connected via 200mb / s home plugs .
 the tv will happily cope with 1080p with hd sound mkvs streamed in exactly the same way .
 curiously after re-encoding one of the divx avi 's as an h. 264 mkv it works perfectly on the tv .
 has anyone got any help at all they could offer , experience , words of advice ?
-i do n't want to have to re-encode my whole library -lrb- 160gb over 700 files -rrb- just so i can have the option of watching it all on my tv ... cheers .
+i do n't want to have to re-encode my whole library ( 160 gb over 700 files ) just so i can have the option of watching it all on my tv ... cheers .

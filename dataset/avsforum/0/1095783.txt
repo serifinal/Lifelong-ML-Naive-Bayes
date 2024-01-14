@@ -1,5 +1,0 @@
-does anyone have hdmi working with sa 8300hdc ? .
-i have the box setup to pass through .
-hdmi gives me video hangs and audio drop outs .
-basically unuseable .
-component is fine .

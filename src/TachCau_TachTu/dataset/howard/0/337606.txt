@@ -1,5 +1,5 @@
 outgoing mail server .
 since mail.alltel.net is now disabled , what does vzw use for the outgoing mail server for ppcs ?
 vzw tech support had no idea of what i was talking about .
-my regular smtp-server settings at home will not work on the road with my aircard or my ppc .
+my regular smtp - server settings at home will not work on the road with my aircard or my ppc .
 thanks .

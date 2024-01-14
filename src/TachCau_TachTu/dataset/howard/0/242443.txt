@@ -1,6 +1,6 @@
 950 server error fix ! .
 ha !
-got your attention , didnt it .
+got your attention , did nt it .
 if anyone knows why my sprint branded m540 / rant is getting this error code every time i try to download opera 3.1.2 . ?
 after selecting proceed after the non-trusted site warning , it immediately gives this error .
 please help if you can .

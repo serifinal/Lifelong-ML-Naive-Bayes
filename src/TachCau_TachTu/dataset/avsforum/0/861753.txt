@@ -1,25 +1,25 @@
 .
 - please note this is not my construction thread , i will start one soon this week when i get all the facts - what 's happenig folks , i am in the early stages of my basement home theater construction and i always like to be ahead of the game when it comes to proper planning and measuring .
-i am trying to figure out whether i should go 1.78:1 -lrb- 16:9 -rrb- , or go all out with a 2.35:1 or 2:40:1 screen .
+i am trying to figure out whether i should go 1.78:1 ( 16:9 ) , or go all out with a 2.35:1 or 2:40:1 screen .
 i have read probably over 15 existing threads related to the subject but i still have some unanswered questions .
-here is my current situation , facts , and numbers : - actual theater room size : is 22.5 ' l x 8 ' h x 14.6 ' w -lrb- with some areas of 7 ' ceiling -rrb- - projector of choice : the epson 1080ub -lrb- home or pro since tech specs are the same -rrb- - screen height : -lrb- maximum 96 , usable portion would be about 70 '' -75 '' since i will lose about 20 '' -25 '' between soffit and stage -rrb- - utilization : 60 % bluray movies , 30 % 360/ps3 16:9 gaming , 10 % 16:9 hd dish/broadcasts - screen type : either a transparent smx w / speakers behind or just a standard w / speakers outside to sides and center -lrb- prefer transparent screen in order to get max width -rrb- - audio : denon 3808ci with either my current 7.1 polk rt/cs series or upgrade to a similar large size eclipse set up .
-i ultimately want to build a cinema room , not an `` xbox/rockband gaming room . ''
+here is my current situation , facts , and numbers : - actual theater room size : is 22.5 ' l x 8 ' h x 14.6 ' w ( with some areas of 7 ' ceiling ) - projector of choice : the epson 1080ub ( home or pro since tech specs are the same ) - screen height : ( maximum 96 , usable portion would be about 70 " - 75 " since i will lose about 20 " - 25 " between soffit and stage ) - utilization : 60 % bluray movies , 30 % 360 / ps3 16:9 gaming , 10 % 16:9 hd dish / broadcasts - screen type : either a transparent smx w / speakers behind or just a standard w / speakers outside to sides and center ( prefer transparent screen in order to get max width ) - audio : denon 3808ci with either my current 7.1 polk rt / cs series or upgrade to a similar large size eclipse set up .
+i ultimately want to build a cinema room , not an " xbox / rockband gaming room . "
 i already own close to 250 bd movies and another 500 dvds , so i love movies and i want the best and biggest experience possible so i am leaning more towards the 2.35:1 smx transparent screens so i can get maximum viewing width with a constant image height that should display 16:9 or 2.35:1 images .
-i have a maximum screen width of 175 '' and a maximum constant height of 75 '' , so according to the math , i have these options available to me - max height of 75 '' : - 1.78:1 = max 153 '' diagonal -lrb- max width of 12.7 feet -rrb- - 2.35:1 = max 191 '' diagonal -lrb- max width of 14.7 feet -rrb- - 2.40:1 = max 195 '' diagonal -lrb- max width of 16.3 feet -rrb- obviously i will only be able to use about 14 feet of maximum width , so i would essentially end up with a 185 '' -190 '' maximum diagonal 2.35:1 or 2.40:1 screen .
-so , now that you know the facts what do you honestly recommend for a movie lover like myself -lrb- movies and music will always be more important to enjoy for me than gaming -rrb- : i would like to get the epson 1080ub projector , but i am open to suggestions as i would like to use a wide 2.35:1 screen , so what do i need to purchase in order to fulfill the best results ?
-- which anamorphic lens would you recommend -lrb- possibly under or around the $ 1000 range -rrb- .
-- do i need a scalar , or is the epson 1080ub is capable of projecting through a universal anamorphic lens with the built-in scalar ?
+i have a maximum screen width of 175 " and a maximum constant height of 75 " , so according to the math , i have these options available to me - max height of 75 " : - 1.78:1 = max 153 " diagonal ( max width of 12.7 feet ) - 2.35:1 = max 191 " diagonal ( max width of 14.7 feet ) - 2.40:1 = max 195 " diagonal ( max width of 16.3 feet ) obviously i will only be able to use about 14 feet of maximum width , so i would essentially end up with a 185 " - 190 " maximum diagonal 2.35:1 or 2.40:1 screen .
+so , now that you know the facts what do you honestly recommend for a movie lover like myself ( movies and music will always be more important to enjoy for me than gaming ) : i would like to get the epson 1080ub projector , but i am open to suggestions as i would like to use a wide 2.35:1 screen , so what do i need to purchase in order to fulfill the best results ?
+- which anamorphic lens would you recommend ( possibly under or around the $ 1000 range ) .
+- do i need a scalar , or is the epson 1080ub is capable of projecting through a universal anamorphic lens with the built - in scalar ?
 - if i have to buy a scalar to use the 2.35:1 lense then how much do they cost and which one should i buy ?
-i am a `` more-bang-for-the-buck '' kind guy , and i am not ready or willing to spend another $ 3000 on top of the $ 3000 projector to get the results i need .
+i am a " more - bang - for - the - buck " kind guy , and i am not ready or willing to spend another $ 3000 on top of the $ 3000 projector to get the results i need .
 - what screen ratio would you recommend wholeheartedly in my current situation ?
 2.35 ?
 2.40 ?
 1.78 ?
-- which screen aspect ratio would backward compatible to accomodate all other aspect ratios , considering we 're using a a cih -lrb- constant image height -rrb- of 70 '' to 75 '' ?
-going for a `` one-size-fits-all '' mentality .
-- would you recommend any other projectors other than the one i have in mind -lrb- epson 1080ub -rrb- ?
-- lastly , which screen brands would you highly recommend for either audio-transparent or traditional ?
-everyone seems to be loving a smx audio transparent , so how much would it cost for a max screen of 168 '' w x 75 '' h ?
+- which screen aspect ratio would backward compatible to accomodate all other aspect ratios , considering we 're using a a cih ( constant image height ) of 70 " to 75 " ?
+going for a " one - size - fits - all " mentality .
+- would you recommend any other projectors other than the one i have in mind ( epson 1080ub ) ?
+- lastly , which screen brands would you highly recommend for either audio - transparent or traditional ?
+everyone seems to be loving a smx audio transparent , so how much would it cost for a max screen of 168 " w x 75 " h ?
 sorry for the extra long post , but i want to make sure i lay out all the facts and hope to get as much feedback as possible .
 i expect to start my dreaded construction thread sometime this week or weekend .
 thanks in advance for all the advice , feedback and inspiration that this particular forum provides .

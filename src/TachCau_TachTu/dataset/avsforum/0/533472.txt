@@ -1,12 +1,12 @@
 trying to limit moving pieces .
 i have a vista media center running with the dvd library enabled playing discs ripped in video_ts format .
 playback works , it 's decent , but not awesome .
-i 'd like to continue using the built-in functionality like dvd library rather than installing additional plugins and services like my movies -lrb- though i realize there are some benefits to them -rrb- .
-i 'm really trying to keep it simple - fewer `` moving pieces '' for me is better .
-launching external programs with a bunch of add-ins and things that are n't terribly well integrated with media center ... too many moving pieces .
-my question : are there improvements i can make to the built-in dvd library playback ?
+i 'd like to continue using the built - in functionality like dvd library rather than installing additional plugins and services like my movies ( though i realize there are some benefits to them ) .
+i 'm really trying to keep it simple - fewer " moving pieces " for me is better .
+launching external programs with a bunch of add - ins and things that are n't terribly well integrated with media center ... too many moving pieces .
+my question : are there improvements i can make to the built - in dvd library playback ?
 for example , i see some folks like to install different codecs like purevideo .
 does that make all the difference ?
 i 've gathered that ffdshow can do some nice things for by adding post-processing , but from my research it does n't look like you can get it running during dvd playback .
--lrb- maybe i 'm wrong ? -rrb-
+( maybe i 'm wrong ? )
 registry tweaks or configuration settings i 'm unaware of ?

@@ -1,7 +1,7 @@
 nokia n97 : reviews , issues , tips , tricks & support thread : v2 firmware edition .
 since the n97 threads are slowing down , there will no longer be a monthly thread .
 this thread will close when v3 firmware comes out .
--lrb- # 1158 -rrb- v20 firmware is due later this month .
+( # 1158 ) v20 firmware is due later this month .
 last poll : code : do you use gps ?
 yes , works fine 47 56.63 % sort of , it keeps losing signal 26 31.33 % no 10 12.05 % here 's some tips : how to reset : press shift + backspace + spacebar and power up your phone to reset it if it gets locked .
 you will lose all your settings if you do this .

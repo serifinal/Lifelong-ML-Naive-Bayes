@@ -1,19 +1,19 @@
 best way to create lossless dvd copy for ps3 .
-sorry for the cross posting -lrb- i orginally put this in video download services , my mistake -rrb- .
+sorry for the cross posting ( i orginally put this in video download services , my mistake ) .
 i figure this is probably the right place to ask : i have a friend with a ps3 that would like to rip dvds losslessly to a upnp server for streaming to the ps3 .
-i have tried a few things , and every time i get an `` unsupported format '' when playing the video on the ps3 .
+i have tried a few things , and every time i get an " unsupported format " when playing the video on the ps3 .
 if i re-encode to mp4 i can play the movies , but that takes hours and degrades the quality .
 hdd space is not a concern .
 right now , what i know does not work is ripping into an avi container with the ac3 audio and full res video .
 this works fine on my computer , and on my htpc for lossless ripping , but the ps3 does n't seem to be able to handle this kind of file .
-i am going to try anydvd to rip the movie -lrb- fully -rrb- to the hdd to see if that will stream to the ps3 correctly , however , i do n't think it supports vob files ?
+i am going to try anydvd to rip the movie ( fully ) to the hdd to see if that will stream to the ps3 correctly , however , i do n't think it supports vob files ?
 i want to keep the movie in mpeg2 format ; the supported mpeg2 's for the ps3 are listed as .
 ts and .
-ps files -lrb- of which only one of them can contain ac3 audio -rrb- .
-what is the best way to get from a dvd -lrb- or vobs -rrb- to .
+ps files ( of which only one of them can contain ac3 audio ) .
+what is the best way to get from a dvd ( or vobs ) to .
 ts or .
 ps ?
 again , i have everything working ; if i encode to mp4 i have no problems .
 however , it takes about 10 mins to losslessly rip a dvd , and about 2 hrs to re-encode it to a format that looks much worse then what i started with .
-i really want to stay in the full res/full audio format of the dvd .
+i really want to stay in the full res / full audio format of the dvd .
 thanks for any help you can provide , i really appreciate it !!

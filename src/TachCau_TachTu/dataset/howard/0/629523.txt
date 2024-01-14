@@ -3,12 +3,12 @@ i see endless threads for people asking how to edit themes or create their own s
 in order to do this , you have to know how to ssh into your phone .
 learning how to do this allows you to do pretty much whatever you want from changing sms bubbles to badges , to backgrounds , to making your own icons .
 for this , you need to download a few things from cydia on your phone and then a few things to your computer .
-this guy has excellent tutorials : -lrb- these are 2.x tutorials by the way -rrb- how to ssh your phone : this guy uses fugu as an ssh client on his mac , if you are a windows user , follow similar steps , just use something like winscp or any similar windows based ssh client .
+this guy has excellent tutorials : ( these are 2.x tutorials by the way ) how to ssh your phone : this guy uses fugu as an ssh client on his mac , if you are a windows user , follow similar steps , just use something like winscp or any similar windows based ssh client .
 i do n't believe fugu is available for windows , but i could be wrong .
-http://www.hackthatphone.com/20/open_ssh.html how to create your own themes using winterboard -lrb- he only does a basic tutorial , but once you get the hang of this , you pretty much will know how to edit anything you want . -rrb-
+http://www.hackthatphone.com/20/open_ssh.html how to create your own themes using winterboard ( he only does a basic tutorial , but once you get the hang of this , you pretty much will know how to edit anything you want . )
 http://www.hackthatphone.com/20/them...nterboard.html as far as anything else goes , if you get stuck or have questions , how about we ask all questions in this thread ?
 also , if you want to know a few places to get icon packs or wallpaper packs , or want to share cool ones , put that here too .
-i personally find a wealth of wallpapers and icon packs on deviantart.com i also found quite a few different sets of sms bubbles from modmyi.com -lrb- you can also achieve the same goal from googling `` different color iphone sms bubbles '' and it brings up several places to download cool sms bubbles from -rrb- .
+i personally find a wealth of wallpapers and icon packs on deviantart.com i also found quite a few different sets of sms bubbles from modmyi.com ( you can also achieve the same goal from googling " different color iphone sms bubbles " and it brings up several places to download cool sms bubbles from ) .
 i know cydia has a limited selection right now .
 you can also make your own icons .
 me and my brother use photoshop for this , but any similar program will do .

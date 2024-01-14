@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/dist/lib/stanford-parser-3.7.0-javadoc.jar!/" />
-      <root url="jar://$PROJECT_DIR$/dist/lib/ejml-0.23.jar!/" />
+<!--      <root url="jar://$PROJECT_DIR$/dist/lib/stanford-parser-3.7.0-javadoc.jar!/" />-->
+<!--      <root url="jar://$PROJECT_DIR$/dist/lib/ejml-0.23.jar!/" />-->
       <root url="jar://$PROJECT_DIR$/dist/lib/stanford-parser.jar!/" />
-      <root url="jar://$PROJECT_DIR$/dist/lib/stanford-parser-3.7.0-models.jar!/" />
-      <root url="jar://$PROJECT_DIR$/dist/lib/stanford-parser-3.7.0-sources.jar!/" />
+<!--      <root url="jar://$PROJECT_DIR$/dist/lib/stanford-parser-3.7.0-models.jar!/" />-->
+<!--      <root url="jar://$PROJECT_DIR$/dist/lib/stanford-parser-3.7.0-sources.jar!/" />-->
     </CLASSES>
     <JAVADOC />
     <SOURCES />

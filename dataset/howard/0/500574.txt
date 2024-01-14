@@ -1,4 +1,0 @@
-recording video files in mp4 . .
-hi all , when i record video files with my storm 2 they are saved in `` 3gp '' format .
-is there a way i can record videos and save them in `` mp4 '' format ??
-thanks , maguirre

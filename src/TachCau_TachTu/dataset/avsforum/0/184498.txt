@@ -1,50 +1,50 @@
 subwoofer causes static in radio stations only . .
 how to connect a subwoofer to a receiver powered subwoofers and receiver pre-outs before hooking up your subwoofer , you need to identify what connections it has .
 let 's take a look at the back of your subwoofer .
-you 'll be looking for an ac power cord -lrb- to ensure it &#8217; s a powered subwoofer -rrb- and rca jacks labeled either `` line-in , low level in or lfe in '' .
+you 'll be looking for an ac power cord ( to ensure it &#8217; s a powered subwoofer ) and rca jacks labeled either " line - in , low level in or lfe in " .
 there may be more connections on the back , but this is all you 'll need for now to properly connect your subwoofer .
 now to check the back of your receiver .
-you 'll need to find a section of rca jack outputs labeled `` pre-out '' , and one of them should be for `` subwoofer '' .
-it may also be labeled `` sw out or lfe out '' .
+you 'll need to find a section of rca jack outputs labeled " pre-out " , and one of them should be for " subwoofer " .
+it may also be labeled " sw out or lfe out " .
 if you do n't have this output , you wo n't be able to connect your sub this way .
 some receivers refer to the subwoofer pre-out as the &#8220; lfe out &#8221; .
-necessary cables for subwoofer and pre-out connections you 'll need the following cable -lrb- s -rrb- to complete your setup : - `` subwoofer '' cable -lrb- an ordinary 75 ohm shielded rca cable will do -rrb- - rca y-adapter -lrb- optional -rrb- connecting your subwoofer if you have a subwoofer cable -lrb- rca -rrb- , this is the optimal setup for your sub .
-just plug the subwoofer cable into your receiver 's subwoofer pre-out and the other end into the left -lrb- white -rrb- low level in -lrb- or lfe in -rrb- on your sub .
-then make sure the power plug is connected to an outlet -lrb- hopefully in a surge protector -rrb- and you 're finished .
+necessary cables for subwoofer and pre-out connections you 'll need the following cable ( s ) to complete your setup : - " subwoofer " cable ( an ordinary 75 ohm shielded rca cable will do ) - rca y - adapter ( optional ) connecting your subwoofer if you have a subwoofer cable ( rca ) , this is the optimal setup for your sub .
+just plug the subwoofer cable into your receiver 's subwoofer pre-out and the other end into the left ( white ) low level in ( or lfe in ) on your sub .
+then make sure the power plug is connected to an outlet ( hopefully in a surge protector ) and you 're finished .
 example of a typical receiver 's pre-outs .
 notice the one labeled subwoofer .
 it 's sometimes purple in color , but that 's not always the case .
-using a rca y-adapter -lrb- optional -rrb- you 'll want to use a y-adapter to combine the two -lrb- left-white & right-red -rrb- rca jacks on the subwoofer into one .
-they are labeled &#8220; left and right line-in inputs &#8221; , but for a typical home theater , you only have one cable coming from the receiver to the subwoofer .
-if you do n't have one or do n't want to get one , you do n't need the y-adapter ; just use the left or right input by itself .
-some prefer using the y-adapters because it makes the auto-on/off switching more efficient on some subwoofers .
-in-wall installation for long in-wall runs , you can use rg-6 coax cable , terminated to standard cable f connectors at the wall plates , then use f-rca -lrb- female -rrb- adapters at each wall plate to connect to shorter subwoofer cables at each end in the room .
+using a rca y - adapter ( optional ) you 'll want to use a y - adapter to combine the two ( left - white & right - red ) rca jacks on the subwoofer into one .
+they are labeled &#8220; left and right line - in inputs &#8221; , but for a typical home theater , you only have one cable coming from the receiver to the subwoofer .
+if you do n't have one or do n't want to get one , you do n't need the y - adapter ; just use the left or right input by itself .
+some prefer using the y - adapters because it makes the auto - on / off switching more efficient on some subwoofers .
+in - wall installation for long in - wall runs , you can use rg - 6 coax cable , terminated to standard cable f connectors at the wall plates , then use f - rca ( female ) adapters at each wall plate to connect to shorter subwoofer cables at each end in the room .
 connecting two subwoofers first , run a rca cable from the subwoofer pre-out on the receiver to one of the subwoofers .
-then you plug the other end of the rca cable from the receiver into the female end of the rca y-adapter and plug the male end of the y-adapter into the line level input on the subwoofer .
-with the other branch of the y-adapter you would connect it to another rca cable -lrb- as long as needed to reach the other subwoofer -rrb- to the line level input on the second subwoofer .
-one other way would be to connect the male end of a y-adapter to the receiver subwoofer pre-out and run separate rca cables to each subwoofer .
+then you plug the other end of the rca cable from the receiver into the female end of the rca y - adapter and plug the male end of the y - adapter into the line level input on the subwoofer .
+with the other branch of the y - adapter you would connect it to another rca cable ( as long as needed to reach the other subwoofer ) to the line level input on the second subwoofer .
+one other way would be to connect the male end of a y - adapter to the receiver subwoofer pre-out and run separate rca cables to each subwoofer .
 non-powered subwoofer connections if your subwoofer does n't plug into a power outlet , it means it is n't powered .
 so how do you connect it ?
 one way to go about it is through your front speakers .
 you 'll need some extra speaker wire to do this .
 plugging speaker wire into your subwoofer you 'll need some speaker wire to go from your receiver to your subwoofer and then from your subwoofer to your front speakers .
-example of high level / speaker line inputs and outputs the first step is running speaker wire from your receiver 's front left and right speaker channels to the left and right speaker jacks on your subwoofer labeled `` high level input or speaker input '' .
-the next step is to run speaker wire from the subwoofer 's left and right speaker jacks labeled `` output . ''
+example of high level / speaker line inputs and outputs the first step is running speaker wire from your receiver 's front left and right speaker channels to the left and right speaker jacks on your subwoofer labeled " high level input or speaker input " .
+the next step is to run speaker wire from the subwoofer 's left and right speaker jacks labeled " output . "
 the other end of the wires go to your left and right front speakers .
-this connection method is often referred to as `` daisy chaining '' .
+this connection method is often referred to as " daisy chaining " .
 * it &#8217; s also important to mind positives and negatives ; your speaker wire connects a + and - wire to your components .
 you can use either end of the wire as positive or negative , just so long as you use the same pattern for both ends of the cable .
 settings on your subwoofer these settings apply when you are using a powered subwoofer .
 * set the crossover on the subwoofer as high as it will go .
-out or off -lrb- depending on the sub -rrb- since you are using the crossover from the receiver .
+out or off ( depending on the sub ) since you are using the crossover from the receiver .
 * set the phase to 0 or 180 .
--lrb- which ever is louder -rrb- * set the gain -lrb- volume -rrb- knob somewhere around 9 - 11 o'clock on the dial .
--lrb- can be raised or lowered for personal preference/proper calibration -rrb- speaker settings on your avr these settings apply when you are using a powered subwoofer .
+( which ever is louder ) * set the gain ( volume ) knob somewhere around 9 - 11 o'clock on the dial .
+( can be raised or lowered for personal preference / proper calibration ) speaker settings on your avr these settings apply when you are using a powered subwoofer .
 * set subwoofer to yes or on .
 * set all other speaker channels to small .
 * set the subwoofer channel level to -5 db .
--lrb- can be raised or lowered for personal preference/proper calibration -rrb- * set the crossover to 80 on the receiver .
--lrb- can be raised or lowered for personal preference/proper calibration -rrb- these settings apply when you are using a non-powered subwoofer .
+( can be raised or lowered for personal preference / proper calibration ) * set the crossover to 80 on the receiver .
+( can be raised or lowered for personal preference / proper calibration ) these settings apply when you are using a non-powered subwoofer .
 * set subwoofer to no or off .
 * set all other speaker channels to large .
 * set the crossover on the subwoofer to 80 .

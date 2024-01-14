@@ -1,37 +1,37 @@
 notes .
-goals : - as big as reasonably possible while looking good - able to be bright enough to watch tv -lrb- eg superbowl -rrb- or kids animated br/dvds with some lights on - -lrb- i realize these are competing goals -rrb- - get a screen -lrb- if possible -rrb- installed by the superbowl -lrb- family coming over -rrb- room : link to my ht thread at avs -- dedicated ht room - designed by rives audio -- dimensions : 22ft 4in x 17ft 6in x 7 ?
+goals : - as big as reasonably possible while looking good - able to be bright enough to watch tv ( eg superbowl ) or kids animated br / dvds with some lights on - ( i realize these are competing goals ) - get a screen ( if possible ) installed by the superbowl ( family coming over ) room : link to my ht thread at avs -- dedicated ht room - designed by rives audio -- dimensions : 22ft 4in x 17ft 6in x 7 ?
 7 ?
-height -lrb- ceiling diffusers hang 2.5-3 ?
-down -rrb- -- seating -lrb- planned -rrb- for 8 = 4 in front , 4 in back on a ~ 6 ?
-riser -- approximate screen-to-seat distance : - front row : ~ 11 ft - back row : ~ 16 ft -- bass traps , ceiling diffusers , and acoustic treatments throughout room -- room wall and ceiling color : sherwin-williams ?
+height ( ceiling diffusers hang 2.5 - 3 ?
+down ) -- seating ( planned ) for 8 = 4 in front , 4 in back on a ~ 6 ?
+riser -- approximate screen - to - seat distance : - front row : ~ 11 ft - back row : ~ 16 ft -- bass traps , ceiling diffusers , and acoustic treatments throughout room -- room wall and ceiling color : sherwin - williams ?
 warm stone ?
-rack : middle atlantic wr-37-32 power : dedicated 20a lines & house surge protection - electronics : surge-x seq - projector : furman m1500-ups-pfp - mains/sub : panamax m2a20 projector -lrb- ceiling mounted -rrb- : jvc rs20 -lrb- pre-ordered @ avs -rrb- / temporary : toshiba 42xv540u regza 1080p lcd 120hz screen : ?
+rack : middle atlantic wr -37-32 power : dedicated 20a lines & house surge protection - electronics : surge - x seq - projector : furman m1500 - ups - pfp - mains / sub : panamax m2a20 projector ( ceiling mounted ) : jvc rs20 ( pre-ordered @ avs ) / temporary : toshiba 42xv540u regza 1080p lcd 120hz screen : ?
 2.35:1 ?
 brand , type , gain , size ?
-cable : sa8300hd receiver : denon 5308ci dvd : oppo dv-980h blu ray : samsung bd-p1500 -lrb- profile 2.0 -rrb- -lrb- future : oppo bdp83 -rrb- mains : rocket onix rs1000 signature center : rocket onix rsc200 signature side surrounds : rocket onix rss300 dipole rear surrounds : rocket rs250 mkii subwoofer : svs pb12-ultra/2 -lrb- rosewood -rrb- ethernet switch : d-link des-1024d 24-port 10/100 rack mount game : xbox with planned xbox 360 -lrb- jasper -rrb- in the future remote : ??
--lrb- considering control 4 for lighting and hvac control -rrb- researching : screen , ht seating , remote , dvr expander hd -lrb- wd 1tb coming soon ? -rrb-
+cable : sa8300hd receiver : denon 5308ci dvd : oppo dv - 980h blu ray : samsung bd - p1500 ( profile 2.0 ) ( future : oppo bdp83 ) mains : rocket onix rs1000 signature center : rocket onix rsc200 signature side surrounds : rocket onix rss300 dipole rear surrounds : rocket rs250 mkii subwoofer : svs pb12 - ultra / 2 ( rosewood ) ethernet switch : d - link des - 1024d 24 - port 10/100 rack mount game : xbox with planned xbox 360 ( jasper ) in the future remote : ??
+( considering control 4 for lighting and hvac control ) researching : screen , ht seating , remote , dvr expander hd ( wd 1 tb coming soon ? )
 pending : jvc rs20 projector i have been reading the 2.35:1 cih threads and screen threads ?
 especially the high gain thread as well as the rs20 screen thread .
-i also was looking at the dalite `` jkp affinity '' hd progressive and enhanced matte white screen thread , but that doesn?t sound like what i need .
+i also was looking at the dalite " jkp affinity " hd progressive and enhanced matte white screen thread , but that doesn?t sound like what i need .
 i think a higher gain screen might be helpful .
-screens i have thought of : - dalite `` jkp affinity '' hd progressive and enhanced matte white screen -lrb- gain 0.9 ? -rrb-
-- sounds like it wo n't work - da-lite high power -lrb- hp -rrb- -lrb- gain 2.8 -rrb- + / - pro image horizontal masker -lrb- http://www.dalite.com/dalitehomethea...?product_id=15 -rrb- - other avs quote `` i have mine on ceiling , even tought i wont have the full 2.8 gain , and i do n't need it .
+screens i have thought of : - dalite " jkp affinity " hd progressive and enhanced matte white screen ( gain 0.9 ? )
+- sounds like it wo n't work - da - lite high power ( hp ) ( gain 2.8 ) + / - pro image horizontal masker ( http://www.dalite.com/dalitehomethea...?product_id=15 ) - other avs quote " i have mine on ceiling , even tought i wont have the full 2.8 gain , and i do n't need it .
 what sold me to it is screen texture .
 the hp have virtually no screen texture .
-i tried a lot of screen sample on my wall the the hp is the only one that would n't drive me crazy '' `` the narrow viewing cone issue even seems to be over-stated .
+i tried a lot of screen sample on my wall the the hp is the only one that would n't drive me crazy " " the narrow viewing cone issue even seems to be over-stated .
 i think most will be pleased .
-my image seems bright and vivid to the point that i 've been asked several times if there is big `` tv '' built in behind the screen .
-no one has ever mentioned a perceived change in the image as they move around or sat or stood . ''
-rec eye level mount -lrb- vs ceiling -rrb- - but ok with ceiling too -lrb- bw supposedly better for ceiling -rrb- - stewart studiotek -lrb- gain 1.3 -rrb- , others ?
-- carada brilliant white -lrb- bw -rrb- -lrb- gain 1.4 -rrb- - avs quote `` if you 're ceiling mounted , i 'd 100 % get the carada bw . ''
-- vutec silver screen what about -lrb- horizontal -rrb- masking systems for these screens ?
+my image seems bright and vivid to the point that i 've been asked several times if there is big " tv " built in behind the screen .
+no one has ever mentioned a perceived change in the image as they move around or sat or stood . "
+rec eye level mount ( vs ceiling ) - but ok with ceiling too ( bw supposedly better for ceiling ) - stewart studiotek ( gain 1.3 ) , others ?
+- carada brilliant white ( bw ) ( gain 1.4 ) - avs quote " if you 're ceiling mounted , i 'd 100 % get the carada bw . "
+- vutec silver screen what about ( horizontal ) masking systems for these screens ?
 likely to add on later ?
 please feel free to comment .
 i realize ?
 huge ?
 and ?
 bright ?
-/ detailed/etc are somewhat competing features to optimize .
-my jvc rs20 should arrive on friday and be installed next wed , so i should be able to play around with it some -lrb- on the wall -rrb- to get an idea of screen sizes , brightness , etc. .
+/ detailed / etc are somewhat competing features to optimize .
+my jvc rs20 should arrive on friday and be installed next wed , so i should be able to play around with it some ( on the wall ) to get an idea of screen sizes , brightness , etc. .
 thanks .
 mike

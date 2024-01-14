@@ -15,4 +15,4 @@ those two are closest to correct but the deviation from being right may actually
 or it could be this auto contrast thing ??
 the auto and dynamic modes i?m not a fan of?dynamic especially as it really ups the light output , driving the panel hard and it has the horrible crushed white detail syndrome ? .
 auto and dynamic gamma curves below .
-standard and cinema don ; t seem to have saved ... they were similar to auto but without the tailing off at top right -lrb- tailing off signifies crush/compressed bright detail .
+standard and cinema don ; t seem to have saved ..... they were similar to auto but without the tailing off at top right ( tailing off signifies crush / compressed bright detail .

@@ -1,9 +1,9 @@
 panasonic px60 settings thread .
 seeing as the owners thread is getting long , and addressing a wide variety of issues , i thought it might be useful to start a dedicated settings thread .
-for example , what settings are people using to run in the set to avoid -lrb- hopefully -rrb- potential screen burn problems later .
-the only changes i made to the out of the box settings -lrb- for the run-in -rrb- were - dynamic mode off - turned down contrast to mid way .
+for example , what settings are people using to run in the set to avoid ( hopefully ) potential screen burn problems later .
+the only changes i made to the out of the box settings ( for the run - in ) were - dynamic mode off - turned down contrast to mid way .
 - everything else was mid way out of the box .
 any suggestions for settings ?
 also , i notice there is n't an accurate numerical counter for settings , just a bar .
 i guess this makes it a bit harder to share settings .
--lrb- or am i missing something -rrb- so , what settings are you using ?
+( or am i missing something ) so , what settings are you using ?

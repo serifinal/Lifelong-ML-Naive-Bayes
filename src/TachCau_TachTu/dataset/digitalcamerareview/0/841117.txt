@@ -1,5 +1,5 @@
 canon default folders .
-i want to change the default folder that the canon images are sent to on my pc -lrb- xp home -rrb- .
+i want to change the default folder that the canon images are sent to on my pc ( xp home ) .
 now they all go to my pictures , each folder by date .
 i would like to change it to go to my external hard drive , and in a folder canon , then by date within that .
 i read the camera manual and the software manual but can not see how to do this , if it is even possible .

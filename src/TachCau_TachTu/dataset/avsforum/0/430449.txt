@@ -1,4 +1,4 @@
-how are you storing your bd/hddvd movies on your media server/htpc ? .
+how are you storing your bd / hddvd movies on your media server / htpc ? .
 dvds are pretty easy .
 you either rip it as an iso or in folders and if you want reconvert it to another codec .
 hd is alot more complicated i am just curious how everyone is storing them .
@@ -7,6 +7,6 @@ i usually keep it in a single evo or m2ts depending on the format .
 if there are any special features worth keeping on there , i have a seperate folder for those .
 the field of dreams doc about the real field is a good one .
 same with the chronicles of riddick doc .
-i have thought about converting the evos to an mkv , but nothing seems to be easy at this point with hdm -lrb- not that it was with dvd 2-3 years out ... .
-i remember having to fiddle with flaskmpeg and a host a little programs until dvdfab came out -rrb- i have thought about just keeping the whole iso , but it can really eat up space quick .
-i use nero 8 as you can play these files back individually with truehd support -lrb- dts-ma is still a problem it seems although dts-hd seems to be working -rrb-
+i have thought about converting the evos to an mkv , but nothing seems to be easy at this point with hdm ( not that it was with dvd 2 - 3 years out ... .
+i remember having to fiddle with flaskmpeg and a host a little programs until dvdfab came out ) i have thought about just keeping the whole iso , but it can really eat up space quick .
+i use nero 8 as you can play these files back individually with truehd support ( dts - ma is still a problem it seems although dts - hd seems to be working )

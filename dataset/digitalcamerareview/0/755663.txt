@@ -1,6 +1,0 @@
-new sd 870 is lcd shows vertical lines off bright objects .
-is this normal behavior ?
-in composition mode , the lcd screen shows vertical lines and anomalies when there is a bright spot such as glare or very high contrast such as a bright window in a darker room .
-the lines do not show up in the recorded picture , just in the viewscreen during composition .
-i have two of these cameras and both exhibit the same problem .
-canon support was useless .

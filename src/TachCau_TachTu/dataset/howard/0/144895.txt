@@ -6,7 +6,7 @@ am i correct that if i update via pwnage tool i wo n't lose my baseband ?
 2 .
 if i backup my iphone first and then reload the backup onto the phone after the update will it work or do i have to start from scratch copying all my apps etc. back ?
 3 .
-besides the carry logo problem -lrb- which is easily fixed -rrb- is there any other known issues ?
+besides the carry logo problem ( which is easily fixed ) is there any other known issues ?
 4 .
 do i need my shsh off the phone or is that pointless since 3.1.2 is now hackable ?
 if so , what 's the easiest way to do this ?

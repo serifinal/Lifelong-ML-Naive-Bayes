@@ -1,5 +1,5 @@
 audio problems with intel g45 and hdmi .
-i have built a htpc using an asus p5q-em board .
+i have built a htpc using an asus p5q - em board .
 the hdmi output of the pc is connected to a denon 3808 with a 5.1 speaker setup .
 everything works perfectly fine , but i hear artifacts in the audio .
 it is difficult to describe ... it sounds like a slightly scratched vinyl record .

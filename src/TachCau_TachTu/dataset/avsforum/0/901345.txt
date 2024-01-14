@@ -1,18 +1,18 @@
-need some dual-purpose room advice .
+need some dual - purpose room advice .
 hi all .
-just bought myself a kuro 5010fd and am planning the next stage of getting the most of my ht components in our new living room -lrb- oh yeah , new house too -rrb- .
+just bought myself a kuro 5010fd and am planning the next stage of getting the most of my ht components in our new living room ( oh yeah , new house too ) .
 i am aware of the downfalls of trying to design my ht around my living room , but we simply do n't have the room for a dedicated ht .
 i hope to tap the minds of those here who have more experience than i do , which is just about everyone .
 for now , i 'm going to skip the issue of trying to wire my surrounds in exterior walls with fire blocking and insulation .
 i already know it 's going to be a nightmare .
 1 .
-first question ... what are the better rf-capable all-in-one remotes out there ?
+first question ... what are the better rf - capable all - in - one remotes out there ?
 i want to put my components in a large closet behind the wall i plan to mount the tv on , but will need the rf remote .
 it looks like the harmony 890 , monster control 300 , and a couple of urc options will fit the bill .
 any preferences out there ?
 2 .
 i use comcast hd digital cable at my house .
-comcast 's motorola hd-dvrs have not been great performers for me .
+comcast 's motorola hd - dvrs have not been great performers for me .
 i already have good ventilation for it and plan to run a good quality coax to the closet for it .
 my cable is connected to a splitter for my internet .
 is this harming the signal ?
@@ -22,27 +22,27 @@ i like this idea because i could enable pip for it .
 however , i have n't found a way in researching aftermarket dvrs to maintain pip , dvr , and on demand functions .
 is there a way to have pip , hd dvr , and on demand ?
 3 .
-i love my onkyo tx-sr805 .
+i love my onkyo tx - sr805 .
 one great feature is the passthrough , allowing the avr to control the show and use the tv as just a monitor .
 am i losing any video quality by doing this ?
-if i get the smarter remote , i could easily still have one-touch source switching with the hdmi cables going directly to the tv .
+if i get the smarter remote , i could easily still have one - touch source switching with the hdmi cables going directly to the tv .
 4 .
 wiring .
-i really like the clean look of wall-mounted wiring housings , such as those with banana plug connections on a wall plate .
+i really like the clean look of wall - mounted wiring housings , such as those with banana plug connections on a wall plate .
 this is what i am planning in the closet wall .
 is there any loss in the extra connection , as opposed to just leaving extra speaker wire to run to the receiver ?
-any opinions on the monster in-wall power center to use for the outlet behind the tv ?
+any opinions on the monster in - wall power center to use for the outlet behind the tv ?
 other options ?
 5 .
 old surrounds .
 i have a pair of ba vrs micro dipole speakers for 2 of the surround channels .
-what i 've read says the dipoles are best used as l/r surrounds rather than backs .
+what i 've read says the dipoles are best used as l / r surrounds rather than backs .
 to put them at right angles to the seating area , they will be close to the back wall .
-is it going to affect the sound by facing one of the dipole drivers at a wall 12 '' away ?
+is it going to affect the sound by facing one of the dipole drivers at a wall 12 " away ?
 6 .
 new speakers .
 i have 2 pairs of new speakers to purchase .
-first , a pair of in-wall rear surrounds .
+first , a pair of in - wall rear surrounds .
 i understand that the newer ba speakers are not that great .
 any recommendations for a relatively close match to the other speakers in the system .
 i am also going to wire some outdoors and run them off zone 2 on the avr .

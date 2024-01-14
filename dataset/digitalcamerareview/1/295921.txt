@@ -1,4 +1,0 @@
-upgrade powershot a510 for sdhc ? .
-can i download some sort of firmware upgrade for my canon powershot a510 that will allow it to read sdhc cards ?
--lrb- i bought it well before the sdhc standard came out so i 'm quite sure that it would n't read an sdhc card now . -rrb-
-thanks in advance .

@@ -1,19 +1,19 @@
 personal ln52a650a settings .
-i searched and searched for `` settings '' for my new ln52a650a1f but could n't find them anywhere .
-i did find the cnets version for the plasma , but nothing for the lcd , only comments about how `` settings '' could never be listed for one unit and expected to be right for the next ... .
+i searched and searched for " settings " for my new ln52a650a1f but could n't find them anywhere .
+i did find the cnets version for the plasma , but nothing for the lcd , only comments about how " settings " could never be listed for one unit and expected to be right for the next ... .
 i wonder if that &#8217; s true for the plasma too ?
 anyway , i thought it would be cool to post a thread that allowed personal settings to be posted for taste by pros as well as novices like myself .
-the thread about `` ln52a650a owners '' has simply gotten so big that its very hard to find things this specific .
-anyway , the samsung ln52a650a1f has presets which look fine out of the box for many users , but with just a little tweaking you can make `` fine '' turn into absolutely exquisite !
+the thread about " ln52a650a owners " has simply gotten so big that its very hard to find things this specific .
+anyway , the samsung ln52a650a1f has presets which look fine out of the box for many users , but with just a little tweaking you can make " fine " turn into absolutely exquisite !
 we must all realize that not only are we dealing with the fact that settings for my unit may not be the perfect ones for yours , but we all have different taste .
 if one person does not have perfect vision , settings that make things crisp may not be preferred and may look unnatural to them , on the other hand ... settings too enhanced makes it look like a computer generated program rather than real life .
 i had guest over last night and one commented that it looked so perfect that it looked like you were looking through a magnifying glass as you could see so much more than even real life presented .
 the scenes are actually breath taking for someone who has never seen hd on such a high quality screen .
 my dad told me that my new hd screen made his projection screen that shows hd look like regular tv !
-you can watch a football game , nascar race , wilderness or city shots , views of the beaches , ocean depths or even space , as well as concerts of masses of people with different skin tones and see `` all '' of them better than if you were really there .
+you can watch a football game , nascar race , wilderness or city shots , views of the beaches , ocean depths or even space , as well as concerts of masses of people with different skin tones and see " all " of them better than if you were really there .
 the only thing that would come close is if you were viewing through high definition binoculars at the crowds .
 sounds hard to believe ??? the power of hd cameras really bring in more now than even our eyes can pick up if we only have a monitor that can present it properly .
-i 'm not an expert by any means and still have allot of questions myself , but after hours of comparing i decided i prefer the `` dnie '' setting that some do n't seem to like because it tweaks in ways i can not ... the only catch is you have to tweak to offset as it tends to `` over do it '' .
+i 'm not an expert by any means and still have allot of questions myself , but after hours of comparing i decided i prefer the " dnie " setting that some do n't seem to like because it tweaks in ways i can not ... the only catch is you have to tweak to offset as it tends to " over do it " .
 i think samsung did a splendid job of giving us another option in viewing .
 the dynamic setting is the only setting which allows this feature ... .
 however , right out of the box , the dynamic setting is grossly overpowering and needs to be toned down big time to look realistic .
@@ -21,34 +21,34 @@ so both the dynamic mode that &#8217; s needed to use dnie and dnie itself both 
 i am extremely pleased with my final outcome ... .
 there are two complaints i still have however and maybe someone could help me with this ?
 1 .
-very dark scenes still seem a bit too dark `` this may be the effects of the dnie setting , but the benefits for general use still seems to outweigh any negatives for me .
+very dark scenes still seem a bit too dark " this may be the effects of the dnie setting , but the benefits for general use still seems to outweigh any negatives for me .
 2 .
 the other is that there appears to be no way to get every channel absolutely perfect ... seems every broadcaster sends signal tweaked a bit different than the other .
 commercials will even look different than the show they are being broadcast under and when viewing people under stage lights may also look different than shots in the sun as well as shots indoors .
-i guess if the manufacturers `` forced '' certain colors then the subtle differences would be missed as i notice sometimes two people can be standing side by side and one looks perfect while the other looks a bit red ... is it their makeup . .
+i guess if the manufacturers " forced " certain colors then the subtle differences would be missed as i notice sometimes two people can be standing side by side and one looks perfect while the other looks a bit red ... is it their makeup . .
 high blood pressure ... ?
 who knows , but i love the realism in detail of this tv .
 but at least this will get you started and you can tweak to suit your taste from these settings .
---------------------------------- my firmware version is 2002.2 as you set these settings , do n't freak out if they do n't look good until we get to the part where `` dnie '' will be set to on as &#8220; until this feature is activated &#8221; , these settings will look too toned down ... these settings actually tone down the dnie &#8220; that we can not otherwise access &#8221; and the dynamic settings obtain the realistic look of dnie without most of the negatives of overkill it seems to afford once you are done with `` all '' the settings , only then tweak to modify for your taste ... but be sure to bounce between many channels first to compare .
-dnie set to `` on '' settings .
-`` my preference ! ''
+--------------------------------- my firmware version is 2002.2 as you set these settings , do n't freak out if they do n't look good until we get to the part where " dnie " will be set to on as &#8220; until this feature is activated &#8221; , these settings will look too toned down ... these settings actually tone down the dnie &#8220; that we can not otherwise access &#8221; and the dynamic settings obtain the realistic look of dnie without most of the negatives of overkill it seems to afford once you are done with " all " the settings , only then tweak to modify for your taste ... but be sure to bounce between many channels first to compare .
+dnie set to " on " settings . "
+my preference ! "
 go to menu : 1 .
-pick your mode as `` dynamic '' 2 .
+pick your mode as " dynamic " 2 .
 backlight ... set at 6 3 .
 contrast &#8230; set at 45 4 .
 brightness &#8230; set at 62 5 .
 sharpness &#8230; set at 80 6 .
 color &#8230; .55 7 .
-tint -lrb- g.r -rrb- leave at defaults of g50/r50 8 .
+tint ( g.r ) leave at defaults of g50 / r50 8 .
 detailed settings will be greyed out .
 9 .
-go into `` picture options '' and set color tone &#8230; .
+go into " picture options " and set color tone &#8230; .
 to normal 10 .
 digital nr at off 11 .
 dnie &#8230; .
-set to `` on '' '' 12 .
-all other options here will be greyed out except `` auto motion plus '' . .
-i set at `` high '' for full 120hz .
+set to " on " " 12 .
+all other options here will be greyed out except " auto motion plus " . .
+i set at " high " for full 120hz .
 i get zero artifacts .
 i have about 95 % signal on both of my satellite channels and i 'm using a hdmi cable from my satellite box to the tv .
 remember my taste may be different from yours and each tv out of the box if different from the next according to experts .

@@ -1,6 +1,6 @@
 pz80 vs pz85 vs pz800 .
-based on what i 've read about them , i 'm thinking about getting a 50 '' panasonic plasma tv .
+based on what i 've read about them , i 'm thinking about getting a 50 " panasonic plasma tv .
 the question is , which one ?
-i 've tried reading up on the various differences between them and what i 've found is : pz80 : base model pz85 : - has a vga port - has some auto contrast dealie which is why it 's rated as 30k :1 as opposed to 20k :1 for the pz80 pz800 : - better audio - support for 24p -lrb- as opposed to other two models which use 3:2 pulldown -rrb- - extra hdmi input -lrb- 4 instead of 3 -rrb- - thx certified based on what i 've read , the extra features do n't appeal to me .
+i 've tried reading up on the various differences between them and what i 've found is : pz80 : base model pz85 : - has a vga port - has some auto contrast dealie which is why it 's rated as 30k : 1 as opposed to 20k : 1 for the pz80 pz800 : - better audio - support for 24p ( as opposed to other two models which use 3:2 pulldown ) - extra hdmi input ( 4 instead of 3 ) - thx certified based on what i 've read , the extra features do n't appeal to me .
 supposedly , the 24p mode causes flicker , i do n't care about extra inputs , and i 've got a separate audio system .
 so is there any reason to buy either of the more expensive models ?

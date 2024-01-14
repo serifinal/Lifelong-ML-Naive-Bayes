@@ -1,12 +1,12 @@
 samsung tv and dvd combo sound issue .
 hi there , hopefully i have posted this on the right forum .
-i friend of mine purchased a samsung ps42c450 tv and ht-d5500 blu ray dvd player and surround sound system as a combo from curries for christmas , which i have tried to setup for him .
+i friend of mine purchased a samsung ps42c450 tv and ht - d5500 blu ray dvd player and surround sound system as a combo from curries for christmas , which i have tried to setup for him .
 the blu ray player is connected to the tv via a 1.4 hdmi cable .
 the sky box is connected to the tv via the blu ray player with 2 x 1.4 hdmi cables .
 this is as per samsungs instructions .
 the dvd player works fine , however i can not get the tv to work correctly with the sky box .
 when he turns the telly and sky box on , the picture is shown for a couple of seconds , but then he gets the following error message .
-&#8220; connect an optical cable from this product to an external digital device such as a cable box or satellite receiver &#8221; with or without an optical cable connected between the sky box and the bru ray dvd the tv then defaults to av1 -lrb- which isn &#8217; t in use -rrb- you then have to go to the menu then cycle through the inputs manually until you reach av4 at which point everything , including the sound works fine .
+&#8220; connect an optical cable from this product to an external digital device such as a cable box or satellite receiver &#8221; with or without an optical cable connected between the sky box and the bru ray dvd the tv then defaults to av1 ( which isn &#8217; t in use ) you then have to go to the menu then cycle through the inputs manually until you reach av4 at which point everything , including the sound works fine .
 i tried connecting the sky box directly to the tv via hdmi and this stops the error message being displayed , but , as the surround sound it integrated with the blu ray player this is not a workable solution .
 does anyone have a setup similar to this and know how to solve the problem , i assume he needs to set an audio default on the tv to none optical , but i ca n't find any such setting .
 i would appreciate any suggestions .

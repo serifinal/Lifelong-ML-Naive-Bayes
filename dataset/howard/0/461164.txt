@@ -1,8 +1,0 @@
-ca n't connect to pageplus after factory reset .
-hi ... i recently reset my samsung smooth to its factory settings and now i ca n't get connected to pageplus .
-after the reset i dialed * 22890 and received a successful activation message .
-however when i try to make a call it connects to verizon instead of pageplus and says they can not identify my phone .
-the home sid is correct and so is the prl .
-i do n't know if the min is correct since i never paid any attention in the past .
-however , my directory number is correct so i assume the min is also .
-any ideas ??

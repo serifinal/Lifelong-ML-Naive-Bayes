@@ -1,3 +1,0 @@
-nvidia geforce 174.74 beta drivers officially released .
-http://www.nvidia.com/object/winxp_174.74.html http://www.nvidia.com/object/winxp64_174.74.html http://www.nvidia.com/object/winvista_x86_174.74.html http://www.nvidia.com/object/winvista_x64_174.74.html new beta drivers , supports 6/7/8 / 9 series on xp and vista .
-whql drivers should n't be far off now .

@@ -1,14 +1,14 @@
-panasonic txp42gt20b tv wont play videos from an hdc-sd700 camcorder -lrb- using sd card -rrb- .
-hi , i 've just bought a panasonic tx-p42gt20b -lrb- bargain from harvey norman -rrb- .
+panasonic txp42gt20b tv wont play videos from an hdc - sd700 camcorder ( using sd card ) .
+hi , i 've just bought a panasonic tx - p42gt20b ( bargain from harvey norman ) .
 its a 2010 model but still a great tv .
-well apart from the problem that i 'm having and its so so annoying , and the only major disappointment this far with it ... and thats it wont play videos recorded by my panasonic hdc-sd700 camcorder -lrb- also 2010 model -rrb- .
-the camcorder uses sd cards and when i insert any of sd cards into the tv and go to the media player , choose video i get the error message `` no valid file to play '' .
+well apart from the problem that i 'm having and its so so annoying , and the only major disappointment this far with it ... and thats it wont play videos recorded by my panasonic hdc - sd700 camcorder ( also 2010 model ) .
+the camcorder uses sd cards and when i insert any of sd cards into the tv and go to the media player , choose video i get the error message " no valid file to play " .
 the weird thing is that my dad has a slightly older panansonic tv and inserting the same sd card in his works just fine - it can play all the video content no problem from the sd card direct .
-i 've recorded at 1080/50p .
-other things i 've tried : - it can read jpgs -lrb- whoopy do !! -rrb-
+i 've recorded at 1080 / 50p .
+other things i 've tried : - it can read jpgs ( whoopy do !! )
 - i 've tried putting the sd card into a usb reader - same result - i 've updated the firmware on the tv to 2.810 - still no joy - connecting the camcorder to the tv via hdmi works fine - but thats not the solution i 'm after .
-does anyone have any other suggestions -lrb- other than doing conversions etc on the file -rrb- , i just cant believe that these 2 panasonic products arent compatible .
-the official documentation reads like it supports the file format and thats not even starting about so called ` viera link ' compatibility .
+does anyone have any other suggestions ( other than doing conversions etc on the file ) , i just cant believe that these 2 panasonic products arent compatible .
+the official documentation reads like it supports the file format and thats not even starting about so called ' viera link ' compatibility .
 so maybe its a fault with the tv ??
 any ideas / suggestions would be so welcome .
 thx carrie

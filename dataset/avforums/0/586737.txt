@@ -1,6 +1,0 @@
-3dbd buster and ssifsucka ... .
-has any body used these programs ?
-i have had great results with 3dbd buster at combining the left and right separate files into a single mkv file thats playable through the usb port on my samsung c680 , but has anyone managed to get a full interlaced 3d picture to play as a blu ray would ?
-i used ssif sucka to rip the ssif from a blu ray disc and convert it to an interlaced file but the tv would n't pick up the fact it was a 3d file .
-does anyone know how to combine or rip into a full resolution mkv file not a sbs file or over under file .
-i hope you can make sense of what i 'm saying

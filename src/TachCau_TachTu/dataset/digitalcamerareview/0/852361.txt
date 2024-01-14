@@ -1,6 +1,6 @@
 setting resolution on xsi ?? .
 i recently bought a canon xsi .
-i have the quality set at its highest setting -lrb- l 4272 x 2848 -rrb- when i work with my photos in cs , i see the resolution is only 72 pixels per inch .
+i have the quality set at its highest setting ( l 4272 x 2848 ) when i work with my photos in cs , i see the resolution is only 72 pixels per inch .
 my old canon powershot a95 pics were 180 pixels per inch .
 our new kodak takes pics at 480 pixels per inch .
 is there another quality setting i am overlooking ?

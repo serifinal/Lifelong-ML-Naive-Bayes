@@ -1,12 +1,12 @@
-using hauppauge hd pvr as a `` tv tuner '' .
+using hauppauge hd pvr as a " tv tuner " .
 hello , i 've been working on trying to get the hdpvr to work as a tv tuner in mediaportal .
-there is currently support , but it is in a very early phase and mediaportal hates the hd-pvr and refuses to play tv consistently .
+there is currently support , but it is in a very early phase and mediaportal hates the hd - pvr and refuses to play tv consistently .
 that is , it freezes or does n't show up at all .
 so now i 'm wondering if there are any other front ends out there , that not only support the hd pvr as a makeshift tv tuner , but also are real front ends with active development and great customization like mp .
 essentially what i need are 3 things : 1 .
 full hd pvr support 2 .
 something like the tvseries plugin in mediaportal 3 .
-a good looking/modern interface thanks a lot for any replies .
--lrb- sidequestion : do any other front ends have a plugin like mp 's `` tvseries ? ''
+a good looking / modern interface thanks a lot for any replies .
+( sidequestion : do any other front ends have a plugin like mp 's " tvseries ? "
 it accesses thetvdb.com to download television show information , then organizes all your tv show 's by series , episode , and provides names for everything ... .
-i ca n't find that out anywhere ! -rrb-
+i ca n't find that out anywhere ! )

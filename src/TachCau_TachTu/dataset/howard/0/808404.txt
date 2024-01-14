@@ -1,5 +1,5 @@
 droid crashes my wifi network . .
-every single time i use wifi at home on my droid 30-45 minutes later , my network will crash .
+every single time i use wifi at home on my droid 30 - 45 minutes later , my network will crash .
 i 'm using an apple airport extreme router .
 i 'm almost positive its my droid thats causing it to crash .
 i can go days without using my droid on wifi and my network is fine .

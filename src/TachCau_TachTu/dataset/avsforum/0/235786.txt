@@ -1,7 +1,7 @@
 best version of linux to make ps3 media player .
-i have a friend with a ps3 that would like to use it as a media player -lrb- mp3 , photos and videos -rrb- .
+i have a friend with a ps3 that would like to use it as a media player ( mp3 , photos and videos ) .
 i was thinking that perhaps installing linux is the best way to get acceptable format compatibility ; basically , the only video i want to play are mpg2 avi files that are direct rips from dvd ; something the ps3 does n't seem to like , unfortunately .
 has anyone tried to do this and had a good experience .
-i do n't care about the lack of hi-def video support ; i just want to play ripped dvds , no hd content -lrb- i 'll use the bd for that -rrb- .
+i do n't care about the lack of hi - def video support ; i just want to play ripped dvds , no hd content ( i 'll use the bd for that ) .
 however , i would like broad format compatibility ; mpg2 dvd rips are a must , other formats would be nice as well .
 thanks for the help !

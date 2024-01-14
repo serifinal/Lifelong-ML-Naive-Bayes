@@ -4,9 +4,9 @@ turd , i was meaning to post a reply to you to say that i appreciated all the wo
 anyway - my problem : i would like to stream my dvd collection from my pc to my ps3 .
 i can rip the dvd to hdd using tools such as dvd shrink etc , then cleanse the vob files with vob2mpg - this works well and the video will stream to the ps3 , but then i come unstuck because ff , rewind and pause do not work .
 what i would like to do , is stream the ripped dvd programs with the following constraints , using the ps3 : > keep the picture quality intact > keep 5.1 audio if it is present > have the ff , rewind and pause commands work on the ps3 .
-currently i am using fuppes to stream audio files to my denon avp-a1hd processor and this works really well .
-in short , i am after a work-flow and software suggestions to get my dvd collection into a file container and codec that the ps3 will accept . .
+currently i am using fuppes to stream audio files to my denon avp - a1hd processor and this works really well .
+in short , i am after a work - flow and software suggestions to get my dvd collection into a file container and codec that the ps3 will accept . .
 m2ts has been suggested in the old thread , but what software and settings do i use ?
 would something like popcorn hour a-110 be better than the ps3 ?
 am i asking the impossible ?
-many thanks in advance -lrb- and thanks to all who posted in my old thread too -rrb- .
+many thanks in advance ( and thanks to all who posted in my old thread too ) .

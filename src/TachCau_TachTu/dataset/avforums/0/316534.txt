@@ -1,7 +1,7 @@
 hitachi 42pd5200 e plasma daughterboard issue . .
 have acquired a dead hitachi 42pd5200 .
 from what i 've read on here it seems to have similar probs to the 42pd7200 .
-i 've been informed that the 42pd5200 has a `` daughter-board '' and this daughter-board has 2 smd transistors that need checking before r003/r005 are replaced , otherwise they 're likely to blow again .
+i 've been informed that the 42pd5200 has a " daughter - board " and this daughter - board has 2 smd transistors that need checking before r003 / r005 are replaced , otherwise they 're likely to blow again .
 so , my question is . .
-: which board is the daughter-board and does anyone know the location of the transistors ?
-or ... have i been given the wrong info and the 2 transistors are on the same board -lrb- psu -rrb- as r003/r005 ?
+: which board is the daughter - board and does anyone know the location of the transistors ?
+or ... have i been given the wrong info and the 2 transistors are on the same board ( psu ) as r003 / r005 ?

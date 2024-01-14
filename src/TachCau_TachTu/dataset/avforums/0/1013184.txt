@@ -1,11 +1,11 @@
-panasonic 2011 brightness fluctuation -lrb- test clip -rrb- .
+panasonic 2011 brightness fluctuation ( test clip ) .
 fluctuating brightness test clip here 's an mkv test clip 10.87 m .
-during the scene a ` europa ' logo is shown .
-the picture is slowing gaining brightness -lrb- intentionally -rrb- , but it then -lrb- just before lady appears -rrb- brightens up by an obviously unatural jump .
+during the scene a ' europa ' logo is shown .
+the picture is slowing gaining brightness ( intentionally ) , but it then ( just before lady appears ) brightens up by an obviously unatural jump .
 - home .2009 .
-fbr.test.mkv - gigasize.com : host and share your files if i watch the above clip -lrb- on a gt30 -rrb- in full screen/auto , i get the brightness jump .
-if i watch it in 4:3 -lrb- with grey sidebars -rrb- , i do n't ... if people let me know if this does indeed demonstrate the problem on their sets , then we have at least one clip to demonstrate/reproduce the problem !
+fbr.test.mkv - gigasize.com : host and share your files if i watch the above clip ( on a gt30 ) in full screen / auto , i get the brightness jump .
+if i watch it in 4:3 ( with grey sidebars ) , i do n't ... if people let me know if this does indeed demonstrate the problem on their sets , then we have at least one clip to demonstrate / reproduce the problem !
 from feedback thusfar it does seem that gt30 sets not coming with fw1213 show fluctuating brightness , whereas ones coming with fw1213 do not .
-any tests people can perform -lrb- with the above test -rrb- to prove/disprove this would be useful .
+any tests people can perform ( with the above test ) to prove / disprove this would be useful .
 ps : the previous fluctuation thread seems to have been closed due to some posting issues .
 let 's keep this one clean folks !

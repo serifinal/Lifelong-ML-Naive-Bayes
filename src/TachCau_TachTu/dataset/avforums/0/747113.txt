@@ -1,8 +1,8 @@
-panasonic g30/gt30 arc question ? .
-if i get a onkyo tx-sr608 amp -lrb- which is arc compliant -rrb- and connect it to hdmi 2 on the panasonic .
-and then connect my bluray player , media player and sky hd box to hdmi 1 , 3 & 4 , would the following happen : - 1 -rrb- all audio played into the tv from the devices go straight through to the onkyo unchanged ?
-ie : it would get the dts-hd , dts , dolby 5.1 etc audio ?
-2 -rrb- the tv would output stereo sound ?
+panasonic g30 / gt30 arc question ? .
+if i get a onkyo tx - sr608 amp ( which is arc compliant ) and connect it to hdmi 2 on the panasonic .
+and then connect my bluray player , media player and sky hd box to hdmi 1 , 3 & 4 , would the following happen : - 1 ) all audio played into the tv from the devices go straight through to the onkyo unchanged ?
+ie : it would get the dts - hd , dts , dolby 5.1 etc audio ?
+2 ) the tv would output stereo sound ?
 this would be great , as basically the audio for what ever you 're watching on the tv would be fed to your amp .
 i 've got a feeling i heard that , although the above setup would seem to make sense , that it does n't work this way ?
-and the hdmi -lrb- arc -rrb- from the tv to the amp would only send stereo in the above examples ?!
+and the hdmi ( arc ) from the tv to the amp would only send stereo in the above examples ?!

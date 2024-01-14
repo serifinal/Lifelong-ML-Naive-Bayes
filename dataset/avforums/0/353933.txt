@@ -1,5 +1,0 @@
-g10 firmware 1.612 -lrb- uk only -rrb- .
-ok have just received firmware 1.612 from panasonic and uploaded it this is the latest with the itv hd fix rapidshare : 1-click web hosting - easy filehosting same process as previous updates , use sd card insert into sd slot .
-wait 20 secs picture should disapear and be replaced by uploading application .
-press ok button on remote when prompted and the download should start .
-wait until it reaches 100 % and follow on screen instructions which basically tell you to remove sd card , turn tv off with power button , turn tv on and let the system initiate -lrb- can take upto 5 mins -rrb- no major changes from 1.611 with menu 's , picture etc

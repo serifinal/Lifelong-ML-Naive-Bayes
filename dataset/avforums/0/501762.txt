@@ -1,3 +1,0 @@
-lg 50pz550t 50 '' full hd plasma 3d tv mkv audio channel .
-hello all , first post some hope i 'm doing this in the right place but read this forum alot and have never needed to ask a question i have the lg 50pz550t which i have connected my hard drive to it so that i can play the mkv files now for my question - because there are two audio channels for instance within the file , i can watch avitar in 3d but only in german but when i change the setting to audio channel 2 there is no sound what so ever ??
-i have tried the whole mkvtool kit and when putting back into the tv it is just coming up with an invalid file if this has been asked before i apologise or if you can help it would be greatly appreciated

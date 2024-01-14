@@ -1,7 +1,0 @@
-panny g20 hdd recording .
-i 'm aware that the g20 re-formats the hdd to ensure that recordings can not be played back on other devices ... .
-however ... having used the hdd for a few weeks i now need to use it to back up my laptop .
-the only problem is that my laptop can no longer see the drive to let me re-format it .
-is this right ?
-... .
-are we saying here that once the hdd has been formatted for use with the tv there is effectively no going back ?

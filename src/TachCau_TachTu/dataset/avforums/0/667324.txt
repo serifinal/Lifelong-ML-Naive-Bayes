@@ -1,12 +1,12 @@
 panasonic p46s20b overscan problem ? .
-i 've just upgraded from a panasonic 32 '' 1080p lcd to the p46s20b 46 '' plasma -lrb- gorgeous -rrb- .
-my mac mini is connected -lrb- dvi - > hdmi -rrb- to an onkyo sr607 av receiver which is subsequently connected to the panasonic via hdmi .
+i 've just upgraded from a panasonic 32 " 1080p lcd to the p46s20b 46 " plasma ( gorgeous ) .
+my mac mini is connected ( dvi - > hdmi ) to an onkyo sr607 av receiver which is subsequently connected to the panasonic via hdmi .
 things had been working perfectly with my old tv .
 since swapping the tvs over , i ca n't get the mac mini resolution right .
 the mac 's display settings are set to 1080p .
-what 's happening is that the edges are being clipped off the screen when the tv is in any mode except ` game ' -lrb- in this mode everything is fine -rrb- .
-i have tried toggling the mac and the panasonic 's ` overscan ' modes in various combinations to no avail .
-the screen momentarily looks ok but then -lrb- after a few seconds -rrb- reverts to having the edges clipped off .
-i 'd really rather use the tv 's ` cinema ' or ` true cinema ' modes as the colours are better but unless i use the ` game ' mode the picture is clipped .
+what 's happening is that the edges are being clipped off the screen when the tv is in any mode except ' game ' ( in this mode everything is fine ) .
+i have tried toggling the mac and the panasonic 's ' overscan ' modes in various combinations to no avail .
+the screen momentarily looks ok but then ( after a few seconds ) reverts to having the edges clipped off .
+i 'd really rather use the tv 's ' cinema ' or ' true cinema ' modes as the colours are better but unless i use the ' game ' mode the picture is clipped .
 does anyone know what might be causing this ??
 thanks , fielddoc

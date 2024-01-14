@@ -1,4 +1,0 @@
-facetime .
-working for anyone yet ?
-under settings - > phone facetime = on waiting for activation my phone is activated , sending receiving data and phone calls fine .
-just facetime says waiting for activation .

@@ -1,5 +1,0 @@
-panasonic viera cast .
-hi i have just bought a netgear wireless adaptor to connect my viera tv to viera connect .
-i have tried both wired and wireless connections and in each case i get an error saying `` can not connect etc -lrb- 005 -rrb- '' i have had a look at my router settings -lrb- a bt open hub -rrb- and all looks ok in terms of network i have run the connection tests and all tests are passed is the sever down ?
-is this a regular issue people have seen ?
-cheers for all your help

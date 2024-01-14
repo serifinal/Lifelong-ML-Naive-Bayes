@@ -1,5 +1,5 @@
 gt30 convert 2d to 3d .
-the manual shows that you can convert 2d to 3d but no matter what settings i select , the 2d-3d option is grayed out .
+the manual shows that you can convert 2d to 3d but no matter what settings i select , the 2d - 3d option is grayed out .
 i must be doing something wrong .
 any help would be appreciated .
 marty rahn

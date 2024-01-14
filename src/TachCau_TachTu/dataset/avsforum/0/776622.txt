@@ -1,11 +1,11 @@
-samsung ln32a450 32-inch 720p lcd hdtv .
-i 've built a linux-based mythtv htb/pvr and am using a samsung ln32a450 as the display .
+samsung ln32a450 32 - inch 720p lcd hdtv .
+i 've built a linux - based mythtv htb / pvr and am using a samsung ln32a450 as the display .
 i 'm using the latest proprietary nvidia drivers with a 9600 gso based card .
 i had originally connected to the tv using a dvi ~ > hdmi cable .
-this worked , but the only resolution the tv seemed to accept was 1280x720 -lrb- native for this tv is 1360x768 -rrb- .
+this worked , but the only resolution the tv seemed to accept was 1280x720 ( native for this tv is 1360x768 ) .
 colors were wonderful but you could tell the resolution was non-native by the blockyness of fine details like text .
 annoying .
-i then connected via the vga port -lrb- dvi ~ > vga adapter and vga cable -rrb- .
-this time i got the native resolution -lrb- very nice and crisp -rrb- but the colors are very washed out .
+i then connected via the vga port ( dvi ~ > vga adapter and vga cable ) .
+this time i got the native resolution ( very nice and crisp ) but the colors are very washed out .
 does anyone know of a way to get native resolution * and * vibrant colors on this set with a pc for input ?
 this is really starting to get on my nerves tia ... james

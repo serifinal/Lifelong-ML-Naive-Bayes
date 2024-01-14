@@ -1,7 +1,7 @@
 ixus 950 is - in built red eye correction issue .
-hi folks , i 've got the ixus 950 is -lrb- aka sd850 is -rrb- & whenever i use the in built red eye correction function i 'm unable to copy the photos from the camera .
+hi folks , i 've got the ixus 950 is ( aka sd850 is ) & whenever i use the in built red eye correction function i 'm unable to copy the photos from the camera .
 has anyone also encountered this or better yet have a solution for this ?
-alternatively , as a work around can anyone suggest some software for reducing/removing red eye from photos ?
+alternatively , as a work around can anyone suggest some software for reducing / removing red eye from photos ?
 ps .
 i 'm using a genuine 4gb sandisk sdhc card .
 thanks .

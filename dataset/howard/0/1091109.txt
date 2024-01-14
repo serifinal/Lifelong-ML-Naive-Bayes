@@ -1,4 +1,0 @@
-n900 and cradlepoint router compatibility .
-tried to use ctr-500 to tether n900 , no success , got error `` incorrectly configured '' .
-no matter how i put the dialup at command and whatever apn , no luck .
-if you 're planning to buy cradlepoint router to use with n900 , please think twice .

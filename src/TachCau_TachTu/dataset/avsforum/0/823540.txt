@@ -1,6 +1,6 @@
 .
-so i was watching this blu-ray and i already know what to expect about the style and look of the movie .
-btw this movie is a musical a reminder to those who thinks its jack sparrow swinging those blades i really enjoyed this movie version i 'm already familiar with this movie having seen it twice on broadway -lrb- do n't ask -rrb- and owning the soundtrack with angela lansbury as mrs. lovett -lrb- check out the performance in youtube -rrb- .
+so i was watching this blu - ray and i already know what to expect about the style and look of the movie .
+btw this movie is a musical a reminder to those who thinks its jack sparrow swinging those blades i really enjoyed this movie version i 'm already familiar with this movie having seen it twice on broadway ( do n't ask ) and owning the soundtrack with angela lansbury as mrs. lovett ( check out the performance in youtube ) .
 i can tell you now that its not shoot 'em up in pq .
 even though both are sharp and detailed .
 sweeney todd is much more inconsistent .
@@ -8,14 +8,14 @@ the pq fluctuates from excellent to very good .
 minor dnr is applied as well .
 the dark scenes is where we lose some of the details .
 this happens especially when sweeney first met mrs lovett .
-there is also some weird `` ringing '' in the backgrounds .
+there is also some weird " ringing " in the backgrounds .
 both day and night scenes .
 i do n't think some of these issues are noticeable in most calibrated viewing sets but they are noticeable on mine .
-the grainy picture -lrb- filmakers intent -rrb- is good in hiding these artifacts so it may not be problematic to some .
+the grainy picture ( filmakers intent ) is good in hiding these artifacts so it may not be problematic to some .
 judging from early reviews where its mostly positive it looks like their equipment ca n't resolve some this pq issues .
 good for them hmm what else ?
-... .
+. . . . .
 oh yeah the digital airbrushing applied to depp for every close up on most scenes !
-in resident evil 3 from blu-ray this was also applied to ms. jovovich so weird on sweeney code : total video title codec length movie size disc size bitrate bitrate main audio track secondary audio track ----- ------ ------- -------------- -------------- ------- ------- ------------------ --------------------- sweeney todd vc-1 1:56:22 29,153,937,408 45,585,051,868 33.40 23.83 dolby truehd 5.1 3339kbps -lrb- 48khz/16-bit -rrb- dd ac3 5.1 640kbps playlist report : name : 00000 .
-mpls size : 29,153,937,408 bytes length : 1:56:22 -lrb- h : m : s -rrb- total bitrate : 33.40 mbps description : files : name size length time in time out -- -- ------ ------- -------- 00000 .
-m2ts 29,153,937,408 1:56:22 0:00:00 1:56:22 video : codec bitrate description ----- ------- ----------- vc-1 video 23828 kbps 1080p / 23.976 fps audio : codec language bitrate description ----- -------- ------- ----------- dolby truehd audio english 3339 kbps 5.1 / 48khz / 16-bit -lrb- ac3 core : 5.1 / 48khz / 640kbps -rrb- dolby digital audio english 640 kbps 5.1 / 48khz dolby digital audio french 640 kbps 5.1 / 48khz dolby digital audio german 640 kbps 5.1 / 48khz dolby digital audio italian 640 kbps 5.1 / 48khz dolby digital audio spanish 640 kbps 5.1 / 48khz dolby digital audio spanish 640 kbps 5.1 / 48khz
+in resident evil 3 from blu - ray this was also applied to ms. jovovich so weird on sweeney code : total video title codec length movie size disc size bitrate bitrate main audio track secondary audio track ----- ------ ------- -------------- -------------- ------- ------- ------------------ --------------------- sweeney todd vc - 1 1:56:22 29,153,937,408 45,585,051,868 33.40 23.83 dolby truehd 5.1 3339kbps ( 48khz / 16 - bit ) dd ac3 5.1 640kbps playlist report : name : 00000 .
+mpls size : 29,153,937,408 bytes length : 1:56:22 ( h : m : s ) total bitrate : 33.40 mbps description : files : name size length time in time out ---- ---- ------ ------- -------- 00000 .
+m2ts 29,153,937,408 1:56:22 0:00:00 1:56:22 video : codec bitrate description ----- ------- ----------- vc - 1 video 23828 kbps 1080p / 23.976 fps audio : codec language bitrate description ----- -------- ------- ----------- dolby truehd audio english 3339 kbps 5.1 / 48khz / 16 - bit ( ac3 core : 5.1 / 48khz / 640kbps ) dolby digital audio english 640 kbps 5.1 / 48khz dolby digital audio french 640 kbps 5.1 / 48khz dolby digital audio german 640 kbps 5.1 / 48khz dolby digital audio italian 640 kbps 5.1 / 48khz dolby digital audio spanish 640 kbps 5.1 / 48khz dolby digital audio spanish 640 kbps 5.1 / 48khz

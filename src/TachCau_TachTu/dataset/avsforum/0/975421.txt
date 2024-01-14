@@ -1,7 +1,6 @@
 framing false wall & firestopping .
-i have a wall in my basement in which i have plumbing -lrb- water & sewer pipes -rrb- than run about 8 '' off of the concrete wall .
-i want to frame a wall in front of these , which will make the wall approx .
-12 '' offset forward of the basement concrete wall .
-my question is how do i create firestopping -lrb- 10 ' ceilings -rrb- in that false wall , when it is 12 '' offset ?
+i have a wall in my basement in which i have plumbing ( water & sewer pipes ) than run about 8 " off of the concrete wall .
+i want to frame a wall in front of these , which will make the wall approx. 12 " offset forward of the basement concrete wall .
+my question is how do i create firestopping ( 10 ' ceilings ) in that false wall , when it is 12 " offset ?
 how do i do this ?
 any ideas out there ?

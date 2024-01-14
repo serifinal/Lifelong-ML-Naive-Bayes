@@ -1,6 +1,6 @@
 zoom b ex .
-hi again ... is there a way to load photos on cd from different dates .
-at the moment on zoombrowser ex i can only load one set of photos -lrb- from a download -rrb- but cant figure out how to add a previous set downloaded on a different date .
+hi again .... is there a way to load photos on cd from different dates .
+at the moment on zoombrowser ex i can only load one set of photos ( from a download ) but cant figure out how to add a previous set downloaded on a different date .
 i tried holding the ctrl button to pick up a previous shoot but it does n't work .
 any thoughts ?
 thanks in advance .

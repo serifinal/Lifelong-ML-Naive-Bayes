@@ -1,5 +1,0 @@
-new proxy server for internet over metropcs ? .
-is there a new proxy server required for internet over metropcs ?
-i tried tethering today and got a message that the proxy server is `` busy or unavailable '' .
-i tried looking for wap.metropcs.net on my desktop and found that there is no dns entry for it .
-internet on the dinky little phone still works , so i tend to conclude that the proxy server is no longer wap.metropcs.net port 3128 .

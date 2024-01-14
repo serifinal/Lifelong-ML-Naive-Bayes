@@ -1,5 +1,0 @@
-ipad - bell outgoing mail server .
-hi , i picked up an ipad 3g and bell micro sim .
-data is activated and incoming mail works fine .
-is there an outgoing mail server for the ipad on bell ?
-thanks .

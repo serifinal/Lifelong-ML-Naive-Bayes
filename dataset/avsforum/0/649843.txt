@@ -1,3 +1,0 @@
-new official nvidia 177.92 beta drivers released .
-some new beta drivers have been released by nvidia , fully supports geforce 6-9 and 200 series cards .
-http://www.nvidia.com/object/winxp_177.92_beta.html http://www.nvidia.com/object/winxp64_177.92_beta.html http://www.nvidia.com/object/winvist...7.92_beta.html http://www.nvidia.com/object/winvist...7.92_beta.html

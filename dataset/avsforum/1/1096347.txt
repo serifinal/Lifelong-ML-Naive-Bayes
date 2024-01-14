@@ -1,9 +1,0 @@
-what motherboard to get for intel cpu and 8800gt to get lcpm audio to my avr ? .
-hey guys , i am looking for a budget -lrb- < $ 100 -rrb- miroatx motherboard for my htpc so that i can use my current 8800gs video card and core duo e2200 cpu for hd playback with lcpm audio .
-i done a bit of search on the forum , but did not find any motherboard that fits my needs .
-my goal is to spend as little as possible to get lpcm audio -lrb- hdmi audio -rrb- for hd movies .
-my current setup listed below allows me to watch hd movies smoothly -lrb- hd dvd and blueray -rrb- , i am passing audio from my htpc to my avr using s/pdif .
-my current setup : cpu : core duo e2200 motherboard : ecs 945gct-m soundcard : soundblaster x-fi extrememusic videocard : gigabyte 8800gs hd drive : lg hd-dvd/blueray combo drive avr : denon avr-889 remotes : harmony h659 , gyration mce control with air mouse .
-connections : 8800gs to lcd tv using dvi - > hdmi cable .
-x-fi s/pdif to denon avr-889 .
-thanks !

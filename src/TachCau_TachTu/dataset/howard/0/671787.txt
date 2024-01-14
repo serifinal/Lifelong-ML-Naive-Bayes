@@ -7,7 +7,7 @@ i connected to wifi and did some updates .
 logs show that it did indeed use wifi and not 3g .
 is there a way to completely block off 3g and only allow wifi ?
 2 .
-how do i know whether the connection is using wifi or `` rogers internet '' ?
+how do i know whether the connection is using wifi or " rogers internet " ?
 3 .
 can i browse via wifi ?
 it seems when i try to browse using wifi , i 'm directed to a rogers page saying i do n't have browsing option on my plan and does n't let me use wifi to browse .

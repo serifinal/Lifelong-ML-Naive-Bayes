@@ -1,8 +1,8 @@
-panasonic viera - tx-p42s20b .
-hello everyone , i 'm hoping someone can help me i have recently tried to use my 42 '' panasonic viera tv as my monitor for my laptop .
+panasonic viera - tx - p42s20b .
+hello everyone , i 'm hoping someone can help me i have recently tried to use my 42 " panasonic viera tv as my monitor for my laptop .
 unfortunately my tv is not picking up the signal from my laptop but my laptop is identifying that i have plugged in my tv ?????? i am using a hdmi cable .
 i am running vista with a g force 8200 m graphics card .
-i have a 32 '' toshiba regza aswell and this works brilliantly .
+i have a 32 " toshiba regza aswell and this works brilliantly .
 my laptop automatically recognises that i have plugged in the tv and does everything i would expect my more expensive viera to do .
 ive downloaded the latest drivers for the graphics card and still have had no joy .
-please someone help me or let me know if you have had the same problem , just so i know whether to quit or keep plugging away at it -lrb- pardon the punn -rrb- thanks , james
+please someone help me or let me know if you have had the same problem , just so i know whether to quit or keep plugging away at it ( pardon the punn ) thanks , james

@@ -1,37 +1,37 @@
 .
 so what 's next ?
-two classic war movies , a recent oscar best picture nominee and modern sci-fi classic .
-all neutered from what should have been a major upgrade worthy of the phrase '' ... the ultimate high definition experience '' -lrb- sic -rrb- .
+two classic war movies , a recent oscar best picture nominee and modern sci - fi classic .
+all neutered from what should have been a major upgrade worthy of the phrase " . . . the ultimate high definition experience " ( sic ) .
 well most high definition titles are worthy .
 but excessive manipulation of the picture to cater and satisfy them make this all worthless .
 why for the love of allah you ******* ** ***** hide the details that 's otherwise present in the movie on a 1080p format ?
-why ?!? its true that a majority of hd release are a substantial upgrade over the sd dvd but that is not an excuse if you make it look the movie is inhabited by wax mannequins with halos or `` force fields '' all throughout .
+why ?!? its true that a majority of hd release are a substantial upgrade over the sd dvd but that is not an excuse if you make it look the movie is inhabited by wax mannequins with halos or " force fields " all throughout .
 just like the cgi animation i see from the video game i play .
 clean and smooth .
 i do n't think i need to tell how disappointed i am when reports start trickling in about the excessive dnr used .
 ok , fine maybe its not too bad .
-then screenshots from dvdbeaver went online and right away i see the movie is `` pattonized '' .
-for two weeks people asserted that the `` screenshots ca n't be trusted '' or `` screenshots does n't not represent the pq of the movie '' or `` no waiii dat pixie is photochopped to make it look worse ! '' .
-well to those people watching this movie right now -lrb- assuming your viewing set is calibrated -rrb- what do you see ?
+then screenshots from dvdbeaver went online and right away i see the movie is " pattonized " .
+for two weeks people asserted that the " screenshots ca n't be trusted " or " screenshots does n't not represent the pq of the movie " or " no waiii dat pixie is photochopped to make it look worse ! " .
+well to those people watching this movie right now ( assuming your viewing set is calibrated ) what do you see ?
 does it match ?
 or your tv has some magical powers to add fine detail to all hd releases .
 you did not have your sharpness setting set to 10 did you ?
-ok back to this piece of ... err i mean blu-ray disc .
+ok back to this piece of . . . err i mean blu - ray disc .
 there are two versions , the director 's cut and the theatrical cut .
 and yes there is a difference in overall pq .
 but i will deal with that later in the thread there is no seamless branching .
 the disc is structured just like the golden compass and i am legend .
-as far as the dts-hd ma sound , its excellent .
+as far as the dts - hd ma sound , its excellent .
 outstanding .
 as usual .
-i am not alone with what some called a `` crusade '' against dnr and ee .
-let me correct you with that , we have a `` crusade '' against excessive dnr and ee .
+i am not alone with what some called a " crusade " against dnr and ee .
+let me correct you with that , we have a " crusade " against excessive dnr and ee .
 even after all the arguments against these manipulations on films there are still some that just do n't understand what is the big deal .
 it is better than dvd so what is the frakking problem ?
-let me show you : ` nuff said ?
+let me show you : ' nuff said ?
 need to see more ?
-code : total video title codec length movie size disc size bitrate bitrate main audio track secondary audio track ----- ------ ------- -------------- -------------- ------- ------- ------------------ --------------------- dark city : tc vc-1 1:40:29 19,710,339,072 45,528,093,014 26.15 18.09 dts-hd master 5.1 6046kbps -lrb- 48khz/24-bit -rrb- dts 2.0 256kbps -lrb- 48khz/24-bit -rrb- disc info : disc size : 45,528,093,014 bytes protection : aacs bd-java : no playlist report : name : 00021 .
-mpls size : 19,710,339,072 bytes length : 1:40:29 -lrb- h : m : s -rrb- total bitrate : 26.15 mbps description : files : name size length time in time out -- -- ------ ------- -------- 00045 .
-m2ts 19,710,339,072 1:40:29.064 0:00:00.000 1:40:29.064 video : codec bitrate description ----- ------- ----------- vc-1 video 18092 kbps 1080p / 23.976 fps / 16:9 / advanced profile 3 audio : codec language bitrate description ----- -------- ------- ----------- dts-hd master audio english 6046 kbps 5.1 / 48khz / 24-bit / 6046kbps -lrb- dts core : 5.1 / 48khz / 24-bit / 1536kbps -rrb- dts audio english 256 kbps 2.0 / 48khz / 24-bit / 256kbps dts audio english 256 kbps 2.0 / 48khz / 24-bit / 256kbps code : total video title codec length movie size disc size bitrate bitrate main audio track secondary audio track ----- ------ ------- -------------- -------------- ------- ------- ------------------ --------------------- dark city : dc vc-1 1:51:43 21,823,856,640 45,528,093,014 26.04 17.83 dts-hd master 5.1 5913kbps -lrb- 48khz/24-bit -rrb- dts 2.0 256kbps -lrb- 48khz/24-bit -rrb- disc info : disc size : 45,528,093,014 bytes protection : aacs bd-java : no playlist report : name : 00019 .
-mpls size : 21,823,856,640 bytes length : 1:51:43 -lrb- h : m : s -rrb- total bitrate : 26.04 mbps description : files : name size length time in time out -- -- ------ ------- -------- 00043 .
-m2ts 21,823,856,640 1:51:43.738 0:00:00.000 1:51:43.738 video : codec bitrate description ----- ------- ----------- vc-1 video 17830 kbps 1080p / 23.976 fps / 16:9 / advanced profile 3 audio : codec language bitrate description ----- -------- ------- ----------- dts-hd master audio english 5913 kbps 5.1 / 48khz / 24-bit / 5913kbps -lrb- dts core : 5.1 / 48khz / 24-bit / 1536kbps -rrb- dts audio english 256 kbps 2.0 / 48khz / 24-bit / 256kbps dts audio english 256 kbps 2.0 / 48khz / 24-bit / 256kbps dts audio english 256 kbps 2.0 / 48khz / 24-bit / 256kbps
+code : total video title codec length movie size disc size bitrate bitrate main audio track secondary audio track ----- ------ ------- -------------- -------------- ------- ------- ------------------ --------------------- dark city : tc vc - 1 1:40:29 19,710,339,072 45,528,093,014 26.15 18.09 dts - hd master 5.1 6046kbps ( 48khz / 24 - bit ) dts 2.0 256kbps ( 48khz / 24 - bit ) disc info : disc size : 45,528,093,014 bytes protection : aacs bd - java : no playlist report : name : 00021 .
+mpls size : 19,710,339,072 bytes length : 1:40:29 ( h : m : s ) total bitrate : 26.15 mbps description : files : name size length time in time out ---- ---- ------ ------- -------- 00045 .
+m2ts 19,710,339,072 1:40:29.064 0:00:00.000 1:40:29.064 video : codec bitrate description ----- ------- ----------- vc - 1 video 18092 kbps 1080p / 23.976 fps / 16:9 / advanced profile 3 audio : codec language bitrate description ----- -------- ------- ----------- dts - hd master audio english 6046 kbps 5.1 / 48khz / 24 - bit / 6046kbps ( dts core : 5.1 / 48khz / 24 - bit / 1536kbps ) dts audio english 256 kbps 2.0 / 48khz / 24 - bit / 256kbps dts audio english 256 kbps 2.0 / 48khz / 24 - bit / 256kbps code : total video title codec length movie size disc size bitrate bitrate main audio track secondary audio track ----- ------ ------- -------------- -------------- ------- ------- ------------------ --------------------- dark city : dc vc - 1 1:51:43 21,823,856,640 45,528,093,014 26.04 17.83 dts - hd master 5.1 5913kbps ( 48khz / 24 - bit ) dts 2.0 256kbps ( 48khz / 24 - bit ) disc info : disc size : 45,528,093,014 bytes protection : aacs bd - java : no playlist report : name : 00019 .
+mpls size : 21,823,856,640 bytes length : 1:51:43 ( h : m : s ) total bitrate : 26.04 mbps description : files : name size length time in time out ---- ---- ------ ------- -------- 00043 .
+m2ts 21,823,856,640 1:51:43.738 0:00:00.000 1:51:43.738 video : codec bitrate description ----- ------- ----------- vc - 1 video 17830 kbps 1080p / 23.976 fps / 16:9 / advanced profile 3 audio : codec language bitrate description ----- -------- ------- ----------- dts - hd master audio english 5913 kbps 5.1 / 48khz / 24 - bit / 5913kbps ( dts core : 5.1 / 48khz / 24 - bit / 1536kbps ) dts audio english 256 kbps 2.0 / 48khz / 24 - bit / 256kbps dts audio english 256 kbps 2.0 / 48khz / 24 - bit / 256kbps dts audio english 256 kbps 2.0 / 48khz / 24 - bit / 256kbps

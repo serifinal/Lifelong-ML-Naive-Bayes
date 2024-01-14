@@ -1,9 +1,9 @@
-th-50pz85u blinking power light .
+th - 50pz85u blinking power light .
 after doing some research i 've found some good info on the panny plasma blinking light syndrome , but just wanted to see if the same info applied to the 85u .
-i bought a th-50pz85u on august 2nd and just recently i 've gotten the `` blinking light of death '' twice .
+i bought a th - 50pz85u on august 2nd and just recently i 've gotten the " blinking light of death " twice .
 both times i was getting 10 blinks .
-the first time -lrb- thursday night -rrb- , i pulled the plug and the tv powered right back up .
-the second time -lrb- just now -rrb- i had to unplug the hdmi cable , then the power cable .
+the first time ( thursday night ) , i pulled the plug and the tv powered right back up .
+the second time ( just now ) i had to unplug the hdmi cable , then the power cable .
 after plugging the tv back in with hdmi disconnected , it fired right up and everything is working fine right now .
 i called the concierge service and they would n't send anybody out unless the tv was not working when they showed up .
 so i need to call back when it happens again .
@@ -12,5 +12,5 @@ all of my other viewing was with component cables .
 i found this thread which outlines the blinking lights for the pz700u , but do these codes apply to the 85u also ?
 also , could somebody explain in english what the 10 blinks means ?
 thanks .
-since i ca n't post url 's here is a cut and paste of the thread : ============================================================ =========== blinks problem malfunctioning part ============================================================ =========== 1 blink stv 5v sense dg board 2 blinks 15v sos d board 3 blinks 3.3 v sos d board 4 blinks power sos p board 5 blinks 5v sos d board 6 blinks driver sos 1 su / sd / sc boards -lrb- sc energy recovery circuit -rrb- 7 blinks driver sos 2 su / sd / ss boards -lrb- sc floating voltage area -rrb- 8 blinks driver sos 3 ss board -lrb- ss energy recovery circuit -rrb- 9 blinks panel config .
-sos 10 blinks sub 5v sos / main 3v sos dg board dtv 9v sos / tuner power sos 11 blinks fan sos pb board 12 blinks sound sos h board 13 blinks communication error dg board with ic8001 -lrb- pesks lite 2 -rrb-
+since i ca n't post url 's here is a cut and paste of the thread : ============================================================ =========== blinks problem malfunctioning part ============================================================ =========== 1 blink stv 5v sense dg board 2 blinks 15v sos d board 3 blinks 3.3 v sos d board 4 blinks power sos p board 5 blinks 5v sos d board 6 blinks driver sos 1 su / sd / sc boards ( sc energy recovery circuit ) 7 blinks driver sos 2 su / sd / ss boards ( sc floating voltage area ) 8 blinks driver sos 3 ss board ( ss energy recovery circuit ) 9 blinks panel config .
+sos 10 blinks sub 5v sos / main 3v sos dg board dtv 9v sos / tuner power sos 11 blinks fan sos pb board 12 blinks sound sos h board 13 blinks communication error dg board with ic8001 ( pesks lite 2 )

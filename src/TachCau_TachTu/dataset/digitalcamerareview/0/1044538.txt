@@ -2,7 +2,7 @@ rebel xt - cf card capacity regarding .
 my rebel xt does not seem to support 4 gb cf card .
 it works well with 2 gb cards .
 has anyone used a 4 gb cf card on their rebel xt or 350 d ?
-after formatting the cf card with the in camera format option , the camera takes about 16 - 18 shots before displaying `` err cf '' i think the rebel xt is right in rejecting the 4 gb card for the following reason .
+after formatting the cf card with the in camera format option , the camera takes about 16 - 18 shots before displaying " err cf " i think the rebel xt is right in rejecting the 4 gb card for the following reason .
 the display of balance shots is a 3 digit counter with a maximum display of 999 .
-theoretically , the 4gb would have a capacity 1000 + shots , which the display can not show the user .
+theoretically , the 4 gb would have a capacity 1000 + shots , which the display can not show the user .
 what are your comments on this ?

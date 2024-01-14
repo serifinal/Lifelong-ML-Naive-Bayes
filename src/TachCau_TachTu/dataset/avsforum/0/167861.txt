@@ -1,14 +1,14 @@
 overscan on lg 37lc2d .
-hi all , i have an lg 37lc2d-aa which gives me significant overscan with pc input via vga or hdmi ?
+hi all , i have an lg 37lc2d - aa which gives me significant overscan with pc input via vga or hdmi ?
 i 'm currently using hdmi .
 i 'm trying to work out how to fix it .
-i 've read the extremely long post -lrb- http://www.avsforum.com/avs-vb/showthread.php?t=685784 -rrb- but there is no joy there .
+i 've read the extremely long post ( http://www.avsforum.com/avs-vb/showthread.php?t=685784 ) but there is no joy there .
 using the service menu i can eliminate overscan with the hdmi input but i am unable to save any settings in the service menu .
 this means every time i turn off the tv or change input the settings revert to overscanning .
 i 've tried all the tricks posted elsewhere ?
 leaving off for a period of time , pressing all sorts of key combos etc but nothing seems to work .
 i 'm wondering if i need to connect to the service port of the tv and do something that way ?
 but would need to find software to allow me to do this .
-i have an lg service remote -lrb- adjust remocon or 105-201m -rrb- and hope its as easy as just using this remote but i ca n't find any info on how i might do this .
+i have an lg service remote ( adjust remocon or 105 - 201m ) and hope its as easy as just using this remote but i ca n't find any info on how i might do this .
 can anyone advise on how to save the settings in the service menu or is it a lost cause ?
 thanks

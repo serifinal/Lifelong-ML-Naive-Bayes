@@ -1,5 +1,5 @@
-pioneer 5020 vs pioneer 111fd -lrb- fully calibrated -rrb- .
-is there a significiant difference between these two sets after the 111fd is fully calibrated and the 5020 is calibrated as best it can be using it 's regular menus -lrb- i.e. contrast/brightness/colour / sharpness/mode only , without going into the service menu -rrb- .
+pioneer 5020 vs pioneer 111fd ( fully calibrated ) .
+is there a significiant difference between these two sets after the 111fd is fully calibrated and the 5020 is calibrated as best it can be using it 's regular menus ( i.e. contrast / brightness / colour / sharpness / mode only , without going into the service menu ) .
 i am trying to find out if the resulting improvement in picture quality after each set is calibrated as best it can be using it 's available menu items is worth the $ 1000 price difference of the 111fd .
 otherwise , i 'll just buy the 5020fd .
 how close can each come to d65 calibration standard .

@@ -1,4 +1,4 @@
 ca n't get progressive output to avr .
-when connecting my `` early 2008 '' mac pro to my new denon 3808ci avr , i can only get interlaced output for most resolutions from the mac 's nvidia 8800 gt graphics card .
+when connecting my " early 2008 " mac pro to my new denon 3808ci avr , i can only get interlaced output for most resolutions from the mac 's nvidia 8800 gt graphics card .
 i have posted this issue on the avr forum here : http://www.avsforum.com/avs-vb/showt...2#post13165042 and also on apple 's forum here : http://discussions.apple.com/thread....04562&tstart=0 connecting the mac directly to my projector results in normal operation .
 any help appreciated .

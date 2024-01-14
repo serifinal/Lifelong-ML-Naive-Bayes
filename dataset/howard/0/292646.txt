@@ -1,8 +1,0 @@
-nexus one users on wind - need help getting data .
-okay , so i went through the trouble of getting a nexus one to calgary , switched over to wind , and now my data wo n't work .
-i 've entered internet.windmobile.ca as the apn .
-i 've even tried accessing the `` special '' menu typing * # * # 4363 # * # * and changing the preferred network type to wcdma only but what i get in each case is a few seconds of 3g connectivity through the browser then lose it almost right away -lrb- lose all data connectivity -rrb- .
-i was at the wind mobile store and they said their techs would n't even look at the issue because : 1 .
-they have bigger issues to deal with 2 .
-the nexus one is not a `` support '' phone any suggestions ?
-being a guinea pig sucks .

@@ -1,7 +1,7 @@
 vt30 ifc and 24p smooth - some observations .
 the ifc on my vt30 is ropey at best , those that have seen it can testify that it 's disadvantages normally outweigh the advantages .
-ifc to my eyes differs in no way at all to 24p smooth film - can anyone clarify if there is some difference in the technology being used to ` fill in the frame rate ' ?
-however , my friend has a panasonic pt-ae2000 -lrb- projector @ circa # 2000 when it was released -rrb- , which is a couple of years old now .
+ifc to my eyes differs in no way at all to 24p smooth film - can anyone clarify if there is some difference in the technology being used to ' fill in the frame rate ' ?
+however , my friend has a panasonic pt - ae2000 ( projector @ circa £ 2000 when it was released ) , which is a couple of years old now .
 it has ifc , and when set to max it seems to operate flawlessly , not artefacting whatsoever .
 this is from a unit that was released in 2008 .
 what i do n't understand is how it can be so good on a unit that was released three years before the vt30 , yet the processor in the vt30 simply does n't seem to be able to cope with fast pans with ifc turned on .

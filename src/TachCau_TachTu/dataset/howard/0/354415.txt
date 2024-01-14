@@ -1,4 +1,4 @@
 3gs tips & tricks .
 for voice control via the headset , hold down the headset button and you 'll hear a little beep .
-then speak your command .
-`` play songs by led zeppelin '' or `` call robert plant '' and it 'll do it .
+then speak your command . "
+play songs by led zeppelin " or " call robert plant " and it 'll do it .

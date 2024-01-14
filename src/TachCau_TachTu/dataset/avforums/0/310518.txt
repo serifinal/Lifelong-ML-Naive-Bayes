@@ -1,3 +1,3 @@
-new firmware psxxd6900 t-mst5deuc 1009.1 .
-just checked samsung website -lrb- dutch -rrb- and there 's a new fw out for the d6900 series .
+new firmware psxxd6900 t - mst5deuc 1009.1 .
+just checked samsung website ( dutch ) and there 's a new fw out for the d6900 series .
 no change log off course .

@@ -1,2 +1,0 @@
-new official geforce 175.12 beta drivers released .
-http://www.nvidia.com/object/winvista_x86_175.12.html http://www.nvidia.com/object/winvista_x64_175.12.html new beta drivers for vista only , there 's no xp driver releases yet .

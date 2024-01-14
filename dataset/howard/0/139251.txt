@@ -1,5 +1,0 @@
-e815 : attempt to access earthlink webmail gets `` untrusted server certificate '' error .
-i just noticed that my earthlink webmail account has a new mobile link for use on legacy phones : m.webmail.earthlink.net .
-but when i tried it , i got an error box saying `` untrusted server certificate '' .
-i presume this is the ancient e815 browser having some kind of an issue .
-is there any way around this ?

@@ -3,8 +3,8 @@ hi this morning the tv made a pop sound and the screen went blank .
 audio could still be heard .
 i removed the back panel and tested the fuses .
 the 4ah fuse had blown .
-i replaced the fuse with 3.1 ah -lrb- the psu board indicates use fuse between 2.5 ah - 4ah -rrb- .
-i replaced the cover panel and powered up the tv , i heard the usual ` click ' sound when initially powering up , i switch on and the standby light goes from red , to amber to green .
+i replaced the fuse with 3.1 ah ( the psu board indicates use fuse between 2.5 ah - 4ah ) .
+i replaced the cover panel and powered up the tv , i heard the usual ' click ' sound when initially powering up , i switch on and the standby light goes from red , to amber to green .
 it stays on green for a few seconds and then goes back to red .
 i switch on again and it then only goes from red - amber .
 can anyone offer any assistance please ?

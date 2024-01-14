@@ -1,4 +1,4 @@
 error 99 message .
-i 'm a new user of the rebel xs and continue getting an `` error 99 '' message when taking a photo .
+i 'm a new user of the rebel xs and continue getting an " error 99 " message when taking a photo .
 can anyone help with suggestions in correcting this or preventing it ?
 thanks in advance .

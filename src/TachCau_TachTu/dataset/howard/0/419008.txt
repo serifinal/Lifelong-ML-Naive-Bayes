@@ -1,7 +1,7 @@
-using a cradlepoint mbr-1000 router and boosted mogul .
+using a cradlepoint mbr - 1000 router and boosted mogul .
 just thought i would show how i have my network setup in case someone else would like to use it .
 i have my boosted htc mogul and i run wmwifirouter using the 3g to usb connection mode selected .
-i then plug the usb cable into the cradlepoint mbr-1000 router which then allows me to extend my network using the cradlepoint router , both wireless and wired .
+i then plug the usb cable into the cradlepoint mbr - 1000 router which then allows me to extend my network using the cradlepoint router , both wireless and wired .
 that way , the mogul does n't get hot and does n't drain the battery while using it 's own wifi broadcasting .
 plus you can now use ethernet connected devices too and use wpa security for your wireless connections .
 the router is able to keep the phone charged too .

@@ -1,13 +1,13 @@
 how to determine throw for cih setups .
-if -lrb- like a lot of folks -rrb- you 're wondering how to figure out your throw , this should help .
-please note : the info below assumes you have a projector with a 16:9 panel , as most do at this point , and a horizontal expansion -lrb- he -rrb- lens such as the panamorph uh480 , prismasonic hd5000 , isco iii , etc. .
+if ( like a lot of folks ) you 're wondering how to figure out your throw , this should help .
+please note : the info below assumes you have a projector with a 16:9 panel , as most do at this point , and a horizontal expansion ( he ) lens such as the panamorph uh480 , prismasonic hd5000 , isco iii , etc. .
 for a 2.35:1 constant image height setup using an he lens , the throw is based on the 16:9 screen width , not the 2.35:1 screen width .
 this is simply because the projector does n't know that there 's an extra lens in front of it stretching the width .
-for example : say you want to get a 51 '' x 120 '' 2.35:1 screen and you want to know where your jvc dla-rs2 will work throw-wise .
+for example : say you want to get a 51 " x 120 " 2.35:1 screen and you want to know where your jvc dla - rs2 will work throw-wise .
 first , figure out what the 16:9 screen width would be , based on your 2.35:1 screen height .
 you do this by multiplying your screen height by 1.78 .
-in this case : 51 '' x 1.78 = 90.78 '' the projector thinks you have a 51 '' x 90.78 '' screen .
-the throw range of the rs2 is 1.4 x to 2.8 x , so the lens to screen distance has to be between : 1.4 x 90.78 '' = 10 ' -7 '' and 2.8 x 90.78 '' = 20 ' -14 '' from a practical standpoint , i 'd give yourself a few inches of wiggle room - do n't go quite as far away or quite as close as mathematically possible .
+in this case : 51 " x 1.78 = 90.78 " the projector thinks you have a 51 " x 90.78 " screen .
+the throw range of the rs2 is 1.4 x to 2.8 x , so the lens to screen distance has to be between : 1.4 x 90.78 " = 10 ' - 7 " and 2.8 x 90.78 " = 20 ' - 14 " from a practical standpoint , i 'd give yourself a few inches of wiggle room - do n't go quite as far away or quite as close as mathematically possible .
 this is because you do n't want to run out of focus travel when using the anamorphic lens .
 a few inches should be good enough insurance .
 for your own setup , just plug in your throw ratio and screen height to get the resulting throw distances .

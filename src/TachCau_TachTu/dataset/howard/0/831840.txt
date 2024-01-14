@@ -2,21 +2,21 @@ bell galaxy s gps reception issue .
 feeling ca n't get unlocked in a short time , so i return my bell galaxy s to future shop yesterday .
 before return , of course , i reset it to factory setting .
 but after that , when i tried the gps , it wo n't work well .
-if you do a google search `` galaxy s gps issue '' , you 'll find quite a few complaining about the us version of galaxy s gps problem .
+if you do a google search " galaxy s gps issue " , you 'll find quite a few complaining about the us version of galaxy s gps problem .
 but not sure our bell version could have the same issue too ?
-here 're my steps to reproduce the problem : 1 -rrb- do a factory reset .
-2 -rrb- manually delete some directories in the internal sd , since the factory reset did n't do it .
-3 -rrb- dial '' * # * # 1472365 # * # * '' , it will take u to the gps debug mode .
-tap the `` get position '' , it will try to connect gps and calculate the position .
-before resetting , it was quite fast , in 5-10 seconds it will give you the position info .
-but after resetting , the position info never shown , though at the bottom those satellites info still shown -lrb- about 8 of them shown -rrb- .
+here 're my steps to reproduce the problem : 1 ) do a factory reset .
+2 ) manually delete some directories in the internal sd , since the factory reset did n't do it .
+3 ) dial " * # * # 1472365 # * # * " , it will take u to the gps debug mode .
+tap the " get position " , it will try to connect gps and calculate the position .
+before resetting , it was quite fast , in 5 - 10 seconds it will give you the position info .
+but after resetting , the position info never shown , though at the bottom those satellites info still shown ( about 8 of them shown ) .
 but very strange , the position info not come out .
-4 -rrb- so i tried reset to factory setting again .
-then try step 3 -rrb- .
+4 ) so i tried reset to factory setting again .
+then try step 3 ) .
 still the same result .
-i was wondering if any dir/file was deleted by me in the internal sd which could be the cause of the gps issue ?
+i was wondering if any dir / file was deleted by me in the internal sd which could be the cause of the gps issue ?
 but it 's not logical .
-first the the `` factory resetting '' is suppose to do everything it needs to set it to original state -lrb- i did two resetting -rrb- .
+first the the " factory resetting " is suppose to do everything it needs to set it to original state ( i did two resetting ) .
 second , i guess those system apps are installed in the internal flash memory , instead of internal sd .
 but as those satellites info still there , so i assume the hardware still working , while it could be something wrong with the testing software ?
 and i did n't try other gps apps , like map or navigon .

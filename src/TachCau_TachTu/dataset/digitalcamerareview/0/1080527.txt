@@ -1,15 +1,15 @@
 canon g12 compatible external flashes ? .
-good morning all , i 've just bought a canon g12 , vivitar df-483-can flash , and vivitar cord viv-fc-can .
+good morning all , i 've just bought a canon g12 , vivitar df -483-can flash , and vivitar cord viv - fc - can .
 everything is brand new .
-with the flash directly in the hotshoe it seems to work fine -lrb- though about 2/3 stop overexposed for my taste -rrb- with the extension cord the in-camera flash is disabled but the flash does not fire -lrb- in any mode -rrb- , or show indication of control of the flash or match zoom setting .
+with the flash directly in the hotshoe it seems to work fine ( though about 2/3 stop overexposed for my taste ) with the extension cord the in - camera flash is disabled but the flash does not fire ( in any mode ) , or show indication of control of the flash or match zoom setting .
 nothing .
 i have checked with a multimeter that there are no shorts in the cable .
 the four small contacts show continuity and the larger contact at the top shows an open circuit .
 from what i can decipher from various searches , the large contact is unused .
-i bought this flash to have a master w/less control unit without the size and weight of the canon speedlite 580ex ii flash .
-i was about to spring for the original cable oe-c3 , but with the vivitar cord in hand and looking at the magnified oe-c3 image on the canon website they are the same unit .
--lrb- all markings , line-up and construction of flex-guard -rrb- .
-has anyone here had success with an off-market e-ttl flash cable with the g12 ?
+i bought this flash to have a master w / less control unit without the size and weight of the canon speedlite 580ex ii flash .
+i was about to spring for the original cable oe - c3 , but with the vivitar cord in hand and looking at the magnified oe - c3 image on the canon website they are the same unit .
+( all markings , line - up and construction of flex - guard ) .
+has anyone here had success with an off - market e-ttl flash cable with the g12 ?
 i live in the caribbean and the cost of these items start at 50 % more than the us .
 i thought i was making agood choice by going with vivitar .
 the nissin and sigma flashes have too many reports of failure for my comfort .

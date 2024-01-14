@@ -1,4 +1,0 @@
-t-mobile removes contract info from myt-mobile ! .
-important news , t-mobile has recently removed the contract end date info from being available via myt-mobile .
-anyone know why ?
-it seems t-mobile wants to make this info very hard to access whereas every carrier prominently displays it online .

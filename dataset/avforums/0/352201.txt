@@ -1,4 +1,0 @@
-pioneer krp500p .
-i 've bought a new krp500p panel without the mediabox krp m01 .
-is there a possibility to use the panel without the mediabox ?
-it has only one displayport and i want to use a setupbox with hdmi .

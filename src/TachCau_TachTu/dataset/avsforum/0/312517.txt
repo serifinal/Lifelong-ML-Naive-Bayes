@@ -1,10 +1,10 @@
-help with onkyo ht-r550 and ps3 setup .
-i have a sharp 42d64u , an onkyo ht-r550 , ps3 and comcast cable box .
+help with onkyo ht - r550 and ps3 setup .
+i have a sharp 42d64u , an onkyo ht - r550 , ps3 and comcast cable box .
 i 'm new to this stuff so i apologize if the questions sound off the wall .
 my problem is i had a ps2 hooked up to my system and everything worked fine including the surround sound .
 the comcast box was connected to the 550 by hdmi and the receiver was also connected to the tv hdmi .
-the ps2 was connected with composite cables , -lrb- audio to the receiver and video to the tv -rrb- .
-i bought a ps3 and my future son-in-law connected the ps3 to my receiver using hdmi .
+the ps2 was connected with composite cables , ( audio to the receiver and video to the tv ) .
+i bought a ps3 and my future son - in - law connected the ps3 to my receiver using hdmi .
 the surround sound with the ps3 for both movies and games works just fine .
 the problem is that the surround sound does not work when i watch tv like it did before the hdmi cable was hooked up .
 is there a connection there ?

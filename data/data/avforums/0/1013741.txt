@@ -1,8 +1,0 @@
-<Thread>
-	<Post id="0" class="0">
-		<Title>Budget 51" screen</Title>
-		<Username>deblee</Username>
-		<Datetime>23-11-2011, 2:39 PM</Datetime>
-		<Content>Okay so the 46" ST30 is probably going back (fan noise & also black level isn't what I wanted) but cannot find a decent alternative in the same/similar price range with the specs etc So I was thinking of going for a budget model instead Seen this Samsung PS51D495 | 51 inch 3D Plasma TV HD Ready Freeview HD | Richer Sounds just wondering if anyone has one, know anything about it? Its only HD ready but I sit about 10 feet away and after having 3d I really want this sort of size screen (46" to 51") Similar models in the US get good reviews but I'm hesitant after reading reviews cos the ST30 was not at all what I expected after reading them Not one mentions fan noise</Content>
-	</Post>
-</Thread>

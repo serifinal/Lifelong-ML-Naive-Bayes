@@ -1,10 +1,10 @@
-tx-p42s30b - xbox 360 hdmi reference levels .
+tx - p42s30b - xbox 360 hdmi reference levels .
 really struggling to setup my 360 on this set .
-on my old pz80 i had it on cinema mode and left it on that for tv , blu ray and my consoles and was happy with all of them but with this new set -lrb- and it 's darker picture -rrb- i ca n't get the 360 how i 'd like .
+on my old pz80 i had it on cinema mode and left it on that for tv , blu ray and my consoles and was happy with all of them but with this new set ( and it 's darker picture ) i ca n't get the 360 how i 'd like .
 it was initially set on expanded for the reference level setting and had looked ok .
 but with this new set it is way too dark and blacks are crushed really badly .
 but with reference set to standard , everything looks washed out .
-i have no idea what rgb , ycbcr709 etc do in the other options -lrb- never needed to touch them with my old set -rrb- has anyone got this all set correctly and can explain what everything does , and what it should be ?
+i have no idea what rgb , ycbcr709 etc do in the other options ( never needed to touch them with my old set ) has anyone got this all set correctly and can explain what everything does , and what it should be ?
 thanks .
 edit : also , what does the dvi setting on the tv do ?
 it says it can be set to normal or full - with barely any explanation at all in the manual as to what it affects .

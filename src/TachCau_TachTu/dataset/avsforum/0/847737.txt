@@ -1,7 +1,7 @@
 cablevision stb turns itself off at night .
 every few nights , after midnight , my scientific atlanta 4250hd does a firmware upgrade , then powers down .
 of course , this renders the ir blaster inputs from my two replaytv 5040s useless , and they record black screens for a couple of hours .
-the word `` bypass '' appears on the led display of the sa4250 .
+the word " bypass " appears on the led display of the sa4250 .
 the volume also goes to half volume .
 very irritating .
 i called customer support at cablevision , and they did n't have any fixes in mind .

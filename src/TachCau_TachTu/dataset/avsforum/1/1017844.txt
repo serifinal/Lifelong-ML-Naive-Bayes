@@ -1,4 +1,4 @@
 audyssey multi eq + dynamic eq vs. multi eq xt .
 i 'm looking at 2 receivers with different audyssey features .
-1 -rrb- multi eq + dynamic eq 2 -rrb- multi eq xt would you sacrifice the higher resolution equalization filters and 2 extra room position measurements in the xt version to get dynamic eq ?
+1 ) multi eq + dynamic eq 2 ) multi eq xt would you sacrifice the higher resolution equalization filters and 2 extra room position measurements in the xt version to get dynamic eq ?
 looking forward to hearing your opinions !

@@ -1,14 +1,14 @@
-panasonic txp50-g20b network issues .
+panasonic txp50 - g20b network issues .
 hello to you all !!
 i am new to this and hopefully my question can be answered !!
-i recently purchased the txp50-g20b and was looking to get it connected to my sky router using an ethernet cable .
-i have entered the ip address , gateway etc correctly -lrb- confirmed by sky -rrb- although they told me there is no port number so i left this within the proxy settings blank .
+i recently purchased the txp50 - g20b and was looking to get it connected to my sky router using an ethernet cable .
+i have entered the ip address , gateway etc correctly ( confirmed by sky ) although they told me there is no port number so i left this within the proxy settings blank .
 when i perform the connection test , i get the successful message .
-the issue is when i select the media server option within the input selection list , it comes back with an error message saying `` server not found '' .
+the issue is when i select the media server option within the input selection list , it comes back with an error message saying " server not found " .
 the only thing i may not have done is entered values in the access point settings within the network setup screen .
-this is because it is currently greyed out and simply shows '' -- '' .
-having had a look at the manual it says press wps button on access point -lrb- which i am assuming is my router -rrb- but there is no such button .
-my main aim is to watch movies on my lovefilm account -lrb- assuming it is available -rrb- however would like the network setup ... 1 .
+this is because it is currently greyed out and simply shows " --- " .
+having had a look at the manual it says press wps button on access point ( which i am assuming is my router ) but there is no such button .
+my main aim is to watch movies on my lovefilm account ( assuming it is available ) however would like the network setup ...... 1 .
 how do i get the network setup ?
 2 .
 once setup will i be able to stream movies via lovefilm ?

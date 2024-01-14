@@ -1,20 +1,20 @@
-on-going calibration for panasonic v20 .
-i am doing a calibration of my panasonic v20 -lrb- 50 '' -rrb- and would like to ask/check a few things out .
+on - going calibration for panasonic v20 .
+i am doing a calibration of my panasonic v20 ( 50 " ) and would like to ask / check a few things out .
 i 've had the tv since around september last year and pretty much set it to the thx preset and left it alone .
 i 'm using the eyeone display lt for take the measurements .
 i started out using the professional 1 setting and everything on defaults , all picture processing turned off etc. .
-i usually follow the guide listed here : greyscale & colour calibration for dummies the contrast setting for default is `` only '' giving around 30ftl .
+i usually follow the guide listed here : greyscale & colour calibration for dummies the contrast setting for default is " only " giving around 30ftl .
 going from the default setting to maximum contrast only gets me around an extra 6ftl , which seems pretty low .
-my old pioneer -lrb- an old 435xde -rrb- could get significantly more .
+my old pioneer ( an old 435xde ) could get significantly more .
 this might be perfectly normal for the panasonic range , but it did surprise me a little .
 does anyone have a good idea if this seems normal , what are they getting for their ftl reading ?
-the guide does state around 30-40ftl is what i should be looking for but nonetheless , i was surprised .
+the guide does state around 30 - 40ftl is what i should be looking for but nonetheless , i was surprised .
 i 'm guessing the maximum power draw had to be accounted for in some way , so maybe this was how they did it by limiting the contrast .
 i was aiming for 35ftl but have had to set the contrast practically near maximum to get there .
 what gamma setting are people using ?
 i have upped the gamma from 2.2 to 2.4 in the settings because the baseline profile was giving me something really low like 1.8 , which seems quite a ways out compared to the review .
 the calibrated setting now tracks much closer to 2.2 .
-however , subjectively -lrb- and post-calibration -rrb- , setting the gamma back to 2.2 produces a better image and detail in black areas -lrb- black shirts/jackets etc -rrb- without affecting the overall black level .
+however , subjectively ( and post-calibration ) , setting the gamma back to 2.2 produces a better image and detail in black areas ( black shirts / jackets etc ) without affecting the overall black level .
 floating blacks - i did n't see a single instance of this on the thx preset , but after calibration it seems to be happening with a lot of dark scenes now .
 it 's quite jarring and there 's a definite jump in brightness of the dark by a couple notches .
 has anyone got any tips for calibrating these away ?

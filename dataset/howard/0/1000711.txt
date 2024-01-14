@@ -1,2 +1,0 @@
-sync & edit contacts on pc without using outlook ? .
-is there a tool that allows me to sync a phone 's contacts to a pc and edit them on the pc without using ms outlook ?

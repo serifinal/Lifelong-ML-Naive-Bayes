@@ -1,4 +1,0 @@
-s5 is super macro exposure problem .
-when shooting in macro the exposures are fine , when i switch to super macro and lightly touch the shutter button the image on the screen turns darker resulting in an under exposed shot .
-i 've tried changing many settings with no improvement .
-any ideas ?

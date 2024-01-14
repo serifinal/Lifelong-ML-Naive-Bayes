@@ -1,8 +1,0 @@
-trying to hook direct tv h-20 to pc .
-help !!!
-i have a dell xps420 pc with a ati 650 pro tuner card and nvidia 8800 video card .
-what do i need to get or need to change to hook the receiver to the pc .
-the receiver only has hdmi or component output to output hd tv .
-i want to record hd tv from the direct tv to my pc , use the pc as a hd pvr .
-please help me figure this out .
-thanks in advance for any help ... brian

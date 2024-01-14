@@ -10,5 +10,5 @@ therefore , i am hoping that folks that use the various currently available unit
 i currently store my clips in a folder heirarcy by year and then month .
 i would like to be able to pick any folder and randomly play all the files in that folder and also any subdirectories .
 it would also be nice to be able to select files by tag and play them randomly , but this is not nearly as important .
-since the files are stored on my pc , network connectivity is desireable -lrb- wired or wireless -rrb- but not mandatory as i could use local storage if necessary .
+since the files are stored on my pc , network connectivity is desireable ( wired or wireless ) but not mandatory as i could use local storage if necessary .
 thanks for any info you are willing to share .

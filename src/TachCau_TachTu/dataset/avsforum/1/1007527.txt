@@ -1,24 +1,24 @@
 .
 ok , here 's the deal .
-basically , i am having hdcp connectivity issues with my xbox 360 , cheap-o phillips home theater in a box / upconversion dvd player system and my benq pb8240 projector .
+basically , i am having hdcp connectivity issues with my xbox 360 , cheap - o phillips home theater in a box / upconversion dvd player system and my benq pb8240 projector .
 i have purchased all of this equipment recently and i was trying it out for the first time last night .
-i currently have it connected via an hdmi to dvi-d cable , coming from the xbox 's hdmi output to the projector 's dvi-i input -lrb- duh -rrb- .
+i currently have it connected via an hdmi to dvi - d cable , coming from the xbox 's hdmi output to the projector 's dvi - i input ( duh ) .
 when i attempted to stream hd content from xbox live 's netflix service , it displayed an error message .
-it said : `` secure hdcp link not found '' .
+it said : " secure hdcp link not found " .
 so , i , tried to watch a dvd via the xbox and again it displayed the same error message .
 i have been playing games on the xbox and they have been working fine .
 next , i took the phillips system out of the box and hooked everything up .
-the hdmi-dvi cable was unplugged from the xbox and then plugged in to the hdmi output on the phillips dvd player .
-i then proceeded to turn the dvd player on and i get no picture , but i do get sound -lrb- home theater in a box system , through included speakers -rrb- .
-that 's when i thought to myself , `` hmm , this looks like an hdcp problem ! '' .
+the hdmi - dvi cable was unplugged from the xbox and then plugged in to the hdmi output on the phillips dvd player .
+i then proceeded to turn the dvd player on and i get no picture , but i do get sound ( home theater in a box system , through included speakers ) .
+that 's when i thought to myself , " hmm , this looks like an hdcp problem ! " .
 so , i connected the dvd player to the projector via a regular old rca cable and of course that worked fine .
 this is when i was sure it was an hdcp problem .
 the xbox games were playing fine but then when i tried to view video , that 's when things went funny .
 reading online , i looked around to confirm that the projector is hdcp compliant , and it appears that it is .
-so , here is some information ; - hdmi-dvi cable = directv branded no-name dvi-d to hdmi cable - projector has dvi-i and `` rgb signal input , pc/ypbpr/ycbcr '' input -lrb- which looks to be a 15 pin rgb connector -rrb- if you have the time , please review the owners manual at the following link .
+so , here is some information ; - hdmi - dvi cable = directv branded no - name dvi - d to hdmi cable - projector has dvi - i and " rgb signal input , pc / ypbpr / ycbcr " input ( which looks to be a 15 pin rgb connector ) if you have the time , please review the owners manual at the following link .
 it contains valuble connection information on pages 12 and 14 of the pdf file .
 http://www.aboutprojectors.com/pdf/b...240-manual.pdf now , i 'm thinking that the best way to go about resolving this problem would be to completely avoid it by connecting the video source via component cables .
-on the user manual , it shows that the projector originally came with a cable they are calling the `` component video cable '' .
+on the user manual , it shows that the projector originally came with a cable they are calling the " component video cable " .
 this can be seen on the bottom of page 12 of included pdf file .
 i got the projector used , and that cable was not included in my purchase .
 my question to you guys is what exactly would the technical name of this cable be , and where could i go about purchasing one ?
